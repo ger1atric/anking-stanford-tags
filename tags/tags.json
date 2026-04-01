@@ -1,12 +1,13 @@
 {
   "schema_version": 1,
   "author": "Jerry Shen",
-  "description": "Pushed all old tags to new system",
-  "created": "2026-04-01T20:47:35.838838+00:00",
-  "updated": "2026-04-01T20:47:35.838838+00:00",
+  "description": "Testing with Alaa",
+  "created": "2026-04-01T21:03:56.116979+00:00",
+  "updated": "2026-04-01T21:03:56.116979+00:00",
   "tag_prefix": "JerryShen_AnKing_Tags",
   "tag_hierarchy": [
     "JerryShen_AnKing_Tags",
+    "JerryShen_AnKing_Tags::Alaa",
     "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology",
     "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-1-Thorax",
     "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-1-Thorax::Anatomy",
@@ -269,9 +270,27 @@
     {
       "date": "2026-04-01T20:47:35.838838+00:00",
       "message": "Pushed all old tags to new system"
+    },
+    {
+      "date": "2026-04-01T21:03:56.116979+00:00",
+      "message": "Testing with Alaa"
     }
   ],
   "notes": [
+    {
+      "first_field_hash": "ceb20175ed895b90e413b74066234255e9515b9380687c7751f73c23b8b34997",
+      "first_field_text": "Apex (Supine; Bell): <div><img class=\"resizer\" style=\"width: 142px;\" src=\"University of Michigan Heart Sound and Murmur Library.jpg\"></div><br><div>Identify:</div><div>[sound:01 Apex, Normal S1 S2, Su",
+      "tags": [
+        "JerryShen_AnKing_Tags::Alaa"
+      ]
+    },
+    {
+      "first_field_hash": "01105f0504ace39997cb4a07d1c69070d84a6b8cdde81a56d27fd84487b1fdd7",
+      "first_field_text": "Apex (Supine; Bell):<div><img src=\"University of Michigan Heart Sound and Murmur Library.jpg\"></div><br><div>Identify:</div><div>[sound:02 Apex, Split S1, Supine, Bell.mp3]</div><br><div>{{c1::Split S",
+      "tags": [
+        "JerryShen_AnKing_Tags::Alaa"
+      ]
+    },
     {
       "first_field_hash": "bea62ae4d8b5da27d6b5f1d233423eeaa62ccf0de2eaa3c8aa132fc6f06ead69",
       "first_field_text": "{{c1::<b>Patau syndrome </b>(trisomy 13)}} is an autosomal <u>trisomy</u> that is associated with  <b>rocker-bottom feet</b> and  {{c2::<b>microphthalmia</b>::eyes}}",
@@ -11651,13 +11670,6 @@
       ]
     },
     {
-      "first_field_hash": "634a13ab7ec42092bb1778a7caa79573c406f8bd8aafbdfadd998c3f1e073133",
-      "first_field_text": "<div><u>ID Cranial Nerve</u>: {{c1::Trochlear (CN IV)}}</div><br><div><img src=\"4237aac824c8c940106987271e64dd36.jpg\"><br></div>",
-      "tags": [
-        "JerryShen_AnKing_Tags::Neurobiology::Exam-2::Tutorial-3-Brainstem"
-      ]
-    },
-    {
       "first_field_hash": "15a8f4fc48504c411332ae1c688fa109659b50f117a668f5ab79a72056562d55",
       "first_field_text": "<div><u>ID Cranial Nerve</u>: {{c1::Trigeminal (CN V)}}</div><br><div><img src=\"a8582dda417ee1f5a59f73bcff8a3f5b.jpg\"><br></div>",
       "tags": [
@@ -12444,27 +12456,6 @@
       ]
     },
     {
-      "first_field_hash": "9374d8f87318c19d5397acd4740217e382a29e2e3d1da8887fa62218fe0522fb",
-      "first_field_text": "<div><u>ID Structure</u>: {{c1::Medial longitudinal fasciculus (MLF)}}</div><br><div><img src=\"a61c42390991e8c45a6dab6e5b5eaf67.png\" width=\"600\"><br></div>",
-      "tags": [
-        "JerryShen_AnKing_Tags::Neurobiology::Exam-2::Tutorial-3-Brainstem"
-      ]
-    },
-    {
-      "first_field_hash": "9fa1d403be3884b7adeea4ae41183829a1dab15a4e0b0e6219579c22abd07dfa",
-      "first_field_text": "<div><u>ID Structure</u>: {{c1::Spinothalamic tract}}</div><br><div><img src=\"300cd4591e24cb52ac404a3de5e5c682.png\" width=\"600\"><br></div>",
-      "tags": [
-        "JerryShen_AnKing_Tags::Neurobiology::Exam-2::Tutorial-3-Brainstem"
-      ]
-    },
-    {
-      "first_field_hash": "ae75545748dc6234db4dbb362e076ad0cbcebbe0fd134cbeddaabe64b2d4b45f",
-      "first_field_text": "<div><u>ID Structure</u>: {{c1::Medial lemniscus}}</div><br><div><img src=\"3f4ae52740a131573d746d6b90544b2c.png\" width=\"600\"><br></div>",
-      "tags": [
-        "JerryShen_AnKing_Tags::Neurobiology::Exam-2::Tutorial-3-Brainstem"
-      ]
-    },
-    {
       "first_field_hash": "ee25243694fad318f4033fd9d87f86005b038a5f129825faf379667e3c1b3d33",
       "first_field_text": "<div>Which part of the <u>brainstem</u> contains the <b>nuclei of CN III</b> and <b>IV</b>? </div><br><div>{{c1::Midbrain}}</div>",
       "tags": [
@@ -12510,20 +12501,6 @@
     {
       "first_field_hash": "4c3337f589536b213e8ec78c6f3a7c73a9be6ff978630c08a490d8db5cfcab04",
       "first_field_text": "<div><div>Which <u>trigeminal nerve nucleus</u> receives <b>pain</b> and <b>temperature sensations</b> from CN V distributions? </div><br><div>{{c1::Spinal trigeminal nucleus}}</div></div>",
-      "tags": [
-        "JerryShen_AnKing_Tags::Neurobiology::Exam-2::Tutorial-3-Brainstem"
-      ]
-    },
-    {
-      "first_field_hash": "9fa1d403be3884b7adeea4ae41183829a1dab15a4e0b0e6219579c22abd07dfa",
-      "first_field_text": "<div><u>ID Structure</u>: {{c1::Spinothalamic tract}}</div><br><div><img src=\"20e77df817122d8a33499e5d889c5df9.png\" width=\"600\"><br></div>",
-      "tags": [
-        "JerryShen_AnKing_Tags::Neurobiology::Exam-2::Tutorial-3-Brainstem"
-      ]
-    },
-    {
-      "first_field_hash": "ae75545748dc6234db4dbb362e076ad0cbcebbe0fd134cbeddaabe64b2d4b45f",
-      "first_field_text": "<div><u>ID Structure</u>: {{c1::Medial lemniscus}}</div><br><div><img src=\"1f89322e1b9d9fd7686b71ec0f3911b8.png\" width=\"600\"><br></div>",
       "tags": [
         "JerryShen_AnKing_Tags::Neurobiology::Exam-2::Tutorial-3-Brainstem"
       ]
@@ -12609,20 +12586,6 @@
     {
       "first_field_hash": "04143a3ce0f94aeb70cf31b562a6ea408b9a3073922465babc93ba1b1f0cc820",
       "first_field_text": "<div><u>ID Nucleus</u>: {{c1::Hypoglossal nucleus</div><div> - Situated near the midline just beneath the fourth ventricle}}</div><br><div><img src=\"1d97ed6d656cbdd69eb9481b96ee98fb.png\" width=\"600\"><",
-      "tags": [
-        "JerryShen_AnKing_Tags::Neurobiology::Exam-2::Tutorial-3-Brainstem"
-      ]
-    },
-    {
-      "first_field_hash": "880dc3c3780e66835a690b27c58ee79d6e1a805de46f070c03d40de2236aed22",
-      "first_field_text": "<div><u>ID Nucleus</u>: {{c1::Spinal trigeminal nucleus}}</div><br><div><img src=\"d08bb7eef70b4893deca5de92f1c85c8.png\" width=\"600\"><br></div>",
-      "tags": [
-        "JerryShen_AnKing_Tags::Neurobiology::Exam-2::Tutorial-3-Brainstem"
-      ]
-    },
-    {
-      "first_field_hash": "ae75545748dc6234db4dbb362e076ad0cbcebbe0fd134cbeddaabe64b2d4b45f",
-      "first_field_text": "<div><u>ID Structure</u>: {{c1::Medial lemniscus}}</div><br><div><img src=\"706c70070612aa9d3cb338c4a385b811.png\" width=\"600\"><br></div>",
       "tags": [
         "JerryShen_AnKing_Tags::Neurobiology::Exam-2::Tutorial-3-Brainstem"
       ]
@@ -12724,13 +12687,6 @@
     {
       "first_field_hash": "573fb87327d33a4863bd7faa5a46ee7230e85fc5faa5b1effd9816c3df033a60",
       "first_field_text": "<div><u>ID Nucleus</u>: {{c1::Nucleus cuneatus}}</div><br><div><img src=\"8501a7102336570600410e70d3d8570a.png\" width=\"600\"><br></div>",
-      "tags": [
-        "JerryShen_AnKing_Tags::Neurobiology::Exam-2::Tutorial-3-Brainstem"
-      ]
-    },
-    {
-      "first_field_hash": "880dc3c3780e66835a690b27c58ee79d6e1a805de46f070c03d40de2236aed22",
-      "first_field_text": "<div><u>ID Nucleus</u>: {{c1::Spinal trigeminal nucleus}}</div><br><div><img src=\"c3059313223b2a4416f7d3c85726c24e.png\" width=\"600\"><br></div>",
       "tags": [
         "JerryShen_AnKing_Tags::Neurobiology::Exam-2::Tutorial-3-Brainstem"
       ]
@@ -12976,13 +12932,6 @@
     {
       "first_field_hash": "e013540e6b2cbbd32cd01162d81ebb9f8bceb5ab2d42aa76703db2492e8ef4ef",
       "first_field_text": "<div><u>ID Tract</u>: {{c1::Posterolateral tract}}</div><br><div><img src=\"66ba32ce82335760c89b0aa41a68d55b.jpg\" width=\"743\"><br></div>",
-      "tags": [
-        "JerryShen_AnKing_Tags::Neurobiology::Exam-2::Tutorial-2-Spinal-Cord"
-      ]
-    },
-    {
-      "first_field_hash": "7b1d45fa3a41f614a4e134dc415347f4b4f495d4ae9d53d574ed2de6e8165c38",
-      "first_field_text": "<div><u style=\"text-decoration: underline;\">ID Tract</u>: {{c1::Spinocerebellar tract}} </div><br><div><img src=\"47da115d961ac4d17e467285b88c2147.jpg\"><br></div>",
       "tags": [
         "JerryShen_AnKing_Tags::Neurobiology::Exam-2::Tutorial-2-Spinal-Cord"
       ]
@@ -15498,13 +15447,6 @@
       "first_field_text": "<div><u>ID Vessel</u>: {{c1::Middle cerebral artery}}</div><br><div><img src=\"88e25403b16ef3266cbd3f39209aaf8e.png\" width=\"400\"><br></div>",
       "tags": [
         "JerryShen_AnKing_Tags::Neurobiology::Exam-2::Tutorial-1-Cerebrum::Class-Content"
-      ]
-    },
-    {
-      "first_field_hash": "099d6f4aec637813f96998d2f2759f85e1b35345f749c0e9aabfab1d9dc5d493",
-      "first_field_text": "<div><u>ID Vessel</u>: {{c1::Anterior cerebral artery}}</div><br><div><img src=\"5eb0bcf298ca780c99c001e74d834b9b.png\" width=\"500\"><br></div>",
-      "tags": [
-        "JerryShen_AnKing_Tags::Neurobiology::Exam-2::Tutorial-1-Cerebrum"
       ]
     },
     {
