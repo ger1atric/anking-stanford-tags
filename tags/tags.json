@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
   "author": "Jerry",
-  "description": "more testing",
-  "created": "2026-04-01T21:31:15.934664+00:00",
-  "updated": "2026-04-01T21:31:15.934664+00:00",
+  "description": "Export Function",
+  "created": "2026-04-01T21:41:52.551262+00:00",
+  "updated": "2026-04-01T21:41:52.551262+00:00",
   "tag_prefix": "JerryShen_AnKing_Tags",
   "tag_hierarchy": [
     "JerryShen_AnKing_Tags",
@@ -284,6 +284,11 @@
       "date": "2026-04-01T21:31:15.934664+00:00",
       "message": "more testing",
       "note_count": 5286
+    },
+    {
+      "date": "2026-04-01T21:41:52.551262+00:00",
+      "message": "Export Function",
+      "note_count": 5289
     }
   ],
   "notes": [
@@ -341,6 +346,27 @@
       "first_field_text": "Apex (Left Decubitus; Bell):<div><img src=\"5ea059e6c4019fd026485b2aef1d5dd5.jpg\"></div><div><br><div>Identify:</div><div>[sound:03 Apex, S4, LLD, Bell.mp3]</div><br><div>{{c1::S4 gallop}}</div></div>",
       "tags": [
         "JerryShen_AnKing_Tags::Alaa-Testing"
+      ]
+    },
+    {
+      "first_field_hash": "81b8b0bf8dbaa18e1642658784fc6c92881aba2607cf04ece050ae2a82c6f7ad",
+      "first_field_text": "Apex (Left Decubitus; Bell):<div><img src=\"5ea059e6c4019fd026485b2aef1d5dd5.jpg\"><br></div><br><div>Identify:</div><div>[sound:05 Apex, S3, LLD, Bell.mp3]</div><br><div>{{c1::S3 gallop}}</div>",
+      "tags": [
+        "JerryShen_AnKing_Tags::Alaa-Testing::test"
+      ]
+    },
+    {
+      "first_field_hash": "9fa59695c894de45c0424a3bc0ccd6af04457c98be294d2c95d54538e5343eb2",
+      "first_field_text": "Apex (Left Decubitus; Bell):<div><img src=\"5ea059e6c4019fd026485b2aef1d5dd5.jpg\"><br></div><br><div>Identify:</div><div>[sound:10 Apex, Sys Click  Late Sys Mur, LLD, Bell.mp3]</div><br><div>{{c1::Syst",
+      "tags": [
+        "JerryShen_AnKing_Tags::Alaa-Testing::test"
+      ]
+    },
+    {
+      "first_field_hash": "a6fedb72acca62e97b6376175551495bc7310aa9619a8bb0d5b69d24aff1c10a",
+      "first_field_text": "Apex (Left Decubitus; Bell):<div><img src=\"5ea059e6c4019fd026485b2aef1d5dd5.jpg\"><br></div><br><div>Identify:</div><div>[sound:11 Apex, S4  Mid Sys Mur, LLD, Bell.mp3]</div><br><div>{{c1::S4 and mid-s",
+      "tags": [
+        "JerryShen_AnKing_Tags::Alaa-Testing::test"
       ]
     },
     {
