@@ -2,8 +2,8 @@
   "schema_version": 1,
   "author": "JerryShen",
   "description": "",
-  "created": "2026-04-02T18:15:41.455607+00:00",
-  "updated": "2026-04-02T18:15:41.455607+00:00",
+  "created": "2026-04-02T19:03:49.213069+00:00",
+  "updated": "2026-04-02T19:03:49.213069+00:00",
   "tag_prefix": "JerryShen_AnKing_Tags",
   "tag_hierarchy": [
     "JerryShen_AnKing_Tags",
@@ -254,6 +254,8 @@
     "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::01-Introduction-to-CV-Block::Class-Content",
     "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::02-Normal-Anatomy-of-the-Heart",
     "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::02-Normal-Anatomy-of-the-Heart::Class-Content",
+    "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::03-The-Cardiac-Action-Potential",
+    "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::03-The-Cardiac-Action-Potential::Class-Content",
     "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block",
     "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::01-Structure-and-Function-of-the-Lung",
     "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::01-Structure-and-Function-of-the-Lung::Class-Content",
@@ -296,7 +298,7 @@
     {
       "date": "2026-04-02T18:09:18.178309+00:00",
       "message": "cardiac anatomy tags and previous SURG203 tags updated",
-      "note_count": 8
+      "note_count": 45
     }
   ],
   "notes": [
@@ -2023,6 +2025,12 @@
       ]
     },
     {
+      "first_field_hash": "0648b056d01da9912749e716e4c205b455a9b30e478f6779923767f01471a97e",
+      "tags": [
+        "JerryShen_AnKing_Tags::Genetics::Exam-1::Transcription-&-Translation::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "a68ba3aae98e120825e1238a5f016bfb674bb5926b1ada0ea002dc7329c1420f",
       "tags": [
         "JerryShen_AnKing_Tags::Genetics::Exam-1::DNA-Replication-and-Repair::Class-Content"
@@ -2320,6 +2328,18 @@
       "first_field_hash": "12861b8b33858e64b2ab85dc883eaeb039cf172fea921f78b0105e140cfaaa90",
       "tags": [
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-1::05-Intro-to-Fungi::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "6d7ac262cdd1335f982252202a84331d730f42ce9eae182aa44d57aeead2f42c",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::03-The-Cardiac-Action-Potential::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "f78fe1f98b078cb2c4edb24dd7f58619da965eb2de1f39cf3d3cd2c50373798c",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::03-The-Cardiac-Action-Potential::Class-Content"
       ]
     },
     {
@@ -3058,9 +3078,111 @@
       ]
     },
     {
+      "first_field_hash": "b2aa8176b45671018c1a1d4a39684995b7f26d8703109fb10626a91ab513c27f",
+      "tags": [
+        "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-1-Thorax::Anatomy::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "db0196cb7fe8a30d8dd6bf47d7b6fe97df25f16a6125a41b32bab7557ed94002",
       "tags": [
         "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-1-Thorax::Anatomy::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "888054c8dd32cbd88aa2505bfbae6e0eebc829f8639287bdcc033e63afa76351",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::03-The-Cardiac-Action-Potential::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "21aa8a8dc5e02ea1966b8a9c575d59f1641acd9d705855b51a9ce52b4dbc75e0",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::03-The-Cardiac-Action-Potential::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "5093ae37749b71e1c33a5323b6d80ba260ae37f8abef8018e4cb070f7f444cb2",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::03-The-Cardiac-Action-Potential::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "9fb9c805bc09dc58e59ede6e8efb9c2db7c57b0236b589ce388db4f46da89fbe",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::03-The-Cardiac-Action-Potential::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "c94cfd45e224093cbd2bd75be1db17d21446887df56e48dc9bd6f0c1b32e5ea3",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::03-The-Cardiac-Action-Potential::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "8f0be2878f1f8394a84e3d78b282c5f773dd8fb8348600d997b0c88ffe90ceeb",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::03-The-Cardiac-Action-Potential::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "a471b813db103b92258c7fcc4f791b0bbaac6a0c360ac3da1dad08d4f21d5af0",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::03-The-Cardiac-Action-Potential::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "94b7bb37c26ab601782597454f6c5560049718228f849b668aca3bebfc4fa2aa",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::03-The-Cardiac-Action-Potential::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "fa77ec6b09ce9e56447dcd5b8b51ce25b39eeb92abf874bb07113ff969b9d133",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::03-The-Cardiac-Action-Potential::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "3fa76c01da41caa5774ef760623a197d16b85e8000a3dddc0d0f1cdcd0e4d77e",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::03-The-Cardiac-Action-Potential::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "d1be97fa3e50c27a064f3f21d6137458869837db0e13b7e3b0a0a6e228dddf4a",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::03-The-Cardiac-Action-Potential::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "486203d081e6e0d2bf7b77fa3b87070af1ab4c46114f8a442d35ed8d1556ef1d",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::03-The-Cardiac-Action-Potential::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "8e5dcada1e6a9601eee87414b2cfd1ca63c2eae2b470f1169815583d031d592b",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::03-The-Cardiac-Action-Potential::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "92b1197fd9b5775b77db43f7265d8b3ef70125da6ff09b2aebbc578b5b928c15",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::03-The-Cardiac-Action-Potential::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "cee546c16e74d63a4459849a0391b3e3aeb2ac091ebcc241b30f9fa6989eab35",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::03-The-Cardiac-Action-Potential"
+      ]
+    },
+    {
+      "first_field_hash": "05366180d749860dafeebd8765247650f10910b870e5b97c52c8b2684a963bb5",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::03-The-Cardiac-Action-Potential"
       ]
     },
     {
@@ -3073,6 +3195,30 @@
       "first_field_hash": "8a0ea890284856144da5c47cf5456f8c4f3f14976d7e43cdb7a9cbee0b7a8b91",
       "tags": [
         "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-2-Upper-Limb::Histology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "0d325aee25671be16a270465e8e3774a540a103b2caaf18f880e50762105084f",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::03-The-Cardiac-Action-Potential"
+      ]
+    },
+    {
+      "first_field_hash": "729779cf76dd042e8707c2446549692b674f89b8f9e65701ae4467463b43fcf8",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::03-The-Cardiac-Action-Potential"
+      ]
+    },
+    {
+      "first_field_hash": "9fec9c4d22368fc067c75cbc70bf1747d677d3ab38ef508568327bc4396369b0",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::03-The-Cardiac-Action-Potential::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "b1a2b2577bfa7b9da211753a861a2f6c641e56650e10063372ac3e3d92c5eb01",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::03-The-Cardiac-Action-Potential::Class-Content"
       ]
     },
     {
@@ -3157,6 +3303,18 @@
       "first_field_hash": "89762ad74702ce6e87e49e4eabdd2eb767e4f565fa67ca00ce0bafba10d29864",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::02-Pulmonary-Circulation::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "5898c261cd018d890ab7dfcd3b0ecef5dc54b422dbceaab73f1c79851b9f094c",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::03-The-Cardiac-Action-Potential"
+      ]
+    },
+    {
+      "first_field_hash": "dde6056be7ffaa09b9da835d3119b23a37e4941c7ede1076ec56652fe76ce765",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::03-The-Cardiac-Action-Potential"
       ]
     },
     {
@@ -6625,6 +6783,18 @@
       ]
     },
     {
+      "first_field_hash": "11cd4a8ba6240eab65e2c2d1da4998440a4c506bca061c32c52668c3350d1f68",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::03-The-Cardiac-Action-Potential::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "7cf42b07d82665398ecacd5fa04e4934f6151a3e8760b55b71366d163abcbecc",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::03-The-Cardiac-Action-Potential::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "511803e173e6eb694bdaaa02193795da6b22b02e3f9aa422a8b0d40e9ab4a729",
       "tags": [
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-1::03-C.diff-&-Pseudomonas"
@@ -8345,6 +8515,12 @@
       ]
     },
     {
+      "first_field_hash": "5b626566c5a172975c3c32d1ae9df8ec1ae28558aa17f306d37bcc663ddc6a8d",
+      "tags": [
+        "JerryShen_AnKing_Tags::Biochemistry::Final::02-Oxidative-Phosphorylation::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "092ef7081680f1a16eca899c739aea16d8cb29c9654c7fef1475fec15c3fef05",
       "tags": [
         "JerryShen_AnKing_Tags::Biochemistry::Final::01-Carbohydrate-Metabolism::Class-Content"
@@ -8801,6 +8977,12 @@
       "first_field_hash": "6693a601224bf0790a3b0e7325dd041772a0dd3fc7417d093e443c76afef73f5",
       "tags": [
         "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-4-Pelvis::Embryology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "3a88db7739c66222abcf206b1d07ae643de6b05b1b8f5e49f7ef988fc5c503e0",
+      "tags": [
+        "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-4-Pelvis::Embryology"
       ]
     },
     {
@@ -10868,6 +11050,12 @@
       ]
     },
     {
+      "first_field_hash": "9fa1d403be3884b7adeea4ae41183829a1dab15a4e0b0e6219579c22abd07dfa",
+      "tags": [
+        "JerryShen_AnKing_Tags::Neurobiology::Exam-2::Tutorial-3-Brainstem"
+      ]
+    },
+    {
       "first_field_hash": "79aab7ffe1becf7a12226ff6818439d07ab25b8fcd45992f0937e0a05ba98bbf",
       "tags": [
         "JerryShen_AnKing_Tags::Neurobiology::Exam-2::Tutorial-3-Brainstem"
@@ -11023,6 +11211,12 @@
     },
     {
       "first_field_hash": "573fb87327d33a4863bd7faa5a46ee7230e85fc5faa5b1effd9816c3df033a60",
+      "tags": [
+        "JerryShen_AnKing_Tags::Neurobiology::Exam-2::Tutorial-3-Brainstem"
+      ]
+    },
+    {
+      "first_field_hash": "880dc3c3780e66835a690b27c58ee79d6e1a805de46f070c03d40de2236aed22",
       "tags": [
         "JerryShen_AnKing_Tags::Neurobiology::Exam-2::Tutorial-3-Brainstem"
       ]
@@ -13330,6 +13524,12 @@
       ]
     },
     {
+      "first_field_hash": "01a7dd802e50b361c65e0117c22692aa4f64ee34890278c1bf2937a5521d5511",
+      "tags": [
+        "JerryShen_AnKing_Tags::Neurobiology::Exam-2::Tutorial-1-Cerebrum"
+      ]
+    },
+    {
       "first_field_hash": "39567b9d2af88c4620c78599540239dbf9bad4a3a9fb88d04d7cbdb412e98ff5",
       "tags": [
         "JerryShen_AnKing_Tags::Neurobiology::Exam-2::Tutorial-1-Cerebrum"
@@ -14054,6 +14254,19 @@
       "first_field_hash": "9a9137683963f210dfa8229b44babe6138d089684b148a546730826fa3d6170b",
       "tags": [
         "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-3-Abdomen::Embryology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "a8a859455b43bad829df866f666d107689870c4277d693dd688df59b36a4396a",
+      "tags": [
+        "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-3-Abdomen::Embryology",
+        "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-3-Abdomen::Embryology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "e8a24fe379931616c8e86ba78b4ceab9980adfe5101657d896e35c26a67b6f4a",
+      "tags": [
+        "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-3-Abdomen::Embryology"
       ]
     },
     {
@@ -16011,6 +16224,12 @@
       ]
     },
     {
+      "first_field_hash": "1936ce7f66806401fa97aeb406db0a04a2db39830ab4273e3708f10bbecba4a4",
+      "tags": [
+        "JerryShen_AnKing_Tags::POM-1::Final::Epidemiology::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "b317296361d1393bff14c8e0f4866d343bf45c4948eb887475cf1962e9cb7dd6",
       "tags": [
         "JerryShen_AnKing_Tags::POM-1::Final::Epidemiology::Class-Content"
@@ -16183,6 +16402,12 @@
       "first_field_hash": "6f99cdce0cfc8f1a6dcce54d56b49821b97ac226182768e35e2f30da253a7281",
       "tags": [
         "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-3-Abdomen::Anatomy::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "686eeaf787315255d8176c76a15c5253f38641845a5e12d3ec59e2035e748053",
+      "tags": [
+        "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-3-Abdomen::Embryology::Class-Content"
       ]
     },
     {
@@ -16379,9 +16604,21 @@
       ]
     },
     {
+      "first_field_hash": "d4d1bba70c7fb3ec5a688cff6c0875737f8551a72532b06d55794b182e7df188",
+      "tags": [
+        "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-3-Abdomen::Embryology::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "f1ce12be2651140905e40587ae330a3bfc7bba881558b6944a50e25980371d1e",
       "tags": [
         "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-3-Abdomen::Anatomy::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "31309c37280c6642f6e9b2c3ed4729275cee6f870d3a98ec13d92ae244ee8917",
+      "tags": [
+        "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-3-Abdomen::Anatomy"
       ]
     },
     {
@@ -16680,6 +16917,12 @@
     },
     {
       "first_field_hash": "5810e6a6f07c07ad3134d2994dbb317dbdc905df019791e7320ade69efed40c6",
+      "tags": [
+        "JerryShen_AnKing_Tags::Immunology::Final::Antigen-Presentation::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "fe51424b1f9b1daf0a17b1db6c938f1555663cd3fb5818e34de11fa4d868e682",
       "tags": [
         "JerryShen_AnKing_Tags::Immunology::Final::Antigen-Presentation::Class-Content"
       ]
@@ -19331,6 +19574,13 @@
       ]
     },
     {
+      "first_field_hash": "8559625db89a202e7de506c2046dd913bcc5a2dc6f7cefcd7d571c0a526e4e61",
+      "tags": [
+        "JerryShen_AnKing_Tags::Micro-Pharm::Exam-1::01-Intro-to-Pharmacodynamics",
+        "JerryShen_AnKing_Tags::Micro-Pharm::Exam-1::01-Intro-to-Pharmacodynamics::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "35a68ff94f869355fbfaf3a210615658a7c9e8276388cedb1ba4b95940a11447",
       "tags": [
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-1::04-Intro-to-Viruses"
@@ -19884,6 +20134,12 @@
       "first_field_hash": "6049e16d41fa420972ad8600c932f668687c971137e5806d656ade8f6c1850a2",
       "tags": [
         "JerryShen_AnKing_Tags::Cancer-Biology::Final::05-Cancer-Genes-&-Pathways"
+      ]
+    },
+    {
+      "first_field_hash": "37397fbe4ee683757d472f32fadfc0eb83e360177a4c82c79843067ebf7a7da3",
+      "tags": [
+        "JerryShen_AnKing_Tags::Cancer-Biology::Final::05-Cancer-Genes-&-Pathways::Class-Content"
       ]
     },
     {
@@ -21724,6 +21980,12 @@
       "first_field_hash": "e03e6aa7671818ab6e61155102b8bb51087e3593a9aa6231e04e786dd55bc7fe",
       "tags": [
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-1::02-S.pyogenes-&-E.coli"
+      ]
+    },
+    {
+      "first_field_hash": "26df7472dcf2085687d605459c7fa5a5462dad8a114837b87e935c69799c8ea4",
+      "tags": [
+        "JerryShen_AnKing_Tags::Micro-Pharm::Exam-1::02-S.pyogenes-&-E.coli::Class-Content"
       ]
     },
     {
@@ -29924,6 +30186,12 @@
       ]
     },
     {
+      "first_field_hash": "de96f408831b2154c1c55dcf1f5dbf5f4b4e0a508fb0a67c486024c7e8859c5c",
+      "tags": [
+        "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-6-Head-&-Neck-1::Anatomy"
+      ]
+    },
+    {
       "first_field_hash": "4ce56a2b54e161617bdef28c687a4b5ac389fde0530207afe36f2460835bab1f",
       "tags": [
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-1::02-S.pyogenes-&-E.coli",
@@ -31822,6 +32090,12 @@
       ]
     },
     {
+      "first_field_hash": "92a340700eb9d9acfce176e04db60e848b8372693c5e6682bc3a2ed1703582f0",
+      "tags": [
+        "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-5-Lower-Limb::Anatomy"
+      ]
+    },
+    {
       "first_field_hash": "cc7ad93f512e53f21dba50b69e42bae343abf38020e93969c4fb059721ff8d97",
       "tags": [
         "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-2-Upper-Limb::Anatomy::Class-Content"
@@ -32396,6 +32670,12 @@
       ]
     },
     {
+      "first_field_hash": "95d47c9f34db3fb9b41798d1dfdf93213ccafc9a8b7e02efa478210dfcde4f55",
+      "tags": [
+        "JerryShen_AnKing_Tags::POM-1::Final::Epidemiology::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "0e0169690fa3513aced6124943984a71ef41bfa51a90aea09ed7e8918636edbb",
       "tags": [
         "JerryShen_AnKing_Tags::POM-1::Final::Epidemiology"
@@ -32936,6 +33216,12 @@
       "first_field_hash": "cd1a236ed61e3414ef5d2212d5c5b2f02cc743c00baf08aa3ccde89012d33dd9",
       "tags": [
         "JerryShen_AnKing_Tags::Biochemistry::Final::06-Nucleic-Acid-Metabolism"
+      ]
+    },
+    {
+      "first_field_hash": "60de485885aa837656b532a621f8dd046521eb1a28a4e29553c50819fe7bda69",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::03-The-Cardiac-Action-Potential"
       ]
     },
     {
