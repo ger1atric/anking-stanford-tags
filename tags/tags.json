@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
   "author": "JerryShen",
-  "description": "",
-  "created": "2026-04-02T19:03:49.213069+00:00",
-  "updated": "2026-04-02T19:03:49.213069+00:00",
+  "description": "Cardiomyocyte Action Potential",
+  "created": "2026-04-02T19:11:49.698246+00:00",
+  "updated": "2026-04-02T19:11:49.698246+00:00",
   "tag_prefix": "JerryShen_AnKing_Tags",
   "tag_hierarchy": [
     "JerryShen_AnKing_Tags",
@@ -299,6 +299,11 @@
       "date": "2026-04-02T18:09:18.178309+00:00",
       "message": "cardiac anatomy tags and previous SURG203 tags updated",
       "note_count": 45
+    },
+    {
+      "date": "2026-04-02T19:11:49.698246+00:00",
+      "message": "Cardiomyocyte Action Potential",
+      "note_count": 3
     }
   ],
   "notes": [
@@ -3180,9 +3185,27 @@
       ]
     },
     {
+      "first_field_hash": "ccc07f9f370c6d58a03e2d1d7fe6c07ec679e02867f39492eed70eae1c6dc2a1",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::03-The-Cardiac-Action-Potential::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "a37da82dbcd29703cc0a18ebc8e39fdeb6180c00f4f6ac20fe206ce9a06863b3",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::03-The-Cardiac-Action-Potential::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "05366180d749860dafeebd8765247650f10910b870e5b97c52c8b2684a963bb5",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::03-The-Cardiac-Action-Potential"
+      ]
+    },
+    {
+      "first_field_hash": "c0f895743d349dba1be10cef381d94648856fd9aadb60f81e362c41f776d94a4",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::03-The-Cardiac-Action-Potential::Class-Content"
       ]
     },
     {
