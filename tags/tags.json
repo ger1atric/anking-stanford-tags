@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
   "author": "JerryShen",
-  "description": "cardiac anatomy tags and previous SURG203 tags updated",
-  "created": "2026-04-02T18:09:18.178309+00:00",
-  "updated": "2026-04-02T18:09:18.178309+00:00",
+  "description": "",
+  "created": "2026-04-02T18:15:41.455607+00:00",
+  "updated": "2026-04-02T18:15:41.455607+00:00",
   "tag_prefix": "JerryShen_AnKing_Tags",
   "tag_hierarchy": [
     "JerryShen_AnKing_Tags",
@@ -296,7 +296,7 @@
     {
       "date": "2026-04-02T18:09:18.178309+00:00",
       "message": "cardiac anatomy tags and previous SURG203 tags updated",
-      "note_count": 43
+      "note_count": 8
     }
   ],
   "notes": [
@@ -9074,6 +9074,12 @@
       "first_field_hash": "7b66fd172deea71092384886196a1e81123eba5dc0332078412a30c451030745",
       "tags": [
         "JerryShen_AnKing_Tags::Neurobiology::Exam-2::Tutorial-1-Cerebrum::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "1c19f3463c567d933fb92209a362fd3bdcf794996adacedd737e823baff09421",
+      "tags": [
+        "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-7-Head-&-Neck-2::Anatomy"
       ]
     },
     {
@@ -18515,6 +18521,24 @@
       ]
     },
     {
+      "first_field_hash": "aae4e630ef095ee9bd17ff3d6ab2fb575263391e3f7694511a4367e72b119ab8",
+      "tags": [
+        "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-7-Head-&-Neck-2::Embryology"
+      ]
+    },
+    {
+      "first_field_hash": "db4c9d555338bd3630d3c97d7b1d808f962690b260788b475448553c1fcbf21c",
+      "tags": [
+        "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-7-Head-&-Neck-2::Embryology"
+      ]
+    },
+    {
+      "first_field_hash": "8ffc835de963054fa749d95ab8a94894e28a3ae7c17abd758d3a852bae83c520",
+      "tags": [
+        "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-7-Head-&-Neck-2::Embryology"
+      ]
+    },
+    {
       "first_field_hash": "88c554db59713dfda2228b566d0c14d1f362474ced62244f4c360bc529e9b552",
       "tags": [
         "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-7-Head-&-Neck-2::Embryology::Class-Content"
@@ -18528,6 +18552,12 @@
     },
     {
       "first_field_hash": "18a4d0206fb9e2cc24f3019a5beaa17b13754b8d3943cbe934722dc41a753b23",
+      "tags": [
+        "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-7-Head-&-Neck-2::Embryology"
+      ]
+    },
+    {
+      "first_field_hash": "81eb1f1e672179c6cafda742715b33ed908abe12da2dbce15d1a8a84da9b1e74",
       "tags": [
         "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-7-Head-&-Neck-2::Embryology"
       ]
@@ -18551,6 +18581,18 @@
       ]
     },
     {
+      "first_field_hash": "cd5f48701086f404ddfafb9837bb3b4fce4c8ce91bda61c740bc2987a205bd06",
+      "tags": [
+        "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-7-Head-&-Neck-2::Embryology"
+      ]
+    },
+    {
+      "first_field_hash": "cc167c1b9623ef6a6d00b8f4f53a6d760e4792e838136e42253bc2ef2083b5e2",
+      "tags": [
+        "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-7-Head-&-Neck-2::Embryology"
+      ]
+    },
+    {
       "first_field_hash": "fcdc721794b735e34b47ff7afb91b95f4b46bcb353fc1cee459fdca9f057f27d",
       "tags": [
         "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-7-Head-&-Neck-2::Embryology"
@@ -18566,6 +18608,12 @@
       "first_field_hash": "0a8dd79eb24bb52ffc5e1726c29ca4d8aeaf6ce3d8399951d447174ec1b59823",
       "tags": [
         "JerryShen_AnKing_Tags::Genetics::Exam-2::08.2-Dysmorphology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "0d7bd9d468561edad11bc138264c72da4c4c7853cd5506ee234420654676d982",
+      "tags": [
+        "JerryShen_AnKing_Tags::Genetics::Exam-2::08.2-Dysmorphology"
       ]
     },
     {
