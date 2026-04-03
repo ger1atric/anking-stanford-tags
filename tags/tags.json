@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
   "author": "JerryShen",
-  "description": "Cardiomyocyte Action Potential",
-  "created": "2026-04-02T19:11:49.698246+00:00",
-  "updated": "2026-04-02T19:11:49.698246+00:00",
+  "description": "Pacemaker potential",
+  "created": "2026-04-03T16:59:07.386249+00:00",
+  "updated": "2026-04-03T16:59:07.386249+00:00",
   "tag_prefix": "JerryShen_AnKing_Tags",
   "tag_hierarchy": [
     "JerryShen_AnKing_Tags",
@@ -256,6 +256,8 @@
     "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::02-Normal-Anatomy-of-the-Heart::Class-Content",
     "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::03-The-Cardiac-Action-Potential",
     "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::03-The-Cardiac-Action-Potential::Class-Content",
+    "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::04-Pacemaker-Potential",
+    "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::04-Pacemaker-Potential::Class-Content",
     "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block",
     "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::01-Structure-and-Function-of-the-Lung",
     "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::01-Structure-and-Function-of-the-Lung::Class-Content",
@@ -304,6 +306,11 @@
       "date": "2026-04-02T19:11:49.698246+00:00",
       "message": "Cardiomyocyte Action Potential",
       "note_count": 3
+    },
+    {
+      "date": "2026-04-03T16:59:07.386249+00:00",
+      "message": "Pacemaker potential",
+      "note_count": 47
     }
   ],
   "notes": [
@@ -711,6 +718,12 @@
     },
     {
       "first_field_hash": "43d24237ae0c357c9164e5904cbc999ebe267cd7da8f05bdf58941d8ee83d0a8",
+      "tags": [
+        "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-4-Pelvis::Histology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "965ba61bee47d4d10add380c3307e29ef1db971059f002471c9eafcb07d54937",
       "tags": [
         "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-4-Pelvis::Histology::Class-Content"
       ]
@@ -3089,6 +3102,12 @@
       ]
     },
     {
+      "first_field_hash": "4b4bf8d281ce2218f58a7bd6b9ab85610afde74c22fb334eff884cd00e660afd",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::04-Pacemaker-Potential::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "db0196cb7fe8a30d8dd6bf47d7b6fe97df25f16a6125a41b32bab7557ed94002",
       "tags": [
         "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-1-Thorax::Anatomy::Class-Content"
@@ -3173,9 +3192,76 @@
       ]
     },
     {
+      "first_field_hash": "cb069b2e630e4376faef016371788b3f87b1fdc42b4d6cc9b35ab6aa43f1e2e0",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::04-Pacemaker-Potential::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "92b1197fd9b5775b77db43f7265d8b3ef70125da6ff09b2aebbc578b5b928c15",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::03-The-Cardiac-Action-Potential::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::03-The-Cardiac-Action-Potential::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::04-Pacemaker-Potential::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "54e3aa19a86fa2df704f2a7a0693b265a7411332c69027c9eb2e65556444da9b",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::04-Pacemaker-Potential::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "04b62732a6986a7a3abc49456b24d94950396927e700d9704227299931d0b3c9",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::04-Pacemaker-Potential::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "271b6345b06a72e80e625c4bbfbaea65af1b835edfeeaa5c6732a4df436f5452",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::04-Pacemaker-Potential::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "0216e549cd55624cfb030c5cc447a150e2ebe99d1c98d3b498aee82e6d80f9c6",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::04-Pacemaker-Potential::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "70e33bc5ae1392d89a31ccef3ac55e4ae1a355070ac08b140d15a515ad276ca6",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::04-Pacemaker-Potential::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "e2336114b2fbafeb14014669a9c77a0b24f0572aa63fdfd80748b1b2879e7566",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::04-Pacemaker-Potential::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "2d8861b89b7d9a87f39c4b8d755813289621db36037e4337f28e03442fde711b",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::04-Pacemaker-Potential::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "2974b521fa675906fb58fdfee640f3976e93d5780071ee77f5756c40ba6114b3",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::04-Pacemaker-Potential::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "6cff1e4fc8291392fcf5240defeded11cd0c9a20b64965d864335a6401c62faa",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::04-Pacemaker-Potential::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "80b7c6fbf428eec8b8d0efcf6e326fbefe5273a3c25aa1042a7e9e2616f5272f",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::04-Pacemaker-Potential"
       ]
     },
     {
@@ -3206,6 +3292,48 @@
       "first_field_hash": "c0f895743d349dba1be10cef381d94648856fd9aadb60f81e362c41f776d94a4",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::03-The-Cardiac-Action-Potential::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "c03897cdfaf4b035d59be0271333e91dee17c99ddf81d10ab28a0079fd9c23c7",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::04-Pacemaker-Potential"
+      ]
+    },
+    {
+      "first_field_hash": "759a85c6b1ba2792eee0c239e0b8d02a264619d312a30f7d8ef6aa1e0536ec17",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::04-Pacemaker-Potential"
+      ]
+    },
+    {
+      "first_field_hash": "8418702fbdfc5a994ab5cfa16421db87950c089a52dc02dd9a0d120f14dd50e1",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::04-Pacemaker-Potential"
+      ]
+    },
+    {
+      "first_field_hash": "46b870dbb471623a763edbac2ebf9abf1fd30f40876e91c1640cda8acda9215b",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::04-Pacemaker-Potential"
+      ]
+    },
+    {
+      "first_field_hash": "2e0f70f01ab07d15990db9a94dc9ee3bbf29bd0b332c2bf5e34f28ec5eb430c8",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::04-Pacemaker-Potential::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "2d1ea76d54f40b4064191bace27627f56f8eb9490a22f37f1d3f402851779d44",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::04-Pacemaker-Potential::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "691cb1fef88bff9332af08edbb845a2d813d5f6919fb1d3110a6bdc8ff37cb21",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::04-Pacemaker-Potential"
       ]
     },
     {
@@ -3251,6 +3379,12 @@
       ]
     },
     {
+      "first_field_hash": "1952991a1ee49666df4dbf721b8ffb6a547be6fed21073d88a6fa354ecb005fc",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::04-Pacemaker-Potential"
+      ]
+    },
+    {
       "first_field_hash": "a8926d5f5493368a7e95894c0b1d5cd52895e2121ed29291323fc11aebc56aea",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::04-O2-and-CO2-Transport::Class-Content"
@@ -3290,6 +3424,12 @@
       "first_field_hash": "b44003c05058466be499f76d47c18d603eb3ad75e1c91409e16f40e4d6bdfef6",
       "tags": [
         "JerryShen_AnKing_Tags::Neurobiology::Exam-2::Tutorial-3-Brainstem"
+      ]
+    },
+    {
+      "first_field_hash": "1672c0d3cd971770b3f0a7366b642283a1849d28ae8c92aaa3e564f95a114da5",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::04-Pacemaker-Potential"
       ]
     },
     {
@@ -3432,9 +3572,69 @@
       ]
     },
     {
+      "first_field_hash": "d74c0be27b404b9d7b6915442796032504e127f74fc4780e9ee374e295963790",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::03-The-Cardiac-Action-Potential::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "59da659a273be6fc58c34542ea2ddccd7cf3d3f58e8a46f371ef76b971010053",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::03-The-Cardiac-Action-Potential"
+      ]
+    },
+    {
+      "first_field_hash": "4a9a24681c0a75976226008b32a1c8ffecbed712c4e1951b10ea3f878e9682f7",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::03-The-Cardiac-Action-Potential"
+      ]
+    },
+    {
       "first_field_hash": "8c49a7261234f1cb30160ed6f2d514aa1ef4bbbcd8893d0b3df190b6861a148a",
       "tags": [
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-2::09-Misc-Antimicrobials-&-Skin-Infections::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "1100191e9d014cb72c9ab3ae1ff80ae147b9460912f1620e60cd6e1adbe81341",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::03-The-Cardiac-Action-Potential"
+      ]
+    },
+    {
+      "first_field_hash": "526c09058de6378b30fa044f0738c465f2e90233263589896283fd2889b21047",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::03-The-Cardiac-Action-Potential"
+      ]
+    },
+    {
+      "first_field_hash": "a9f6dd0412a2565cea2cfbf376e432b4eac3ba1bdb36cd2e03b3f9c6fc1c3696",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::03-The-Cardiac-Action-Potential"
+      ]
+    },
+    {
+      "first_field_hash": "75ce81aec9c8e7891b5dc8b65b4c4797e892dc584c95599611defe3608cda31c",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::03-The-Cardiac-Action-Potential"
+      ]
+    },
+    {
+      "first_field_hash": "7197251dc594e542825d2570e95fcb2dd20a64b24d8eabad2746ff9c0c74181a",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::03-The-Cardiac-Action-Potential"
+      ]
+    },
+    {
+      "first_field_hash": "7d17a40572b154a643c7c7fd8e5be540c521ee57d4be152dbc5246f15a166846",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::03-The-Cardiac-Action-Potential"
+      ]
+    },
+    {
+      "first_field_hash": "5662418fafd65e2783f27dadf22012160e7bd830e912f1ab73ba85b2ada924c4",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::03-The-Cardiac-Action-Potential"
       ]
     },
     {
@@ -3480,6 +3680,18 @@
       ]
     },
     {
+      "first_field_hash": "d783f0018838d2d06f852034030e22a8da00acb01be165d3015f397c803c8e1f",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::03-The-Cardiac-Action-Potential::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "ded9159cd9e9f1d6633175c51ba25ae8955d319fcb55b80cd1520b543e8f4716",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::03-The-Cardiac-Action-Potential"
+      ]
+    },
+    {
       "first_field_hash": "4828575c9b32f6f8718cfe8f984b61e5a71dd4c99d2b8975f163b459927c88d8",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::01-Introduction-to-CV-Block::Class-Content"
@@ -3489,6 +3701,12 @@
       "first_field_hash": "45afbe4542b40205645863c3f2f63fd2763a1c0da10ccde6a3c4eb39a0e19d9f",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::02-Normal-Anatomy-of-the-Heart"
+      ]
+    },
+    {
+      "first_field_hash": "9cfa6b97ca14b952ada3fcedcfd96e14903693fe3380a033ea92fb9ccd105c5a",
+      "tags": [
+        "JerryShen_AnKing_Tags::Micro-Pharm::Exam-2::08-Other-Antibiotics-&-Mycobacteria::Class-Content"
       ]
     },
     {
@@ -3779,6 +3997,12 @@
       "first_field_hash": "7f36a65d7f565840c181e8fd4be2046d9b5b81deec6efbdb279dcace4fc72a9c",
       "tags": [
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-1::02-S.pyogenes-&-E.coli::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "873843696525558cae4eee13c205fe742987ff1c094fdec3ae7fd9ce5c15a0f6",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::04-Pacemaker-Potential"
       ]
     },
     {
@@ -8829,6 +9053,18 @@
       "first_field_hash": "c528f946ac6960faff79e42b4ff57c51932ebd90ca3f2c412e3db6cfcf662cbc",
       "tags": [
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-1::01-Intro-to-Pharmacodynamics"
+      ]
+    },
+    {
+      "first_field_hash": "0c37a00b9e63469e5ec1379d5d6e901328a49bcff67a63f4d44d9642a382744c",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::04-Pacemaker-Potential"
+      ]
+    },
+    {
+      "first_field_hash": "625c887b907a1df5f007b3cd4c1a27140166774a3bba8c3f6ca9b86459b83905",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::04-Pacemaker-Potential"
       ]
     },
     {
@@ -16133,6 +16369,24 @@
       ]
     },
     {
+      "first_field_hash": "683e945a4cdec57eaef74ea8ac3e69a6fed53e3e3919e7cb863219024ae0669c",
+      "tags": [
+        "JerryShen_AnKing_Tags::POM-1::Final::Epidemiology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "a0653fab68fe27691819ad447c9e5819f38b91dbf26e3b50ae1eb66c27f52112",
+      "tags": [
+        "JerryShen_AnKing_Tags::POM-1::Final::Epidemiology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "25387241ca5535075b2da38ff0c1f8061d7a29e463604528940e6acc28d9b0b8",
+      "tags": [
+        "JerryShen_AnKing_Tags::POM-1::Final::Epidemiology::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "e7693b97431eb9d7bcc3496fe6e5c59523b1d426459aac191562a7c9da971246",
       "tags": [
         "JerryShen_AnKing_Tags::POM-1::Final::Epidemiology::Class-Content"
@@ -22379,6 +22633,24 @@
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-1::04-Intro-to-Viruses",
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-1::04-Intro-to-Viruses::Class-Content",
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-2::06-Antivirals::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "05a76c56d45ac8e01f13306084e18286290fe943a16f0362c663da565f295a46",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::04-Pacemaker-Potential"
+      ]
+    },
+    {
+      "first_field_hash": "4767ff4a8895035e66a558dcd05970f8adf665f5c152ae68253cd60373596ec8",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::04-Pacemaker-Potential::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "3ffa0b808fe263138396f575d93a03d7380734120b88525b1e8d8658444043f8",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::04-Pacemaker-Potential"
       ]
     },
     {
@@ -30904,6 +31176,12 @@
       ]
     },
     {
+      "first_field_hash": "c792e460859863430fbb5ca94aa3f0ac44aea825d07fe1a5f2f5e80d0edbab33",
+      "tags": [
+        "JerryShen_AnKing_Tags::Micro-Pharm::Exam-1::04-Intro-to-Viruses::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "c9a8a4f112a02277f473cc0a52ee321c4b29ab172ae6d8a1f042552ae3fbf40a",
       "tags": [
         "JerryShen_AnKing_Tags::Neurobiology::Exam-3::Lec-Split-Brain::Class-Content"
@@ -31968,6 +32246,12 @@
       "first_field_hash": "07a4a9f0a78c565355909a0c2dcbb0ff01aa68cbafe6a2362280114b9149cfd9",
       "tags": [
         "JerryShen_AnKing_Tags::Neurobiology::Exam-2::Tutorial-2-Spinal-Cord"
+      ]
+    },
+    {
+      "first_field_hash": "0a75a313633aab3fc31464d91a1f72527efadd43ed7d837fdc97e67f99acade0",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::04-Pacemaker-Potential::Class-Content"
       ]
     },
     {
