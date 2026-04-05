@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
   "author": "JerryShen",
-  "description": "Pacemaker potential",
-  "created": "2026-04-03T16:59:07.386249+00:00",
-  "updated": "2026-04-03T16:59:07.386249+00:00",
+  "description": "",
+  "created": "2026-04-05T07:34:46.824274+00:00",
+  "updated": "2026-04-05T07:34:46.824274+00:00",
   "tag_prefix": "JerryShen_AnKing_Tags",
   "tag_hierarchy": [
     "JerryShen_AnKing_Tags",
@@ -258,6 +258,10 @@
     "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::03-The-Cardiac-Action-Potential::Class-Content",
     "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::04-Pacemaker-Potential",
     "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::04-Pacemaker-Potential::Class-Content",
+    "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::04-The-Normal-ECG",
+    "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::04-The-Normal-ECG::Class-Content",
+    "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::06-Hypertrophy-and-Bundle-Branch-Block",
+    "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::06-Hypertrophy-and-Bundle-Branch-Block::Class-Content",
     "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block",
     "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::01-Structure-and-Function-of-the-Lung",
     "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::01-Structure-and-Function-of-the-Lung::Class-Content",
@@ -310,7 +314,7 @@
     {
       "date": "2026-04-03T16:59:07.386249+00:00",
       "message": "Pacemaker potential",
-      "note_count": 47
+      "note_count": 44
     }
   ],
   "notes": [
@@ -3102,6 +3106,12 @@
       ]
     },
     {
+      "first_field_hash": "2a6db35763dfa2256233248bd6b02730158ef5fa4c05247d5a18fe894867a615",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::04-Pacemaker-Potential::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "4b4bf8d281ce2218f58a7bd6b9ab85610afde74c22fb334eff884cd00e660afd",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::04-Pacemaker-Potential::Class-Content"
@@ -3110,7 +3120,9 @@
     {
       "first_field_hash": "db0196cb7fe8a30d8dd6bf47d7b6fe97df25f16a6125a41b32bab7557ed94002",
       "tags": [
-        "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-1-Thorax::Anatomy::Class-Content"
+        "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-1-Thorax::Anatomy::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::04-Pacemaker-Potential",
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::04-Pacemaker-Potential::Class-Content"
       ]
     },
     {
@@ -3265,6 +3277,18 @@
       ]
     },
     {
+      "first_field_hash": "6cb4fa64df8d030b923e97beb68e152b2e3576fceca5065bf5b07d9d9dfef650",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::04-Pacemaker-Potential::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "908109c9b5b2792e093948036d310dea990acc49179c2a7e23b4feafda99492c",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::04-Pacemaker-Potential"
+      ]
+    },
+    {
       "first_field_hash": "cee546c16e74d63a4459849a0391b3e3aeb2ac091ebcc241b30f9fa6989eab35",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::03-The-Cardiac-Action-Potential"
@@ -3325,9 +3349,72 @@
       ]
     },
     {
+      "first_field_hash": "8ad9943335ba292e10893460744377f5569e951e97a232b105bf859009870cc0",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::04-The-Normal-ECG"
+      ]
+    },
+    {
+      "first_field_hash": "e1a89a2d765917536573bfbbf7aad49930c5b8baac30e814c76639a8f9fe785d",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::04-The-Normal-ECG"
+      ]
+    },
+    {
+      "first_field_hash": "effcebd3fb98a80ba651dc55fa024a2167685cb855ccd49d4bdf883b93160287",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::04-Pacemaker-Potential",
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::04-The-Normal-ECG::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "9d1854286d403915fcfa9e95ee464a19a78ac9799d7ccba91cbcd04996167979",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::04-Pacemaker-Potential",
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::04-The-Normal-ECG::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "2d1ea76d54f40b4064191bace27627f56f8eb9490a22f37f1d3f402851779d44",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::04-Pacemaker-Potential::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::04-Pacemaker-Potential::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::04-The-Normal-ECG::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "58180f60c99cd47bcd74c8af07550ea7f9c727929a3cb8398346e73e975116cb",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::04-Pacemaker-Potential",
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::04-Pacemaker-Potential::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::04-The-Normal-ECG::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "a5adf0fbaffea2c1dd3b9273d5749ed566678a25acfe87add5518579d487d5f8",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::06-Hypertrophy-and-Bundle-Branch-Block::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "bc9b5350a06a0a0d3ee61dcf4ff023f5fa106a85236f55ac52e87851ce00d332",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::04-Pacemaker-Potential",
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::04-Pacemaker-Potential::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::04-The-Normal-ECG::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "52e48b0fed950e4d442c4e57ed5f7b4011b8b6c5efaa7227e689fee81ee11302",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::04-Pacemaker-Potential",
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::04-Pacemaker-Potential::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::04-The-Normal-ECG::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "dc36c1fe3529f84d3a2ac099f62a5fe1d22517630b30f7812bc0554f6b162b0f",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::06-Hypertrophy-and-Bundle-Branch-Block::Class-Content"
       ]
     },
     {
@@ -3337,9 +3424,21 @@
       ]
     },
     {
+      "first_field_hash": "002084a100d5ee7caa9744893aedc7947c14c1c16acdc00d5271ef1d16a4ebec",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::04-Pacemaker-Potential::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "359dfaf7e538e19911abb9021a826452415f6f4b0e9820b9247fa043d16bce4d",
       "tags": [
         "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-1-Thorax::Anatomy::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "5eb734b8d38aea675486f5d113963c6eb468f8dc6c79eb5558fe474cbbd74b28",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::04-Pacemaker-Potential::Class-Content"
       ]
     },
     {
@@ -3400,6 +3499,12 @@
       "first_field_hash": "8ca9f604b13a283f355ee50f5d9997c5d03b9b9e793245f7d911036f14f00193",
       "tags": [
         "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-1-Thorax::Anatomy::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "028a11b139e785a522665913d5c7eeaee70587c999e754cfeb799778ca1b3f71",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::04-Pacemaker-Potential"
       ]
     },
     {
@@ -3530,9 +3635,27 @@
       ]
     },
     {
+      "first_field_hash": "f3373dd05a39cfb0d896aaa1dbf1287561aad514cf073f80da062b8cb40680bf",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::06-Hypertrophy-and-Bundle-Branch-Block"
+      ]
+    },
+    {
       "first_field_hash": "c3a52b762c5138d259241dcad307b3c3018b7d4bc6cc97ed12eff97a8a95576e",
       "tags": [
         "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-1-Thorax::Anatomy"
+      ]
+    },
+    {
+      "first_field_hash": "c2ccc204db458845cbf9cec32b16801fa59bf7c4509d33dde188cef6d3b848a1",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::06-Hypertrophy-and-Bundle-Branch-Block"
+      ]
+    },
+    {
+      "first_field_hash": "5fb360048eb340a9e5718be5713aafc92715709ecc4f485fa07c655ac5455a2c",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::06-Hypertrophy-and-Bundle-Branch-Block"
       ]
     },
     {
@@ -3680,6 +3803,12 @@
       ]
     },
     {
+      "first_field_hash": "a1a468ac570029d9fc671607ca6222c8c1a209c6f8214e4cc5edf4f95f7f6eec",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::04-Pacemaker-Potential"
+      ]
+    },
+    {
       "first_field_hash": "d783f0018838d2d06f852034030e22a8da00acb01be165d3015f397c803c8e1f",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::03-The-Cardiac-Action-Potential::Class-Content"
@@ -3698,9 +3827,27 @@
       ]
     },
     {
+      "first_field_hash": "501fea3010660e1c6a13ca6575a8c332a000f48704af6ae970b1e6327b98f61c",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::04-Pacemaker-Potential"
+      ]
+    },
+    {
+      "first_field_hash": "951e00d43c4c7fb76dcf63524cc2dcdf7e5b4fb841b32d791e30390d6ba8eafb",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::04-The-Normal-ECG"
+      ]
+    },
+    {
       "first_field_hash": "45afbe4542b40205645863c3f2f63fd2763a1c0da10ccde6a3c4eb39a0e19d9f",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::02-Normal-Anatomy-of-the-Heart"
+      ]
+    },
+    {
+      "first_field_hash": "16211991e820ab06e66490fe7d47e4efa79861e1ae05220f8f605f2cc08e00ea",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::06-Hypertrophy-and-Bundle-Branch-Block::Class-Content"
       ]
     },
     {
@@ -4362,6 +4509,12 @@
       "first_field_hash": "1081c6aed7ad84f82449b3669f6f9da8becb98f1f25b85c8ba11466d03012e28",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::05-Ventilation-Perfusion-Relationships"
+      ]
+    },
+    {
+      "first_field_hash": "b0ba075393a78f5f621271e8cdccfd4e0ac25f39f77b7398c38ae043330fbcf9",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::05-Ventilation-Perfusion-Relationships::Class-Content"
       ]
     },
     {
@@ -7207,6 +7360,12 @@
       "first_field_hash": "3787d1ef20eff99d410dc4730df89a014315291b456ab61d13a09ca962cbc3d3",
       "tags": [
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-2::07-β-Lactam-Antibiotics-&-Parasites::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "60ed6a31b22b159584f86477fd0f9fa456bc34837a54ae81d2a58ed0d7d4e38b",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::06-Hypertrophy-and-Bundle-Branch-Block::Class-Content"
       ]
     },
     {
@@ -20139,6 +20298,18 @@
       ]
     },
     {
+      "first_field_hash": "c4d9718c5775d05066c482b075ed02ead1cdcffb1a87f6e34420643a2952eb4a",
+      "tags": [
+        "JerryShen_AnKing_Tags::POM-1::Final::Epidemiology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "624c81d39d2f032e67dca7f885eccf1503cd061bf4d9ab9730be10da41591b21",
+      "tags": [
+        "JerryShen_AnKing_Tags::POM-1::Final::Epidemiology::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "8e68017259f21bcf09a25c8947476ed4dadeee8440755cd166b1fb392de59fd9",
       "tags": [
         "JerryShen_AnKing_Tags::POM-1::Final::Epidemiology::Class-Content"
@@ -20602,6 +20773,12 @@
     },
     {
       "first_field_hash": "2d4a0790ae1477685098de9bfcec8878a5a7550f0180d82a4cadc521b6c9fd84",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::05-Ventilation-Perfusion-Relationships"
+      ]
+    },
+    {
+      "first_field_hash": "63df421b0efd8503cc49478ba84978f3e2f16cd05a606c93eb9fe334a9b168dc",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::05-Ventilation-Perfusion-Relationships"
       ]
@@ -32249,9 +32426,82 @@
       ]
     },
     {
+      "first_field_hash": "cd8e0010558ddcc55ee39a2a35b6e12ec78c25efdaabe4681c6d84ba047ae9aa",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::06-Hypertrophy-and-Bundle-Branch-Block::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "5e9beb1cd5ce9fc390b12d7c7491e81e24399d2ffc19d244a455e27afb061668",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::04-The-Normal-ECG::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "3d01bbf6a0c3c94b10dde5a0d6291c06a4b890cedce6ce4f4d35447a1fd46121",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::04-The-Normal-ECG::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "3dd44a8c2f655b2394a14648802da104984c27f1dffcd814c2c85ffc689f498d",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::04-The-Normal-ECG::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "75aad3b5d283355eecb08cb806a038b042a0dafbdd50e57788f28e9a4f97c9ff",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::06-Hypertrophy-and-Bundle-Branch-Block::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "1dc20eaee54cb992f72ae65bebafa8152871dfd9cbdba926ca2729de9cbb6129",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::06-Hypertrophy-and-Bundle-Branch-Block::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "0a75a313633aab3fc31464d91a1f72527efadd43ed7d837fdc97e67f99acade0",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::04-Pacemaker-Potential::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::04-Pacemaker-Potential::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::04-The-Normal-ECG::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "41b438a70f933d4fbb4cebfc4efd8e1c804047b0234d11d8a08e0fc2c116fe99",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::04-The-Normal-ECG::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "b77da9a9d264f2e9334040467ef6a8e996a0260f68b8c443c6d4bcdee0c2f415",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::04-The-Normal-ECG"
+      ]
+    },
+    {
+      "first_field_hash": "b6e8b703ab38d7c950c8b52d1f10a447de69f928f4764b2e5420f135ea99e581",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::06-Hypertrophy-and-Bundle-Branch-Block::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "b6222e0b1037fefd6c12bb352c31a9977f27dac0c9538642364c6b1a7a171dce",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::06-Hypertrophy-and-Bundle-Branch-Block::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "44557b4c217d4f975dd7100407a5dfe8b8eb64a0917b1867c4e4472f21690bf2",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::06-Hypertrophy-and-Bundle-Branch-Block"
+      ]
+    },
+    {
+      "first_field_hash": "bc2fc8126b4025c4fa463269dedde2fad6d09e606c3598e3622daece8d2919ab",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::06-Hypertrophy-and-Bundle-Branch-Block::Class-Content"
       ]
     },
     {
@@ -32883,6 +33133,18 @@
       "first_field_hash": "d8078dc4e90c7f102129176957d0e98818c9b08ec357eb3b209e3db2960c622c",
       "tags": [
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-1::04-Intro-to-Viruses::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "9add1452f2e17413b0e61d732a5c895cd0a0f0b219a94dd0a487124c1bad90b5",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::06-Hypertrophy-and-Bundle-Branch-Block"
+      ]
+    },
+    {
+      "first_field_hash": "d3111168ef564cea579b2b7bb9ce6febde29b1d3bedc6e3245c1f4ed89892527",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::06-Hypertrophy-and-Bundle-Branch-Block::Class-Content"
       ]
     },
     {
