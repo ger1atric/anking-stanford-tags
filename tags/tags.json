@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
   "author": "JerryShen",
-  "description": "Some lung lectures, not up to date on Monday lectures",
-  "created": "2026-04-07T16:59:13.703977+00:00",
-  "updated": "2026-04-07T16:59:13.703977+00:00",
+  "description": "Asthma and Emphysema",
+  "created": "2026-04-07T18:08:27.808268+00:00",
+  "updated": "2026-04-07T18:08:27.808268+00:00",
   "tag_prefix": "JerryShen_AnKing_Tags",
   "tag_hierarchy": [
     "JerryShen_AnKing_Tags",
@@ -280,7 +280,9 @@
     "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::08-Pulmonary-Mechanics",
     "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::08-Pulmonary-Mechanics::Class-Content",
     "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::11-Control-of-Ventilation",
-    "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::11-Control-of-Ventilation::Class-Content"
+    "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::11-Control-of-Ventilation::Class-Content",
+    "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::12-Pathology-of-Asthma-and-COPD",
+    "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::12-Pathology-of-Asthma-and-COPD::Class-Content"
   ],
   "changelog": [
     {
@@ -324,6 +326,11 @@
       "date": "2026-04-07T16:59:13.703977+00:00",
       "message": "Some lung lectures, not up to date on Monday lectures",
       "note_count": 59
+    },
+    {
+      "date": "2026-04-07T18:08:27.808268+00:00",
+      "message": "Asthma and Emphysema",
+      "note_count": 53
     }
   ],
   "notes": [
@@ -2398,9 +2405,21 @@
       ]
     },
     {
+      "first_field_hash": "836c40878f1afc1d5652de76dae4a59a6cee5063f9bff4fcf59f79cd1036d1f8",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::12-Pathology-of-Asthma-and-COPD"
+      ]
+    },
+    {
       "first_field_hash": "35e4e23260e5b52608a102f15a0282481ed64c0ec50b6462cd3d6715a6e12035",
       "tags": [
         "JerryShen_AnKing_Tags::Genetics::Exam-2::08.2-Dysmorphology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "ecbb79dde19035441f8161f533e2355ba3b610a3c1e12d4c6e0c9f4cf34017cf",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::12-Pathology-of-Asthma-and-COPD"
       ]
     },
     {
@@ -4772,6 +4791,18 @@
       ]
     },
     {
+      "first_field_hash": "4988d01dda5ae8fb8143f2a74f6709c2e2b645af75a7870d965dd513921f3911",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::12-Pathology-of-Asthma-and-COPD"
+      ]
+    },
+    {
+      "first_field_hash": "a13b4560238de37f7fdaa1c84504853b34ee8394a7181bd0982ee573ad8bb32f",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::12-Pathology-of-Asthma-and-COPD::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "9622f52886c4a0412fc222a3ad02b84abd9f79d050d3238d4ed87a50f9d224fa",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::08-Pulmonary-Mechanics::Class-Content"
@@ -4872,6 +4903,12 @@
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::02-Pulmonary-Circulation",
         "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::02-Pulmonary-Circulation::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::08-Pulmonary-Mechanics::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "036d856339fd2c10b86eee9642a81d187e42c6ffd1189188122a8f7122b8a4cf",
+      "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::08-Pulmonary-Mechanics::Class-Content"
       ]
     },
@@ -5569,6 +5606,18 @@
       ]
     },
     {
+      "first_field_hash": "b3118e3a29446dadf14dd8d95bcc99173d12d47b984a40dc8f56e277daebbade",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::11-Control-of-Ventilation"
+      ]
+    },
+    {
+      "first_field_hash": "aec42eeb307a8b48562ab9356b189e4a39fd8055fb292bd7ba784776e57cf724",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::11-Control-of-Ventilation"
+      ]
+    },
+    {
       "first_field_hash": "00e11aefedd8d10318bb3795321ecba8d22d8e7a522df2e95726c321595cf2b6",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::11-Control-of-Ventilation::Class-Content"
@@ -5641,6 +5690,42 @@
       ]
     },
     {
+      "first_field_hash": "bb01f2f5f77d3d5ecc205356e468c84ab802eeb6653199ccd0b8734fad8a409d",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::11-Control-of-Ventilation::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "ec52e53ff483db6698e16ccee17c93120021fe39743a306a00fea227fff80130",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::11-Control-of-Ventilation::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "91a08b84ee97255565c3b2244f3bff9b41c4b466c521779dbf3a17069103cd49",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::11-Control-of-Ventilation::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "27ce50c1c2a6882306197c0eda604e2112b7c26c984bb287115873c5cc6e5eab",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::11-Control-of-Ventilation::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "6039c011c8ddfea77bc7747a79800385bf63a68ecf1152fa9290bff3308e1765",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::11-Control-of-Ventilation::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "9ead856a7c339362d9c07e739eb15479abd60c04d9db50499597f2e5aee1fe0d",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::11-Control-of-Ventilation::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "0c0a3c32e423193010e7dd9808d1d0a1a27af8f5da3fc0637856133f589c43b5",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::05-Ventilation-Perfusion-Relationships",
@@ -5654,9 +5739,17 @@
       ]
     },
     {
+      "first_field_hash": "1d6203b918c1f36b8a2fb9d92f13c70bf51cbc8148454743623b84d4121a9186",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::11-Control-of-Ventilation::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "f728b71634efcdb4a23f4d09c65d2f35640d3c6a397ed27d51df7446857bceb6",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::03-Ventilation-and-Diffusion"
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::03-Ventilation-and-Diffusion",
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::03-Ventilation-and-Diffusion::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::11-Control-of-Ventilation::Class-Content"
       ]
     },
     {
@@ -5856,9 +5949,33 @@
       ]
     },
     {
+      "first_field_hash": "8d262aae864a0aba58cd9072efef18a0ee56c47f0b59a1dc0d0e38046a48d5e7",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::12-Pathology-of-Asthma-and-COPD::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "f8175d0e8856ee69e9845378d232dc9004c2f0e4b1226fdec5f62b83712f03d0",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::12-Pathology-of-Asthma-and-COPD::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "c73f017a2b8b366f7c381e3189dd78de92e209af043361b194e27d0b19c75ff3",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::06-Intro-to-Lung-Histology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "21429c7ad0a3f4a0318fa759f1e2207c43076d9a9401403af34a24bb0a9f1528",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::12-Pathology-of-Asthma-and-COPD::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "fc35542b76d6b4552d63bb34ab7cc04a9cecaf8a09cb8d14269b1acc35010976",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::12-Pathology-of-Asthma-and-COPD"
       ]
     },
     {
@@ -5874,9 +5991,27 @@
       ]
     },
     {
+      "first_field_hash": "719e7e470d1b472c96023ed2796eed70ff5fa4c6badb82cb9d3281785f5fefe2",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::12-Pathology-of-Asthma-and-COPD::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "d2f50c5beefd04cdfb2e50005109f81575a6f6917400f53be49774c1f3d4a58f",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::06-Intro-to-Lung-Histology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "8ba12c0523f7c560107128415e86cdc7a50db48b470e78ea2a8f03c916cddc48",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::12-Pathology-of-Asthma-and-COPD"
+      ]
+    },
+    {
+      "first_field_hash": "cc5089f64644d32e78130bae984e186bfd7a5b71f767d296c7252b07f81e1eb5",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::12-Pathology-of-Asthma-and-COPD"
       ]
     },
     {
@@ -5886,9 +6021,107 @@
       ]
     },
     {
+      "first_field_hash": "8d1bb3c7d821a7885e86ca47e247813a24ce3564c9717a282ee95f0c6986788d",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::12-Pathology-of-Asthma-and-COPD"
+      ]
+    },
+    {
+      "first_field_hash": "815f82cbdd5ef0c4854ca4674f4021044dc98bf27c2eb79c8a88ca8f2cc71229",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::12-Pathology-of-Asthma-and-COPD"
+      ]
+    },
+    {
+      "first_field_hash": "44f4d0a262932113e95ff36752fba88f2e9179b65e9b2f126efb8d046a4d692a",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::12-Pathology-of-Asthma-and-COPD"
+      ]
+    },
+    {
+      "first_field_hash": "ae81190a5c6e9c4fd918deb3bb167ecd27273d0ebc7b68ce61e1d90afba6b96c",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::12-Pathology-of-Asthma-and-COPD"
+      ]
+    },
+    {
+      "first_field_hash": "b03344035662db7f6e74ca6b4af318a0b2920727860b8112d406d41ff1a55c89",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::12-Pathology-of-Asthma-and-COPD",
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::12-Pathology-of-Asthma-and-COPD::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "c58be7c868933b351063e1fe89db7c4c39a32d5c9c62e65fe829552bc1da3b88",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::12-Pathology-of-Asthma-and-COPD"
+      ]
+    },
+    {
+      "first_field_hash": "71c1fc234c0182c3025afd38ce08a07d19049917b93f8bbe230b69ff3e91b909",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::12-Pathology-of-Asthma-and-COPD"
+      ]
+    },
+    {
+      "first_field_hash": "2569cb3831202ad528c1767f53b701b9015483e89e843ad07d50450187d2c57f",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::12-Pathology-of-Asthma-and-COPD"
+      ]
+    },
+    {
+      "first_field_hash": "d6b2e1cd1ed59ac6c4fe47fff750cf4aa4a7596b2d6a39994d758a24c54a8cfd",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::12-Pathology-of-Asthma-and-COPD"
+      ]
+    },
+    {
+      "first_field_hash": "368f36e5db8eeae71abecacf097c8f1eaf21c8d4d483fccc5ed296451b0f3ba9",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::12-Pathology-of-Asthma-and-COPD"
+      ]
+    },
+    {
+      "first_field_hash": "8e9e127769fe6e1ea1bc315f7300bd7bbb8400b422a1a573a8079c40fedfb033",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::12-Pathology-of-Asthma-and-COPD"
+      ]
+    },
+    {
+      "first_field_hash": "49e619638e4da3c82718e9783ac07f990c6f4aa3a29e3005814a77947a5d98aa",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::12-Pathology-of-Asthma-and-COPD"
+      ]
+    },
+    {
+      "first_field_hash": "59ab3970cfb1107922f7683b7ed8c1d4871a847fd985f38a6c32e03a0b970a36",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::12-Pathology-of-Asthma-and-COPD"
+      ]
+    },
+    {
       "first_field_hash": "557d7d2b967c4892b2a227da62824e369e667e744546a3044e19694cdd06bfcc",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::06-Intro-to-Lung-Histology::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::06-Intro-to-Lung-Histology::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::12-Pathology-of-Asthma-and-COPD::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "a1a36f1341c8969de5bfe641d0265ba156b9eb459460673870e6ca41a92d9315",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::12-Pathology-of-Asthma-and-COPD::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "0270f32976b181c5a604ef53a687ca905e65b20d4dc530e415741b11f742843a",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::12-Pathology-of-Asthma-and-COPD::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "e18d6966a40477cbdd1b88d9ac5f7b1d9a4b942a1aa7f975784721e9b4d625f7",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::12-Pathology-of-Asthma-and-COPD::Class-Content"
       ]
     },
     {
@@ -5904,6 +6137,12 @@
       ]
     },
     {
+      "first_field_hash": "d5f1a5b15d575ec37df967743c959bd475d8ad61a6a86d0f75599376906978e9",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::12-Pathology-of-Asthma-and-COPD"
+      ]
+    },
+    {
       "first_field_hash": "59d03d0d376092e221f0702b086d524521fdcf9cfaa9900c0d87efbdfce8b159",
       "tags": [
         "JerryShen_AnKing_Tags::Immunology::Final::Hypersensitivity-and-Allergy::Class-Content"
@@ -5916,9 +6155,51 @@
       ]
     },
     {
+      "first_field_hash": "4ce593c48b5b89fe5b9a53adfbf9892ac27b4ef33181bbee2ce1e7815d0d4a9f",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::12-Pathology-of-Asthma-and-COPD::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "5425aac84363713db3d032d63abca80fe7aee390b9fac4e4e0bc700edb435bb7",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::12-Pathology-of-Asthma-and-COPD::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "0b5ba3b0a8f0e0ad3dbe70b58a80b1758db5247e981809b713e9c6a33ccf4dad",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::12-Pathology-of-Asthma-and-COPD::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "b469d0dc86c7e4bfdcdadb53f78d945ca7e731becd930b4d69aebfcb78112cd8",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::12-Pathology-of-Asthma-and-COPD"
+      ]
+    },
+    {
+      "first_field_hash": "17e1cfe991c507e18ca9d9e34e0fb60a5ff93488c0dbee33f792a009f3b5c51f",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::12-Pathology-of-Asthma-and-COPD::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "39ddf44bf07e081d5b715f22d4dfbd269021a213c77b7d066f72fab35c750fcd",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::06-Intro-to-Lung-Histology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "5c513b6dbff74e2f7f460483a093d0e4fde272465bce21757db6d946cbb44a58",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::12-Pathology-of-Asthma-and-COPD"
+      ]
+    },
+    {
+      "first_field_hash": "76515e86293da8bfc9f7614a50a84b0c4ea51e0e1510980c1eec03521f4ae8b3",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::12-Pathology-of-Asthma-and-COPD"
       ]
     },
     {
@@ -7381,6 +7662,18 @@
       "first_field_hash": "5771fcb35c4bfd1d3f141fbc5f0e00207565538a81f0c2e249c586a202778284",
       "tags": [
         "JerryShen_AnKing_Tags::Immunology::Final::Hypersensitivity-and-Allergy::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "1d8faa996c43fadd34531b6b92877cb2c6534b444f47150d1d2dd91cf169598d",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::12-Pathology-of-Asthma-and-COPD"
+      ]
+    },
+    {
+      "first_field_hash": "9b16aed83f7dde3632d7c4721d2cf488f72c5023f8fe10167bb39478e2040152",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::12-Pathology-of-Asthma-and-COPD"
       ]
     },
     {
@@ -32975,6 +33268,12 @@
       ]
     },
     {
+      "first_field_hash": "5462099d63b1aebfda55b7dfd7984910e9f56411178a67ff17ef810186655d65",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::12-Pathology-of-Asthma-and-COPD::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "f600a2d76b320a61576971c6ee0170436f4ef28f578d4006419d0aea9c06c0f8",
       "tags": [
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-2::07-β-Lactam-Antibiotics-&-Parasites"
@@ -33196,6 +33495,12 @@
       "first_field_hash": "720cdb731e9fe04b9716cfdc09b35f989f5ffabf2b54f3703c7ae80862936efb",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::07-Pulmonary-Function-Testing::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "16674b1777d12e126e2aa985d3663deb1537d62e61420ed39625d48599a71746",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::07-Pulmonary-Function-Testing"
       ]
     },
     {
@@ -33718,6 +34023,12 @@
       ]
     },
     {
+      "first_field_hash": "7a04eb930dda3a187dcdc028e7e04ad157b3608b09912a0f8196eec182af2f17",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::12-Pathology-of-Asthma-and-COPD"
+      ]
+    },
+    {
       "first_field_hash": "4bffcea7d1463d52a1cac8c016546312ec99da6a0291b68f9d795aa0f178b237",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::06-Intro-to-Lung-Histology::Class-Content"
@@ -33963,6 +34274,12 @@
       "first_field_hash": "950745f90524c6be179eb361a69a59bb53414beba326b3ce42098ed5cea33a1f",
       "tags": [
         "JerryShen_AnKing_Tags::POM-1::Final::Epidemiology"
+      ]
+    },
+    {
+      "first_field_hash": "94da65ac641b128c4ee79e25d4ee8685e9ff7a3446fe40ee257ffe737f6cb739",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::12-Pathology-of-Asthma-and-COPD"
       ]
     },
     {
