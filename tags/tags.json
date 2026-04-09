@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
   "author": "JerryShen",
-  "description": "Asthma and Emphysema",
-  "created": "2026-04-07T18:08:27.808268+00:00",
-  "updated": "2026-04-07T18:08:27.808268+00:00",
+  "description": "Slow and fast arrhythmias",
+  "created": "2026-04-09T21:04:16.420038+00:00",
+  "updated": "2026-04-09T21:04:16.420038+00:00",
   "tag_prefix": "JerryShen_AnKing_Tags",
   "tag_hierarchy": [
     "JerryShen_AnKing_Tags",
@@ -245,6 +245,7 @@
     "JerryShen_AnKing_Tags::POM-2::Final::Nutrition",
     "JerryShen_AnKing_Tags::POM-2::Final::Nutrition::Class-Content",
     "JerryShen_AnKing_Tags::POM-3",
+    "JerryShen_AnKing_Tags::POM-3::Clinical-Reasoning",
     "JerryShen_AnKing_Tags::POM-3::Psychiatry",
     "JerryShen_AnKing_Tags::POM-3::Psychiatry::Psychiatric-Interview",
     "JerryShen_AnKing_Tags::POM-3::Psychiatry::Psychiatric-Interview::Class-Content",
@@ -258,10 +259,16 @@
     "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::03-The-Cardiac-Action-Potential::Class-Content",
     "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::04-Pacemaker-Potential",
     "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::04-Pacemaker-Potential::Class-Content",
-    "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::04-The-Normal-ECG",
-    "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::04-The-Normal-ECG::Class-Content",
+    "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::05-The-Normal-ECG",
+    "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::05-The-Normal-ECG::Class-Content",
     "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::06-Hypertrophy-and-Bundle-Branch-Block",
     "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::06-Hypertrophy-and-Bundle-Branch-Block::Class-Content",
+    "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::07-Slow-Rhythm-Arrhythmias",
+    "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::07-Slow-Rhythm-Arrhythmias::Class-Content",
+    "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::08-Fast-Rhythm-Arrhythmias",
+    "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::08-Fast-Rhythm-Arrhythmias::Class-Content",
+    "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::09-Supraventricular-Tachycardia",
+    "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::09-Supraventricular-Tachycardia::Class-Content",
     "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block",
     "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::01-Structure-and-Function-of-the-Lung",
     "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::01-Structure-and-Function-of-the-Lung::Class-Content",
@@ -282,7 +289,8 @@
     "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::11-Control-of-Ventilation",
     "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::11-Control-of-Ventilation::Class-Content",
     "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::12-Pathology-of-Asthma-and-COPD",
-    "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::12-Pathology-of-Asthma-and-COPD::Class-Content"
+    "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::12-Pathology-of-Asthma-and-COPD::Class-Content",
+    "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::13-Intro-to-Chest-Radiology"
   ],
   "changelog": [
     {
@@ -331,6 +339,11 @@
       "date": "2026-04-07T18:08:27.808268+00:00",
       "message": "Asthma and Emphysema",
       "note_count": 53
+    },
+    {
+      "date": "2026-04-09T21:04:16.420038+00:00",
+      "message": "Slow and fast arrhythmias",
+      "note_count": 106
     }
   ],
   "notes": [
@@ -3387,34 +3400,34 @@
     {
       "first_field_hash": "8ad9943335ba292e10893460744377f5569e951e97a232b105bf859009870cc0",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::04-The-Normal-ECG"
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::05-The-Normal-ECG"
       ]
     },
     {
       "first_field_hash": "e1a89a2d765917536573bfbbf7aad49930c5b8baac30e814c76639a8f9fe785d",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::04-The-Normal-ECG"
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::05-The-Normal-ECG"
       ]
     },
     {
       "first_field_hash": "effcebd3fb98a80ba651dc55fa024a2167685cb855ccd49d4bdf883b93160287",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::04-Pacemaker-Potential",
-        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::04-The-Normal-ECG::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::05-The-Normal-ECG::Class-Content"
       ]
     },
     {
       "first_field_hash": "9d1854286d403915fcfa9e95ee464a19a78ac9799d7ccba91cbcd04996167979",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::04-Pacemaker-Potential",
-        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::04-The-Normal-ECG::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::05-The-Normal-ECG::Class-Content"
       ]
     },
     {
       "first_field_hash": "2d1ea76d54f40b4064191bace27627f56f8eb9490a22f37f1d3f402851779d44",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::04-Pacemaker-Potential::Class-Content",
-        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::04-The-Normal-ECG::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::05-The-Normal-ECG::Class-Content"
       ]
     },
     {
@@ -3422,7 +3435,7 @@
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::04-Pacemaker-Potential",
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::04-Pacemaker-Potential::Class-Content",
-        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::04-The-Normal-ECG::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::05-The-Normal-ECG::Class-Content"
       ]
     },
     {
@@ -3436,7 +3449,7 @@
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::04-Pacemaker-Potential",
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::04-Pacemaker-Potential::Class-Content",
-        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::04-The-Normal-ECG::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::05-The-Normal-ECG::Class-Content"
       ]
     },
     {
@@ -3444,7 +3457,7 @@
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::04-Pacemaker-Potential",
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::04-Pacemaker-Potential::Class-Content",
-        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::04-The-Normal-ECG::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::05-The-Normal-ECG::Class-Content"
       ]
     },
     {
@@ -3546,6 +3559,12 @@
       ]
     },
     {
+      "first_field_hash": "d86a6886c031e69d9cb353f1b6877eb6778736aa977e0754c179206a28d58705",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::05-The-Normal-ECG"
+      ]
+    },
+    {
       "first_field_hash": "b2103c25b611b6135a18e53255d0d98771cd0f45f8b1c858ec5588895767e63c",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::02-Pulmonary-Circulation"
@@ -3624,15 +3643,93 @@
       ]
     },
     {
+      "first_field_hash": "4b1395a4e27b220733d73f51f2a84cbbff450509c95591735ac2a4f084a6d5af",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::08-Fast-Rhythm-Arrhythmias::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "476413429843e196cdb5208a16e6ffd8807b1b892bce2e7f4e78f0c5269c02cc",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::08-Fast-Rhythm-Arrhythmias::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "5898c261cd018d890ab7dfcd3b0ecef5dc54b422dbceaab73f1c79851b9f094c",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::03-The-Cardiac-Action-Potential"
       ]
     },
     {
+      "first_field_hash": "56fdbd4a6600b7e8893d3aa9f61b7a2c57917edb21ac2cd774b16a9687c067a5",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::08-Fast-Rhythm-Arrhythmias"
+      ]
+    },
+    {
       "first_field_hash": "dde6056be7ffaa09b9da835d3119b23a37e4941c7ede1076ec56652fe76ce765",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::03-The-Cardiac-Action-Potential"
+      ]
+    },
+    {
+      "first_field_hash": "a749c9d3add2301df5e4a881a5a64cd05d2723bbdf81f2d7d99701a3ceca2ae3",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::08-Fast-Rhythm-Arrhythmias"
+      ]
+    },
+    {
+      "first_field_hash": "8705551fc9527e3fb63e6945ae7669bce9428388cf6c14a770424e065e731be5",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::08-Fast-Rhythm-Arrhythmias"
+      ]
+    },
+    {
+      "first_field_hash": "335a2ea5a9cbf1cbab504a34a9acdf6e1d19b3f880fc20767a182cc3253047be",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::08-Fast-Rhythm-Arrhythmias::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "637e6becc3a014785de63c06b65631e291435614fe53ff2a6d4eaa91af14d50f",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::08-Fast-Rhythm-Arrhythmias"
+      ]
+    },
+    {
+      "first_field_hash": "0ad1f61833af20d93bc65396938ce424f44f46d6c0676233a788a7302796155b",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::08-Fast-Rhythm-Arrhythmias::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "337b8ef48fb551f608ac59b6a068d28b9d2c12b0df720685323e9d51fa4f6f97",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::09-Supraventricular-Tachycardia::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "2457800e66dd8346e17bded66affc7e900ccc898768a7fcbeeae260ccf645d6c",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::09-Supraventricular-Tachycardia"
+      ]
+    },
+    {
+      "first_field_hash": "3fa20c6cf0ff00654e4cf9e64d5a1be4a5e8aac4245632aeeb6618c09b25bf71",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::09-Supraventricular-Tachycardia::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "d65ad50e6cf2dbbbadf7b974fba3fe6077ac41635bd47be0b9db63abfc7a030e",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::09-Supraventricular-Tachycardia::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "e4123d3341f69b1f8953303561bbad00b5edeb0d2cac5a5813691ef931d4a6a9",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::09-Supraventricular-Tachycardia::Class-Content"
       ]
     },
     {
@@ -3706,6 +3803,18 @@
       "first_field_hash": "5fb360048eb340a9e5718be5713aafc92715709ecc4f485fa07c655ac5455a2c",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::06-Hypertrophy-and-Bundle-Branch-Block"
+      ]
+    },
+    {
+      "first_field_hash": "c41d37af68a576866d17cd0c55fee6ccf958f347b75458cc999d3334449d2f1d",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::08-Fast-Rhythm-Arrhythmias"
+      ]
+    },
+    {
+      "first_field_hash": "27260d2cd9e278c675a1f49ce165aa7a9e3a81d642e74851cfdb09e32b227235",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::08-Fast-Rhythm-Arrhythmias"
       ]
     },
     {
@@ -3799,6 +3908,12 @@
       ]
     },
     {
+      "first_field_hash": "c3f597cc0513778a6fc985dece98e9caaa1bd7805701887c1b5c02bbf7c2af79",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::09-Supraventricular-Tachycardia"
+      ]
+    },
+    {
       "first_field_hash": "7d17a40572b154a643c7c7fd8e5be540c521ee57d4be152dbc5246f15a166846",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::03-The-Cardiac-Action-Potential"
@@ -3871,6 +3986,19 @@
       ]
     },
     {
+      "first_field_hash": "45186780955c1e4062305c55d66b6997ad495878a5b04293e5c94b17422b0899",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::04-Pacemaker-Potential"
+      ]
+    },
+    {
+      "first_field_hash": "d06cb1a048de6d6aad34b93eee6e052087ffdeccde1412a2da63d7dec1b36eb4",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::08-Fast-Rhythm-Arrhythmias",
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::08-Fast-Rhythm-Arrhythmias::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "4828575c9b32f6f8718cfe8f984b61e5a71dd4c99d2b8975f163b459927c88d8",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::01-Introduction-to-CV-Block::Class-Content"
@@ -3883,9 +4011,94 @@
       ]
     },
     {
+      "first_field_hash": "b207b00b9924a4f4f94830e56dae4cd04f9e757fe2cdc35963cce33a59ce4e7d",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::08-Fast-Rhythm-Arrhythmias::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "75b5fc7ba8dd9e0b1e92c1fb17aeb49ff26f9048d93205c1693b2ce61d3707e6",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::08-Fast-Rhythm-Arrhythmias::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "fe52ce121b1629690e0789d5e6aa0a819499b7d55605a69f285da97ba5792b71",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::07-Slow-Rhythm-Arrhythmias::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "39acb94cebf84d688b765b0e255d3cf89e85cd02803ffff0210f07a29c052e6a",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::07-Slow-Rhythm-Arrhythmias::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "012c8529d87681a497b9c4690a602d06e87fea8b6d172e68e965822998bc4d5f",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::07-Slow-Rhythm-Arrhythmias::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "e9de2b71cc5170aa4446be6bf22ce2475ea9176952f09f4345656556d42b7890",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::07-Slow-Rhythm-Arrhythmias::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "eb232c7a9a8a4c4783f098d6dc46bdd97e1a19ae4679fce9f08df92ca9fce166",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::07-Slow-Rhythm-Arrhythmias",
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::07-Slow-Rhythm-Arrhythmias::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "6e9cab78fa115ece5a940a979b0078ccf39d024b4a87777cc90f205a8ddd0eb9",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::07-Slow-Rhythm-Arrhythmias::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "1fd479fb79410099c2e22976e4bd6411dcb042cb5c6f6c4d6ab3de2a413087df",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::07-Slow-Rhythm-Arrhythmias::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "455d5a2c732a983dc068a1e19e0f9b3e1a6e18142ec25825ab7a7e4e7dd98448",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::07-Slow-Rhythm-Arrhythmias::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "03034a6eebf27b464502a555dd4bf58595533e10a0cf5733a38cfffcb924b2cc",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::08-Fast-Rhythm-Arrhythmias::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "951e00d43c4c7fb76dcf63524cc2dcdf7e5b4fb841b32d791e30390d6ba8eafb",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::04-The-Normal-ECG"
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::05-The-Normal-ECG"
+      ]
+    },
+    {
+      "first_field_hash": "80d3b98d3d4cde11c6c76cfad92f828ad1fde1ca28dc8ac5e45fc5f68d0a44fe",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::07-Slow-Rhythm-Arrhythmias::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "466a8838a3cdbd6b737c0ef4aa3eb6cd119c232efa260d880401087df5887de7",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::07-Slow-Rhythm-Arrhythmias::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "c41aa17d331066b322511ea25996b423b301e068330406469ec58abcd9e3c7e5",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::07-Slow-Rhythm-Arrhythmias::Class-Content"
       ]
     },
     {
@@ -4910,6 +5123,18 @@
       "first_field_hash": "036d856339fd2c10b86eee9642a81d187e42c6ffd1189188122a8f7122b8a4cf",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::08-Pulmonary-Mechanics::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "90745810b11d871ddd2f2bc7ea98b16867ca3cdc9ef492e054457a17de66848c",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::08-Pulmonary-Mechanics"
+      ]
+    },
+    {
+      "first_field_hash": "1204d1250f116d4f441ad3df09c81c6cc218270538f8eb2269ca1eab29223be7",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::08-Pulmonary-Mechanics"
       ]
     },
     {
@@ -9751,6 +9976,12 @@
       ]
     },
     {
+      "first_field_hash": "9b02f92ac0a3f2b42c40f2a3ecc3bace57aca11fbddbd52bc3c33649fc04edae",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::07-Slow-Rhythm-Arrhythmias"
+      ]
+    },
+    {
       "first_field_hash": "7f94508afffd9e22fb8fa1c87c590f93f2d226a3ac11aec1f9921fbce51fb299",
       "tags": [
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-1::01-Intro-to-Pharmacodynamics"
@@ -9778,6 +10009,18 @@
       "first_field_hash": "625c887b907a1df5f007b3cd4c1a27140166774a3bba8c3f6ca9b86459b83905",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::04-Pacemaker-Potential"
+      ]
+    },
+    {
+      "first_field_hash": "8d5209c8b3dc210db90011b7da37820b49d34a71565ca6e37b871380b2c2dbbc",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::07-Slow-Rhythm-Arrhythmias"
+      ]
+    },
+    {
+      "first_field_hash": "d994ea09b99b2e3e352352aa2410e94715eeee1a3994d72341577c6eceb723a7",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::07-Slow-Rhythm-Arrhythmias"
       ]
     },
     {
@@ -11293,6 +11536,12 @@
     },
     {
       "first_field_hash": "a338d9d706ff1e7942adad5fa68973abcc92defbdb13018508f3783b175f7d5e",
+      "tags": [
+        "JerryShen_AnKing_Tags::Neurobiology::Exam-2::Tutorial-3-Brainstem"
+      ]
+    },
+    {
+      "first_field_hash": "634a13ab7ec42092bb1778a7caa79573c406f8bd8aafbdfadd998c3f1e073133",
       "tags": [
         "JerryShen_AnKing_Tags::Neurobiology::Exam-2::Tutorial-3-Brainstem"
       ]
@@ -16660,6 +16909,12 @@
       ]
     },
     {
+      "first_field_hash": "02c9978f7b5404a2fc1416930b5ebea1cbf33c18d06cb753616fe7a2fbfe950b",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::08-Fast-Rhythm-Arrhythmias"
+      ]
+    },
+    {
       "first_field_hash": "8cd4f51ff1819b87b2a7d718964074f2507955a1ea71bb0dcdfbd582120b8151",
       "tags": [
         "JerryShen_AnKing_Tags::POM-3::Psychiatry::Psychiatric-Interview::Class-Content"
@@ -20957,6 +21212,12 @@
       ]
     },
     {
+      "first_field_hash": "60150a0e2cd64394b191152ba0601c5ee442604fa99a8f0204fac617e3cc50b7",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::13-Intro-to-Chest-Radiology"
+      ]
+    },
+    {
       "first_field_hash": "854571ea151e3dd83e52beae0ce3b843fa5854495ff6695bb897418d9d13e406",
       "tags": [
         "JerryShen_AnKing_Tags::Cancer-Biology::Final::Cancer-Pharmacology",
@@ -21591,6 +21852,43 @@
       ]
     },
     {
+      "first_field_hash": "d39d7e245b763b52b66c6236f0d86701c52fe3b7fa39785a09a06a90ff5c896e",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::07-Slow-Rhythm-Arrhythmias::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "c76c290bb17848d091b435823bd7d13a57858ed515c6c85c019fbb64647f1fdb",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::07-Slow-Rhythm-Arrhythmias"
+      ]
+    },
+    {
+      "first_field_hash": "c69bf5c38d15415cc6c361fa76b4a30223e63b48222592fd8434f7156cb731d9",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::07-Slow-Rhythm-Arrhythmias::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "b8a376bc8f124cff498cf2ff64a4bd45b19fdb518603de50275368cc8df93e44",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::07-Slow-Rhythm-Arrhythmias",
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::07-Slow-Rhythm-Arrhythmias::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "e0fe92a9b699439f7dd1b39c5291b48e1970a6703898d5c802b354e2a86d0046",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::09-Supraventricular-Tachycardia"
+      ]
+    },
+    {
+      "first_field_hash": "bc8fea6ec1c75d66d33d27fae7329352cfb7bc2a3dab533486bf6f8a6c164a61",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::09-Supraventricular-Tachycardia::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "129cb87dacff5c3a92c9b16e883b79d78d779b46470c42e60d75b813ebcc524e",
       "tags": [
         "JerryShen_AnKing_Tags::Genetics::Exam-2::08.1-Inherited-Metabolic-Disorders::Class-Content"
@@ -21624,6 +21922,12 @@
       "first_field_hash": "ab9a0b157079c3cfed3c0dc571281754476bf557ddf5938a760ec27c0fc549f3",
       "tags": [
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-2::10-Biologics-Ectoparasites-&-Clinical-Cases::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "cd6c261d833d82ce0605ee6947d75cf1ddcc572a83b314a84696eefcbcaaca89",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::07-Slow-Rhythm-Arrhythmias::Class-Content"
       ]
     },
     {
@@ -21726,6 +22030,12 @@
       ]
     },
     {
+      "first_field_hash": "9317e440ad25e9850827372acf4542db196f34f077c3c4c49166f206e7f9b082",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::08-Fast-Rhythm-Arrhythmias::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "c28972f52e6089aba3996d73e04e61de20d3cdedec08f4aba01fd8e4f214bbbb",
       "tags": [
         "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-2-Upper-Limb::Histology"
@@ -21759,6 +22069,24 @@
       "first_field_hash": "8c9ea26bdc1a48dc55798cf7c9befcdc619cf95452f4b9ea4ce66b28ec155352",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::01-Introduction-to-CV-Block"
+      ]
+    },
+    {
+      "first_field_hash": "b59eb4d28530b19511f78a63daaa1550855addd3621a23f7d7a5ff43d094689d",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::07-Slow-Rhythm-Arrhythmias"
+      ]
+    },
+    {
+      "first_field_hash": "c6c88960c5002b4e658bdc4ae2dcb99f27fae3e1bb2e419dc2b7a82e26be336c",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::07-Slow-Rhythm-Arrhythmias::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "cfcd20e8790270936783082125cfc9088c3e86fe25a64670779507514dd4bb04",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::09-Supraventricular-Tachycardia"
       ]
     },
     {
@@ -30880,6 +31208,12 @@
       ]
     },
     {
+      "first_field_hash": "a155b97aec9cd6267abd010c81173596e6f13efceceb690b7f05bfa795224050",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::05-The-Normal-ECG"
+      ]
+    },
+    {
       "first_field_hash": "ff1138c762ad3d746c120403cf0ac32fa0cb76cabbf3735cb5bfbc15ba91137d",
       "tags": [
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-1::04-Intro-to-Viruses"
@@ -31444,6 +31778,12 @@
       ]
     },
     {
+      "first_field_hash": "8646e2851d137397e5c9c9e171bbb99525d5f04ae4c256fc8d1fcd64c839956b",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::09-Supraventricular-Tachycardia"
+      ]
+    },
+    {
       "first_field_hash": "8af5a2e8aad3ab8aa39192bcf5f722b5174762cf36dc174de147fd7255093d3f",
       "tags": [
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-1::03-C.diff-&-Pseudomonas"
@@ -31495,6 +31835,12 @@
       "first_field_hash": "04be552a5ba84b033771f383fad0cd1de6ee68cde6b70cf4617bf6a4864affd3",
       "tags": [
         "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-6-Head-&-Neck-1::Anatomy::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "0423359e14cbf325c2e21e16889be3e2910766ea6c15f0e3e50483ff56087aee",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::13-Intro-to-Chest-Radiology"
       ]
     },
     {
@@ -31914,6 +32260,12 @@
       ]
     },
     {
+      "first_field_hash": "0343ff6e060948bd8adf20c9ec7e3ce2664939c4387dd959aec203ea21e0187d",
+      "tags": [
+        "JerryShen_AnKing_Tags::Micro-Pharm::Exam-1::05-Intro-to-Fungi"
+      ]
+    },
+    {
       "first_field_hash": "cb68dcd638d6e5d4bbb52dd8bd79e075abd795c3892d9570d34ee40b5bf8f0ea",
       "tags": [
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-1::05-Intro-to-Fungi"
@@ -32001,6 +32353,12 @@
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::02-Pulmonary-Circulation",
         "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::02-Pulmonary-Circulation::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "1643d2bed58335472fe5591da55f97f37289abaeda4c4883cee83690e335aff0",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::08-Pulmonary-Mechanics"
       ]
     },
     {
@@ -32302,6 +32660,12 @@
       "first_field_hash": "00d42eab816c9cf220f8b2dd295a0727467ac31005c577ae39cc80e9c96bb8d6",
       "tags": [
         "JerryShen_AnKing_Tags::Neurobiology::Exam-3::Lec-Experience-Dependent-Circuit-Tuning::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "c21e590b8a7212293f2020e032f7195cd46f2d7b60facbb8b82bf92143d0427f",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::08-Fast-Rhythm-Arrhythmias::Class-Content"
       ]
     },
     {
@@ -32737,6 +33101,12 @@
       ]
     },
     {
+      "first_field_hash": "aeab54bf16c6777e649512eb820f698b0506de350a78b0728644993318b407eb",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::09-Supraventricular-Tachycardia"
+      ]
+    },
+    {
       "first_field_hash": "e22f6b08147aca220cda52a26d267260f5a80cea98957e445524d2e2b4dd6b90",
       "tags": [
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-1::04-Intro-to-Viruses::Class-Content"
@@ -32999,6 +33369,31 @@
       ]
     },
     {
+      "first_field_hash": "cee8f86f78640996cb50857f746314521584699036b28bf1c1cfd6d515bf659e",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::07-Slow-Rhythm-Arrhythmias::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "d552fb5c8a3a4e3faa19ab5376de488422534c9c2250c5003964321a995af17c",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::09-Supraventricular-Tachycardia::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "37c6746cc1fd2700e8900090b6033e6c0a09ba860a04fc5c4f645adcccbe14a5",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::08-Fast-Rhythm-Arrhythmias::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "25910969439e8a206bc33a6ec9be415e9a31f96fed8691180c52b6e913e29476",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::07-Slow-Rhythm-Arrhythmias",
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::07-Slow-Rhythm-Arrhythmias::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "cd8e0010558ddcc55ee39a2a35b6e12ec78c25efdaabe4681c6d84ba047ae9aa",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::06-Hypertrophy-and-Bundle-Branch-Block::Class-Content"
@@ -33007,19 +33402,19 @@
     {
       "first_field_hash": "5e9beb1cd5ce9fc390b12d7c7491e81e24399d2ffc19d244a455e27afb061668",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::04-The-Normal-ECG::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::05-The-Normal-ECG::Class-Content"
       ]
     },
     {
       "first_field_hash": "3d01bbf6a0c3c94b10dde5a0d6291c06a4b890cedce6ce4f4d35447a1fd46121",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::04-The-Normal-ECG::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::05-The-Normal-ECG::Class-Content"
       ]
     },
     {
       "first_field_hash": "3dd44a8c2f655b2394a14648802da104984c27f1dffcd814c2c85ffc689f498d",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::04-The-Normal-ECG::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::05-The-Normal-ECG::Class-Content"
       ]
     },
     {
@@ -33038,19 +33433,25 @@
       "first_field_hash": "0a75a313633aab3fc31464d91a1f72527efadd43ed7d837fdc97e67f99acade0",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::04-Pacemaker-Potential::Class-Content",
-        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::04-The-Normal-ECG::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::05-The-Normal-ECG::Class-Content"
       ]
     },
     {
       "first_field_hash": "41b438a70f933d4fbb4cebfc4efd8e1c804047b0234d11d8a08e0fc2c116fe99",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::04-The-Normal-ECG::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::05-The-Normal-ECG::Class-Content"
       ]
     },
     {
       "first_field_hash": "b77da9a9d264f2e9334040467ef6a8e996a0260f68b8c443c6d4bcdee0c2f415",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::04-The-Normal-ECG"
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::05-The-Normal-ECG"
+      ]
+    },
+    {
+      "first_field_hash": "cf13f8b137f6aed938439c6ba65f3de368fedda165e953930fe5bbd0d2b48ca1",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::07-Slow-Rhythm-Arrhythmias::Class-Content"
       ]
     },
     {
@@ -33105,6 +33506,55 @@
       "first_field_hash": "179365dd62ea8836dc5e0f66ae2e1f649169f8896b0808bbd4609a5a62f16cc0",
       "tags": [
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-2::09-Misc-Antimicrobials-&-Skin-Infections"
+      ]
+    },
+    {
+      "first_field_hash": "277dda0833a57b8c341c363b21ab70fcd4eae0341e6812852a1424c62147a8c5",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::08-Fast-Rhythm-Arrhythmias::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "3062f681af41b292abaeb13fd2b0ece9d654ad722d99e46bc1805908541bf59e",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::08-Fast-Rhythm-Arrhythmias"
+      ]
+    },
+    {
+      "first_field_hash": "6541e985ff85baef1cd43dd6396441a566eb624f61e96a6da36ad98f76daf02a",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::07-Slow-Rhythm-Arrhythmias"
+      ]
+    },
+    {
+      "first_field_hash": "4e21657a3fb2b116daf46cb64ff9590af822c77f0cf4abe00dc634e6212d6947",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::09-Supraventricular-Tachycardia::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "22e3544c72b9f75a8b3693e7b60f69f9bc27e644da4141a488ca854b9c45e6cc",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::09-Supraventricular-Tachycardia"
+      ]
+    },
+    {
+      "first_field_hash": "0f4d21ade321118e2975dbe5be24d84f8d62cf1da94d3feebeef9b1542dab8b4",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::09-Supraventricular-Tachycardia",
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::09-Supraventricular-Tachycardia::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "515d37333ad7a4f6a691cde788a0d21fc0d915a24693f79055146b4eb52760e1",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::08-Fast-Rhythm-Arrhythmias"
+      ]
+    },
+    {
+      "first_field_hash": "2026112909cb76d59de26921ea7b8c26ac5cca38b48c61b69aee9b60ebc7ba3e",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::07-Slow-Rhythm-Arrhythmias"
       ]
     },
     {
@@ -33256,6 +33706,54 @@
       ]
     },
     {
+      "first_field_hash": "8f35bc7bf8221aee3a4382cb8cc02d2860cdccec05f9bed7961a24a048cb484c",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::08-Fast-Rhythm-Arrhythmias"
+      ]
+    },
+    {
+      "first_field_hash": "ce5fc8d3e2939e4d3bccac0d956319b7cfd1d1a0ded424208c13ce797398e615",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::08-Fast-Rhythm-Arrhythmias::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "ecb1cb0e112220b03f310fef1070dfa9f79d6bfdca3803cae9ec2d60a240b16f",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::08-Fast-Rhythm-Arrhythmias::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "ccf91aef437dabc15a745d3c1a2eb10a7968586ebc624e09774291da11d43cd1",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::08-Fast-Rhythm-Arrhythmias"
+      ]
+    },
+    {
+      "first_field_hash": "21b00600e86086383377eb4e4f45abd4eac609a27482077897763ae65817b4ba",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::09-Supraventricular-Tachycardia::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "cf751e55a5a9633f1fffd1e6b55c483b23c4080fb51c8494a669fe70459df0c6",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::08-Fast-Rhythm-Arrhythmias::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "2740111a3aa3bc2bbb2d7f81bad7203b18c54c0f153cf7dda744ee8ec29a0bb1",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::08-Fast-Rhythm-Arrhythmias::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "b45b0ebeabd9974a80c7c67f919bb398388a7bd83058963e6a1d794b9b6d9e72",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::09-Supraventricular-Tachycardia"
+      ]
+    },
+    {
       "first_field_hash": "4255788c5b7a266c63c72b7e9643b6a82eafe307ae75bc99a4feb67867ef3b1c",
       "tags": [
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-2::08-Other-Antibiotics-&-Mycobacteria"
@@ -33337,6 +33835,12 @@
       "first_field_hash": "287f266408c17c1551eaff63108468d8d49d70e8e9920fc41db4129e382539c0",
       "tags": [
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-2::07-β-Lactam-Antibiotics-&-Parasites::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "e61e0de0f50af01ac82d9b9e6f377b8898e8912d80f95fbc2169cee568bb7728",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::07-Slow-Rhythm-Arrhythmias"
       ]
     },
     {
@@ -33516,6 +34020,12 @@
       ]
     },
     {
+      "first_field_hash": "19c7ad14ab758e8d4dfefe932c1d7837c2112d230d9b2d22bca291a01e6986b8",
+      "tags": [
+        "JerryShen_AnKing_Tags::POM-3::Clinical-Reasoning"
+      ]
+    },
+    {
       "first_field_hash": "3b884fc9d6d4c1999acd00fa0a6d939db1e821902e91d32a4f615136b376e683",
       "tags": [
         "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-5-Lower-Limb::Anatomy::Class-Content"
@@ -33573,6 +34083,12 @@
       "first_field_hash": "c018642903c526a3c3e809ba09daff43f89eb168750d7e7513b32d3cc54a3284",
       "tags": [
         "JerryShen_AnKing_Tags::POM-1::Final::Psychiatry::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "c6e70eb056afbc26031767c07d6b12534f25a1b659060f5fa09d5e7419a33a78",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::04-Pacemaker-Potential"
       ]
     },
     {
@@ -33818,6 +34334,12 @@
       ]
     },
     {
+      "first_field_hash": "1ff73f982c95a53d9be88b42943deac85c54aada05962030105c0cef6386dbe4",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::07-Slow-Rhythm-Arrhythmias"
+      ]
+    },
+    {
       "first_field_hash": "21e80763af3841fd6eaaeb5a96f8eed98a915e24732770fc60a7ca4b019f225c",
       "tags": [
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-2::09-Misc-Antimicrobials-&-Skin-Infections"
@@ -33849,9 +34371,28 @@
       ]
     },
     {
+      "first_field_hash": "42d2595a3f63d9f4a030ad5eb38e883b588e1be563ebcc54e783c00e663f8d13",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::08-Fast-Rhythm-Arrhythmias"
+      ]
+    },
+    {
+      "first_field_hash": "b730e6bd273d5143926fd7c033122c113fb850187850a38254545779ba9ff0e5",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::07-Slow-Rhythm-Arrhythmias",
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::07-Slow-Rhythm-Arrhythmias::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "0d93ff458bb2e2e0973328e7c0f7c41224415fb2fde64644430bb0822b4c17f3",
       "tags": [
         "JerryShen_AnKing_Tags::Biochemistry::Final::03-Lipid-Metabolism"
+      ]
+    },
+    {
+      "first_field_hash": "d6b5586f78a1c2163052039d8043aef29e741339e7bcc01dddd3d885af3ec351",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::07-Slow-Rhythm-Arrhythmias"
       ]
     },
     {
@@ -34156,6 +34697,18 @@
       ]
     },
     {
+      "first_field_hash": "d938323334fae146212ebbed17fb30c3c89e313fabc0dd710feeb7587a7d56ec",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::08-Fast-Rhythm-Arrhythmias::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "6a7096dcc85299f51e14f7410932d3d12447225f55205168368c3042045fef1d",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::07-Slow-Rhythm-Arrhythmias::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "63c36336d361ab46afdb7c1619bcf30b1910f8dcc15933dc1310e92d9c09f5f6",
       "tags": [
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-2::07-β-Lactam-Antibiotics-&-Parasites"
@@ -34177,6 +34730,12 @@
       "first_field_hash": "79b8ecf4bc5e12d9cc2dd8672f26dfeccfc5135dd669579cfadb5381f083df15",
       "tags": [
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-2::07-β-Lactam-Antibiotics-&-Parasites"
+      ]
+    },
+    {
+      "first_field_hash": "a892c73fa2ba623da52b304b6c64daee39b379986b2ba166a88a6fb4b1f7c798",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::09-Supraventricular-Tachycardia::Class-Content"
       ]
     },
     {
@@ -34262,6 +34821,12 @@
       "first_field_hash": "52c4e998e266fc5a7c7702be9a049a42d0d10079f26c15e795b18decd6abb059",
       "tags": [
         "JerryShen_AnKing_Tags::POM-2::Final::Nutrition::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "53c12a16cec57d7e7d2ade134e39d1c0fbab4c414fa949242973d0d1d8f90481",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::09-Supraventricular-Tachycardia::Class-Content"
       ]
     },
     {
@@ -34388,6 +34953,13 @@
       "first_field_hash": "60de485885aa837656b532a621f8dd046521eb1a28a4e29553c50819fe7bda69",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::03-The-Cardiac-Action-Potential"
+      ]
+    },
+    {
+      "first_field_hash": "f2c857521f68fd89bc83dba2fa79eebf7734632dee3ad95c5b9cd2ebf668215b",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::07-Slow-Rhythm-Arrhythmias",
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::07-Slow-Rhythm-Arrhythmias::Class-Content"
       ]
     },
     {
