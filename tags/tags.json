@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
   "author": "JerryShen",
-  "description": "Slow and fast arrhythmias",
-  "created": "2026-04-09T21:04:16.420038+00:00",
-  "updated": "2026-04-09T21:04:16.420038+00:00",
+  "description": "Lung (Asthma) Pharmacology",
+  "created": "2026-04-13T17:13:10.022103+00:00",
+  "updated": "2026-04-13T17:13:10.022103+00:00",
   "tag_prefix": "JerryShen_AnKing_Tags",
   "tag_hierarchy": [
     "JerryShen_AnKing_Tags",
@@ -286,11 +286,15 @@
     "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::07-Pulmonary-Function-Testing::Class-Content",
     "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::08-Pulmonary-Mechanics",
     "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::08-Pulmonary-Mechanics::Class-Content",
+    "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::09-Acid-Base-Control-and-Exercise-Physiology",
+    "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::09-Acid-Base-Control-and-Exercise-Physiology::Class-Content",
     "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::11-Control-of-Ventilation",
     "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::11-Control-of-Ventilation::Class-Content",
     "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::12-Pathology-of-Asthma-and-COPD",
     "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::12-Pathology-of-Asthma-and-COPD::Class-Content",
-    "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::13-Intro-to-Chest-Radiology"
+    "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::13-Intro-to-Chest-Radiology",
+    "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::14-Lung-Pharmacology",
+    "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::14-Lung-Pharmacology::Class-Content"
   ],
   "changelog": [
     {
@@ -344,6 +348,11 @@
       "date": "2026-04-09T21:04:16.420038+00:00",
       "message": "Slow and fast arrhythmias",
       "note_count": 106
+    },
+    {
+      "date": "2026-04-13T17:13:10.022103+00:00",
+      "message": "Lung (Asthma) Pharmacology",
+      "note_count": 129
     }
   ],
   "notes": [
@@ -810,6 +819,12 @@
       ]
     },
     {
+      "first_field_hash": "4dc7b726fd29469e4e57cf7dfa60e2a6e18fdb352c1e4fd78be4cbcad7b50d20",
+      "tags": [
+        "JerryShen_AnKing_Tags::Biochemistry::Final::03-Lipid-Metabolism"
+      ]
+    },
+    {
       "first_field_hash": "ccd547e9675d6971d122004e382cf05b46c205472adca9e815b850f29b5199ee",
       "tags": [
         "JerryShen_AnKing_Tags::Biochemistry::Final::05-Nitrogen-Metabolism::Class-Content"
@@ -867,6 +882,12 @@
       "first_field_hash": "10cf7769f0fb8ce4cb9b11f2f93c23f10d5da9d2bfe6ff00bd65a3554e95c3c5",
       "tags": [
         "JerryShen_AnKing_Tags::Biochemistry::Final::04-Regulation"
+      ]
+    },
+    {
+      "first_field_hash": "448646f54eef55fc6f5e91a4239e54a6b66a943d96cdd16e33475f7f83c28c16",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::09-Acid-Base-Control-and-Exercise-Physiology"
       ]
     },
     {
@@ -2508,6 +2529,12 @@
       ]
     },
     {
+      "first_field_hash": "500bcdce5d8f5e95a418b5d845166b678d45ca13ac3b7b327ca82e73119f2167",
+      "tags": [
+        "JerryShen_AnKing_Tags::Micro-Pharm::Exam-1::04-Intro-to-Viruses"
+      ]
+    },
+    {
       "first_field_hash": "4604901e93de75146b94d58bef0baaa928ebfd8aa904fc643bd8fbfd96133f44",
       "tags": [
         "JerryShen_AnKing_Tags::Genetics::Exam-2::04-Genetic-Variation-and-Analysis::Class-Content"
@@ -3131,6 +3158,18 @@
       ]
     },
     {
+      "first_field_hash": "b988d3a308c2c27069d8bfab98942242887221a94a6254ac1f09c9b665947d29",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::08-Pulmonary-Mechanics::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "55e1a51cd7f54f0b0287683a70ec19ef63e96426a6af10340acb020c50305e8a",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::08-Pulmonary-Mechanics::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "a5fcb1403d18ae76c031e0fee4df5b088bff276e3406db9dde383e9dc7183463",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::02-Pulmonary-Circulation"
@@ -3535,7 +3574,8 @@
     {
       "first_field_hash": "a8926d5f5493368a7e95894c0b1d5cd52895e2121ed29291323fc11aebc56aea",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::04-O2-and-CO2-Transport::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::04-O2-and-CO2-Transport::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::09-Acid-Base-Control-and-Exercise-Physiology::Class-Content"
       ]
     },
     {
@@ -3543,6 +3583,12 @@
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::02-Pulmonary-Circulation",
         "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::02-Pulmonary-Circulation::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::08-Pulmonary-Mechanics::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "86265cd0451c903e0e73ffc8a1ec1ace5b122709030c1521fa40001ac027ec59",
+      "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::08-Pulmonary-Mechanics::Class-Content"
       ]
     },
@@ -4588,6 +4634,18 @@
       ]
     },
     {
+      "first_field_hash": "aab3e92a1bea15af6c88d932df80f6acd7d9cd4f416b424cd59b930705c4a6b4",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::14-Lung-Pharmacology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "198e6c91fae866ab71ece4ff3c0feeed46a645ed9a68ae1cdaf8d40b832578dc",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::14-Lung-Pharmacology::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "6e56655697ea4aa0b713425c1f1905fc679f65e4b2617c3ea6fb4e58e3b65755",
       "tags": [
         "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-6-Head-&-Neck-1::Histology::Class-Content",
@@ -5120,6 +5178,18 @@
       ]
     },
     {
+      "first_field_hash": "5c65125a92358a3c621146b5df40beec35f9321fe900a87554560be739c6e046",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::08-Pulmonary-Mechanics::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "acfe17b122cd1e8419ec4cd09a1b80b048bef56639a5d302c73cbbab1da525c4",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::08-Pulmonary-Mechanics::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "036d856339fd2c10b86eee9642a81d187e42c6ffd1189188122a8f7122b8a4cf",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::08-Pulmonary-Mechanics::Class-Content"
@@ -5171,6 +5241,12 @@
     },
     {
       "first_field_hash": "aaaa60fdcd90044e48de2eaff594a839a57056747e68c9c3102eeb75af09b256",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::08-Pulmonary-Mechanics"
+      ]
+    },
+    {
+      "first_field_hash": "29d51b8deda583d2cca5dfceda77a1e5408f2b1c317e42b875d8a464246c4453",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::08-Pulmonary-Mechanics"
       ]
@@ -5941,12 +6017,14 @@
     {
       "first_field_hash": "6039c011c8ddfea77bc7747a79800385bf63a68ecf1152fa9290bff3308e1765",
       "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::09-Acid-Base-Control-and-Exercise-Physiology::Class-Content",
         "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::11-Control-of-Ventilation::Class-Content"
       ]
     },
     {
       "first_field_hash": "9ead856a7c339362d9c07e739eb15479abd60c04d9db50499597f2e5aee1fe0d",
       "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::09-Acid-Base-Control-and-Exercise-Physiology::Class-Content",
         "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::11-Control-of-Ventilation::Class-Content"
       ]
     },
@@ -5964,8 +6042,15 @@
       ]
     },
     {
+      "first_field_hash": "98ada784fdb3517c70e653eedad58a9478ef76198393ca9fcd85ed43e51485d0",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::09-Acid-Base-Control-and-Exercise-Physiology"
+      ]
+    },
+    {
       "first_field_hash": "1d6203b918c1f36b8a2fb9d92f13c70bf51cbc8148454743623b84d4121a9186",
       "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::09-Acid-Base-Control-and-Exercise-Physiology::Class-Content",
         "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::11-Control-of-Ventilation::Class-Content"
       ]
     },
@@ -5974,19 +6059,30 @@
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::03-Ventilation-and-Diffusion",
         "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::03-Ventilation-and-Diffusion::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::09-Acid-Base-Control-and-Exercise-Physiology::Class-Content",
         "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::11-Control-of-Ventilation::Class-Content"
       ]
     },
     {
       "first_field_hash": "eda67eee8cb064ded7b6b916a8e80ca99d3812a25ee80655c2a6894b53cd7a7a",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::04-O2-and-CO2-Transport"
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::04-O2-and-CO2-Transport",
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::04-O2-and-CO2-Transport::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::09-Acid-Base-Control-and-Exercise-Physiology::Class-Content"
       ]
     },
     {
       "first_field_hash": "ca51b5f041a33750a2f2e668c76b09fb7baf810ad1e15a13560a9c9d74a5e52f",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::04-O2-and-CO2-Transport"
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::04-O2-and-CO2-Transport",
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::04-O2-and-CO2-Transport::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::09-Acid-Base-Control-and-Exercise-Physiology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "121038978887d50d709109434854492dcaaebee4dff09491770d17624ff9a5a7",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::09-Acid-Base-Control-and-Exercise-Physiology"
       ]
     },
     {
@@ -7696,6 +7792,12 @@
       ]
     },
     {
+      "first_field_hash": "efe3197b403f64cb350c9fa8eda449d42fe20fb76908d522a4f1313080fc5053",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::09-Acid-Base-Control-and-Exercise-Physiology::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "fd61bbe9b1a89534d5531ba8567d234153f7193d8acb91c1e37606e672ee7e68",
       "tags": [
         "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-7-Head-&-Neck-2::Anatomy::Class-Content"
@@ -7847,6 +7949,12 @@
       ]
     },
     {
+      "first_field_hash": "0898f6d389efaa99e2fe4e90ef264a3f5a1e5e046a58e1e7d05f232734d0f1f7",
+      "tags": [
+        "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-1-Thorax::Anatomy"
+      ]
+    },
+    {
       "first_field_hash": "1bbc410e30f4d23282c08a2962d0a384cbb8f1ddba86fa39336faa1b608d971b",
       "tags": [
         "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-1-Thorax::Anatomy::Class-Content",
@@ -7890,15 +7998,288 @@
       ]
     },
     {
+      "first_field_hash": "9e8d82db08bba1d68d2d01339dc51e4735d0ca67653948905facc7415a47e2a2",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::14-Lung-Pharmacology",
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::14-Lung-Pharmacology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "2f05a8afa6d786cb720a78151c0d8ba75f8d003644ef603487a5ee0962559665",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::14-Lung-Pharmacology::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "1d8faa996c43fadd34531b6b92877cb2c6534b444f47150d1d2dd91cf169598d",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::12-Pathology-of-Asthma-and-COPD"
       ]
     },
     {
+      "first_field_hash": "6429cccadedd7ae28f14877df29a24b73bb2636e66a64cbba9a33771dd60a80a",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::14-Lung-Pharmacology"
+      ]
+    },
+    {
+      "first_field_hash": "21a8e06cf1ef4d7ba6495c70ddc22b7af130068da1f9259e9e053f5f8aa94259",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::14-Lung-Pharmacology",
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::14-Lung-Pharmacology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "f85088e50be971eb13d5b80900e35ec4c8c540c78f1549ddbf27e0416070ef75",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::14-Lung-Pharmacology",
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::14-Lung-Pharmacology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "6fb5ebeedc066786ac69853aa565f797430e42ce78d58d975f2bf60667f2cb5c",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::14-Lung-Pharmacology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "86f28819bb2596e3c7f31f8bdf5b206a145b9a135db19cdc41741007a699649b",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::14-Lung-Pharmacology"
+      ]
+    },
+    {
+      "first_field_hash": "d155265c1beefbd2198c6b9ef11c26b307ac1c6c0cd2224956bacf5f07ce589a",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::14-Lung-Pharmacology"
+      ]
+    },
+    {
+      "first_field_hash": "88ece09eee6c6ebc8289e164a44ea4dfde161053fe0747d4eea16398099512b4",
+      "tags": [
+        "JerryShen_AnKing_Tags::Micro-Pharm::Exam-1::05-Intro-to-Fungi",
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::14-Lung-Pharmacology",
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::14-Lung-Pharmacology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "faaab2115fed91991dbe0b6e154058f76717169338b498a41cb7b6a289a70ff4",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::14-Lung-Pharmacology"
+      ]
+    },
+    {
+      "first_field_hash": "94c0de78476b100c87ac00fc484029d4df4e89fb4bc1f4f9c1ee4eab9c3eba85",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::14-Lung-Pharmacology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "612912b5dbe8f25817993a7057c58a49cc64ea9d80a923ffe2eff800e1bba665",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::14-Lung-Pharmacology"
+      ]
+    },
+    {
+      "first_field_hash": "27207bdbcd3182d86ffb59e4909231ef582691e504f48ba12d38b220a984b7cd",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::14-Lung-Pharmacology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "19347b8c404f33740fef48c82474b6a92f6d402564df901eccc4ae99a38ce63e",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::14-Lung-Pharmacology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "682b661f8781f624d0f5f24b6da8740f1d0f4426d184c94a99fb35e28131660f",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::14-Lung-Pharmacology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "03840379be5faa327a3d1ca750f450ad2b79f1ef12b1a495d8f0f4852bce9bff",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::14-Lung-Pharmacology"
+      ]
+    },
+    {
+      "first_field_hash": "271249f9f7cedb389e5e473240842911d2b039602716655c67cf5d5e5b7bb069",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::14-Lung-Pharmacology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "23006438aa480a5c34bff75151f34ea6ec599c3a0dd91af2d107b045688c5b65",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::14-Lung-Pharmacology"
+      ]
+    },
+    {
+      "first_field_hash": "eec6c70a044370fa128a3c08e781414928afe67357965d675e407efd0fa1735b",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::14-Lung-Pharmacology",
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::14-Lung-Pharmacology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "0da54c6c45d5f6f615666d9a57be8b8dd547610ebbacb5347ec826aa6d4d9bfc",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::14-Lung-Pharmacology"
+      ]
+    },
+    {
+      "first_field_hash": "c2978fc8d6db0befbe5835e7ff5df174fa5e96b3f18968f13a01dcc9ba5a0bc0",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::14-Lung-Pharmacology"
+      ]
+    },
+    {
+      "first_field_hash": "7ca31477b2b6711eebde09f76b32714461742f8b84273853ad3c7f0b878676e0",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::14-Lung-Pharmacology"
+      ]
+    },
+    {
+      "first_field_hash": "e497acf492cb2084ebac5152bd87c64dc09f0b38c5da7239bdcfc9e2d8c5395e",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::14-Lung-Pharmacology",
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::14-Lung-Pharmacology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "7c01fe5b80d5cdc77ecfa44a7b601f62305a60bd33bfda3c10cd2db44cbc02ea",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::14-Lung-Pharmacology",
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::14-Lung-Pharmacology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "a0ac81f27ab16c69b9cff21c1cb5171738f6e40bfe90730a3d33cabbfb4387b3",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::14-Lung-Pharmacology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "c01c344c98903500d0ee8178af26cfa9e60f821ed64cddba18d5d942d3f0b934",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::14-Lung-Pharmacology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "df477726cfcd9198313641d25c5621bad5bd08706e068ce44a88b3c37cee87a6",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::14-Lung-Pharmacology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "2d71099dd60376d6d4e4929457d9ad8b614c77b3e690b586971c46093bd14cf3",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::14-Lung-Pharmacology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "d1630dbca1d724ec9a6e5e471090c1ffd79dc340405064a6a5bcf8c6fefcca7c",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::14-Lung-Pharmacology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "dc7245699c4e8fd78a99f7f7136b8a3a87c9cd2538065fd97d3870410fe53cff",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::14-Lung-Pharmacology"
+      ]
+    },
+    {
+      "first_field_hash": "84a02d330f913f610ffcee0cf35587e3f51e2fdbddc13ccd3688bb20026b4d03",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::14-Lung-Pharmacology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "24a857338e845a0630367b0f88eb46dbcb9dea3bcf8f1f094dd26401460c4cfc",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::14-Lung-Pharmacology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "1c06d7f2d7615f436adb7cc5a349fbf792bd02f34d6fb2299c4aaeb686143d5d",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::14-Lung-Pharmacology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "88ba0af148760ea1671488f900f8967a6ffe953abe2d84d46c771c931db3cefa",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::14-Lung-Pharmacology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "88e7aec38ce31fe822af4c2b96fe77596930dd8125606104da60f250279c139b",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::14-Lung-Pharmacology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "6e3026769dd1b54a0b35e6b337a58cf57da22e0d818fb8a96549c8744c8d2943",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::14-Lung-Pharmacology"
+      ]
+    },
+    {
+      "first_field_hash": "06e7021211191a98d4e117be2dc7391539d4840e0585fd448f03726303fa6224",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::14-Lung-Pharmacology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "41de1e6947dc5e176ecdbe246f1a4be824fd51855674cd513396273aa6af2c47",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::14-Lung-Pharmacology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "86ea735154283d3676e6100a5aaba6a8133e886344624d8d8608e76c8dba80f0",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::14-Lung-Pharmacology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "a4fc7687c0cdd16447a6ab2cd24eafe21ccdc2fc8938878af14afb280b9b6c90",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::14-Lung-Pharmacology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "46b17cdcabb5d9f7e6192bd75212b4d0848e35eb6a0c1d3ba0eec8f516d5bfc6",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::14-Lung-Pharmacology",
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::14-Lung-Pharmacology::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "9b16aed83f7dde3632d7c4721d2cf488f72c5023f8fe10167bb39478e2040152",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::12-Pathology-of-Asthma-and-COPD"
+      ]
+    },
+    {
+      "first_field_hash": "461e17fc010a791d100e75e22c9bb1ba5e01893b048f45edb359c74e499933dc",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::14-Lung-Pharmacology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "a6d3addc5b9ca5ddab5d48cfdb82dd0e3108dd0bfb74a3ee29ebe560dc11adf8",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::14-Lung-Pharmacology"
+      ]
+    },
+    {
+      "first_field_hash": "4c6c4cac9777d2bc1eb4fd68132284acccba89ff7668736c12bb5e57572f90cf",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::14-Lung-Pharmacology::Class-Content"
       ]
     },
     {
@@ -8022,15 +8403,154 @@
       ]
     },
     {
+      "first_field_hash": "adc403cccebd27ae9e31c5866eb268403a692e8e99b3c9d380715f2e748f370d",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::09-Acid-Base-Control-and-Exercise-Physiology"
+      ]
+    },
+    {
+      "first_field_hash": "403753cf19f8a825cafcc7971f3bf28db714e067a612bbefec938f025613c00b",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::09-Acid-Base-Control-and-Exercise-Physiology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "cd18630e113dcce5c7ccb4baa4b9c8eff26e1f6d683c881e645a1a858e370d6d",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::09-Acid-Base-Control-and-Exercise-Physiology"
+      ]
+    },
+    {
       "first_field_hash": "5010cd8c718bd413331efe727624bc48e50c2efc988b56f1327c8e055d706217",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::04-O2-and-CO2-Transport::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::04-O2-and-CO2-Transport::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::09-Acid-Base-Control-and-Exercise-Physiology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "3321a9c6c40fde17056c552af49e29d4edab12c01c05a25dbbb294bdec23c86f",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::09-Acid-Base-Control-and-Exercise-Physiology"
+      ]
+    },
+    {
+      "first_field_hash": "d4463fa6dba5cff776e624660c309b89dee4e5e3b9a97e8f1c81a7f898a08529",
+      "tags": [
+        "JerryShen_AnKing_Tags::Biochemistry::Final::02-Oxidative-Phosphorylation"
       ]
     },
     {
       "first_field_hash": "a08e26f1559922677113c6df9a4050562572fd26def559e491360d316779be60",
       "tags": [
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-1::03-C.diff-&-Pseudomonas::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "473c84faa4fdc242ec8d77aa69f46cdc9a9bb3de59893accb2f8289c9077c30d",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::09-Acid-Base-Control-and-Exercise-Physiology"
+      ]
+    },
+    {
+      "first_field_hash": "10144c55f9c21ef568d246807241dde0846c6044c6a98170680c90ec91e07bd6",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::09-Acid-Base-Control-and-Exercise-Physiology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "37f8d16e9d1136a018950abf775cd1fb9375885178f696bc8077cac8ff4dd9e0",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::09-Acid-Base-Control-and-Exercise-Physiology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "8979644ca77746d79839652807f0ab12d23b04c4e101d5c398954793fc977711",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::09-Acid-Base-Control-and-Exercise-Physiology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "543cefee6f81926ed3ce03896888b6cd4175d1c4a7370e38c0b51975d22fe355",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::09-Acid-Base-Control-and-Exercise-Physiology"
+      ]
+    },
+    {
+      "first_field_hash": "f3ef63857677acff487f436fb0f807f06aaad94209132e444e523f79ff0d28a4",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::09-Acid-Base-Control-and-Exercise-Physiology"
+      ]
+    },
+    {
+      "first_field_hash": "4efc285da4be0338d754599c30c8c39c44ca48be6dd76afddb17c006b8fcdf62",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::09-Acid-Base-Control-and-Exercise-Physiology"
+      ]
+    },
+    {
+      "first_field_hash": "59be176eefa325766d7dd8540b7deda7f5c8dc12f8649dc187be95e25c47c03d",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::09-Acid-Base-Control-and-Exercise-Physiology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "4fc5e42b75a00203fdd23001a85524c36d9108ce017946da550aa6ce54bffd30",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::09-Acid-Base-Control-and-Exercise-Physiology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "978195bf2f9e52223d37972f4f02a9a49c72a5924071fe596eab9a31174dd7da",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::09-Acid-Base-Control-and-Exercise-Physiology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "b64662ae333914eb286769ddf4294e612ad5b281a9ff2b44298bcc4a137f1260",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::09-Acid-Base-Control-and-Exercise-Physiology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "15237c5eeef7be06bda68a5365a481dfba3ab885675bac98683297a92c77248d",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::09-Acid-Base-Control-and-Exercise-Physiology"
+      ]
+    },
+    {
+      "first_field_hash": "25a446b35bc962197abf0f050e52ba3246835c1d04e47b0ce9ec0f5d9b4879c1",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::09-Acid-Base-Control-and-Exercise-Physiology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "6fd6d197c31a49097747fdb0a6ea833fa64debe012254f999a105486dcd070fc",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::09-Acid-Base-Control-and-Exercise-Physiology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "38834c4793a31f7d6d499f2c7c0fdd3b2dd3bd58f58c6ebc0394e307fa764777",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::09-Acid-Base-Control-and-Exercise-Physiology"
+      ]
+    },
+    {
+      "first_field_hash": "77e155670355f02532f610210ba9c009cc44cb23dc47fab5a3f5e990688d0739",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::09-Acid-Base-Control-and-Exercise-Physiology"
+      ]
+    },
+    {
+      "first_field_hash": "bf5fc3f3ff2c31310b46e8ed99e7759af05f28600caca807e1724b2cb85e80dc",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::09-Acid-Base-Control-and-Exercise-Physiology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "1c18f18b62a42cccaaafe92e867d339a79ad8177bcc08cb4d04a13d12f1894c3",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::09-Acid-Base-Control-and-Exercise-Physiology::Class-Content"
       ]
     },
     {
@@ -9337,6 +9857,24 @@
       ]
     },
     {
+      "first_field_hash": "a1be380ed48ba488693655b1ee6eacf54a7bd0821a364f11b03689df111dd1c2",
+      "tags": [
+        "JerryShen_AnKing_Tags::Biochemistry::Final::05-Nitrogen-Metabolism"
+      ]
+    },
+    {
+      "first_field_hash": "3c18cbddc421f1245d119e367ca647e7a3e5c5afe0061188a5a62fcf9d1f975b",
+      "tags": [
+        "JerryShen_AnKing_Tags::Biochemistry::Final::05-Nitrogen-Metabolism::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "97e6a9a51dc88118f08ccfcd92a768b52baa1323aecc724149e9dd7689fd29e7",
+      "tags": [
+        "JerryShen_AnKing_Tags::Biochemistry::Final::05-Nitrogen-Metabolism"
+      ]
+    },
+    {
       "first_field_hash": "7941350bddbdf1523e518b733a9d519c4956112fe1d091bbced946f5a633bd0b",
       "tags": [
         "JerryShen_AnKing_Tags::Biochemistry::Final::05-Nitrogen-Metabolism::Class-Content"
@@ -9676,6 +10214,24 @@
       ]
     },
     {
+      "first_field_hash": "c33f8c33439e98ff80f6705bbfecbdcd6cebf1dcbfd6f838dd9193fcc5604bd1",
+      "tags": [
+        "JerryShen_AnKing_Tags::Biochemistry::Final::03-Lipid-Metabolism"
+      ]
+    },
+    {
+      "first_field_hash": "ba175726e1f9de31bb9c90da2bd58793e6bb6c2e543fa2175a2f1bc94c2c6040",
+      "tags": [
+        "JerryShen_AnKing_Tags::Biochemistry::Final::03-Lipid-Metabolism"
+      ]
+    },
+    {
+      "first_field_hash": "d794d785f45e9dc97b0c666d49d80e608f37ce8c672174318101858bf8e6ec11",
+      "tags": [
+        "JerryShen_AnKing_Tags::Biochemistry::Final::02-Oxidative-Phosphorylation"
+      ]
+    },
+    {
       "first_field_hash": "685e76e04dcf446b557558d3a06de632721cce390c7506086f1da38193a1c187",
       "tags": [
         "JerryShen_AnKing_Tags::Biochemistry::Final::02-Oxidative-Phosphorylation::Class-Content"
@@ -9886,6 +10442,12 @@
       ]
     },
     {
+      "first_field_hash": "3ec979fef8a02680758bfad8e589b018d623f13b424a0e94bf21e9f46f191db8",
+      "tags": [
+        "JerryShen_AnKing_Tags::Biochemistry::Final::05-Nitrogen-Metabolism::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "c900d03cb0bf7dec1d6332da047d950b79c1d2ec73710756a905ab98dc97c448",
       "tags": [
         "JerryShen_AnKing_Tags::Biochemistry::Final::01-Carbohydrate-Metabolism"
@@ -9982,6 +10544,31 @@
       ]
     },
     {
+      "first_field_hash": "a44e5ec95ebfbbff2a66be62e9bbd992392e8abbe141c27fa471c02cfb60e6f5",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::14-Lung-Pharmacology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "d03db3a27de70cc61c882e874918e18a7a70058afccb64c42d1cd792e5865bb3",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::14-Lung-Pharmacology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "cc48f6d60e6deee304ad8691a7f3ffb566e13c105a65eb9294d8232ed34da2c8",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::14-Lung-Pharmacology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "b0002c4a18107daaea7a2fc26d261e125883658cd424e391b603c74390560f19",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::14-Lung-Pharmacology",
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::14-Lung-Pharmacology::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "7f94508afffd9e22fb8fa1c87c590f93f2d226a3ac11aec1f9921fbce51fb299",
       "tags": [
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-1::01-Intro-to-Pharmacodynamics"
@@ -10009,6 +10596,12 @@
       "first_field_hash": "625c887b907a1df5f007b3cd4c1a27140166774a3bba8c3f6ca9b86459b83905",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::04-Pacemaker-Potential"
+      ]
+    },
+    {
+      "first_field_hash": "fb0f72981defea4de0878a7c9b91c1dd22670435487e3930b59971ad67d9b1c2",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::08-Pulmonary-Mechanics"
       ]
     },
     {
@@ -10155,6 +10748,12 @@
       "first_field_hash": "29dd56f7bc4ae50347f313acac5514e486fca8304c0006fd9cc67508a578c6a0",
       "tags": [
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-2::07-β-Lactam-Antibiotics-&-Parasites::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "9eecf44a494f35a9b9adbcddb89927a763c440b6fbcd36d610bcb76c75d810e3",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::14-Lung-Pharmacology::Class-Content"
       ]
     },
     {
@@ -17879,6 +18478,12 @@
       ]
     },
     {
+      "first_field_hash": "0dcde42159bf8aa8868808f56bed9d971ad240e2e14f2f603c5258a70e831008",
+      "tags": [
+        "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-1-Thorax::Embryology::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "1ef4ee370a6de0120cc074b8b6468446de4863dbfea9dea6e0100c6ea083391e",
       "tags": [
         "JerryShen_AnKing_Tags::Immunology::Final::GI-&-Mucosal-Immunity"
@@ -20827,6 +21432,12 @@
       ]
     },
     {
+      "first_field_hash": "45e20c8b67c0d6a938af688c3f6228934b2eecbd146273c0fac632a469becefa",
+      "tags": [
+        "JerryShen_AnKing_Tags::Micro-Pharm::Exam-1::01-Intro-to-Pharmacodynamics::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "35a68ff94f869355fbfaf3a210615658a7c9e8276388cedb1ba4b95940a11447",
       "tags": [
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-1::04-Intro-to-Viruses"
@@ -21194,6 +21805,18 @@
       ]
     },
     {
+      "first_field_hash": "679b8b79769559beb0ced20a646157870341dea4684398f27f623ed372c2edc4",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::07-Pulmonary-Function-Testing"
+      ]
+    },
+    {
+      "first_field_hash": "e3a0dac43c46724e58a43452d2a5dad8f7818329c7b4d39703270f37811294cf",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::14-Lung-Pharmacology"
+      ]
+    },
+    {
       "first_field_hash": "a4c5a433a896e113a95d6e0df79190814c3c257655402fff8c1b63d6e064cfbe",
       "tags": [
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-2::08-Other-Antibiotics-&-Mycobacteria"
@@ -21229,6 +21852,18 @@
       "tags": [
         "JerryShen_AnKing_Tags::Cancer-Biology::Final::Cancer-Pharmacology",
         "JerryShen_AnKing_Tags::Cancer-Biology::Final::Cancer-Pharmacology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "5a9d07835530e2270d718a782dde651f0d426eda09f6aa1c53fe6e7271211c12",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::14-Lung-Pharmacology"
+      ]
+    },
+    {
+      "first_field_hash": "894f873bd10fc3d02a8005188d7b1d42ec3d2914a83e143116423b269e8cc331",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::14-Lung-Pharmacology"
       ]
     },
     {
@@ -24438,6 +25073,12 @@
       ]
     },
     {
+      "first_field_hash": "8673904a7e6ed151fdf431abd03d341ec5daceea2d3e52dd512e54a9948e5585",
+      "tags": [
+        "JerryShen_AnKing_Tags::Micro-Pharm::Exam-2::07-β-Lactam-Antibiotics-&-Parasites"
+      ]
+    },
+    {
       "first_field_hash": "3c52901430cc344d376056822060e43d3b7f3d5c0c76abb024c659d232face0a",
       "tags": [
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-2::07-β-Lactam-Antibiotics-&-Parasites"
@@ -24700,6 +25341,12 @@
       "first_field_hash": "5c06d7b28e049bcc91de1f9bc47777f22beba66c9d9cdcb70700986f3b63b98d",
       "tags": [
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-2::09-Misc-Antimicrobials-&-Skin-Infections"
+      ]
+    },
+    {
+      "first_field_hash": "77006c6bfdc9981f60227b3cd71a815326962aaff8ab2836cd67862cd24fa95f",
+      "tags": [
+        "JerryShen_AnKing_Tags::Micro-Pharm::Exam-1::04-Intro-to-Viruses"
       ]
     },
     {
@@ -30063,6 +30710,12 @@
       ]
     },
     {
+      "first_field_hash": "57abd6e782d2e77420f2995c4b3d5053d7709b0d1c19747741ffec1acbcce62b",
+      "tags": [
+        "JerryShen_AnKing_Tags::Micro-Pharm::Exam-2::07-β-Lactam-Antibiotics-&-Parasites"
+      ]
+    },
+    {
       "first_field_hash": "ea32ea1c6fc11f214a99dde519b45164d849b771c47850b5a18e72a130a35ea6",
       "tags": [
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-2::07-β-Lactam-Antibiotics-&-Parasites",
@@ -32103,6 +32756,13 @@
       ]
     },
     {
+      "first_field_hash": "488954d5ec9599472d4e2ab1ee98e7a8454cc178bce5f641b950522653c844bc",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::14-Lung-Pharmacology",
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::14-Lung-Pharmacology::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "011613473836f95e2cd75f48925de36a9046cb9e6b67a612afd92e755705ab33",
       "tags": [
         "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-5-Lower-Limb::Histology::Class-Content"
@@ -32699,6 +33359,12 @@
       ]
     },
     {
+      "first_field_hash": "26b631238f9470eccc23a3517d4e52716b226c7c260a08dd96694a81f897ec06",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::09-Acid-Base-Control-and-Exercise-Physiology"
+      ]
+    },
+    {
       "first_field_hash": "6bca69ad5049648dff9ee14e142861a47d862c4eb81acf7fe6ff0c30762ec8c3",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::01-Structure-and-Function-of-the-Lung::Class-Content"
@@ -32813,6 +33479,12 @@
       ]
     },
     {
+      "first_field_hash": "6118add6fb28c42bfffdc3c96312a4a7cb2751aa6667382b39580d5ef097c41a",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::14-Lung-Pharmacology::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "5bba4e0531434d627a9745bb1b29e1efcc0ba5682bb4734eba27a7a223c613b4",
       "tags": [
         "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-1-Thorax::Embryology::Class-Content"
@@ -32847,6 +33519,12 @@
       "first_field_hash": "4984cde64bf9bb98d208a18a890d6c40bd3a4ae8611614c472d7655cb405309c",
       "tags": [
         "JerryShen_AnKing_Tags::Genetics::Exam-2::08.2-Dysmorphology"
+      ]
+    },
+    {
+      "first_field_hash": "8d51420b10c0102be179935e7feaaa46d32e7161d2d6122295534d5342bad784",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::14-Lung-Pharmacology"
       ]
     },
     {
@@ -33796,6 +34474,12 @@
       ]
     },
     {
+      "first_field_hash": "ebce881f9869ba186a45e0b3e5c8957eaca2f67d5f0c76b72e00530833821853",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::09-Acid-Base-Control-and-Exercise-Physiology"
+      ]
+    },
+    {
       "first_field_hash": "832ce307dc4ed592ad462d5c9baa572156616c23d1f6b2142c5fd5f6421a5433",
       "tags": [
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-2::10-Biologics-Ectoparasites-&-Clinical-Cases"
@@ -34044,6 +34728,12 @@
       ]
     },
     {
+      "first_field_hash": "1c3ca8044f10d109def8ddeff64c1d292ab6524486d83c4033cfc7e4e473240d",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::09-Acid-Base-Control-and-Exercise-Physiology::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "15d4c2de435f160ec5b713a45463bd676968836b1151ed428a6a0730c680d954",
       "tags": [
         "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-6-Head-&-Neck-1::Anatomy"
@@ -34225,6 +34915,44 @@
       ]
     },
     {
+      "first_field_hash": "9e9262c2190645c148a0985d3a7cf1c3a4ccb08cc418eb68d80d77782fc7dc64",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::09-Acid-Base-Control-and-Exercise-Physiology"
+      ]
+    },
+    {
+      "first_field_hash": "835e0a87ca3512394931db4212c699fea5e1e5b0d17fd499e2efddd232e3405f",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::09-Acid-Base-Control-and-Exercise-Physiology"
+      ]
+    },
+    {
+      "first_field_hash": "919c64b4c0c3b2878d3a5e96eb4e49ee3788133cd2fcb8e548d6d1c7709f9db1",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::09-Acid-Base-Control-and-Exercise-Physiology",
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::09-Acid-Base-Control-and-Exercise-Physiology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "91867f64f78f9bc61769c9509fabcbd03177b2bbc33ce681c8b779976740c72f",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::09-Acid-Base-Control-and-Exercise-Physiology"
+      ]
+    },
+    {
+      "first_field_hash": "efe38243c753c1581affe364934ccfa3cbd974e9af7ba0a7c7836976c9f6e9e9",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::09-Acid-Base-Control-and-Exercise-Physiology",
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::09-Acid-Base-Control-and-Exercise-Physiology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "72cf460cf87ad7b5cc50dc1b21f641177637f7711a40697489e3daddfff03a07",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::14-Lung-Pharmacology::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "a077427dd335a3f6957435489f726054ec8c112b6855222198db6fcd2af3dc17",
       "tags": [
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-2::10-Biologics-Ectoparasites-&-Clinical-Cases"
@@ -34295,6 +35023,18 @@
       "first_field_hash": "1525850167ee6eebfc122640ed53f13322e655c77e25096ec49976c245374c69",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::06-Intro-to-Lung-Histology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "d135fd8d7d705c225f90ee47bd4112b42c5ae01acc9140a44e61902c711abc61",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::14-Lung-Pharmacology"
+      ]
+    },
+    {
+      "first_field_hash": "5883a852e97b9c62384d2ce2f997d601509f064bb3ab5025bea1ecb2d40bdd3c",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::14-Lung-Pharmacology"
       ]
     },
     {
@@ -34393,6 +35133,18 @@
       "first_field_hash": "d6b5586f78a1c2163052039d8043aef29e741339e7bcc01dddd3d885af3ec351",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::07-Slow-Rhythm-Arrhythmias"
+      ]
+    },
+    {
+      "first_field_hash": "1c64e35e8c308625c62c0a3df4241ebbe861a92ac0a84f4b1b8bdcd0ec2a625a",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::14-Lung-Pharmacology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "70c15999f7f11a0f9829e13a072c89d4bf2436c33f870c1bbc9464c62e34effd",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::14-Lung-Pharmacology::Class-Content"
       ]
     },
     {
@@ -34531,6 +35283,12 @@
       "tags": [
         "JerryShen_AnKing_Tags::Cancer-Biology::Final::Cancer-Pharmacology",
         "JerryShen_AnKing_Tags::Cancer-Biology::Final::Cancer-Pharmacology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "cef19f840924475a2be1535f2bfce71ef97117b3a8074680b067ab870188cdce",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::14-Lung-Pharmacology::Class-Content"
       ]
     },
     {
