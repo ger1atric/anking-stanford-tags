@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
   "author": "JerryShen",
-  "description": "Lung (Asthma) Pharmacology",
-  "created": "2026-04-13T17:13:10.022103+00:00",
-  "updated": "2026-04-13T17:13:10.022103+00:00",
+  "description": "Respiratory Infections",
+  "created": "2026-04-14T16:49:01.664598+00:00",
+  "updated": "2026-04-14T16:49:01.664598+00:00",
   "tag_prefix": "JerryShen_AnKing_Tags",
   "tag_hierarchy": [
     "JerryShen_AnKing_Tags",
@@ -246,6 +246,8 @@
     "JerryShen_AnKing_Tags::POM-2::Final::Nutrition::Class-Content",
     "JerryShen_AnKing_Tags::POM-3",
     "JerryShen_AnKing_Tags::POM-3::Clinical-Reasoning",
+    "JerryShen_AnKing_Tags::POM-3::Clinical-Reasoning::Advanced-Pulmonary-Exam",
+    "JerryShen_AnKing_Tags::POM-3::Clinical-Reasoning::Advanced-Pulmonary-Exam::Class-Content",
     "JerryShen_AnKing_Tags::POM-3::Psychiatry",
     "JerryShen_AnKing_Tags::POM-3::Psychiatry::Psychiatric-Interview",
     "JerryShen_AnKing_Tags::POM-3::Psychiatry::Psychiatric-Interview::Class-Content",
@@ -294,7 +296,13 @@
     "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::12-Pathology-of-Asthma-and-COPD::Class-Content",
     "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::13-Intro-to-Chest-Radiology",
     "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::14-Lung-Pharmacology",
-    "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::14-Lung-Pharmacology::Class-Content"
+    "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::14-Lung-Pharmacology::Class-Content",
+    "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::15-Upper-Respiratory-Infections",
+    "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::15-Upper-Respiratory-Infections::Class-Content",
+    "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::16-Lower-Respiratory-Infections",
+    "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::16-Lower-Respiratory-Infections::Class-Content",
+    "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::Lung-Lab-1",
+    "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::Lung-Lab-1::Class-Content"
   ],
   "changelog": [
     {
@@ -353,6 +361,11 @@
       "date": "2026-04-13T17:13:10.022103+00:00",
       "message": "Lung (Asthma) Pharmacology",
       "note_count": 129
+    },
+    {
+      "date": "2026-04-14T16:49:01.664598+00:00",
+      "message": "Respiratory Infections",
+      "note_count": 182
     }
   ],
   "notes": [
@@ -1547,6 +1560,12 @@
       "first_field_hash": "291fe2119288016048855a5ad0e47aac8fabb3674729942085c239df992942fa",
       "tags": [
         "JerryShen_AnKing_Tags::Genetics::Exam-2::03-Chromosomes::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "9cefdfc7e9b5dc6af49c9a22966910276c39b4983077028b3183c01ef03d077c",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::Lung-Lab-1::Class-Content"
       ]
     },
     {
@@ -3974,7 +3993,9 @@
     {
       "first_field_hash": "9c328bc33271e586d3f20544d24c216c67e6e79ec850135d74e41a61444c2dc5",
       "tags": [
-        "JerryShen_AnKing_Tags::Micro-Pharm::Exam-1::02-S.pyogenes-&-E.coli"
+        "JerryShen_AnKing_Tags::Micro-Pharm::Exam-1::02-S.pyogenes-&-E.coli",
+        "JerryShen_AnKing_Tags::Micro-Pharm::Exam-1::02-S.pyogenes-&-E.coli::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::15-Upper-Respiratory-Infections::Class-Content"
       ]
     },
     {
@@ -5149,6 +5170,12 @@
       ]
     },
     {
+      "first_field_hash": "ba4b2a23123b3281f7bf821b1de923d46299f69eab4e8480d78a137bb04f4ccf",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::08-Pulmonary-Mechanics"
+      ]
+    },
+    {
       "first_field_hash": "c16cc3ce611079e484b72e3ea356af8d695ad370a74450c8077ea276454a1d64",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::08-Pulmonary-Mechanics::Class-Content"
@@ -5442,7 +5469,21 @@
       ]
     },
     {
+      "first_field_hash": "8dd028563b0d847b20598aa93adeb5510a12512ba65d199b7702289885e3a797",
+      "tags": [
+        "JerryShen_AnKing_Tags::POM-3::Clinical-Reasoning::Advanced-Pulmonary-Exam"
+      ]
+    },
+    {
       "first_field_hash": "006cd7e68b0388187b48d82d239aaaef2954ab34d4e191f040e1cafe40cf2f16",
+      "tags": [
+        "JerryShen_AnKing_Tags::POM-3::Clinical-Reasoning::Advanced-Pulmonary-Exam::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::04-O2-and-CO2-Transport",
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::04-O2-and-CO2-Transport::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "395ec841f19e9286ac2f6b62b3f610d4f4e8874bdfdff8ce78be9cd694705b29",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::04-O2-and-CO2-Transport"
       ]
@@ -5450,11 +5491,19 @@
     {
       "first_field_hash": "e97ba2f1ce86c1f5568a366fa819148844e83b8ca801e360064ca7a0c9c1c42a",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::04-O2-and-CO2-Transport"
+        "JerryShen_AnKing_Tags::POM-3::Clinical-Reasoning::Advanced-Pulmonary-Exam::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::04-O2-and-CO2-Transport",
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::04-O2-and-CO2-Transport::Class-Content"
       ]
     },
     {
       "first_field_hash": "37896ca3a86cfc6f1b57bd84e66a66400e52571a527c522f5f8f14ba25dd67d9",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::04-O2-and-CO2-Transport"
+      ]
+    },
+    {
+      "first_field_hash": "2f4a717931760bce9017d4ab9338b26ed5b3880d34f9b6ec08fb336027abb002",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::04-O2-and-CO2-Transport"
       ]
@@ -6136,6 +6185,42 @@
       ]
     },
     {
+      "first_field_hash": "aeb68393e2cb2da11c6b8880431f7ae98cc5eb60481f4f7906626174eb1e2811",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::04-O2-and-CO2-Transport"
+      ]
+    },
+    {
+      "first_field_hash": "6a019ba88b3eada7b1ef52c6552c6b6c8a6a09c8b70d79159b610c123392f0f0",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::15-Upper-Respiratory-Infections::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "60fdd1555dc08d805e88c8642cc7e9d64b1da3311f4fdebce415560142dc65a0",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::15-Upper-Respiratory-Infections::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "e8af1c2177e34d7ef17d527a0dffbccb597697c7e1149c2b1994f00484fe24f3",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::15-Upper-Respiratory-Infections::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "bc78f749abe754e285bcca02cba710cf3a2ffa5babadb85e25f205b2e9382416",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::15-Upper-Respiratory-Infections"
+      ]
+    },
+    {
+      "first_field_hash": "15803ff51d311909e26c04d2f48d340e671b1af801249fb3471316c103953b8e",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::15-Upper-Respiratory-Infections::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "c743f21aee5571460e7c91e4cf34efaa3073dbba7c8b19df707572bd597b7ba3",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::06-Intro-to-Lung-Histology::Class-Content"
@@ -6149,6 +6234,30 @@
       ]
     },
     {
+      "first_field_hash": "63bdb92d35488051a08dbf72c37a40f72bb17dceb2719113d1f3b484bd16772e",
+      "tags": [
+        "JerryShen_AnKing_Tags::POM-3::Clinical-Reasoning::Advanced-Pulmonary-Exam"
+      ]
+    },
+    {
+      "first_field_hash": "6a00703624bd98a8e9a88479fc1297b8c17aa3d54ff328008eec37d64ecafd64",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::Lung-Lab-1"
+      ]
+    },
+    {
+      "first_field_hash": "63b5ed595ff9c18a4e1c3d53fbfc14f43556e75b4cf2990a1b99b865139c27ce",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::Lung-Lab-1"
+      ]
+    },
+    {
+      "first_field_hash": "a698377c2f8de3b552ba46d6b6f53102d1a8888a20996aa3331f64b0f007b1a1",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::Lung-Lab-1"
+      ]
+    },
+    {
       "first_field_hash": "b143c6d1752a624123f3a3485a93851a807ca024296279ecb4b15cf0754dba8d",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::06-Intro-to-Lung-Histology::Class-Content"
@@ -6158,6 +6267,12 @@
       "first_field_hash": "afaa1686879c5628c495e8f764ee8e794c7ecc7af277a347651b53800de56d57",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::06-Intro-to-Lung-Histology"
+      ]
+    },
+    {
+      "first_field_hash": "6616d6c75928fe98af1bfc11eb325845454fd2b4bf89bbb53736eed5f2fff748",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::Lung-Lab-1"
       ]
     },
     {
@@ -6191,9 +6306,34 @@
       ]
     },
     {
+      "first_field_hash": "c20e4cce31b52d803046687b465ead94f419ff5aea4d194e9052bfa6ad84c32c",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::Lung-Lab-1"
+      ]
+    },
+    {
       "first_field_hash": "e996cff174cc35cac443ada219307e3158b3abe20787c2972b9d68401444f1df",
       "tags": [
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-2::09-Misc-Antimicrobials-&-Skin-Infections"
+      ]
+    },
+    {
+      "first_field_hash": "c2076b4775670c2f4a8253a5fce445c4c616d8e3abcbc3640d2539dab405fb10",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::16-Lower-Respiratory-Infections",
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::16-Lower-Respiratory-Infections::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "b02289dc5796962f909e015eb866fa7a33c3264379528c427387c2fc0fdef510",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::16-Lower-Respiratory-Infections::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "b073cd0a899528c4a9233f87d1a703e6efeea3859baf20a20de96fd9a17783dd",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::16-Lower-Respiratory-Infections"
       ]
     },
     {
@@ -6203,9 +6343,39 @@
       ]
     },
     {
+      "first_field_hash": "278e4482f6cf92f7679099b40d037c17839c6e04a467f72b825c4cbda7f6b840",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::16-Lower-Respiratory-Infections::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "14c56773e7e82a203aa28398e35cf30ee24084d62339e23c5fdaa31f664351bf",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::16-Lower-Respiratory-Infections"
+      ]
+    },
+    {
+      "first_field_hash": "c52b9255043ce4e3e5e0b72ba17e81888bce9c6467a1f65e77f4f32a1ac791a9",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::16-Lower-Respiratory-Infections::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "2b7f54b9a3c2ce4469a7673fe584eb465f3d2c6501a959ed3ab02a3b69f4e615",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::16-Lower-Respiratory-Infections"
+      ]
+    },
+    {
       "first_field_hash": "036ccde25d29620fc1be015a51b36385329396e3f2e25794e1248b0139603c89",
       "tags": [
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-1::04-Intro-to-Viruses"
+      ]
+    },
+    {
+      "first_field_hash": "68adcaeb48308d103807b744214fdd97b96e7903c82cd8f7a8c5f000aa126152",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::16-Lower-Respiratory-Infections::Class-Content"
       ]
     },
     {
@@ -6415,6 +6585,18 @@
       ]
     },
     {
+      "first_field_hash": "41c682c0af04c268b571efc842df722996da27ac2113273e12fb0088023faffb",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::12-Pathology-of-Asthma-and-COPD"
+      ]
+    },
+    {
+      "first_field_hash": "2956588ba641cf9f06d5532e6d86dbad7cf93219c1d72e9ac7768ee7841122bb",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::12-Pathology-of-Asthma-and-COPD"
+      ]
+    },
+    {
       "first_field_hash": "59ab3970cfb1107922f7683b7ed8c1d4871a847fd985f38a6c32e03a0b970a36",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::12-Pathology-of-Asthma-and-COPD"
@@ -6554,6 +6736,12 @@
       ]
     },
     {
+      "first_field_hash": "1b2bcf2471087492e5015c5157d7a45f0547b7c2578a0f67247098cccffb6f2a",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::07-Pulmonary-Function-Testing"
+      ]
+    },
+    {
       "first_field_hash": "8c48bc7f24c50ee03cfe98dc6818a7daef9bb4112cc86cd3eb810f31c028d095",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::06-Intro-to-Lung-Histology::Class-Content"
@@ -6563,6 +6751,12 @@
       "first_field_hash": "a72794da12b094e0521aa0e2c03a332e4a074d02f9ea42a593980e717f6718de",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::06-Intro-to-Lung-Histology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "467ca80d048fd22fd6e975d3e13412b42217767b4e7ec28b5c5885fdc4725472",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::Lung-Lab-1::Class-Content"
       ]
     },
     {
@@ -6747,6 +6941,12 @@
       "first_field_hash": "45330f208ecebc00cf592c4b47183a508ec1a212e85730b16232663aef37b3e9",
       "tags": [
         "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-1-Thorax::Anatomy"
+      ]
+    },
+    {
+      "first_field_hash": "70e565bc363276e3036372cd4d3c26439a3961f9e6ec2a64c8509941bc54a735",
+      "tags": [
+        "JerryShen_AnKing_Tags::POM-3::Clinical-Reasoning::Advanced-Pulmonary-Exam::Class-Content"
       ]
     },
     {
@@ -7804,6 +8004,12 @@
       ]
     },
     {
+      "first_field_hash": "0950fd2f99c36a15827c10b4dec3c77d1a14f03a02b70c3167dc308e3b728e62",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::15-Upper-Respiratory-Infections::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "27c66d9ff62292d31f4d90706827507e72b9c7491b35d7b1c1462becb01a8aae",
       "tags": [
         "JerryShen_AnKing_Tags::Cancer-Biology::Final::Lab-02-Cancer-Tumor-Board"
@@ -7858,9 +8064,16 @@
       ]
     },
     {
+      "first_field_hash": "fe2cb8edda017fbed3dd9713dee80d15f30dbaed324e28c2c04cf356cd28b65b",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::16-Lower-Respiratory-Infections"
+      ]
+    },
+    {
       "first_field_hash": "8b023e4ec3fb324fc888caa2cc032efe07e2b056703253600389c19b0b5c7916",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::01-Structure-and-Function-of-the-Lung::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::01-Structure-and-Function-of-the-Lung::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::16-Lower-Respiratory-Infections::Class-Content"
       ]
     },
     {
@@ -7942,6 +8155,12 @@
       ]
     },
     {
+      "first_field_hash": "c50e928bc58a102db746510ada477555994696a90890683271d5ef0fdaebbd26",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::01-Structure-and-Function-of-the-Lung"
+      ]
+    },
+    {
       "first_field_hash": "8d1c6866d5145c743f87011d2e6e93470d7ca08348d0b73c38689e5d5d4ccc7c",
       "tags": [
         "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-1-Thorax::Anatomy::Class-Content",
@@ -8002,6 +8221,12 @@
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::14-Lung-Pharmacology",
         "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::14-Lung-Pharmacology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "2c55fd92c81ddc45a46092e229945a5218698ea26e37e9df13ce3575291c0a2b",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::14-Lung-Pharmacology"
       ]
     },
     {
@@ -10208,6 +10433,12 @@
       ]
     },
     {
+      "first_field_hash": "f6ab58cf0a35351e7c19803cc9ee853c47a29474349ae8f16fb4017a9b06960d",
+      "tags": [
+        "JerryShen_AnKing_Tags::Biochemistry::Final::04-Regulation::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "904abaa79cbf2c0597f246c5e0a481483e3ce0c8d77e0220dfc5f0eb7cece7b6",
       "tags": [
         "JerryShen_AnKing_Tags::Biochemistry::Final::03-Lipid-Metabolism::Class-Content"
@@ -12021,6 +12252,12 @@
       "first_field_hash": "2c7d5e394834ed3f12900945530c4560d71300dba11231765acae72edbf28916",
       "tags": [
         "JerryShen_AnKing_Tags::Immunology::Final::Immune-Deficiencies"
+      ]
+    },
+    {
+      "first_field_hash": "49c068ae7b477e8c84988e0cc6e0b3502e563e8a01ecec82c8b2b96c514f803c",
+      "tags": [
+        "JerryShen_AnKing_Tags::Immunology::Final::Innate-Sensing"
       ]
     },
     {
@@ -17478,6 +17715,18 @@
       ]
     },
     {
+      "first_field_hash": "4cf40fcb725af7db10735d5d90f86136dd736c5255df2bf69c02cc3c222b237c",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::Lung-Lab-1"
+      ]
+    },
+    {
+      "first_field_hash": "93a598687c06139480d4997ce7e44ce23399a12564212363cc441734271fc2f4",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::Lung-Lab-1"
+      ]
+    },
+    {
       "first_field_hash": "e4a962d239869ca7c1b01f6dd38cf74e2842cc75021e2e4c0233fd3b25e8058e",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::03-Ventilation-and-Diffusion::Class-Content"
@@ -17836,6 +18085,12 @@
       "first_field_hash": "5f3d84680c88a5db4280c91c16a1e80e0e8c894e4f9a88df11e4285acd95dc00",
       "tags": [
         "JerryShen_AnKing_Tags::POM-1::Final::Epidemiology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "1fbf86ee00fef9c3f84d487955cf317d7d94c9f2287e3f1969712fe786bfda9c",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::16-Lower-Respiratory-Infections"
       ]
     },
     {
@@ -21522,6 +21777,12 @@
       ]
     },
     {
+      "first_field_hash": "fc0babce31ac4529754b743ffdea334774e28db771bccb9a85f8332cfcd39505",
+      "tags": [
+        "JerryShen_AnKing_Tags::POM-3::Clinical-Reasoning::Advanced-Pulmonary-Exam::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "8339e9b18266c9606e23248c2df1c633e721786ed882523b2cc23e99307b7190",
       "tags": [
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-2::09-Misc-Antimicrobials-&-Skin-Infections::Class-Content"
@@ -21838,6 +22099,12 @@
       "first_field_hash": "60150a0e2cd64394b191152ba0601c5ee442604fa99a8f0204fac617e3cc50b7",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::13-Intro-to-Chest-Radiology"
+      ]
+    },
+    {
+      "first_field_hash": "b5d2f326505d187615462bf6469cdf8b4bc8f2216951c355310c4c5e117e2221",
+      "tags": [
+        "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-1-Thorax::Anatomy::Class-Content"
       ]
     },
     {
@@ -22214,6 +22481,12 @@
       "first_field_hash": "f7479d1fd9056d1c1bd25402d92cb8e58475bb4cdc57557e9e4e0836f07c47a3",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::07-Pulmonary-Function-Testing"
+      ]
+    },
+    {
+      "first_field_hash": "7bbfc950e02f93944d9cedc6dd719f87e5f8ca9354d6c04c704c3e26e382e9d7",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::16-Lower-Respiratory-Infections::Class-Content"
       ]
     },
     {
@@ -23943,6 +24216,12 @@
       ]
     },
     {
+      "first_field_hash": "6f169e1cc23b0b37695917f354eba37fd40e1a2a73a6b4948062647b94c96a8b",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::16-Lower-Respiratory-Infections"
+      ]
+    },
+    {
       "first_field_hash": "5c046587d14c734b8132cce9a2a4574d79fdc9fe991d2b760d53fcf7ef028ad7",
       "tags": [
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-1::02-S.pyogenes-&-E.coli"
@@ -24045,6 +24324,12 @@
       ]
     },
     {
+      "first_field_hash": "280699df32ceee3a28c5d8a9e3aba720b3bbd6c3556f1fb18b1f5c7312af2e66",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::16-Lower-Respiratory-Infections::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "936dc8a240c1f0ac31655598278544002109801c91bba2024463f3ed56e86bfd",
       "tags": [
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-1::02-S.pyogenes-&-E.coli"
@@ -24088,9 +24373,39 @@
       ]
     },
     {
+      "first_field_hash": "b0a43740062f57047589740f85566ce891147d002a359f84c488f33e6ec5287c",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::16-Lower-Respiratory-Infections::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "fa23791aa20681441e5509c89c540708c2391ce7d535e1bf1ac3728ca7340079",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::16-Lower-Respiratory-Infections::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "c90cefb13528b3a9e7db5b62087ed1b7469455ae95674f0a83a3a642a9a4d677",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::16-Lower-Respiratory-Infections::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "77fe17a61d029817f0bfc9a446e5a942cfc208c1e8f66de783ce0861d94226c5",
       "tags": [
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-1::02-S.pyogenes-&-E.coli::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "b35a91549e702d13efcc85fa247472a634fe16c5c96238201ebd6a377b644f8f",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::16-Lower-Respiratory-Infections::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "8ee668d7ec0072d9845b4beae8455c9957cffcb9256d29fae3098f76fbc531ea",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::16-Lower-Respiratory-Infections::Class-Content"
       ]
     },
     {
@@ -24536,13 +24851,16 @@
     {
       "first_field_hash": "98ca3e3c4669e9fc2f11451082d33704677ab68d6c622eb9f3defc68fa8ab211",
       "tags": [
-        "JerryShen_AnKing_Tags::Micro-Pharm::Exam-1::02-S.pyogenes-&-E.coli"
+        "JerryShen_AnKing_Tags::Micro-Pharm::Exam-1::02-S.pyogenes-&-E.coli",
+        "JerryShen_AnKing_Tags::Micro-Pharm::Exam-1::02-S.pyogenes-&-E.coli::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::15-Upper-Respiratory-Infections::Class-Content"
       ]
     },
     {
       "first_field_hash": "bb04be91cc653872992ed6a1b867afe235b301fef87e97f77a89f58f5ed07a50",
       "tags": [
-        "JerryShen_AnKing_Tags::Micro-Pharm::Exam-1::02-S.pyogenes-&-E.coli"
+        "JerryShen_AnKing_Tags::Micro-Pharm::Exam-1::02-S.pyogenes-&-E.coli",
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::15-Upper-Respiratory-Infections"
       ]
     },
     {
@@ -24596,7 +24914,9 @@
     {
       "first_field_hash": "74861edc451844a2b049e32506b05ccc70b02f9ca3500185780401b76e347acf",
       "tags": [
-        "JerryShen_AnKing_Tags::Micro-Pharm::Exam-1::02-S.pyogenes-&-E.coli"
+        "JerryShen_AnKing_Tags::Micro-Pharm::Exam-1::02-S.pyogenes-&-E.coli",
+        "JerryShen_AnKing_Tags::Micro-Pharm::Exam-1::02-S.pyogenes-&-E.coli::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::15-Upper-Respiratory-Infections::Class-Content"
       ]
     },
     {
@@ -24651,6 +24971,42 @@
       "first_field_hash": "299691d3d083d5d5b07af6a3bfd4f00f7ea00490100a83473e2a8216157163fc",
       "tags": [
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-1::02-S.pyogenes-&-E.coli"
+      ]
+    },
+    {
+      "first_field_hash": "3b027b087ee6e021e925926bb5e35b14e46c5e9c64b3509d7d9f67d81da722d5",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::16-Lower-Respiratory-Infections::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "486018c4ecb52aa8360732918b9c5ed55350aef73c3e322c7ad74cfd24f66854",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::16-Lower-Respiratory-Infections::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "8b42b72c03f9130f4c8350ab4eab6cb4a5b2ab70c99e20c3f53e08c19a05c56a",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::16-Lower-Respiratory-Infections::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "8efb76d7745e70658b42395518cf725cb64db4206a17a419ba1f49c629f1e329",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::16-Lower-Respiratory-Infections"
+      ]
+    },
+    {
+      "first_field_hash": "3e0369b9d94d4619313d543b9673c3dfeeef0a92f8f7a2d7a928f8ac79e4ce8f",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::16-Lower-Respiratory-Infections"
+      ]
+    },
+    {
+      "first_field_hash": "9a890f09fe95a7dee7e4dad38996ffcc225eec2e2da2bde9474ef02da431851a",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::16-Lower-Respiratory-Infections"
       ]
     },
     {
@@ -25346,7 +25702,8 @@
     {
       "first_field_hash": "77006c6bfdc9981f60227b3cd71a815326962aaff8ab2836cd67862cd24fa95f",
       "tags": [
-        "JerryShen_AnKing_Tags::Micro-Pharm::Exam-1::04-Intro-to-Viruses"
+        "JerryShen_AnKing_Tags::Micro-Pharm::Exam-1::04-Intro-to-Viruses",
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::16-Lower-Respiratory-Infections"
       ]
     },
     {
@@ -26475,6 +26832,42 @@
       ]
     },
     {
+      "first_field_hash": "bcba929f737a3489f053478b2815af9b5a823ac67d4084ccff6be52d3910ede8",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::15-Upper-Respiratory-Infections::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "0820942067e12c2b127e9b00b213bb2db5b578c3ab4172a49cd3de2cbe4d2014",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::15-Upper-Respiratory-Infections::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "8900176ed77847b7a52de345b17c30f44ca85cda760e275c355907a62f75b596",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::15-Upper-Respiratory-Infections::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "30daf4853e1705b17578afaa5b6aa3eb3580dbea53d10208511af55d6e0c3c3e",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::15-Upper-Respiratory-Infections::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "e17366c97ed1c48dd6298d2323b7801bc4ea0900cadb4421a048b143626ebde4",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::15-Upper-Respiratory-Infections::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "1c6042866567c7531f87a1b408005e5a77fae3ca8c9a97075735e10ce06c7779",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::15-Upper-Respiratory-Infections::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "e63a3ad34024f24fc8317b3345e9278086de1553f58fdb053a236e798d5be57a",
       "tags": [
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-1::02-S.pyogenes-&-E.coli"
@@ -27161,6 +27554,12 @@
       "first_field_hash": "ef1eac3c9e1fbcf998934934db31038993302b3c3330b54d180d27d10ac4b092",
       "tags": [
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-1::04-Intro-to-Viruses"
+      ]
+    },
+    {
+      "first_field_hash": "0ec12c82aabb94307624fe950052b2bdc0e86ded60ab68a024de3c11dffba0d7",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::15-Upper-Respiratory-Infections::Class-Content"
       ]
     },
     {
@@ -28334,6 +28733,12 @@
       "first_field_hash": "2d78979b1ca393efeb9c994d4625e8a9db18a6a141822f73b7989d02b4f5b1ff",
       "tags": [
         "JerryShen_AnKing_Tags::Cancer-Biology::Final::Cancer-Pharmacology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "10e2d4badac6e7ce2db3d7b83359975b0792e38eaac8d991fbca447c870ba519",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::14-Lung-Pharmacology::Class-Content"
       ]
     },
     {
@@ -30969,9 +31374,45 @@
       ]
     },
     {
+      "first_field_hash": "231694d2440a9e441388f4a17ca8a018094d517d84e3c033bab9cc808eb07da4",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::16-Lower-Respiratory-Infections"
+      ]
+    },
+    {
+      "first_field_hash": "77550d224c79a7e100b2a96e07ae1c0c34724fa829009d7a8b89d0b52053b280",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::15-Upper-Respiratory-Infections::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "64f77d7b6f0d582a89d5de2e8b558baca7006c2924c4d821911880c6e4c1898a",
       "tags": [
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-2::07-β-Lactam-Antibiotics-&-Parasites"
+      ]
+    },
+    {
+      "first_field_hash": "28608f0a45a7c64e0c166d0f663cf8fe49e27a477b87da062f0069db4eea2e80",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::16-Lower-Respiratory-Infections"
+      ]
+    },
+    {
+      "first_field_hash": "7347e3d7e9e552c16152185ca951663e8cbee0dac4078191f69f0a547b4f1474",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::16-Lower-Respiratory-Infections"
+      ]
+    },
+    {
+      "first_field_hash": "962ad81d8647b2dfd186733787ce05b6457539de21de398e10228ffe93b3e970",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::16-Lower-Respiratory-Infections"
+      ]
+    },
+    {
+      "first_field_hash": "007325e457a3706f6dc3b517c748626a384fa46cfacf4dbdc445f87038c03973",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::16-Lower-Respiratory-Infections"
       ]
     },
     {
@@ -30984,6 +31425,36 @@
       "first_field_hash": "6ccfa5d17a71c0bf7a2b0fe823162ac65c0878bb608e9b227eed97c269ae664b",
       "tags": [
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-2::07-β-Lactam-Antibiotics-&-Parasites"
+      ]
+    },
+    {
+      "first_field_hash": "7c7362571825ad759de9ee6a6928d706f269bded862857ebced5277a13a9b247",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::15-Upper-Respiratory-Infections"
+      ]
+    },
+    {
+      "first_field_hash": "b50c2fdde92994db976e2e348d0e2c8a140437a318bbabadfb0de3a7a5b72a8f",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::16-Lower-Respiratory-Infections::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "8b869919d193ddf773be33d2cd3f1b3b8dfe5bf1a835fbc253df4b46e781b650",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::16-Lower-Respiratory-Infections::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "2c2fd5bfffd06a3fdb9d46624b06e394c3f2e0c005afefa8aa45b4b4b13b6eaf",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::16-Lower-Respiratory-Infections::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "c1fe7e4ab8fb2b7587eabbd69a266f39fa67e514f1eb0b496fb7b82362397233",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::16-Lower-Respiratory-Infections::Class-Content"
       ]
     },
     {
@@ -31044,6 +31515,42 @@
       ]
     },
     {
+      "first_field_hash": "647fa2942bdee363dcfcb74100e228b5221d94a023f7a00bae116fd358088cd3",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::16-Lower-Respiratory-Infections"
+      ]
+    },
+    {
+      "first_field_hash": "67250a39ae41a279b6954318e666d6b9b9b476c2fb063efab4214df2b2ad2d0d",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::16-Lower-Respiratory-Infections"
+      ]
+    },
+    {
+      "first_field_hash": "2a416af6ee81d6f54afae9fdd130bc30b7bbbe63b9adfed383553a6d9f3044f7",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::16-Lower-Respiratory-Infections"
+      ]
+    },
+    {
+      "first_field_hash": "cf3c92de1211892274da5c9a14904a528823862a8f3b416d449eaa374d88f681",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::16-Lower-Respiratory-Infections"
+      ]
+    },
+    {
+      "first_field_hash": "7686ae5e86d4c8cce3a5be605d6ad53f42754c170138557166217b1f5b137f95",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::16-Lower-Respiratory-Infections::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "2bbb22cf3410b7a753cf3cbc5f6d3e83383ff9f4936787a38353f248316a8775",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::16-Lower-Respiratory-Infections"
+      ]
+    },
+    {
       "first_field_hash": "825f715c48e3361569d33f8309c7a160109d26767422bf40c7e961a86672f72a",
       "tags": [
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-2::08-Other-Antibiotics-&-Mycobacteria"
@@ -31054,6 +31561,64 @@
       "tags": [
         "JerryShen_AnKing_Tags::Neurobiology::Exam-2::Tutorial-2-Spinal-Cord",
         "JerryShen_AnKing_Tags::Neurobiology::Exam-2::Tutorial-2-Spinal-Cord::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "b0a76cb6ef25c356307f9f7e8ac01316204ae0b44d952f048ea213bbd54f003b",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::15-Upper-Respiratory-Infections",
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::15-Upper-Respiratory-Infections::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "9f3468e5ff0cab02ecb694f7faaf5d16762e71c8aa14faac79a96c2d3b2dabe2",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::15-Upper-Respiratory-Infections"
+      ]
+    },
+    {
+      "first_field_hash": "4b15375556ef88fd3ac06e009e47c45f9d2a6b9908d88282d10d6ef34190a7ce",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::15-Upper-Respiratory-Infections"
+      ]
+    },
+    {
+      "first_field_hash": "8582ebac22678ec1aca18c1ae0b1c5d0a7d87fdd00282b68b7847e29000273ce",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::15-Upper-Respiratory-Infections",
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::15-Upper-Respiratory-Infections::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "e193bf3ba1c14820ba9b5a0f3f0b4cc7679158a52ef17007cc347d69a6d66716",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::15-Upper-Respiratory-Infections",
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::15-Upper-Respiratory-Infections::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "bd65bae62b4ff5bd35c4a602f795b659a38d19df7b800764b492d7788273303c",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::15-Upper-Respiratory-Infections"
+      ]
+    },
+    {
+      "first_field_hash": "4d41edc082c1e41127bf2731bba1706aa98481f54bc236172d68f8299153e867",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::15-Upper-Respiratory-Infections"
+      ]
+    },
+    {
+      "first_field_hash": "f2624fbd6053c12eee0c3630d7a13c9edf840757454b4724d0789fb1ba881779",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::15-Upper-Respiratory-Infections::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "1ba939ce1c5adde9ac9ee4b62a03dd2c7e4933f183daf57a291a4980bd084c5d",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::15-Upper-Respiratory-Infections",
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::15-Upper-Respiratory-Infections::Class-Content"
       ]
     },
     {
@@ -31078,6 +31643,24 @@
       "first_field_hash": "db69e9aab48129bb8b2279e1a305eea08398b04225ff46f154f9f4b562940c44",
       "tags": [
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-1::04-Intro-to-Viruses"
+      ]
+    },
+    {
+      "first_field_hash": "0f382b47621d9554baf50a0980cf9ff2cdbf6a4d2b3f0eb44f4d8f450d6b11dd",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::15-Upper-Respiratory-Infections"
+      ]
+    },
+    {
+      "first_field_hash": "0cf2b799e44e2f6fdb7f2ba217ab4373f294808bfe823588ddeeea99031132f2",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::15-Upper-Respiratory-Infections"
+      ]
+    },
+    {
+      "first_field_hash": "a5c4db665a2352c2e3b51d1d166e858126193d8d1f2630edbff70802f4b5016d",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::15-Upper-Respiratory-Infections"
       ]
     },
     {
@@ -31691,6 +32274,72 @@
       ]
     },
     {
+      "first_field_hash": "1aa90b55087e052131110faa5cde05dbc022ce214fbd2ee4d24c61eeb8e0bf3f",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::15-Upper-Respiratory-Infections"
+      ]
+    },
+    {
+      "first_field_hash": "9f6cc3b4bd2b72ce57f73f94615cd1160e4a1626da115901473e14db95612b57",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::15-Upper-Respiratory-Infections::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "007b2bb23a800a04aa3c4c2b1fbdf03482dcda6f0ca890b4062dc099d8238c12",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::15-Upper-Respiratory-Infections::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "572748e1de7f9a496a079b558c94e13c6f035b01f7f92f6f7d9a1dc11e79609f",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::15-Upper-Respiratory-Infections::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "4a5bd2c3a872eb023c83a4f34eb998f6727b0f965095e51300af89e1b4ea27f5",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::15-Upper-Respiratory-Infections::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "9878dfb8ad92d313b0aef44209b9aece4dacd0e1a6b2acd4214dcfedd501ade3",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::15-Upper-Respiratory-Infections"
+      ]
+    },
+    {
+      "first_field_hash": "d6c66a847e102b2b184d6b45f6c557007a2d7e1c89c77349f9e2180ea2b28bee",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::15-Upper-Respiratory-Infections"
+      ]
+    },
+    {
+      "first_field_hash": "cb5f16854c644089cd559440c89ff56834f0d6b16c0f456757ad7daf933eccce",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::15-Upper-Respiratory-Infections::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "562ffe3c51eabe3e2cb2e98231eba4ab03bffc0b006aa31b8fd94101321ba795",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::15-Upper-Respiratory-Infections"
+      ]
+    },
+    {
+      "first_field_hash": "528f00648dbbfe62e696bad6f2bbda83736e3b49f8821230f45f293416f98a0f",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::15-Upper-Respiratory-Infections"
+      ]
+    },
+    {
+      "first_field_hash": "5c0a2984e61ece41953e1d83cfa3820b051c92ed080a72a59d0f8d9529a2d621",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::15-Upper-Respiratory-Infections"
+      ]
+    },
+    {
       "first_field_hash": "856b0b5df8e4f3c39624864d55b3a06ba1dab18b6c43cee5e514986e581c6d26",
       "tags": [
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-1::04-Intro-to-Viruses::Class-Content"
@@ -31737,6 +32386,12 @@
       "first_field_hash": "81c29d07a88aebdbf03d858d7710030a8d30e5232b22272b4be89a42b1867114",
       "tags": [
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-2::07-β-Lactam-Antibiotics-&-Parasites"
+      ]
+    },
+    {
+      "first_field_hash": "1b7b51610ef0ceda316fb8fbcfe31e6170ef8e89f117548b8b29c1fff38cbc46",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::15-Upper-Respiratory-Infections::Class-Content"
       ]
     },
     {
@@ -32548,6 +33203,12 @@
       ]
     },
     {
+      "first_field_hash": "89b7464cb96849d4720751f42788b1a71e3ff5e054b2be1317a9e466491b04db",
+      "tags": [
+        "JerryShen_AnKing_Tags::POM-3::Clinical-Reasoning::Advanced-Pulmonary-Exam"
+      ]
+    },
+    {
       "first_field_hash": "21beac6d5a760b608165b06933c5df7bfa6c6f7c547097de1fc978f607de53bc",
       "tags": [
         "JerryShen_AnKing_Tags::Immunology::Final::Innate-Sensing"
@@ -32647,6 +33308,12 @@
       "first_field_hash": "7e3b4c7d97ae358ac8752dc9990648a4804073462f656be7cc88ee8279c01b32",
       "tags": [
         "JerryShen_AnKing_Tags::POM-1::Final::Ethics::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "841f6197cd23539f5b77ce4039b1b2d3b5590d7d6d89012969c1c7ec35b3e252",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::15-Upper-Respiratory-Infections"
       ]
     },
     {
@@ -32812,6 +33479,12 @@
     },
     {
       "first_field_hash": "c415e9fd0dfc7600de4743ebe40d16c94fcbe2d4270cd26833ba0c3f1f4a03e6",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::07-Pulmonary-Function-Testing"
+      ]
+    },
+    {
+      "first_field_hash": "78c4a7c8c7dd1c1f67878d49706f8aae4708b9b14ac63c793e0fdf48603b2738",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::07-Pulmonary-Function-Testing"
       ]
@@ -33268,6 +33941,12 @@
       ]
     },
     {
+      "first_field_hash": "055a7404604c7bbff89b98c3e6baa261d1fc99ac42256afa8d2de8ba3f4c0deb",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::14-Lung-Pharmacology"
+      ]
+    },
+    {
       "first_field_hash": "d5d1e3aa1e35a4763e9cf394ecbc584a9ff49923b017ce29785b33d1660aa3fb",
       "tags": [
         "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-4-Pelvis::Anatomy"
@@ -33343,6 +34022,7 @@
     {
       "first_field_hash": "2c85611bce8738a7c68abd29a1248b29a2bab71fbbcc2e2f0d77ebef251582ad",
       "tags": [
+        "JerryShen_AnKing_Tags::POM-3::Clinical-Reasoning::Advanced-Pulmonary-Exam",
         "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::02-Pulmonary-Circulation"
       ]
     },
@@ -33350,6 +34030,30 @@
       "first_field_hash": "f95681022f8c96ccf90bb8d528d5fd0cef11e818e490b7f8c9c01628b37d5d46",
       "tags": [
         "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-4-Pelvis::Anatomy"
+      ]
+    },
+    {
+      "first_field_hash": "024a9071a681550613f638fee464da4526b47cf36734798ba4ebdeda4fcfb44b",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::15-Upper-Respiratory-Infections::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "b4e26723d24e36b5457e6b0222b412d924c6b9f44512e7a1637c2a36adf0d8f0",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::15-Upper-Respiratory-Infections::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "d271b318b750cc935fa49d3d3dcdbc0470f01b7f14778c5d640c2b1703d9be70",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::15-Upper-Respiratory-Infections::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "8b2454eb358d1915ac277552c20b5fd104d72b776515fa8a44c4ab7e94871dea",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::15-Upper-Respiratory-Infections::Class-Content"
       ]
     },
     {
@@ -33467,9 +34171,57 @@
       ]
     },
     {
+      "first_field_hash": "9dd316b0fe04ca11c774d796b61099be9089d403040b3d42788484a1a8ec0cf1",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::15-Upper-Respiratory-Infections::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "f8333928fc221a542c6d6a92a8d420dcc0cbfb0b21cea947e31a8e4510af8908",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::15-Upper-Respiratory-Infections::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "7a60a4e523760aaba44fd1c6def8365ecb58af497bd29dfe3437c31beb4241ab",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::15-Upper-Respiratory-Infections::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "1f60e321d0a738fe880b590efcfe5d8ba50a267961f6c8d5ccdb3576e78d1f01",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::15-Upper-Respiratory-Infections::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "561125034ddfb7359c2cc6ab35d95312c3098b15ff3df5eb0b034b095dcf1cdd",
+      "tags": [
+        "JerryShen_AnKing_Tags::Micro-Pharm::Exam-1::02-S.pyogenes-&-E.coli"
+      ]
+    },
+    {
       "first_field_hash": "585e52d1b2a16afed3bf2028683d992777991c4f72f23bd0e1555b6b895202dd",
       "tags": [
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-1::04-Intro-to-Viruses"
+      ]
+    },
+    {
+      "first_field_hash": "70f368e6e7c83d71edfeb971af4f1ff1dce1559212b804543b706e10a1e736e1",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::15-Upper-Respiratory-Infections::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "15b7d22883bc7c86078281ac0bcc843cbe2bb54312a2b45b7535795fdb072511",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::15-Upper-Respiratory-Infections"
+      ]
+    },
+    {
+      "first_field_hash": "c30f0328cc18c29d68d5c4bc539b3bd867ee23e5822d76614442b62898924901",
+      "tags": [
+        "JerryShen_AnKing_Tags::POM-3::Clinical-Reasoning::Advanced-Pulmonary-Exam"
       ]
     },
     {
@@ -33494,6 +34246,32 @@
       "first_field_hash": "5f88615647c9c2de27437ea122aca8f207af17dce27c56f2e7a9bc99c20ca7cf",
       "tags": [
         "JerryShen_AnKing_Tags::Neurobiology::Exam-3::Lec-Experience-Dependent-Circuit-Tuning::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "4b678d56d13902b1d7c8ac440dd77f8b03c6aa627398d5e3488be568711a506c",
+      "tags": [
+        "JerryShen_AnKing_Tags::POM-3::Clinical-Reasoning::Advanced-Pulmonary-Exam"
+      ]
+    },
+    {
+      "first_field_hash": "e43d698a840991f0e019801aba89649c3ec3084c3c12ce0db63352a900571208",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::15-Upper-Respiratory-Infections::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "77e408855409f7c6b2ed5cbf794bbfca0aa313b97aea402f06557d9efd8048b6",
+      "tags": [
+        "JerryShen_AnKing_Tags::Micro-Pharm::Exam-1::02-S.pyogenes-&-E.coli",
+        "JerryShen_AnKing_Tags::Micro-Pharm::Exam-1::02-S.pyogenes-&-E.coli::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::15-Upper-Respiratory-Infections::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "080db4f5920e21b3d153e830bd0991651cd322aa8bbbeee345931ac3021fcbea",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::15-Upper-Respiratory-Infections::Class-Content"
       ]
     },
     {
@@ -33528,9 +34306,33 @@
       ]
     },
     {
+      "first_field_hash": "a60c77174774f5bf32e993d9fc6eefe90a8e91dc9831767b25ca5a590b0b9d29",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::Lung-Lab-1"
+      ]
+    },
+    {
       "first_field_hash": "f646db9da6f49dce3728312383902acef4f9fe289bf3e1908c008afc5a676a1e",
       "tags": [
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-1::04-Intro-to-Viruses"
+      ]
+    },
+    {
+      "first_field_hash": "b47762a6291065b6d9c5a0c2ee992d111206592fac1430e2e0f6fc66a144c607",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::15-Upper-Respiratory-Infections::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "4f31ce738df8a3eb96b5df483e3438699cedab906ab182dffb61cbb68ec62899",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::15-Upper-Respiratory-Infections"
+      ]
+    },
+    {
+      "first_field_hash": "7d82cdb7f519e601053908e5658c9743ced3d255b6ef61e228f9eedcc1f295e4",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::15-Upper-Respiratory-Infections"
       ]
     },
     {
@@ -33553,15 +34355,33 @@
       ]
     },
     {
+      "first_field_hash": "fe9855b71e66b97d3aade9624fcd42d49792345f02d667cd626354830f09da63",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::12-Pathology-of-Asthma-and-COPD"
+      ]
+    },
+    {
       "first_field_hash": "a20d90f8281631df9a9932cbeceb331b2cec4e9f67caee0ac5914ffa8e8ebae5",
       "tags": [
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-1::04-Intro-to-Viruses"
       ]
     },
     {
+      "first_field_hash": "58911b3797d6545fbe1220866051a0b32d4e9a9e7bad4d68253e1c63d4ce250c",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::15-Upper-Respiratory-Infections::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "8ab8490eb497cf882a0a942a05a6fd976040cfd20ebc35a93464aef632eb36d3",
       "tags": [
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-1::05-Intro-to-Fungi"
+      ]
+    },
+    {
+      "first_field_hash": "f71b6e6d456d9e82c40106f9daf8228f8604132f34781077247830cb6acb351e",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::15-Upper-Respiratory-Infections::Class-Content"
       ]
     },
     {
@@ -33574,6 +34394,12 @@
       "first_field_hash": "a19b018b17cf5772d00082891ef76abda4d3dfd86eb77d273a1905da704754bd",
       "tags": [
         "JerryShen_AnKing_Tags::Genetics::Exam-2::06-Complex-Inheritance-Patterns"
+      ]
+    },
+    {
+      "first_field_hash": "27aac105c43dd99ea676f43a44310800ea3b94a1ce0bb595a6e1b1471f5dfbf2",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::16-Lower-Respiratory-Infections"
       ]
     },
     {
@@ -33797,6 +34623,12 @@
       ]
     },
     {
+      "first_field_hash": "e3dacf63695b9b33e17a8f3b155056e38e034c2608458f259289bb8dd911636e",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::15-Upper-Respiratory-Infections"
+      ]
+    },
+    {
       "first_field_hash": "b4323a25fb4b17ca356ff1685153584082a13f69800a4c9e7e0677a64b77717b",
       "tags": [
         "JerryShen_AnKing_Tags::Neurobiology::Exam-2::Tutorial-1-Cerebrum::Class-Content"
@@ -33995,7 +34827,8 @@
     {
       "first_field_hash": "9c586c3aec9302f89530692e60b4171e425588f8260d999e91ee466be8802d90",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::07-Pulmonary-Function-Testing"
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::07-Pulmonary-Function-Testing",
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::07-Pulmonary-Function-Testing::Class-Content"
       ]
     },
     {
@@ -34044,6 +34877,18 @@
       "first_field_hash": "07a4a9f0a78c565355909a0c2dcbb0ff01aa68cbafe6a2362280114b9149cfd9",
       "tags": [
         "JerryShen_AnKing_Tags::Neurobiology::Exam-2::Tutorial-2-Spinal-Cord"
+      ]
+    },
+    {
+      "first_field_hash": "652a7b79973eb52d49df2ab2b1aa78c70fe649e542ef80df3d32fb971eb549d9",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::16-Lower-Respiratory-Infections"
+      ]
+    },
+    {
+      "first_field_hash": "c0220d707df5ce385535480ca45c77904ac07d5cb58b1a69a7b3e39e862c35ca",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::16-Lower-Respiratory-Infections"
       ]
     },
     {
@@ -34348,6 +35193,12 @@
       ]
     },
     {
+      "first_field_hash": "1f5b36bd6a4a25fc3ebceb167088aa6ef9c817696d0912e88b69a2945753e877",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::16-Lower-Respiratory-Infections::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "92a340700eb9d9acfce176e04db60e848b8372693c5e6682bc3a2ed1703582f0",
       "tags": [
         "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-5-Lower-Limb::Anatomy"
@@ -34453,6 +35304,12 @@
       "first_field_hash": "f600a2d76b320a61576971c6ee0170436f4ef28f578d4006419d0aea9c06c0f8",
       "tags": [
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-2::07-β-Lactam-Antibiotics-&-Parasites"
+      ]
+    },
+    {
+      "first_field_hash": "ad3b729002781dbbb042ee4aae349ecb8a314dfbdf2f5086c4fa69a9c7383980",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::16-Lower-Respiratory-Infections"
       ]
     },
     {
@@ -34594,6 +35451,12 @@
       ]
     },
     {
+      "first_field_hash": "cc5e89d385cc7dacad32fd0f0cee2f8cad85812dc89a6985be14df26b4a1078f",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::15-Upper-Respiratory-Infections::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "415d7219ce6bafabac58aea1c7d79cab2ac1948a6de483855e92a501c28fed19",
       "tags": [
         "JerryShen_AnKing_Tags::Immunology::Final::Immune-Deficiencies::Class-Content"
@@ -34647,6 +35510,12 @@
       "first_field_hash": "5cfb4ccf8151adda28565d365e231ad8c2cf14d449e61d4b9c0f340dcbdefbd1",
       "tags": [
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-2::07-β-Lactam-Antibiotics-&-Parasites"
+      ]
+    },
+    {
+      "first_field_hash": "7464c611be70e9f2f84602123dc5d4df2901102d8ac6977d38f370fa83c93c72",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::15-Upper-Respiratory-Infections::Class-Content"
       ]
     },
     {
@@ -34716,6 +35585,12 @@
       ]
     },
     {
+      "first_field_hash": "bf711879c85b395c55006f9278ccabbaffb6544a8ca2ae022c8657f44fb260e9",
+      "tags": [
+        "JerryShen_AnKing_Tags::POM-3::Clinical-Reasoning::Advanced-Pulmonary-Exam"
+      ]
+    },
+    {
       "first_field_hash": "7d62f613b899c4eda67620482aa43362955a5a183daf9429cf4f75197c2df0a6",
       "tags": [
         "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-5-Lower-Limb::Anatomy"
@@ -34749,6 +35624,12 @@
       "first_field_hash": "6e7bf95a8f557e5da172b730bf6445f78781fca66adaee21d7356a96c7fb798a",
       "tags": [
         "JerryShen_AnKing_Tags::POM-2::Final::Nutrition::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "57e718698ed55ce5a0986c92bda3c58bb7de8342247c4d971f2d1e0a6c269f47",
+      "tags": [
+        "JerryShen_AnKing_Tags::POM-3::Clinical-Reasoning::Advanced-Pulmonary-Exam"
       ]
     },
     {
@@ -34903,6 +35784,12 @@
       ]
     },
     {
+      "first_field_hash": "491c32c1049320db1b0c675d960dfe282c6ed0039b6e1b5d99e893714c5232ef",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::13-Intro-to-Chest-Radiology"
+      ]
+    },
+    {
       "first_field_hash": "d5af9345123e21b033c50e4d2290550d5b06e83a93ec9c172334ad0578c05f19",
       "tags": [
         "JerryShen_AnKing_Tags::Neurobiology::Exam-3::Tutorial-7-Affective-and-Cognitive-Systems"
@@ -34956,6 +35843,19 @@
       "first_field_hash": "a077427dd335a3f6957435489f726054ec8c112b6855222198db6fcd2af3dc17",
       "tags": [
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-2::10-Biologics-Ectoparasites-&-Clinical-Cases"
+      ]
+    },
+    {
+      "first_field_hash": "2c0dbd1cc45293a5ac9e5e3deba19f750151c3b4a0d70be513f6fa28a562bcbf",
+      "tags": [
+        "JerryShen_AnKing_Tags::POM-3::Clinical-Reasoning::Advanced-Pulmonary-Exam"
+      ]
+    },
+    {
+      "first_field_hash": "aeef3a9be3c12285fb1f55da40030e601a6ec616c29a7c59c0ecfafc6ec178b4",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::15-Upper-Respiratory-Infections",
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::15-Upper-Respiratory-Infections::Class-Content"
       ]
     },
     {
@@ -35105,6 +36005,12 @@
       ]
     },
     {
+      "first_field_hash": "c44beb5815713dfc9fead60d85f8621abd343252d3fe5bd5884f276ea035f794",
+      "tags": [
+        "JerryShen_AnKing_Tags::POM-3::Clinical-Reasoning::Advanced-Pulmonary-Exam::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "afbf968aad5994a533af535294d80643859da44cfcc2543a8103b634662a3d28",
       "tags": [
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-2::07-β-Lactam-Antibiotics-&-Parasites"
@@ -35159,6 +36065,18 @@
       "first_field_hash": "a4785c14e4d396f66be458b6ff70225f3f9807724e5e4ab5602e72ae32e35e3f",
       "tags": [
         "JerryShen_AnKing_Tags::Genetics::Exam-2::08.3-Prenatal-Genetics"
+      ]
+    },
+    {
+      "first_field_hash": "4f2247c0776a5254f56ca1703bcba6c6f9c72873bfce9843778a366353ac570b",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::14-Lung-Pharmacology"
+      ]
+    },
+    {
+      "first_field_hash": "51d7250bcd15d4a9a17860b33cb163254ebd7ef0e48302f57711226e06bded17",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::15-Upper-Respiratory-Infections"
       ]
     },
     {
@@ -35301,6 +36219,12 @@
       "first_field_hash": "68d0bb45464ab41055059ff2af988fd5fb369a201c334121bdc899018468282f",
       "tags": [
         "JerryShen_AnKing_Tags::Genetics::Exam-2::08.1-Inherited-Metabolic-Disorders"
+      ]
+    },
+    {
+      "first_field_hash": "c34e79446877d23be70f9c0b7100da7fee19eab0c51c78652b013b93badeacf2",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::15-Upper-Respiratory-Infections"
       ]
     },
     {
@@ -35455,6 +36379,13 @@
       ]
     },
     {
+      "first_field_hash": "fb31cde45df5a7c6776956f6a780164c83f1885f10aa27dfc710ad37a9c62623",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::15-Upper-Respiratory-Infections",
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::15-Upper-Respiratory-Infections::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "d938323334fae146212ebbed17fb30c3c89e313fabc0dd710feeb7587a7d56ec",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::08-Fast-Rhythm-Arrhythmias::Class-Content"
@@ -35503,6 +36434,12 @@
       ]
     },
     {
+      "first_field_hash": "cb6a5d08f6827bdb11e6e3fc5ae738d97b7efc0cac84b311d876f44ef9403382",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::15-Upper-Respiratory-Infections"
+      ]
+    },
+    {
       "first_field_hash": "1cf7218f923ca19f69b3f69593ff257f59f47469fd1ec935f6a37392dfaabc34",
       "tags": [
         "JerryShen_AnKing_Tags::Genetics::Exam-2::03-Chromosomes"
@@ -35518,6 +36455,30 @@
       "first_field_hash": "2d33ba628cf6efaad5cabdf91e9cbd4aba1f30727682a82e76ea56b8771f50e8",
       "tags": [
         "JerryShen_AnKing_Tags::Genetics::Exam-2::08.4-Cancer-Genetics::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "5676b2585eadea16ec301a0751e85f5d37ff5f67923ba339597a5c954fa78ad4",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::15-Upper-Respiratory-Infections::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "4e5ea8e1f33fd61b120a65dfc72df340231d7df4c0854a2bdb384e12c6d1f950",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::15-Upper-Respiratory-Infections::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "856f664853b88e660bc5b4b2672b815de7da808bd16c816f37c1afdefeb2c922",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::15-Upper-Respiratory-Infections::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "46184655246998dd19ea93d27235d0992f720f3a8132e66405c48b7420e1c710",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::15-Upper-Respiratory-Infections::Class-Content"
       ]
     },
     {
@@ -35549,6 +36510,96 @@
       "first_field_hash": "d8d9581456f23be117295709674a8bde5a21300245df905dc1fb8930d390996d",
       "tags": [
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-2::10-Biologics-Ectoparasites-&-Clinical-Cases"
+      ]
+    },
+    {
+      "first_field_hash": "92e7c2bfe30fb591dbcf51abb1d11980a1d8dab7025eac59c512701dafd59144",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::15-Upper-Respiratory-Infections"
+      ]
+    },
+    {
+      "first_field_hash": "1ad76c733fef188782806d06eea1e2b2dc73fae35b1cd1d36566ca22f42cf375",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::15-Upper-Respiratory-Infections::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "526b951ad460a1840e781510f7ca07f5d51fee737c74481d0ea71beba6868982",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::15-Upper-Respiratory-Infections::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "4a6d0c1d9d3fe0a8d264bb0626b0581d0bbae06e1b15c2e3b72401913e273061",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::15-Upper-Respiratory-Infections::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "81b763b022bbafb6b952d5a240f1b5cbb71eb39faa4390c1a91470f178935c73",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::15-Upper-Respiratory-Infections"
+      ]
+    },
+    {
+      "first_field_hash": "7b53c4a957a64fe6e27460695b2aebeaa69520fcf3d16e2d59c4a5c015b7bde8",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::15-Upper-Respiratory-Infections"
+      ]
+    },
+    {
+      "first_field_hash": "fd9088269b28162400087fbec6e0b139b839839a197412f3a9f1da6a0fbaedee",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::15-Upper-Respiratory-Infections::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "686d0bd12978bfc48923251357acd7a9cd0a3ca6503beadb0618b47b37610069",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::15-Upper-Respiratory-Infections"
+      ]
+    },
+    {
+      "first_field_hash": "63d6779dc41c9a73d551220af7eba3a59a949fb5035a979da0ba31a35be3bc59",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::15-Upper-Respiratory-Infections::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "912e909f58aae8a68084a3e2932bc26aaf7438cd39fa2cd751d2085d45927d91",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::15-Upper-Respiratory-Infections::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "7dbb823ee3160b8019e4c4ea3902833a19a3f636f1e22dff2259f21ee567b88c",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::15-Upper-Respiratory-Infections"
+      ]
+    },
+    {
+      "first_field_hash": "e63b328ba7ccd6e958808e4c61277e322fa7ac8692417ef0a28c9daedfb8a3a3",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::15-Upper-Respiratory-Infections::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "4052039462665468eddb30915c88cd9bea553c4e811ddaa817a3c919650c90dd",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::15-Upper-Respiratory-Infections::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "d0109ac83a53a1cad2489506d30126b55f9df358017d218230d679f83d2815f6",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::15-Upper-Respiratory-Infections"
+      ]
+    },
+    {
+      "first_field_hash": "a5195ca12807e6daa9c21b674f3fdcb85f370e1aa0595ba1ba8a1972e0e20d2e",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::15-Upper-Respiratory-Infections"
       ]
     },
     {
@@ -35588,6 +36639,12 @@
       ]
     },
     {
+      "first_field_hash": "300414a37c2551e550f841090d989eccadb10fc5fb84b4d4e861b5cf5127b761",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::15-Upper-Respiratory-Infections"
+      ]
+    },
+    {
       "first_field_hash": "4c87b720653010fc3605e7efca48acfb654aca0c4eb87c560648d51e06a698c8",
       "tags": [
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-1::05-Intro-to-Fungi"
@@ -35615,6 +36672,12 @@
       "first_field_hash": "6f2247e14ae50b3cdb9010187f24b67371c4507d19c096b7a3c23fe14bb73c20",
       "tags": [
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-2::08-Other-Antibiotics-&-Mycobacteria"
+      ]
+    },
+    {
+      "first_field_hash": "1be73b3cf9baccacb49471a08222bdc6955bb614fc0bca39d6d9abc8ebc5efd5",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::Lung-Lab-1"
       ]
     },
     {
@@ -35742,6 +36805,12 @@
       "first_field_hash": "e73b4556449b60d015a8ebf724722cfaf89a2083ab12959bc0e2cddf217e4ead",
       "tags": [
         "JerryShen_AnKing_Tags::Immunology::Final::Immune-Deficiencies"
+      ]
+    },
+    {
+      "first_field_hash": "b9a22c342d01d9114fd47ea0f03825e4def4eeab2df0e79dcaba164edfd3a12a",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::16-Lower-Respiratory-Infections"
       ]
     },
     {
