@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
   "author": "JerryShen",
-  "description": "start of autonomic lecture",
-  "created": "2026-04-16T16:58:01.467506+00:00",
-  "updated": "2026-04-16T16:58:01.467506+00:00",
+  "description": "parasympathetic stuff",
+  "created": "2026-04-16T17:18:52.610878+00:00",
+  "updated": "2026-04-16T17:18:52.610878+00:00",
   "tag_prefix": "JerryShen_AnKing_Tags",
   "tag_hierarchy": [
     "JerryShen_AnKing_Tags",
@@ -385,6 +385,11 @@
       "date": "2026-04-16T16:58:01.467506+00:00",
       "message": "start of autonomic lecture",
       "note_count": 49
+    },
+    {
+      "date": "2026-04-16T17:18:52.610878+00:00",
+      "message": "parasympathetic stuff",
+      "note_count": 38
     }
   ],
   "notes": [
@@ -660,6 +665,12 @@
       "first_field_hash": "d7af50f2028d4a730e0d4b2b0de3e61f36411565f2d2475e393b428136d79a64",
       "tags": [
         "JerryShen_AnKing_Tags::Neurobiology::Exam-3::Lec-Vestibular-System::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "cb2d75a6dffbf6c344459e3f024139ef2bc219ec1e9120a2ff95f00fbbf716d4",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::10-Autonomic-Physiology-and-Pharmacology"
       ]
     },
     {
@@ -3482,6 +3493,40 @@
       "first_field_hash": "91c4e056e540937bcc600ef8d0886ca3b653851400eccdde5811a56db6e996a9",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::10-Autonomic-Physiology-and-Pharmacology"
+      ]
+    },
+    {
+      "first_field_hash": "2527dede412e2f499af1c17826ebe15c2ad838d4ae6d0ac91aef1354e2edba40",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::10-Autonomic-Physiology-and-Pharmacology"
+      ]
+    },
+    {
+      "first_field_hash": "2ca577199abc63734d1e1f7d7abbdbb7b4e280b2161a6401e546822095a1816c",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::04-Pacemaker-Potential",
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::07-Slow-Rhythm-Arrhythmias"
+      ]
+    },
+    {
+      "first_field_hash": "6c01e64e29cdc9dd6237bc01b2f72a5a8593d59ca21ab1046cb3bb9e72d5817e",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::04-Pacemaker-Potential",
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::07-Slow-Rhythm-Arrhythmias"
+      ]
+    },
+    {
+      "first_field_hash": "9b7ac9abac8ca67d1b70d40008e0c62736b298dfee410afba5516a4f3aa8ab27",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::04-Pacemaker-Potential",
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::05-The-Normal-ECG"
+      ]
+    },
+    {
+      "first_field_hash": "a2922c22cee4d68d6741aa53528e55071b780cfe1fdd48ca6e8a6235506e4bd9",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::04-Pacemaker-Potential",
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::05-The-Normal-ECG"
       ]
     },
     {
@@ -8699,6 +8744,7 @@
     {
       "first_field_hash": "86ea735154283d3676e6100a5aaba6a8133e886344624d8d8608e76c8dba80f0",
       "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::10-Autonomic-Physiology-and-Pharmacology",
         "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::14-Lung-Pharmacology::Class-Content"
       ]
     },
@@ -8857,7 +8903,8 @@
     {
       "first_field_hash": "7cbaf2219550337ce19579b83a29007a043844b209c1e49019532fc230570ed9",
       "tags": [
-        "JerryShen_AnKing_Tags::Micro-Pharm::Exam-1::01-Intro-to-Pharmacodynamics"
+        "JerryShen_AnKing_Tags::Micro-Pharm::Exam-1::01-Intro-to-Pharmacodynamics",
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::10-Autonomic-Physiology-and-Pharmacology"
       ]
     },
     {
@@ -8903,6 +8950,18 @@
       "first_field_hash": "ac75686638c3a8a8afff28ec5daf58ff80f29bc8868291dfe2ff33ce4906f7db",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::10-Autonomic-Physiology-and-Pharmacology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "7a96907f369ce92f107eccf280468cf7329b9a2cd6b318954ba7581b4ec79656",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::10-Autonomic-Physiology-and-Pharmacology"
+      ]
+    },
+    {
+      "first_field_hash": "1a7fd8e762939538078b4b311f4e4cea96ed21ade0c8f5eca9db85d2ff978408",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::10-Autonomic-Physiology-and-Pharmacology"
       ]
     },
     {
@@ -11055,9 +11114,41 @@
       ]
     },
     {
+      "first_field_hash": "4969871e37d688d0c23b79c814630d5c50401cec61973da6cdbc054d05543d8c",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::10-Autonomic-Physiology-and-Pharmacology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "af82169003d6d9881340e34eae24590f3237d0144bff6054a2c030bd11043712",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::10-Autonomic-Physiology-and-Pharmacology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "02f56fe621464c76582a675b31ed835f20b1b8f947cbfc93241cf320a85a22fe",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::10-Autonomic-Physiology-and-Pharmacology"
+      ]
+    },
+    {
       "first_field_hash": "9b02f92ac0a3f2b42c40f2a3ecc3bace57aca11fbddbd52bc3c33649fc04edae",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::07-Slow-Rhythm-Arrhythmias"
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::07-Slow-Rhythm-Arrhythmias",
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::07-Slow-Rhythm-Arrhythmias::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::10-Autonomic-Physiology-and-Pharmacology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "1cf0333845c3b9ef0ce66902e1f4af3d3d2a1e60fbf59bb576b66f29be12b492",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::10-Autonomic-Physiology-and-Pharmacology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "e10784e37018d014b8355424c2481e68ca46c5edfcc2bbfad7775c46af43f286",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::10-Autonomic-Physiology-and-Pharmacology::Class-Content"
       ]
     },
     {
@@ -11083,6 +11174,45 @@
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::14-Lung-Pharmacology",
         "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::14-Lung-Pharmacology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "76d1527b89fb21cbeb4cf2ad2d9a4e448b1b92469d2eb6418c733900dd74d3e6",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::10-Autonomic-Physiology-and-Pharmacology"
+      ]
+    },
+    {
+      "first_field_hash": "7a590871d133d2e29b43725c2cfdd9ccc8b06ad8f0270fb3b43d6b474a5937ea",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::10-Autonomic-Physiology-and-Pharmacology",
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::10-Autonomic-Physiology-and-Pharmacology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "88b71b8d291353cc3165554279f4725d9bf4ff0b968403649d4e5325bde386ea",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::10-Autonomic-Physiology-and-Pharmacology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "66a5dce4364bb90908bd60f7b76df9311a45be3c6a474539cec2ed7e8a86bd8c",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::10-Autonomic-Physiology-and-Pharmacology",
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::10-Autonomic-Physiology-and-Pharmacology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "c330d60a7ec2c22d1ede8f3a71ad0bc5b1aae3d000f2664d5234ffb0262e0829",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::10-Autonomic-Physiology-and-Pharmacology",
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::10-Autonomic-Physiology-and-Pharmacology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "bacb8a24849547bc4abdd425522809a66fe8071754b7e90ded856a7b542f8061",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::10-Autonomic-Physiology-and-Pharmacology::Class-Content"
       ]
     },
     {
@@ -18487,6 +18617,18 @@
       ]
     },
     {
+      "first_field_hash": "da5ab98750467c084b4257f724c816fc7ca528169bc8db3c55173400536f62d7",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::10-Autonomic-Physiology-and-Pharmacology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "6a24261b3fc44297ff23cab35ff0cf44003ef8c4fa136aaa842410c91fad109c",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::10-Autonomic-Physiology-and-Pharmacology::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "0bc66862d4ecb71713994e69acfd455421da934b8b153f1dfddd8d2dd6fe31e5",
       "tags": [
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-2::09-Misc-Antimicrobials-&-Skin-Infections::Class-Content",
@@ -18497,6 +18639,36 @@
       "first_field_hash": "3a2df389c0db872c6b6f803c4d15a334ea2d20c645249187d98b1bd91ec7826b",
       "tags": [
         "JerryShen_AnKing_Tags::Neurobiology::Exam-2::Lec-PNS-Disorders"
+      ]
+    },
+    {
+      "first_field_hash": "9b70614ba25d1ff26c6cec606543fb56d5b230f91049b837461df5686c078aed",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::10-Autonomic-Physiology-and-Pharmacology"
+      ]
+    },
+    {
+      "first_field_hash": "f5c9ba75fcc7fc31cc9378c1882a3238e5932254d408b8a90f6d1105db6c1591",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::10-Autonomic-Physiology-and-Pharmacology"
+      ]
+    },
+    {
+      "first_field_hash": "462091ef5134e23acc0d757105c311f7f6279261e3a8a5cad36bf28ac2818521",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::10-Autonomic-Physiology-and-Pharmacology"
+      ]
+    },
+    {
+      "first_field_hash": "d2e4477227677edd40c6a7e69a21f06ac5b09bc78b4c67f49287aabe60bf9086",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::10-Autonomic-Physiology-and-Pharmacology"
+      ]
+    },
+    {
+      "first_field_hash": "e44a7593bcf3c5e6b22590775c7cb83900e980d5583a5297c6df77292053f5f1",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::10-Autonomic-Physiology-and-Pharmacology::Class-Content"
       ]
     },
     {
@@ -23013,6 +23185,12 @@
       ]
     },
     {
+      "first_field_hash": "43d35eb4f60e1ce8c793a074348f6d12e0ac8d91c9985d1d05b75d9fb3900842",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::10-Autonomic-Physiology-and-Pharmacology::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "2d4a0790ae1477685098de9bfcec8878a5a7550f0180d82a4cadc521b6c9fd84",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::05-Ventilation-Perfusion-Relationships"
@@ -23517,7 +23695,9 @@
     {
       "first_field_hash": "b59eb4d28530b19511f78a63daaa1550855addd3621a23f7d7a5ff43d094689d",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::07-Slow-Rhythm-Arrhythmias"
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::07-Slow-Rhythm-Arrhythmias",
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::10-Autonomic-Physiology-and-Pharmacology",
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::10-Autonomic-Physiology-and-Pharmacology::Class-Content"
       ]
     },
     {
@@ -33864,6 +34044,24 @@
       ]
     },
     {
+      "first_field_hash": "1fc2dede8d037072749ac327a58a4024462987c78827b225e0afd2915143fae7",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::10-Autonomic-Physiology-and-Pharmacology"
+      ]
+    },
+    {
+      "first_field_hash": "5075dcd5b1b69cf33fb1dc652d5c5d8aaaff3d8dc9829e1b0c24bbb7325bebe9",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::10-Autonomic-Physiology-and-Pharmacology"
+      ]
+    },
+    {
+      "first_field_hash": "45ef83859f379853e70281af2d6dc6ff8f353468440b309f1b6400f3a380c2ef",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::10-Autonomic-Physiology-and-Pharmacology::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "cbc9aafaa516e9ef71cf34aecd549fb7386de657c3069f8470a93ffdce8df7a2",
       "tags": [
         "JerryShen_AnKing_Tags::POM-1::Final::Ethics",
@@ -34376,6 +34574,12 @@
       "first_field_hash": "c08f646d93b8c590615887df21ef470e9441fb8e790234d5449d83b7a4f65fca",
       "tags": [
         "JerryShen_AnKing_Tags::Immunology::Final::Innate-Sensing::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "08b4bbc690d7bcd2209c70723a472f0c76c8abae1891b3b84d37ca8cc98df805",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::10-Autonomic-Physiology-and-Pharmacology"
       ]
     },
     {
@@ -35981,6 +36185,12 @@
       ]
     },
     {
+      "first_field_hash": "ad2fd3d55b0e8689f19aff717fae233cafca47fccddc2278a5717cb86fc8ea4f",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::10-Autonomic-Physiology-and-Pharmacology"
+      ]
+    },
+    {
       "first_field_hash": "277dda0833a57b8c341c363b21ab70fcd4eae0341e6812852a1424c62147a8c5",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::08-Fast-Rhythm-Arrhythmias::Class-Content"
@@ -36684,6 +36894,12 @@
       "tags": [
         "JerryShen_AnKing_Tags::POM-1::Final::Ethics",
         "JerryShen_AnKing_Tags::POM-1::Final::Ethics::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "f2473b4392528c2427480635eefa149c359a87ac5150c7487bfd6de524383413",
+      "tags": [
+        "JerryShen_AnKing_Tags::POM-1::Final::Ethics"
       ]
     },
     {
@@ -37492,6 +37708,12 @@
       "first_field_hash": "a892c73fa2ba623da52b304b6c64daee39b379986b2ba166a88a6fb4b1f7c798",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::09-Supraventricular-Tachycardia::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "b1d402e2162b58098707f7793266df817f53a8aaa284686cfe92503286aab23c",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::10-Autonomic-Physiology-and-Pharmacology"
       ]
     },
     {
