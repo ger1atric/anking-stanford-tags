@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
   "author": "JerryShen",
-  "description": "",
-  "created": "2026-04-17T07:01:31.939886+00:00",
-  "updated": "2026-04-17T07:01:31.939886+00:00",
+  "description": "cardiac pathology",
+  "created": "2026-04-17T17:18:29.228076+00:00",
+  "updated": "2026-04-17T17:18:29.228076+00:00",
   "tag_prefix": "JerryShen_AnKing_Tags",
   "tag_hierarchy": [
     "JerryShen_AnKing_Tags",
@@ -273,6 +273,8 @@
     "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::09-Supraventricular-Tachycardia::Class-Content",
     "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::10-Autonomic-Physiology-and-Pharmacology",
     "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::10-Autonomic-Physiology-and-Pharmacology::Class-Content",
+    "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::11-Pathology-of-Cardiomyopathy-and-Myocarditis",
+    "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::11-Pathology-of-Cardiomyopathy-and-Myocarditis::Class-Content",
     "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block",
     "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::01-Structure-and-Function-of-the-Lung",
     "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::01-Structure-and-Function-of-the-Lung::Class-Content",
@@ -400,6 +402,11 @@
       "date": "2026-04-16T19:19:58.476610+00:00",
       "message": "more autonomic stuff",
       "note_count": 9
+    },
+    {
+      "date": "2026-04-17T17:18:29.228076+00:00",
+      "message": "cardiac pathology",
+      "note_count": 62
     }
   ],
   "notes": [
@@ -473,7 +480,8 @@
     {
       "first_field_hash": "b83ee31adcf66e0b1f043e6910345b62390987c18caeb4a6311d235e846f87ea",
       "tags": [
-        "JerryShen_AnKing_Tags::Micro-Pharm::Exam-2::07-β-Lactam-Antibiotics-&-Parasites"
+        "JerryShen_AnKing_Tags::Micro-Pharm::Exam-2::07-β-Lactam-Antibiotics-&-Parasites",
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::11-Pathology-of-Cardiomyopathy-and-Myocarditis"
       ]
     },
     {
@@ -485,13 +493,15 @@
     {
       "first_field_hash": "c564ecb92b7eace18b7d3fef58f2bad1e3a5050c59790cd11ed0e71d362f03ab",
       "tags": [
-        "JerryShen_AnKing_Tags::Micro-Pharm::Exam-2::07-β-Lactam-Antibiotics-&-Parasites::Class-Content"
+        "JerryShen_AnKing_Tags::Micro-Pharm::Exam-2::07-β-Lactam-Antibiotics-&-Parasites::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::11-Pathology-of-Cardiomyopathy-and-Myocarditis::Class-Content"
       ]
     },
     {
       "first_field_hash": "8c54d92a2d78b2126250f7542e16dc44933271356e8d569a7bc6cfefb259b934",
       "tags": [
-        "JerryShen_AnKing_Tags::Micro-Pharm::Exam-2::07-β-Lactam-Antibiotics-&-Parasites::Class-Content"
+        "JerryShen_AnKing_Tags::Micro-Pharm::Exam-2::07-β-Lactam-Antibiotics-&-Parasites::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::11-Pathology-of-Cardiomyopathy-and-Myocarditis"
       ]
     },
     {
@@ -3727,6 +3737,12 @@
       ]
     },
     {
+      "first_field_hash": "1bf1d9cb5b4a9d4c800919b87abbed7e28b5ebcc960c4d31d051f0ba43664c52",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::11-Pathology-of-Cardiomyopathy-and-Myocarditis"
+      ]
+    },
+    {
       "first_field_hash": "12224df32033eb26062932bc687b21c8751d3dbfa278b9c4a5c734d123481841",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::10-Autonomic-Physiology-and-Pharmacology"
@@ -3754,6 +3770,12 @@
       "first_field_hash": "7b0b308f8c872fbea69f920938c373a8505a1c3d871fe540aa28b972d5ed3b76",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::10-Autonomic-Physiology-and-Pharmacology"
+      ]
+    },
+    {
+      "first_field_hash": "3ebebdbb8430fbde10194511c0b700e117e61087f88d9f19352fe42974f98b00",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::11-Pathology-of-Cardiomyopathy-and-Myocarditis"
       ]
     },
     {
@@ -4177,6 +4199,44 @@
       ]
     },
     {
+      "first_field_hash": "ac590e474574dd4dee6c224ea42f3308c546e35df60fb8f51e01e1b948df5e33",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::11-Pathology-of-Cardiomyopathy-and-Myocarditis"
+      ]
+    },
+    {
+      "first_field_hash": "53297e44d972ebf61e29c19d4f45485496d735a228974a64d9bb61a0efe8df61",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::11-Pathology-of-Cardiomyopathy-and-Myocarditis"
+      ]
+    },
+    {
+      "first_field_hash": "abad75a67951aa6a1852f26a4315bead6b012abae66f8e721d87f6d39dbc302c",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::11-Pathology-of-Cardiomyopathy-and-Myocarditis::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "80901a09ecc459cbccb23cb7a817ec9aec25ae48d591486682082531819a3766",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::11-Pathology-of-Cardiomyopathy-and-Myocarditis",
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::11-Pathology-of-Cardiomyopathy-and-Myocarditis::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "81649ba0b9a5ddeff3f198faad42be2956e6a8d09dfd0b52022c13a1cb7b3ec5",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::11-Pathology-of-Cardiomyopathy-and-Myocarditis",
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::11-Pathology-of-Cardiomyopathy-and-Myocarditis::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "581cd2e599309db8da20602010ec628de185ff97b5ad791837f1243c29d23114",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::11-Pathology-of-Cardiomyopathy-and-Myocarditis::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "6439bbede15111ca6dc2ba71a67338e5fbdf7264b3c573aee931d88d867e181d",
       "tags": [
         "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-1-Thorax::Embryology"
@@ -4293,6 +4353,18 @@
       ]
     },
     {
+      "first_field_hash": "70968cb16a573bf0752e2df279c9b668a0a75cafb2ce308417ba165455d942e6",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::11-Pathology-of-Cardiomyopathy-and-Myocarditis"
+      ]
+    },
+    {
+      "first_field_hash": "8a9e29a31d803fec7f41b6b80e9ba742ecebf79453f27f9900230875e1961b3b",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::11-Pathology-of-Cardiomyopathy-and-Myocarditis"
+      ]
+    },
+    {
       "first_field_hash": "fe195d01b0acf7a46d63f07eb7efc7832999ebc5dbb32b3ef5b47ee58e2efc46",
       "tags": [
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-2::10-Biologics-Ectoparasites-&-Clinical-Cases"
@@ -4326,6 +4398,122 @@
       "first_field_hash": "8d9d9de5cd0c1860c34b4a3670b1a2a73bf71ed341b1de947cb55c88d61eb8d7",
       "tags": [
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-2::07-β-Lactam-Antibiotics-&-Parasites"
+      ]
+    },
+    {
+      "first_field_hash": "21b0bf90498ea69fc6de75b09614a352d252ddcae23d96edba06867a3957665e",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::11-Pathology-of-Cardiomyopathy-and-Myocarditis::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "08aa99438ee19a80774c5e1e6527f812d784472aee97c63194b71078e6e69708",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::11-Pathology-of-Cardiomyopathy-and-Myocarditis::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "70eb870bc3a546f0b56d473ddcf9fe48b547ab7d8f17c47962f26ed1129fea62",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::11-Pathology-of-Cardiomyopathy-and-Myocarditis::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "cd3955b4b8f1620d56a1e386787f757f8b5a9e3850b28cd128d8720ce46301ca",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::11-Pathology-of-Cardiomyopathy-and-Myocarditis"
+      ]
+    },
+    {
+      "first_field_hash": "2aebca1dc4f60c31c73302aa46e104776d3bf1d3eac71a76234604c965c227e7",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::11-Pathology-of-Cardiomyopathy-and-Myocarditis"
+      ]
+    },
+    {
+      "first_field_hash": "108af2c8c58dc274f6dff18ebdd28cfe928c9c4e4f68e31d3157452615a18af8",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::11-Pathology-of-Cardiomyopathy-and-Myocarditis"
+      ]
+    },
+    {
+      "first_field_hash": "ee913dba385b573ee39e728e709a5894b2204152db7cdbcf90fe5fc5e4182292",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::11-Pathology-of-Cardiomyopathy-and-Myocarditis::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "3d6327d3f080dd8e64a2589c6a6a0c8729beda93794dc1a863c62c8e5562df0f",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::11-Pathology-of-Cardiomyopathy-and-Myocarditis"
+      ]
+    },
+    {
+      "first_field_hash": "248a3be11d2b85a0c0c41cffbab71de9228550c774ef5652740d9761015a2de5",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::11-Pathology-of-Cardiomyopathy-and-Myocarditis::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "b74d7c5a9ecd297148b2f57764cbac4e40795779029cdb28b6df99a56ff8227c",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::11-Pathology-of-Cardiomyopathy-and-Myocarditis::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "b76188bb7e872381b7eed68cc33f111a6232868b56f7dc12b73d5ddfb2ea8e2f",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::11-Pathology-of-Cardiomyopathy-and-Myocarditis"
+      ]
+    },
+    {
+      "first_field_hash": "38bb44309a7be70ca567342719d91aa55afa5486f5ff4134d2fd731c8308832a",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::11-Pathology-of-Cardiomyopathy-and-Myocarditis::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "ad198b6f6f3daca9b1255f99b652b1ad35287b8d887b40636d766f6e0078c177",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::11-Pathology-of-Cardiomyopathy-and-Myocarditis"
+      ]
+    },
+    {
+      "first_field_hash": "802ea0cfd56ebff9d952f5b46d2fffcdde40815e2d57ad3dba14918589076d79",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::11-Pathology-of-Cardiomyopathy-and-Myocarditis::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "776663453971aaed19df8ff14b6e46b5909e5fbffce6596277e882c0da6e3486",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::11-Pathology-of-Cardiomyopathy-and-Myocarditis::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "61d9be0f540497884b881e6a0729cca0f199bff31d1fc4befac4945a5afcdc3f",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::11-Pathology-of-Cardiomyopathy-and-Myocarditis::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "ebfb62b14ef1651f129a3112e5ffacbd76069fd5f9ecb0b1609eba62ac364e06",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::11-Pathology-of-Cardiomyopathy-and-Myocarditis"
+      ]
+    },
+    {
+      "first_field_hash": "5a21dc3d953ae1b37435bff2341c37f62dec38ff07c1b32a5372ed28a5183a07",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::11-Pathology-of-Cardiomyopathy-and-Myocarditis",
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::11-Pathology-of-Cardiomyopathy-and-Myocarditis::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "28ea010cd37051ebba09ec075ee5818b33406e9269e7202c267009e57957950a",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::11-Pathology-of-Cardiomyopathy-and-Myocarditis",
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::11-Pathology-of-Cardiomyopathy-and-Myocarditis::Class-Content"
       ]
     },
     {
@@ -4533,6 +4721,12 @@
       "first_field_hash": "549a1a1d34505a91e5ec52b05035b77c89c3fe3d374ca618b434f8b45c5d0b5d",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::09-Supraventricular-Tachycardia"
+      ]
+    },
+    {
+      "first_field_hash": "6e3b280656ce8e5a246ef8203ed830f6bbec329583213b27ba72d2d5aea3c843",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::11-Pathology-of-Cardiomyopathy-and-Myocarditis::Class-Content"
       ]
     },
     {
@@ -9455,6 +9649,12 @@
       "first_field_hash": "96be8cf103fe5f63c38bb270be4e11c10e0c36cac57147d321574f2e0c59281e",
       "tags": [
         "JerryShen_AnKing_Tags::Cancer-Biology::Final::Cancer-Pharmacology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "603dbcd08550982abcb6c2a730767b71dd00c942e9339c83db5316cf8a21b4f7",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::11-Pathology-of-Cardiomyopathy-and-Myocarditis::Class-Content"
       ]
     },
     {
@@ -19763,6 +19963,12 @@
       ]
     },
     {
+      "first_field_hash": "3040361936b5db01826cc0e520877fad8660153c442e7973051706769cc09f50",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::11-Pathology-of-Cardiomyopathy-and-Myocarditis::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "605e3a8384701c649dd22e9ba97c45619ca100233144ed5991a517410372b3eb",
       "tags": [
         "JerryShen_AnKing_Tags::Cancer-Biology::Final::02-Cell-Injury-&-Death"
@@ -21238,6 +21444,24 @@
       "tags": [
         "JerryShen_AnKing_Tags::Cancer-Biology::Final::02-Cell-Injury-&-Death",
         "JerryShen_AnKing_Tags::Cancer-Biology::Final::Optional-Histology-Lecture"
+      ]
+    },
+    {
+      "first_field_hash": "962ac13a7379fc0091a8fb21a4b1ad486bc57000766d058448062d5f286ede7d",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::11-Pathology-of-Cardiomyopathy-and-Myocarditis"
+      ]
+    },
+    {
+      "first_field_hash": "785d8164515d5536d4172f736a64ae13e030acc3fa1548401297a5797c095cae",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::11-Pathology-of-Cardiomyopathy-and-Myocarditis::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "e0ca65a14d8597d455587cca7f8f682ea1c17a02fe1aac37082a7588e885ada6",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::11-Pathology-of-Cardiomyopathy-and-Myocarditis::Class-Content"
       ]
     },
     {
@@ -23581,6 +23805,12 @@
       "first_field_hash": "c59d98d66dcb60b4f77577a74e287ec872cf15255e3b9046d1a473ccd46f1998",
       "tags": [
         "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-5-Lower-Limb::Anatomy::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "a617c0d477c51eaa32336b95d7939cdf7cf45a9b00e2cef3b46ee9cdade9d9e1",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::11-Pathology-of-Cardiomyopathy-and-Myocarditis"
       ]
     },
     {
@@ -28056,6 +28286,12 @@
       ]
     },
     {
+      "first_field_hash": "c08466e68eff4be4fe6861a909d3816feea2d11ad73e7b46e1d288a8dd4b0485",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::11-Pathology-of-Cardiomyopathy-and-Myocarditis"
+      ]
+    },
+    {
       "first_field_hash": "291421566b85a75aa6350b3d439b2acf9072455672348ed3bc52bfca7af2dd37",
       "tags": [
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-2::10-Biologics-Ectoparasites-&-Clinical-Cases"
@@ -31315,13 +31551,16 @@
     {
       "first_field_hash": "dfc265c70a7b7c966e4ad22202972942c6aadba0c6d990d96002956b0092086e",
       "tags": [
-        "JerryShen_AnKing_Tags::Micro-Pharm::Exam-2::07-β-Lactam-Antibiotics-&-Parasites::Class-Content"
+        "JerryShen_AnKing_Tags::Micro-Pharm::Exam-2::07-β-Lactam-Antibiotics-&-Parasites::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::11-Pathology-of-Cardiomyopathy-and-Myocarditis::Class-Content"
       ]
     },
     {
       "first_field_hash": "acc3a26adfb128ac24e150259b9124cc6b0e2466fe569dceaae58786c5f1974e",
       "tags": [
-        "JerryShen_AnKing_Tags::Micro-Pharm::Exam-2::07-β-Lactam-Antibiotics-&-Parasites"
+        "JerryShen_AnKing_Tags::Micro-Pharm::Exam-2::07-β-Lactam-Antibiotics-&-Parasites",
+        "JerryShen_AnKing_Tags::Micro-Pharm::Exam-2::07-β-Lactam-Antibiotics-&-Parasites::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::11-Pathology-of-Cardiomyopathy-and-Myocarditis::Class-Content"
       ]
     },
     {
@@ -33417,6 +33656,12 @@
       ]
     },
     {
+      "first_field_hash": "650d1232aa567f9c73b16eeafb61d3be5b4f884bbbbcd0fbec6e561126965195",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::11-Pathology-of-Cardiomyopathy-and-Myocarditis"
+      ]
+    },
+    {
       "first_field_hash": "b0a76cb6ef25c356307f9f7e8ac01316204ae0b44d952f048ea213bbd54f003b",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::15-Upper-Respiratory-Infections",
@@ -34726,6 +34971,18 @@
       ]
     },
     {
+      "first_field_hash": "242905d52e3c42e7b3109c8a2a6be59e17660ea76ea88c1792a269377c1ab72a",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::11-Pathology-of-Cardiomyopathy-and-Myocarditis::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "4c9d6169e801fadbeb42759e43e042e8cc0774063cf45c398ae2a0ba2b5bd9be",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::11-Pathology-of-Cardiomyopathy-and-Myocarditis::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "de96f408831b2154c1c55dcf1f5dbf5f4b4e0a508fb0a67c486024c7e8859c5c",
       "tags": [
         "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-6-Head-&-Neck-1::Anatomy"
@@ -34770,9 +35027,51 @@
       ]
     },
     {
+      "first_field_hash": "aeec2f6005b091d6c045ff1cb95764ca23b62d683b4bdb34216ac247d0ed8a92",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::11-Pathology-of-Cardiomyopathy-and-Myocarditis::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "a95e1ded7fcf0cb378f94dc3183995d25833292c8dd325c608997764779a15b0",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::11-Pathology-of-Cardiomyopathy-and-Myocarditis"
+      ]
+    },
+    {
+      "first_field_hash": "ee471f9130af44f7fe4b86fadecda6e42a3a26143381a111748bbc8c86cf662b",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::11-Pathology-of-Cardiomyopathy-and-Myocarditis::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "6a6064953eed1c58485bddf1ee9455dbfc3dbaee99b95e40f71407aca9c8a94c",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::11-Pathology-of-Cardiomyopathy-and-Myocarditis"
+      ]
+    },
+    {
+      "first_field_hash": "6e17626fb5a2219855b9be6611852a55864b34de3f7d0f574c9b23b764b46f02",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::11-Pathology-of-Cardiomyopathy-and-Myocarditis"
+      ]
+    },
+    {
       "first_field_hash": "023d07778f5ffe72fa126de6808584bfeafb5675dc79d5703cd7e151a1325f2f",
       "tags": [
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-1::04-Intro-to-Viruses"
+      ]
+    },
+    {
+      "first_field_hash": "d2be94ac3440194caaf914173109aadcdbaefef764bee078178815dcd7e119cd",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::11-Pathology-of-Cardiomyopathy-and-Myocarditis::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "02cccbda6bebd463326b061a1a34be9e6f5d0d3d1c2abc7d5e738411bd3461d1",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::11-Pathology-of-Cardiomyopathy-and-Myocarditis"
       ]
     },
     {
@@ -35882,6 +36181,13 @@
       ]
     },
     {
+      "first_field_hash": "f90452e357fc8e254d8b5557fbe6aefeec59f132b6eea6cb19618c318c2dd035",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::10-Autonomic-Physiology-and-Pharmacology",
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::10-Autonomic-Physiology-and-Pharmacology::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "0bd6a8e905cde9e465a40c6eb893be1a441026198338109d526a85a31bc68f79",
       "tags": [
         "JerryShen_AnKing_Tags::Genetics::Exam-2::08.4-Cancer-Genetics::Class-Content"
@@ -35988,6 +36294,7 @@
       "first_field_hash": "2c85611bce8738a7c68abd29a1248b29a2bab71fbbcc2e2f0d77ebef251582ad",
       "tags": [
         "JerryShen_AnKing_Tags::POM-3::Clinical-Reasoning::Advanced-Pulmonary-Exam",
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::11-Pathology-of-Cardiomyopathy-and-Myocarditis",
         "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::02-Pulmonary-Circulation"
       ]
     },
@@ -37057,6 +37364,12 @@
       ]
     },
     {
+      "first_field_hash": "8bce501aa08fca3ee4e0911927335b730b64ead17db8600105b0f17b931f86b8",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::11-Pathology-of-Cardiomyopathy-and-Myocarditis"
+      ]
+    },
+    {
       "first_field_hash": "6541e985ff85baef1cd43dd6396441a566eb624f61e96a6da36ad98f76daf02a",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::07-Slow-Rhythm-Arrhythmias"
@@ -37690,7 +38003,9 @@
     {
       "first_field_hash": "57e718698ed55ce5a0986c92bda3c58bb7de8342247c4d971f2d1e0a6c269f47",
       "tags": [
-        "JerryShen_AnKing_Tags::POM-3::Clinical-Reasoning::Advanced-Pulmonary-Exam"
+        "JerryShen_AnKing_Tags::POM-3::Clinical-Reasoning::Advanced-Pulmonary-Exam",
+        "JerryShen_AnKing_Tags::POM-3::Clinical-Reasoning::Advanced-Pulmonary-Exam::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::11-Pathology-of-Cardiomyopathy-and-Myocarditis::Class-Content"
       ]
     },
     {
@@ -37802,6 +38117,18 @@
       "first_field_hash": "250b88f71416b7578e94511773a9d5f4af22584f84b742888bf27a75e30129a2",
       "tags": [
         "JerryShen_AnKing_Tags::Biochemistry::Final::03-Lipid-Metabolism"
+      ]
+    },
+    {
+      "first_field_hash": "6ca28017d7ef0a691fa6476e4836c91ec65b768744b1e5e95dc641fa7a7e7abd",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::11-Pathology-of-Cardiomyopathy-and-Myocarditis"
+      ]
+    },
+    {
+      "first_field_hash": "2803d3c80aab75910ed25278611eecd1d9e9b02b4d2c920f1e65397415937dbf",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::11-Pathology-of-Cardiomyopathy-and-Myocarditis::Class-Content"
       ]
     },
     {
@@ -37964,6 +38291,24 @@
       ]
     },
     {
+      "first_field_hash": "cf08ae0511c3e6b694dfce11b1335eb58d8384edd5a7b7b21e3b6c9d4c699b8b",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::11-Pathology-of-Cardiomyopathy-and-Myocarditis"
+      ]
+    },
+    {
+      "first_field_hash": "25a028ebdc2e26237b605bf93fb508b73abb0132029ac88853fc52e013818102",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::11-Pathology-of-Cardiomyopathy-and-Myocarditis::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "3cd2b7fe62c0c38401c39a46e7b801125f305f75d970f5ff0a1dcd82ec05caaa",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::11-Pathology-of-Cardiomyopathy-and-Myocarditis::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "e18ba61b2c669fd8877e652d2000ec36ba94c857ce82fc56895cb11f1fc47e94",
       "tags": [
         "JerryShen_AnKing_Tags::Neurobiology::Exam-3::Lec-Experience-Dependent-Circuit-Tuning::Class-Content"
@@ -38103,6 +38448,12 @@
       "first_field_hash": "cc1b7dbbb914e7e311ae29530ac5e9429c3eb499fa1831e472118688a0437942",
       "tags": [
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-2::08-Other-Antibiotics-&-Mycobacteria::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "e4a1412c1ffb65fbf0efbce467be9393aff3f8cd3059ce3ccf4a1a7a1d773982",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::11-Pathology-of-Cardiomyopathy-and-Myocarditis::Class-Content"
       ]
     },
     {
