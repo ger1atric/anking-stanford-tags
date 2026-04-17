@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
   "author": "JerryShen",
-  "description": "more autonomic stuff",
-  "created": "2026-04-16T19:19:58.476610+00:00",
-  "updated": "2026-04-16T19:19:58.476610+00:00",
+  "description": "",
+  "created": "2026-04-17T07:01:31.939886+00:00",
+  "updated": "2026-04-17T07:01:31.939886+00:00",
   "tag_prefix": "JerryShen_AnKing_Tags",
   "tag_hierarchy": [
     "JerryShen_AnKing_Tags",
@@ -399,7 +399,7 @@
     {
       "date": "2026-04-16T19:19:58.476610+00:00",
       "message": "more autonomic stuff",
-      "note_count": 96
+      "note_count": 9
     }
   ],
   "notes": [
@@ -4384,6 +4384,12 @@
       ]
     },
     {
+      "first_field_hash": "515009c2b4e06cd39f45b3b47feaa05672c6189d1dc8cbac191ee20fcaab17f1",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::10-Autonomic-Physiology-and-Pharmacology"
+      ]
+    },
+    {
       "first_field_hash": "0ade8dc534257884e7a2a6a79091c717ec03054424c2297516e011ad997ad6e3",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::09-Supraventricular-Tachycardia"
@@ -4398,7 +4404,14 @@
     {
       "first_field_hash": "501fea3010660e1c6a13ca6575a8c332a000f48704af6ae970b1e6327b98f61c",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::04-Pacemaker-Potential"
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::04-Pacemaker-Potential",
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::08-Fast-Rhythm-Arrhythmias"
+      ]
+    },
+    {
+      "first_field_hash": "cb9c207dd87b2b4b73bcc56a0eb33889d8910147ff2e7ef10a91fa8d724cedfd",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::09-Supraventricular-Tachycardia"
       ]
     },
     {
@@ -4508,6 +4521,18 @@
       "first_field_hash": "9cfa6b97ca14b952ada3fcedcfd96e14903693fe3380a033ea92fb9ccd105c5a",
       "tags": [
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-2::08-Other-Antibiotics-&-Mycobacteria::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "70d005a90b04062a4eaeb5134a46e86ae613c1d85dd51aa947025efb94ecafd9",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::04-Pacemaker-Potential"
+      ]
+    },
+    {
+      "first_field_hash": "549a1a1d34505a91e5ec52b05035b77c89c3fe3d374ca618b434f8b45c5d0b5d",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::09-Supraventricular-Tachycardia"
       ]
     },
     {
@@ -24186,6 +24211,12 @@
       ]
     },
     {
+      "first_field_hash": "3f39753ba41705fd553fcabb9e67f81a4039681330f4fc3939c5ee6371ef352c",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::09-Supraventricular-Tachycardia::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "a71c7d4297aae1541eb1eb4feed0fb87b51e9e58c46d34cb3e36522f3442af1f",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::10-Autonomic-Physiology-and-Pharmacology"
@@ -34982,6 +35013,12 @@
       ]
     },
     {
+      "first_field_hash": "dcaf18bee868be32b52b1589ee12de9e040fd9c9edd62bfb8629a16400cf9d2f",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::09-Supraventricular-Tachycardia"
+      ]
+    },
+    {
       "first_field_hash": "3cad684885613df7fe51a7c79e6602234e791bb033636c468ec2fb4a69b08ade",
       "tags": [
         "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-3-Abdomen::Anatomy"
@@ -35150,6 +35187,12 @@
       "first_field_hash": "6cc44422450674f72b2d1ac797d337864fe5156643a6bc2bbda712a81d2fe1d2",
       "tags": [
         "JerryShen_AnKing_Tags::Genetics::Exam-1::DNA-Replication-and-Repair"
+      ]
+    },
+    {
+      "first_field_hash": "c2e1acb52012030245af89e7cf58a1408438020b93de2d37e6afe2eab1d5d704",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::10-Autonomic-Physiology-and-Pharmacology"
       ]
     },
     {
@@ -37262,6 +37305,12 @@
       "first_field_hash": "49d8187f4bcb7514f8b050a75335042a4fe8481636cacc52be32a51a2500385b",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::08-Fast-Rhythm-Arrhythmias"
+      ]
+    },
+    {
+      "first_field_hash": "840fc8bf339d268112e8b561bf9329179cb9152bee4827a41abfd8b64c68669a",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::09-Supraventricular-Tachycardia"
       ]
     },
     {
