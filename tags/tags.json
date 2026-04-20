@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
   "author": "JerryShen",
-  "description": "cardiac pathology",
-  "created": "2026-04-17T17:18:29.228076+00:00",
-  "updated": "2026-04-17T17:18:29.228076+00:00",
+  "description": "Cystic Fibrosis and Chest Imaging II",
+  "created": "2026-04-20T19:39:06.491759+00:00",
+  "updated": "2026-04-20T19:39:06.491759+00:00",
   "tag_prefix": "JerryShen_AnKing_Tags",
   "tag_hierarchy": [
     "JerryShen_AnKing_Tags",
@@ -248,7 +248,13 @@
     "JerryShen_AnKing_Tags::POM-3::Clinical-Reasoning",
     "JerryShen_AnKing_Tags::POM-3::Clinical-Reasoning::Advanced-Pulmonary-Exam",
     "JerryShen_AnKing_Tags::POM-3::Clinical-Reasoning::Advanced-Pulmonary-Exam::Class-Content",
+    "JerryShen_AnKing_Tags::POM-3::Clinical-Reasoning::Approach-to-Cough",
+    "JerryShen_AnKing_Tags::POM-3::Clinical-Reasoning::Approach-to-Cough::Class-Content",
+    "JerryShen_AnKing_Tags::POM-3::Clinical-Reasoning::Pain-Management",
+    "JerryShen_AnKing_Tags::POM-3::Clinical-Reasoning::Pain-Management::Class-Content",
     "JerryShen_AnKing_Tags::POM-3::Psychiatry",
+    "JerryShen_AnKing_Tags::POM-3::Psychiatry::Mood-Disorders",
+    "JerryShen_AnKing_Tags::POM-3::Psychiatry::Mood-Disorders::Class-Content",
     "JerryShen_AnKing_Tags::POM-3::Psychiatry::Psychiatric-Interview",
     "JerryShen_AnKing_Tags::POM-3::Psychiatry::Psychiatric-Interview::Class-Content",
     "JerryShen_AnKing_Tags::SOM-1",
@@ -301,12 +307,17 @@
     "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::12-Pathology-of-Asthma-and-COPD",
     "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::12-Pathology-of-Asthma-and-COPD::Class-Content",
     "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::13-Intro-to-Chest-Radiology",
+    "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::13-Intro-to-Chest-Radiology::Class-Content",
     "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::14-Lung-Pharmacology",
     "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::14-Lung-Pharmacology::Class-Content",
     "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::15-Upper-Respiratory-Infections",
     "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::15-Upper-Respiratory-Infections::Class-Content",
     "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::16-Lower-Respiratory-Infections",
     "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::16-Lower-Respiratory-Infections::Class-Content",
+    "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::17-Chest-Imaging-II",
+    "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::17-Chest-Imaging-II::Class-Content",
+    "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::18-Cystic-Fibrosis",
+    "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::18-Cystic-Fibrosis::Class-Content",
     "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::Lung-Lab-1",
     "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::Lung-Lab-1::Class-Content"
   ],
@@ -407,6 +418,11 @@
       "date": "2026-04-17T17:18:29.228076+00:00",
       "message": "cardiac pathology",
       "note_count": 62
+    },
+    {
+      "date": "2026-04-20T19:39:06.491759+00:00",
+      "message": "Cystic Fibrosis and Chest Imaging II",
+      "note_count": 152
     }
   ],
   "notes": [
@@ -1435,6 +1451,12 @@
       "first_field_hash": "13611f722895ab3fbba3e30c9ac7eb34e18a95c562b5f52e5a719ac138c31ab9",
       "tags": [
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-1::04-Intro-to-Viruses"
+      ]
+    },
+    {
+      "first_field_hash": "97a60a122ce6859d16bb42a2f1044a956b67b85222f50beca4a6fca929f5e5d9",
+      "tags": [
+        "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-4-Pelvis::Embryology"
       ]
     },
     {
@@ -6802,6 +6824,12 @@
       ]
     },
     {
+      "first_field_hash": "b84f0d508986373d85b3b05ea06c609cbfd523a1e1a61b193a9eb6faec628591",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::18-Cystic-Fibrosis::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "49d7bca7ba45773b51de6167e821477c21a84332f574ba99d00249b49b2ff96a",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::10-Airway-Obstruction::Class-Content"
@@ -6848,6 +6876,12 @@
       "tags": [
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-1::04-Intro-to-Viruses",
         "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::01-Structure-and-Function-of-the-Lung"
+      ]
+    },
+    {
+      "first_field_hash": "7d9de370faa15399d7bb920023263c0fa88952883b54a29b3cbf7f1cf70e928a",
+      "tags": [
+        "JerryShen_AnKing_Tags::POM-3::Clinical-Reasoning::Approach-to-Cough"
       ]
     },
     {
@@ -7134,7 +7168,9 @@
     {
       "first_field_hash": "8ba12c0523f7c560107128415e86cdc7a50db48b470e78ea2a8f03c916cddc48",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::12-Pathology-of-Asthma-and-COPD"
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::12-Pathology-of-Asthma-and-COPD",
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::12-Pathology-of-Asthma-and-COPD::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::17-Chest-Imaging-II::Class-Content"
       ]
     },
     {
@@ -7187,7 +7223,9 @@
     {
       "first_field_hash": "c58be7c868933b351063e1fe89db7c4c39a32d5c9c62e65fe829552bc1da3b88",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::12-Pathology-of-Asthma-and-COPD"
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::12-Pathology-of-Asthma-and-COPD",
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::12-Pathology-of-Asthma-and-COPD::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::17-Chest-Imaging-II::Class-Content"
       ]
     },
     {
@@ -7206,6 +7244,12 @@
       "first_field_hash": "d6b2e1cd1ed59ac6c4fe47fff750cf4aa4a7596b2d6a39994d758a24c54a8cfd",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::12-Pathology-of-Asthma-and-COPD"
+      ]
+    },
+    {
+      "first_field_hash": "939a8a7ab76ffd997338cea7e2e6d05dd0a9c20ae8f4ad4340f33337d1de661f",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::10-Airway-Obstruction"
       ]
     },
     {
@@ -7241,7 +7285,8 @@
     {
       "first_field_hash": "2ad368794cd553f14974d7268eb67af646fab6769d8ea3df79af79a2f702d0f2",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::10-Airway-Obstruction"
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::10-Airway-Obstruction",
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::17-Chest-Imaging-II"
       ]
     },
     {
@@ -7384,7 +7429,9 @@
       "first_field_hash": "39ddf44bf07e081d5b715f22d4dfbd269021a213c77b7d066f72fab35c750fcd",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::06-Intro-to-Lung-Histology::Class-Content",
-        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::10-Airway-Obstruction"
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::10-Airway-Obstruction",
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::10-Airway-Obstruction::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::18-Cystic-Fibrosis::Class-Content"
       ]
     },
     {
@@ -7396,13 +7443,17 @@
     {
       "first_field_hash": "76515e86293da8bfc9f7614a50a84b0c4ea51e0e1510980c1eec03521f4ae8b3",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::12-Pathology-of-Asthma-and-COPD"
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::12-Pathology-of-Asthma-and-COPD",
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::12-Pathology-of-Asthma-and-COPD::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::18-Cystic-Fibrosis::Class-Content"
       ]
     },
     {
       "first_field_hash": "85f74d961a3c0b854ddaa88bbba4e0d03f6c9f9ca20f866c4f75c2b9ad0929a4",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::06-Intro-to-Lung-Histology"
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::06-Intro-to-Lung-Histology",
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::06-Intro-to-Lung-Histology::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::18-Cystic-Fibrosis::Class-Content"
       ]
     },
     {
@@ -7421,6 +7472,12 @@
       "first_field_hash": "b48bcab45d1b944bb1127022bcca1fd2b536bf043859433406b46923f86e053d",
       "tags": [
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-1::05-Intro-to-Fungi"
+      ]
+    },
+    {
+      "first_field_hash": "4e420253a5bd3f4af4d59f1216a7578c5f01be6874ccf0ed542c188bc53f5f67",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::18-Cystic-Fibrosis::Class-Content"
       ]
     },
     {
@@ -7571,6 +7628,12 @@
       ]
     },
     {
+      "first_field_hash": "cd59c42b093bf31a0ff6533d47971096e59659b907087493e0a95ece18ba4c2f",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::17-Chest-Imaging-II"
+      ]
+    },
+    {
       "first_field_hash": "01392f39cdb2a166b0d3faf043a48c5c586734b1d2f4b2f19430b2a14fbd103d",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::06-Intro-to-Lung-Histology"
@@ -7623,6 +7686,48 @@
       "first_field_hash": "1e1d1d6859a1ab6fba2a0bcf708f7ba10eaeb9d1fc65dfd6ef601436b8ec9f4f",
       "tags": [
         "JerryShen_AnKing_Tags::Cancer-Biology::Final::03-Intro-to-Cancer-Biology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "a47de944795ee9f3b5608850964775bc901b148ef3c356826a0bd48b3eb91b9d",
+      "tags": [
+        "JerryShen_AnKing_Tags::POM-3::Clinical-Reasoning::Advanced-Pulmonary-Exam::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "30598cd026750d865e6df2307e2e075a122e3bc4e7a5b49c3459198aca2d04df",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::17-Chest-Imaging-II"
+      ]
+    },
+    {
+      "first_field_hash": "0b7a8843ca02d95c3d4fd14c89ce1a59bbd0ba17b6207de7118b888ef1ec7a2f",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::17-Chest-Imaging-II"
+      ]
+    },
+    {
+      "first_field_hash": "513eecd369e21aa3f734969997361e8cb2b4e140100cf87e91398a3892ffd336",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::17-Chest-Imaging-II"
+      ]
+    },
+    {
+      "first_field_hash": "2307d5ee184e3f359a8f2520d0229833ac75c2bb3239b542c0fd8bab90a43ff6",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::17-Chest-Imaging-II"
+      ]
+    },
+    {
+      "first_field_hash": "e2f04e55ccf549cea0439381866fc2cfa9e87dcfae4084ae8cd750938e937090",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::17-Chest-Imaging-II"
+      ]
+    },
+    {
+      "first_field_hash": "5980f1dfce2d56f989142e4476beb2a34ab9cea1404b6acdd1e4688bf279b3a0",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::17-Chest-Imaging-II"
       ]
     },
     {
@@ -8295,6 +8400,12 @@
       ]
     },
     {
+      "first_field_hash": "e654ea5499ab5697dee287ba29059050d6a3bd91ca33b41926eaed4c44426b48",
+      "tags": [
+        "JerryShen_AnKing_Tags::Biochemistry::Final::01-Carbohydrate-Metabolism::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "b872cc5e4a7c15280a81e754e62494fe32c6cab964606af3eb56e4e688e07fc9",
       "tags": [
         "JerryShen_AnKing_Tags::Biochemistry::Final::01-Carbohydrate-Metabolism::Class-Content"
@@ -8785,6 +8896,12 @@
       ]
     },
     {
+      "first_field_hash": "7fca4a30d045a8e8fb8a89637776346c4438af4aba46802873f91e1af08effa5",
+      "tags": [
+        "JerryShen_AnKing_Tags::POM-3::Clinical-Reasoning::Advanced-Pulmonary-Exam"
+      ]
+    },
+    {
       "first_field_hash": "abfd3578599d8c156290f8e0ca3aa698f93a25cd944b21a16d33a5a0a63b8197",
       "tags": [
         "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-1-Thorax::Embryology::Class-Content"
@@ -9260,9 +9377,154 @@
       ]
     },
     {
+      "first_field_hash": "8cd968ce8dbae2ec214c989f81dfcec7f54e28543f072e36d857ac80be77e051",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::18-Cystic-Fibrosis::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "c372c93afd3e366e5e7fa1a2423e841ef76b258c546602e5226aabbcbf1b3b25",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::18-Cystic-Fibrosis::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "ca90f13627bb20d2f7cd374a331c807109474a2228616d6d7a3150e03ab79ee4",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::18-Cystic-Fibrosis",
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::18-Cystic-Fibrosis::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "da28eaab50ba598985fdd725d144d50be800497c23b2c6770969dbd85eb38b85",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::18-Cystic-Fibrosis"
+      ]
+    },
+    {
+      "first_field_hash": "a30a3dea6373c95ac80f1c46f7ffce674dae49789054141814e42fdad1c48441",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::18-Cystic-Fibrosis::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "13e6e7eb420d0eb3b3d18dcb22c408ccd172af2161c3863ba9d20bdbf0e31409",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::18-Cystic-Fibrosis::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "eab87926bb4aad470fe15f8efbba8977d913a094d0d81db07f38cc8df2485a27",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::18-Cystic-Fibrosis::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "63cfb011714b076795db254b7dc448bf34b4f2d17653929dfd26845e9a015127",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::18-Cystic-Fibrosis"
+      ]
+    },
+    {
+      "first_field_hash": "3b8eaf6f4fede3305bfa7ef5af2eb352e3d747973cb5d4ba2f2ebea2909863d0",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::18-Cystic-Fibrosis::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "15fd792aa3de35a86adec4fb4edf617d93e4686c5b520c1cc7254158f87eb138",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::18-Cystic-Fibrosis"
+      ]
+    },
+    {
+      "first_field_hash": "f4bf8093d8567638c315c624532a4389ba5b29611fe045a6cc50510bb5f19f1a",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::18-Cystic-Fibrosis"
+      ]
+    },
+    {
+      "first_field_hash": "4fcf7ac4a6f39e936048a7d1de59f26d4fb1b9ab6af82523cad776e75ec5e879",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::18-Cystic-Fibrosis::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "8c8bec8d06ae6e5292ba1a7dd4c787b6953be4c12f2a3ff300f7359b319c14ee",
       "tags": [
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-1::03-C.diff-&-Pseudomonas"
+      ]
+    },
+    {
+      "first_field_hash": "647f43b50a699452c6ad71f99acee8df9d9b300ed434f8892e152ba18ada0f05",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::18-Cystic-Fibrosis::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "d205cf9cca1fb5827903ee65f89491f5452599144f142718dd474ddddbb3862e",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::18-Cystic-Fibrosis::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "79af4306d12ca3fac1f9e4e1d7f53a8f83229bf80d2ee94b02eed493b12d286b",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::18-Cystic-Fibrosis::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "3fd10061c9fc81893f725ccc7f08b0746b5bee6e34b3c15a2c68199715a4db11",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::18-Cystic-Fibrosis::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "066de41c4bbd046e83975cc9392bd1a644d4c54b3a8611df53e785a678a5baee",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::18-Cystic-Fibrosis"
+      ]
+    },
+    {
+      "first_field_hash": "5e541bd08bbdd40853071ddd2be8c8462980e139706fb340aab00eb16f397eb2",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::18-Cystic-Fibrosis::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "172bcc737b2f078e6c4e74f2d64c4ef0db390c14c80e38ca6b517d010dd57ed7",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::18-Cystic-Fibrosis::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "6bc9af5416383d9691d7fe8cdeef214d0e8c9273a71ec6dbcd2554743e62c7fe",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::18-Cystic-Fibrosis::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "3e49ebcc4f484e237af1607c70f51e8c856f620d34ea58a85cb7c1ab1b5c10ea",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::18-Cystic-Fibrosis"
+      ]
+    },
+    {
+      "first_field_hash": "617cc7d5fe6c7fb8da9ca01f719c4713002237927d641a186ecd0daea74e6e2e",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::18-Cystic-Fibrosis"
+      ]
+    },
+    {
+      "first_field_hash": "25060c6f2016819cadef43133e3fe54e4b3df1ff88e2215bb80e1876e18c0399",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::18-Cystic-Fibrosis::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "cce80a021580bf77bcb8766d490ebc82d3b1a2a8b32c6e82c7f0fa6c35dfd9b8",
+      "tags": [
+        "JerryShen_AnKing_Tags::POM-3::Clinical-Reasoning::Approach-to-Cough"
       ]
     },
     {
@@ -9595,6 +9857,12 @@
       "first_field_hash": "1c18f18b62a42cccaaafe92e867d339a79ad8177bcc08cb4d04a13d12f1894c3",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::09-Acid-Base-Control-and-Exercise-Physiology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "3d56655f18c2b9dec8e48d1ef9451b70e4326dd531a927e0a616148e03e5e174",
+      "tags": [
+        "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-4-Pelvis::Embryology::Class-Content"
       ]
     },
     {
@@ -10266,6 +10534,12 @@
       ]
     },
     {
+      "first_field_hash": "2b732787b6a016d3f30d7de232eed4e98265540a28ed0194fc907cf2d442d28e",
+      "tags": [
+        "JerryShen_AnKing_Tags::Biochemistry::Final::03-Lipid-Metabolism"
+      ]
+    },
+    {
       "first_field_hash": "3a09759fffdeb8530033e0d22e60430aa26f0cc2272719948e23de7bd2bfbe07",
       "tags": [
         "JerryShen_AnKing_Tags::Biochemistry::Final::01-Carbohydrate-Metabolism"
@@ -10505,6 +10779,12 @@
       "first_field_hash": "b78c0557ac50d40f0fa0fd339eb36f68241248f7284cf7b81c4197e3bfd9e7eb",
       "tags": [
         "JerryShen_AnKing_Tags::Genetics::Exam-2::08.1-Inherited-Metabolic-Disorders"
+      ]
+    },
+    {
+      "first_field_hash": "9b82aaf4b1c7a79b3b907f4b2f151c8f92becacbba83b12f2b429afad1d1bde6",
+      "tags": [
+        "JerryShen_AnKing_Tags::Biochemistry::Final::Extra"
       ]
     },
     {
@@ -10985,6 +11265,12 @@
       ]
     },
     {
+      "first_field_hash": "1fc474dab2b61884acbff7a60e897e59526e716d794d739ae4703e052e27c48a",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::17-Chest-Imaging-II::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "c81b3ef4110d24f1de1323e8e12f014f77e9a914b3546929d96c66deb747838e",
       "tags": [
         "JerryShen_AnKing_Tags::Biochemistry::Final::06-Nucleic-Acid-Metabolism::Class-Content"
@@ -11432,7 +11718,7 @@
       ]
     },
     {
-      "first_field_hash": "7ec6339181d717097b8b2bad075b09ce88436b5998e95699cf68d5d9196cf067",
+      "first_field_hash": "b68cf0a323a99a430e6a1360f256bf0f8e9147c72c3c01b5b1e5e2e6ebacb6a7",
       "tags": [
         "JerryShen_AnKing_Tags::Biochemistry::Final::06-Nucleic-Acid-Metabolism::Class-Content"
       ]
@@ -11495,6 +11781,12 @@
       "first_field_hash": "452535870d3802b2c2cea1a0df01e5c39096e6562946e80eefaef5f4bce4b537",
       "tags": [
         "JerryShen_AnKing_Tags::Biochemistry::Final::02-Oxidative-Phosphorylation"
+      ]
+    },
+    {
+      "first_field_hash": "443d3228359592cf1cef39363692ab5cc4ad84bc1aa242489166518beec2cbcb",
+      "tags": [
+        "JerryShen_AnKing_Tags::Biochemistry::Final::01-Carbohydrate-Metabolism"
       ]
     },
     {
@@ -12184,7 +12476,7 @@
       ]
     },
     {
-      "first_field_hash": "1639b75e3225af8f0e470e9813ae0cbaa0de8f36a7822cd3c5d07410b9bfe7e7",
+      "first_field_hash": "9f25877e18ba22f92c53175670a3d94b8157108a01774067c80e8d26041291c2",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::10-Autonomic-Physiology-and-Pharmacology::Class-Content"
       ]
@@ -17742,6 +18034,12 @@
       ]
     },
     {
+      "first_field_hash": "1df89fe4b35ee9a97b64c98c5ee3b90c6f1a6ab1b82ddd9b6a19b8909404915e",
+      "tags": [
+        "JerryShen_AnKing_Tags::POM-3::Clinical-Reasoning::Approach-to-Cough"
+      ]
+    },
+    {
       "first_field_hash": "6f0341afc1a01dfff4a45cb9d0241fa1560ce9f745b7be90782f49ab2df7135f",
       "tags": [
         "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-3-Abdomen::Histology::Class-Content"
@@ -19031,6 +19329,12 @@
       ]
     },
     {
+      "first_field_hash": "cbbc1d5b8e84643f0e56df3c4409f7728d7d59740a80bf44fe0ddeb2b7b7107a",
+      "tags": [
+        "JerryShen_AnKing_Tags::POM-3::Psychiatry::Mood-Disorders::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "f5722efc6b6c0fda863c3e5f25659e0374fb3cde71385280d03dd54187d32d41",
       "tags": [
         "JerryShen_AnKing_Tags::POM-3::Psychiatry::Psychiatric-Interview"
@@ -19112,8 +19416,108 @@
       ]
     },
     {
+      "first_field_hash": "3f7270222b6db9978b4dcb931905f6888b4235bc1aa4e3ecc5a7576d1bb2c11d",
+      "tags": [
+        "JerryShen_AnKing_Tags::POM-3::Psychiatry::Mood-Disorders",
+        "JerryShen_AnKing_Tags::POM-3::Psychiatry::Mood-Disorders::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "2c5e209c7db16661ba49444fbd4d2497504352a4e9f7a76d58c4cb6e857bce72",
+      "tags": [
+        "JerryShen_AnKing_Tags::POM-3::Psychiatry::Mood-Disorders::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "a67bbb9eaa8ec401feb3374d4657f77b104461832e11fa338dde233a008cf82a",
+      "tags": [
+        "JerryShen_AnKing_Tags::POM-3::Psychiatry::Mood-Disorders",
+        "JerryShen_AnKing_Tags::POM-3::Psychiatry::Mood-Disorders::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "1bcade5784f89da7bce2a91c2826ab93ea10083041085cb9dc955048e46c464e",
+      "tags": [
+        "JerryShen_AnKing_Tags::POM-3::Psychiatry::Mood-Disorders",
+        "JerryShen_AnKing_Tags::POM-3::Psychiatry::Mood-Disorders::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "708811c41b3a51fab41d9f07e0e23834f3122b8ebc274d52f87476322b300af5",
+      "tags": [
+        "JerryShen_AnKing_Tags::POM-3::Psychiatry::Mood-Disorders"
+      ]
+    },
+    {
+      "first_field_hash": "4ded43ebe00c507ca654a6d22bce26a60124c13c117b411ac06d712c6dbdb7a3",
+      "tags": [
+        "JerryShen_AnKing_Tags::POM-3::Psychiatry::Mood-Disorders"
+      ]
+    },
+    {
+      "first_field_hash": "82ed53399b501d0ff71916d07a3665e2125dd637caf0f3c30cbeab2d85907ca7",
+      "tags": [
+        "JerryShen_AnKing_Tags::POM-3::Psychiatry::Mood-Disorders"
+      ]
+    },
+    {
+      "first_field_hash": "fb1572608010ab7bb537a07b2ace057b7b7395374ae159aa605fe0a8ff46411f",
+      "tags": [
+        "JerryShen_AnKing_Tags::POM-3::Psychiatry::Mood-Disorders::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "917a8b057b214f7fc2ffa61b6070793df390777497da7202c59eba1d52907cb0",
+      "tags": [
+        "JerryShen_AnKing_Tags::POM-3::Psychiatry::Mood-Disorders"
+      ]
+    },
+    {
+      "first_field_hash": "502538f8e34765dfc0ae668d0c8dac941b1b31f8c0687c481ea006fcb17987de",
+      "tags": [
+        "JerryShen_AnKing_Tags::POM-3::Psychiatry::Mood-Disorders::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "4e6f9ba1fb389849231f5e8b12fd3ca702ff49cef3f42372bc5d8ccf76bf5006",
+      "tags": [
+        "JerryShen_AnKing_Tags::POM-3::Psychiatry::Mood-Disorders"
+      ]
+    },
+    {
+      "first_field_hash": "ebbecdc7b89c2e5802f042c80ebaf76f73ca0fa71bdc11b4a880589e8ebadb59",
+      "tags": [
+        "JerryShen_AnKing_Tags::POM-3::Psychiatry::Mood-Disorders"
+      ]
+    },
+    {
+      "first_field_hash": "1fdfd00148610504b86ec0a2c166b51230378bba1db3f775320c0f36763c1a71",
+      "tags": [
+        "JerryShen_AnKing_Tags::POM-3::Psychiatry::Mood-Disorders"
+      ]
+    },
+    {
+      "first_field_hash": "a812006ec4628de6f01583b9e5c368b954d4f2b56ed0ae7d3612b8592b1283fd",
+      "tags": [
+        "JerryShen_AnKing_Tags::POM-3::Psychiatry::Mood-Disorders"
+      ]
+    },
+    {
+      "first_field_hash": "998df184e82dbd26c64a683fafe53ba4a37d8b2a3885698703742bdaaf6fa4c0",
+      "tags": [
+        "JerryShen_AnKing_Tags::POM-3::Psychiatry::Mood-Disorders::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "44265ae36b8073cef2c508e2313d8e8383554906c5197ee0cdb04c9f829594a6",
+      "tags": [
+        "JerryShen_AnKing_Tags::POM-3::Psychiatry::Mood-Disorders"
+      ]
+    },
+    {
       "first_field_hash": "0e4659e957234d4edbe031c63efa62d0f676058d0fa09844c933e12a54c9b0e3",
       "tags": [
+        "JerryShen_AnKing_Tags::POM-3::Psychiatry::Mood-Disorders::Class-Content",
         "JerryShen_AnKing_Tags::POM-3::Psychiatry::Psychiatric-Interview::Class-Content"
       ]
     },
@@ -19121,6 +19525,60 @@
       "first_field_hash": "6cc32a290e2db13b26e26e47faac2bf08cd211d50236ee079fd996d35ffb0815",
       "tags": [
         "JerryShen_AnKing_Tags::POM-3::Psychiatry::Psychiatric-Interview::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "1a4502b98a0737503447706cea25a28e9fdcebbfff4430f83f0af0111d81509d",
+      "tags": [
+        "JerryShen_AnKing_Tags::POM-3::Psychiatry::Mood-Disorders::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "d0702a6a12aa05dcdb63d95359ff54b0679a1899cae8a814b2ef71d56248cec1",
+      "tags": [
+        "JerryShen_AnKing_Tags::POM-3::Psychiatry::Mood-Disorders"
+      ]
+    },
+    {
+      "first_field_hash": "7db4de068d5ba55ed614ffbf12ad5b7ac8a420af55b24c7ae633c3d611ced106",
+      "tags": [
+        "JerryShen_AnKing_Tags::POM-3::Psychiatry::Mood-Disorders"
+      ]
+    },
+    {
+      "first_field_hash": "c09d23233d51b9e3ab672477fb9d1cc82e98d34dcbeb803317421549d8829877",
+      "tags": [
+        "JerryShen_AnKing_Tags::POM-3::Psychiatry::Mood-Disorders::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "101f29db0584a674806a7c32ce41c5f018ea6497bc8eea6aa0e60ffdde539876",
+      "tags": [
+        "JerryShen_AnKing_Tags::POM-3::Psychiatry::Mood-Disorders::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "bd81d33f7453c3e3d590b076c28794c2cc139d11dc4bda7222f03007f8bfa55c",
+      "tags": [
+        "JerryShen_AnKing_Tags::POM-3::Psychiatry::Mood-Disorders::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "6af8289328d023e88dc4468b2111b7ccba85da2d67743f110f8e62c86dff46e5",
+      "tags": [
+        "JerryShen_AnKing_Tags::POM-3::Psychiatry::Mood-Disorders::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "0db110f4d54826ad3e3eec093766236acec93f09d67ab4f58415ac1b44ebb0b5",
+      "tags": [
+        "JerryShen_AnKing_Tags::POM-3::Psychiatry::Mood-Disorders"
+      ]
+    },
+    {
+      "first_field_hash": "f257608e6710fd7ea1b84caf251820bc1c3c7c337f1da909f4af664cc59e8232",
+      "tags": [
+        "JerryShen_AnKing_Tags::POM-3::Psychiatry::Mood-Disorders"
       ]
     },
     {
@@ -19293,6 +19751,12 @@
       ]
     },
     {
+      "first_field_hash": "657c04818e28823d4b08336e2edab35723be8d297cc1ebfe0317f4c4a5166461",
+      "tags": [
+        "JerryShen_AnKing_Tags::POM-3::Psychiatry::Psychiatric-Interview::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "30e08a765cd9f1c133c3669ee59f99aed9188f9819f3bb9b27bbf49c1e9a2d27",
       "tags": [
         "JerryShen_AnKing_Tags::POM-3::Psychiatry::Psychiatric-Interview::Class-Content"
@@ -19383,6 +19847,12 @@
       ]
     },
     {
+      "first_field_hash": "c6174e88e74230d210e9af740be48ba1787ff89b977602f93c88d126a7457f52",
+      "tags": [
+        "JerryShen_AnKing_Tags::POM-3::Psychiatry::Mood-Disorders"
+      ]
+    },
+    {
       "first_field_hash": "8b044a4ab2d2b3526b24ec5cb97a2643d66a456f6d104efc65f59838ecf6f0c7",
       "tags": [
         "JerryShen_AnKing_Tags::Neurobiology::Exam-3::Lec-Somatosensation-and-Pain"
@@ -19398,6 +19868,36 @@
       "first_field_hash": "15b971766fab6ac2baede00b709b9540ea6003101dfe5174f3cc35c88f27a988",
       "tags": [
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-1::03-C.diff-&-Pseudomonas"
+      ]
+    },
+    {
+      "first_field_hash": "655cd80cb772c4fb3c2a94914ffc0ede8e6f120bdea3c8d20de5906242cf4429",
+      "tags": [
+        "JerryShen_AnKing_Tags::POM-3::Psychiatry::Mood-Disorders::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "5f23d848ca5af1d61fba5f321be036d0f1e20c838c6db46ca0bc9e48c5dc252d",
+      "tags": [
+        "JerryShen_AnKing_Tags::POM-3::Psychiatry::Mood-Disorders::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "73b114a37d276aa6eca7f2679190bda5af6c9f44bddc53969620cc1b9ca6d928",
+      "tags": [
+        "JerryShen_AnKing_Tags::POM-3::Psychiatry::Mood-Disorders"
+      ]
+    },
+    {
+      "first_field_hash": "2281e5d72d0e6465ed9a6e6c5ac908aedb0a421df054dfbb6c5aa9ca1f2bcf8e",
+      "tags": [
+        "JerryShen_AnKing_Tags::POM-3::Psychiatry::Mood-Disorders"
+      ]
+    },
+    {
+      "first_field_hash": "e43a7aa46ba259b8cbff8c37f405935eff2b8f78eb9000eb8b588dedb765a06a",
+      "tags": [
+        "JerryShen_AnKing_Tags::POM-3::Psychiatry::Mood-Disorders"
       ]
     },
     {
@@ -19933,7 +20433,7 @@
       ]
     },
     {
-      "first_field_hash": "d65cd53093e8114761213a100738a2e4ffd660c0f21a9bfe6d436737283c5435",
+      "first_field_hash": "860473238b45932e927c6c407dced9a8f0e71c77ccc731e388e0dd66e8ca2d03",
       "tags": [
         "JerryShen_AnKing_Tags::POM-1::Final::Epidemiology"
       ]
@@ -20045,6 +20545,12 @@
       "first_field_hash": "b41c6c186b6ae56eb140f862c2889dc7573ba43679358a947b059b1f96fbb021",
       "tags": [
         "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-3-Abdomen::Anatomy::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "a73fb6d6f33ce9183b8c37178dce9a7092d72cfd840cfe9e39a02e4d3e3a46ff",
+      "tags": [
+        "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-3-Abdomen::Anatomy"
       ]
     },
     {
@@ -22012,6 +22518,12 @@
       ]
     },
     {
+      "first_field_hash": "ece2f45752bb822cd5c03bb5257aff1678b12ef2132436b35e2a08a43784089b",
+      "tags": [
+        "JerryShen_AnKing_Tags::POM-3::Clinical-Reasoning::Pain-Management::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "affa846298b5f13e3d401472686ecf7ebdc0c7f7b0f9b23ee4338d1fb8c5972d",
       "tags": [
         "JerryShen_AnKing_Tags::Genetics::Exam-2::02-Pedigrees-&-Inheritance-Patterns::Class-Content"
@@ -22485,6 +22997,12 @@
       "first_field_hash": "0a7858ce2f1a75603dc92a3eee7177e6b376b9ff5701bc913c2b4bad0b29f960",
       "tags": [
         "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-7-Head-&-Neck-2::Embryology"
+      ]
+    },
+    {
+      "first_field_hash": "79d2356b32ae67449cf553e6b511c6762ea3e8a4352acc474440b7f752509174",
+      "tags": [
+        "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-7-Head-&-Neck-2::Embryology::Class-Content"
       ]
     },
     {
@@ -23746,9 +24264,21 @@
       ]
     },
     {
+      "first_field_hash": "49ac73614a0fcf035be8841c17f1788c470deee3e6f86e8a6b6b7b54b74225e2",
+      "tags": [
+        "JerryShen_AnKing_Tags::POM-3::Clinical-Reasoning::Approach-to-Cough::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "a4c5a433a896e113a95d6e0df79190814c3c257655402fff8c1b63d6e064cfbe",
       "tags": [
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-2::08-Other-Antibiotics-&-Mycobacteria"
+      ]
+    },
+    {
+      "first_field_hash": "e9ef9e0a530dad9fa92e9cbc1976a44e4c80b2b6f9d5be598f41076625731483",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::17-Chest-Imaging-II"
       ]
     },
     {
@@ -24082,7 +24612,9 @@
     {
       "first_field_hash": "7d8b23fb56eb2a0817ebd08f327e733e1b489974f477f6ce37e38afa6b64222a",
       "tags": [
-        "JerryShen_AnKing_Tags::POM-3::Clinical-Reasoning::Advanced-Pulmonary-Exam"
+        "JerryShen_AnKing_Tags::POM-3::Clinical-Reasoning::Advanced-Pulmonary-Exam",
+        "JerryShen_AnKing_Tags::POM-3::Clinical-Reasoning::Advanced-Pulmonary-Exam::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::17-Chest-Imaging-II::Class-Content"
       ]
     },
     {
@@ -24213,6 +24745,12 @@
       ]
     },
     {
+      "first_field_hash": "ed372b4183c0e5da9d12ba8df99fce9a78a0907be985dffeb1b0f8d4f4c31979",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::17-Chest-Imaging-II"
+      ]
+    },
+    {
       "first_field_hash": "63df421b0efd8503cc49478ba84978f3e2f16cd05a606c93eb9fe334a9b168dc",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::05-Ventilation-Perfusion-Relationships"
@@ -24228,6 +24766,12 @@
       "first_field_hash": "9762c8320106fc9d26970853f7276f5b2772cda0cb4db06d62ab4fccd07aa19b",
       "tags": [
         "JerryShen_AnKing_Tags::POM-3::Clinical-Reasoning::Advanced-Pulmonary-Exam"
+      ]
+    },
+    {
+      "first_field_hash": "8e2ef28c39dd18864af61eb1750f20c9a2f02f33b9d3662210ec2c8a596e664b",
+      "tags": [
+        "JerryShen_AnKing_Tags::POM-3::Clinical-Reasoning::Approach-to-Cough"
       ]
     },
     {
@@ -24712,6 +25256,12 @@
       "first_field_hash": "3b2726aaf37024ed9e4a586267a181def2943c514088473129f8f573cac5833f",
       "tags": [
         "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-2-Upper-Limb::Histology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "8ad0b90da551304bb8cd8c52557408207efd47f57c06ff16eaea24d0e825b1d1",
+      "tags": [
+        "JerryShen_AnKing_Tags::POM-3::Clinical-Reasoning::Approach-to-Cough"
       ]
     },
     {
@@ -25727,6 +26277,12 @@
       ]
     },
     {
+      "first_field_hash": "212ef6bc3d0f7e85cffe3a6a7d5d462e11db93c8ed5b9e8ff9c955c4c318b695",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::17-Chest-Imaging-II::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "f0a0ab65d53dd0c5e74d514c91a38c4dd85c4ffd0033d72bc3f74b55457eef8e",
       "tags": [
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-2::07-β-Lactam-Antibiotics-&-Parasites::Class-Content"
@@ -26492,6 +27048,38 @@
       ]
     },
     {
+      "first_field_hash": "af4d9e892b00d64a36432df1983a32e4ff62a9448f8c6c2ad12b5ae49d857001",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::18-Cystic-Fibrosis"
+      ]
+    },
+    {
+      "first_field_hash": "9b898fa52c8a35ea101733074aa84d9f67c7dbc433599d85cae7f614fb7b3c5f",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::18-Cystic-Fibrosis"
+      ]
+    },
+    {
+      "first_field_hash": "5ad516530f4f5f859ea346425caecec138bba0ae3bd63e17a3a00791dc0cecf2",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::18-Cystic-Fibrosis"
+      ]
+    },
+    {
+      "first_field_hash": "f16243c84b13551d3393a139ba6d2cdad58367a59bb3dce4fcf926acb86dd551",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::18-Cystic-Fibrosis",
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::18-Cystic-Fibrosis::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "81f0d87bf970458b87fe7ef98bcb8f922c8c5164d418e1992c36d2363a7a3f45",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::18-Cystic-Fibrosis",
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::18-Cystic-Fibrosis::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "639ece9b26304571565f9ed41b774c146f61dea52bd96737745b4662ed12e7c9",
       "tags": [
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-1::04-Intro-to-Viruses::Class-Content"
@@ -26930,7 +27518,8 @@
       "tags": [
         "JerryShen_AnKing_Tags::Cancer-Biology::Final::Optional-Histology-Lecture",
         "JerryShen_AnKing_Tags::Cancer-Biology::Final::Optional-Histology-Lecture::Class-Content",
-        "JerryShen_AnKing_Tags::Micro-Pharm::Exam-2::08-Other-Antibiotics-&-Mycobacteria::Class-Content"
+        "JerryShen_AnKing_Tags::Micro-Pharm::Exam-2::08-Other-Antibiotics-&-Mycobacteria::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::17-Chest-Imaging-II::Class-Content"
       ]
     },
     {
@@ -27433,7 +28022,9 @@
     {
       "first_field_hash": "d565e800552c248e4d2fdc100f0dbf87ed9453b76d9697c41a0874ea69be0e54",
       "tags": [
-        "JerryShen_AnKing_Tags::Micro-Pharm::Exam-2::08-Other-Antibiotics-&-Mycobacteria"
+        "JerryShen_AnKing_Tags::Micro-Pharm::Exam-2::08-Other-Antibiotics-&-Mycobacteria",
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::17-Chest-Imaging-II",
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::17-Chest-Imaging-II::Class-Content"
       ]
     },
     {
@@ -30290,7 +30881,7 @@
       ]
     },
     {
-      "first_field_hash": "9fa94e898e0dc793c5f2e82905b06a6c80caa61f37c8af2d0b980184b92dff8a",
+      "first_field_hash": "db643734a737d42b89efbf7fbd7b7f3f5537f31748735533d327a78935c739ee",
       "tags": [
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-2::08-Other-Antibiotics-&-Mycobacteria::Class-Content"
       ]
@@ -30414,6 +31005,25 @@
       "first_field_hash": "e8a3a0fde6d563f09dbf51ed8cbe4c0b94cface2e1b7b690718fa417b21c7808",
       "tags": [
         "JerryShen_AnKing_Tags::Neurobiology::Exam-3::Tutorial-6-Motor-Systems"
+      ]
+    },
+    {
+      "first_field_hash": "9436e12da1cf29b810c54d3e2ad2da9f3f4e6410dbba49771b6d9b9d2e683c3f",
+      "tags": [
+        "JerryShen_AnKing_Tags::POM-3::Psychiatry::Mood-Disorders::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "8e17c887120568761bed029858d6ae11e108fb231c1aa7530352f402b8c31ce1",
+      "tags": [
+        "JerryShen_AnKing_Tags::POM-3::Psychiatry::Mood-Disorders",
+        "JerryShen_AnKing_Tags::POM-3::Psychiatry::Mood-Disorders::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "79bd4487bfead6a92f3f6036de3a3f96509fe16c7cb671b5c49463e162e6836c",
+      "tags": [
+        "JerryShen_AnKing_Tags::POM-3::Psychiatry::Mood-Disorders::Class-Content"
       ]
     },
     {
@@ -30984,6 +31594,12 @@
         "JerryShen_AnKing_Tags::Cancer-Biology::Final::03-Intro-to-Cancer-Biology::Class-Content",
         "JerryShen_AnKing_Tags::Cancer-Biology::Final::Lab-02-Cancer-Tumor-Board",
         "JerryShen_AnKing_Tags::Cancer-Biology::Final::Lab-02-Cancer-Tumor-Board::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "c34ccd4a72e662708e59ad55768e6d5376486ad28862213e3c5839add822598c",
+      "tags": [
+        "JerryShen_AnKing_Tags::POM-3::Psychiatry::Mood-Disorders"
       ]
     },
     {
@@ -32397,7 +33013,7 @@
       ]
     },
     {
-      "first_field_hash": "56451fe5d74731c401f77d4f73291a347022ffe2bc1971f4ba278e66e761c777",
+      "first_field_hash": "a4de28b909117e2dfb279a05f2894b896f52cda1e19edae3953343d70ab548c0",
       "tags": [
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-2::07-β-Lactam-Antibiotics-&-Parasites"
       ]
@@ -32764,7 +33380,9 @@
     {
       "first_field_hash": "f79459bd62d317c53ff7ee6c957bdd2df8dedf14781063dda20847eee6b5a850",
       "tags": [
-        "JerryShen_AnKing_Tags::Micro-Pharm::Exam-1::03-C.diff-&-Pseudomonas"
+        "JerryShen_AnKing_Tags::Micro-Pharm::Exam-1::03-C.diff-&-Pseudomonas",
+        "JerryShen_AnKing_Tags::Micro-Pharm::Exam-1::03-C.diff-&-Pseudomonas::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::17-Chest-Imaging-II::Class-Content"
       ]
     },
     {
@@ -34524,6 +35142,12 @@
       ]
     },
     {
+      "first_field_hash": "e67316556f8a92ef324867f3898aeed408761a66a3b7ebdf0d5adbb692e84c75",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::15-Upper-Respiratory-Infections"
+      ]
+    },
+    {
       "first_field_hash": "252fcab198a123b2f308fdf6f36b18bf55fda630db3a8283bf679146d3dd5331",
       "tags": [
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-1::04-Intro-to-Viruses"
@@ -34605,6 +35229,12 @@
       "first_field_hash": "716e1663e9dac2a8f8a09b85a46f4e802ac60c617c3d352fa5c9beb86db10cd1",
       "tags": [
         "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-5-Lower-Limb::Anatomy::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "e0bfa115a0029825dc124f1da4bdf8190c9374c2824cf374ba1258f6c6c71db6",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::18-Cystic-Fibrosis"
       ]
     },
     {
@@ -35465,6 +36095,19 @@
       ]
     },
     {
+      "first_field_hash": "b09fd01d63782b07f7744c885311e119600debecc5bf207e5846886f506b93ac",
+      "tags": [
+        "JerryShen_AnKing_Tags::POM-3::Psychiatry::Mood-Disorders"
+      ]
+    },
+    {
+      "first_field_hash": "2839a34602cbea24f2a7db7a4fd9702ff20c5cb3d2b8d3eb549b156793dde11e",
+      "tags": [
+        "JerryShen_AnKing_Tags::POM-3::Psychiatry::Mood-Disorders",
+        "JerryShen_AnKing_Tags::POM-3::Psychiatry::Mood-Disorders::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "f8a958b98ceca7e12f4dc6e160d73c5138b6323bde5daabbba9174daf2e58f8d",
       "tags": [
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-1::01-Intro-to-Pharmacodynamics::Class-Content"
@@ -35940,6 +36583,12 @@
       ]
     },
     {
+      "first_field_hash": "4b92cd18657f31375180ef95ab343d21f1bb67403c96c968585080fde4f574b4",
+      "tags": [
+        "JerryShen_AnKing_Tags::POM-3::Psychiatry::Mood-Disorders"
+      ]
+    },
+    {
       "first_field_hash": "599c3073d62c97944efb407fc6fc5a158e38ea05dd821276fa9940a29d36c618",
       "tags": [
         "JerryShen_AnKing_Tags::Neurobiology::Exam-3::Tutorial-6-Motor-Systems"
@@ -36359,6 +37008,12 @@
       ]
     },
     {
+      "first_field_hash": "90fb63561c764e41c3d6a0aca4dc66e9aac32bb243bff7ea1f27eee246f80dc3",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::17-Chest-Imaging-II"
+      ]
+    },
+    {
       "first_field_hash": "ffb3fcc9725b41d14feadf96cf16da6d54403cfa6ec764e04a5a09f9c3723335",
       "tags": [
         "JerryShen_AnKing_Tags::Neurobiology::Exam-2::Tutorial-1-Cerebrum"
@@ -36521,6 +37176,13 @@
       ]
     },
     {
+      "first_field_hash": "62773cd4e30c9615a89e96d3695cb1e786ff16f7473c21bd435d1abc2a0c2f7e",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::18-Cystic-Fibrosis",
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::18-Cystic-Fibrosis::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "5bba4e0531434d627a9745bb1b29e1efcc0ba5682bb4734eba27a7a223c613b4",
       "tags": [
         "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-1-Thorax::Embryology::Class-Content"
@@ -36584,6 +37246,18 @@
       ]
     },
     {
+      "first_field_hash": "c8a4f5d7dfebeac3c013a91438b48458f6bda57f11d6660d4a4a9111e37a0897",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::18-Cystic-Fibrosis::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "3bd69ba973176e8e7bf92b17725f75b2dcfb1600e055f4ed80c2898256bfc27f",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::18-Cystic-Fibrosis"
+      ]
+    },
+    {
       "first_field_hash": "8d51420b10c0102be179935e7feaaa46d32e7161d2d6122295534d5342bad784",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::14-Lung-Pharmacology"
@@ -36617,6 +37291,12 @@
       "first_field_hash": "7d82cdb7f519e601053908e5658c9743ced3d255b6ef61e228f9eedcc1f295e4",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::15-Upper-Respiratory-Infections"
+      ]
+    },
+    {
+      "first_field_hash": "7622a7d2545435a40ce697cc40caba1d9853b2f01fcb985314e1b71232849c69",
+      "tags": [
+        "JerryShen_AnKing_Tags::POM-3::Clinical-Reasoning::Approach-to-Cough"
       ]
     },
     {
@@ -36705,6 +37385,12 @@
       ]
     },
     {
+      "first_field_hash": "5183ea35556ab91ae51466a3390ab414fe6b1dac1ffea751fe8a0c691fe14351",
+      "tags": [
+        "JerryShen_AnKing_Tags::POM-3::Psychiatry::Mood-Disorders::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "133010b72f7f6eee10604a48d637635733bc9b88b990dd108c7e6a70fb20f639",
       "tags": [
         "JerryShen_AnKing_Tags::Neurobiology::Exam-3::Lec-Cognitive-Circuits::Class-Content"
@@ -36722,6 +37408,18 @@
         "JerryShen_AnKing_Tags::Neurobiology::Exam-3::Lec-Cognitive-Circuits",
         "JerryShen_AnKing_Tags::Neurobiology::Exam-3::Lec-Cognitive-Circuits::Class-Content",
         "JerryShen_AnKing_Tags::Neurobiology::Exam-3::Lec-Limbic-System-&-Addiction"
+      ]
+    },
+    {
+      "first_field_hash": "53c13fe06a151835c674742970fbddaf9e075da40edf7026548215907de2e32c",
+      "tags": [
+        "JerryShen_AnKing_Tags::POM-3::Psychiatry::Mood-Disorders::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "9c96eb2952338de724facd29967d438070a9049f10ecb59b4d7d2228d9acf79f",
+      "tags": [
+        "JerryShen_AnKing_Tags::POM-3::Psychiatry::Mood-Disorders::Class-Content"
       ]
     },
     {
@@ -36809,6 +37507,12 @@
       ]
     },
     {
+      "first_field_hash": "936be430c153d9673584693005b5e55c85954611513e3359de27b80056985b8b",
+      "tags": [
+        "JerryShen_AnKing_Tags::POM-3::Psychiatry::Mood-Disorders"
+      ]
+    },
+    {
       "first_field_hash": "bd9a4da24688e6bca78814bf3a003664cb57b306fd118b805d8b1e2a5eff5ce0",
       "tags": [
         "JerryShen_AnKing_Tags::Neurobiology::Exam-3::Tutorial-7-Affective-and-Cognitive-Systems::Class-Content"
@@ -36824,6 +37528,18 @@
       "first_field_hash": "139b7616e56ce0a71e0cf2baf41019275863f1b1b421d0b94cc44f523f8c399a",
       "tags": [
         "JerryShen_AnKing_Tags::Neurobiology::Exam-3::Tutorial-6-Motor-Systems::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "398a56ac63498283e491d26223a4ccbfaab71dcc26088e147049beaf42316027",
+      "tags": [
+        "JerryShen_AnKing_Tags::POM-3::Psychiatry::Mood-Disorders"
+      ]
+    },
+    {
+      "first_field_hash": "701ea23e080ffce51b83bb6cf071e08bbfa3a93065d1992145899a6e47fe4db2",
+      "tags": [
+        "JerryShen_AnKing_Tags::POM-3::Psychiatry::Mood-Disorders"
       ]
     },
     {
@@ -36866,6 +37582,12 @@
       "first_field_hash": "e168994799fd388840fe2156bc566f02159fbf7bc0c8caaaf9d6e4c2d000289d",
       "tags": [
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-2::09-Misc-Antimicrobials-&-Skin-Infections::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "55232bba7a6f0c68ddebaccb6fa873f6a299c7ea6b75ec8268b469497f1fa93d",
+      "tags": [
+        "JerryShen_AnKing_Tags::POM-3::Clinical-Reasoning::Pain-Management::Class-Content"
       ]
     },
     {
@@ -36928,6 +37650,13 @@
       "first_field_hash": "b4323a25fb4b17ca356ff1685153584082a13f69800a4c9e7e0677a64b77717b",
       "tags": [
         "JerryShen_AnKing_Tags::Neurobiology::Exam-2::Tutorial-1-Cerebrum::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "0b44aca226c689fa5ea85ef40fd6d4f3c7ceabf465d795291af72d06ba79d9e4",
+      "tags": [
+        "JerryShen_AnKing_Tags::POM-3::Clinical-Reasoning::Approach-to-Cough",
+        "JerryShen_AnKing_Tags::POM-3::Clinical-Reasoning::Approach-to-Cough::Class-Content"
       ]
     },
     {
@@ -37197,6 +37926,12 @@
       "first_field_hash": "652a7b79973eb52d49df2ab2b1aa78c70fe649e542ef80df3d32fb971eb549d9",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::16-Lower-Respiratory-Infections"
+      ]
+    },
+    {
+      "first_field_hash": "81b706c416c704f9848a32ec250ea0bef2463cc9147691ccdfeef625268458e4",
+      "tags": [
+        "JerryShen_AnKing_Tags::POM-3::Clinical-Reasoning::Approach-to-Cough"
       ]
     },
     {
@@ -37537,6 +38272,12 @@
       ]
     },
     {
+      "first_field_hash": "407b75969644c47e3d934f66cd1a34566e847189d0ec449ac87cab3c6e9ba457",
+      "tags": [
+        "JerryShen_AnKing_Tags::POM-3::Psychiatry::Mood-Disorders"
+      ]
+    },
+    {
       "first_field_hash": "cc7ad93f512e53f21dba50b69e42bae343abf38020e93969c4fb059721ff8d97",
       "tags": [
         "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-2-Upper-Limb::Anatomy::Class-Content"
@@ -37629,7 +38370,8 @@
     {
       "first_field_hash": "4255788c5b7a266c63c72b7e9643b6a82eafe307ae75bc99a4feb67867ef3b1c",
       "tags": [
-        "JerryShen_AnKing_Tags::Micro-Pharm::Exam-2::08-Other-Antibiotics-&-Mycobacteria"
+        "JerryShen_AnKing_Tags::Micro-Pharm::Exam-2::08-Other-Antibiotics-&-Mycobacteria",
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::17-Chest-Imaging-II"
       ]
     },
     {
@@ -37675,7 +38417,7 @@
       ]
     },
     {
-      "first_field_hash": "2abd9b5d5bc62e8d5c6bb14adec348ccfadcaf30b6a665a79728aad378043a65",
+      "first_field_hash": "1647946f70d8930746f9250b1702f37763bb4509bf6b1bf4eab966f765dd26c1",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::16-Lower-Respiratory-Infections"
       ]
@@ -37756,6 +38498,12 @@
       "first_field_hash": "e61e0de0f50af01ac82d9b9e6f377b8898e8912d80f95fbc2169cee568bb7728",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::07-Slow-Rhythm-Arrhythmias"
+      ]
+    },
+    {
+      "first_field_hash": "8ca85f1e396bf418005d0d20d2d9ae75405a7d230af8c02a9a0ada08034e2e44",
+      "tags": [
+        "JerryShen_AnKing_Tags::POM-1::Final::Epidemiology::Class-Content"
       ]
     },
     {
@@ -37881,6 +38629,12 @@
       ]
     },
     {
+      "first_field_hash": "f50fff005dce7e1670accda9d5428e055fcf248700f4807dd4339a5ff5d60432",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::18-Cystic-Fibrosis::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "5cfb4ccf8151adda28565d365e231ad8c2cf14d449e61d4b9c0f340dcbdefbd1",
       "tags": [
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-2::07-β-Lactam-Antibiotics-&-Parasites"
@@ -37908,6 +38662,12 @@
       "first_field_hash": "9fe82514bc0c99653e2db5d5b0d39015ccfe7f3c053cfc2646f7f56c4972344b",
       "tags": [
         "JerryShen_AnKing_Tags::Cancer-Biology::Final::06-Role-of-Pathology-in-Cancer-Diagnosis"
+      ]
+    },
+    {
+      "first_field_hash": "d5e688dee60483df54fdccf5d20d4a541251e3eb0ecae80970caf47fcda18bb3",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::18-Cystic-Fibrosis::Class-Content"
       ]
     },
     {
@@ -37995,6 +38755,12 @@
       ]
     },
     {
+      "first_field_hash": "eb2c821c85edb608ef6f1d2cd15c8a92b1045c1140ae4d037bad2c945d45145d",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::17-Chest-Imaging-II"
+      ]
+    },
+    {
       "first_field_hash": "6e7bf95a8f557e5da172b730bf6445f78781fca66adaee21d7356a96c7fb798a",
       "tags": [
         "JerryShen_AnKing_Tags::POM-2::Final::Nutrition::Class-Content"
@@ -38053,6 +38819,12 @@
       ]
     },
     {
+      "first_field_hash": "e91f00b4152bf2e086f287b6555677089a2da7171d8a13b008ee7ad189fd7e47",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::18-Cystic-Fibrosis"
+      ]
+    },
+    {
       "first_field_hash": "467f0594976c45e9aa8b3b8f225e5ca482d9ddd150a79c43354df3cf58a04248",
       "tags": [
         "JerryShen_AnKing_Tags::POM-1::Final::Public-Health::Class-Content"
@@ -38062,6 +38834,12 @@
       "first_field_hash": "a29c21e45c145734e6bba7485d0d6ade2913ca7643f2e08d8d6fb437e84a1a75",
       "tags": [
         "JerryShen_AnKing_Tags::POM-1::Final::Epidemiology"
+      ]
+    },
+    {
+      "first_field_hash": "5caca99c7b838f38c383c265020ff8850f69bd310be70f840ae6092aceb253c9",
+      "tags": [
+        "JerryShen_AnKing_Tags::POM-1::Final::Epidemiology::Class-Content"
       ]
     },
     {
@@ -38200,7 +38978,9 @@
     {
       "first_field_hash": "491c32c1049320db1b0c675d960dfe282c6ed0039b6e1b5d99e893714c5232ef",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::13-Intro-to-Chest-Radiology"
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::13-Intro-to-Chest-Radiology",
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::13-Intro-to-Chest-Radiology::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::17-Chest-Imaging-II::Class-Content"
       ]
     },
     {
@@ -38438,6 +39218,12 @@
       ]
     },
     {
+      "first_field_hash": "2d767ea4a2a24a729c76e3e23b3ea100058d4caad182881c371e96a875e8e824",
+      "tags": [
+        "JerryShen_AnKing_Tags::POM-3::Clinical-Reasoning::Advanced-Pulmonary-Exam"
+      ]
+    },
+    {
       "first_field_hash": "a589eb0eeaa1d36a9f9d91eeb97b2107bf87cee6812928d52add08e68d7149c0",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::10-Autonomic-Physiology-and-Pharmacology",
@@ -38463,6 +39249,12 @@
       ]
     },
     {
+      "first_field_hash": "e7f08463ffacf65a84ceefdec5e7b442623672a303f14d177a2169982d4da946",
+      "tags": [
+        "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-3-Abdomen::Anatomy"
+      ]
+    },
+    {
       "first_field_hash": "1ff73f982c95a53d9be88b42943deac85c54aada05962030105c0cef6386dbe4",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::07-Slow-Rhythm-Arrhythmias"
@@ -38472,6 +39264,12 @@
       "first_field_hash": "21e80763af3841fd6eaaeb5a96f8eed98a915e24732770fc60a7ca4b019f225c",
       "tags": [
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-2::09-Misc-Antimicrobials-&-Skin-Infections"
+      ]
+    },
+    {
+      "first_field_hash": "eb861b52ed44072b367a13c36140339133d5eae9ddf4a342c7317ee43c440b83",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::17-Chest-Imaging-II"
       ]
     },
     {
@@ -38880,6 +39678,12 @@
       ]
     },
     {
+      "first_field_hash": "c003c9455868a4818576fd7592ccc1f9a41ac703c6a62b2c92d38da26a02dc49",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::17-Chest-Imaging-II::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "1af84e34ff7340d52e6d6abcf7f390329db6b1ba52a3794862d0b03b14761a2b",
       "tags": [
         "JerryShen_AnKing_Tags::Neurobiology::Exam-3::Tutorial-7-Affective-and-Cognitive-Systems"
@@ -39198,6 +40002,12 @@
       "first_field_hash": "300414a37c2551e550f841090d989eccadb10fc5fb84b4d4e861b5cf5127b761",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::15-Upper-Respiratory-Infections"
+      ]
+    },
+    {
+      "first_field_hash": "88362f0ad355a2e9e73481cf23109be7a73cafa2a3b505e35b4021fd2851cde8",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::17-Chest-Imaging-II"
       ]
     },
     {
