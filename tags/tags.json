@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
   "author": "JerryShen",
-  "description": "Cystic Fibrosis and Chest Imaging II",
-  "created": "2026-04-20T19:39:06.491759+00:00",
-  "updated": "2026-04-20T19:39:06.491759+00:00",
+  "description": "cardiac cycle and cardiac muscle contraction",
+  "created": "2026-04-23T19:15:57.442076+00:00",
+  "updated": "2026-04-23T19:15:57.442076+00:00",
   "tag_prefix": "JerryShen_AnKing_Tags",
   "tag_hierarchy": [
     "JerryShen_AnKing_Tags",
@@ -275,12 +275,18 @@
     "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::07-Slow-Rhythm-Arrhythmias::Class-Content",
     "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::08-Fast-Rhythm-Arrhythmias",
     "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::08-Fast-Rhythm-Arrhythmias::Class-Content",
-    "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::09-Supraventricular-Tachycardia",
-    "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::09-Supraventricular-Tachycardia::Class-Content",
+    "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::09-Supraventricular-Tachycardia-&-Antiarrhythmics",
+    "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::09-Supraventricular-Tachycardia-&-Antiarrhythmics::Class-Content",
     "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::10-Autonomic-Physiology-and-Pharmacology",
     "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::10-Autonomic-Physiology-and-Pharmacology::Class-Content",
     "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::11-Pathology-of-Cardiomyopathy-and-Myocarditis",
     "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::11-Pathology-of-Cardiomyopathy-and-Myocarditis::Class-Content",
+    "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::12-Myosin-and-Cardiac-Contractility",
+    "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::12-Myosin-and-Cardiac-Contractility::Class-Content",
+    "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::13-Excitation-Contraction-Coupling",
+    "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::13-Excitation-Contraction-Coupling::Class-Content",
+    "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::14-The-Cardiac-Cycle",
+    "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::14-The-Cardiac-Cycle::Class-Content",
     "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block",
     "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::01-Structure-and-Function-of-the-Lung",
     "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::01-Structure-and-Function-of-the-Lung::Class-Content",
@@ -423,6 +429,11 @@
       "date": "2026-04-20T19:39:06.491759+00:00",
       "message": "Cystic Fibrosis and Chest Imaging II",
       "note_count": 152
+    },
+    {
+      "date": "2026-04-23T19:15:57.442076+00:00",
+      "message": "cardiac cycle and cardiac muscle contraction",
+      "note_count": 248
     }
   ],
   "notes": [
@@ -701,6 +712,12 @@
       "first_field_hash": "d7af50f2028d4a730e0d4b2b0de3e61f36411565f2d2475e393b428136d79a64",
       "tags": [
         "JerryShen_AnKing_Tags::Neurobiology::Exam-3::Lec-Vestibular-System::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "e0d8e139216c175c4a041ee38bb5111c7166b0c598bab3e2d9ba99cfab99dba5",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::10-Autonomic-Physiology-and-Pharmacology"
       ]
     },
     {
@@ -2807,6 +2824,12 @@
       ]
     },
     {
+      "first_field_hash": "c47df165c59821736ffd74ebe310985852d9f265821341487d47249823bd4c00",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::12-Myosin-and-Cardiac-Contractility"
+      ]
+    },
+    {
       "first_field_hash": "352c9128c9a598cbadf15f47abfe69665359f410067b20e666e729844adbf7e1",
       "tags": [
         "JerryShen_AnKing_Tags::Genetics::Exam-2::02-Pedigrees-&-Inheritance-Patterns::Class-Content"
@@ -3262,6 +3285,7 @@
     {
       "first_field_hash": "4780d72012e598e4815992eb0a40986c710e19158be747ece15d2fc0e235df04",
       "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::14-The-Cardiac-Cycle",
         "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::02-Pulmonary-Circulation::Class-Content"
       ]
     },
@@ -3269,6 +3293,12 @@
       "first_field_hash": "311b393f1ca2d11e865ea81057aaceee21bc6e824d47a9041d7995e4a41c9401",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::08-Pulmonary-Mechanics::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "e77e6f6133d5bedfe6b7be3b7e9b6764d97da38ba3137902254632116861b1dd",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::02-Pulmonary-Circulation::Class-Content"
       ]
     },
     {
@@ -3384,7 +3414,8 @@
     {
       "first_field_hash": "fa77ec6b09ce9e56447dcd5b8b51ce25b39eeb92abf874bb07113ff969b9d133",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::03-The-Cardiac-Action-Potential::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::03-The-Cardiac-Action-Potential::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::13-Excitation-Contraction-Coupling::Class-Content"
       ]
     },
     {
@@ -3712,7 +3743,8 @@
     {
       "first_field_hash": "8a0ea890284856144da5c47cf5456f8c4f3f14976d7e43cdb7a9cbee0b7a8b91",
       "tags": [
-        "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-2-Upper-Limb::Histology::Class-Content"
+        "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-2-Upper-Limb::Histology::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::12-Myosin-and-Cardiac-Contractility::Class-Content"
       ]
     },
     {
@@ -3724,7 +3756,9 @@
     {
       "first_field_hash": "729779cf76dd042e8707c2446549692b674f89b8f9e65701ae4467463b43fcf8",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::03-The-Cardiac-Action-Potential"
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::03-The-Cardiac-Action-Potential",
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::03-The-Cardiac-Action-Potential::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::13-Excitation-Contraction-Coupling::Class-Content"
       ]
     },
     {
@@ -3736,13 +3770,40 @@
     {
       "first_field_hash": "b1a2b2577bfa7b9da211753a861a2f6c641e56650e10063372ac3e3d92c5eb01",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::03-The-Cardiac-Action-Potential::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::03-The-Cardiac-Action-Potential::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::13-Excitation-Contraction-Coupling::Class-Content"
       ]
     },
     {
       "first_field_hash": "145e86571cc121eded22fb72e81a24f7623a6bdd749dadfa527b727a78234122",
       "tags": [
-        "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-2-Upper-Limb::Histology::Class-Content"
+        "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-2-Upper-Limb::Histology::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::12-Myosin-and-Cardiac-Contractility::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "881ee7b95f622e259d9eb843f3d6353dbe8737552de0449706b84961885f2eba",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::13-Excitation-Contraction-Coupling"
+      ]
+    },
+    {
+      "first_field_hash": "b138c9cb7ea37a3dfbd1e093152c7c3de3c4794286f41b6b990936a6d455fb46",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::12-Myosin-and-Cardiac-Contractility",
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::12-Myosin-and-Cardiac-Contractility::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "c3533fde19910685cecb2d6827f18068c76d02607c3a71e0c06e3a86340f1754",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::14-The-Cardiac-Cycle::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "1163fea0ae98e62cb504ae20293eaf5e47c4e4b8331d34011b873faf7ed71e2c",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::13-Excitation-Contraction-Coupling::Class-Content"
       ]
     },
     {
@@ -3753,27 +3814,134 @@
       ]
     },
     {
+      "first_field_hash": "079491b87c213499eb8eeba3f85e997c511802550b0d289613bee0405eb34b2d",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::13-Excitation-Contraction-Coupling::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "e1b22a8a4a245cd41b6501593b786bbb896b8c37cc9ee862b381f31f1ef417f1",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::10-Autonomic-Physiology-and-Pharmacology::Class-Content"
       ]
     },
     {
+      "first_field_hash": "54f1454cbd7ec573181148cceb5bbf83837a32fcfa45b3eb08aaa890d995b3ca",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::13-Excitation-Contraction-Coupling"
+      ]
+    },
+    {
+      "first_field_hash": "00efe9ae4ea2ec70e08c12ac74048d22ce8e34ca272b16a75c84ff830a167fd0",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::14-The-Cardiac-Cycle::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "84bb0bd272b342e4c7ab78b715367aae73b47aabf98f2b18145dab9da6e281af",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::14-The-Cardiac-Cycle::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "e03beb0d1321f2b5fb022160d24da41483f4111f25345648a2b0b53fe2cc27f7",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::14-The-Cardiac-Cycle::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "34bebe6fafb70ca1b8086370a71ed9ac1a685f4c40e268e9d83c3d5d6aefad22",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::14-The-Cardiac-Cycle"
+      ]
+    },
+    {
+      "first_field_hash": "47675fe1feec22a8639d727ee9c8971b4637f2ecfb3a8a915316008a78608cc5",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::14-The-Cardiac-Cycle::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "1bf1d9cb5b4a9d4c800919b87abbed7e28b5ebcc960c4d31d051f0ba43664c52",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::11-Pathology-of-Cardiomyopathy-and-Myocarditis"
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::11-Pathology-of-Cardiomyopathy-and-Myocarditis",
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::11-Pathology-of-Cardiomyopathy-and-Myocarditis::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::14-The-Cardiac-Cycle::Class-Content"
       ]
     },
     {
       "first_field_hash": "12224df32033eb26062932bc687b21c8751d3dbfa278b9c4a5c734d123481841",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::10-Autonomic-Physiology-and-Pharmacology"
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::10-Autonomic-Physiology-and-Pharmacology",
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::10-Autonomic-Physiology-and-Pharmacology::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::14-The-Cardiac-Cycle::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "553f68f29545db040192ac0ed7e0f9f109a38574ad3ecafc2a0fb486f5d11506",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::14-The-Cardiac-Cycle::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "abb5b7f09c668b540c049b256de953ff6253a2a068dbd848fe9c42aa77c43572",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::14-The-Cardiac-Cycle"
+      ]
+    },
+    {
+      "first_field_hash": "7d35636452e394c12539b239cc744d0b87a572cdff537307e96dfae007c9da7e",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::14-The-Cardiac-Cycle::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "df711db0e4547e52c84b90e994430c4e2a6d2329631f62571698e05d4a149d94",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::14-The-Cardiac-Cycle::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "edc00c7ba74eb45c9250e6dff5e6a33a2f650dc4a9bb7396ca8f7b429d58c745",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::14-The-Cardiac-Cycle"
+      ]
+    },
+    {
+      "first_field_hash": "33186f1e7f321c1644a2d298fb14a1a4fe874be82b1b054264a49ddd1576e568",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::14-The-Cardiac-Cycle::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "72fc1cdbe22a4e80b8b19b0ec45ae83d1181b28318decc685d5d70a385f6aa21",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::14-The-Cardiac-Cycle::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "6fd014e0e8b23efa9b35467689d7586c484a53e4e64146fe7c21cdc905b0a7a0",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::14-The-Cardiac-Cycle::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "545bccb79059e8ab6704026e225df94a043325745a03b14d0d2b5f9b23b64081",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::14-The-Cardiac-Cycle::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "9f5f7f19b6a624b2a8353a48a20082be4d7d936b67a5e37b5437b3cdcc5cafbb",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::14-The-Cardiac-Cycle::Class-Content"
       ]
     },
     {
       "first_field_hash": "acd50a1d3ea8560fad53cb0e2c66bc8f90cedc8e2d367fcb9cde0c7a9e5a6079",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::10-Autonomic-Physiology-and-Pharmacology::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::10-Autonomic-Physiology-and-Pharmacology::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::14-The-Cardiac-Cycle::Class-Content"
       ]
     },
     {
@@ -3783,9 +3951,63 @@
       ]
     },
     {
+      "first_field_hash": "686c6e2f636cb7b2c8340867b785257a90ef7c8eb8c0d386e0e8d26c7acf5407",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::14-The-Cardiac-Cycle::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "6218aa8e1fdac6278b7241497bde9ecc1441f088c7a711e7b1f117c0f7cd6fd6",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::14-The-Cardiac-Cycle"
+      ]
+    },
+    {
+      "first_field_hash": "b030392d853eb5cc23c378ec9e47187650ce14dab2a375fed50a8c48bcc101b0",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::14-The-Cardiac-Cycle::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "28277bf41bc990050097e32c266404ea9a55a806feafd64148ca650cb3fc24db",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::14-The-Cardiac-Cycle::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "b7b32d2b30cac649fd6fd76b1a0d35ad307128253ba20ebaa9327aa508eb1a9e",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::14-The-Cardiac-Cycle::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "dae90e05296112fb99e716230b0e69a47167e9e1b3ecf7cc3b0413917624c048",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::10-Autonomic-Physiology-and-Pharmacology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "8ce9f3b0a163b72cc1886481ddd2d9588d45be30100b6c8a63279db44fe7b886",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::14-The-Cardiac-Cycle::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "dee7707a7ec2aa61e0b21b4b7af3eb45810eb913bbd9bc7a74eb00c81b255004",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::14-The-Cardiac-Cycle"
+      ]
+    },
+    {
+      "first_field_hash": "28802f7d665842cc0440920bbcafc60ce9a046d24a1695925f7af1c59ef9fa1f",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::14-The-Cardiac-Cycle"
+      ]
+    },
+    {
+      "first_field_hash": "83d62dbf0bb49df55338039f3a429521bd8fc8e55853525eb95f4870d4a81b3a",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::14-The-Cardiac-Cycle::Class-Content"
       ]
     },
     {
@@ -3803,6 +4025,7 @@
     {
       "first_field_hash": "a8926d5f5493368a7e95894c0b1d5cd52895e2121ed29291323fc11aebc56aea",
       "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::14-The-Cardiac-Cycle::Class-Content",
         "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::04-O2-and-CO2-Transport::Class-Content",
         "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::09-Acid-Base-Control-and-Exercise-Physiology::Class-Content"
       ]
@@ -3834,27 +4057,156 @@
       ]
     },
     {
+      "first_field_hash": "d0cd4c24281ec6be8e7e6c18e85f086c3bb47c0c3c53fa510f94f1b2e1cbaea5",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::14-The-Cardiac-Cycle::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "d3a39b02a3dd4ba4aa7f01c1ba54fcf1928373ee08e7aad5515046ee41978778",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::12-Myosin-and-Cardiac-Contractility::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "a94fb0667b1f7328889309de3cf023ea1a30f0d6298fb168d177624602aa5732",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::14-The-Cardiac-Cycle::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "c992c7fd08776dc0cc323aaaa0bdc0b19741a2a0773c0b3168b25f7f4dd09e7d",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::14-The-Cardiac-Cycle::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "676ea690921fa0aa5c05a0deef4b18ae153fe07a16538adafb96a02cee50877e",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::14-The-Cardiac-Cycle::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "2d7134bf2d429235c30c3f3ba7ff89418dc49577a21767bed51f17d920d73510",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::14-The-Cardiac-Cycle::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "aaa3344d4cb95539fd6c7b688f258282b52565078597b4a17443fe8016272735",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::14-The-Cardiac-Cycle::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "e5c653ea6cf1ed90cbd45db9e886b33ae81dbfe104821069077366c5082cf65e",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::14-The-Cardiac-Cycle::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "15a4fe1c3f71a389bcd4c4c19b231fa6c92809d2507da5f8acbbabfd1ad94773",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::14-The-Cardiac-Cycle::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "d86a6886c031e69d9cb353f1b6877eb6778736aa977e0754c179206a28d58705",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::05-The-Normal-ECG"
       ]
     },
     {
+      "first_field_hash": "7486c82207585e65ba71b165025a0de97ca45680813c93ac95e03a1be2c5e04f",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::14-The-Cardiac-Cycle::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "4eb45be778e6d7415941bd4f999570bc77637bde8175f3b2d4124c7bfd904431",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::14-The-Cardiac-Cycle::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "24be018ac583bedb83aa6fc4cda5e3f8705d1face81f8141908c59b975df4952",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::14-The-Cardiac-Cycle::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "8be02db4edfe25477f348ba0f4e0b1d02df751a5042c029bfbcf8cc9a1304305",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::14-The-Cardiac-Cycle"
+      ]
+    },
+    {
+      "first_field_hash": "5c004b47112d8948f56136a1621823881c2b84b3385cc41cac3bb61ce9a31d41",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::14-The-Cardiac-Cycle"
+      ]
+    },
+    {
+      "first_field_hash": "e936f365ac92db0d9da963257918a857902535b831d69846c65acfbd71449ff9",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::14-The-Cardiac-Cycle"
+      ]
+    },
+    {
+      "first_field_hash": "9f462e7f45805ac706e78d6195f5b6d2c78abfd5c59247515afba95764bd8ec2",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::14-The-Cardiac-Cycle"
+      ]
+    },
+    {
+      "first_field_hash": "db4144de265ac2c632d56862017c94f079cae14739d8a0d75c1c9f9f6b041a6d",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::14-The-Cardiac-Cycle::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "dfe6d4bdeaa2cc2d5f864a49c5d3960bcf65154d081e980637245f41801eb15f",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::14-The-Cardiac-Cycle",
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::14-The-Cardiac-Cycle::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "d5112a6469a80bb151ff5817e3d34bfcd6270a33c6d41406735657a359a9231c",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::14-The-Cardiac-Cycle"
+      ]
+    },
+    {
       "first_field_hash": "d0f5d8981a5507b1028c46c61ca8dcdd08768452e6c59b679ebb5de5724a5d24",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::10-Autonomic-Physiology-and-Pharmacology::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::10-Autonomic-Physiology-and-Pharmacology::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::14-The-Cardiac-Cycle::Class-Content"
       ]
     },
     {
       "first_field_hash": "9ffa290bc17adcb6ba97c12d3acab31d0dd70d09ef2910905363a5723e16aaf1",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::10-Autonomic-Physiology-and-Pharmacology::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::10-Autonomic-Physiology-and-Pharmacology::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::14-The-Cardiac-Cycle::Class-Content"
       ]
     },
     {
       "first_field_hash": "b241e49d0307a263101eb793381612249a874b01a662cbbe6e2142b4c5f09e37",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::10-Autonomic-Physiology-and-Pharmacology"
+      ]
+    },
+    {
+      "first_field_hash": "a72587801fa8a24637e58b3e771d9ce705643555531997e5c49e1a26682da925",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::14-The-Cardiac-Cycle::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "77c72817e1c7bb57b9d1fb969b8458c8916c847c5c0a0dc5df4e00ac8dee5059",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::14-The-Cardiac-Cycle::Class-Content"
       ]
     },
     {
@@ -3971,7 +4323,7 @@
       ]
     },
     {
-      "first_field_hash": "6dc062740f6d894317777705a9060f72c3ca664c5642b1dabf701b706149f661",
+      "first_field_hash": "aedbc25d34572f86c45f5bd2f3f03dcce47a8bc0636050e153dd215dfcfa64ca",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::10-Autonomic-Physiology-and-Pharmacology",
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::10-Autonomic-Physiology-and-Pharmacology::Class-Content"
@@ -4108,31 +4460,31 @@
     {
       "first_field_hash": "337b8ef48fb551f608ac59b6a068d28b9d2c12b0df720685323e9d51fa4f6f97",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::09-Supraventricular-Tachycardia::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::09-Supraventricular-Tachycardia-&-Antiarrhythmics::Class-Content"
       ]
     },
     {
       "first_field_hash": "2457800e66dd8346e17bded66affc7e900ccc898768a7fcbeeae260ccf645d6c",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::09-Supraventricular-Tachycardia"
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::09-Supraventricular-Tachycardia-&-Antiarrhythmics"
       ]
     },
     {
       "first_field_hash": "3fa20c6cf0ff00654e4cf9e64d5a1be4a5e8aac4245632aeeb6618c09b25bf71",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::09-Supraventricular-Tachycardia::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::09-Supraventricular-Tachycardia-&-Antiarrhythmics::Class-Content"
       ]
     },
     {
       "first_field_hash": "d65ad50e6cf2dbbbadf7b974fba3fe6077ac41635bd47be0b9db63abfc7a030e",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::09-Supraventricular-Tachycardia::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::09-Supraventricular-Tachycardia-&-Antiarrhythmics::Class-Content"
       ]
     },
     {
       "first_field_hash": "e4123d3341f69b1f8953303561bbad00b5edeb0d2cac5a5813691ef931d4a6a9",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::09-Supraventricular-Tachycardia::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::09-Supraventricular-Tachycardia-&-Antiarrhythmics::Class-Content"
       ]
     },
     {
@@ -4209,6 +4561,18 @@
       ]
     },
     {
+      "first_field_hash": "2b447f0febf3555e1b0b695d1f167e65665183048963c77897f0a1a4c2411e7d",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::12-Myosin-and-Cardiac-Contractility::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "1421383b2a2fbba799187e778966b0f7eec7dd1564a378856e0ccb39d66d7242",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::12-Myosin-and-Cardiac-Contractility"
+      ]
+    },
+    {
       "first_field_hash": "c41d37af68a576866d17cd0c55fee6ccf958f347b75458cc999d3334449d2f1d",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::08-Fast-Rhythm-Arrhythmias"
@@ -4230,6 +4594,18 @@
       "first_field_hash": "53297e44d972ebf61e29c19d4f45485496d735a228974a64d9bb61a0efe8df61",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::11-Pathology-of-Cardiomyopathy-and-Myocarditis"
+      ]
+    },
+    {
+      "first_field_hash": "f8eaabbf0b099a883c87c656f63cc296e54afa208eaf9fe70dccf1b7484151f1",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::14-The-Cardiac-Cycle"
+      ]
+    },
+    {
+      "first_field_hash": "f76abc042fd46ff1d6f814450c9ca6d64cd23b010a90f8a2c96857749653766d",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::14-The-Cardiac-Cycle"
       ]
     },
     {
@@ -4307,6 +4683,24 @@
       ]
     },
     {
+      "first_field_hash": "dd4ab25d0011c024171c1cd7515f04f3c64a877a3aeb9b18e4b7f9ab5b646dd8",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::09-Supraventricular-Tachycardia-&-Antiarrhythmics"
+      ]
+    },
+    {
+      "first_field_hash": "8e52fb15b3b99d36d0844df071daf5eb73ec76a1a6cb9e796eb01bf286be3409",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::09-Supraventricular-Tachycardia-&-Antiarrhythmics::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "35cb2373b239a8eced139be909162328d539318efe4fb8eea51a6bd491bc8bed",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::09-Supraventricular-Tachycardia-&-Antiarrhythmics"
+      ]
+    },
+    {
       "first_field_hash": "4a9a24681c0a75976226008b32a1c8ffecbed712c4e1951b10ea3f878e9682f7",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::03-The-Cardiac-Action-Potential"
@@ -4325,9 +4719,23 @@
       ]
     },
     {
+      "first_field_hash": "8730978b600c5563e505906e555ca3ece9c05eb24c398bab41a43fca07118171",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::09-Supraventricular-Tachycardia-&-Antiarrhythmics"
+      ]
+    },
+    {
+      "first_field_hash": "72097bc362128cb97d6efb6730663f51e095ca2d03640e79690a2ce2da0d3a75",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::09-Supraventricular-Tachycardia-&-Antiarrhythmics"
+      ]
+    },
+    {
       "first_field_hash": "526c09058de6378b30fa044f0738c465f2e90233263589896283fd2889b21047",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::03-The-Cardiac-Action-Potential"
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::03-The-Cardiac-Action-Potential",
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::03-The-Cardiac-Action-Potential::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::09-Supraventricular-Tachycardia-&-Antiarrhythmics::Class-Content"
       ]
     },
     {
@@ -4349,21 +4757,75 @@
       ]
     },
     {
+      "first_field_hash": "6c93d95bc26f9262b4231e5de0cccac6abcb37982983a877d2bfb31a30c6091a",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::09-Supraventricular-Tachycardia-&-Antiarrhythmics",
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::09-Supraventricular-Tachycardia-&-Antiarrhythmics::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "c3f597cc0513778a6fc985dece98e9caaa1bd7805701887c1b5c02bbf7c2af79",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::09-Supraventricular-Tachycardia"
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::09-Supraventricular-Tachycardia-&-Antiarrhythmics"
+      ]
+    },
+    {
+      "first_field_hash": "07ae7bcb8afb665e40bd64fdb01c184c9616f7076a8a0ceb620ca191043dd5ac",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::09-Supraventricular-Tachycardia-&-Antiarrhythmics::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "f049d0d9b0ba9f654345082dca137467b651c9fe31c6e490bd9ac41f78b49fed",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::09-Supraventricular-Tachycardia-&-Antiarrhythmics::Class-Content"
       ]
     },
     {
       "first_field_hash": "7d17a40572b154a643c7c7fd8e5be540c521ee57d4be152dbc5246f15a166846",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::03-The-Cardiac-Action-Potential"
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::03-The-Cardiac-Action-Potential",
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::03-The-Cardiac-Action-Potential::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::09-Supraventricular-Tachycardia-&-Antiarrhythmics::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "202c33555f4d535e36bf7cf98ace5635463a300a955abb2c46cd0b57cfae210c",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::09-Supraventricular-Tachycardia-&-Antiarrhythmics"
+      ]
+    },
+    {
+      "first_field_hash": "68f4a5653f6669587096a9dc31b8610cace70135f3ac4459bdc46f62ec5f75c9",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::09-Supraventricular-Tachycardia-&-Antiarrhythmics::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "147e31a725a30ec97e7b17b9f553eb4e0c0aecc464890374a0c7c0d31582b804",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::09-Supraventricular-Tachycardia-&-Antiarrhythmics::Class-Content"
       ]
     },
     {
       "first_field_hash": "5662418fafd65e2783f27dadf22012160e7bd830e912f1ab73ba85b2ada924c4",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::03-The-Cardiac-Action-Potential"
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::03-The-Cardiac-Action-Potential",
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::03-The-Cardiac-Action-Potential::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::09-Supraventricular-Tachycardia-&-Antiarrhythmics::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "f51b515967be987be8ddbf4553f2e81accf62dd9aa1c10ad2e2f0521c0d2fa9a",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::09-Supraventricular-Tachycardia-&-Antiarrhythmics",
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::09-Supraventricular-Tachycardia-&-Antiarrhythmics::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "35e3d297eb6c7c2375ae84d1515f6950aeaa8b065e4ad90d4ee256b1a1f34f34",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::09-Supraventricular-Tachycardia-&-Antiarrhythmics"
       ]
     },
     {
@@ -4384,6 +4846,12 @@
       "first_field_hash": "8a9e29a31d803fec7f41b6b80e9ba742ecebf79453f27f9900230875e1961b3b",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::11-Pathology-of-Cardiomyopathy-and-Myocarditis"
+      ]
+    },
+    {
+      "first_field_hash": "c45f37118e759c1baf9ab5ace02d15d739df703bb607deba275c6ba3b577bc8f",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::12-Myosin-and-Cardiac-Contractility::Class-Content"
       ]
     },
     {
@@ -4443,7 +4911,9 @@
     {
       "first_field_hash": "cd3955b4b8f1620d56a1e386787f757f8b5a9e3850b28cd128d8720ce46301ca",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::11-Pathology-of-Cardiomyopathy-and-Myocarditis"
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::11-Pathology-of-Cardiomyopathy-and-Myocarditis",
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::11-Pathology-of-Cardiomyopathy-and-Myocarditis::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::12-Myosin-and-Cardiac-Contractility::Class-Content"
       ]
     },
     {
@@ -4491,7 +4961,20 @@
     {
       "first_field_hash": "38bb44309a7be70ca567342719d91aa55afa5486f5ff4134d2fd731c8308832a",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::11-Pathology-of-Cardiomyopathy-and-Myocarditis::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::11-Pathology-of-Cardiomyopathy-and-Myocarditis::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::12-Myosin-and-Cardiac-Contractility::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "e09513256be999fa3701b57be89264a00e9e9cebb6bdd0a0f85216930b532efa",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::12-Myosin-and-Cardiac-Contractility"
+      ]
+    },
+    {
+      "first_field_hash": "a43750f6cfbc96523afa00e1526c14df904abfe9031ace4dfaf98a2bcd5fcfc7",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::12-Myosin-and-Cardiac-Contractility::Class-Content"
       ]
     },
     {
@@ -4504,6 +4987,12 @@
       "first_field_hash": "802ea0cfd56ebff9d952f5b46d2fffcdde40815e2d57ad3dba14918589076d79",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::11-Pathology-of-Cardiomyopathy-and-Myocarditis::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "5603a2165dd13522c651e17514ed08b6cd08a4ba9186f2f90f517047f947cc1a",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::12-Myosin-and-Cardiac-Contractility"
       ]
     },
     {
@@ -4541,7 +5030,47 @@
     {
       "first_field_hash": "e14c6f8646a6be16d6c709b2d066502a52d3790e2f63863dc299136e5f930ea2",
       "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::09-Supraventricular-Tachycardia-&-Antiarrhythmics::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::10-Autonomic-Physiology-and-Pharmacology",
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::10-Autonomic-Physiology-and-Pharmacology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "3773c815ea7b0345754086a5f10732971e60132f6d4b9b4b91ef5ef01133bf96",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::09-Supraventricular-Tachycardia-&-Antiarrhythmics",
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::10-Autonomic-Physiology-and-Pharmacology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "8dbcb39cd8da82a5f0e17e15bdead4c7bc84bc15cd92c72aa2e57c9b6dc6773b",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::09-Supraventricular-Tachycardia-&-Antiarrhythmics"
+      ]
+    },
+    {
+      "first_field_hash": "1e48dfbf21a2e54095213ee4f2da30cba04895efeb257ffac4afc646f3dab1dd",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::09-Supraventricular-Tachycardia-&-Antiarrhythmics",
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::10-Autonomic-Physiology-and-Pharmacology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "91ff2a92e6ffd7ae339b5d8e66d435ad2e355c30a909647a8cfde3f9947b5027",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::09-Supraventricular-Tachycardia-&-Antiarrhythmics::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "fdc6d9343b1fa493ce51435ac7f252e92a0405975433058b14ca25ee94d211ba",
+      "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::10-Autonomic-Physiology-and-Pharmacology"
+      ]
+    },
+    {
+      "first_field_hash": "eb224ce8df34fd12d92d88e5a8d0b09129912bee73040722e85efdab7aa24b19",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::09-Supraventricular-Tachycardia-&-Antiarrhythmics::Class-Content"
       ]
     },
     {
@@ -4557,15 +5086,70 @@
       ]
     },
     {
+      "first_field_hash": "8eb32e8fc568d7eb0a6d5b5e0ce8466e30495060435ca6cf1d69779c5124e3b3",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::10-Autonomic-Physiology-and-Pharmacology"
+      ]
+    },
+    {
+      "first_field_hash": "12f2e4f2a3737edfa232b91e3dc493c170e38926aa7640122e873f0c5bf325d2",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::09-Supraventricular-Tachycardia-&-Antiarrhythmics::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "25e549ff3e72e74502c237f346d22a54ac4553b775b4e51c8b198103f9db884b",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::09-Supraventricular-Tachycardia-&-Antiarrhythmics"
+      ]
+    },
+    {
       "first_field_hash": "d783f0018838d2d06f852034030e22a8da00acb01be165d3015f397c803c8e1f",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::03-The-Cardiac-Action-Potential::Class-Content"
       ]
     },
     {
+      "first_field_hash": "2dead5ebdca4ca89482532080b0dd48aaa0ac8f1f9b2c5ee68a41939b898ef6a",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::09-Supraventricular-Tachycardia-&-Antiarrhythmics"
+      ]
+    },
+    {
       "first_field_hash": "ded9159cd9e9f1d6633175c51ba25ae8955d319fcb55b80cd1520b543e8f4716",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::03-The-Cardiac-Action-Potential"
+      ]
+    },
+    {
+      "first_field_hash": "ec286863766f8fbcf18b9908ac023484473442efa815f458bd4a57caeadcd307",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::09-Supraventricular-Tachycardia-&-Antiarrhythmics"
+      ]
+    },
+    {
+      "first_field_hash": "b94e789ce6709939fa6fb3df4f00c86f67510f1a5096dd11131723ec9d1ba800",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::09-Supraventricular-Tachycardia-&-Antiarrhythmics"
+      ]
+    },
+    {
+      "first_field_hash": "aad6708f2dc91c786793cd5532613bb66474b8025d5b04b1a447f8df91a43055",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::09-Supraventricular-Tachycardia-&-Antiarrhythmics",
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::09-Supraventricular-Tachycardia-&-Antiarrhythmics::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "d31aea4138ca29baa62c2e081d109e1fec7b14c50ba3c9194af09f1c1cbf4891",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::09-Supraventricular-Tachycardia-&-Antiarrhythmics::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "a876595136064442df6035a155f52914d2d46578ad100311f456637e8cd3fad7",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::09-Supraventricular-Tachycardia-&-Antiarrhythmics::Class-Content"
       ]
     },
     {
@@ -4588,6 +5172,18 @@
       ]
     },
     {
+      "first_field_hash": "8c36989fee9b3e4cdff3d45d7c0b42e4969c6b452ce9a00f9b4344cd7e3de472",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::12-Myosin-and-Cardiac-Contractility::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "f11457ae4d02a6e6e0c23da36493699c993850e87904800daae6450d5d45d02d",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::13-Excitation-Contraction-Coupling::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "66d8dc688083b3334e73a56f3e2e91c38eded5aeba2e0263b5e745e6cf1f53cf",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::10-Autonomic-Physiology-and-Pharmacology::Class-Content"
@@ -4602,7 +5198,13 @@
     {
       "first_field_hash": "0ade8dc534257884e7a2a6a79091c717ec03054424c2297516e011ad997ad6e3",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::09-Supraventricular-Tachycardia"
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::09-Supraventricular-Tachycardia-&-Antiarrhythmics"
+      ]
+    },
+    {
+      "first_field_hash": "bdbd86eecc55409109355f35a9a87859c9ba04db55966067be44f8c7391e38cb",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::09-Supraventricular-Tachycardia-&-Antiarrhythmics::Class-Content"
       ]
     },
     {
@@ -4612,16 +5214,31 @@
       ]
     },
     {
+      "first_field_hash": "5d8305591181b0edfe28066da1d7673b849c34cf2d22104b621e49d44ae68c3b",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::09-Supraventricular-Tachycardia-&-Antiarrhythmics::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "501fea3010660e1c6a13ca6575a8c332a000f48704af6ae970b1e6327b98f61c",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::04-Pacemaker-Potential",
-        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::08-Fast-Rhythm-Arrhythmias"
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::04-Pacemaker-Potential::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::08-Fast-Rhythm-Arrhythmias",
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::08-Fast-Rhythm-Arrhythmias::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::09-Supraventricular-Tachycardia-&-Antiarrhythmics::Class-Content"
       ]
     },
     {
       "first_field_hash": "cb9c207dd87b2b4b73bcc56a0eb33889d8910147ff2e7ef10a91fa8d724cedfd",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::09-Supraventricular-Tachycardia"
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::09-Supraventricular-Tachycardia-&-Antiarrhythmics"
+      ]
+    },
+    {
+      "first_field_hash": "fd25c11f8d7e44d11f550687570a0e7679092e109623a2df4ca4359e0849531e",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::09-Supraventricular-Tachycardia-&-Antiarrhythmics::Class-Content"
       ]
     },
     {
@@ -4686,6 +5303,12 @@
       ]
     },
     {
+      "first_field_hash": "3ae766366b54cd615547c98ec9a477fc3ff558308b76e389d6c9ba751d2d066d",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::09-Supraventricular-Tachycardia-&-Antiarrhythmics::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "03034a6eebf27b464502a555dd4bf58595533e10a0cf5733a38cfffcb924b2cc",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::08-Fast-Rhythm-Arrhythmias::Class-Content"
@@ -4728,9 +5351,28 @@
       ]
     },
     {
+      "first_field_hash": "f8987babd9e38d807b41a8394119f0b767eebfdaafb17f83d9b048700c6ef347",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::12-Myosin-and-Cardiac-Contractility::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "9cfa6b97ca14b952ada3fcedcfd96e14903693fe3380a033ea92fb9ccd105c5a",
       "tags": [
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-2::08-Other-Antibiotics-&-Mycobacteria::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "0c23084e964c772550c809c41b1c85aee4c8f62c5c1fcb4c33d8e9d81c542e89",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::09-Supraventricular-Tachycardia-&-Antiarrhythmics"
+      ]
+    },
+    {
+      "first_field_hash": "1369e4d3d0aa3c8384923a5cf8de3be1d9814e2e4387f7789abb6fa53c7155b7",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::09-Supraventricular-Tachycardia-&-Antiarrhythmics",
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::09-Supraventricular-Tachycardia-&-Antiarrhythmics::Class-Content"
       ]
     },
     {
@@ -4740,9 +5382,45 @@
       ]
     },
     {
+      "first_field_hash": "58009febb3c281cd43cd352cf9ed55bca2f13536ae83d16e6b650062c32007c2",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::09-Supraventricular-Tachycardia-&-Antiarrhythmics"
+      ]
+    },
+    {
+      "first_field_hash": "ea41a7a9aa7a7de45eba7179cd913c03d45497feb1cfa79e35fd93a2c784728f",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::09-Supraventricular-Tachycardia-&-Antiarrhythmics"
+      ]
+    },
+    {
       "first_field_hash": "549a1a1d34505a91e5ec52b05035b77c89c3fe3d374ca618b434f8b45c5d0b5d",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::09-Supraventricular-Tachycardia"
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::09-Supraventricular-Tachycardia-&-Antiarrhythmics"
+      ]
+    },
+    {
+      "first_field_hash": "bdb7844854eeb57e5a271269add674a360535f0a93c24a7dc19cf3e2e0c7f664",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::09-Supraventricular-Tachycardia-&-Antiarrhythmics"
+      ]
+    },
+    {
+      "first_field_hash": "cccd11d6270429dd78ffb1beb7d7773d2e845e658484d960bd4d4deb3757b8c4",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::09-Supraventricular-Tachycardia-&-Antiarrhythmics"
+      ]
+    },
+    {
+      "first_field_hash": "e6e7a0c5ea6cea66619e10bc22e4edc9f72e23248d1d73d8ee1b5ed07aa2b4e4",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::09-Supraventricular-Tachycardia-&-Antiarrhythmics::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "92c9423323f955bf18d9436a221d8cb325bf8432556df8e96a9b3a04290efb92",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::09-Supraventricular-Tachycardia-&-Antiarrhythmics"
       ]
     },
     {
@@ -5066,9 +5744,63 @@
       ]
     },
     {
+      "first_field_hash": "99469670aef61f06a0911799b8aeae2b7ee453f8e278c462aa79aa437541e900",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::13-Excitation-Contraction-Coupling::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "47164acf4f9e0962e9656670fcb6c59827cbeafcc2b5b439e1cdd78c2d48ec19",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::13-Excitation-Contraction-Coupling::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "1a64aeb20b1caf91f19d175a0654ac2d9407bd34e1ae7918f3b99b129c6646fe",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::13-Excitation-Contraction-Coupling::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "fffda2477637b5ce538925face2431c0d9739c31b7f3744e432e902527d6200c",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::13-Excitation-Contraction-Coupling::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "bb9ce87295f4ebe42b8753409b9d7787beb1355b1106b145dd6a0ecb1721a49b",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::13-Excitation-Contraction-Coupling"
+      ]
+    },
+    {
+      "first_field_hash": "ca2bbdc3d207c1124cb0786ddb1cda124d2ef388053ba26b47c7d51e8b65a737",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::13-Excitation-Contraction-Coupling"
+      ]
+    },
+    {
+      "first_field_hash": "ad3e1d49983f0025ad1bf67d09963ba8ef7a07431652022510bad1013f35d09f",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::13-Excitation-Contraction-Coupling"
+      ]
+    },
+    {
+      "first_field_hash": "e22819f15de5469f19e62d67e695260f4c51689fc5c7415da6bdd230fe096df8",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::13-Excitation-Contraction-Coupling"
+      ]
+    },
+    {
       "first_field_hash": "873843696525558cae4eee13c205fe742987ff1c094fdec3ae7fd9ce5c15a0f6",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::04-Pacemaker-Potential"
+      ]
+    },
+    {
+      "first_field_hash": "1313091f0fa972da421af95cf9352c06d13ffa301c6d7d174a5713231594d5e7",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::09-Supraventricular-Tachycardia-&-Antiarrhythmics"
       ]
     },
     {
@@ -5673,6 +6405,12 @@
       ]
     },
     {
+      "first_field_hash": "745843fcdd0e3a98478ef6857557a70383ad0959b2fa918c92bbd2131ed6056c",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::08-Pulmonary-Mechanics::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "74457f980f303a5f49b5872000d8bc9f8bd2a89253283ef15be33710505b2d5f",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::08-Pulmonary-Mechanics"
@@ -5715,9 +6453,33 @@
       ]
     },
     {
+      "first_field_hash": "3af4f8ad7ebcd4d52031cdf4095f6c0ebd406d0e40b79594d192e8e549fa2b85",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::08-Pulmonary-Mechanics"
+      ]
+    },
+    {
       "first_field_hash": "9622f52886c4a0412fc222a3ad02b84abd9f79d050d3238d4ed87a50f9d224fa",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::08-Pulmonary-Mechanics::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "c5056f21077b588db0def095f82e90d4eee4a2a5b847df350735d14de7355d1c",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::08-Pulmonary-Mechanics"
+      ]
+    },
+    {
+      "first_field_hash": "912281f42ce276739d285862ef33645039ca1da53ac7d8dcc783951384439422",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::08-Pulmonary-Mechanics"
+      ]
+    },
+    {
+      "first_field_hash": "233be19230ebf9c92bb271d8e4649b2aa937873f4a8fd7a10bb7044463531499",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::08-Pulmonary-Mechanics"
       ]
     },
     {
@@ -5821,6 +6583,12 @@
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::02-Pulmonary-Circulation",
         "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::02-Pulmonary-Circulation::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::08-Pulmonary-Mechanics::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "7819eb96a15883c3d5dfc698f92d6282c285cedcea7699e453d78c7e7a42cdbe",
+      "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::08-Pulmonary-Mechanics::Class-Content"
       ]
     },
@@ -6609,6 +7377,12 @@
       "first_field_hash": "5f84fdcce78aef076526945d231f71668049ea20dbd503e3e9a8d6667e4a8c8e",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::11-Control-of-Ventilation::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "2f19dba75d40dfa79f05f2bc3e22541504b2647c34ee74819a904e443bbe07ef",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::11-Control-of-Ventilation"
       ]
     },
     {
@@ -7475,6 +8249,12 @@
       ]
     },
     {
+      "first_field_hash": "8e64ca4a27047d156bfe3a902982cb495a17454811abf20368217a734b64c047",
+      "tags": [
+        "JerryShen_AnKing_Tags::POM-3::Clinical-Reasoning::Approach-to-Cough"
+      ]
+    },
+    {
       "first_field_hash": "4e420253a5bd3f4af4d59f1216a7578c5f01be6874ccf0ed542c188bc53f5f67",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::18-Cystic-Fibrosis::Class-Content"
@@ -7547,9 +8327,39 @@
       ]
     },
     {
+      "first_field_hash": "e1bb584d948d20132eadf667929786fd81cfbf25c7bd8c644f01cc647b563312",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::06-Intro-to-Lung-Histology"
+      ]
+    },
+    {
       "first_field_hash": "9f662cdd6035058d3d4564875c7dc023d2f571dc8ae6e9b99533d9efab68d218",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::06-Intro-to-Lung-Histology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "e684847325eacf80a7bd90e6c280f6abba1ac205c89ecd31c5c1c72c42419d4a",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::06-Intro-to-Lung-Histology"
+      ]
+    },
+    {
+      "first_field_hash": "ec49652dae03f6c3468c731ce8c5c5f831c393cdc59b9007dd33d622bfd25ae4",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::06-Intro-to-Lung-Histology"
+      ]
+    },
+    {
+      "first_field_hash": "419ffc90da04b135dcc2c7084d8e22bd8b354ff10720c2ccd2bbb5079a0aebd6",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::06-Intro-to-Lung-Histology"
+      ]
+    },
+    {
+      "first_field_hash": "a796a99c6025591415b1f552b1c6e48e52df9eb3d88dab8e78f308e85d3b32ac",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::06-Intro-to-Lung-Histology"
       ]
     },
     {
@@ -7636,7 +8446,8 @@
     {
       "first_field_hash": "01392f39cdb2a166b0d3faf043a48c5c586734b1d2f4b2f19430b2a14fbd103d",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::06-Intro-to-Lung-Histology"
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::06-Intro-to-Lung-Histology",
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::06-Intro-to-Lung-Histology::Class-Content"
       ]
     },
     {
@@ -8853,6 +9664,12 @@
       ]
     },
     {
+      "first_field_hash": "5264baa8e7208ae5e1c609b8406a80df00938956596e39645c05eda91a461996",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::06-Intro-to-Lung-Histology"
+      ]
+    },
+    {
       "first_field_hash": "faa1e912392f5548477c225ac6a318ddf71b9438eece45949022af2c579f147c",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::07-Pulmonary-Function-Testing::Class-Content"
@@ -9038,7 +9855,8 @@
     {
       "first_field_hash": "fb6aa143dabb66d35ac3b5e44faddacdfc2df552b80488523c8abea20dc40ee3",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::10-Airway-Obstruction"
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::10-Airway-Obstruction",
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::10-Airway-Obstruction::Class-Content"
       ]
     },
     {
@@ -9218,7 +10036,8 @@
     {
       "first_field_hash": "7ca31477b2b6711eebde09f76b32714461742f8b84273853ad3c7f0b878676e0",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::14-Lung-Pharmacology"
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::14-Lung-Pharmacology",
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::14-Lung-Pharmacology::Class-Content"
       ]
     },
     {
@@ -9506,6 +10325,7 @@
     {
       "first_field_hash": "3e49ebcc4f484e237af1607c70f51e8c856f620d34ea58a85cb7c1ab1b5c10ea",
       "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::14-Lung-Pharmacology",
         "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::18-Cystic-Fibrosis"
       ]
     },
@@ -9615,6 +10435,12 @@
       "first_field_hash": "fc15e6aff2986bb484ad5da2922b2da93d8730f86d259dfa0bf6efa16644228a",
       "tags": [
         "JerryShen_AnKing_Tags::Biochemistry::Final::01-Carbohydrate-Metabolism::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "bd53ef020f166486a03c91a027ba2363f80c377566aaf9d1e6d56f967bf234ed",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::13-Excitation-Contraction-Coupling"
       ]
     },
     {
@@ -11924,6 +12750,12 @@
       ]
     },
     {
+      "first_field_hash": "48b31e5c02e37d9f632dad6d041c98753fd5c093cd7d341647567a6412eafdec",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::10-Autonomic-Physiology-and-Pharmacology::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "1cf0333845c3b9ef0ce66902e1f4af3d3d2a1e60fbf59bb576b66f29be12b492",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::10-Autonomic-Physiology-and-Pharmacology::Class-Content"
@@ -11997,6 +12829,12 @@
       "first_field_hash": "bacb8a24849547bc4abdd425522809a66fe8071754b7e90ded856a7b542f8061",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::10-Autonomic-Physiology-and-Pharmacology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "a2c4f5a43a049c9a688f33b8a8e00565cfa66d1972d3c7b7b744d7f7622d606a",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::14-Lung-Pharmacology::Class-Content"
       ]
     },
     {
@@ -12458,6 +13296,18 @@
       ]
     },
     {
+      "first_field_hash": "545c1bfc897e722eb46f4af0846c91b87104ad4b40c2b6f5d48fdc852b4c3d97",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::10-Autonomic-Physiology-and-Pharmacology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "5fe796dab8892b0de8c451fdfee92968a45c5e5802ffd7af0ec22ae373c717b3",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::10-Autonomic-Physiology-and-Pharmacology"
+      ]
+    },
+    {
       "first_field_hash": "95394691f0187daf9f733f2b934bc7a751df433fceb21640142b5ef1b638e104",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::10-Autonomic-Physiology-and-Pharmacology::Class-Content"
@@ -12524,6 +13374,12 @@
       ]
     },
     {
+      "first_field_hash": "36ae739b4fa3410acc2e9c280ac0462508b1f913ff298dbdda4d7cd12c99bf00",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::12-Myosin-and-Cardiac-Contractility"
+      ]
+    },
+    {
       "first_field_hash": "cd4199764c6a1aeb36b645ad00c8c44d57b3b9f6cfc8f700da1d6a933ee07045",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::10-Autonomic-Physiology-and-Pharmacology"
@@ -12534,6 +13390,12 @@
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::10-Autonomic-Physiology-and-Pharmacology",
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::10-Autonomic-Physiology-and-Pharmacology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "60743318b64e8b0d7d9e9878dfeff229fac97c9d293a71a8caf491d7e98ff0f5",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::10-Autonomic-Physiology-and-Pharmacology"
       ]
     },
     {
@@ -14008,6 +14870,12 @@
       "tags": [
         "JerryShen_AnKing_Tags::Immunology::Final::Solid-Organ-&-HSC-Transplantation",
         "JerryShen_AnKing_Tags::Immunology::Final::Solid-Organ-&-HSC-Transplantation::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "ec4acc576b16c0c78baf70ff779affdae472588536320889d7f73ad9dcb065bb",
+      "tags": [
+        "JerryShen_AnKing_Tags::POM-3::Clinical-Reasoning::Approach-to-Cough"
       ]
     },
     {
@@ -17521,6 +18389,12 @@
       ]
     },
     {
+      "first_field_hash": "fbf12a222dd58f4b0623ab7a993143b103c56cb91b799572168fc6258c7d6afa",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::09-Supraventricular-Tachycardia-&-Antiarrhythmics"
+      ]
+    },
+    {
       "first_field_hash": "dbcb322fa5e06facf1e7ca3745a18959cc079b470ba26380f2ab3f06bf2d824d",
       "tags": [
         "JerryShen_AnKing_Tags::Neurobiology::Exam-3::Tutorial-4-Thalamus-and-Sensory-Systems::Class-Content"
@@ -17926,6 +18800,12 @@
       ]
     },
     {
+      "first_field_hash": "cb00e4fd98fa835bb928f31a1e9c5c538baab49ac28db48b44618ad696f759b9",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::10-Autonomic-Physiology-and-Pharmacology"
+      ]
+    },
+    {
       "first_field_hash": "fd620f8659c109c8dd1b3ec7783e0b7f34833b2abda7b077ee9b9b7ebcd2ad70",
       "tags": [
         "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-3-Abdomen::Histology::Class-Content"
@@ -18031,6 +18911,12 @@
       "first_field_hash": "8db4afecf629d368480a27c235bd6d1687bff0626faec2d3bc2ea3fef95ab78d",
       "tags": [
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-2::07-β-Lactam-Antibiotics-&-Parasites"
+      ]
+    },
+    {
+      "first_field_hash": "cb55b8a83f5fc4ff4b388af5c99737a93c60e1373f677b7c19ddd544c1d78d47",
+      "tags": [
+        "JerryShen_AnKing_Tags::POM-3::Clinical-Reasoning::Approach-to-Cough"
       ]
     },
     {
@@ -18152,6 +19038,12 @@
       "first_field_hash": "a1112a3f841bd66878dcd3270421e0f67d358c363ef5d3a873ba92c0a87e6e54",
       "tags": [
         "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-3-Abdomen::Embryology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "6307b2fd8bb53b0c6681b2f8c2a82aa5a0dcea96eaf979f2d9429828221d05f9",
+      "tags": [
+        "JerryShen_AnKing_Tags::POM-3::Clinical-Reasoning::Approach-to-Cough"
       ]
     },
     {
@@ -20120,6 +21012,12 @@
       ]
     },
     {
+      "first_field_hash": "f9e93f6c51992011d56e2f0a203de02bb584aa1c4454993a66873edf6840dd9b",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::10-Autonomic-Physiology-and-Pharmacology::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "462091ef5134e23acc0d757105c311f7f6279261e3a8a5cad36bf28ac2818521",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::10-Autonomic-Physiology-and-Pharmacology"
@@ -21654,6 +22552,12 @@
       ]
     },
     {
+      "first_field_hash": "9c7e2ab45150287a738cebe4ff57d4d3f81ab7ff19aad1e5ce906b2e75379e8e",
+      "tags": [
+        "JerryShen_AnKing_Tags::Immunology::Final::Hypersensitivity-and-Allergy"
+      ]
+    },
+    {
       "first_field_hash": "5e62ef2f20b1a0b7fa05d570f14d7b975f3a6540dfc48327389d5e7474d11d4a",
       "tags": [
         "JerryShen_AnKing_Tags::Immunology::Final::Hypersensitivity-and-Allergy::Class-Content"
@@ -21670,6 +22574,12 @@
       "first_field_hash": "380d38aebb8c3cb3539167bcc3ebf5919ce0186e8c927cbff536f5160989d87e",
       "tags": [
         "JerryShen_AnKing_Tags::Immunology::Final::Hypersensitivity-and-Allergy::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "5a9dbac864763c0b6c6a300171fe03600cb0fe02ca22b74614ff5e1bf492ea3f",
+      "tags": [
+        "JerryShen_AnKing_Tags::Immunology::Final::Hypersensitivity-and-Allergy"
       ]
     },
     {
@@ -22524,9 +23434,27 @@
       ]
     },
     {
+      "first_field_hash": "6a00d69463af1627c0c165b03717329a2a08f244ee488130e8a89533fffa2563",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::12-Myosin-and-Cardiac-Contractility::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "affa846298b5f13e3d401472686ecf7ebdc0c7f7b0f9b23ee4338d1fb8c5972d",
       "tags": [
         "JerryShen_AnKing_Tags::Genetics::Exam-2::02-Pedigrees-&-Inheritance-Patterns::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "398b5a1629a4348d53c6ac4d87f3a1990e2edb7dde18914be5943114210c365f",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::12-Myosin-and-Cardiac-Contractility"
+      ]
+    },
+    {
+      "first_field_hash": "157385fbd4c9fde1fb54f8ee04c5342ff3576a9e98a3bcf484dab2f953257827",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::12-Myosin-and-Cardiac-Contractility::Class-Content"
       ]
     },
     {
@@ -24300,6 +25228,12 @@
       ]
     },
     {
+      "first_field_hash": "370559174bd8042bf72d6e934c1177423680a0e09b8e34d835c35468bff3aa6d",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::13-Excitation-Contraction-Coupling"
+      ]
+    },
+    {
       "first_field_hash": "b5d2f326505d187615462bf6469cdf8b4bc8f2216951c355310c4c5e117e2221",
       "tags": [
         "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-1-Thorax::Anatomy::Class-Content"
@@ -24690,6 +25624,18 @@
       ]
     },
     {
+      "first_field_hash": "6f47552770b25ae389e71421aa7fec9f5904dc65d6ca21acdb8941693a6820dd",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::14-Lung-Pharmacology"
+      ]
+    },
+    {
+      "first_field_hash": "66e658a74cd98971ce676143b11d85e63f8bd2e29d02424ddd19d75ffb98bb59",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::14-Lung-Pharmacology"
+      ]
+    },
+    {
       "first_field_hash": "2422fa5ddabd4f2296d49ec528bc4ee581bbaf8a5aaec4fc7863688ef39d86fd",
       "tags": [
         "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-2-Upper-Limb::Anatomy::Class-Content"
@@ -24987,7 +25933,7 @@
     {
       "first_field_hash": "3f39753ba41705fd553fcabb9e67f81a4039681330f4fc3939c5ee6371ef352c",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::09-Supraventricular-Tachycardia::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::09-Supraventricular-Tachycardia-&-Antiarrhythmics::Class-Content"
       ]
     },
     {
@@ -25072,13 +26018,13 @@
     {
       "first_field_hash": "e0fe92a9b699439f7dd1b39c5291b48e1970a6703898d5c802b354e2a86d0046",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::09-Supraventricular-Tachycardia"
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::09-Supraventricular-Tachycardia-&-Antiarrhythmics"
       ]
     },
     {
       "first_field_hash": "bc8fea6ec1c75d66d33d27fae7329352cfb7bc2a3dab533486bf6f8a6c164a61",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::09-Supraventricular-Tachycardia::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::09-Supraventricular-Tachycardia-&-Antiarrhythmics::Class-Content"
       ]
     },
     {
@@ -25130,6 +26076,12 @@
       ]
     },
     {
+      "first_field_hash": "086d503f030618a779693d2ff4db2649b1c678bade87e72617b9cf5be695446f",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::12-Myosin-and-Cardiac-Contractility"
+      ]
+    },
+    {
       "first_field_hash": "c0b5f1d6513f583da4d9f41de352aa93aa0543b4360efcacc804b5c6313155b3",
       "tags": [
         "JerryShen_AnKing_Tags::Biochemistry::Final::06-Nucleic-Acid-Metabolism::Class-Content"
@@ -25144,7 +26096,8 @@
     {
       "first_field_hash": "d6a121d95c03e6ec5f4d5cfe86344fb4a2441c96a25c65e415c344ede2f6d04b",
       "tags": [
-        "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-2-Upper-Limb::Histology::Class-Content"
+        "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-2-Upper-Limb::Histology::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::13-Excitation-Contraction-Coupling::Class-Content"
       ]
     },
     {
@@ -25160,9 +26113,16 @@
       ]
     },
     {
+      "first_field_hash": "3d15ec8ebfa508468c7049c2df09c89762b8a119969b93b9c0c27314e885ca99",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::10-Autonomic-Physiology-and-Pharmacology::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "aed5733e6ab96451e616aa44eecb7bdaa5967063887427d28f569dfc7a286c89",
       "tags": [
-        "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-2-Upper-Limb::Histology::Class-Content"
+        "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-2-Upper-Limb::Histology::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::13-Excitation-Contraction-Coupling::Class-Content"
       ]
     },
     {
@@ -25172,9 +26132,40 @@
       ]
     },
     {
+      "first_field_hash": "64f9f04055f22dc014a19c9cbe6a8d04f5ea8f3bbaddd21b80931e02cbfa4e48",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::12-Myosin-and-Cardiac-Contractility::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "59306ea0254570e145aa860accc201e1a1cffa248dcbc0c976fc383eb8855505",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::12-Myosin-and-Cardiac-Contractility",
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::12-Myosin-and-Cardiac-Contractility::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "b83b1778e96e2e8de107878931d41b9bfb3720ac725301a446bdcf26993a6e81",
       "tags": [
-        "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-2-Upper-Limb::Histology::Class-Content"
+        "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-2-Upper-Limb::Histology::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::12-Myosin-and-Cardiac-Contractility::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "f848cb8d0f81081e90c3960703de46b7664e685d4180c9bbb735203954186ac6",
+      "tags": [
+        "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-2-Upper-Limb::Histology",
+        "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-2-Upper-Limb::Histology::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::12-Myosin-and-Cardiac-Contractility",
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::12-Myosin-and-Cardiac-Contractility::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "66f92d71acbc33fde9cf78f93f36649f3f5f21eea15c8e8f0df780585ba603b8",
+      "tags": [
+        "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-2-Upper-Limb::Histology",
+        "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-2-Upper-Limb::Histology::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::12-Myosin-and-Cardiac-Contractility::Class-Content"
       ]
     },
     {
@@ -25241,6 +26232,12 @@
       ]
     },
     {
+      "first_field_hash": "5cd2ec0fd4fcd90caf54c8e06b134ebffea9ceb15034c833372d7ab36c006b3a",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::12-Myosin-and-Cardiac-Contractility"
+      ]
+    },
+    {
       "first_field_hash": "4e59f3139f82a132d926cf8546a2963d0786c8017e0ec040198c07b0ed2b464a",
       "tags": [
         "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-2-Upper-Limb::Histology::Class-Content"
@@ -25299,7 +26296,13 @@
     {
       "first_field_hash": "cfcd20e8790270936783082125cfc9088c3e86fe25a64670779507514dd4bb04",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::09-Supraventricular-Tachycardia"
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::09-Supraventricular-Tachycardia-&-Antiarrhythmics"
+      ]
+    },
+    {
+      "first_field_hash": "1e93524d96fb0914ed5a5dfb7c95dec65fdf1879e7ec5a73214a96e336d0fe38",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::09-Supraventricular-Tachycardia-&-Antiarrhythmics"
       ]
     },
     {
@@ -27056,6 +28059,7 @@
     {
       "first_field_hash": "9b898fa52c8a35ea101733074aa84d9f67c7dbc433599d85cae7f614fb7b3c5f",
       "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::14-Lung-Pharmacology",
         "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::18-Cystic-Fibrosis"
       ]
     },
@@ -27995,6 +28999,18 @@
       ]
     },
     {
+      "first_field_hash": "4f8ff21a501ce83e430a0d1fe387e146e859027b1a08a73c405612ed3b879781",
+      "tags": [
+        "JerryShen_AnKing_Tags::Micro-Pharm::Exam-1::05-Intro-to-Fungi::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "c5736aa565a340fb108cde04b3b421397dc5562128ed0fe90d779e1aa6f124b7",
+      "tags": [
+        "JerryShen_AnKing_Tags::Micro-Pharm::Exam-1::04-Intro-to-Viruses"
+      ]
+    },
+    {
       "first_field_hash": "a2352e5942f9acdd83dfc9b139514a6bda70188f56fde5c6597bb6e53ab033ef",
       "tags": [
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-1::04-Intro-to-Viruses",
@@ -28061,6 +29077,12 @@
       "first_field_hash": "5c06d7b28e049bcc91de1f9bc47777f22beba66c9d9cdcb70700986f3b63b98d",
       "tags": [
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-2::09-Misc-Antimicrobials-&-Skin-Infections"
+      ]
+    },
+    {
+      "first_field_hash": "f88a76574b45a9056de2b09f08e034a67395a6a0fbe770ffb673f34176732c02",
+      "tags": [
+        "JerryShen_AnKing_Tags::Micro-Pharm::Exam-1::05-Intro-to-Fungi"
       ]
     },
     {
@@ -29609,6 +30631,12 @@
       ]
     },
     {
+      "first_field_hash": "36ef56775e7409814a51dc9a08b96ec4d0ac98fea23b2d42f6ccbf1e04e4ab74",
+      "tags": [
+        "JerryShen_AnKing_Tags::POM-3::Clinical-Reasoning::Approach-to-Cough::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "c3325f6425c8d48cbd7815cf878ee72808b28b3319447c9ca7765c73f8c212a7",
       "tags": [
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-2::08-Other-Antibiotics-&-Mycobacteria::Class-Content"
@@ -30055,7 +31083,7 @@
       ]
     },
     {
-      "first_field_hash": "10d9e1f415f7e269b7885f76da771cd8d8a45aa7d75d6cb2e1c5f2fe645ea664",
+      "first_field_hash": "fedb68530b295ef3e210f5936f39fda69f68b403858e2fba23dcf08d2e3d03f2",
       "tags": [
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-2::10-Biologics-Ectoparasites-&-Clinical-Cases"
       ]
@@ -35256,6 +36284,18 @@
       ]
     },
     {
+      "first_field_hash": "0453eb8f1daf9165b835142065d436f144a9e4d1503fd1a1aff60358e25d24ac",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::10-Autonomic-Physiology-and-Pharmacology"
+      ]
+    },
+    {
+      "first_field_hash": "9d14728f882e56d3d4fcdbba32db710e9de82b59d796eec5af11c1b9f96bcec5",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::12-Myosin-and-Cardiac-Contractility"
+      ]
+    },
+    {
       "first_field_hash": "a155b97aec9cd6267abd010c81173596e6f13efceceb690b7f05bfa795224050",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::05-The-Normal-ECG"
@@ -35926,7 +36966,7 @@
     {
       "first_field_hash": "8646e2851d137397e5c9c9e171bbb99525d5f04ae4c256fc8d1fcd64c839956b",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::09-Supraventricular-Tachycardia"
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::09-Supraventricular-Tachycardia-&-Antiarrhythmics"
       ]
     },
     {
@@ -35944,7 +36984,7 @@
     {
       "first_field_hash": "dcaf18bee868be32b52b1589ee12de9e040fd9c9edd62bfb8629a16400cf9d2f",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::09-Supraventricular-Tachycardia"
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::09-Supraventricular-Tachycardia-&-Antiarrhythmics"
       ]
     },
     {
@@ -36056,6 +37096,12 @@
       "first_field_hash": "89b7464cb96849d4720751f42788b1a71e3ff5e054b2be1317a9e466491b04db",
       "tags": [
         "JerryShen_AnKing_Tags::POM-3::Clinical-Reasoning::Advanced-Pulmonary-Exam"
+      ]
+    },
+    {
+      "first_field_hash": "6b4e7c4b6c35934b6c8c9e882501d6b1d473bdef608b79df394935af29db7cb9",
+      "tags": [
+        "JerryShen_AnKing_Tags::POM-3::Clinical-Reasoning::Approach-to-Cough"
       ]
     },
     {
@@ -36873,10 +37919,22 @@
       ]
     },
     {
+      "first_field_hash": "0e38300eb8f0903de20905783e77fa3ea20e1bf185487487e1ffd9b1550b8b21",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::10-Autonomic-Physiology-and-Pharmacology"
+      ]
+    },
+    {
       "first_field_hash": "8eb63b4890eed0c8d8454c0fe1fa4de60a436bc958f73ef2ef0f04726fea0d9f",
       "tags": [
         "JerryShen_AnKing_Tags::Neurobiology::Exam-2::Tutorial-2-Spinal-Cord",
         "JerryShen_AnKing_Tags::Neurobiology::Exam-2::Tutorial-2-Spinal-Cord::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "767a6a15bd2d8cd4a9b765f583e977642a839fc95313cf462b3336ebe6b171ce",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::10-Autonomic-Physiology-and-Pharmacology"
       ]
     },
     {
@@ -36924,6 +37982,13 @@
     {
       "first_field_hash": "c21e590b8a7212293f2020e032f7195cd46f2d7b60facbb8b82bf92143d0427f",
       "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::08-Fast-Rhythm-Arrhythmias::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "130a70c3261e0bd7404bb0e4dcdeec8ddaf720c1e20a4f748c8d5496ac7a363c",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::08-Fast-Rhythm-Arrhythmias",
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::08-Fast-Rhythm-Arrhythmias::Class-Content"
       ]
     },
@@ -37023,6 +38088,12 @@
       "first_field_hash": "623dd43a2b29c427964a99f44956497c354992d9f3f7a6b098ddb12c2322a3ef",
       "tags": [
         "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-3-Abdomen::Anatomy::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "c1ef4e6443ea9ed1bf3446acfe3e751d54e4f59cfd714eab9d51aeaa2150ab93",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::14-The-Cardiac-Cycle"
       ]
     },
     {
@@ -37246,6 +38317,12 @@
       ]
     },
     {
+      "first_field_hash": "89808bee0a4cc0961318134a2bf94a3985d7d3653d7eda901a9b366f8b963830",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::12-Myosin-and-Cardiac-Contractility"
+      ]
+    },
+    {
       "first_field_hash": "c8a4f5d7dfebeac3c013a91438b48458f6bda57f11d6660d4a4a9111e37a0897",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::18-Cystic-Fibrosis::Class-Content"
@@ -37260,7 +38337,8 @@
     {
       "first_field_hash": "8d51420b10c0102be179935e7feaaa46d32e7161d2d6122295534d5342bad784",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::14-Lung-Pharmacology"
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::14-Lung-Pharmacology",
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::14-Lung-Pharmacology::Class-Content"
       ]
     },
     {
@@ -37300,6 +38378,12 @@
       ]
     },
     {
+      "first_field_hash": "9ef13eb4d54721d537ec7345293240e05153a3ca5c0ba50867a8693b15f8db61",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::15-Upper-Respiratory-Infections::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "5e5d1699dc37c94b2cf9fdc467ea13dc688c811e4f1f834a57cd3a6246e85fc3",
       "tags": [
         "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-7-Head-&-Neck-2::Embryology::Class-Content",
@@ -37331,6 +38415,12 @@
       ]
     },
     {
+      "first_field_hash": "11a1f9f0f2f23a5a613bf0cb212f2efbbe14c931b1ac6538456d7c4d940ea884",
+      "tags": [
+        "JerryShen_AnKing_Tags::POM-3::Clinical-Reasoning::Advanced-Pulmonary-Exam"
+      ]
+    },
+    {
       "first_field_hash": "58911b3797d6545fbe1220866051a0b32d4e9a9e7bad4d68253e1c63d4ce250c",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::15-Upper-Respiratory-Infections::Class-Content"
@@ -37340,6 +38430,12 @@
       "first_field_hash": "8ab8490eb497cf882a0a942a05a6fd976040cfd20ebc35a93464aef632eb36d3",
       "tags": [
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-1::05-Intro-to-Fungi"
+      ]
+    },
+    {
+      "first_field_hash": "6f6bd707d6aa347a9d091f1d632de820a806172bfcdb892a3ff61c5fb894b93a",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::10-Autonomic-Physiology-and-Pharmacology"
       ]
     },
     {
@@ -37585,6 +38681,12 @@
       ]
     },
     {
+      "first_field_hash": "376115da2f0aaca5eb2b47e7b26ef1bbc15a8755234e17011f1d092cd330322f",
+      "tags": [
+        "JerryShen_AnKing_Tags::POM-3::Clinical-Reasoning::Approach-to-Cough"
+      ]
+    },
+    {
       "first_field_hash": "55232bba7a6f0c68ddebaccb6fa873f6a299c7ea6b75ec8268b469497f1fa93d",
       "tags": [
         "JerryShen_AnKing_Tags::POM-3::Clinical-Reasoning::Pain-Management::Class-Content"
@@ -37613,7 +38715,7 @@
     {
       "first_field_hash": "aeab54bf16c6777e649512eb820f698b0506de350a78b0728644993318b407eb",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::09-Supraventricular-Tachycardia"
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::09-Supraventricular-Tachycardia-&-Antiarrhythmics"
       ]
     },
     {
@@ -37626,6 +38728,12 @@
       "first_field_hash": "e22f6b08147aca220cda52a26d267260f5a80cea98957e445524d2e2b4dd6b90",
       "tags": [
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-1::04-Intro-to-Viruses::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "a36d13a2224c40444b9f1a3d5d67a6dcaa20f7142af3539ba63b5fa804250f40",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::09-Supraventricular-Tachycardia-&-Antiarrhythmics"
       ]
     },
     {
@@ -37657,6 +38765,12 @@
       "tags": [
         "JerryShen_AnKing_Tags::POM-3::Clinical-Reasoning::Approach-to-Cough",
         "JerryShen_AnKing_Tags::POM-3::Clinical-Reasoning::Approach-to-Cough::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "587f5c1724d36128602dc82e206e5fc6ebf9ad65ad359c80e7c54dbfa02f2951",
+      "tags": [
+        "JerryShen_AnKing_Tags::POM-3::Clinical-Reasoning::Approach-to-Cough"
       ]
     },
     {
@@ -37723,6 +38837,12 @@
       "first_field_hash": "4b78402d8c5b2b2789661e388754cf7d172e73476d6e12bc15f4ccca138cb0af",
       "tags": [
         "JerryShen_AnKing_Tags::Neurobiology::Exam-3::Lec-Vestibular-System"
+      ]
+    },
+    {
+      "first_field_hash": "8f4935b04be560095c61a912be50a19f261b18d91b419ee7a6647eee0b017230",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::09-Supraventricular-Tachycardia-&-Antiarrhythmics"
       ]
     },
     {
@@ -37856,6 +38976,13 @@
       ]
     },
     {
+      "first_field_hash": "52fd840f1467322865f89df5193dff78e075bb29eefe3eef1487d401e6efc103",
+      "tags": [
+        "JerryShen_AnKing_Tags::POM-3::Clinical-Reasoning::Advanced-Pulmonary-Exam",
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::14-Lung-Pharmacology"
+      ]
+    },
+    {
       "first_field_hash": "9c586c3aec9302f89530692e60b4171e425588f8260d999e91ee466be8802d90",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::07-Pulmonary-Function-Testing",
@@ -37872,6 +38999,12 @@
       "first_field_hash": "8621df99785eaa3822fd6f4d97b4e20987ba36aab64a1b8db4ee96a9a6fa9ae5",
       "tags": [
         "JerryShen_AnKing_Tags::Neurobiology::Exam-2::Tutorial-3-Brainstem"
+      ]
+    },
+    {
+      "first_field_hash": "3f71fcec541b0c6087e8ae8508c280987111fae1aa9109c05656f8905feb12f8",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::14-The-Cardiac-Cycle"
       ]
     },
     {
@@ -37949,7 +39082,7 @@
     {
       "first_field_hash": "d552fb5c8a3a4e3faa19ab5376de488422534c9c2250c5003964321a995af17c",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::09-Supraventricular-Tachycardia::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::09-Supraventricular-Tachycardia-&-Antiarrhythmics::Class-Content"
       ]
     },
     {
@@ -38087,6 +39220,12 @@
       ]
     },
     {
+      "first_field_hash": "c7ee15202899be42dafc740a96f6adaa57f689fb02c6173ee96b1f28e115c3f0",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::09-Supraventricular-Tachycardia-&-Antiarrhythmics"
+      ]
+    },
+    {
       "first_field_hash": "277dda0833a57b8c341c363b21ab70fcd4eae0341e6812852a1424c62147a8c5",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::08-Fast-Rhythm-Arrhythmias::Class-Content"
@@ -38119,20 +39258,20 @@
     {
       "first_field_hash": "4e21657a3fb2b116daf46cb64ff9590af822c77f0cf4abe00dc634e6212d6947",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::09-Supraventricular-Tachycardia::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::09-Supraventricular-Tachycardia-&-Antiarrhythmics::Class-Content"
       ]
     },
     {
       "first_field_hash": "22e3544c72b9f75a8b3693e7b60f69f9bc27e644da4141a488ca854b9c45e6cc",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::09-Supraventricular-Tachycardia"
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::09-Supraventricular-Tachycardia-&-Antiarrhythmics"
       ]
     },
     {
       "first_field_hash": "0f4d21ade321118e2975dbe5be24d84f8d62cf1da94d3feebeef9b1542dab8b4",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::09-Supraventricular-Tachycardia",
-        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::09-Supraventricular-Tachycardia::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::09-Supraventricular-Tachycardia-&-Antiarrhythmics",
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::09-Supraventricular-Tachycardia-&-Antiarrhythmics::Class-Content"
       ]
     },
     {
@@ -38334,7 +39473,19 @@
     {
       "first_field_hash": "21b00600e86086383377eb4e4f45abd4eac609a27482077897763ae65817b4ba",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::09-Supraventricular-Tachycardia::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::09-Supraventricular-Tachycardia-&-Antiarrhythmics::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "6b7d16e98cc2e662b20314900c4df78f2ab5d4a180db557231383b05c4770ac3",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::09-Supraventricular-Tachycardia-&-Antiarrhythmics"
+      ]
+    },
+    {
+      "first_field_hash": "c506af4b01557a673fce574dfb97a44c484df033b25db7cbb3dabba9f73f0e14",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::09-Supraventricular-Tachycardia-&-Antiarrhythmics::Class-Content"
       ]
     },
     {
@@ -38352,7 +39503,7 @@
     {
       "first_field_hash": "b45b0ebeabd9974a80c7c67f919bb398388a7bd83058963e6a1d794b9b6d9e72",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::09-Supraventricular-Tachycardia"
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::09-Supraventricular-Tachycardia-&-Antiarrhythmics"
       ]
     },
     {
@@ -38364,7 +39515,7 @@
     {
       "first_field_hash": "840fc8bf339d268112e8b561bf9329179cb9152bee4827a41abfd8b64c68669a",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::09-Supraventricular-Tachycardia"
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::09-Supraventricular-Tachycardia-&-Antiarrhythmics"
       ]
     },
     {
@@ -38372,6 +39523,12 @@
       "tags": [
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-2::08-Other-Antibiotics-&-Mycobacteria",
         "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::17-Chest-Imaging-II"
+      ]
+    },
+    {
+      "first_field_hash": "e69c3431c4a251beda203d3ee3356b139e7f063b52de03f8bdca45650776d803",
+      "tags": [
+        "JerryShen_AnKing_Tags::POM-3::Clinical-Reasoning::Advanced-Pulmonary-Exam"
       ]
     },
     {
@@ -38653,6 +39810,12 @@
       ]
     },
     {
+      "first_field_hash": "04d25141f5c6b8f4fdd0c0fd798abd941d7c51eaaf2e03e804dfc29e71f4dba8",
+      "tags": [
+        "JerryShen_AnKing_Tags::POM-3::Clinical-Reasoning::Approach-to-Cough"
+      ]
+    },
+    {
       "first_field_hash": "e8e43e389706f7a20c3b6494c1be4189978ce00ad9139151141f6dcf972b62ae",
       "tags": [
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-2::09-Misc-Antimicrobials-&-Skin-Infections"
@@ -38799,6 +39962,13 @@
       ]
     },
     {
+      "first_field_hash": "31dbedadad5158f83f4013e389c24fc3ebd141e0ed26a649eb020a0ace8dcd87",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::09-Supraventricular-Tachycardia-&-Antiarrhythmics",
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::10-Autonomic-Physiology-and-Pharmacology"
+      ]
+    },
+    {
       "first_field_hash": "c6e70eb056afbc26031767c07d6b12534f25a1b659060f5fa09d5e7419a33a78",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::04-Pacemaker-Potential"
@@ -38895,6 +40065,12 @@
       "first_field_hash": "250b88f71416b7578e94511773a9d5f4af22584f84b742888bf27a75e30129a2",
       "tags": [
         "JerryShen_AnKing_Tags::Biochemistry::Final::03-Lipid-Metabolism"
+      ]
+    },
+    {
+      "first_field_hash": "7d73f631cb379063b15a046f956bce8d618e61bdce80fd219fb0a6eeba1f033d",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::12-Myosin-and-Cardiac-Contractility"
       ]
     },
     {
@@ -39059,6 +40235,12 @@
       ]
     },
     {
+      "first_field_hash": "1e68ef57fe8299337df9527d6b8c3b1762413f112c310e0e43377b41cb52ced0",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::14-Lung-Pharmacology"
+      ]
+    },
+    {
       "first_field_hash": "9add1452f2e17413b0e61d732a5c895cd0a0f0b219a94dd0a487124c1bad90b5",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::06-Hypertrophy-and-Bundle-Branch-Block"
@@ -39068,6 +40250,12 @@
       "first_field_hash": "d3111168ef564cea579b2b7bb9ce6febde29b1d3bedc6e3245c1f4ed89892527",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::06-Hypertrophy-and-Bundle-Branch-Block::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "ac7894c75647aa9f3e837dc209934e284a0dd927718f3cbbebab9e8e989e5083",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::09-Supraventricular-Tachycardia-&-Antiarrhythmics"
       ]
     },
     {
@@ -39086,6 +40274,12 @@
       "first_field_hash": "3cd2b7fe62c0c38401c39a46e7b801125f305f75d970f5ff0a1dcd82ec05caaa",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::11-Pathology-of-Cardiomyopathy-and-Myocarditis::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "27e6d812bc7d3dfaaac4ce2f28e145a5fa2a5e96a7acab7bed35e03a44da49ef",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::09-Supraventricular-Tachycardia-&-Antiarrhythmics::Class-Content"
       ]
     },
     {
@@ -39178,7 +40372,8 @@
     {
       "first_field_hash": "d135fd8d7d705c225f90ee47bd4112b42c5ae01acc9140a44e61902c711abc61",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::14-Lung-Pharmacology"
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::14-Lung-Pharmacology",
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::14-Lung-Pharmacology::Class-Content"
       ]
     },
     {
@@ -39581,6 +40776,12 @@
       ]
     },
     {
+      "first_field_hash": "6d69b84f5162bbbb244084e16e3e529a24bcd22c46dac70c560f9d7f98827afc",
+      "tags": [
+        "JerryShen_AnKing_Tags::POM-3::Clinical-Reasoning::Advanced-Pulmonary-Exam"
+      ]
+    },
+    {
       "first_field_hash": "fbe627f0947fc64bcf7c007e171a4389d8a84a99696262ac9de5c93173aade03",
       "tags": [
         "JerryShen_AnKing_Tags::POM-2::Final::Clinical-Skills"
@@ -39747,13 +40948,19 @@
     {
       "first_field_hash": "a892c73fa2ba623da52b304b6c64daee39b379986b2ba166a88a6fb4b1f7c798",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::09-Supraventricular-Tachycardia::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::09-Supraventricular-Tachycardia-&-Antiarrhythmics::Class-Content"
       ]
     },
     {
       "first_field_hash": "b1d402e2162b58098707f7793266df817f53a8aaa284686cfe92503286aab23c",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::10-Autonomic-Physiology-and-Pharmacology"
+      ]
+    },
+    {
+      "first_field_hash": "a445da060c45b00755539d334bda8e56784564365f24cdebf22b71f433511278",
+      "tags": [
+        "JerryShen_AnKing_Tags::POM-3::Clinical-Reasoning::Approach-to-Cough::Class-Content"
       ]
     },
     {
@@ -39995,7 +41202,7 @@
     {
       "first_field_hash": "53c12a16cec57d7e7d2ade134e39d1c0fbab4c414fa949242973d0d1d8f90481",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::09-Supraventricular-Tachycardia::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::09-Supraventricular-Tachycardia-&-Antiarrhythmics::Class-Content"
       ]
     },
     {
