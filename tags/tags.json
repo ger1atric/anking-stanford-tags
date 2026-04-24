@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
   "author": "JerryShen",
-  "description": "cardiac cycle and cardiac muscle contraction",
-  "created": "2026-04-23T19:15:57.442076+00:00",
-  "updated": "2026-04-23T19:15:57.442076+00:00",
+  "description": "heart failure pathophys and pharm",
+  "created": "2026-04-24T18:24:43.063784+00:00",
+  "updated": "2026-04-24T18:24:43.063784+00:00",
   "tag_prefix": "JerryShen_AnKing_Tags",
   "tag_hierarchy": [
     "JerryShen_AnKing_Tags",
@@ -287,6 +287,8 @@
     "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::13-Excitation-Contraction-Coupling::Class-Content",
     "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::14-The-Cardiac-Cycle",
     "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::14-The-Cardiac-Cycle::Class-Content",
+    "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::15-Pathophysiology-&-Treatment-of-Heart-Failure",
+    "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::15-Pathophysiology-&-Treatment-of-Heart-Failure::Class-Content",
     "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block",
     "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::01-Structure-and-Function-of-the-Lung",
     "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::01-Structure-and-Function-of-the-Lung::Class-Content",
@@ -434,6 +436,11 @@
       "date": "2026-04-23T19:15:57.442076+00:00",
       "message": "cardiac cycle and cardiac muscle contraction",
       "note_count": 248
+    },
+    {
+      "date": "2026-04-24T18:24:43.063784+00:00",
+      "message": "heart failure pathophys and pharm",
+      "note_count": 86
     }
   ],
   "notes": [
@@ -1145,6 +1152,12 @@
       ]
     },
     {
+      "first_field_hash": "b16414c7b5e9b1b61c6048c42dd630b333db780210be30cc8c51f0cc796a48d3",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::15-Pathophysiology-&-Treatment-of-Heart-Failure"
+      ]
+    },
+    {
       "first_field_hash": "54e98b24598ce7bc7b66b5bea288b7320d5067615d857f6fa3a13b1f45bd3fc0",
       "tags": [
         "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-4-Pelvis::Histology::Class-Content"
@@ -1649,6 +1662,12 @@
       "first_field_hash": "291fe2119288016048855a5ad0e47aac8fabb3674729942085c239df992942fa",
       "tags": [
         "JerryShen_AnKing_Tags::Genetics::Exam-2::03-Chromosomes::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "11b2ee342bd746f4e38edc8d746eaac3f3a907f1bceeffecb009cc5bcfb6d3c7",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::15-Pathophysiology-&-Treatment-of-Heart-Failure::Class-Content"
       ]
     },
     {
@@ -4330,9 +4349,40 @@
       ]
     },
     {
+      "first_field_hash": "c133e4ee362d3ecac633c2049f01ce0f91445407e27abfb015f273fb300866fd",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::15-Pathophysiology-&-Treatment-of-Heart-Failure::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "a97e6c0cca25c02005a9b1e33d5ac0845561e55aac88546e1b7bbd9db471fdc6",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::15-Pathophysiology-&-Treatment-of-Heart-Failure::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "b4f4bd6ac77ca3dcaca989ff48c0588d1093e0113552816ecaed2f11ebe7c3e6",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::15-Pathophysiology-&-Treatment-of-Heart-Failure",
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::15-Pathophysiology-&-Treatment-of-Heart-Failure::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "9cfd652da995f75cc5fdf29ddfe32c20fd5a5d0829ca632d73398211c6dc2952",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::15-Pathophysiology-&-Treatment-of-Heart-Failure"
+      ]
+    },
+    {
       "first_field_hash": "1dc686a63771ee53e4bb82bcfc2573275933bb16cf55aa8e0336ede7d3d892bf",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::02-Pulmonary-Circulation::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "ae3dab1c067dc1e288678bd4fa855895e93d0ce810fe52ade043ae2ea0f16b51",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::15-Pathophysiology-&-Treatment-of-Heart-Failure"
       ]
     },
     {
@@ -4345,6 +4395,26 @@
       "first_field_hash": "f080aec008403d1c77ef61d63b66c819b1dc92ace7d390355184459f6e15893b",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::11-Control-of-Ventilation::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "c326ac13fe70f8204544f839b40470770d6c51a4889a38cd456b9241d1409ccd",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::15-Pathophysiology-&-Treatment-of-Heart-Failure",
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::15-Pathophysiology-&-Treatment-of-Heart-Failure::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "ed974cb065f7bbb34cf6d39b360779361a8ca24b205b206143873a63eb5f567b",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::15-Pathophysiology-&-Treatment-of-Heart-Failure",
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::15-Pathophysiology-&-Treatment-of-Heart-Failure::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "cd8f6cf7c158e962912620887f1c28275ec4fc0173aa7d28b03ff8a3e3a46373",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::15-Pathophysiology-&-Treatment-of-Heart-Failure::Class-Content"
       ]
     },
     {
@@ -4395,6 +4465,12 @@
       "first_field_hash": "89762ad74702ce6e87e49e4eabdd2eb767e4f565fa67ca00ce0bafba10d29864",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::02-Pulmonary-Circulation::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "dcac67fa52cad149049fe8ff492abb6eb57e12d6a28c666086c1511d834c9bad",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::15-Pathophysiology-&-Treatment-of-Heart-Failure::Class-Content"
       ]
     },
     {
@@ -4609,9 +4685,40 @@
       ]
     },
     {
+      "first_field_hash": "e54102f7329d598369031e13062644f3f2b722c03b554fe9b5b46eea26a614b8",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::12-Myosin-and-Cardiac-Contractility"
+      ]
+    },
+    {
+      "first_field_hash": "1aa3b143d41ebe79eaf398082709ab2ae66681c4366019386f80003fbe0340c7",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::15-Pathophysiology-&-Treatment-of-Heart-Failure"
+      ]
+    },
+    {
+      "first_field_hash": "272ee57337c2d682ca11db2cc29d55e597cea3346a12659362962592562e6a3b",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::15-Pathophysiology-&-Treatment-of-Heart-Failure"
+      ]
+    },
+    {
       "first_field_hash": "abad75a67951aa6a1852f26a4315bead6b012abae66f8e721d87f6d39dbc302c",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::11-Pathology-of-Cardiomyopathy-and-Myocarditis::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::11-Pathology-of-Cardiomyopathy-and-Myocarditis::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::15-Pathophysiology-&-Treatment-of-Heart-Failure"
+      ]
+    },
+    {
+      "first_field_hash": "4ac4659be42c7133e58a2013c4f222604f53d654e12ad5828323708d945b4f8a",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::15-Pathophysiology-&-Treatment-of-Heart-Failure"
+      ]
+    },
+    {
+      "first_field_hash": "959f1d5a8a0e27a5ab6da0167ce4bbc8a9b6f7f6859ca41e24be2dbcc4673be0",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::15-Pathophysiology-&-Treatment-of-Heart-Failure"
       ]
     },
     {
@@ -4632,6 +4739,19 @@
       "first_field_hash": "581cd2e599309db8da20602010ec628de185ff97b5ad791837f1243c29d23114",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::11-Pathology-of-Cardiomyopathy-and-Myocarditis::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "694d9df3a43571ed65cabf42e646b335a8b408d6ed8ab61fba711c3fe199c668",
+      "tags": [
+        "JerryShen_AnKing_Tags::POM-1::Final::Clinical-Skills::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::15-Pathophysiology-&-Treatment-of-Heart-Failure::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "3c7ea9724ed5c7101d269e6258c24aa9ffffdf3af81b2130814c40226cb057d3",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::15-Pathophysiology-&-Treatment-of-Heart-Failure::Class-Content"
       ]
     },
     {
@@ -4855,6 +4975,24 @@
       ]
     },
     {
+      "first_field_hash": "895d86928a1575bbba6574fe6926b3fd0f804b77a69e030f10b8bf792d8c9854",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::15-Pathophysiology-&-Treatment-of-Heart-Failure"
+      ]
+    },
+    {
+      "first_field_hash": "5ea1a8d885d3cb449b2aafec3ea5d8a643bc8d2cf2bdce8022b1aae9f542999e",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::15-Pathophysiology-&-Treatment-of-Heart-Failure"
+      ]
+    },
+    {
+      "first_field_hash": "1357b355dad5de4098421576dbebca66ff82650c39c4b8cc97024c4a4608d30a",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::15-Pathophysiology-&-Treatment-of-Heart-Failure::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "fe195d01b0acf7a46d63f07eb7efc7832999ebc5dbb32b3ef5b47ee58e2efc46",
       "tags": [
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-2::10-Biologics-Ectoparasites-&-Clinical-Cases"
@@ -5010,7 +5148,9 @@
     {
       "first_field_hash": "ebfb62b14ef1651f129a3112e5ffacbd76069fd5f9ecb0b1609eba62ac364e06",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::11-Pathology-of-Cardiomyopathy-and-Myocarditis"
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::11-Pathology-of-Cardiomyopathy-and-Myocarditis",
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::11-Pathology-of-Cardiomyopathy-and-Myocarditis::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::15-Pathophysiology-&-Treatment-of-Heart-Failure::Class-Content"
       ]
     },
     {
@@ -5175,6 +5315,12 @@
       "first_field_hash": "8c36989fee9b3e4cdff3d45d7c0b42e4969c6b452ce9a00f9b4344cd7e3de472",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::12-Myosin-and-Cardiac-Contractility::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "afdd016ac4876eaa483bc6d312026704de3c44371923e8feef7e0839ff9a6f5a",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::15-Pathophysiology-&-Treatment-of-Heart-Failure"
       ]
     },
     {
@@ -5768,9 +5914,52 @@
       ]
     },
     {
+      "first_field_hash": "a16e277748295123b30071f46d5fe394d2f42b6e4eaf7d1155728d089ab57662",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::15-Pathophysiology-&-Treatment-of-Heart-Failure"
+      ]
+    },
+    {
       "first_field_hash": "bb9ce87295f4ebe42b8753409b9d7787beb1355b1106b145dd6a0ecb1721a49b",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::13-Excitation-Contraction-Coupling"
+      ]
+    },
+    {
+      "first_field_hash": "e0bf5ff10c8a9c929b4cf0132467f2382cc92e5198d38b600f0448cca9fd144d",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::15-Pathophysiology-&-Treatment-of-Heart-Failure::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "fcd3b99c7b0c0cd8fc7f21d8182a0b1dee78206bdc952b6097372754b078fc2a",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::15-Pathophysiology-&-Treatment-of-Heart-Failure",
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::15-Pathophysiology-&-Treatment-of-Heart-Failure::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "e821bb0ca79b78d2cb24ff669fa0c9cecc3a89b6df6a1252425c0e591a786b7a",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::15-Pathophysiology-&-Treatment-of-Heart-Failure::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "91534966e9589621b9d16868edafd0ef151f84290562cdf072b0aaa43d54953c",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::15-Pathophysiology-&-Treatment-of-Heart-Failure::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "172abe7e61acc651bdb2c3b8b46985d585d12895c47d732486eb6e7f9a99dfa9",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::15-Pathophysiology-&-Treatment-of-Heart-Failure"
+      ]
+    },
+    {
+      "first_field_hash": "9bf63a3866c38abbc82a370daaa91ae8caced5dc40918adb3c2a72603038c82a",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::15-Pathophysiology-&-Treatment-of-Heart-Failure"
       ]
     },
     {
@@ -5804,6 +5993,24 @@
       ]
     },
     {
+      "first_field_hash": "dea095b8df0947130e66793267bb7a4cf88b2748c525699f454cb0e5bf95b987",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::15-Pathophysiology-&-Treatment-of-Heart-Failure"
+      ]
+    },
+    {
+      "first_field_hash": "fc8b8297e7e4d04ecb94f2f45cf06544922f4824ed598d307ef5685f25809d43",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::15-Pathophysiology-&-Treatment-of-Heart-Failure"
+      ]
+    },
+    {
+      "first_field_hash": "d58618520c56582427630a2e8a7db5ab4d367c660fbfea640db5ed1156c552d1",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::15-Pathophysiology-&-Treatment-of-Heart-Failure"
+      ]
+    },
+    {
       "first_field_hash": "df0cc03b5fd9c476cc6f2921f6e4dcd0c345c6787d08a644daec55496127a7d3",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::10-Autonomic-Physiology-and-Pharmacology"
@@ -5813,6 +6020,30 @@
       "first_field_hash": "b9a9be81bf8af8a6146a60ccae4700424df2148ac2f9a738f4d946772b2f48c2",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::10-Autonomic-Physiology-and-Pharmacology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "d2e20729a990820462ff6f5041ee02f5da198432f600c67fc561885d43481d0f",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::15-Pathophysiology-&-Treatment-of-Heart-Failure"
+      ]
+    },
+    {
+      "first_field_hash": "86dee140a42eaebbf51c60ce6e5d1507f30617a2d75fe1183e46f927625e7040",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::15-Pathophysiology-&-Treatment-of-Heart-Failure"
+      ]
+    },
+    {
+      "first_field_hash": "7b7612ca02da0d3f2e1622241181f5b3930524ea992145d9bc8cff73a4534976",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::15-Pathophysiology-&-Treatment-of-Heart-Failure::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "13dd71e6c1d5d20b60a6c93ab4cb1fde493e6bac3da7bbd41abb7fcdf347c14d",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::15-Pathophysiology-&-Treatment-of-Heart-Failure"
       ]
     },
     {
@@ -5933,6 +6164,18 @@
       "first_field_hash": "2b319b212b6e82067d2b3d9d8f77cd78f705f167dafef43d39fa2bdc7df9ad04",
       "tags": [
         "JerryShen_AnKing_Tags::Biochemistry::Final::03-Lipid-Metabolism"
+      ]
+    },
+    {
+      "first_field_hash": "bafbc31cd4e8fa2d8367b5a38eb635f1fa021f7215b90d7d8ea1b4de52dba23c",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::15-Pathophysiology-&-Treatment-of-Heart-Failure"
+      ]
+    },
+    {
+      "first_field_hash": "abc21295fbb119cf284d1585126eeff02c34f9f61b004381c702b6062f4f0baf",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::15-Pathophysiology-&-Treatment-of-Heart-Failure"
       ]
     },
     {
@@ -10342,9 +10585,88 @@
       ]
     },
     {
+      "first_field_hash": "72919c6c1852fd56a6f8facdb6539260679a84eaf5ada85686d8134bf4ffe186",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::15-Pathophysiology-&-Treatment-of-Heart-Failure::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "9b24d40de827f21f3763c283b436ab6efb154d96f51fc18cba998620255c87a8",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::15-Pathophysiology-&-Treatment-of-Heart-Failure::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "9d9eef1a9d52fb32b1c3810a9abdd4dbc2285e69ce3374f6c1c5bba90edf2891",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::15-Pathophysiology-&-Treatment-of-Heart-Failure"
+      ]
+    },
+    {
+      "first_field_hash": "224953a6c93004a8bb7fb5c0bae3fc4a81bfc72b71cfdf2745f7a29b4775be5d",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::15-Pathophysiology-&-Treatment-of-Heart-Failure::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "844998f5be8bbb65046c3e9811d28b03a041b2b62ad79c53deeebd6732bbaad0",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::15-Pathophysiology-&-Treatment-of-Heart-Failure::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "219e4a80fdfdbba4e46de6aff4ca30bafcc56bd7d7bd6123a8ea6e82885d44aa",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::15-Pathophysiology-&-Treatment-of-Heart-Failure::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "8a38b5bdf87028d40b49575f98b226b5344ead90d4013d8e3a559bbe2ff3077b",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::15-Pathophysiology-&-Treatment-of-Heart-Failure"
+      ]
+    },
+    {
+      "first_field_hash": "a7eaa7951e8e6f5fc6bb457584a1b424caecf7a15a980525b9c6adf1b5330735",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::15-Pathophysiology-&-Treatment-of-Heart-Failure"
+      ]
+    },
+    {
       "first_field_hash": "cce80a021580bf77bcb8766d490ebc82d3b1a2a8b32c6e82c7f0fa6c35dfd9b8",
       "tags": [
         "JerryShen_AnKing_Tags::POM-3::Clinical-Reasoning::Approach-to-Cough"
+      ]
+    },
+    {
+      "first_field_hash": "f04d187d917236cc8b277cc915b7a03dd1f1560197baf5422b5fbebb64f184cd",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::15-Pathophysiology-&-Treatment-of-Heart-Failure"
+      ]
+    },
+    {
+      "first_field_hash": "7f2162d9f77c7da004315ea4ee4c39e78423e4ef9613b0e99c11ad9f4d2fdbc1",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::15-Pathophysiology-&-Treatment-of-Heart-Failure::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "9f4f07eab669b3490a31df5fbd9772b878331a1f157ea65d9da85757d9a485e1",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::15-Pathophysiology-&-Treatment-of-Heart-Failure::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "63cc64cf6e56dea3c629b8407db84b80344025d1d69d93ab06702ca9a7350860",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::15-Pathophysiology-&-Treatment-of-Heart-Failure",
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::15-Pathophysiology-&-Treatment-of-Heart-Failure::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "179efbf2524fd56bfb38207661361ea8d689ebf9a3439968756fdd961d3afb67",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::15-Pathophysiology-&-Treatment-of-Heart-Failure::Class-Content"
       ]
     },
     {
@@ -10420,6 +10742,12 @@
       ]
     },
     {
+      "first_field_hash": "c36e699eb713bc4515adbaaa0f2af317d98735b9439d505d1e69a804761381c6",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::10-Autonomic-Physiology-and-Pharmacology"
+      ]
+    },
+    {
       "first_field_hash": "bcfb3dd6c84cc47c4fae834bcb44c9944018e0f7b7a477ac743b68e0fc4b151f",
       "tags": [
         "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-4-Pelvis::Histology::Class-Content"
@@ -10447,6 +10775,12 @@
       "first_field_hash": "cca8a4493ff38191e4577b194e36b508b0e8cb049e461fc10294f985bfe5c52d",
       "tags": [
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-1::01-Intro-to-Pharmacodynamics::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "fb2d862dcba998171a5b1fb217baa134f594bc3f796744dd30a13f8e726f282c",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::15-Pathophysiology-&-Treatment-of-Heart-Failure::Class-Content"
       ]
     },
     {
@@ -10806,6 +11140,12 @@
       ]
     },
     {
+      "first_field_hash": "bb9470a6b553f319395f58d1ed02b211fad4c5c04e26d82bb3cb675eb145901d",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::15-Pathophysiology-&-Treatment-of-Heart-Failure::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "54f0d8c327394a7bd55c2be15e41088f45d374cad1e698053b625c0a84f9c8ad",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::10-Autonomic-Physiology-and-Pharmacology::Class-Content"
@@ -10821,6 +11161,43 @@
       "first_field_hash": "6d55251db2e09de11a7f22266ebea63fa9f0a088320b3eb6153fb4eec602375f",
       "tags": [
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-2::09-Misc-Antimicrobials-&-Skin-Infections"
+      ]
+    },
+    {
+      "first_field_hash": "4f32cb1459e3bc0fa0e026afe5c168e977a755e14bfa9942025f1d32b78c41ee",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::15-Pathophysiology-&-Treatment-of-Heart-Failure"
+      ]
+    },
+    {
+      "first_field_hash": "3e4bdc10f2c24fbeb089bb766ba0f8304db9b65e7a92984709cc4e24d9d5ea05",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::15-Pathophysiology-&-Treatment-of-Heart-Failure"
+      ]
+    },
+    {
+      "first_field_hash": "6f81ab276e123f47a6a1bf7cafffe89f03dc8ff897e096cdc3d7db46e20cde1f",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::15-Pathophysiology-&-Treatment-of-Heart-Failure::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "9d62c0d7ab32affb9df606115149831203f3597d295063495f87d3805af74d41",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::15-Pathophysiology-&-Treatment-of-Heart-Failure::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "fd12fc6af7336f75b1c3434c88e04f243361074b2217730c209c3a8814c363c7",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::15-Pathophysiology-&-Treatment-of-Heart-Failure",
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::15-Pathophysiology-&-Treatment-of-Heart-Failure::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "b516628a95614d6768633adad28d209d4b0ab9784a9f08f31c0cef02040056db",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::15-Pathophysiology-&-Treatment-of-Heart-Failure::Class-Content"
       ]
     },
     {
@@ -12893,6 +13270,18 @@
       ]
     },
     {
+      "first_field_hash": "917c43a51bffd2239bdf0903e738319fdd338e856e5820853b4d2d990b44a7db",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::10-Autonomic-Physiology-and-Pharmacology"
+      ]
+    },
+    {
+      "first_field_hash": "16b37b8251d00bb7abae2ab578de632aebf1d28b2da866bf407debba9d5eb0cc",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::10-Autonomic-Physiology-and-Pharmacology::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "0c37a00b9e63469e5ec1379d5d6e901328a49bcff67a63f4d44d9642a382744c",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::04-Pacemaker-Potential",
@@ -12910,6 +13299,12 @@
       "first_field_hash": "edc570136cb203a7ff79fae66993bb9a8684f492d289d80788974f88aefe5009",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::10-Autonomic-Physiology-and-Pharmacology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "97a0205b579e563e652937f8fcadd504d168522df65d9e0acd67896a122f374d",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::15-Pathophysiology-&-Treatment-of-Heart-Failure"
       ]
     },
     {
@@ -13028,6 +13423,12 @@
       ]
     },
     {
+      "first_field_hash": "930be85f21596169bc313c126d472b5662bec0b74fe51652b7962d9c952b5126",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::10-Autonomic-Physiology-and-Pharmacology::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "b991dd81249dfff8164ba2518be1d9763e96509866015f37477d54fd5f6c543d",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::10-Autonomic-Physiology-and-Pharmacology::Class-Content"
@@ -13037,7 +13438,8 @@
       "first_field_hash": "d9f11561fcb54dc7cc5a9a5a2a1af810bf048e8915032a0a1fd27befc02e2692",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::10-Autonomic-Physiology-and-Pharmacology",
-        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::10-Autonomic-Physiology-and-Pharmacology::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::10-Autonomic-Physiology-and-Pharmacology::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::15-Pathophysiology-&-Treatment-of-Heart-Failure::Class-Content"
       ]
     },
     {
@@ -13177,6 +13579,12 @@
     },
     {
       "first_field_hash": "987a823347b436da093ba6b64f18bb703fd5aa716f3a47919629678277ac4518",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::10-Autonomic-Physiology-and-Pharmacology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "947490be3d0a428a48efd8214e88aaf9e8291c785a3190ed16ce0153953813df",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::10-Autonomic-Physiology-and-Pharmacology::Class-Content"
       ]
@@ -24728,6 +25136,13 @@
       ]
     },
     {
+      "first_field_hash": "78aed2881533a432798fcc7453074c0c27aac2023c99ba9e0912bd33acfdcc62",
+      "tags": [
+        "JerryShen_AnKing_Tags::Micro-Pharm::Exam-1::01-Intro-to-Pharmacodynamics",
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::15-Pathophysiology-&-Treatment-of-Heart-Failure::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "cf4d5206f7f8353c63aef4f8514e1e480c049e8ff240f33ed137e8c038e79a8c",
       "tags": [
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-1::03-C.diff-&-Pseudomonas::Class-Content"
@@ -25939,7 +26354,8 @@
     {
       "first_field_hash": "a71c7d4297aae1541eb1eb4feed0fb87b51e9e58c46d34cb3e36522f3442af1f",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::10-Autonomic-Physiology-and-Pharmacology"
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::10-Autonomic-Physiology-and-Pharmacology",
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::15-Pathophysiology-&-Treatment-of-Heart-Failure"
       ]
     },
     {
@@ -26268,6 +26684,18 @@
       ]
     },
     {
+      "first_field_hash": "7dc6b49ab5143f746eefa7787e5d05edb8fb8821dddee6aa646cfca614caaa1f",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::15-Pathophysiology-&-Treatment-of-Heart-Failure"
+      ]
+    },
+    {
+      "first_field_hash": "e853237e9e67666b8deb2b6890d6792e08ab95eda23e3eb5d20bf858b0bae9c3",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::15-Pathophysiology-&-Treatment-of-Heart-Failure"
+      ]
+    },
+    {
       "first_field_hash": "fa50e89a7212876d6c88d880297f0c7b53a62ac748c3fde5b144bbcc9b5adf32",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::10-Autonomic-Physiology-and-Pharmacology"
@@ -26297,6 +26725,12 @@
       "first_field_hash": "cfcd20e8790270936783082125cfc9088c3e86fe25a64670779507514dd4bb04",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::09-Supraventricular-Tachycardia-&-Antiarrhythmics"
+      ]
+    },
+    {
+      "first_field_hash": "1e0cd3f7a468c426ba68ce8eab7f9804f9a1fe4190e46917719e4e31afa9efd3",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::15-Pathophysiology-&-Treatment-of-Heart-Failure"
       ]
     },
     {
@@ -27981,6 +28415,12 @@
       "first_field_hash": "3ffa0b808fe263138396f575d93a03d7380734120b88525b1e8d8658444043f8",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::04-Pacemaker-Potential"
+      ]
+    },
+    {
+      "first_field_hash": "80d3efc7c4133a85c2c3a9b27d41f019882c9798d82cf31725d3bd91d265aae4",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::10-Autonomic-Physiology-and-Pharmacology"
       ]
     },
     {
@@ -36448,6 +36888,24 @@
       ]
     },
     {
+      "first_field_hash": "2509a68d280a25fafdc5edc731cbaf3d282bdc91164d8e87fc8d18b983252450",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::15-Pathophysiology-&-Treatment-of-Heart-Failure"
+      ]
+    },
+    {
+      "first_field_hash": "cb4c956ecc5ffbfb2f3b73ccb837205e71421925d10b9729044927ddb1fff3d0",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::15-Pathophysiology-&-Treatment-of-Heart-Failure"
+      ]
+    },
+    {
+      "first_field_hash": "7e72d00bfd4cb2c7c0d625fc0fe36d931bd8d28f2867062edce38181cf76c482",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::15-Pathophysiology-&-Treatment-of-Heart-Failure::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "085c1359102bec710b23f721164d91d0865cb1e0421df80c7876e46e95b2ee41",
       "tags": [
         "JerryShen_AnKing_Tags::POM-1::Final::Ethics"
@@ -36904,6 +37362,13 @@
       ]
     },
     {
+      "first_field_hash": "b883fb9d848914559a4a99fa88555fc73e986fd43e1ceea8b20e704d49d93cd6",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::15-Pathophysiology-&-Treatment-of-Heart-Failure",
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::15-Pathophysiology-&-Treatment-of-Heart-Failure::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "80451f098ad060b0a66217cc3f6b9b77cd472dadeb5592f22fbeb72e510db8b2",
       "tags": [
         "JerryShen_AnKing_Tags::Genetics::Exam-2::06-Complex-Inheritance-Patterns"
@@ -36997,6 +37462,12 @@
       "first_field_hash": "89da850024cb79d112e445f054084d61028af0f8edbeb4ab354e9dd0a64776f8",
       "tags": [
         "JerryShen_AnKing_Tags::Biochemistry::Final::05-Nitrogen-Metabolism"
+      ]
+    },
+    {
+      "first_field_hash": "059ef921ae5b5054a21ac7445a6bfd17c825b7255733b78163b1a58d5dc9779b",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::15-Pathophysiology-&-Treatment-of-Heart-Failure::Class-Content"
       ]
     },
     {
@@ -37096,6 +37567,12 @@
       "first_field_hash": "89b7464cb96849d4720751f42788b1a71e3ff5e054b2be1317a9e466491b04db",
       "tags": [
         "JerryShen_AnKing_Tags::POM-3::Clinical-Reasoning::Advanced-Pulmonary-Exam"
+      ]
+    },
+    {
+      "first_field_hash": "340bfd75bf51754475abfd4201a744501499f59575f9ac786cf68e7671bd9dc2",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::15-Pathophysiology-&-Treatment-of-Heart-Failure"
       ]
     },
     {
@@ -39002,6 +39479,12 @@
       ]
     },
     {
+      "first_field_hash": "3dad708267f39399fc76b81f98255ebe1b675859ef57ed13979efc96bfd72609",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::15-Pathophysiology-&-Treatment-of-Heart-Failure::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "3f71fcec541b0c6087e8ae8508c280987111fae1aa9109c05656f8905feb12f8",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::14-The-Cardiac-Cycle"
@@ -39516,6 +39999,18 @@
       "first_field_hash": "840fc8bf339d268112e8b561bf9329179cb9152bee4827a41abfd8b64c68669a",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::09-Supraventricular-Tachycardia-&-Antiarrhythmics"
+      ]
+    },
+    {
+      "first_field_hash": "15ed008a16229b17fb785af19f557db13df6988ad3d6c5bcadb745f26af36f7d",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::15-Pathophysiology-&-Treatment-of-Heart-Failure"
+      ]
+    },
+    {
+      "first_field_hash": "8a12afa15b827db8dd130bf8d11fd52bbe37415bc749dcac35ee27d36beb2965",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::15-Pathophysiology-&-Treatment-of-Heart-Failure"
       ]
     },
     {
@@ -40070,7 +40565,9 @@
     {
       "first_field_hash": "7d73f631cb379063b15a046f956bce8d618e61bdce80fd219fb0a6eeba1f033d",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::12-Myosin-and-Cardiac-Contractility"
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::12-Myosin-and-Cardiac-Contractility",
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::12-Myosin-and-Cardiac-Contractility::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::15-Pathophysiology-&-Treatment-of-Heart-Failure::Class-Content"
       ]
     },
     {
@@ -40250,6 +40747,12 @@
       "first_field_hash": "d3111168ef564cea579b2b7bb9ce6febde29b1d3bedc6e3245c1f4ed89892527",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::06-Hypertrophy-and-Bundle-Branch-Block::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "3a61d529226c36ec35601515a23096b7e2a3610b4a6e711d324e660503b1a7c7",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::14-The-Cardiac-Cycle"
       ]
     },
     {
@@ -40515,6 +41018,12 @@
       "first_field_hash": "0d93ff458bb2e2e0973328e7c0f7c41224415fb2fde64644430bb0822b4c17f3",
       "tags": [
         "JerryShen_AnKing_Tags::Biochemistry::Final::03-Lipid-Metabolism"
+      ]
+    },
+    {
+      "first_field_hash": "28a00dcab4e9a87f9731294d5ef1870900c0a9c451841d9c85a6c7dd8891f08b",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::15-Pathophysiology-&-Treatment-of-Heart-Failure"
       ]
     },
     {
