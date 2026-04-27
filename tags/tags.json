@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
   "author": "JerryShen",
-  "description": "heart failure pathophys and pharm",
-  "created": "2026-04-24T18:24:43.063784+00:00",
-  "updated": "2026-04-24T18:24:43.063784+00:00",
+  "description": "",
+  "created": "2026-04-27T06:30:55.444074+00:00",
+  "updated": "2026-04-27T06:30:55.444074+00:00",
   "tag_prefix": "JerryShen_AnKing_Tags",
   "tag_hierarchy": [
     "JerryShen_AnKing_Tags",
@@ -440,7 +440,7 @@
     {
       "date": "2026-04-24T18:24:43.063784+00:00",
       "message": "heart failure pathophys and pharm",
-      "note_count": 86
+      "note_count": 36
     }
   ],
   "notes": [
@@ -3851,6 +3851,12 @@
       ]
     },
     {
+      "first_field_hash": "a2a1c32a4ad1d7be518a471dde4220769b6730869634372f96b71bdbec9f71a2",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::15-Pathophysiology-&-Treatment-of-Heart-Failure::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "00efe9ae4ea2ec70e08c12ac74048d22ce8e34ca272b16a75c84ff830a167fd0",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::14-The-Cardiac-Cycle::Class-Content"
@@ -4682,6 +4688,12 @@
       "first_field_hash": "f76abc042fd46ff1d6f814450c9ca6d64cd23b010a90f8a2c96857749653766d",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::14-The-Cardiac-Cycle"
+      ]
+    },
+    {
+      "first_field_hash": "d5a5e72871f342313c05b2ea31999a3837ebaa6836cb33558feaa3998ce74068",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::15-Pathophysiology-&-Treatment-of-Heart-Failure"
       ]
     },
     {
@@ -5564,6 +5576,12 @@
       ]
     },
     {
+      "first_field_hash": "462fb3dca37e7dfc590434cbf1ea2f783ad1ba65effe3a0837e564fbc5da234e",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::15-Pathophysiology-&-Treatment-of-Heart-Failure"
+      ]
+    },
+    {
       "first_field_hash": "92c9423323f955bf18d9436a221d8cb325bf8432556df8e96a9b3a04290efb92",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::09-Supraventricular-Tachycardia-&-Antiarrhythmics"
@@ -5898,7 +5916,8 @@
     {
       "first_field_hash": "47164acf4f9e0962e9656670fcb6c59827cbeafcc2b5b439e1cdd78c2d48ec19",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::13-Excitation-Contraction-Coupling::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::13-Excitation-Contraction-Coupling::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::15-Pathophysiology-&-Treatment-of-Heart-Failure::Class-Content"
       ]
     },
     {
@@ -5914,6 +5933,12 @@
       ]
     },
     {
+      "first_field_hash": "00e7182252fa68e336b4aeb1c9f25cf83986ca40d74a38839ca26d6d6d2a83b8",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::15-Pathophysiology-&-Treatment-of-Heart-Failure"
+      ]
+    },
+    {
       "first_field_hash": "a16e277748295123b30071f46d5fe394d2f42b6e4eaf7d1155728d089ab57662",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::15-Pathophysiology-&-Treatment-of-Heart-Failure"
@@ -5923,6 +5948,12 @@
       "first_field_hash": "bb9ce87295f4ebe42b8753409b9d7787beb1355b1106b145dd6a0ecb1721a49b",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::13-Excitation-Contraction-Coupling"
+      ]
+    },
+    {
+      "first_field_hash": "d72405b511697035e89862d68e92fa8faa681a7b1632cf8ce4d2be0ac370936b",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::15-Pathophysiology-&-Treatment-of-Heart-Failure::Class-Content"
       ]
     },
     {
@@ -20531,6 +20562,12 @@
       ]
     },
     {
+      "first_field_hash": "e8da252d5637aa16b3da1aaccd4d3f8cde5be0c10082f11ea2e426a00ebbaed9",
+      "tags": [
+        "JerryShen_AnKing_Tags::POM-1::Final::Psychiatry::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "fc1a96438e2385c4027e73b3be3f9e81b24dd34452d36a26fd896f79dc719e67",
       "tags": [
         "JerryShen_AnKing_Tags::POM-1::Final::Psychiatry"
@@ -20797,6 +20834,12 @@
       ]
     },
     {
+      "first_field_hash": "b9bcabb3a5c28240cba36eba6685e9ebddaf0f006d6f2f3b5ce458c67668062d",
+      "tags": [
+        "JerryShen_AnKing_Tags::POM-3::Psychiatry::Mood-Disorders"
+      ]
+    },
+    {
       "first_field_hash": "a812006ec4628de6f01583b9e5c368b954d4f2b56ed0ae7d3612b8592b1283fd",
       "tags": [
         "JerryShen_AnKing_Tags::POM-3::Psychiatry::Mood-Disorders"
@@ -20840,6 +20883,12 @@
       ]
     },
     {
+      "first_field_hash": "6d82f81b45b033fb7eed9dcad3d0cce30d08af056daef7fada3b1e9e13e645c0",
+      "tags": [
+        "JerryShen_AnKing_Tags::POM-3::Psychiatry::Mood-Disorders"
+      ]
+    },
+    {
       "first_field_hash": "7db4de068d5ba55ed614ffbf12ad5b7ac8a420af55b24c7ae633c3d611ced106",
       "tags": [
         "JerryShen_AnKing_Tags::POM-3::Psychiatry::Mood-Disorders"
@@ -20867,6 +20916,12 @@
       "first_field_hash": "6af8289328d023e88dc4468b2111b7ccba85da2d67743f110f8e62c86dff46e5",
       "tags": [
         "JerryShen_AnKing_Tags::POM-3::Psychiatry::Mood-Disorders::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "eed4051b8dab6316dbf11e7fb626184b46ada30bb70e74ce5d6814d29ab65e35",
+      "tags": [
+        "JerryShen_AnKing_Tags::POM-3::Psychiatry::Mood-Disorders"
       ]
     },
     {
@@ -21063,6 +21118,18 @@
       ]
     },
     {
+      "first_field_hash": "2671d1b7f0fa0607795eb1d8bab25f1de8fc434cc9f7e00134d0fd100ff188a2",
+      "tags": [
+        "JerryShen_AnKing_Tags::POM-3::Psychiatry::Psychiatric-Interview"
+      ]
+    },
+    {
+      "first_field_hash": "dae4f065451c64b89430862afc94bac24d43d9cbbe70e719e1edbc125c87e297",
+      "tags": [
+        "JerryShen_AnKing_Tags::POM-3::Psychiatry::Psychiatric-Interview"
+      ]
+    },
+    {
       "first_field_hash": "906d775f83b871d7d20af1ad236f2e5c3a8a778bcf6c59cdcb7bbce1caf31531",
       "tags": [
         "JerryShen_AnKing_Tags::POM-1::Final::Psychiatry::Class-Content"
@@ -21102,6 +21169,12 @@
       "first_field_hash": "fb89f12006260cd5f4b8bed639529c3c2e0a374ae834dd09f4b424df33a3fda3",
       "tags": [
         "JerryShen_AnKing_Tags::POM-1::Final::Psychiatry::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "83ad7721e90be0bd0bd427ffc88aaf4a3690c006cbbdadf705438ce67303b84b",
+      "tags": [
+        "JerryShen_AnKing_Tags::POM-1::Final::Psychiatry"
       ]
     },
     {
@@ -21153,9 +21226,39 @@
       ]
     },
     {
+      "first_field_hash": "9c9d56931a5466330ad5ae18a3d53a00478ac311451e58140f6a96d7254511a7",
+      "tags": [
+        "JerryShen_AnKing_Tags::POM-3::Psychiatry::Psychiatric-Interview"
+      ]
+    },
+    {
       "first_field_hash": "8b044a4ab2d2b3526b24ec5cb97a2643d66a456f6d104efc65f59838ecf6f0c7",
       "tags": [
         "JerryShen_AnKing_Tags::Neurobiology::Exam-3::Lec-Somatosensation-and-Pain"
+      ]
+    },
+    {
+      "first_field_hash": "2432ba081f224ac0b16e4140ff615405883e97a3f3eae1e61e49961c9184db41",
+      "tags": [
+        "JerryShen_AnKing_Tags::POM-3::Psychiatry::Psychiatric-Interview"
+      ]
+    },
+    {
+      "first_field_hash": "9d8016349dda88697a50dee73b9a8193a4290c3c86ae6270ae05c717dbe6edb2",
+      "tags": [
+        "JerryShen_AnKing_Tags::POM-3::Psychiatry::Psychiatric-Interview"
+      ]
+    },
+    {
+      "first_field_hash": "6da63c8209b2a7024c1fd700ba7f08e8d40074eee759bbe7962c22bd3fd795ab",
+      "tags": [
+        "JerryShen_AnKing_Tags::POM-3::Psychiatry::Psychiatric-Interview"
+      ]
+    },
+    {
+      "first_field_hash": "da42af0aa9632f2d19a8b20a15f8b65b2510dc3733a2a81c4564fc8484314a44",
+      "tags": [
+        "JerryShen_AnKing_Tags::POM-3::Psychiatry::Psychiatric-Interview"
       ]
     },
     {
@@ -21282,6 +21385,12 @@
       "first_field_hash": "0f1c2dffb458ddaa889de105f79148dabe99c7d2b473636fc52e52a22b0e4576",
       "tags": [
         "JerryShen_AnKing_Tags::POM-1::Final::Psychiatry::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "d7d4f02fa2a5b9c0d0b28bcb6e6f5fe9af664af252055da249cea17bb0a20bca",
+      "tags": [
+        "JerryShen_AnKing_Tags::POM-1::Final::Psychiatry"
       ]
     },
     {
@@ -24729,6 +24838,12 @@
       ]
     },
     {
+      "first_field_hash": "5412adefcb77c88e69320db129d92b2f092293e5a3a77e732797697268d76e12",
+      "tags": [
+        "JerryShen_AnKing_Tags::POM-3::Psychiatry::Psychiatric-Interview"
+      ]
+    },
+    {
       "first_field_hash": "32ef449f0166c05c914da6f5f3f9a84640916e9b117ed39d3ad6228b2d53a1b6",
       "tags": [
         "JerryShen_AnKing_Tags::POM-1::Final::Public-Health::Class-Content"
@@ -26725,6 +26840,12 @@
       "first_field_hash": "cfcd20e8790270936783082125cfc9088c3e86fe25a64670779507514dd4bb04",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::09-Supraventricular-Tachycardia-&-Antiarrhythmics"
+      ]
+    },
+    {
+      "first_field_hash": "be74ff13ad18d4b5b9b0c35fc25c0c9ceedb7b673664b0fc2e40256cc662a4a4",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::15-Pathophysiology-&-Treatment-of-Heart-Failure::Class-Content"
       ]
     },
     {
@@ -33057,6 +33178,12 @@
       ]
     },
     {
+      "first_field_hash": "5ced7aec06c583fa151a9c835700351666e87d62579a465c094b6f2b851a0638",
+      "tags": [
+        "JerryShen_AnKing_Tags::POM-1::Final::Psychiatry"
+      ]
+    },
+    {
       "first_field_hash": "ce00cf8748fef66f157c28880411d592cd14de20e6c4d4672526e1afeadbb3bc",
       "tags": [
         "JerryShen_AnKing_Tags::Cancer-Biology::Final::03-Intro-to-Cancer-Biology::Class-Content",
@@ -33068,6 +33195,12 @@
       "first_field_hash": "c34ccd4a72e662708e59ad55768e6d5376486ad28862213e3c5839add822598c",
       "tags": [
         "JerryShen_AnKing_Tags::POM-3::Psychiatry::Mood-Disorders"
+      ]
+    },
+    {
+      "first_field_hash": "f64f5edae330da77520bb03705a7c8841400fe585dbd83a4234e9c4e836d535d",
+      "tags": [
+        "JerryShen_AnKing_Tags::POM-3::Psychiatry::Psychiatric-Interview"
       ]
     },
     {
@@ -35767,7 +35900,7 @@
       ]
     },
     {
-      "first_field_hash": "8582ebac22678ec1aca18c1ae0b1c5d0a7d87fdd00282b68b7847e29000273ce",
+      "first_field_hash": "f9c0ad35f6552f8a5a8115556da02830d193ecfcda30ca65c5d6024c98f845ad",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::15-Upper-Respiratory-Infections",
         "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::15-Upper-Respiratory-Infections::Class-Content"
@@ -37203,6 +37336,18 @@
       ]
     },
     {
+      "first_field_hash": "fbc01c410aee5f529778dbefd79d0ea785654e2d5e206ba2abf4a742c61f1282",
+      "tags": [
+        "JerryShen_AnKing_Tags::POM-3::Psychiatry::Psychiatric-Interview"
+      ]
+    },
+    {
+      "first_field_hash": "25a1ece9b112bb62539b69dc64b34210353c9844e6a5647c34857b361f8d84e2",
+      "tags": [
+        "JerryShen_AnKing_Tags::POM-3::Psychiatry::Psychiatric-Interview"
+      ]
+    },
+    {
       "first_field_hash": "9dc3b97fa98cd0ab72595f310d65d4d8fc97b86e977edf4288402b6957439160",
       "tags": [
         "JerryShen_AnKing_Tags::Genetics::Exam-2::06-Complex-Inheritance-Patterns"
@@ -37624,9 +37769,21 @@
       ]
     },
     {
+      "first_field_hash": "b1a7bc6be19365d4f6d8c6a426b8e24a08f4445b5649bdab2220dd4fd80ab40a",
+      "tags": [
+        "JerryShen_AnKing_Tags::POM-3::Psychiatry::Mood-Disorders::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "2839a34602cbea24f2a7db7a4fd9702ff20c5cb3d2b8d3eb549b156793dde11e",
       "tags": [
         "JerryShen_AnKing_Tags::POM-3::Psychiatry::Mood-Disorders",
+        "JerryShen_AnKing_Tags::POM-3::Psychiatry::Mood-Disorders::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "176588272045ecc363b64b8f13352cb8aad0d325c93364aabdf07e916bf6ec6a",
+      "tags": [
         "JerryShen_AnKing_Tags::POM-3::Psychiatry::Mood-Disorders::Class-Content"
       ]
     },
@@ -38366,6 +38523,12 @@
       ]
     },
     {
+      "first_field_hash": "a22c12c5c0c9ea5fb94027ea853068a0847fec65712de75368476e9799120fed",
+      "tags": [
+        "JerryShen_AnKing_Tags::POM-1::Final::Psychiatry::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "2371990ba5b0e0edd320f29948330a747575d1c2e192defa6c255fcb9ffe0005",
       "tags": [
         "JerryShen_AnKing_Tags::POM-1::Final::Psychiatry::Class-Content"
@@ -38384,9 +38547,21 @@
       ]
     },
     {
+      "first_field_hash": "a2c10c6552009f950a1c412cd7ec995b7fd9a0159839f944b8c6334493ac27cc",
+      "tags": [
+        "JerryShen_AnKing_Tags::POM-3::Psychiatry::Psychiatric-Interview"
+      ]
+    },
+    {
       "first_field_hash": "055a7404604c7bbff89b98c3e6baa261d1fc99ac42256afa8d2de8ba3f4c0deb",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::14-Lung-Pharmacology"
+      ]
+    },
+    {
+      "first_field_hash": "67a5389ceb2d159e810d9d6cc40a414ddf21f24b4693ebd675532ebab6ab1f71",
+      "tags": [
+        "JerryShen_AnKing_Tags::POM-3::Psychiatry::Mood-Disorders"
       ]
     },
     {
@@ -39092,6 +39267,12 @@
       ]
     },
     {
+      "first_field_hash": "46112fd0a8adef99d3abefd757efd369e96ee9594da50a78b4d0de27536c2179",
+      "tags": [
+        "JerryShen_AnKing_Tags::POM-3::Psychiatry::Psychiatric-Interview"
+      ]
+    },
+    {
       "first_field_hash": "b992286f28c95e075a3e1c5371682a9ea8b845042026ddbf1d06d99fb63dd689",
       "tags": [
         "JerryShen_AnKing_Tags::Genetics::Exam-2::06-Complex-Inheritance-Patterns::Class-Content"
@@ -39272,6 +39453,12 @@
       "first_field_hash": "38949f23891c2e7b74e1ffc6d7534cc4f166069740103372032803854bae9fca",
       "tags": [
         "JerryShen_AnKing_Tags::Biochemistry::Final::06-Nucleic-Acid-Metabolism::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "7f530c076d804caa86d029a5917e5d80e7d91d3233e1bce2b4e1d81c79559c71",
+      "tags": [
+        "JerryShen_AnKing_Tags::POM-3::Psychiatry::Mood-Disorders"
       ]
     },
     {
@@ -39476,6 +39663,12 @@
       "first_field_hash": "8621df99785eaa3822fd6f4d97b4e20987ba36aab64a1b8db4ee96a9a6fa9ae5",
       "tags": [
         "JerryShen_AnKing_Tags::Neurobiology::Exam-2::Tutorial-3-Brainstem"
+      ]
+    },
+    {
+      "first_field_hash": "34dce8dc95a297a7dd986b80a52063c8fcfc6d261b248ff9647a8d0f22792a2a",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::15-Pathophysiology-&-Treatment-of-Heart-Failure"
       ]
     },
     {
@@ -41434,6 +41627,12 @@
       "first_field_hash": "63c36336d361ab46afdb7c1619bcf30b1910f8dcc15933dc1310e92d9c09f5f6",
       "tags": [
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-2::07-β-Lactam-Antibiotics-&-Parasites"
+      ]
+    },
+    {
+      "first_field_hash": "2f31593178f6d660870eab9e8849aa19cdd4eab13170028758dbdeb24a848f39",
+      "tags": [
+        "JerryShen_AnKing_Tags::POM-3::Psychiatry::Psychiatric-Interview"
       ]
     },
     {
