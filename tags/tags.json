@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
   "author": "JerryShen",
-  "description": "",
-  "created": "2026-04-27T06:30:55.444074+00:00",
-  "updated": "2026-04-27T06:30:55.444074+00:00",
+  "description": "Back tagging sketchy pharm vids and monday/tuesday lecture",
+  "created": "2026-04-29T06:17:36.479399+00:00",
+  "updated": "2026-04-29T06:17:36.479399+00:00",
   "tag_prefix": "JerryShen_AnKing_Tags",
   "tag_hierarchy": [
     "JerryShen_AnKing_Tags",
@@ -250,6 +250,8 @@
     "JerryShen_AnKing_Tags::POM-3::Clinical-Reasoning::Advanced-Pulmonary-Exam::Class-Content",
     "JerryShen_AnKing_Tags::POM-3::Clinical-Reasoning::Approach-to-Cough",
     "JerryShen_AnKing_Tags::POM-3::Clinical-Reasoning::Approach-to-Cough::Class-Content",
+    "JerryShen_AnKing_Tags::POM-3::Clinical-Reasoning::Approach-to-Syncope",
+    "JerryShen_AnKing_Tags::POM-3::Clinical-Reasoning::Approach-to-Syncope::Class-Content",
     "JerryShen_AnKing_Tags::POM-3::Clinical-Reasoning::Pain-Management",
     "JerryShen_AnKing_Tags::POM-3::Clinical-Reasoning::Pain-Management::Class-Content",
     "JerryShen_AnKing_Tags::POM-3::Psychiatry",
@@ -326,6 +328,14 @@
     "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::17-Chest-Imaging-II::Class-Content",
     "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::18-Cystic-Fibrosis",
     "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::18-Cystic-Fibrosis::Class-Content",
+    "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::19-ARDS-&-Ventilators",
+    "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::19-ARDS-&-Ventilators::Class-Content",
+    "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::20-Interstitial-Lung-Disease",
+    "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::20-Interstitial-Lung-Disease::Class-Content",
+    "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::21-Pathology-of-ILD",
+    "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::21-Pathology-of-ILD::Class-Content",
+    "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::22-Fungal-&-TB-Infections",
+    "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::22-Fungal-&-TB-Infections::Class-Content",
     "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::Lung-Lab-1",
     "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::Lung-Lab-1::Class-Content"
   ],
@@ -441,6 +451,11 @@
       "date": "2026-04-24T18:24:43.063784+00:00",
       "message": "heart failure pathophys and pharm",
       "note_count": 36
+    },
+    {
+      "date": "2026-04-29T06:17:36.479399+00:00",
+      "message": "Back tagging sketchy pharm vids and monday/tuesday lecture",
+      "note_count": 231
     }
   ],
   "notes": [
@@ -695,6 +710,12 @@
       "first_field_hash": "5b51d9e31f19ce104316a883d3ee3b81846d5dfbb2f6aadf6429dcbba047f1fe",
       "tags": [
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-2::10-Biologics-Ectoparasites-&-Clinical-Cases"
+      ]
+    },
+    {
+      "first_field_hash": "353230c93e6029bfc019a0ab253dc0473fd3945710c1c8aea9f16edd07fc5fb2",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::19-ARDS-&-Ventilators::Class-Content"
       ]
     },
     {
@@ -1692,6 +1713,12 @@
       "first_field_hash": "ec8caa7a8d5a25e8066f9aafbdff2b4ed6416f6a193d00421e2a446721fb92e5",
       "tags": [
         "JerryShen_AnKing_Tags::Genetics::Exam-2::08.3-Prenatal-Genetics"
+      ]
+    },
+    {
+      "first_field_hash": "53603ac36453c926986ef44eea9c0b1d843311f728954624960b0fa88f64bb21",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::19-ARDS-&-Ventilators"
       ]
     },
     {
@@ -3389,6 +3416,12 @@
       ]
     },
     {
+      "first_field_hash": "abcb09a18c2d84e9503178d4347d56cbcd6a0d161f8efc5ee26eb1a38b1c55bd",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::03-The-Cardiac-Action-Potential::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "21aa8a8dc5e02ea1966b8a9c575d59f1641acd9d705855b51a9ce52b4dbc75e0",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::03-The-Cardiac-Action-Potential::Class-Content"
@@ -4178,6 +4211,12 @@
       ]
     },
     {
+      "first_field_hash": "a55449a8e4cf3247cc497a2961d3e8dac9186714b1e2a6b93dfeebcfeb5fe1f2",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::14-The-Cardiac-Cycle"
+      ]
+    },
+    {
       "first_field_hash": "9f462e7f45805ac706e78d6195f5b6d2c78abfd5c59247515afba95764bd8ec2",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::14-The-Cardiac-Cycle"
@@ -4667,6 +4706,48 @@
       ]
     },
     {
+      "first_field_hash": "f07ae22fa51b4b16efb8a3d6edcd7c6dee98e8de0eef73db9df7012fc3677794",
+      "tags": [
+        "JerryShen_AnKing_Tags::POM-3::Clinical-Reasoning::Approach-to-Syncope"
+      ]
+    },
+    {
+      "first_field_hash": "93aa51780d0517f9938241ff00801a882b1245bfba32e478be8ad904d8a036ab",
+      "tags": [
+        "JerryShen_AnKing_Tags::POM-3::Clinical-Reasoning::Approach-to-Syncope"
+      ]
+    },
+    {
+      "first_field_hash": "19e0b92ca1b1587478f3ca9d940ba6f32bdff668bcc6eabdb4caca96a6a3b5ff",
+      "tags": [
+        "JerryShen_AnKing_Tags::POM-3::Clinical-Reasoning::Approach-to-Syncope"
+      ]
+    },
+    {
+      "first_field_hash": "58df3ea612bb4993b93449007add3161e1baa0dde4f7c5a2b3317f87a60268f8",
+      "tags": [
+        "JerryShen_AnKing_Tags::POM-3::Clinical-Reasoning::Approach-to-Syncope"
+      ]
+    },
+    {
+      "first_field_hash": "a4abc4cde53e9a7153d010693b27daa47c01f1866f06d0d2e5389e52a48402b9",
+      "tags": [
+        "JerryShen_AnKing_Tags::POM-3::Clinical-Reasoning::Approach-to-Syncope"
+      ]
+    },
+    {
+      "first_field_hash": "ca10856e0cc3a0ae32cdfeadd2981beb7f05044ac6a041ff6fc87612464aa4ac",
+      "tags": [
+        "JerryShen_AnKing_Tags::POM-3::Clinical-Reasoning::Approach-to-Syncope"
+      ]
+    },
+    {
+      "first_field_hash": "8bda181cad2328d3284420b2860f00893a492216f176cfce53115eed6bd978e5",
+      "tags": [
+        "JerryShen_AnKing_Tags::POM-3::Clinical-Reasoning::Approach-to-Syncope"
+      ]
+    },
+    {
       "first_field_hash": "ac590e474574dd4dee6c224ea42f3308c546e35df60fb8f51e01e1b948df5e33",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::11-Pathology-of-Cardiomyopathy-and-Myocarditis"
@@ -4731,6 +4812,12 @@
       "first_field_hash": "959f1d5a8a0e27a5ab6da0167ce4bbc8a9b6f7f6859ca41e24be2dbcc4673be0",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::15-Pathophysiology-&-Treatment-of-Heart-Failure"
+      ]
+    },
+    {
+      "first_field_hash": "8abb126fa8479ebf2a5c0a335803e92eda99385f1524831d5a14358b07a35596",
+      "tags": [
+        "JerryShen_AnKing_Tags::POM-3::Clinical-Reasoning::Approach-to-Syncope"
       ]
     },
     {
@@ -4815,7 +4902,25 @@
       ]
     },
     {
+      "first_field_hash": "178fc35c257d1fc8ff11da9e1692361827fb54274d1647af6e71058d74c54999",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::09-Supraventricular-Tachycardia-&-Antiarrhythmics"
+      ]
+    },
+    {
       "first_field_hash": "dd4ab25d0011c024171c1cd7515f04f3c64a877a3aeb9b18e4b7f9ab5b646dd8",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::09-Supraventricular-Tachycardia-&-Antiarrhythmics"
+      ]
+    },
+    {
+      "first_field_hash": "f844fc03163f3de048a441843b95be963d63835ae09ce3361e77ef609079a24b",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::09-Supraventricular-Tachycardia-&-Antiarrhythmics"
+      ]
+    },
+    {
+      "first_field_hash": "a1508aeddd1fcb35370a6b79feb3b10bca7b42df74f97557b1b19a6afd5b8e39",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::09-Supraventricular-Tachycardia-&-Antiarrhythmics"
       ]
@@ -4841,7 +4946,14 @@
     {
       "first_field_hash": "8c49a7261234f1cb30160ed6f2d514aa1ef4bbbcd8893d0b3df190b6861a148a",
       "tags": [
-        "JerryShen_AnKing_Tags::Micro-Pharm::Exam-2::09-Misc-Antimicrobials-&-Skin-Infections::Class-Content"
+        "JerryShen_AnKing_Tags::Micro-Pharm::Exam-2::09-Misc-Antimicrobials-&-Skin-Infections::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::09-Supraventricular-Tachycardia-&-Antiarrhythmics"
+      ]
+    },
+    {
+      "first_field_hash": "54698f67fc65f6dc1e9287066ccb60a299ec30cd7818e3167b34bee316ca5833",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::09-Supraventricular-Tachycardia-&-Antiarrhythmics"
       ]
     },
     {
@@ -4852,6 +4964,18 @@
     },
     {
       "first_field_hash": "8730978b600c5563e505906e555ca3ece9c05eb24c398bab41a43fca07118171",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::09-Supraventricular-Tachycardia-&-Antiarrhythmics"
+      ]
+    },
+    {
+      "first_field_hash": "c3e1ce7b934ea0756e91732966e92d01c1b71ac86b28d1c7c19419a42e1d4dfc",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::09-Supraventricular-Tachycardia-&-Antiarrhythmics"
+      ]
+    },
+    {
+      "first_field_hash": "3e18a61b15dadeb5f4b87136aa36062be83761423801ecf7b25ab579acb6fdb7",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::09-Supraventricular-Tachycardia-&-Antiarrhythmics"
       ]
@@ -4908,6 +5032,12 @@
       ]
     },
     {
+      "first_field_hash": "e0586702c249cb207d417eee3a78ad030f0cd816553016379b4967b10745f823",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::09-Supraventricular-Tachycardia-&-Antiarrhythmics"
+      ]
+    },
+    {
       "first_field_hash": "f049d0d9b0ba9f654345082dca137467b651c9fe31c6e490bd9ac41f78b49fed",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::09-Supraventricular-Tachycardia-&-Antiarrhythmics::Class-Content"
@@ -4919,6 +5049,18 @@
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::03-The-Cardiac-Action-Potential",
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::03-The-Cardiac-Action-Potential::Class-Content",
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::09-Supraventricular-Tachycardia-&-Antiarrhythmics::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "a1201138bbb218b31d693a25e6b655bcfe303330651df594810d797a045d122c",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::09-Supraventricular-Tachycardia-&-Antiarrhythmics"
+      ]
+    },
+    {
+      "first_field_hash": "30f9c6879e8e8c0ea2a3fa97233f75cb87164f8ce822c6900ea32fc77ba98e74",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::09-Supraventricular-Tachycardia-&-Antiarrhythmics"
       ]
     },
     {
@@ -4948,6 +5090,24 @@
       ]
     },
     {
+      "first_field_hash": "407de13f8a40e0d8488b50a78f861781fc8ef61925cb1f1fa5ccd85ff6acd7fd",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::09-Supraventricular-Tachycardia-&-Antiarrhythmics"
+      ]
+    },
+    {
+      "first_field_hash": "c56717aa1473541b6e00bc3d03c792a3041b2de3aac2fa6d5d58b7224358fe56",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::09-Supraventricular-Tachycardia-&-Antiarrhythmics"
+      ]
+    },
+    {
+      "first_field_hash": "f0c5942b42f0e41a4004f0134b8547b6818d2de2e6abca9bba7407c2bc724d42",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::09-Supraventricular-Tachycardia-&-Antiarrhythmics"
+      ]
+    },
+    {
       "first_field_hash": "f51b515967be987be8ddbf4553f2e81accf62dd9aa1c10ad2e2f0521c0d2fa9a",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::09-Supraventricular-Tachycardia-&-Antiarrhythmics",
@@ -4956,6 +5116,12 @@
     },
     {
       "first_field_hash": "35e3d297eb6c7c2375ae84d1515f6950aeaa8b065e4ad90d4ee256b1a1f34f34",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::09-Supraventricular-Tachycardia-&-Antiarrhythmics"
+      ]
+    },
+    {
+      "first_field_hash": "9589e2455ebe2b7fc21f32f1cd7b1b22f54c2fc54008e63e9a70feb37499709c",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::09-Supraventricular-Tachycardia-&-Antiarrhythmics"
       ]
@@ -5475,7 +5641,9 @@
     {
       "first_field_hash": "951e00d43c4c7fb76dcf63524cc2dcdf7e5b4fb841b32d791e30390d6ba8eafb",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::05-The-Normal-ECG"
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::05-The-Normal-ECG",
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::05-The-Normal-ECG::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::07-Slow-Rhythm-Arrhythmias::Class-Content"
       ]
     },
     {
@@ -6679,6 +6847,13 @@
       ]
     },
     {
+      "first_field_hash": "16beee49cb3ad8e459a56dd227c608cb1ebe976e461df92b6e040560d60a9ae5",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::08-Pulmonary-Mechanics",
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::19-ARDS-&-Ventilators"
+      ]
+    },
+    {
       "first_field_hash": "745843fcdd0e3a98478ef6857557a70383ad0959b2fa918c92bbd2131ed6056c",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::08-Pulmonary-Mechanics::Class-Content"
@@ -6704,6 +6879,12 @@
     },
     {
       "first_field_hash": "fcaff5c96020847b7696b8e43cd6e8e175d40cc6a71fa1d4815375260261470c",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::08-Pulmonary-Mechanics"
+      ]
+    },
+    {
+      "first_field_hash": "91bbfa0518556206d068faf4154a2d8598eeb7ee0698666283037607df7c7ee7",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::08-Pulmonary-Mechanics"
       ]
@@ -7415,6 +7596,18 @@
       ]
     },
     {
+      "first_field_hash": "ba780be1cad8432e65b27da56e6b4448c62ef723f741f8f6b74441f641f4aac7",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::02-Pulmonary-Circulation"
+      ]
+    },
+    {
+      "first_field_hash": "b52268ae282291a12cae2350c59e840dbf8393b253101396df92dbf9b7c867fd",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::03-Ventilation-and-Diffusion"
+      ]
+    },
+    {
       "first_field_hash": "859a300a86e9d67cf8e7f49949ac6899a736f07d1f7d70a41711bb50fa29799d",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::02-Pulmonary-Circulation",
@@ -8044,6 +8237,25 @@
       ]
     },
     {
+      "first_field_hash": "04ab3ec3ea256c06afdc4a2f7c375947d0c2ef5c46fc396729a0abea2d95be52",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::20-Interstitial-Lung-Disease::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "1c042c3e1c3c5c4ad19141bc595df4faddfc0aab10aba870f2dfd8345d4f10c3",
+      "tags": [
+        "JerryShen_AnKing_Tags::POM-3::Clinical-Reasoning::Approach-to-Cough"
+      ]
+    },
+    {
+      "first_field_hash": "44b8d3a11873d656f22de6f03194a4faf18b59c031921528d45d713c8c33afe3",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::20-Interstitial-Lung-Disease",
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::20-Interstitial-Lung-Disease::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "b8f97be2fd1591ca4ee51cab21f985edfd99171fe7d23340f37d678a44ee69bb",
       "tags": [
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-2::07-β-Lactam-Antibiotics-&-Parasites"
@@ -8086,6 +8298,12 @@
       ]
     },
     {
+      "first_field_hash": "2eea14cc3a96272db831f129e61816b0dde6d90dca05ba01162706bdabb6730e",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::17-Chest-Imaging-II"
+      ]
+    },
+    {
       "first_field_hash": "43cd660973adbd0802e569b965c4ecd314a194c724340708fe2a358a7ad8b78e",
       "tags": [
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-2::08-Other-Antibiotics-&-Mycobacteria::Class-Content"
@@ -8107,6 +8325,12 @@
       "first_field_hash": "242460d1e3ced60e06b9bf9c7fe3e6afb7c81d5ddd1bf41369278d7bf44e5710",
       "tags": [
         "JerryShen_AnKing_Tags::Cancer-Biology::Final::Optional-Histology-Lecture"
+      ]
+    },
+    {
+      "first_field_hash": "d1a72918d0626a7081a4c1cfff25f5b6063d40b67b5fc86570b641e35d0d86ea",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::22-Fungal-&-TB-Infections"
       ]
     },
     {
@@ -8547,6 +8771,12 @@
       ]
     },
     {
+      "first_field_hash": "0114adae22a6b0e33150976f836617d7389e337833b40b48b3a215020542b3c5",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::20-Interstitial-Lung-Disease"
+      ]
+    },
+    {
       "first_field_hash": "1b2bcf2471087492e5015c5157d7a45f0547b7c2578a0f67247098cccffb6f2a",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::07-Pulmonary-Function-Testing"
@@ -8565,21 +8795,43 @@
       ]
     },
     {
+      "first_field_hash": "74730a8c82eac25c625c6e66c9630d51b10b1d7da711f558bc748f0ddfd4df5b",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::20-Interstitial-Lung-Disease",
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::21-Pathology-of-ILD"
+      ]
+    },
+    {
       "first_field_hash": "17723ed07d3d6d845bee03039344dc0ea3d5d4774ff64ecf80798b371a006924",
       "tags": [
         "JerryShen_AnKing_Tags::POM-3::Clinical-Reasoning::Advanced-Pulmonary-Exam::Class-Content"
       ]
     },
     {
+      "first_field_hash": "69fb9cffdd11b4e3ea02385eed3284cd85fd83046088a003cd3047cd872592d3",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::20-Interstitial-Lung-Disease::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "467ca80d048fd22fd6e975d3e13412b42217767b4e7ec28b5c5885fdc4725472",
       "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::20-Interstitial-Lung-Disease::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::21-Pathology-of-ILD::Class-Content",
         "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::Lung-Lab-1::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "4dbc377f9d9053f19b632a2295e21b5e0de74824120355419cf2436b9910492c",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::20-Interstitial-Lung-Disease"
       ]
     },
     {
       "first_field_hash": "1fcde623a0770434accb8d2589a4f4a9264007697f1c0a2014fd51341927c9e9",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::06-Intro-to-Lung-Histology::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::06-Intro-to-Lung-Histology::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::21-Pathology-of-ILD::Class-Content"
       ]
     },
     {
@@ -8591,19 +8843,59 @@
     {
       "first_field_hash": "08bec7fdd83dc5012bea72e7d4939c918ffe243b5ae9252178e820536581414e",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::06-Intro-to-Lung-Histology::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::06-Intro-to-Lung-Histology::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::21-Pathology-of-ILD::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "e9cbf590265cbb84bd63fa0e6bd29db2b124df9cebcf5c54119c2597789fcac4",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::21-Pathology-of-ILD::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "fd64d149b642abaf33d21e8d8da75dd60321eaf73549ecec4bb7206325825305",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::21-Pathology-of-ILD"
+      ]
+    },
+    {
+      "first_field_hash": "d24803822f9faafd29fafb8816bc071df402456340cf170bfaee5a058eb050aa",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::21-Pathology-of-ILD"
+      ]
+    },
+    {
+      "first_field_hash": "d88e8c429c2de7e33c55102c1a1425b69cbe4b8757175a708c029fcc188ac3ea",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::21-Pathology-of-ILD::Class-Content"
       ]
     },
     {
       "first_field_hash": "071074c0afa1545ddba4a2944ad2f4358daecbcb5ea488db84a6f15f263948d0",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::06-Intro-to-Lung-Histology::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::06-Intro-to-Lung-Histology::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::21-Pathology-of-ILD",
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::21-Pathology-of-ILD::Class-Content"
       ]
     },
     {
       "first_field_hash": "e1bb584d948d20132eadf667929786fd81cfbf25c7bd8c644f01cc647b563312",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::06-Intro-to-Lung-Histology"
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::06-Intro-to-Lung-Histology",
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::21-Pathology-of-ILD"
+      ]
+    },
+    {
+      "first_field_hash": "71dce92d72a5d6a8d21aa91acaacdceac3b91a62ac927ec0ea7b38e788e94d7d",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::21-Pathology-of-ILD"
+      ]
+    },
+    {
+      "first_field_hash": "02e54215dbc10b699c84dcd1ad97adde83d56d07ce50bea950e56ee5de73dca6",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::21-Pathology-of-ILD"
       ]
     },
     {
@@ -8615,82 +8907,173 @@
     {
       "first_field_hash": "e684847325eacf80a7bd90e6c280f6abba1ac205c89ecd31c5c1c72c42419d4a",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::06-Intro-to-Lung-Histology"
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::06-Intro-to-Lung-Histology",
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::21-Pathology-of-ILD"
       ]
     },
     {
       "first_field_hash": "ec49652dae03f6c3468c731ce8c5c5f831c393cdc59b9007dd33d622bfd25ae4",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::06-Intro-to-Lung-Histology"
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::06-Intro-to-Lung-Histology",
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::21-Pathology-of-ILD"
       ]
     },
     {
       "first_field_hash": "419ffc90da04b135dcc2c7084d8e22bd8b354ff10720c2ccd2bbb5079a0aebd6",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::06-Intro-to-Lung-Histology"
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::06-Intro-to-Lung-Histology",
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::21-Pathology-of-ILD"
+      ]
+    },
+    {
+      "first_field_hash": "ca762fd20de3c9d8020d2f2a9c2fb4140e1901d479f455de357a7ee7142fd979",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::21-Pathology-of-ILD"
       ]
     },
     {
       "first_field_hash": "a796a99c6025591415b1f552b1c6e48e52df9eb3d88dab8e78f308e85d3b32ac",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::06-Intro-to-Lung-Histology"
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::06-Intro-to-Lung-Histology",
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::21-Pathology-of-ILD"
+      ]
+    },
+    {
+      "first_field_hash": "8806b88d0d7117e0f96e0f4bc1fc925447d7fdba5763336e034ca1567fd60dd4",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::21-Pathology-of-ILD"
       ]
     },
     {
       "first_field_hash": "6b46b7205a5280bbd762f1a49ebb392e6f0bebb0d23365030bc2eccaccbd0362",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::06-Intro-to-Lung-Histology"
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::06-Intro-to-Lung-Histology",
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::21-Pathology-of-ILD::Class-Content"
       ]
     },
     {
       "first_field_hash": "2b40f87a678d12ffe53db4041e5f70adc239493d32f69b17f1c6cb95c109ca6e",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::06-Intro-to-Lung-Histology"
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::06-Intro-to-Lung-Histology",
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::21-Pathology-of-ILD"
       ]
     },
     {
       "first_field_hash": "8fc99b5f2ca242831a0f6cf074331df961d3db7030434703974da4466bf38bb9",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::06-Intro-to-Lung-Histology::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::06-Intro-to-Lung-Histology::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::21-Pathology-of-ILD::Class-Content"
       ]
     },
     {
       "first_field_hash": "7ee33273e69c54ba8a63dca7365bda398c0410d77835c64916be13cd6776faa7",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::06-Intro-to-Lung-Histology",
-        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::06-Intro-to-Lung-Histology::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::06-Intro-to-Lung-Histology::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::20-Interstitial-Lung-Disease::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "ec91c85dd4720e5df293c14c016dcb1c5948b98a4f5618130a58dc3f4a9380ec",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::21-Pathology-of-ILD::Class-Content"
       ]
     },
     {
       "first_field_hash": "85fd3c3c6fc753a2cf081126ce2209da2d603a7f2b058d52729d1d7a0a8114af",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::06-Intro-to-Lung-Histology::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::06-Intro-to-Lung-Histology::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::21-Pathology-of-ILD::Class-Content"
       ]
     },
     {
       "first_field_hash": "e3557ec158ea351edf72f8365172b0316dc6fd5e669257c0f892bcd33b5c1fd4",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::06-Intro-to-Lung-Histology",
-        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::06-Intro-to-Lung-Histology::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::06-Intro-to-Lung-Histology::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::21-Pathology-of-ILD::Class-Content"
       ]
     },
     {
       "first_field_hash": "eaceb8cf1ffd14acd7026c7b4f9f1f9bcaa4d85c4d4f151cbffe03617d234105",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::06-Intro-to-Lung-Histology"
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::06-Intro-to-Lung-Histology",
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::20-Interstitial-Lung-Disease::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "9d8d656d08e6eceb31f54ad01fa937eb571a6ec26759595186e72b76e89f0b94",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::20-Interstitial-Lung-Disease"
+      ]
+    },
+    {
+      "first_field_hash": "cc5782d9a0decb37c18f331541679a68796e29d8682804d0d95187a8c86c2c16",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::21-Pathology-of-ILD"
+      ]
+    },
+    {
+      "first_field_hash": "3aa5563a658c8a0eaebc5bda287ad98d177a33bfa75c8a47fa7a607636adfbad",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::20-Interstitial-Lung-Disease::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "f127c5534238506ec7c112c1e79a6181befafc0aedd087ee96d2017ad32f3da1",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::20-Interstitial-Lung-Disease::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "ee0955b077f3862e2d6165cac40dd53481c44987e6f9c6ad86d1f4efb9fdf0d5",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::20-Interstitial-Lung-Disease::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::21-Pathology-of-ILD::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "f13fba69f2ec2134c5a68099057450289fda4b53d227e9a9e6f03c5aed5b155b",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::20-Interstitial-Lung-Disease::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "bce9f1c8fffb1db92ba0082e79e62683dcc3975ee1d96999b3a5eee16fda6ecc",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::20-Interstitial-Lung-Disease::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::21-Pathology-of-ILD::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "3c695505d299a9e12318503aad72f5014021ec187b40c681a9e1a79b56ee2a98",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::20-Interstitial-Lung-Disease",
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::21-Pathology-of-ILD::Class-Content"
       ]
     },
     {
       "first_field_hash": "67568f4fa7706b675a2c9693c2541b7a64e9018c039394857f44733c23e190b9",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::06-Intro-to-Lung-Histology",
-        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::06-Intro-to-Lung-Histology::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::06-Intro-to-Lung-Histology::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::21-Pathology-of-ILD"
       ]
     },
     {
       "first_field_hash": "abcb71ae8b5c86045caef7779f13b722437e0d32a922581a838c1cc84ca33e64",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::06-Intro-to-Lung-Histology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "b53975a832e8597c423e7134c7c4d77f94ee58257930ec496a3843d177facadf",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::19-ARDS-&-Ventilators::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "8118be698c2d38aac87abe1bcccb1799e43da9bc07d05eb3c172f8f35b629af7",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::19-ARDS-&-Ventilators::Class-Content"
       ]
     },
     {
@@ -8702,7 +9085,8 @@
     {
       "first_field_hash": "354451a9e03a4f029abb8f56cd97f753ab6407ccdb660946b1faade5165dbc3b",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::06-Intro-to-Lung-Histology"
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::06-Intro-to-Lung-Histology",
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::19-ARDS-&-Ventilators"
       ]
     },
     {
@@ -8725,21 +9109,54 @@
       ]
     },
     {
+      "first_field_hash": "3e7cb26b3b541601a45ee8640bcb6fcd24adba45a010d1c31e7aa86e24a0d799",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::19-ARDS-&-Ventilators::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "26de65aabaa444252fbbd8f352d09baca6f3b527d47253aaf33d2b569da2bdda",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::06-Intro-to-Lung-Histology"
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::06-Intro-to-Lung-Histology",
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::19-ARDS-&-Ventilators"
       ]
     },
     {
       "first_field_hash": "201fd4a52673d26cbd0d83b70da59161c69268eefda0792cbc68143a06503054",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::06-Intro-to-Lung-Histology"
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::06-Intro-to-Lung-Histology",
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::19-ARDS-&-Ventilators"
+      ]
+    },
+    {
+      "first_field_hash": "ad516954c14b91438f3e55b504ca4a2efc8264004df76166806ae331c106a85f",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::19-ARDS-&-Ventilators"
+      ]
+    },
+    {
+      "first_field_hash": "040b1f1b83590f321e1cddb76726e4b29cf050ebf32eabeae89121c780e22970",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::19-ARDS-&-Ventilators"
+      ]
+    },
+    {
+      "first_field_hash": "886cba8cdf12ed88b6d104f6b55294e50a13795805503e26974b9d7da258c9ab",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::19-ARDS-&-Ventilators::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "4599be9abea45cc8675cdfb982c78e5856bdf590a895c0029599de04fe6c3599",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::19-ARDS-&-Ventilators"
       ]
     },
     {
       "first_field_hash": "049a42bce899d42a4853d5ad836291c64d8c2ae85dafdd4843b9fb70dc8c4fe2",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::01-Structure-and-Function-of-the-Lung::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::01-Structure-and-Function-of-the-Lung::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::19-ARDS-&-Ventilators::Class-Content"
       ]
     },
     {
@@ -8751,7 +9168,80 @@
     {
       "first_field_hash": "59696e498af069c627b188cb0ddb8fcb64acb47f1ea75e23f01cb304eb3b09a5",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::01-Structure-and-Function-of-the-Lung"
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::01-Structure-and-Function-of-the-Lung",
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::01-Structure-and-Function-of-the-Lung::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "8842eea0763eab5b61f703573fadf11421719c07c133fd5979d60e69ccb61d17",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::19-ARDS-&-Ventilators",
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::19-ARDS-&-Ventilators::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "0e9021394bc42cfbcfe2733334e11ef915182319534d00a4fa17386079527505",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::19-ARDS-&-Ventilators",
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::19-ARDS-&-Ventilators::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "4ddbbc70011d9baf47069863b88e1041ced219188a4d80af31e0bd4ff749e476",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::19-ARDS-&-Ventilators::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "cdeb9fd574603a79ea3466242452b1d17373faf1f1ddff0649dc7da58918a1ee",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::19-ARDS-&-Ventilators",
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::19-ARDS-&-Ventilators::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "ecfff9f3ac9f65b988f37e321e307e57676d8af66350e1b63c722564fe3b9acc",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::19-ARDS-&-Ventilators::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "81ed1c06e8b88b5acd84943861cec7cef7a7176d76876eae3c518471692570d2",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::19-ARDS-&-Ventilators::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "9f85006bdff228550db099a1d5a7e7e6312596343df0696f5c52a83b9bf0596d",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::19-ARDS-&-Ventilators"
+      ]
+    },
+    {
+      "first_field_hash": "000304be45c94e415066cf6c0a922a4a3c347258f68be93983034c9a84457c77",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::19-ARDS-&-Ventilators",
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::19-ARDS-&-Ventilators::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "ca6bfb60ec2955b1e1c27d3fb317ea76331fec76f9c5ff53d9c7e21e572c7dcb",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::19-ARDS-&-Ventilators",
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::19-ARDS-&-Ventilators::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "66fd8572043453c30231ad55cbe1edd0aebb681447cb19153932d557b39f2ccc",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::19-ARDS-&-Ventilators",
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::19-ARDS-&-Ventilators::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "ad780968836ac09cef3bcbec47eb9886b8207eb7d99d70320fae7acf286701dd",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::19-ARDS-&-Ventilators::Class-Content"
       ]
     },
     {
@@ -8768,6 +9258,12 @@
       ]
     },
     {
+      "first_field_hash": "9d2bd93fae0c7e4388dd684c857fa29a63c9c7d3628ea9f9500817abacc49f7f",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::19-ARDS-&-Ventilators"
+      ]
+    },
+    {
       "first_field_hash": "1e1d1d6859a1ab6fba2a0bcf708f7ba10eaeb9d1fc65dfd6ef601436b8ec9f4f",
       "tags": [
         "JerryShen_AnKing_Tags::Cancer-Biology::Final::03-Intro-to-Cancer-Biology::Class-Content"
@@ -8777,6 +9273,12 @@
       "first_field_hash": "a47de944795ee9f3b5608850964775bc901b148ef3c356826a0bd48b3eb91b9d",
       "tags": [
         "JerryShen_AnKing_Tags::POM-3::Clinical-Reasoning::Advanced-Pulmonary-Exam::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "198500fb4f1320d09055e39f291e5049a3b332127c55b401157e2aa095e084d5",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::17-Chest-Imaging-II"
       ]
     },
     {
@@ -9944,6 +10446,30 @@
       ]
     },
     {
+      "first_field_hash": "77112866243d29f4732b6cd065cf4f1085658ee2e458e746d0ec0c4b9497723d",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::19-ARDS-&-Ventilators::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "70330532ee5f5637551cd43b401c851e509a083a143603267b312f9f24f0ca39",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::20-Interstitial-Lung-Disease::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "3721012c3b6c119468e464fca8605475c4c5ffd5dc3d0da64440400149f6f59c",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::20-Interstitial-Lung-Disease"
+      ]
+    },
+    {
+      "first_field_hash": "17fefd15e1984e558ba0c7a342a24e5efa26a9453ef4b0808c6a3c3e24dee7c0",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::08-Pulmonary-Mechanics"
+      ]
+    },
+    {
       "first_field_hash": "faa1e912392f5548477c225ac6a318ddf71b9438eece45949022af2c579f147c",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::07-Pulmonary-Function-Testing::Class-Content"
@@ -9984,6 +10510,12 @@
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::01-Structure-and-Function-of-the-Lung::Class-Content",
         "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::16-Lower-Respiratory-Infections::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "2dc5c435b3b1c84e9adca2e479bd0292e6fc5e32715f0a9f5fe0695db6cfb8f2",
+      "tags": [
+        "JerryShen_AnKing_Tags::POM-3::Clinical-Reasoning::Approach-to-Cough"
       ]
     },
     {
@@ -10803,6 +11335,12 @@
       ]
     },
     {
+      "first_field_hash": "da2a11957c01de48bb830f5cd0b7b638695364cf63c5a6955b0ba62faf4d513d",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::15-Pathophysiology-&-Treatment-of-Heart-Failure"
+      ]
+    },
+    {
       "first_field_hash": "cca8a4493ff38191e4577b194e36b508b0e8cb049e461fc10294f985bfe5c52d",
       "tags": [
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-1::01-Intro-to-Pharmacodynamics::Class-Content"
@@ -11180,6 +11718,12 @@
       "first_field_hash": "54f0d8c327394a7bd55c2be15e41088f45d374cad1e698053b625c0a84f9c8ad",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::10-Autonomic-Physiology-and-Pharmacology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "95438230afd89bf9faa826cee43edb5f71d75fb5da19194044b6b1f1dea7cadd",
+      "tags": [
+        "JerryShen_AnKing_Tags::POM-3::Clinical-Reasoning::Approach-to-Syncope"
       ]
     },
     {
@@ -13295,6 +13839,18 @@
       ]
     },
     {
+      "first_field_hash": "4430e5b124c7180731ce2420719c20952551eeae6595b6e45498a1486abe4c47",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::10-Autonomic-Physiology-and-Pharmacology"
+      ]
+    },
+    {
+      "first_field_hash": "53afe9fca70425895bd55c739cb70e4e65dfb2ee4c2a36989cb9175fd62b58ed",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::10-Autonomic-Physiology-and-Pharmacology"
+      ]
+    },
+    {
       "first_field_hash": "88100925c8a1d49922d975a63b1e96f1e2474427def65feedf9f70b5c9c248ee",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::10-Autonomic-Physiology-and-Pharmacology::Class-Content"
@@ -13302,6 +13858,42 @@
     },
     {
       "first_field_hash": "917c43a51bffd2239bdf0903e738319fdd338e856e5820853b4d2d990b44a7db",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::10-Autonomic-Physiology-and-Pharmacology"
+      ]
+    },
+    {
+      "first_field_hash": "114f0a48e03e2ebdee0f0275b0ef1c20415cee8f674d93fa3c9e2df3eb2578f6",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::10-Autonomic-Physiology-and-Pharmacology"
+      ]
+    },
+    {
+      "first_field_hash": "3a2f8495add0954e77e7ce200f6185c92c6359b0e41718ea0836c33810554c1f",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::10-Autonomic-Physiology-and-Pharmacology"
+      ]
+    },
+    {
+      "first_field_hash": "06a4655b72b1cf1775d6995fe7e35b5e494a465f266632a00dab8672c8f775b3",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::10-Autonomic-Physiology-and-Pharmacology"
+      ]
+    },
+    {
+      "first_field_hash": "b448822ce9d4cd0aae7704a1c80307c69d522696ca005eeb90927c90b497cebe",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::10-Autonomic-Physiology-and-Pharmacology"
+      ]
+    },
+    {
+      "first_field_hash": "7546b81eba5af3dec505fe8b255504197066b1eaa07375e01ce4f0608f0196c5",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::10-Autonomic-Physiology-and-Pharmacology"
+      ]
+    },
+    {
+      "first_field_hash": "46cbe7d089acede5a08a2e2743fe2f85d5352457a9ec1aade9316d9ce280263f",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::10-Autonomic-Physiology-and-Pharmacology"
       ]
@@ -13361,6 +13953,36 @@
       "first_field_hash": "3f7d76d04c015c65899b7a31b0e712db0578b1ad79b2eccd0b06c7560a4bb1a7",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::10-Autonomic-Physiology-and-Pharmacology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "0dd43535b4d9de11c4b73e68dba21b21ac590f81361651cda37a0c3724133ca6",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::10-Autonomic-Physiology-and-Pharmacology"
+      ]
+    },
+    {
+      "first_field_hash": "8103941484cf5d08ed7007e21ab40b9b8685e4d7378069e41088ee8416c68fea",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::10-Autonomic-Physiology-and-Pharmacology"
+      ]
+    },
+    {
+      "first_field_hash": "b3fe7db6f0be4ecba5582168be79293c4193395ffa588f68517839a3109b935d",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::10-Autonomic-Physiology-and-Pharmacology"
+      ]
+    },
+    {
+      "first_field_hash": "c8afdfe290d6b8d27693ef76377b7d91c7edabce01841f89d331dc02e81cf42f",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::10-Autonomic-Physiology-and-Pharmacology"
+      ]
+    },
+    {
+      "first_field_hash": "14338edc886443c7347b9541aae982ff824612f86e7d63743bf01091797ab682",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::10-Autonomic-Physiology-and-Pharmacology"
       ]
     },
     {
@@ -13454,6 +14076,12 @@
       ]
     },
     {
+      "first_field_hash": "645bf19d7d58fd41ff37fdfc5e741f1bee62e23648c93c0bad586b6336a89587",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::10-Autonomic-Physiology-and-Pharmacology"
+      ]
+    },
+    {
       "first_field_hash": "930be85f21596169bc313c126d472b5662bec0b74fe51652b7962d9c952b5126",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::10-Autonomic-Physiology-and-Pharmacology::Class-Content"
@@ -13495,6 +14123,19 @@
       ]
     },
     {
+      "first_field_hash": "4643bb696a0060d5d3aa131fb21892db7fb6ef4a35f32cc6e35320bb139158f0",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::10-Autonomic-Physiology-and-Pharmacology"
+      ]
+    },
+    {
+      "first_field_hash": "2f4f559289c1bff7d6d2ca97093776d402309ab2c0bed0033d1a65a1b5860479",
+      "tags": [
+        "JerryShen_AnKing_Tags::POM-3::Clinical-Reasoning::Approach-to-Syncope",
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::10-Autonomic-Physiology-and-Pharmacology"
+      ]
+    },
+    {
       "first_field_hash": "8d5209c8b3dc210db90011b7da37820b49d34a71565ca6e37b871380b2c2dbbc",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::07-Slow-Rhythm-Arrhythmias",
@@ -13532,6 +14173,12 @@
     },
     {
       "first_field_hash": "295db85c373de425e29c11873fb70eae96ed7d7e81d6c9b41112bd54c859dc10",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::10-Autonomic-Physiology-and-Pharmacology"
+      ]
+    },
+    {
+      "first_field_hash": "f7bb8b7fb9d39de91f79cd4c37ebb03824f1ec1dfe6adc4f8e1681d470022eaa",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::10-Autonomic-Physiology-and-Pharmacology"
       ]
@@ -13987,6 +14634,12 @@
       "first_field_hash": "29dd56f7bc4ae50347f313acac5514e486fca8304c0006fd9cc67508a578c6a0",
       "tags": [
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-2::07-β-Lactam-Antibiotics-&-Parasites::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "d29936bd3998c1d6d301ef35ce5debb4a714dcf8d78a23549f51b3401b898994",
+      "tags": [
+        "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-2-Upper-Limb::Histology::Class-Content"
       ]
     },
     {
@@ -17754,6 +18407,12 @@
       ]
     },
     {
+      "first_field_hash": "faa3fa32ef139eaf804a63dcd8fa35e035ce566c1f157571ab57b4d8409276b3",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::10-Autonomic-Physiology-and-Pharmacology"
+      ]
+    },
+    {
       "first_field_hash": "60aa4c06e250bb276f7f4835b024a47d0e954bb769667deb9e53ac077fc55a99",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::10-Autonomic-Physiology-and-Pharmacology::Class-Content"
@@ -18846,6 +19505,18 @@
       ]
     },
     {
+      "first_field_hash": "69eb9aa353823d3006de03190a6c4b979837918d3fb6cbf5d0e0e3852ef3dcb5",
+      "tags": [
+        "JerryShen_AnKing_Tags::Neurobiology::Exam-3::Tutorial-7-Affective-and-Cognitive-Systems"
+      ]
+    },
+    {
+      "first_field_hash": "a83ca2738b4d258a08b322206d6f820d8cf7323c3f88c20387385c2ea3610b13",
+      "tags": [
+        "JerryShen_AnKing_Tags::POM-3::Clinical-Reasoning::Approach-to-Syncope"
+      ]
+    },
+    {
       "first_field_hash": "6bad6a9dbded2010ca11395b603d3aec1d6f9d17ec087d16e51eb874ee10fa16",
       "tags": [
         "JerryShen_AnKing_Tags::Neurobiology::Exam-2::Tutorial-1-Cerebrum::Class-Content"
@@ -19698,6 +20369,18 @@
       ]
     },
     {
+      "first_field_hash": "08c875294a7b7f717dff3b7ffd8d39fc7b279987424e352912c6d4b9eab192b2",
+      "tags": [
+        "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-3-Abdomen::Embryology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "d94f34f48c6aff046698d9294ead8775dd42ecfe1adf9a5f5cd8f8e7c1be1955",
+      "tags": [
+        "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-3-Abdomen::Embryology::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "e256f2595097ab5d6b163857d8d7f16b0b51f881c98e87abf0faf634be35b78d",
       "tags": [
         "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-3-Abdomen::Embryology::Class-Content"
@@ -19719,6 +20402,12 @@
       "first_field_hash": "75ab046d4d0900893d9821655f5e64001276c6bc4de4f6b132da4292fbec6d1e",
       "tags": [
         "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-3-Abdomen::Embryology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "d89e8d854562b62f57f58b243d0e96d1f6610cb5ed01235e81c9d22d9f83a1ba",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::19-ARDS-&-Ventilators::Class-Content"
       ]
     },
     {
@@ -21154,6 +21843,12 @@
       ]
     },
     {
+      "first_field_hash": "ed276432bfe6c5e5b5ec8591d6391d521c53c706ba2fe41fd6b2c3698bcbd6dc",
+      "tags": [
+        "JerryShen_AnKing_Tags::POM-1::Final::Psychiatry"
+      ]
+    },
+    {
       "first_field_hash": "281d8f5bdb41c37e8f0216c057d985d471ccb352fe13fef3740e83a0ee926a66",
       "tags": [
         "JerryShen_AnKing_Tags::POM-1::Final::Psychiatry::Class-Content"
@@ -21211,6 +21906,12 @@
       "first_field_hash": "c7573dc44c1a352948ae559f8d6d5cc3f58d790fc906df56fc98644da2941cea",
       "tags": [
         "JerryShen_AnKing_Tags::POM-1::Final::Psychiatry::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "edd989cdbb7aa7b380cf0d12b50ca1bafc4be46bcbfb542d50c682e1ff6d11e1",
+      "tags": [
+        "JerryShen_AnKing_Tags::POM-3::Clinical-Reasoning::Approach-to-Syncope"
       ]
     },
     {
@@ -21301,6 +22002,12 @@
       "first_field_hash": "e43a7aa46ba259b8cbff8c37f405935eff2b8f78eb9000eb8b588dedb765a06a",
       "tags": [
         "JerryShen_AnKing_Tags::POM-3::Psychiatry::Mood-Disorders"
+      ]
+    },
+    {
+      "first_field_hash": "74dda20971d8022bbe0123c1d13d937641785a8f7cad050da50ad5fac5307a37",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::09-Supraventricular-Tachycardia-&-Antiarrhythmics"
       ]
     },
     {
@@ -23636,7 +24343,8 @@
     {
       "first_field_hash": "746b885c9767479541c8acecc26e9a21fe80fd4e33023e27fddef023a31651cb",
       "tags": [
-        "JerryShen_AnKing_Tags::Immunology::Final::Immune-Deficiencies::Class-Content"
+        "JerryShen_AnKing_Tags::Immunology::Final::Immune-Deficiencies::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::21-Pathology-of-ILD::Class-Content"
       ]
     },
     {
@@ -23891,6 +24599,12 @@
       ]
     },
     {
+      "first_field_hash": "981fbef051297a0639f25c938db2168d29383fe1dcbafd7ff50c74c705712984",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::20-Interstitial-Lung-Disease"
+      ]
+    },
+    {
       "first_field_hash": "63ca01169527e4666286a26ac1e2ae5c10b61c1abf07dcfce069483fd7b0748e",
       "tags": [
         "JerryShen_AnKing_Tags::Cancer-Biology::Final::02-Cell-Injury-&-Death"
@@ -23942,6 +24656,12 @@
       "first_field_hash": "7237f1e084970c613a777e1d5cb548f2b30773a41994dae283bbe69817053ebf",
       "tags": [
         "JerryShen_AnKing_Tags::Biochemistry::Final::06-Nucleic-Acid-Metabolism"
+      ]
+    },
+    {
+      "first_field_hash": "5548803e5348fb34e7492f70c264ba67d80f3574238ab58f5545af44c189524d",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::20-Interstitial-Lung-Disease"
       ]
     },
     {
@@ -24009,6 +24729,12 @@
       "first_field_hash": "6799f58ee40a9c881d4eac52270ac523eaa2e1a27459f24f5b2b224debf44b8a",
       "tags": [
         "JerryShen_AnKing_Tags::Neurobiology::Exam-2::Lec-PNS-Disorders"
+      ]
+    },
+    {
+      "first_field_hash": "45b82953328c17b6a7048ca5a297ce6af3d41244d167044c8d8547fc0a18e6ac",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::20-Interstitial-Lung-Disease"
       ]
     },
     {
@@ -25385,6 +26111,12 @@
       ]
     },
     {
+      "first_field_hash": "419def1e3f4e7c383386f4b04c52e27112580b06991d28a197062e85267d3328",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::19-ARDS-&-Ventilators"
+      ]
+    },
+    {
       "first_field_hash": "b37d955e31925a4bf1cf1e04bca6f8dc57646f06c3643be6661be8bd96e6d5d9",
       "tags": [
         "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-2-Upper-Limb::Anatomy::Class-Content"
@@ -25716,6 +26448,18 @@
       ]
     },
     {
+      "first_field_hash": "fd33da9d2eb8aa720829aa52d9f24ac343d45af3ef6554973c22f25b5958ce34",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::19-ARDS-&-Ventilators"
+      ]
+    },
+    {
+      "first_field_hash": "07217fcd3f319530eff657c962d31e12755676202865b12718d3fe21f47ddbb7",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::19-ARDS-&-Ventilators"
+      ]
+    },
+    {
       "first_field_hash": "54e07ae618686175866910d7cf18422636339fbd2d6b36872c0fe3a7c56babfc",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::10-Airway-Obstruction::Class-Content"
@@ -25749,6 +26493,18 @@
       "first_field_hash": "bceb95bd224eb0440aee0ca742305a7c45a1b157c637404d0e0d818483150cb4",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::05-Ventilation-Perfusion-Relationships"
+      ]
+    },
+    {
+      "first_field_hash": "2afe1beb423f22cf4b34fec9509ee3b51ccc5a09286054af6b20bdca30be4acc",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::21-Pathology-of-ILD::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "ae9d9246dfaa6e7a7787153fc27634650615230e9b22f100120f64f9a3924cf6",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::20-Interstitial-Lung-Disease"
       ]
     },
     {
@@ -26185,6 +26941,37 @@
       ]
     },
     {
+      "first_field_hash": "949ca3dd8732e6df0a8e3bcf146f6f59c3e77001efa52e39ecf830fb30d318ae",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::19-ARDS-&-Ventilators"
+      ]
+    },
+    {
+      "first_field_hash": "bb5a82bce2049fb797b3f1fa1c1c29bbbd59cc02464cad5ed0e7af4f0cc14fb8",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::19-ARDS-&-Ventilators",
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::19-ARDS-&-Ventilators::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "926f66fd964f0a5ec0af20f2060d71779feac2a7a8c9801ded1d9324a5bbc104",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::19-ARDS-&-Ventilators"
+      ]
+    },
+    {
+      "first_field_hash": "c718f26aa60f039b755605ef7b2bf63a051511be37b4405cb37efc4e730c9e8f",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::19-ARDS-&-Ventilators"
+      ]
+    },
+    {
+      "first_field_hash": "fedde3eb649663406b680bf96e400064c7d22efd8c7fd429310390f60820d929",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::19-ARDS-&-Ventilators::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "f7479d1fd9056d1c1bd25402d92cb8e58475bb4cdc57557e9e4e0836f07c47a3",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::07-Pulmonary-Function-Testing"
@@ -26193,7 +26980,8 @@
     {
       "first_field_hash": "7bbfc950e02f93944d9cedc6dd719f87e5f8ca9354d6c04c704c3e26e382e9d7",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::16-Lower-Respiratory-Infections::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::16-Lower-Respiratory-Infections::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::22-Fungal-&-TB-Infections"
       ]
     },
     {
@@ -26206,6 +26994,12 @@
       "first_field_hash": "fff3b87435ade44c2883db0849b9ac32931bc383ce44f314b388aa8159d7a903",
       "tags": [
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-2::08-Other-Antibiotics-&-Mycobacteria"
+      ]
+    },
+    {
+      "first_field_hash": "c5527fd6242a6c2d1bc04537e77b7928d51b2794ddd876d193032b9d0752dffb",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::19-ARDS-&-Ventilators::Class-Content"
       ]
     },
     {
@@ -26242,6 +27036,12 @@
       "first_field_hash": "9762c8320106fc9d26970853f7276f5b2772cda0cb4db06d62ab4fccd07aa19b",
       "tags": [
         "JerryShen_AnKing_Tags::POM-3::Clinical-Reasoning::Advanced-Pulmonary-Exam"
+      ]
+    },
+    {
+      "first_field_hash": "7c71674982243f185e33ed5dc5082ee697c70c931465ea5252062c46952d01ef",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::05-Ventilation-Perfusion-Relationships"
       ]
     },
     {
@@ -26607,6 +27407,12 @@
       ]
     },
     {
+      "first_field_hash": "a6812e13fb24bb7ca5bdf889c81c0b9cf1da7d39fedfb572a676c908e2127fe9",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::09-Supraventricular-Tachycardia-&-Antiarrhythmics"
+      ]
+    },
+    {
       "first_field_hash": "086d503f030618a779693d2ff4db2649b1c678bade87e72617b9cf5be695446f",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::12-Myosin-and-Cardiac-Contractility"
@@ -26781,6 +27587,12 @@
       ]
     },
     {
+      "first_field_hash": "d507b41094b6f1ccdc5f97dd83af6ad01934fe3e56d88b8086342478d172625a",
+      "tags": [
+        "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-6-Head-&-Neck-1"
+      ]
+    },
+    {
       "first_field_hash": "3b2726aaf37024ed9e4a586267a181def2943c514088473129f8f573cac5833f",
       "tags": [
         "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-2-Upper-Limb::Histology::Class-Content"
@@ -26790,6 +27602,12 @@
       "first_field_hash": "8ad0b90da551304bb8cd8c52557408207efd47f57c06ff16eaea24d0e825b1d1",
       "tags": [
         "JerryShen_AnKing_Tags::POM-3::Clinical-Reasoning::Approach-to-Cough"
+      ]
+    },
+    {
+      "first_field_hash": "b02844f371b4891bbcc83533c0105ae4b44da586d9f4ad6169b9c85958059d1f",
+      "tags": [
+        "JerryShen_AnKing_Tags::POM-3::Clinical-Reasoning::Approach-to-Syncope"
       ]
     },
     {
@@ -26861,6 +27679,18 @@
       ]
     },
     {
+      "first_field_hash": "6eebcec5691c03256d51bd97636f4636fe6c848530ae0dfd0799e7d1e0b9e506",
+      "tags": [
+        "JerryShen_AnKing_Tags::POM-3::Clinical-Reasoning::Approach-to-Syncope::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "cd1a909cd3898887612148cec71a3f94968dff8ffc989de0a40f56855a7b47eb",
+      "tags": [
+        "JerryShen_AnKing_Tags::POM-3::Clinical-Reasoning::Approach-to-Syncope"
+      ]
+    },
+    {
       "first_field_hash": "71956904f695fb785b73c1b93ddb6513587197f6c8ded92811e9db38494c5bb8",
       "tags": [
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-1::05-Intro-to-Fungi::Class-Content"
@@ -26912,7 +27742,8 @@
     {
       "first_field_hash": "19af4874111eec96a5212c859a98474f1df99086d092f6042982360ae9ea7bfe",
       "tags": [
-        "JerryShen_AnKing_Tags::Micro-Pharm::Exam-1::05-Intro-to-Fungi"
+        "JerryShen_AnKing_Tags::Micro-Pharm::Exam-1::05-Intro-to-Fungi",
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::22-Fungal-&-TB-Infections::Class-Content"
       ]
     },
     {
@@ -26924,7 +27755,8 @@
     {
       "first_field_hash": "8c958e51baff1df3b6f7bf141aa875004a3e8731a59f4c0bdadb96728f1b1308",
       "tags": [
-        "JerryShen_AnKing_Tags::Micro-Pharm::Exam-1::05-Intro-to-Fungi"
+        "JerryShen_AnKing_Tags::Micro-Pharm::Exam-1::05-Intro-to-Fungi",
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::22-Fungal-&-TB-Infections::Class-Content"
       ]
     },
     {
@@ -26936,7 +27768,8 @@
     {
       "first_field_hash": "c8441dd73b83130c14f3ce405d92b8dbb00c2842adc87bf0add41aaaa2e583fc",
       "tags": [
-        "JerryShen_AnKing_Tags::Micro-Pharm::Exam-1::05-Intro-to-Fungi"
+        "JerryShen_AnKing_Tags::Micro-Pharm::Exam-1::05-Intro-to-Fungi",
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::22-Fungal-&-TB-Infections"
       ]
     },
     {
@@ -27590,7 +28423,8 @@
     {
       "first_field_hash": "13cfe9e6a17056db3b60cb43f6d9489cb3d4b42e95b28e3688b6cbd174496bfc",
       "tags": [
-        "JerryShen_AnKing_Tags::Micro-Pharm::Exam-1::05-Intro-to-Fungi::Class-Content"
+        "JerryShen_AnKing_Tags::Micro-Pharm::Exam-1::05-Intro-to-Fungi::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::22-Fungal-&-TB-Infections"
       ]
     },
     {
@@ -27639,13 +28473,15 @@
     {
       "first_field_hash": "a18a6b5098cde3a7989ae3587df84fe0e43590b5797b78e04cdbc34b066fdb05",
       "tags": [
-        "JerryShen_AnKing_Tags::Micro-Pharm::Exam-1::05-Intro-to-Fungi::Class-Content"
+        "JerryShen_AnKing_Tags::Micro-Pharm::Exam-1::05-Intro-to-Fungi::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::22-Fungal-&-TB-Infections::Class-Content"
       ]
     },
     {
       "first_field_hash": "351027bf005e02084749e8fe815f6259f6f80073360daa4c426892707a099954",
       "tags": [
-        "JerryShen_AnKing_Tags::Micro-Pharm::Exam-1::05-Intro-to-Fungi::Class-Content"
+        "JerryShen_AnKing_Tags::Micro-Pharm::Exam-1::05-Intro-to-Fungi::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::22-Fungal-&-TB-Infections::Class-Content"
       ]
     },
     {
@@ -27681,13 +28517,15 @@
     {
       "first_field_hash": "d57d5b351f1e1577d5663a5adf1c952f06c7ff0554b81890892502e37a662cde",
       "tags": [
-        "JerryShen_AnKing_Tags::Micro-Pharm::Exam-1::05-Intro-to-Fungi"
+        "JerryShen_AnKing_Tags::Micro-Pharm::Exam-1::05-Intro-to-Fungi",
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::22-Fungal-&-TB-Infections::Class-Content"
       ]
     },
     {
       "first_field_hash": "fbd9238a05676e289b976fb2f881147213cd3a1acfa1961f66f16710f4c6bfbd",
       "tags": [
-        "JerryShen_AnKing_Tags::Micro-Pharm::Exam-1::05-Intro-to-Fungi::Class-Content"
+        "JerryShen_AnKing_Tags::Micro-Pharm::Exam-1::05-Intro-to-Fungi::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::22-Fungal-&-TB-Infections::Class-Content"
       ]
     },
     {
@@ -27700,7 +28538,8 @@
       "first_field_hash": "006b25f48b711e487b3c2c70753e8798f9d1d37ac9ec59bfbf9e08f427f60eb7",
       "tags": [
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-1::05-Intro-to-Fungi::Class-Content",
-        "JerryShen_AnKing_Tags::Micro-Pharm::Exam-2::09-Misc-Antimicrobials-&-Skin-Infections::Class-Content"
+        "JerryShen_AnKing_Tags::Micro-Pharm::Exam-2::09-Misc-Antimicrobials-&-Skin-Infections::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::22-Fungal-&-TB-Infections::Class-Content"
       ]
     },
     {
@@ -27725,7 +28564,8 @@
       "first_field_hash": "e5fa5540b3d04604a1175324972d4491347561b9891a1ab52bc3f586e05db3ac",
       "tags": [
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-1::05-Intro-to-Fungi",
-        "JerryShen_AnKing_Tags::Micro-Pharm::Exam-1::05-Intro-to-Fungi::Class-Content"
+        "JerryShen_AnKing_Tags::Micro-Pharm::Exam-1::05-Intro-to-Fungi::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::22-Fungal-&-TB-Infections::Class-Content"
       ]
     },
     {
@@ -29591,6 +30431,12 @@
       ]
     },
     {
+      "first_field_hash": "33e79e062da9832beb4ec6ff1b1f62974677567b8b257bcfef08333e5fcf376a",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::22-Fungal-&-TB-Infections"
+      ]
+    },
+    {
       "first_field_hash": "f734615afbde936b3ff9e78b0a3b7f76d17e76970ce7ab515551fff93143aed3",
       "tags": [
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-2::07-β-Lactam-Antibiotics-&-Parasites"
@@ -29977,6 +30823,12 @@
       "first_field_hash": "f56cec3871451142d68dc67d71854a0e7d9e33b6daf37985caf2ea54eac242fd",
       "tags": [
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-2::07-β-Lactam-Antibiotics-&-Parasites::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "a8ad2f7f2900c042edbe3463e0da54d74d16ba76066577d0422f623089d457a7",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::20-Interstitial-Lung-Disease"
       ]
     },
     {
@@ -32670,6 +33522,12 @@
       ]
     },
     {
+      "first_field_hash": "5b25f73c06dc7db5e40b0961bf7136ab301b6a312a752d46df4c338b936ac558",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::20-Interstitial-Lung-Disease::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "4840666eab20cee86402c599eb2b68dbacd6531e732cb14dfa17ff7ee878232a",
       "tags": [
         "JerryShen_AnKing_Tags::Biochemistry::Final::06-Nucleic-Acid-Metabolism",
@@ -35232,6 +36090,12 @@
       ]
     },
     {
+      "first_field_hash": "7f6406ed56e803df7f6df0b123d57e0174a376f05c42f6a9313948fe61e715cb",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::19-ARDS-&-Ventilators::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "81b0d8b2e9020fcc201ed51d98a00d5b58de918f4c6f2513e9bc39987294f877",
       "tags": [
         "JerryShen_AnKing_Tags::Cancer-Biology::Final::Cancer-Screening::Class-Content"
@@ -35452,7 +36316,8 @@
     {
       "first_field_hash": "0512cfb89b6940690a9291bad2c29c27950aa6930fa8138fba2b82077088cb81",
       "tags": [
-        "JerryShen_AnKing_Tags::Micro-Pharm::Exam-2::09-Misc-Antimicrobials-&-Skin-Infections"
+        "JerryShen_AnKing_Tags::Micro-Pharm::Exam-2::09-Misc-Antimicrobials-&-Skin-Infections",
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::22-Fungal-&-TB-Infections::Class-Content"
       ]
     },
     {
@@ -37538,6 +38403,12 @@
       ]
     },
     {
+      "first_field_hash": "9313875145b76a2e9fb1630199fd5a45e252bd170e8f93b42a752f1ad07b08ef",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::09-Supraventricular-Tachycardia-&-Antiarrhythmics"
+      ]
+    },
+    {
       "first_field_hash": "4bdf803718d65eb29d916da407f17f436a7181d9fccc77a61b1f60270c43392e",
       "tags": [
         "JerryShen_AnKing_Tags::POM-1::Final::Epidemiology::Class-Content"
@@ -37571,6 +38442,12 @@
       "first_field_hash": "9b98dd30a4305a3870d9320e739a5043fcf7e84a9b561b278d9c73de452cf561",
       "tags": [
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-2::09-Misc-Antimicrobials-&-Skin-Infections::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "0420f45a5092caee2e86839cbcdaa516ab8f1428d45a222cddc69ecb2bbf058d",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::09-Supraventricular-Tachycardia-&-Antiarrhythmics"
       ]
     },
     {
@@ -37670,6 +38547,12 @@
       ]
     },
     {
+      "first_field_hash": "14d3e41299824f8ef575dbe50673f8c1d8e83eafd15f0e42075d2d418d0407cc",
+      "tags": [
+        "JerryShen_AnKing_Tags::POM-3::Clinical-Reasoning::Approach-to-Syncope"
+      ]
+    },
+    {
       "first_field_hash": "dc116585d9f2bac9791f04747ec6e8066c3440a3eaa464ca6ee3dbc145721f32",
       "tags": [
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-1::02-S.pyogenes-&-E.coli"
@@ -37711,7 +38594,8 @@
     {
       "first_field_hash": "89b7464cb96849d4720751f42788b1a71e3ff5e054b2be1317a9e466491b04db",
       "tags": [
-        "JerryShen_AnKing_Tags::POM-3::Clinical-Reasoning::Advanced-Pulmonary-Exam"
+        "JerryShen_AnKing_Tags::POM-3::Clinical-Reasoning::Advanced-Pulmonary-Exam",
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::20-Interstitial-Lung-Disease::Class-Content"
       ]
     },
     {
@@ -37724,6 +38608,13 @@
       "first_field_hash": "6b4e7c4b6c35934b6c8c9e882501d6b1d473bdef608b79df394935af29db7cb9",
       "tags": [
         "JerryShen_AnKing_Tags::POM-3::Clinical-Reasoning::Approach-to-Cough"
+      ]
+    },
+    {
+      "first_field_hash": "00874692c73b624f7a00e18192985d70c5712f7a6e7a1cbbe807d2fc81cd8bd8",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::20-Interstitial-Lung-Disease",
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::21-Pathology-of-ILD"
       ]
     },
     {
@@ -37760,6 +38651,12 @@
       "first_field_hash": "d151de24905e9649f1596a00d05cf0eb6ac5bdebc4e2aacd0fb4f4f947fd3d14",
       "tags": [
         "JerryShen_AnKing_Tags::POM-1::Final::Ethics::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "83fe132fdacb6662010f9f70da7b2ae803b0fd45d05d0858cf1bd214aad125b1",
+      "tags": [
+        "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-5-Lower-Limb::Anatomy::Class-Content"
       ]
     },
     {
@@ -37809,6 +38706,12 @@
       "first_field_hash": "6cc44422450674f72b2d1ac797d337864fe5156643a6bc2bbda712a81d2fe1d2",
       "tags": [
         "JerryShen_AnKing_Tags::Genetics::Exam-1::DNA-Replication-and-Repair"
+      ]
+    },
+    {
+      "first_field_hash": "282cfbb720f67eb1fc1a9ebe4f19ee9a3fac7da142de575f8d5c3d4159834a29",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::22-Fungal-&-TB-Infections"
       ]
     },
     {
@@ -37979,6 +38882,12 @@
       ]
     },
     {
+      "first_field_hash": "c98da496b6fe7a68820c8fbb309ba26728c29168c4028ca03eb5fd57b59e0c14",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::19-ARDS-&-Ventilators"
+      ]
+    },
+    {
       "first_field_hash": "b4a339a268828c3a3aec52a7dfe9c8e8f9c3125db3f2a6a67f8cd45a22974f03",
       "tags": [
         "JerryShen_AnKing_Tags::Neurobiology::Exam-3::Lec-Somatosensation-and-Pain"
@@ -38025,6 +38934,12 @@
       "first_field_hash": "fd7bf588955b1ab5507c376a7dd0d79a1142b8a94976fe8444471b34d9242e55",
       "tags": [
         "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-5-Lower-Limb::Anatomy::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "2b94301b051feff571ce7b02620065881f6363d86aa1b484cc3b4bb813f80ad4",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::01-Structure-and-Function-of-the-Lung"
       ]
     },
     {
@@ -38253,6 +39168,12 @@
       "first_field_hash": "432e7897fcee1e9a4bd7de5611dc4c5736f1809d8ad643aabe5b89cd22cfbd2e",
       "tags": [
         "JerryShen_AnKing_Tags::Genetics::Exam-1::Transcription-&-Translation"
+      ]
+    },
+    {
+      "first_field_hash": "8426c5fff40120a96e04a558a78d7b060953892f2a82132fb4d2b9bc6a910d6d",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::19-ARDS-&-Ventilators::Class-Content"
       ]
     },
     {
@@ -38571,6 +39492,12 @@
       ]
     },
     {
+      "first_field_hash": "74fd1e8b2adff5f7d0741b5fa517a5ef8ef7e9c0eebd96f05e6cc3f15634b46b",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::19-ARDS-&-Ventilators"
+      ]
+    },
+    {
       "first_field_hash": "0e38300eb8f0903de20905783e77fa3ea20e1bf185487487e1ffd9b1550b8b21",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::10-Autonomic-Physiology-and-Pharmacology"
@@ -38587,6 +39514,12 @@
       "first_field_hash": "767a6a15bd2d8cd4a9b765f583e977642a839fc95313cf462b3336ebe6b171ce",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::10-Autonomic-Physiology-and-Pharmacology"
+      ]
+    },
+    {
+      "first_field_hash": "e86ec37abbecaa8a400fabc61227051740f723d503381dba95b1bcb3e4ebe445",
+      "tags": [
+        "JerryShen_AnKing_Tags::POM-3::Clinical-Reasoning::Approach-to-Syncope"
       ]
     },
     {
@@ -38707,6 +39640,24 @@
       ]
     },
     {
+      "first_field_hash": "575c9a1e5f7dee38d16e412fa0807d91a141c9c9fb87596b74ef46fd31102c41",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::19-ARDS-&-Ventilators"
+      ]
+    },
+    {
+      "first_field_hash": "ac0ce45304357b499b6a41d3a1303278563cfc242e5270dc6a3080a3b12ff281",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::19-ARDS-&-Ventilators::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "a9d256ee39b1a3116efab981cbd28e096c18b3ae7e4f16f2e0b06b7130e04d05",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::19-ARDS-&-Ventilators"
+      ]
+    },
+    {
       "first_field_hash": "6bca69ad5049648dff9ee14e142861a47d862c4eb81acf7fe6ff0c30762ec8c3",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::01-Structure-and-Function-of-the-Lung::Class-Content"
@@ -38728,6 +39679,12 @@
       "first_field_hash": "90fb63561c764e41c3d6a0aca4dc66e9aac32bb243bff7ea1f27eee246f80dc3",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::17-Chest-Imaging-II"
+      ]
+    },
+    {
+      "first_field_hash": "5110973145135b6d6db5ceea9cc4309d10f1574cb355837a5328124ecb2faf12",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::19-ARDS-&-Ventilators::Class-Content"
       ]
     },
     {
@@ -38969,6 +39926,12 @@
       ]
     },
     {
+      "first_field_hash": "a2d7de0bb11ad80b9898ec20f0c3d64c06161adac7c5f7460ad430249c500779",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::19-ARDS-&-Ventilators"
+      ]
+    },
+    {
       "first_field_hash": "89808bee0a4cc0961318134a2bf94a3985d7d3653d7eda901a9b366f8b963830",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::12-Myosin-and-Cardiac-Contractility"
@@ -39088,6 +40051,12 @@
       "first_field_hash": "6f6bd707d6aa347a9d091f1d632de820a806172bfcdb892a3ff61c5fb894b93a",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::10-Autonomic-Physiology-and-Pharmacology"
+      ]
+    },
+    {
+      "first_field_hash": "c5f89dcbda1f8129c7a56746270240331a54bfb6a7194de3ee58ac6d5b4157df",
+      "tags": [
+        "JerryShen_AnKing_Tags::POM-3::Clinical-Reasoning::Approach-to-Syncope"
       ]
     },
     {
@@ -39438,6 +40407,12 @@
       ]
     },
     {
+      "first_field_hash": "144cfbbe70e1a9f486fd767cf145bb8e12a13fe077a6cb36eecee428215735d9",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::19-ARDS-&-Ventilators"
+      ]
+    },
+    {
       "first_field_hash": "611126fd4756f49a42486d12c6a9953e81d74fd1a8b78ebff88a6037f4e19457",
       "tags": [
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-1::04-Intro-to-Viruses"
@@ -39532,6 +40507,12 @@
       "first_field_hash": "ce0e6ab6c8c127664e3bc731212d8b23cdbce42441d84dfe7dd31129357c1de3",
       "tags": [
         "JerryShen_AnKing_Tags::Neurobiology::Exam-3::Tutorial-4-Thalamus-and-Sensory-Systems::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "2118c3a01174bdb18c798f2d7349cf7b67b1dd8ad2133b2bed360f0e195dbac1",
+      "tags": [
+        "JerryShen_AnKing_Tags::POM-3::Clinical-Reasoning::Approach-to-Syncope"
       ]
     },
     {
@@ -39723,6 +40704,12 @@
       "first_field_hash": "07a4a9f0a78c565355909a0c2dcbb0ff01aa68cbafe6a2362280114b9149cfd9",
       "tags": [
         "JerryShen_AnKing_Tags::Neurobiology::Exam-2::Tutorial-2-Spinal-Cord"
+      ]
+    },
+    {
+      "first_field_hash": "f13da224d56ab0df335145a84fa5558ddd25beaa3d7402e84258e28208ba5172",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::22-Fungal-&-TB-Infections"
       ]
     },
     {
@@ -39922,7 +40909,9 @@
     {
       "first_field_hash": "6541e985ff85baef1cd43dd6396441a566eb624f61e96a6da36ad98f76daf02a",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::07-Slow-Rhythm-Arrhythmias"
+        "JerryShen_AnKing_Tags::POM-3::Clinical-Reasoning::Approach-to-Syncope::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::07-Slow-Rhythm-Arrhythmias",
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::07-Slow-Rhythm-Arrhythmias::Class-Content"
       ]
     },
     {
@@ -39957,6 +40946,12 @@
       ]
     },
     {
+      "first_field_hash": "0ded547c95885b4a2fa022aad46dabc4742b4750fd8fd1ef702b8f120c1da98e",
+      "tags": [
+        "JerryShen_AnKing_Tags::POM-3::Clinical-Reasoning::Approach-to-Syncope"
+      ]
+    },
+    {
       "first_field_hash": "2026112909cb76d59de26921ea7b8c26ac5cca38b48c61b69aee9b60ebc7ba3e",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::07-Slow-Rhythm-Arrhythmias"
@@ -39979,6 +40974,12 @@
       "first_field_hash": "3576135661166794f6fb0f408071859742303aa2c431726f55d7b0ae82a145fa",
       "tags": [
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-1::03-C.diff-&-Pseudomonas::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "4a2d5dabed4785b0d5c85c6a48b4557ae6a3db590e79777d487e0617819cc529",
+      "tags": [
+        "JerryShen_AnKing_Tags::POM-3::Clinical-Reasoning::Approach-to-Cough"
       ]
     },
     {
@@ -40099,6 +41100,12 @@
       ]
     },
     {
+      "first_field_hash": "3929b1f3b4cd6b1267f2332417bb120b8e6b5610b9f11f8480e8ef67e161fb49",
+      "tags": [
+        "JerryShen_AnKing_Tags::POM-3::Clinical-Reasoning::Approach-to-Syncope"
+      ]
+    },
+    {
       "first_field_hash": "3caf8af3b08eccb5ae004e09d2036bbab149b67c4ca9f771065bc5242612e233",
       "tags": [
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-2::10-Biologics-Ectoparasites-&-Clinical-Cases"
@@ -40126,6 +41133,12 @@
       "first_field_hash": "8f35bc7bf8221aee3a4382cb8cc02d2860cdccec05f9bed7961a24a048cb484c",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::08-Fast-Rhythm-Arrhythmias"
+      ]
+    },
+    {
+      "first_field_hash": "12e4aed4b1ad2669f012c490d856c6f0ca5e4757229b8e6c386f06d62d4e7fb4",
+      "tags": [
+        "JerryShen_AnKing_Tags::POM-3::Clinical-Reasoning::Approach-to-Syncope"
       ]
     },
     {
@@ -40220,6 +41233,18 @@
       ]
     },
     {
+      "first_field_hash": "21e648633bfa57eb0440589563ac323ad9dcafa7bc6e497c478dd669fa8d3a77",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::19-ARDS-&-Ventilators::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "8590d296449f9d7be2f710bdcda0a5304570154053874635d3851e647ca6b19c",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::19-ARDS-&-Ventilators"
+      ]
+    },
+    {
       "first_field_hash": "574a92063590fe5b23e104be8f6b3bcb8eb5313fda6a3ff5482495c159a55536",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::07-Pulmonary-Function-Testing"
@@ -40244,9 +41269,22 @@
       ]
     },
     {
+      "first_field_hash": "f5bf8bd0ed7b698efeb1a14dbcd8aacc80e66134518f8cd6f679435a176c59d6",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::12-Pathology-of-Asthma-and-COPD"
+      ]
+    },
+    {
       "first_field_hash": "d99c7912cb5dbe8f8f001584c918a6ae3c1f9b2e920e81fcdb160d9c0afd3e7e",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::10-Airway-Obstruction"
+      ]
+    },
+    {
+      "first_field_hash": "692c5d9152c9f96f89c23adab79512d8a51f1ebc724a184b72c73ed8bc52054d",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::20-Interstitial-Lung-Disease",
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::20-Interstitial-Lung-Disease::Class-Content"
       ]
     },
     {
@@ -40418,6 +41456,12 @@
       ]
     },
     {
+      "first_field_hash": "3681d40402f722c6e758872c3334041d0340e507c5bc03bb4d2dbebda23e6c24",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::19-ARDS-&-Ventilators::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "cc5e89d385cc7dacad32fd0f0cee2f8cad85812dc89a6985be14df26b4a1078f",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::15-Upper-Respiratory-Infections::Class-Content"
@@ -40445,7 +41489,8 @@
       "first_field_hash": "bf013e0c267f7af13097ff7b642d1a00d92a801492b27e51edb9754e9e955ab6",
       "tags": [
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-1::05-Intro-to-Fungi",
-        "JerryShen_AnKing_Tags::Micro-Pharm::Exam-1::05-Intro-to-Fungi::Class-Content"
+        "JerryShen_AnKing_Tags::Micro-Pharm::Exam-1::05-Intro-to-Fungi::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::22-Fungal-&-TB-Infections"
       ]
     },
     {
@@ -40458,6 +41503,13 @@
       "first_field_hash": "43b04b7cbbcffb2d73ba1a546f82ae0389b27ddd913a80e05fab53afacf8e0fa",
       "tags": [
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-1::05-Intro-to-Fungi::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "85357ebb7a8e6b0131284f38c46b0d438c57c7376f1f48f9c817ad0addab6147",
+      "tags": [
+        "JerryShen_AnKing_Tags::Micro-Pharm::Exam-1::05-Intro-to-Fungi",
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::22-Fungal-&-TB-Infections"
       ]
     },
     {
@@ -40677,6 +41729,12 @@
       ]
     },
     {
+      "first_field_hash": "e0d5dba674624865a1d16b429d797b6c6c0cfc0daa3406bcdfd07f215f46dab0",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::19-ARDS-&-Ventilators"
+      ]
+    },
+    {
       "first_field_hash": "e91f00b4152bf2e086f287b6555677089a2da7171d8a13b008ee7ad189fd7e47",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::18-Cystic-Fibrosis"
@@ -40750,6 +41808,12 @@
       ]
     },
     {
+      "first_field_hash": "35f05cbcf248fb8c4c50746096bc62d27dbc1b1c7a209d5e22d2fe1f447324d4",
+      "tags": [
+        "JerryShen_AnKing_Tags::POM-3::Clinical-Reasoning::Approach-to-Syncope"
+      ]
+    },
+    {
       "first_field_hash": "250b88f71416b7578e94511773a9d5f4af22584f84b742888bf27a75e30129a2",
       "tags": [
         "JerryShen_AnKing_Tags::Biochemistry::Final::03-Lipid-Metabolism"
@@ -40800,15 +41864,45 @@
       ]
     },
     {
+      "first_field_hash": "8ec0b9665641be5e934d88a7be8c69bb7a75713c1f942f1b9daa1ba6ba8ef315",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::19-ARDS-&-Ventilators::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "3570b36d67d7d37fa96d490fbc65e0cc5bddb697b51550daa176b42a7d2af1da",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::16-Lower-Respiratory-Infections"
       ]
     },
     {
+      "first_field_hash": "3553bfcbc7b7f66ac39a939e92f3f8b1e9223ded412398e39a2c7eabf99466d0",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::20-Interstitial-Lung-Disease"
+      ]
+    },
+    {
+      "first_field_hash": "dde81923de8efcda05d3b58a43b6290536a8ac940bb13445c49ed5c65177dab7",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::20-Interstitial-Lung-Disease"
+      ]
+    },
+    {
+      "first_field_hash": "fd266d8054a5307ed5b92240337e6cfe2a87452fd8d974311aad0d3a60652c1a",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::20-Interstitial-Lung-Disease::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "054cb4b69e4ae7326550b289542cc1e25a1e90832afbe39bf0067d1141ed3677",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::06-Intro-to-Lung-Histology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "151c7eb276e807a577ee6241b339033d697ab42be48fc3a83d9c7512f8161089",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::19-ARDS-&-Ventilators::Class-Content"
       ]
     },
     {
@@ -40853,6 +41947,38 @@
       "first_field_hash": "d5af9345123e21b033c50e4d2290550d5b06e83a93ec9c172334ad0578c05f19",
       "tags": [
         "JerryShen_AnKing_Tags::Neurobiology::Exam-3::Tutorial-7-Affective-and-Cognitive-Systems"
+      ]
+    },
+    {
+      "first_field_hash": "fa6274dceb88f1893f70888d72aae9f649a000ebcfb8ec7ead881954db18a613",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::19-ARDS-&-Ventilators::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "24f9eaf8e5ad6b85d63441fff0bc4903c9070a5f3a02334adb2b82ab477dfcb8",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::19-ARDS-&-Ventilators",
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::19-ARDS-&-Ventilators::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "3bab882b41a9d18fea47df95d0b201f7f4d06cb855acedc58c5c278dbb2f8ba5",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::19-ARDS-&-Ventilators"
+      ]
+    },
+    {
+      "first_field_hash": "4815f0958d785b3d31bf6b2c768605f579f98161078b91ecd0706a61289fa9d7",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::19-ARDS-&-Ventilators"
+      ]
+    },
+    {
+      "first_field_hash": "0664887deb386d8a2d3f87f5238f4d82191ef5555a52209e9440195c50b9f00a",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::19-ARDS-&-Ventilators",
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::19-ARDS-&-Ventilators::Class-Content"
       ]
     },
     {
@@ -40999,7 +42125,9 @@
     {
       "first_field_hash": "fd66e87588cf3546b9549ec992f29fea4499ed8aed1206fb272a932117d7bd1e",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::06-Intro-to-Lung-Histology"
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::06-Intro-to-Lung-Histology",
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::20-Interstitial-Lung-Disease::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::21-Pathology-of-ILD::Class-Content"
       ]
     },
     {
@@ -41128,6 +42256,12 @@
       ]
     },
     {
+      "first_field_hash": "008b54930e6db83623894937b2c192d0f41a59828983db31eee68c5f2f0ce24d",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::22-Fungal-&-TB-Infections"
+      ]
+    },
+    {
       "first_field_hash": "e4a1412c1ffb65fbf0efbce467be9393aff3f8cd3059ce3ccf4a1a7a1d773982",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::11-Pathology-of-Cardiomyopathy-and-Myocarditis::Class-Content"
@@ -41226,6 +42360,12 @@
       ]
     },
     {
+      "first_field_hash": "97735c90db1727ef8fa56caa9407865affa1fc55ab9d72977882ecb724494d7f",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::20-Interstitial-Lung-Disease"
+      ]
+    },
+    {
       "first_field_hash": "1c64e35e8c308625c62c0a3df4241ebbe861a92ac0a84f4b1b8bdcd0ec2a625a",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::14-Lung-Pharmacology::Class-Content"
@@ -41252,6 +42392,12 @@
       ]
     },
     {
+      "first_field_hash": "5f097a288a9675687fc5f6d58859cffb9669bdb71e053be33466e07402d65fe4",
+      "tags": [
+        "JerryShen_AnKing_Tags::POM-3::Clinical-Reasoning::Approach-to-Syncope"
+      ]
+    },
+    {
       "first_field_hash": "b77f7887100bad698776017e5ab628fcfcc591a9dc3d283c48f9db20ca28c4cb",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::16-Lower-Respiratory-Infections::Class-Content"
@@ -41260,7 +42406,8 @@
     {
       "first_field_hash": "4f2247c0776a5254f56ca1703bcba6c6f9c72873bfce9843778a366353ac570b",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::14-Lung-Pharmacology"
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::14-Lung-Pharmacology",
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::20-Interstitial-Lung-Disease"
       ]
     },
     {
@@ -41297,7 +42444,8 @@
       "first_field_hash": "c89337cafff9c311e2ffb65f474e1cd6ce2f2211fe3a69a2f2e0c66793c0eede",
       "tags": [
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-1::05-Intro-to-Fungi",
-        "JerryShen_AnKing_Tags::Micro-Pharm::Exam-1::05-Intro-to-Fungi::Class-Content"
+        "JerryShen_AnKing_Tags::Micro-Pharm::Exam-1::05-Intro-to-Fungi::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::22-Fungal-&-TB-Infections::Class-Content"
       ]
     },
     {
@@ -41320,6 +42468,12 @@
       ]
     },
     {
+      "first_field_hash": "7fd94da51644351346ff01e6d7f48ebb864d11a20b1e5fc2903184591d638930",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::19-ARDS-&-Ventilators"
+      ]
+    },
+    {
       "first_field_hash": "f3e47516cb435045dfff5c4aff6c836bfc4de65f17a96642dc2d2cac13f92e67",
       "tags": [
         "JerryShen_AnKing_Tags::Biochemistry::Final::03-Lipid-Metabolism",
@@ -41330,6 +42484,12 @@
       "first_field_hash": "676de6fa4b59ce22b3ee4f80fe9b02f945bcc50d2798d268f160b358475410fe",
       "tags": [
         "JerryShen_AnKing_Tags::POM-3::Clinical-Reasoning::Advanced-Pulmonary-Exam"
+      ]
+    },
+    {
+      "first_field_hash": "9df88ee78321b4ea49462576ffcd7a710b5269c0050439872a1fed4463d4c2df",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::19-ARDS-&-Ventilators"
       ]
     },
     {
@@ -41466,9 +42626,28 @@
       ]
     },
     {
+      "first_field_hash": "642d3cd0acf5122397fcdce16c37af7e7e4124a3fb0eb3f14ced1108e69ccf5f",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::22-Fungal-&-TB-Infections"
+      ]
+    },
+    {
+      "first_field_hash": "a8f15f1dfed26d2b71385b9bdf475ba229d98717ba11c0e49aa50dccd86c4883",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::20-Interstitial-Lung-Disease"
+      ]
+    },
+    {
+      "first_field_hash": "02efee540b1b74083338cbe00eeac3f78000aac22a2356184d2f46f7f97f8beb",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::21-Pathology-of-ILD"
+      ]
+    },
+    {
       "first_field_hash": "4bffcea7d1463d52a1cac8c016546312ec99da6a0291b68f9d795aa0f178b237",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::06-Intro-to-Lung-Histology::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::06-Intro-to-Lung-Histology::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::21-Pathology-of-ILD::Class-Content"
       ]
     },
     {
@@ -41480,7 +42659,8 @@
     {
       "first_field_hash": "6d69b84f5162bbbb244084e16e3e529a24bcd22c46dac70c560f9d7f98827afc",
       "tags": [
-        "JerryShen_AnKing_Tags::POM-3::Clinical-Reasoning::Advanced-Pulmonary-Exam"
+        "JerryShen_AnKing_Tags::POM-3::Clinical-Reasoning::Advanced-Pulmonary-Exam",
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::19-ARDS-&-Ventilators"
       ]
     },
     {
@@ -41866,6 +43046,12 @@
       ]
     },
     {
+      "first_field_hash": "58a151194c1f0c3aa8dd26c32b9d751ba277134dd123b1129c285c86ea5af6cf",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::19-ARDS-&-Ventilators"
+      ]
+    },
+    {
       "first_field_hash": "d0109ac83a53a1cad2489506d30126b55f9df358017d218230d679f83d2815f6",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::15-Upper-Respiratory-Infections"
@@ -41881,6 +43067,12 @@
       "first_field_hash": "8e3534380b27018d19257fdd845d2387eafd0d003ffda4595294336ab7c5135c",
       "tags": [
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-1::04-Intro-to-Viruses"
+      ]
+    },
+    {
+      "first_field_hash": "564bd255b04f4a18365f876d016cdfebb958c6ee9b1652a6199668b548cf50d1",
+      "tags": [
+        "JerryShen_AnKing_Tags::POM-1::Final::Epidemiology::Class-Content"
       ]
     },
     {
@@ -41917,6 +43109,12 @@
       "first_field_hash": "300414a37c2551e550f841090d989eccadb10fc5fb84b4d4e861b5cf5127b761",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::15-Upper-Respiratory-Infections"
+      ]
+    },
+    {
+      "first_field_hash": "e5e796593457bd0eac16a4243a705b027a38fe86710b0fa58b2b7dcf1b1e5a61",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::19-ARDS-&-Ventilators"
       ]
     },
     {
