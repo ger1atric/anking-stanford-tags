@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
   "author": "JerryShen",
-  "description": "Heart and lung updates",
-  "created": "2026-05-07T02:34:57.172862+00:00",
-  "updated": "2026-05-07T02:34:57.172862+00:00",
+  "description": "May 5 lectures",
+  "created": "2026-05-07T22:19:01.262840+00:00",
+  "updated": "2026-05-07T22:19:01.262840+00:00",
   "tag_prefix": "JerryShen_AnKing_Tags",
   "tag_hierarchy": [
     "JerryShen_AnKing_Tags",
@@ -355,6 +355,8 @@
     "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::24-Sepsis-&-Septic-Shock::Class-Content",
     "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::25-Pulmonary-Hypertension",
     "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::25-Pulmonary-Hypertension::Class-Content",
+    "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::26-Pulmonary-Case-Discussion",
+    "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::26-Pulmonary-Case-Discussion::Class-Content",
     "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::Lung-Lab-1-Pneumonia",
     "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::Lung-Lab-1-Pneumonia::Class-Content",
     "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::Lung-Lab-2-ARDS-TB-&-CF",
@@ -482,6 +484,11 @@
       "date": "2026-05-07T02:34:57.172862+00:00",
       "message": "Heart and lung updates",
       "note_count": 520
+    },
+    {
+      "date": "2026-05-07T22:19:01.262840+00:00",
+      "message": "May 5 lectures",
+      "note_count": 103
     }
   ],
   "notes": [
@@ -1582,6 +1589,12 @@
       "first_field_hash": "3b6206acc578d90857a9f479e9d17d7c8137fde644667c5383cccbe177b9ae0f",
       "tags": [
         "JerryShen_AnKing_Tags::Genetics::Exam-2::08.3-Prenatal-Genetics"
+      ]
+    },
+    {
+      "first_field_hash": "6aec73b497941e51335399b1444684c86d909bdb376fbba19df46c811f7c3ab5",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::26-Pulmonary-Case-Discussion::Class-Content"
       ]
     },
     {
@@ -4903,7 +4916,8 @@
     {
       "first_field_hash": "000781f8e4420dc65d6304886e8ce76dd0cdf747d44d1db639009d2935efe6d0",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::CV-Lab-03-Autonomic-Drugs-&-Clinical-Correlates::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::CV-Lab-03-Autonomic-Drugs-&-Clinical-Correlates::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::25-Pulmonary-Hypertension"
       ]
     },
     {
@@ -5324,7 +5338,14 @@
     {
       "first_field_hash": "1aa3b143d41ebe79eaf398082709ab2ae66681c4366019386f80003fbe0340c7",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::15-Pathophysiology-&-Treatment-of-Heart-Failure"
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::15-Pathophysiology-&-Treatment-of-Heart-Failure",
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::25-Pulmonary-Hypertension"
+      ]
+    },
+    {
+      "first_field_hash": "4ec98aa8e3798a6808d72591d02237e2726bdbad40c72213e5b2eb635d07b66c",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::25-Pulmonary-Hypertension"
       ]
     },
     {
@@ -5413,7 +5434,8 @@
     {
       "first_field_hash": "bac15de05940c14a5d57c514c1dde5e189f672c9daeb17e605081d686aa59e16",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::25-Pulmonary-Hypertension"
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::25-Pulmonary-Hypertension",
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::25-Pulmonary-Hypertension::Class-Content"
       ]
     },
     {
@@ -6465,6 +6487,30 @@
       "first_field_hash": "0fbd14b97889e70747968467d619c544665260cf1ab5cf02d18689f7d6592dc0",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::17-Valvular-Disease"
+      ]
+    },
+    {
+      "first_field_hash": "a825d82c0fd1613d92b36bbebd4d2a00760ee84de73049f89527bd341aa7695f",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::26-Pulmonary-Case-Discussion::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "5f8f0b58b9356eac528ff535749a0b920a801b0462b6c4839e7698a3caa24d05",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::26-Pulmonary-Case-Discussion"
+      ]
+    },
+    {
+      "first_field_hash": "1cde2b4f17d80635abea9fe2e240c2ef98eb717e8da1a362f1cf4e0800c3b358",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::26-Pulmonary-Case-Discussion::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "d3e1b50fe8f2d84b72d130d65f2ed929a237853b9008dfe62eeac80edff8fd1a",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::26-Pulmonary-Case-Discussion::Class-Content"
       ]
     },
     {
@@ -8183,9 +8229,22 @@
       ]
     },
     {
+      "first_field_hash": "5ca35ddff1478a0923aff08856e8eadc0aa7c17c3f753d633bda10f60658ce56",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::26-Pulmonary-Case-Discussion::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "4414dd264ee20dcb18f2154f5a5e2d9e59d70db37ebc48fb40beca092833d01d",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::26-Pulmonary-Case-Discussion::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "8dd028563b0d847b20598aa93adeb5510a12512ba65d199b7702289885e3a797",
       "tags": [
-        "JerryShen_AnKing_Tags::POM-3::Clinical-Reasoning::Advanced-Pulmonary-Exam"
+        "JerryShen_AnKing_Tags::POM-3::Clinical-Reasoning::Advanced-Pulmonary-Exam",
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::26-Pulmonary-Case-Discussion"
       ]
     },
     {
@@ -8868,9 +8927,22 @@
       ]
     },
     {
+      "first_field_hash": "cfeb6b065253048f1d6a5eccda9b5b018825756d3ab02bc942c50002b8f9a22d",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::04-O2-and-CO2-Transport",
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::04-O2-and-CO2-Transport::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "121038978887d50d709109434854492dcaaebee4dff09491770d17624ff9a5a7",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::09-Acid-Base-Control-and-Exercise-Physiology"
+      ]
+    },
+    {
+      "first_field_hash": "41445fc6709d42749116b3743258f6c29f511e7e7f89860104ea758f4b0e171f",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::25-Pulmonary-Hypertension::Class-Content"
       ]
     },
     {
@@ -9972,7 +10044,7 @@
     {
       "first_field_hash": "b842e143b983d1a7c31173a824fac766d65235498c6c99b1355c129f4b5a5758",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::25-Pulmonary-Hypertension"
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::25-Pulmonary-Hypertension::Class-Content"
       ]
     },
     {
@@ -9985,7 +10057,7 @@
     {
       "first_field_hash": "3831edd6587fd0895c811ea62a1cf3ebb2de99bd3cee5369c1a460154ea61530",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::25-Pulmonary-Hypertension"
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::25-Pulmonary-Hypertension::Class-Content"
       ]
     },
     {
@@ -10001,15 +10073,30 @@
       ]
     },
     {
+      "first_field_hash": "19b3c31fa4bd534a77dc74629cf8d4a6a468a3201123e39879c98d1c63a3e7fa",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::25-Pulmonary-Hypertension::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "a8d6a6416d2de72806662277d58a68dcfd29a72529000bbd62ca3aeeaee3baee",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::25-Pulmonary-Hypertension"
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::25-Pulmonary-Hypertension",
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::25-Pulmonary-Hypertension::Class-Content"
       ]
     },
     {
       "first_field_hash": "bee0a748738391e25acb39d610042dc8f83af220bf4609c0d4f5927a9a26a6cc",
       "tags": [
-        "JerryShen_AnKing_Tags::POM-3::Clinical-Reasoning::Approach-to-Chronic-Dyspnea"
+        "JerryShen_AnKing_Tags::POM-3::Clinical-Reasoning::Approach-to-Chronic-Dyspnea",
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::25-Pulmonary-Hypertension::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "98c5a8917f6d521f36d0679643fda40c0201ac2196fc3e0553c3e11d7f206c9e",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::25-Pulmonary-Hypertension",
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::25-Pulmonary-Hypertension::Class-Content"
       ]
     },
     {
@@ -10046,6 +10133,12 @@
       "first_field_hash": "cf71365c3e44e2d28c95b8aed9a522bbd25895a37189cd5608f1599bbdb27955",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::25-Pulmonary-Hypertension::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "4512fec43f6ff7c89373fa6c111232ec527ee265a90fca4b66411e36b80141de",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::25-Pulmonary-Hypertension"
       ]
     },
     {
@@ -11618,6 +11711,12 @@
       ]
     },
     {
+      "first_field_hash": "44b929ed176d79e3f8f127d3f228fe8c398c0535e38d70d4b315868469cc7427",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::26-Pulmonary-Case-Discussion"
+      ]
+    },
+    {
       "first_field_hash": "dafcda463e1b1955120cd903297f3e8b367ef2ac81a093f5ca809b7f8eb3d5f5",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::16-Clotting-&-Thromboembolic-Disease"
@@ -11657,6 +11756,21 @@
       "first_field_hash": "45862294e1228de5c463403571847510aec0ff7f06c68f8578954008dba928cf",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::16-Clotting-&-Thromboembolic-Disease"
+      ]
+    },
+    {
+      "first_field_hash": "d414e7328e3f6841896d26e05b800e5cc42aa276086aaa286b53f78e6d2e47e2",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::16-Clotting-&-Thromboembolic-Disease",
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::26-Pulmonary-Case-Discussion::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "bd507f09655085a135e8382bc9161db83a2cf051fc50689aec11ee379012581a",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::16-Clotting-&-Thromboembolic-Disease",
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::16-Clotting-&-Thromboembolic-Disease::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::26-Pulmonary-Case-Discussion::Class-Content"
       ]
     },
     {
@@ -11714,6 +11828,13 @@
       "first_field_hash": "49876394f766f23886969a165792ea328be4a511d1858461cb85eb6921ae412e",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::16-Clotting-&-Thromboembolic-Disease"
+      ]
+    },
+    {
+      "first_field_hash": "ae704059d65c27805b82e7ff5a9af9d2d9d9cd0acb6927f054d3c664742205d1",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::25-Pulmonary-Hypertension",
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::25-Pulmonary-Hypertension::Class-Content"
       ]
     },
     {
@@ -11801,9 +11922,65 @@
       ]
     },
     {
+      "first_field_hash": "dc71609b49a28584c4832b8854002781542752278ba041aee469064d48994963",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::26-Pulmonary-Case-Discussion::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "c2e7e2c6b9132aade7b7d2c0586c6335429dcb02b87c27494a515ae447b608a4",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::26-Pulmonary-Case-Discussion::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "0c9cd6418d586fccbe435725dc7fa07169226286e0f3cf19a1fa73577faed437",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::26-Pulmonary-Case-Discussion"
+      ]
+    },
+    {
       "first_field_hash": "8743c923987985e7d0ccd2a3ec37f6344cea3cb01bdbf4b59a56427fadaaf32c",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::01-Structure-and-Function-of-the-Lung"
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::01-Structure-and-Function-of-the-Lung",
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::26-Pulmonary-Case-Discussion",
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::26-Pulmonary-Case-Discussion::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "820ae9ee7afb07967661bbf7a67d194c9c5af8e782ed81d872dbf11762acf172",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::26-Pulmonary-Case-Discussion::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "7ec59e0e3fe49bf934f8911e9f8d3683903a6d6f2061d501451491557005216f",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::26-Pulmonary-Case-Discussion"
+      ]
+    },
+    {
+      "first_field_hash": "b9697f79b3fc09fc41e9c96baf4dde22f4aec65f6888119144bbe7044ca95109",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::26-Pulmonary-Case-Discussion"
+      ]
+    },
+    {
+      "first_field_hash": "9b69983a63b2ca51cc6eff253a56a39eb5c0bcb007b7d982506adfa8d70453fc",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::26-Pulmonary-Case-Discussion::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "8effbc4c4c84099f2e975f66c54ac96c473d057d15c2af7d0447e50bc1be03a9",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::26-Pulmonary-Case-Discussion::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "3c17ffe4e29d307133f125865b17b18ee66bac044c848bdb505a1e21a3ccb923",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::26-Pulmonary-Case-Discussion"
       ]
     },
     {
@@ -11911,6 +12088,18 @@
       "first_field_hash": "7fca4a30d045a8e8fb8a89637776346c4438af4aba46802873f91e1af08effa5",
       "tags": [
         "JerryShen_AnKing_Tags::POM-3::Clinical-Reasoning::Advanced-Pulmonary-Exam"
+      ]
+    },
+    {
+      "first_field_hash": "21b161477ee046be0791340ddd464a11f8094f81f942b601366b65bc75a0751d",
+      "tags": [
+        "JerryShen_AnKing_Tags::POM-3::Clinical-Reasoning::Approach-to-Cough"
+      ]
+    },
+    {
+      "first_field_hash": "f4127e7839c1580dea348b9c553a50c93c602338e63058cc440a5763fb8433ca",
+      "tags": [
+        "JerryShen_AnKing_Tags::POM-3::Clinical-Reasoning::Approach-to-Cough"
       ]
     },
     {
@@ -14982,6 +15171,12 @@
       ]
     },
     {
+      "first_field_hash": "2a1f96b685f189bde9417d8d0caacd8a4e6083e0a7c89028f1f376de027654a6",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::26-Pulmonary-Case-Discussion::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "1486685f84489f35e9ba3f55fd344c2dd0814430cfcf660c73bd5be342d53d71",
       "tags": [
         "JerryShen_AnKing_Tags::POM-2::Final::Nutrition"
@@ -16016,9 +16211,106 @@
       ]
     },
     {
+      "first_field_hash": "01da78c4c1a76bab13bd7cb6c49f36373ab67078f69d43154156be0529fbc684",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::26-Pulmonary-Case-Discussion::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "25a5ab7390fff65fc13106419e37acddd514b576160c1c735851d8e37134766b",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::26-Pulmonary-Case-Discussion::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "7f1273961c32c62af1fb9f16cdab3d5cde9e215fa8ec1c8416e2d4fe2833faf3",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::26-Pulmonary-Case-Discussion",
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::26-Pulmonary-Case-Discussion::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "54215ab5f18c053a4bdb39e886d29cd41f676cbe7e1b282ded972645bf3c45a3",
       "tags": [
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-2::07-β-Lactam-Antibiotics-&-Parasites::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "548bb4ffd0fb191380065d5f1917dbbbf6367acc2eb0fd1121ad04497267d54a",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::26-Pulmonary-Case-Discussion::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "4ab99d96bba6063dc4429ebdab66677756aa35a17de62191dd43f6d941261588",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::26-Pulmonary-Case-Discussion::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "c9e612fbea75f3c319925fc808ded404467c619e8f2175070bc8f52c57b5ae0c",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::26-Pulmonary-Case-Discussion::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "bf932df1da3aa996e5272159a08fd340655e7a8684a99a810b18e56633212c5c",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::26-Pulmonary-Case-Discussion::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "f8160abf56ba9075b6041aff2ecc60f2b545c057286f59d558d0a0840a9f7b7f",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::26-Pulmonary-Case-Discussion::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "79e3ce3af828d1a693dc8c3d19ee15bf7a426fc35b30df1a69016c372a64d48e",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::26-Pulmonary-Case-Discussion::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "b94e070710c1097b873bdd4188a833eebbb5ef698fb90aee095d1219e57c57f4",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::26-Pulmonary-Case-Discussion::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "7949b05572b3f85673546c877fa6d82dcefce8794cc3b67eaf5f1e9205a55e5d",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::26-Pulmonary-Case-Discussion"
+      ]
+    },
+    {
+      "first_field_hash": "1b6bee4129ac879644d38aa071370f8047f1e44c4a461530a3ead0356deaf61d",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::26-Pulmonary-Case-Discussion::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "c8e8cad784f36141e0c71a22a10204d8e3ed82d61ee3f3ad93784ef9af8c925f",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::26-Pulmonary-Case-Discussion"
+      ]
+    },
+    {
+      "first_field_hash": "d03667a44516f95f3017dcae6fe10c74717ffef7548824dbb452ed3b416f6120",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::26-Pulmonary-Case-Discussion"
+      ]
+    },
+    {
+      "first_field_hash": "aa24f4c21aaa3d98b8d6061a2bf53d2a641bee4a6297f94fa59b3a8fc44cade1",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::26-Pulmonary-Case-Discussion"
+      ]
+    },
+    {
+      "first_field_hash": "eda528306e95208643d5e8a42223b57e1bda4589d26f06fb9f1fe7cef8189133",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::26-Pulmonary-Case-Discussion::Class-Content"
       ]
     },
     {
@@ -21404,6 +21696,13 @@
       ]
     },
     {
+      "first_field_hash": "9e0741364360af9f2e956a6ada43a240d708825f2f03522742abd3c29ace7707",
+      "tags": [
+        "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-3-Abdomen::Anatomy",
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::26-Pulmonary-Case-Discussion"
+      ]
+    },
+    {
       "first_field_hash": "bae77c696db262064fc58a2b52b4243aab1b4fc948aee7546170b39277814c62",
       "tags": [
         "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-7-Head-&-Neck-2::Anatomy"
@@ -23394,6 +23693,12 @@
       "first_field_hash": "02c9978f7b5404a2fc1416930b5ebea1cbf33c18d06cb753616fe7a2fbfe950b",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::08-Fast-Rhythm-Arrhythmias"
+      ]
+    },
+    {
+      "first_field_hash": "f1e5ff2c9d7594e0ef87a3fa99f513151cdeae5744fde763f5aead9323365bbd",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::26-Pulmonary-Case-Discussion::Class-Content"
       ]
     },
     {
@@ -26261,7 +26566,8 @@
     {
       "first_field_hash": "981fbef051297a0639f25c938db2168d29383fe1dcbafd7ff50c74c705712984",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::20-Interstitial-Lung-Disease"
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::20-Interstitial-Lung-Disease",
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::25-Pulmonary-Hypertension::Class-Content"
       ]
     },
     {
@@ -26292,6 +26598,12 @@
       "first_field_hash": "22f7e5a1723bb05f7a9c267f79ab7c5079508fb242c3d0f7a85a4e13cb97b5a8",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::23-Pleural-Disease::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "5db18912039fd4d922f437eb3600ea5d33586b4b8c680eed1de05a0d55ae1ac5",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::26-Pulmonary-Case-Discussion"
       ]
     },
     {
@@ -28151,6 +28463,18 @@
       ]
     },
     {
+      "first_field_hash": "6b28dde308203eed27c4753fb9a94c404a2ae359da5fd22d3aafc9d35c40520e",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::26-Pulmonary-Case-Discussion::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "93492dfa642c1c2dcd764a82c071dee4dd9704cd9528c3ee846f75cf1b5058d0",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::26-Pulmonary-Case-Discussion::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "b7ba139a6e6cad65cb2b3803af4c14fd605ac362205c76076a4dd0f766c625d0",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::16-Clotting-&-Thromboembolic-Disease"
@@ -28607,6 +28931,12 @@
       ]
     },
     {
+      "first_field_hash": "a9edc84182908466ef78cfd656dadf48c78bbc73a590622e9c2f7e8344165889",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::26-Pulmonary-Case-Discussion"
+      ]
+    },
+    {
       "first_field_hash": "c3580efb8669a3998a34e4697f792fac5c2f198d75855aec078072b89ff2a34e",
       "tags": [
         "JerryShen_AnKing_Tags::POM-2::Final::Clinical-Skills"
@@ -28787,6 +29117,12 @@
       "first_field_hash": "ed372b4183c0e5da9d12ba8df99fce9a78a0907be985dffeb1b0f8d4f4c31979",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::17-Chest-Imaging-II"
+      ]
+    },
+    {
+      "first_field_hash": "71873dd9b7a49e8417f023f651f7247312cb3a1f42b38069ed2841a34afe5339",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::26-Pulmonary-Case-Discussion"
       ]
     },
     {
@@ -29033,6 +29369,12 @@
       "first_field_hash": "3f39753ba41705fd553fcabb9e67f81a4039681330f4fc3939c5ee6371ef352c",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::09-Supraventricular-Tachycardia-&-Antiarrhythmics::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "e1c6bc17a36f6848bbf631522004392ecdbbcf48ba159eb5102f3da40fd42dd8",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::25-Pulmonary-Hypertension"
       ]
     },
     {
@@ -29460,6 +29802,12 @@
       ]
     },
     {
+      "first_field_hash": "51077ec1b6c4a085628346b3bd52c6724af95e40eef66475ac914d906fd2fe02",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::25-Pulmonary-Hypertension"
+      ]
+    },
+    {
       "first_field_hash": "1e0cd3f7a468c426ba68ce8eab7f9804f9a1fe4190e46917719e4e31afa9efd3",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::15-Pathophysiology-&-Treatment-of-Heart-Failure"
@@ -29487,6 +29835,24 @@
       "first_field_hash": "cd1a909cd3898887612148cec71a3f94968dff8ffc989de0a40f56855a7b47eb",
       "tags": [
         "JerryShen_AnKing_Tags::POM-3::Clinical-Reasoning::Approach-to-Syncope"
+      ]
+    },
+    {
+      "first_field_hash": "b6c7d936b88f638a5c7b79233cc241b03f72cd8a4a19dd0eed9c7b5e7167030a",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::25-Pulmonary-Hypertension::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "67cb7365948b1526e1ccc7596a4cd006b8e7b65dd920d6518d6bdbba506b63dc",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::25-Pulmonary-Hypertension"
+      ]
+    },
+    {
+      "first_field_hash": "84599a844e0d4b289462a83639ef2bf362f1ed701add338047ee54b4fe935707",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::25-Pulmonary-Hypertension::Class-Content"
       ]
     },
     {
@@ -31258,6 +31624,12 @@
       ]
     },
     {
+      "first_field_hash": "0c3535429b12ae2383938c183d435ba1d234e51164285364a9bdbfeb088ae9b0",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::26-Pulmonary-Case-Discussion::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "b606565f7e83ea1258cc5f0a83d3b060e4fe2c11fde96c207d1a1bb1c9add515",
       "tags": [
         "JerryShen_AnKing_Tags::Neurobiology::Exam-3::Lec-Somatosensation-and-Pain"
@@ -32068,6 +32440,12 @@
       "first_field_hash": "fa747097c0f2acecb8274a03231eea7f972fd3add0296e6395bd12cc5ff9bb97",
       "tags": [
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-2::07-β-Lactam-Antibiotics-&-Parasites"
+      ]
+    },
+    {
+      "first_field_hash": "3a77bd78de7846dbe9726dd5ba0d2caf1098d5b013bf3301b7d24cf21bd6e57b",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::26-Pulmonary-Case-Discussion"
       ]
     },
     {
@@ -35412,6 +35790,18 @@
       ]
     },
     {
+      "first_field_hash": "83610eaab24686290006f6359399eee6d0f884403df4134d047414a174bb1764",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::26-Pulmonary-Case-Discussion::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "7d8927be0ecd9ee83892f47ef1afc0046160cc144d7024994b12416fb4e576ab",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::26-Pulmonary-Case-Discussion::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "45ee28d2e4b43ad3a8dd4a71a9ac5234db9537e50c56946e21b7311b8f258e56",
       "tags": [
         "JerryShen_AnKing_Tags::POM-1::Final::Psychiatry"
@@ -37708,6 +38098,12 @@
       ]
     },
     {
+      "first_field_hash": "afcd89554728a9e29e1024944d02777cc0fe7fdf60b48c893ec5affba9cf32a2",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::26-Pulmonary-Case-Discussion::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "87c29af845381c2c5c89ac8c56d2e3c9fec4f435705b3c2e98bc7ee7e9b2dd16",
       "tags": [
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-2::08-Other-Antibiotics-&-Mycobacteria"
@@ -38335,7 +38731,8 @@
     {
       "first_field_hash": "3353f127818136a85ffb859753d93a65e4c2d504a26c761a013fe14a388569d7",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::16-Lower-Respiratory-Infections"
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::16-Lower-Respiratory-Infections",
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::26-Pulmonary-Case-Discussion::Class-Content"
       ]
     },
     {
@@ -38384,6 +38781,12 @@
       "first_field_hash": "80eeaf0c247fc56e0999373f8d38065dfd79c5eba9bb2f310a5c18aefc6e8318",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::15-Upper-Respiratory-Infections"
+      ]
+    },
+    {
+      "first_field_hash": "a00a0cf358720f9ee7be6d95c4f6783315789575224c0c4ad439bdb24072dadc",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::26-Pulmonary-Case-Discussion"
       ]
     },
     {
@@ -39011,6 +39414,12 @@
       "first_field_hash": "d9952b0bf92e4766951430f39e2ca69076dcb75907cdef51fcaefdc93244c670",
       "tags": [
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-1::05-Intro-to-Fungi::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "f99eedeaed15da4498bc5942e2d9a2353090f27908ee9c4d647dacd50d9044dd",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::26-Pulmonary-Case-Discussion"
       ]
     },
     {
@@ -40040,6 +40449,12 @@
       ]
     },
     {
+      "first_field_hash": "210efdd00c3736bf151a88645724c1817fbe6138f72398dabe1f6fa9d94edd46",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::26-Pulmonary-Case-Discussion"
+      ]
+    },
+    {
       "first_field_hash": "fbc01c410aee5f529778dbefd79d0ea785654e2d5e206ba2abf4a742c61f1282",
       "tags": [
         "JerryShen_AnKing_Tags::POM-3::Psychiatry::Psychiatric-Interview"
@@ -40823,6 +41238,12 @@
       ]
     },
     {
+      "first_field_hash": "d55f444206298f35b6edc2a6edcf5f7147cc1b71da8e836b44f17d9fbac1600e",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::07-Pulmonary-Function-Testing"
+      ]
+    },
+    {
       "first_field_hash": "58f41f1c47f80313dc1da0d6cbb1c8541c22acf852a743d5751b41d3117ac0f7",
       "tags": [
         "JerryShen_AnKing_Tags::Neurobiology::Exam-2::Tutorial-3-Brainstem"
@@ -41150,6 +41571,12 @@
       ]
     },
     {
+      "first_field_hash": "2fb71c97f8806759b3274bffdffc84e80adf5fe7835109a4106f6668066dece8",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::26-Pulmonary-Case-Discussion::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "8e2c770d7f720968e17036608f3d17b5970c0caa6fcb2ab6466dacaa77774f95",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::07-Pulmonary-Function-Testing"
@@ -41174,9 +41601,21 @@
       ]
     },
     {
+      "first_field_hash": "cae1f11ae5e567835ba083d68bc49e10c0e5dac0954b8621e6b886ed53803446",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::26-Pulmonary-Case-Discussion::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "8426c5fff40120a96e04a558a78d7b060953892f2a82132fb4d2b9bc6a910d6d",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::19-ARDS-&-Ventilators::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "9f34b59cfd0ed93ce43c6503f09a847e14774aac57e955b6d2235006fbd40692",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::25-Pulmonary-Hypertension"
       ]
     },
     {
@@ -41184,6 +41623,12 @@
       "tags": [
         "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-7-Head-&-Neck-2::Anatomy",
         "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-7-Head-&-Neck-2::Anatomy::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "05bc25fe80723a17b89982732eb15883db00dea4753788e17dfe5ac7e7ac76d0",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::26-Pulmonary-Case-Discussion::Class-Content"
       ]
     },
     {
@@ -41599,6 +42044,12 @@
       ]
     },
     {
+      "first_field_hash": "79a70969a01468cfe74c254b706a88798c6281c2ce8eba4251dd774f2c2c1329",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::17-Valvular-Disease"
+      ]
+    },
+    {
       "first_field_hash": "0f65d09a6a1bb2f90be8d6b03d79ffd5d00f3369871f694376fd1cd640f1f7e8",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::17-Valvular-Disease"
@@ -41633,6 +42084,12 @@
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::08-Fast-Rhythm-Arrhythmias",
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::08-Fast-Rhythm-Arrhythmias::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "cc69478d118de5fe0b86beb71f01fc078aa0a63c8b03511d81cdf21431592a2f",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::17-Valvular-Disease"
       ]
     },
     {
@@ -41785,6 +42242,12 @@
       "first_field_hash": "ffb3fcc9725b41d14feadf96cf16da6d54403cfa6ec764e04a5a09f9c3723335",
       "tags": [
         "JerryShen_AnKing_Tags::Neurobiology::Exam-2::Tutorial-1-Cerebrum"
+      ]
+    },
+    {
+      "first_field_hash": "999a36bc4d4e1116b0cbe233030bef6af0d2f16c7ee89a536a8be5e4a2e19528",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::26-Pulmonary-Case-Discussion::Class-Content"
       ]
     },
     {
@@ -42132,6 +42595,12 @@
       ]
     },
     {
+      "first_field_hash": "1eda134bf62a63530c9782b3f26513f04292b8946323a603475751a018d33249",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::26-Pulmonary-Case-Discussion::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "5e5d1699dc37c94b2cf9fdc467ea13dc688c811e4f1f834a57cd3a6246e85fc3",
       "tags": [
         "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-7-Head-&-Neck-2::Embryology::Class-Content",
@@ -42322,6 +42791,12 @@
       ]
     },
     {
+      "first_field_hash": "927659bcc1754d0c59e812ec8022a67642b44b545b4fbd833475939a8aab7a02",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::26-Pulmonary-Case-Discussion::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "256748a002f22635203fe68f5d478dfe49dfcecce3f737390b8652ce9502ce9c",
       "tags": [
         "JerryShen_AnKing_Tags::Neurobiology::Exam-3::Tutorial-7-Affective-and-Cognitive-Systems::Class-Content"
@@ -42370,9 +42845,22 @@
       ]
     },
     {
+      "first_field_hash": "d3d0729d0e259381d5868da25ccd176e26f0bf303abcae78500655ee4d243818",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::26-Pulmonary-Case-Discussion",
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::26-Pulmonary-Case-Discussion::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "936be430c153d9673584693005b5e55c85954611513e3359de27b80056985b8b",
       "tags": [
         "JerryShen_AnKing_Tags::POM-3::Psychiatry::Mood-Disorders"
+      ]
+    },
+    {
+      "first_field_hash": "4f7dc03ca5cb9f9f50348e316f3951f84f6125f6a698a0f80b1025df755ffc88",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::26-Pulmonary-Case-Discussion"
       ]
     },
     {
@@ -42897,7 +43385,8 @@
     {
       "first_field_hash": "f13da224d56ab0df335145a84fa5558ddd25beaa3d7402e84258e28208ba5172",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::22-Respiratory-Tract-Case-Studies"
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::22-Respiratory-Tract-Case-Studies",
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::26-Pulmonary-Case-Discussion::Class-Content"
       ]
     },
     {
@@ -43093,7 +43582,8 @@
     {
       "first_field_hash": "132b4a893ec69bcceb6afff22c2784512644910c34e768a29d3cc2af3deef6e7",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::18-Heart-Sounds-&-Clinical-Exam::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::18-Heart-Sounds-&-Clinical-Exam::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::25-Pulmonary-Hypertension"
       ]
     },
     {
@@ -43913,6 +44403,12 @@
       ]
     },
     {
+      "first_field_hash": "33df39c65614109118d84ad1a5917dd28366d50057184ad0849ea7b67c3ff121",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::26-Pulmonary-Case-Discussion"
+      ]
+    },
+    {
       "first_field_hash": "5cfb4ccf8151adda28565d365e231ad8c2cf14d449e61d4b9c0f340dcbdefbd1",
       "tags": [
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-2::07-β-Lactam-Antibiotics-&-Parasites"
@@ -43982,6 +44478,12 @@
       "first_field_hash": "16674b1777d12e126e2aa985d3663deb1537d62e61420ed39625d48599a71746",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::07-Pulmonary-Function-Testing"
+      ]
+    },
+    {
+      "first_field_hash": "abbe8cfcb8b65cbd4e491f2af51645fc3389b300a6e990cb8cc3e065015f7f5a",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::26-Pulmonary-Case-Discussion"
       ]
     },
     {
@@ -44111,6 +44613,12 @@
       "first_field_hash": "15d5b1502443e3aa17701108b388faf48c176145108469fd54bf2fdf02ef17b0",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::23-Pleural-Disease::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "9f486d376f919bc259d65609af36916a6ef102df23165fd76f142ecfa634eae5",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::26-Pulmonary-Case-Discussion::Class-Content"
       ]
     },
     {
@@ -44252,7 +44760,8 @@
     {
       "first_field_hash": "61b70288e693095fab12ddcc66f433c20972d0694070c9e3e3cbc1e972dbf16d",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::25-Pulmonary-Hypertension"
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::25-Pulmonary-Hypertension",
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::25-Pulmonary-Hypertension::Class-Content"
       ]
     },
     {
@@ -44498,7 +45007,8 @@
     {
       "first_field_hash": "835e0a87ca3512394931db4212c699fea5e1e5b0d17fd499e2efddd232e3405f",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::09-Acid-Base-Control-and-Exercise-Physiology"
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::09-Acid-Base-Control-and-Exercise-Physiology",
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::26-Pulmonary-Case-Discussion"
       ]
     },
     {
@@ -44911,7 +45421,8 @@
     {
       "first_field_hash": "c44beb5815713dfc9fead60d85f8621abd343252d3fe5bd5884f276ea035f794",
       "tags": [
-        "JerryShen_AnKing_Tags::POM-3::Clinical-Reasoning::Advanced-Pulmonary-Exam::Class-Content"
+        "JerryShen_AnKing_Tags::POM-3::Clinical-Reasoning::Advanced-Pulmonary-Exam::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::26-Pulmonary-Case-Discussion::Class-Content"
       ]
     },
     {
@@ -45098,10 +45609,22 @@
       ]
     },
     {
+      "first_field_hash": "22284e0be549591e0ac251416ae37653c5e60f0b0f248f4afb7be083decafe7f",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::26-Pulmonary-Case-Discussion"
+      ]
+    },
+    {
       "first_field_hash": "f3e47516cb435045dfff5c4aff6c836bfc4de65f17a96642dc2d2cac13f92e67",
       "tags": [
         "JerryShen_AnKing_Tags::Biochemistry::Final::03-Lipid-Metabolism",
         "JerryShen_AnKing_Tags::Biochemistry::Final::05-Nitrogen-Metabolism"
+      ]
+    },
+    {
+      "first_field_hash": "c4f247fadebab544fbeb47cbed3fa71cddbec2e0f19510118485c4c1e6191706",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::26-Pulmonary-Case-Discussion"
       ]
     },
     {
@@ -45268,6 +45791,12 @@
       ]
     },
     {
+      "first_field_hash": "e1d494fdbd34dc5d94b25f1b18957ccbf737f98c5ae06b556a85a90375c188ab",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::25-Pulmonary-Hypertension"
+      ]
+    },
+    {
       "first_field_hash": "976dd51c90f9509c97543000d514970800e52f001894e3657f307e589e05ae13",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::21-Pathology-of-ILD"
@@ -45418,6 +45947,12 @@
       "first_field_hash": "c125cca2433849243ea75d48984bb40843821da9fc25a1a6aa722509601e001a",
       "tags": [
         "JerryShen_AnKing_Tags::Neurobiology::Exam-3::Tutorial-7-Affective-and-Cognitive-Systems"
+      ]
+    },
+    {
+      "first_field_hash": "4a2e0f5c9099737044f0776ef3e2d2e0190c8012e82ad923b8ea4d881f5e69b5",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::16-Clotting-&-Thromboembolic-Disease"
       ]
     },
     {
@@ -45767,6 +46302,12 @@
       ]
     },
     {
+      "first_field_hash": "3d42df4516a2bb5b370ee2f950dc7cff40d3ec1b0e48864095314df4a7789224",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::26-Pulmonary-Case-Discussion"
+      ]
+    },
+    {
       "first_field_hash": "300414a37c2551e550f841090d989eccadb10fc5fb84b4d4e861b5cf5127b761",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::15-Upper-Respiratory-Infections"
@@ -45864,6 +46405,12 @@
       ]
     },
     {
+      "first_field_hash": "53dfab37064354d226d3456b38b1ef7cf81c91c420dab70a4057b0f1e1e92425",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::25-Pulmonary-Hypertension"
+      ]
+    },
+    {
       "first_field_hash": "3c8afb8ce3b7e49e4b1a49da93c24e5dade621ce92baf824509804293ac252eb",
       "tags": [
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-2::08-Other-Antibiotics-&-Mycobacteria::Class-Content"
@@ -45952,6 +46499,12 @@
       "first_field_hash": "08774fd528a2e957882a29f89062d0160a5958ba2fa4bffeba6582db4fab9598",
       "tags": [
         "JerryShen_AnKing_Tags::Immunology::Final::B-cells"
+      ]
+    },
+    {
+      "first_field_hash": "8bc4ff9053f565d330179771e461a977246f1b2a8927624a2909134d7eac8c46",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::26-Pulmonary-Case-Discussion"
       ]
     },
     {
