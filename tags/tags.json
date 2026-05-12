@@ -1,14 +1,14 @@
 {
   "schema_version": 1,
   "author": "JerryShen",
-  "description": "5/11 update",
-  "created": "2026-05-12T01:33:05.910511+00:00",
-  "updated": "2026-05-12T01:33:05.910511+00:00",
+  "description": "lung cancer and lung lab",
+  "created": "2026-05-12T20:57:01.300107+00:00",
+  "updated": "2026-05-12T20:57:01.300107+00:00",
   "tag_prefix": "JerryShen_AnKing_Tags",
   "tag_hierarchy": [
     "JerryShen_AnKing_Tags",
     "JerryShen_AnKing_Tags::(✏️)-Tagged-by-Jerry-Shen",
-    "JerryShen_AnKing_Tags::(🛠️)-Last-Updated-050112026-(Lung-Cancer)",
+    "JerryShen_AnKing_Tags::(🛠️)-Last-Updated-05122026",
     "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology",
     "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-1-Thorax",
     "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-1-Thorax::Anatomy",
@@ -375,12 +375,15 @@
     "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::27-Lung-Cancer",
     "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::27-Lung-Cancer::Class-Content",
     "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::28-Lung-Transplantation",
-    "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::29-Frontiers-in-Lung-Biology",
     "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::29-Frontiers-in-Lung-Biology-&-Lung-Development",
+    "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::30-Lung-Cancer-Treatment",
+    "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::30-Lung-Cancer-Treatment::Class-Content",
     "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::Lung-Lab-1-Pneumonia",
     "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::Lung-Lab-1-Pneumonia::Class-Content",
     "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::Lung-Lab-2-ARDS-TB-&-CF",
-    "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::Lung-Lab-2-ARDS-TB-&-CF::Class-Content"
+    "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::Lung-Lab-2-ARDS-TB-&-CF::Class-Content",
+    "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::Lung-Lab-3-Cancer-&-ILD",
+    "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::Lung-Lab-3-Cancer-&-ILD::Class-Content"
   ],
   "changelog": [
     {
@@ -519,6 +522,11 @@
       "date": "2026-05-12T01:33:05.910511+00:00",
       "message": "5/11 update",
       "note_count": 737
+    },
+    {
+      "date": "2026-05-12T20:57:01.300107+00:00",
+      "message": "lung cancer and lung lab",
+      "note_count": 115
     }
   ],
   "notes": [
@@ -1359,6 +1367,13 @@
       "first_field_hash": "1cca7ccb4d4b5b406ab57af6309092a632c01c6bc46eb2134b2973a11c4b6c21",
       "tags": [
         "JerryShen_AnKing_Tags::Biochemistry::Final::01-Carbohydrate-Metabolism::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "367bcd5bcb7acf9f6b05b63daf8e615b2aa46cb9e253fed9b2e55507185fbaa6",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::27-Lung-Cancer",
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::Lung-Lab-3-Cancer-&-ILD"
       ]
     },
     {
@@ -3055,7 +3070,7 @@
     {
       "first_field_hash": "74761e72374b10ae7d36eb896b1c31e1bf7ebae1f65bb1b26a80fefffdb5b76a",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::29-Frontiers-in-Lung-Biology"
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::29-Frontiers-in-Lung-Biology-&-Lung-Development"
       ]
     },
     {
@@ -8481,6 +8496,18 @@
       ]
     },
     {
+      "first_field_hash": "d1872b77355bc518987a0bf69f72adab59cbc4f13133be3c38d1db3914a828df",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::05-Ventilation-Perfusion-Relationships"
+      ]
+    },
+    {
+      "first_field_hash": "d855139b83e2b099e28b2e74c3f7c19742d688a407d164ed6cb8d499f504a9c9",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::05-Ventilation-Perfusion-Relationships"
+      ]
+    },
+    {
       "first_field_hash": "1081c6aed7ad84f82449b3669f6f9da8becb98f1f25b85c8ba11466d03012e28",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::05-Ventilation-Perfusion-Relationships"
@@ -9171,6 +9198,12 @@
       ]
     },
     {
+      "first_field_hash": "0a74914e87dbd20c64004fa4b2a9b2f507d29b29bba23c9d2a9870e1b24f6daf",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::04-O2-and-CO2-Transport"
+      ]
+    },
+    {
       "first_field_hash": "5ca35ddff1478a0923aff08856e8eadc0aa7c17c3f753d633bda10f60658ce56",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::26-Pulmonary-Cases-&-Miscellaneous-Diseases::Class-Content"
@@ -9320,6 +9353,12 @@
       "first_field_hash": "dd8cf597550adad029f3b4c269b5bbcf4c5ae1a802a1577711bd48e028254845",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::04-O2-and-CO2-Transport::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "06eed414289c07b73806ceeb75de70f3108a3180359f3a4214d946150cfc6554",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::04-O2-and-CO2-Transport"
       ]
     },
     {
@@ -9536,6 +9575,18 @@
       "first_field_hash": "3faa82e30feceb75ad4eaaf8031d0a07d5a9bf358538c9fb6d4c8d7dfa24f1d2",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::05-Ventilation-Perfusion-Relationships::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "d9ac0907958f68f8f5dae64408db08d059295e383947e12a83ccb31a9e223766",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::05-Ventilation-Perfusion-Relationships"
+      ]
+    },
+    {
+      "first_field_hash": "f6a07394efa8cc481060c1dfba3167f4c0103c7ff75ff76566c0fe523e9bb81a",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::05-Ventilation-Perfusion-Relationships"
       ]
     },
     {
@@ -9829,6 +9880,12 @@
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::19-Central-&-Peripheral-Control-of-Circulation::Class-Content",
         "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::02-Pulmonary-Circulation::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "ca0651ebc3a2bd461eb2354e28fcc453c0ef9e3c6cb43f8cce250b6adb9b153b",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::05-Ventilation-Perfusion-Relationships"
       ]
     },
     {
@@ -10210,6 +10267,18 @@
       "first_field_hash": "2eea14cc3a96272db831f129e61816b0dde6d90dca05ba01162706bdabb6730e",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::17-Chest-Imaging-II"
+      ]
+    },
+    {
+      "first_field_hash": "e0fcb0a2c5631c230bdab3b840a77acd5051c017457cb79a8cbb631266972ae5",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::Lung-Lab-3-Cancer-&-ILD"
+      ]
+    },
+    {
+      "first_field_hash": "548898d2c2d9440cb0c308982565cbc82d9e1f532963d06240b38199a4a0ef05",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::Lung-Lab-3-Cancer-&-ILD"
       ]
     },
     {
@@ -10885,6 +10954,12 @@
       ]
     },
     {
+      "first_field_hash": "3c9fe323fd513f3d3e371d00c8c02f83e56c561edfedd52bbb8473f5b1c2e43b",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::21-Pathology-of-ILD"
+      ]
+    },
+    {
       "first_field_hash": "2b40f87a678d12ffe53db4041e5f70adc239493d32f69b17f1c6cb95c109ca6e",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::06-Intro-to-Lung-Histology",
@@ -11355,7 +11430,8 @@
     {
       "first_field_hash": "30598cd026750d865e6df2307e2e075a122e3bc4e7a5b49c3459198aca2d04df",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::17-Chest-Imaging-II"
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::17-Chest-Imaging-II",
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::27-Lung-Cancer::Class-Content"
       ]
     },
     {
@@ -11377,11 +11453,55 @@
       ]
     },
     {
+      "first_field_hash": "95c74afac1e2e95446bb8489ffa998ffc0b42f021580633c737af681cea9ce1a",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::27-Lung-Cancer::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::Lung-Lab-3-Cancer-&-ILD::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "0b7a8843ca02d95c3d4fd14c89ce1a59bbd0ba17b6207de7118b888ef1ec7a2f",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::17-Chest-Imaging-II",
         "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::17-Chest-Imaging-II::Class-Content",
         "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::27-Lung-Cancer::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "8029b55dfcd3962ad6db48b6b322b038680d934d4063192ffa3dc45046c5c719",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::Lung-Lab-3-Cancer-&-ILD::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "a8e234736d673c5fca8309781e18463ff9c46088584640f07932a272b6312a8d",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::27-Lung-Cancer"
+      ]
+    },
+    {
+      "first_field_hash": "ed619be44a474c2683f7a11098629bbddf00b79a1d7f43410b1f69066c01f543",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::27-Lung-Cancer"
+      ]
+    },
+    {
+      "first_field_hash": "fb31653875ba3401edfc8341680365fe37f2a4e372bb378733b34a10dc1bac5c",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::27-Lung-Cancer",
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::Lung-Lab-3-Cancer-&-ILD::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "a82072d4c625a2c36b098c0480b0450ad395c2c94b9c8762dc11e9f0482f8f84",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::27-Lung-Cancer"
+      ]
+    },
+    {
+      "first_field_hash": "642aa3eeb3d52c42570af09575d7983a53acb4e890ca86ecf448b3ba44aee9d6",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::27-Lung-Cancer"
       ]
     },
     {
@@ -11408,7 +11528,8 @@
       "first_field_hash": "2307d5ee184e3f359a8f2520d0229833ac75c2bb3239b542c0fd8bab90a43ff6",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::17-Chest-Imaging-II",
-        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::27-Lung-Cancer"
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::27-Lung-Cancer",
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::27-Lung-Cancer::Class-Content"
       ]
     },
     {
@@ -11438,9 +11559,28 @@
       ]
     },
     {
+      "first_field_hash": "012433c6b10ca25fbe678d2c580ec6fafdc6c19d7f3c7c2c72a7f8e435af5820",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::27-Lung-Cancer"
+      ]
+    },
+    {
       "first_field_hash": "5a6e69b8e340199825c48a1a3b40691a99ec49127d77613347ca622bf02cc15a",
       "tags": [
-        "JerryShen_AnKing_Tags::Cancer-Biology::Final::05-Cancer-Genes-&-Pathways"
+        "JerryShen_AnKing_Tags::Cancer-Biology::Final::05-Cancer-Genes-&-Pathways",
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::30-Lung-Cancer-Treatment::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "5c7fbf353760405a470d6012abd2a385fcae79a3a44e11e34b4df8f2e11700ad",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::27-Lung-Cancer"
+      ]
+    },
+    {
+      "first_field_hash": "4175b84ba80831eee058bd5d88e53267b32c75a9d56225d72ff57a46aba3a16f",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::Lung-Lab-3-Cancer-&-ILD"
       ]
     },
     {
@@ -11492,9 +11632,21 @@
       ]
     },
     {
+      "first_field_hash": "efa0b135138d7d0153b6d8a69fb88cf3303ca46d45165ee424bd021b734156e1",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::27-Lung-Cancer"
+      ]
+    },
+    {
       "first_field_hash": "2d0c4483419e713a377ee7c3591f61716e3f0c2510d514d7a78ecec5102bac67",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::27-Lung-Cancer::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "a71ea15d211b295e09596250c77ecf7889b295948cc8ac113f329048d296368f",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::Lung-Lab-3-Cancer-&-ILD::Class-Content"
       ]
     },
     {
@@ -11504,9 +11656,60 @@
       ]
     },
     {
+      "first_field_hash": "7b28b1b01eda1db37328f5bef37bc48adc1417518756c3ffa25b4dcca4306313",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::27-Lung-Cancer"
+      ]
+    },
+    {
+      "first_field_hash": "b53a1ae8960a1cf65e87aa13b5baa5ead99e3bc488e31c03e3e9387fd69821bd",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::Lung-Lab-3-Cancer-&-ILD::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "5e678388bba9710d0cff7efda4c5dd87433a622e17ed5342d0f41a25c0ed97cc",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::27-Lung-Cancer"
+      ]
+    },
+    {
+      "first_field_hash": "c28254037a53a59b893cd6826f6f5b381b5591024aabccbd8e60eb3f5c3f11b0",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::27-Lung-Cancer",
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::Lung-Lab-3-Cancer-&-ILD::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "8682dc55d97528b4b56772dffe63f9f2a4a1de63fb30695194f4a354fea8990e",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::Lung-Lab-3-Cancer-&-ILD::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "30965246a84619d0765468403b00a22fbdc0937baa37661d3551d3f845bca77c",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::Lung-Lab-3-Cancer-&-ILD"
+      ]
+    },
+    {
+      "first_field_hash": "8baba4a300f626b220f37874413dcb27029bff625d6c2022deadc498fd6642ef",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::Lung-Lab-3-Cancer-&-ILD",
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::Lung-Lab-3-Cancer-&-ILD::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "6c8fc8133e7e73ab66132b203ff2530817ea487228a893b5da4d330efab0e3cd",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::27-Lung-Cancer::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "f2ca72d1c795adac2f241a81c31a2ce64930abcd2e3fcb9a42d120547f73c5a7",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::Lung-Lab-3-Cancer-&-ILD",
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::Lung-Lab-3-Cancer-&-ILD::Class-Content"
       ]
     },
     {
@@ -11523,6 +11726,18 @@
     },
     {
       "first_field_hash": "b5a2450a0581438196a1b00839725a1cb01eb86f0cd63b106e39a01972de6839",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::27-Lung-Cancer"
+      ]
+    },
+    {
+      "first_field_hash": "8c4fadb2e1a545fae11f7b276783d834853e3cb0b70631b6a19376b1ec50efff",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::27-Lung-Cancer"
+      ]
+    },
+    {
+      "first_field_hash": "056ea9a3653af83d6635392ef4516a8255d6b7b149e092af5449266e7fd152ea",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::27-Lung-Cancer"
       ]
@@ -11745,6 +11960,12 @@
       "first_field_hash": "65cc8567e6100d591623966654236536d0f8c1ddfaeb70fa7897ea490b8c5647",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::16-Clotting-&-Thromboembolic-Disease"
+      ]
+    },
+    {
+      "first_field_hash": "4fc7daf34b1408f73709b909ba03d846c7d8926c99b02f8ef692c3c641939e7b",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::17-Chest-Imaging-II"
       ]
     },
     {
@@ -13437,7 +13658,7 @@
     {
       "first_field_hash": "440d656c902156f19522afff358feeab513bae6b8dd1bf1fda07c84cb9c40d42",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::29-Frontiers-in-Lung-Biology"
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::29-Frontiers-in-Lung-Biology-&-Lung-Development"
       ]
     },
     {
@@ -13928,6 +14149,12 @@
       "first_field_hash": "6c072f9fdf661c27e26511e281a114e247f98f6dd05b874d9906e996cf4aeb40",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::25-Pulmonary-Hypertension::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "f3291884276885ca321247c08a78ffdc6212256c4453348fa63d7228edffc07c",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::25-Pulmonary-Hypertension"
       ]
     },
     {
@@ -14641,6 +14868,12 @@
       "first_field_hash": "3787d1ef20eff99d410dc4730df89a014315291b456ab61d13a09ca962cbc3d3",
       "tags": [
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-2::07-β-Lactam-Antibiotics-&-Parasites::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "bef0989dfffb1bb19c268e64c25d8aa63fa477e33fcbd0d62338d9cdf64bcb61",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::Lung-Lab-3-Cancer-&-ILD"
       ]
     },
     {
@@ -16446,7 +16679,7 @@
       ]
     },
     {
-      "first_field_hash": "7bafa5424025d7684dd8bd2821877c93af01d745b82ff82ab35f4ce4904126ca",
+      "first_field_hash": "d8e8346639a9ae67bf1a362f092e51738b23c294f1164d389d8ef1d44335642f",
       "tags": [
         "JerryShen_AnKing_Tags::Biochemistry::Final::01-Carbohydrate-Metabolism::Class-Content"
       ]
@@ -17833,6 +18066,12 @@
       "first_field_hash": "29dd56f7bc4ae50347f313acac5514e486fca8304c0006fd9cc67508a578c6a0",
       "tags": [
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-2::07-β-Lactam-Antibiotics-&-Parasites::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "68ef48488f27f4ece21e520c37579b18920ae4ec69e86bd59d2e0f3d2d06d87a",
+      "tags": [
+        "JerryShen_AnKing_Tags::Biochemistry::Final::01-Carbohydrate-Metabolism::Class-Content"
       ]
     },
     {
@@ -20290,7 +20529,8 @@
     {
       "first_field_hash": "4caa5ff1bcb35aaf421fec8032bec8d75ff65016c8deeed1ebea67496984dde5",
       "tags": [
-        "JerryShen_AnKing_Tags::Neurobiology::Exam-2::Tutorial-3-Brainstem"
+        "JerryShen_AnKing_Tags::Neurobiology::Exam-2::Tutorial-3-Brainstem",
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::Lung-Lab-3-Cancer-&-ILD"
       ]
     },
     {
@@ -23097,6 +23337,12 @@
       ]
     },
     {
+      "first_field_hash": "9d1ffc3faa0e95f5333d6e17247444ffbb4b80c4b6ef8b3c82cacf44a30faad2",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::Lung-Lab-3-Cancer-&-ILD::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "d2cd3769563c29788681759f453203aa09a7ad683d0934af77f0b7bfdbba7a5c",
       "tags": [
         "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-3-Abdomen::Histology::Class-Content"
@@ -23338,6 +23584,12 @@
       ]
     },
     {
+      "first_field_hash": "0ec09732330445252d50eaa6ece786bc15acf29478fb94092797f962b85d7f0d",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::27-Lung-Cancer"
+      ]
+    },
+    {
       "first_field_hash": "bd65ffc2c86e1b8e342c8cfc063f17f639b1d6f518d579a21c96b5e98020e946",
       "tags": [
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-1::05-Intro-to-Fungi::Class-Content"
@@ -23431,7 +23683,8 @@
     {
       "first_field_hash": "07c2f7118a9d9b3c9ab02fc92434759603bdc8afa484cf91add217b31a89c0d0",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::27-Lung-Cancer"
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::27-Lung-Cancer",
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::Lung-Lab-3-Cancer-&-ILD::Class-Content"
       ]
     },
     {
@@ -23716,6 +23969,12 @@
       "first_field_hash": "7a2cc5d16ed981412232fd7cf4d5d4e71108a11f9a179af16e0c349f742a42a7",
       "tags": [
         "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-3-Abdomen::Anatomy"
+      ]
+    },
+    {
+      "first_field_hash": "97b5cfd927b74e52c6ad97bd2fc8b61227b95b4364392c1e92a0b2ddd24bccb5",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::25-Pulmonary-Hypertension"
       ]
     },
     {
@@ -25655,14 +25914,14 @@
       "first_field_hash": "54d626e08c1c802b305dad30b7e54a82f102390cc92c7d4db112048935236e9c",
       "tags": [
         "JerryShen_AnKing_Tags::(✏️)-Tagged-by-Jerry-Shen",
-        "JerryShen_AnKing_Tags::(🛠️)-Last-Updated-050112026-(Lung-Cancer)"
+        "JerryShen_AnKing_Tags::(🛠️)-Last-Updated-05122026"
       ]
     },
     {
       "first_field_hash": "54d626e08c1c802b305dad30b7e54a82f102390cc92c7d4db112048935236e9c",
       "tags": [
         "JerryShen_AnKing_Tags::(✏️)-Tagged-by-Jerry-Shen",
-        "JerryShen_AnKing_Tags::(🛠️)-Last-Updated-050112026-(Lung-Cancer)"
+        "JerryShen_AnKing_Tags::(🛠️)-Last-Updated-05122026"
       ]
     },
     {
@@ -27283,6 +27542,12 @@
       "first_field_hash": "d041334d60de82b1e27f9e075309c10023f15ca9c1b834bd86392938a8c51c97",
       "tags": [
         "JerryShen_AnKing_Tags::Immunology::Final::Solid-Organ-&-HSC-Transplantation"
+      ]
+    },
+    {
+      "first_field_hash": "09eb7db5003483552b75e1aa79effe4d811ad666248ce8ac786e45eb8854fa8b",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::04-O2-and-CO2-Transport"
       ]
     },
     {
@@ -29670,6 +29935,12 @@
       ]
     },
     {
+      "first_field_hash": "953c90afe5cc6df8cac40fc784d930cfc9c2ebffe3324ac4fd5c09539b7e3900",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::27-Lung-Cancer"
+      ]
+    },
+    {
       "first_field_hash": "419def1e3f4e7c383386f4b04c52e27112580b06991d28a197062e85267d3328",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::19-ARDS-&-Ventilators"
@@ -29795,14 +30066,18 @@
       "tags": [
         "JerryShen_AnKing_Tags::Cancer-Biology::Final::Cancer-Pharmacology",
         "JerryShen_AnKing_Tags::Cancer-Biology::Final::Cancer-Pharmacology::Class-Content",
-        "JerryShen_AnKing_Tags::Micro-Pharm::Exam-2::10-Biologics-Ectoparasites-&-Clinical-Cases::Class-Content"
+        "JerryShen_AnKing_Tags::Micro-Pharm::Exam-2::10-Biologics-Ectoparasites-&-Clinical-Cases::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::30-Lung-Cancer-Treatment::Class-Content"
       ]
     },
     {
       "first_field_hash": "7d20b194c4b0b3991f781230dec9aef30d1d73dd76ff34d283a5dd385186ac23",
       "tags": [
         "JerryShen_AnKing_Tags::Cancer-Biology::Final::Cancer-Pharmacology",
-        "JerryShen_AnKing_Tags::Immunology::Final::Cancer-Immune-Interface"
+        "JerryShen_AnKing_Tags::Immunology::Final::Cancer-Immune-Interface",
+        "JerryShen_AnKing_Tags::Immunology::Final::Cancer-Immune-Interface::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::30-Lung-Cancer-Treatment",
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::30-Lung-Cancer-Treatment::Class-Content"
       ]
     },
     {
@@ -29829,6 +30104,12 @@
       "first_field_hash": "5eac87c48e9f6caaec65f4acd9df0cca7cd0082a5f85f78ca7d09ae9889d04f0",
       "tags": [
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-2::08-Other-Antibiotics-&-Mycobacteria"
+      ]
+    },
+    {
+      "first_field_hash": "00f64fb4ec9ecf9a3231af6055f4ad076d5dbf44df527b30d11590c541b2e54a",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::30-Lung-Cancer-Treatment"
       ]
     },
     {
@@ -30016,7 +30297,8 @@
     {
       "first_field_hash": "54722114f6d3528c1cb75d4b8c4c02b3e3ac0ca51e45a6324d5c288b7e2ed365",
       "tags": [
-        "JerryShen_AnKing_Tags::Cancer-Biology::Final::Cancer-Pharmacology"
+        "JerryShen_AnKing_Tags::Cancer-Biology::Final::Cancer-Pharmacology",
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::30-Lung-Cancer-Treatment"
       ]
     },
     {
@@ -30029,6 +30311,12 @@
       "first_field_hash": "accb50b037772624a84330e307e2e2708ebd057e204d8ed69bce23f1f841185a",
       "tags": [
         "JerryShen_AnKing_Tags::Cancer-Biology::Final::Cancer-Pharmacology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "47244f8c586e73126e08602953b90955d05560a02246e308f7280c0f51661e04",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::30-Lung-Cancer-Treatment"
       ]
     },
     {
@@ -30252,6 +30540,13 @@
       ]
     },
     {
+      "first_field_hash": "fd8a6af82d9a70c3107db59ae5fd9fe1b96539a09e888e5fe89d9e3d6291a12b",
+      "tags": [
+        "JerryShen_AnKing_Tags::Cancer-Biology::Final::Cancer-Pharmacology",
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::30-Lung-Cancer-Treatment"
+      ]
+    },
+    {
       "first_field_hash": "a670daaece293ee48d4b684ecdc31c3272eb6e03e3b3f2c4ddfa8acf6114cea3",
       "tags": [
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-1::04-Intro-to-Viruses::Class-Content"
@@ -30435,13 +30730,29 @@
     {
       "first_field_hash": "82bab0665cbd5e33918916dd5f49592f6e15fe6149aa8cd2bc366adddbec6001",
       "tags": [
-        "JerryShen_AnKing_Tags::Cancer-Biology::Final::02-Cell-Injury-&-Death"
+        "JerryShen_AnKing_Tags::Cancer-Biology::Final::02-Cell-Injury-&-Death",
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::Lung-Lab-3-Cancer-&-ILD::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "bdb253e6f77a511443ff2f84869893fe0f20696617f4feddfa5bf475e7c905f5",
+      "tags": [
+        "JerryShen_AnKing_Tags::Cancer-Biology::Final::03-Intro-to-Cancer-Biology",
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::Lung-Lab-3-Cancer-&-ILD::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "b315e7cf894c9ba07de572ab14df68009017905f525ce64c1c8cf8e3e4dbd021",
+      "tags": [
+        "JerryShen_AnKing_Tags::Cancer-Biology::Final::03-Intro-to-Cancer-Biology",
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::Lung-Lab-3-Cancer-&-ILD::Class-Content"
       ]
     },
     {
       "first_field_hash": "72a7dc314e295fd07dc5f1379c5fa2463e13e7d9277192693912dbb1bd7947db",
       "tags": [
-        "JerryShen_AnKing_Tags::Cancer-Biology::Final::Lab-01-Cancer-Case-Studies::Class-Content"
+        "JerryShen_AnKing_Tags::Cancer-Biology::Final::Lab-01-Cancer-Case-Studies::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::Lung-Lab-3-Cancer-&-ILD::Class-Content"
       ]
     },
     {
@@ -30473,6 +30784,13 @@
       "first_field_hash": "3de61f3e85a7200df02fbfb8c7fc7ab9d6b5d99575ace6285c7fb1eb6b61cd1f",
       "tags": [
         "JerryShen_AnKing_Tags::Cancer-Biology::Final::06-Role-of-Pathology-in-Cancer-Diagnosis::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "fd2a0371a11364b9e482f9d9ae6544e6a46bc2df40b9df02bc03efaf189421cf",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::27-Lung-Cancer",
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::Lung-Lab-3-Cancer-&-ILD::Class-Content"
       ]
     },
     {
@@ -31000,7 +31318,8 @@
     {
       "first_field_hash": "39b3c11c450fd1c86c28e120e6c4e91b4a87a219767c014d6c8505a6f765bda3",
       "tags": [
-        "JerryShen_AnKing_Tags::Cancer-Biology::Final::Cancer-Pharmacology"
+        "JerryShen_AnKing_Tags::Cancer-Biology::Final::Cancer-Pharmacology",
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::30-Lung-Cancer-Treatment"
       ]
     },
     {
@@ -34156,6 +34475,12 @@
       "first_field_hash": "6212bb36f39b7841781cd0a27792e548c396781a3cf3d9aecde31b994a5c6854",
       "tags": [
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-2::07-β-Lactam-Antibiotics-&-Parasites::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "5fd77e63df048daf13a7c5b4ca13b0c46ac24e845337477efecf02e3c871ab54",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::30-Lung-Cancer-Treatment::Class-Content"
       ]
     },
     {
@@ -37599,13 +37924,15 @@
     {
       "first_field_hash": "2e34500f8619d9b0ff93e9768eca58b3756556b67ef3df78edebc7b5971eeb0f",
       "tags": [
-        "JerryShen_AnKing_Tags::Cancer-Biology::Final::Cancer-Pharmacology::Class-Content"
+        "JerryShen_AnKing_Tags::Cancer-Biology::Final::Cancer-Pharmacology::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::30-Lung-Cancer-Treatment::Class-Content"
       ]
     },
     {
       "first_field_hash": "16d2acb938268736a29b4d8c19ab60316b7b5beebe048fcef5d4fa9b662cf885",
       "tags": [
-        "JerryShen_AnKing_Tags::Cancer-Biology::Final::Cancer-Pharmacology::Class-Content"
+        "JerryShen_AnKing_Tags::Cancer-Biology::Final::Cancer-Pharmacology::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::30-Lung-Cancer-Treatment::Class-Content"
       ]
     },
     {
@@ -37617,7 +37944,8 @@
     {
       "first_field_hash": "360ea14e86429dbaec4ab93965c1d4e96ca56f49a40b47c31eb616c09079b453",
       "tags": [
-        "JerryShen_AnKing_Tags::Cancer-Biology::Final::Cancer-Pharmacology::Class-Content"
+        "JerryShen_AnKing_Tags::Cancer-Biology::Final::Cancer-Pharmacology::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::30-Lung-Cancer-Treatment::Class-Content"
       ]
     },
     {
@@ -37645,6 +37973,12 @@
       ]
     },
     {
+      "first_field_hash": "f17bc4d47f14159faab9bfb76298b10513190f9899ec18df3cfe30c210996dd1",
+      "tags": [
+        "JerryShen_AnKing_Tags::Cancer-Biology::Final::Cancer-Pharmacology::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "3590e859d2507e02a30bee2d441103758e4b5e9681fdccccca274e4ad2904390",
       "tags": [
         "JerryShen_AnKing_Tags::Cancer-Biology::Final::Cancer-Pharmacology"
@@ -37657,9 +37991,24 @@
       ]
     },
     {
+      "first_field_hash": "f6041a66b912c54079dc0c47470ff8762c62f12bdbbcc3b0e42911b531532147",
+      "tags": [
+        "JerryShen_AnKing_Tags::Cancer-Biology::Final::Cancer-Pharmacology",
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::30-Lung-Cancer-Treatment"
+      ]
+    },
+    {
       "first_field_hash": "10e2d4badac6e7ce2db3d7b83359975b0792e38eaac8d991fbca447c870ba519",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::14-Lung-Pharmacology::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::14-Lung-Pharmacology::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::30-Lung-Cancer-Treatment::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "f3cf18482a5734645439f4e2fc385ff1b164396ad2d8e16825d6d20e1006f189",
+      "tags": [
+        "JerryShen_AnKing_Tags::Cancer-Biology::Final::Cancer-Pharmacology",
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::30-Lung-Cancer-Treatment"
       ]
     },
     {
@@ -37669,9 +38018,28 @@
       ]
     },
     {
+      "first_field_hash": "7e2f9073d36e5cee211df6421e45679fde6975c173a61054b603f598fb82028f",
+      "tags": [
+        "JerryShen_AnKing_Tags::Cancer-Biology::Final::Cancer-Pharmacology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "bb90ec86747d190a02c3f0d4f633606d8c53db80e8f08674653051276124612d",
+      "tags": [
+        "JerryShen_AnKing_Tags::Cancer-Biology::Final::Cancer-Pharmacology",
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::30-Lung-Cancer-Treatment"
+      ]
+    },
+    {
       "first_field_hash": "666d4fb45f747f9dc4484e8d08db65b6769d1428c96835dc2b772659ffa99bb1",
       "tags": [
         "JerryShen_AnKing_Tags::Cancer-Biology::Final::Cancer-Pharmacology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "b5250411bbb8b7b6629d02e1d467beaa4dd3d3e6e0e4d70a7f8b9ae9d5d13beb",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::30-Lung-Cancer-Treatment::Class-Content"
       ]
     },
     {
@@ -37739,14 +38107,16 @@
       "first_field_hash": "f83a85c85bb1677d8ff7b73b8bb485d835d8bbe8025e766f4cfe60bf1fe531d0",
       "tags": [
         "JerryShen_AnKing_Tags::Cancer-Biology::Final::Cancer-Pharmacology",
-        "JerryShen_AnKing_Tags::Cancer-Biology::Final::Cancer-Pharmacology::Class-Content"
+        "JerryShen_AnKing_Tags::Cancer-Biology::Final::Cancer-Pharmacology::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::30-Lung-Cancer-Treatment::Class-Content"
       ]
     },
     {
       "first_field_hash": "3189390a831a4a2c33cc30672ad13329291b67b6646c02ee3263a329dc941dad",
       "tags": [
         "JerryShen_AnKing_Tags::Cancer-Biology::Final::Cancer-Pharmacology",
-        "JerryShen_AnKing_Tags::Cancer-Biology::Final::Cancer-Pharmacology::Class-Content"
+        "JerryShen_AnKing_Tags::Cancer-Biology::Final::Cancer-Pharmacology::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::30-Lung-Cancer-Treatment::Class-Content"
       ]
     },
     {
@@ -37792,6 +38162,12 @@
       ]
     },
     {
+      "first_field_hash": "738c280d71347390430836c8dbe18aa69cc748fd521a00d5b5706103d69ba732",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::30-Lung-Cancer-Treatment::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "bbe4d1d66dee11a0d0c6fd832a6b89dbf0ae3093855149a5640e955bf114334c",
       "tags": [
         "JerryShen_AnKing_Tags::Cancer-Biology::Final::Cancer-Pharmacology",
@@ -37806,6 +38182,39 @@
       ]
     },
     {
+      "first_field_hash": "ade3185172d150a75817760004b7ff21bf893d98912002ee6855fb6fb5de2827",
+      "tags": [
+        "JerryShen_AnKing_Tags::Cancer-Biology::Final::Cancer-Pharmacology",
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::30-Lung-Cancer-Treatment::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "7def18c0498d7888c4d111a8d6e7462489628614e5c5aaf91c769077b69dfe23",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::30-Lung-Cancer-Treatment"
+      ]
+    },
+    {
+      "first_field_hash": "dd6766351c25155f27971d51bd99153a22c8052a8e2ccf57f69744d1d86ea49f",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::30-Lung-Cancer-Treatment"
+      ]
+    },
+    {
+      "first_field_hash": "cd9144a8660bcd4ebacf3ac26311b129b44383aeed9cea21bf1191099b3ee9fa",
+      "tags": [
+        "JerryShen_AnKing_Tags::Cancer-Biology::Final::Cancer-Pharmacology",
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::30-Lung-Cancer-Treatment"
+      ]
+    },
+    {
+      "first_field_hash": "94c843d43a43da2d68336d73459f6b717d4bdf36fcdb611fa4bf1c53ac098dc6",
+      "tags": [
+        "JerryShen_AnKing_Tags::Cancer-Biology::Final::Cancer-Pharmacology",
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::30-Lung-Cancer-Treatment"
+      ]
+    },
+    {
       "first_field_hash": "73b13205d8ce91c025ee54bb87d901e6fb66c25e1114aa2df4c6b044cfcfd50e",
       "tags": [
         "JerryShen_AnKing_Tags::Cancer-Biology::Final::Cancer-Pharmacology::Class-Content"
@@ -37814,13 +38223,28 @@
     {
       "first_field_hash": "eebd4a024669920b48bfb9126dafe11938c3adfcaf260f53be2007304fa169b8",
       "tags": [
-        "JerryShen_AnKing_Tags::Cancer-Biology::Final::Cancer-Pharmacology::Class-Content"
+        "JerryShen_AnKing_Tags::Cancer-Biology::Final::Cancer-Pharmacology::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::30-Lung-Cancer-Treatment",
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::30-Lung-Cancer-Treatment::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "83746eb1668c8e4b40b164eff11bd4302555f5f94299cdd45ffd98bff0513860",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::30-Lung-Cancer-Treatment::Class-Content"
       ]
     },
     {
       "first_field_hash": "bb327f180f594b4d8c873f6eb5487987d486aa02e6b9fd0444a792e9f6609d42",
       "tags": [
-        "JerryShen_AnKing_Tags::Cancer-Biology::Final::Cancer-Pharmacology::Class-Content"
+        "JerryShen_AnKing_Tags::Cancer-Biology::Final::Cancer-Pharmacology::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::30-Lung-Cancer-Treatment::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "97df6e66a3db4c85165e4de93a9a0a72c23370bdf725b23b30c87231e411c305",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::30-Lung-Cancer-Treatment::Class-Content"
       ]
     },
     {
@@ -39987,6 +40411,13 @@
       ]
     },
     {
+      "first_field_hash": "750b1f4b03ed84f087442369a4725d623d4bc36b48fece347e79708592c0c45e",
+      "tags": [
+        "JerryShen_AnKing_Tags::POM-3::Clinical-Reasoning::Approach-to-Acute-Dyspnea::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::16-Clotting-&-Thromboembolic-Disease"
+      ]
+    },
+    {
       "first_field_hash": "80571bca353fa15f3202e23edfc43a96f3881f94d61ae34e713202342debd02e",
       "tags": [
         "JerryShen_AnKing_Tags::POM-3::Clinical-Reasoning::Approach-to-Acute-Dyspnea"
@@ -41759,6 +42190,12 @@
       ]
     },
     {
+      "first_field_hash": "5f63cca9c23319a3967104ea96558493ee649ee84e0a3f96f6a5edebdd6563ac",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::27-Lung-Cancer"
+      ]
+    },
+    {
       "first_field_hash": "dcb82208488a1bf989b4a4d44c664e267f45c3be277b789aaa1e38c5dfd3b72e",
       "tags": [
         "JerryShen_AnKing_Tags::Cancer-Biology::Final::05-Cancer-Genes-&-Pathways::Class-Content"
@@ -41810,7 +42247,8 @@
     {
       "first_field_hash": "a4151875740fca2ed1132e8c9bcfd5ef7ecde875616abd4ad6da7627461a8ae5",
       "tags": [
-        "JerryShen_AnKing_Tags::Neurobiology::Exam-2::Lec-PNS-Disorders"
+        "JerryShen_AnKing_Tags::Neurobiology::Exam-2::Lec-PNS-Disorders",
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::Lung-Lab-3-Cancer-&-ILD::Class-Content"
       ]
     },
     {
@@ -41859,6 +42297,12 @@
       "first_field_hash": "ca558a81ddbd6cf52a45ecce9275162c5d9983c4b208a3ca399c9072ebd9b3e7",
       "tags": [
         "JerryShen_AnKing_Tags::Biochemistry::Final::01-Carbohydrate-Metabolism"
+      ]
+    },
+    {
+      "first_field_hash": "c601b24d49c103c571f6be6f407c3c9eda0552a7d9ad6f25dd765dcbac86eb15",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::Lung-Lab-3-Cancer-&-ILD::Class-Content"
       ]
     },
     {
@@ -41913,6 +42357,12 @@
       "first_field_hash": "6cdad9f2552823413af6a1bf1d47d63ffa2ffe4ec1f662e2a2da3dc6c01d97e6",
       "tags": [
         "JerryShen_AnKing_Tags::Cancer-Biology::Final::06-Role-of-Pathology-in-Cancer-Diagnosis"
+      ]
+    },
+    {
+      "first_field_hash": "7396c9d9122fc2a943e7ee2b92ebab31b8144e019d204123a6f82c206605f360",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::Lung-Lab-3-Cancer-&-ILD::Class-Content"
       ]
     },
     {
@@ -42036,7 +42486,8 @@
       "tags": [
         "JerryShen_AnKing_Tags::Cancer-Biology::Final::Cancer-Pharmacology",
         "JerryShen_AnKing_Tags::Cancer-Biology::Final::Cancer-Pharmacology::Class-Content",
-        "JerryShen_AnKing_Tags::Micro-Pharm::Exam-2::10-Biologics-Ectoparasites-&-Clinical-Cases::Class-Content"
+        "JerryShen_AnKing_Tags::Micro-Pharm::Exam-2::10-Biologics-Ectoparasites-&-Clinical-Cases::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::30-Lung-Cancer-Treatment::Class-Content"
       ]
     },
     {
@@ -42732,6 +43183,12 @@
       ]
     },
     {
+      "first_field_hash": "af304ef376045596dd566a25369a83c1cdcebf089e0b0254299dd351d785cdb9",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::23-Pleural-Disease::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "bfba999ca6fa24ef78ed7cd48d72d1723b2e09fd5fb818a1973aceb91c8f7c58",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::25-Pulmonary-Hypertension"
@@ -43419,6 +43876,12 @@
       ]
     },
     {
+      "first_field_hash": "f7ae64a8510bce02b29f8e725ffa359aedda439117dcf4e1407a1c6b133e3861",
+      "tags": [
+        "JerryShen_AnKing_Tags::POM-3::Clinical-Reasoning::Advanced-Pulmonary-Exam"
+      ]
+    },
+    {
       "first_field_hash": "c4903abe8c2083d8e509bc32a8695deb54176af23c4eab1ed076cf107c573b9a",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::02-Pulmonary-Circulation",
@@ -43638,13 +44101,41 @@
       "tags": [
         "JerryShen_AnKing_Tags::Cancer-Biology::Final::Cancer-Pharmacology",
         "JerryShen_AnKing_Tags::Cancer-Biology::Final::Cancer-Pharmacology::Class-Content",
-        "JerryShen_AnKing_Tags::Immunology::Final::Cancer-Immune-Interface::Class-Content"
+        "JerryShen_AnKing_Tags::Immunology::Final::Cancer-Immune-Interface::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::30-Lung-Cancer-Treatment::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "88f05368c69f5eb567e2495dc14701ed25ebdfa638cf40d1ec4e36d9da623503",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::27-Lung-Cancer",
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::27-Lung-Cancer::Class-Content"
       ]
     },
     {
       "first_field_hash": "82ec5f578b7ecec8fbbc67c38c22e8f2ddc084a2fdff633ddd03fef9d490905f",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::23-Pleural-Disease"
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::23-Pleural-Disease",
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::27-Lung-Cancer",
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::30-Lung-Cancer-Treatment::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "86222b1f69b96db23c8f8f9ff2c838bfd3e7b18e40e8fc86e7c015d9a69a2b7a",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::27-Lung-Cancer"
+      ]
+    },
+    {
+      "first_field_hash": "d9f4c9e8ff8019cc51b03506a26c37343de213b0f26babbd03a78cff708a1fcb",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::27-Lung-Cancer"
+      ]
+    },
+    {
+      "first_field_hash": "ce41d0084af507e0d661be22f94d9abe862df1315ca22bc29dffc4c3859a52dc",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::27-Lung-Cancer"
       ]
     },
     {
@@ -43663,6 +44154,12 @@
       "first_field_hash": "7f0750dd01b9476ef447f002c39ad23cee9de78e5622fcd5fd12e66b1e54ca72",
       "tags": [
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-2::09-Misc-Antimicrobials-&-Skin-Infections"
+      ]
+    },
+    {
+      "first_field_hash": "bc496ba2a6e2d6e313ced448aca024ee57b716ac1dc8989e400101990c477ebf",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::20-Interstitial-Lung-Disease"
       ]
     },
     {
@@ -44065,6 +44562,12 @@
       "first_field_hash": "90fb63561c764e41c3d6a0aca4dc66e9aac32bb243bff7ea1f27eee246f80dc3",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::17-Chest-Imaging-II"
+      ]
+    },
+    {
+      "first_field_hash": "2ce53dc471f865e5e190b3f914d9e1e0519d86e1e44608f086b42ae92cc3d897",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::Lung-Lab-3-Cancer-&-ILD::Class-Content"
       ]
     },
     {
@@ -46705,6 +47208,12 @@
       ]
     },
     {
+      "first_field_hash": "8256e3c76c6140db14c473da93eb5e05d45833062504a12dd1ff330e6ce95d79",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::30-Lung-Cancer-Treatment::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "467f0594976c45e9aa8b3b8f225e5ca482d9ddd150a79c43354df3cf58a04248",
       "tags": [
         "JerryShen_AnKing_Tags::POM-1::Final::Public-Health::Class-Content"
@@ -46941,6 +47450,12 @@
       ]
     },
     {
+      "first_field_hash": "3557b3274a134334ba40e33fd71d3d4589e9476412cf10bd3346ee3390f07015",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::20-Interstitial-Lung-Disease"
+      ]
+    },
+    {
       "first_field_hash": "dde81923de8efcda05d3b58a43b6290536a8ac940bb13445c49ed5c65177dab7",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::20-Interstitial-Lung-Disease"
@@ -46955,7 +47470,8 @@
     {
       "first_field_hash": "fd266d8054a5307ed5b92240337e6cfe2a87452fd8d974311aad0d3a60652c1a",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::20-Interstitial-Lung-Disease::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::20-Interstitial-Lung-Disease::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::Lung-Lab-3-Cancer-&-ILD::Class-Content"
       ]
     },
     {
@@ -47340,7 +47856,8 @@
     {
       "first_field_hash": "d23e6218616abb78812f4a379ee423d618540661a635b4f2cf160615a3110d85",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::06-Intro-to-Lung-Histology"
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::06-Intro-to-Lung-Histology",
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::Lung-Lab-3-Cancer-&-ILD::Class-Content"
       ]
     },
     {
@@ -47496,6 +48013,12 @@
       "first_field_hash": "d0922bf423c18a6852c4e319d6c48af335954cd90bd259cd7cff6b7138b24f12",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::16-Lower-Respiratory-Infections"
+      ]
+    },
+    {
+      "first_field_hash": "64f5ac144548164167bc5155cf7acbe52934a2aa7e5c62aab5b5edf6df97ddae",
+      "tags": [
+        "JerryShen_AnKing_Tags::POM-3::Clinical-Reasoning::Advanced-Pulmonary-Exam"
       ]
     },
     {
@@ -47912,20 +48435,23 @@
     {
       "first_field_hash": "fe314cae5b3c809dbe2dd4f2d8b22dd9cb40550193384e8c33bef89cee092d2c",
       "tags": [
-        "JerryShen_AnKing_Tags::Cancer-Biology::Final::Cancer-Pharmacology"
+        "JerryShen_AnKing_Tags::Cancer-Biology::Final::Cancer-Pharmacology",
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::30-Lung-Cancer-Treatment::Class-Content"
       ]
     },
     {
       "first_field_hash": "f7453216525a06c51572003b8d0ac35b8ac209bd18b7e895921a99d4bf039e5d",
       "tags": [
-        "JerryShen_AnKing_Tags::Micro-Pharm::Exam-2::10-Biologics-Ectoparasites-&-Clinical-Cases"
+        "JerryShen_AnKing_Tags::Micro-Pharm::Exam-2::10-Biologics-Ectoparasites-&-Clinical-Cases",
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::30-Lung-Cancer-Treatment::Class-Content"
       ]
     },
     {
       "first_field_hash": "a5afd18b77cf48f72dafdcee975c6e83f2919eda6fb2fc9ba93e47851434f3a0",
       "tags": [
         "JerryShen_AnKing_Tags::Cancer-Biology::Final::Cancer-Pharmacology",
-        "JerryShen_AnKing_Tags::Cancer-Biology::Final::Cancer-Pharmacology::Class-Content"
+        "JerryShen_AnKing_Tags::Cancer-Biology::Final::Cancer-Pharmacology::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::30-Lung-Cancer-Treatment::Class-Content"
       ]
     },
     {
@@ -48057,6 +48583,12 @@
       ]
     },
     {
+      "first_field_hash": "e66f7a6e6bc472ca1cad7c0c1e15b58ece391081d8a23aae88f948726bb05fb0",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::20-Interstitial-Lung-Disease"
+      ]
+    },
+    {
       "first_field_hash": "fbe627f0947fc64bcf7c007e171a4389d8a84a99696262ac9de5c93173aade03",
       "tags": [
         "JerryShen_AnKing_Tags::POM-2::Final::Clinical-Skills"
@@ -48181,6 +48713,12 @@
       "first_field_hash": "4a2e0f5c9099737044f0776ef3e2d2e0190c8012e82ad923b8ea4d881f5e69b5",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::16-Clotting-&-Thromboembolic-Disease"
+      ]
+    },
+    {
+      "first_field_hash": "146a2c70bc5a7d866872841ab614e6849e6f4de8990099c39e6a3851f62c297e",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::30-Lung-Cancer-Treatment"
       ]
     },
     {
@@ -48708,6 +49246,12 @@
       "first_field_hash": "3a55a081dcb12d38fab0da9b548056d1f925a4cd273137a28eb9f2bd039f8c0b",
       "tags": [
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-2::08-Other-Antibiotics-&-Mycobacteria"
+      ]
+    },
+    {
+      "first_field_hash": "0e5da5c5ea01a24816eb771e3d6d026628d21a8d940c939445809f648421408b",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::30-Lung-Cancer-Treatment::Class-Content"
       ]
     },
     {
