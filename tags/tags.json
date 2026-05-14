@@ -1,14 +1,14 @@
 {
   "schema_version": 1,
   "author": "JerryShen",
-  "description": "lung cancer and lung lab",
-  "created": "2026-05-12T20:57:01.300107+00:00",
-  "updated": "2026-05-12T20:57:01.300107+00:00",
+  "description": "ihd and coronary arteries",
+  "created": "2026-05-14T19:05:33.928029+00:00",
+  "updated": "2026-05-14T19:05:33.928029+00:00",
   "tag_prefix": "JerryShen_AnKing_Tags",
   "tag_hierarchy": [
     "JerryShen_AnKing_Tags",
     "JerryShen_AnKing_Tags::(✏️)-Tagged-by-Jerry-Shen",
-    "JerryShen_AnKing_Tags::(🛠️)-Last-Updated-05122026",
+    "JerryShen_AnKing_Tags::(🛠️)-Last-Updated-05142026",
     "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology",
     "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-1-Thorax",
     "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-1-Thorax::Anatomy",
@@ -314,6 +314,10 @@
     "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::22-Peripheral-Arterial-&-Aortic-Disease::Class-Content",
     "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::23-Endocarditis",
     "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::23-Endocarditis::Class-Content",
+    "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::25-Coronary-Circulation",
+    "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::25-Coronary-Circulation::Class-Content",
+    "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::26-Pathology-of-Atherosclerosis-&-IHD",
+    "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::26-Pathology-of-Atherosclerosis-&-IHD::Class-Content",
     "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::CV-Lab-03-Autonomic-Drugs-&-Clinical-Correlates",
     "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::CV-Lab-03-Autonomic-Drugs-&-Clinical-Correlates::Class-Content",
     "JerryShen_AnKing_Tags::SOM-1::MSK-Block",
@@ -527,6 +531,11 @@
       "date": "2026-05-12T20:57:01.300107+00:00",
       "message": "lung cancer and lung lab",
       "note_count": 115
+    },
+    {
+      "date": "2026-05-14T19:05:33.928029+00:00",
+      "message": "ihd and coronary arteries",
+      "note_count": 146
     }
   ],
   "notes": [
@@ -3601,7 +3610,8 @@
     {
       "first_field_hash": "863dd81fcc38d617a21c0feda8c051b16a5a93bb1c401d91a1830facf7359a9e",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::20-Hemodynamics::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::20-Hemodynamics::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::25-Coronary-Circulation::Class-Content"
       ]
     },
     {
@@ -4321,7 +4331,8 @@
     {
       "first_field_hash": "a5adf0fbaffea2c1dd3b9273d5749ed566678a25acfe87add5518579d487d5f8",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::06-Hypertrophy-and-Bundle-Branch-Block::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::06-Hypertrophy-and-Bundle-Branch-Block::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::26-Pathology-of-Atherosclerosis-&-IHD"
       ]
     },
     {
@@ -4676,6 +4687,12 @@
       "first_field_hash": "7b0b308f8c872fbea69f920938c373a8505a1c3d871fe540aa28b972d5ed3b76",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::10-Autonomic-Physiology-and-Pharmacology"
+      ]
+    },
+    {
+      "first_field_hash": "c1e37b4a97d9b0f734d6b368cf9d99ac5469b098d317de8c82e2ef1b6f26c740",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::19-Central-&-Peripheral-Control-of-Circulation"
       ]
     },
     {
@@ -5307,6 +5324,18 @@
       ]
     },
     {
+      "first_field_hash": "59fdba9592a5a3d63f893247dfeb720195cd0f8da26442a464c9a7f439bd7e48",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::25-Coronary-Circulation"
+      ]
+    },
+    {
+      "first_field_hash": "8d7ba20f9a389b01dc76afcb1a2ced83234eca71268767fc1d6dbce41424299d",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::25-Coronary-Circulation::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "18b49aed7f1f1b5426a2a832abbfce0ea70f8a684c7bd1eb5417b468478cdf1c",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::19-Central-&-Peripheral-Control-of-Circulation"
@@ -5316,6 +5345,19 @@
       "first_field_hash": "21c7606b6cddf36f0fd2de3ba172367b1192425ad117d085988f9237401580d1",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::19-Central-&-Peripheral-Control-of-Circulation"
+      ]
+    },
+    {
+      "first_field_hash": "3b0370362b97a78105483f08965dd1dd73bd5489cac317f6336dba74fdfdd84c",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::25-Coronary-Circulation"
+      ]
+    },
+    {
+      "first_field_hash": "0e7e60b03ea81716a6c129e433677e289a2d4e06c386c2c798f2d12e0453c840",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::25-Coronary-Circulation",
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::25-Coronary-Circulation::Class-Content"
       ]
     },
     {
@@ -5757,9 +5799,57 @@
       ]
     },
     {
+      "first_field_hash": "f2e2d48cd5ac893b0ae43e1072edf2e0f40ae0861d1fb6bc7ac83374e58c813a",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::26-Pathology-of-Atherosclerosis-&-IHD::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "7316bd7a0b43004f18ace833bbed2e80b34cf44714b2d578ffb7b67a2f6484ad",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::26-Pathology-of-Atherosclerosis-&-IHD::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "eaa82c031e242a4e031826306b6868e47d1cfa31bb3623bb043ea26009d817cb",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::26-Pathology-of-Atherosclerosis-&-IHD"
+      ]
+    },
+    {
+      "first_field_hash": "2586781084c76f39148de3909467e77a58b3c64be0e404c5be4bab9796e6e4e3",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::26-Pathology-of-Atherosclerosis-&-IHD::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "673a628e1e1e19b824afd8d379a4840a563f2a4cb6d32d8190fbee1e99069dcf",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::26-Pathology-of-Atherosclerosis-&-IHD"
+      ]
+    },
+    {
+      "first_field_hash": "333ba4b7033b72ac3ac66be82f0be95859124a0f1a5b777d33e6d8c6ea6e1294",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::26-Pathology-of-Atherosclerosis-&-IHD::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "9ffe2431cd588c2b4b12e234ba9fcd41b94f1bd487053f8c412520822e270d85",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::25-Coronary-Circulation"
+      ]
+    },
+    {
       "first_field_hash": "2c6468a9ec41e7378fe7b123ed85be21a5dd701954e4d4e7b46edddd073806aa",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::22-Peripheral-Arterial-&-Aortic-Disease"
+      ]
+    },
+    {
+      "first_field_hash": "f2a5df2d34c28ea21e62f6e537fc71959b75768869c5d1eea1e49a9bd37ba9a8",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::25-Coronary-Circulation"
       ]
     },
     {
@@ -5769,9 +5859,21 @@
       ]
     },
     {
+      "first_field_hash": "faac56b437a720b37b95963307c6cfe36b3e73723341e3e7ec0ac9f5cda32550",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::26-Pathology-of-Atherosclerosis-&-IHD"
+      ]
+    },
+    {
       "first_field_hash": "f9939787d68a81635011c203e3ceb2b8e1aeaedb594516518231aaf0885c3edd",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::22-Peripheral-Arterial-&-Aortic-Disease::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "baf542da575969f38e31e4ed5fd65c6c8b7b40a9088114df06286a6490ff91de",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::26-Pathology-of-Atherosclerosis-&-IHD::Class-Content"
       ]
     },
     {
@@ -5824,27 +5926,158 @@
       ]
     },
     {
+      "first_field_hash": "a3510796d1a7d412d9718e593bbac079a578f952f9ea2d549693bb6daf8c184e",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::25-Coronary-Circulation::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "3d73b9935f07e910ebe47820285e1c7d9695a369811688fa665d5cce50ae28fc",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::25-Coronary-Circulation",
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::25-Coronary-Circulation::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "95dc3a9719d3feba900a283d5ca507f6c2db8913d13a12c71da8ad79b5f4ce4e",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::25-Coronary-Circulation"
+      ]
+    },
+    {
+      "first_field_hash": "839a27e9947e4e3c71281d94ed847a0cf8e53e2f262523b87fbd4b194a54ec2b",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::25-Coronary-Circulation",
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::25-Coronary-Circulation::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::26-Pathology-of-Atherosclerosis-&-IHD::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "49fc386618595dec5b2cee93630d0987db9bd02f54b923e48d7f50aecac3c133",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::25-Coronary-Circulation::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "2aa0a017c5e3cf772f8590853c397b54c10afeb87f357960400ca79c987fa9d1",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::25-Coronary-Circulation"
+      ]
+    },
+    {
+      "first_field_hash": "98b630b9e569cb41b282356fe88b185e8d9d23f5b3e52ae45e039c73e14a2958",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::26-Pathology-of-Atherosclerosis-&-IHD::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "2b4627cf469b28d33e7fde3e2f84384591331b2d371f997d6f948648a5724b96",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::25-Coronary-Circulation::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "42af19027a7b5b16360d20ea10c019f8f93df563ff22bdfbfe139be77e48ec28",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::26-Pathology-of-Atherosclerosis-&-IHD::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "93fe6719dd07d0ab044bc7fc6e35bb7bf582be854279aa9f915ef9a2413ca2b8",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::25-Coronary-Circulation::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "ff1952898528e439c8995a4b448e4fe2e46c372a3b9fe16a45b9a39b51f40669",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::26-Pathology-of-Atherosclerosis-&-IHD::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "f3373dd05a39cfb0d896aaa1dbf1287561aad514cf073f80da062b8cb40680bf",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::06-Hypertrophy-and-Bundle-Branch-Block"
       ]
     },
     {
+      "first_field_hash": "82d8e46fd0bb1c6dae2187a4870e37d97869259b4d4ec55e48709a18b4174b3b",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::25-Coronary-Circulation"
+      ]
+    },
+    {
+      "first_field_hash": "f056cfaf08c7585453a4d4e15833fdf49e49a7d45c26e5a1d0f79bcb29cbd327",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::25-Coronary-Circulation::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "5ef95386d618a141c5e0b04e019376314a1727788b7d3641b0105ed6556f1afb",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::25-Coronary-Circulation::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "55b034d85bf07ee21af8d5cfa4f20dbf082e103024cc8bf97c319690693120e5",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::25-Coronary-Circulation"
+      ]
+    },
+    {
+      "first_field_hash": "c61d81a57ada52464ded9138559e574e9e37f9d00468cdc62b6b74010158c82e",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::25-Coronary-Circulation::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "e63f109ac3284b408b14b32f06a7a1bce6549ec7d65c197f044854aba8ff6e8b",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::25-Coronary-Circulation::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "24abef82566f4d2cb501e1341929e85d5b2f1a951636ee633b635995a981f8a5",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::25-Coronary-Circulation::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "c3a52b762c5138d259241dcad307b3c3018b7d4bc6cc97ed12eff97a8a95576e",
       "tags": [
-        "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-1-Thorax::Anatomy"
+        "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-1-Thorax::Anatomy",
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::25-Coronary-Circulation::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "158b7f1fced3a02a32411d77cd192902fc2d2d87f42dde42f06c6c27ba1c05a1",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::25-Coronary-Circulation::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "3e2bec24b6e72b07e9f624cccefcadaf80d8b24b8d8ac4e02f70067594bf7d3e",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::26-Pathology-of-Atherosclerosis-&-IHD::Class-Content"
       ]
     },
     {
       "first_field_hash": "c2ccc204db458845cbf9cec32b16801fa59bf7c4509d33dde188cef6d3b848a1",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::06-Hypertrophy-and-Bundle-Branch-Block"
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::06-Hypertrophy-and-Bundle-Branch-Block",
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::26-Pathology-of-Atherosclerosis-&-IHD::Class-Content"
       ]
     },
     {
       "first_field_hash": "5fb360048eb340a9e5718be5713aafc92715709ecc4f485fa07c655ac5455a2c",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::06-Hypertrophy-and-Bundle-Branch-Block"
+      ]
+    },
+    {
+      "first_field_hash": "0b2aaaf61f998f501bf6572cfff03243a6c19e071b4066dfbc8bfcbe83640733",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::26-Pathology-of-Atherosclerosis-&-IHD::Class-Content"
       ]
     },
     {
@@ -5867,15 +6100,176 @@
       ]
     },
     {
+      "first_field_hash": "3a76785dd24180e65989ab31c6a6774a9e39a918c95542d673379566da15fc92",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::25-Coronary-Circulation::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "ff080dc6994a47322b100b6c1bd2ccbc2e9b8216943a4f08b41c11ddddc435bc",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::26-Pathology-of-Atherosclerosis-&-IHD::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "5dd07961b8b4bcc8f56f4317db8520145241ceecb6e37fd1fd28fde0c9c916d3",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::26-Pathology-of-Atherosclerosis-&-IHD::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "2619fcfa8be30637c039d4eddb9c3bb2b05637c8646688809f8e3ae82b7cfe3c",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::26-Pathology-of-Atherosclerosis-&-IHD",
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::26-Pathology-of-Atherosclerosis-&-IHD::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "8a5a31d2ee595b0b5dc6b062eb5910b3b99c190f3f87cf5444440580a490a2d6",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::26-Pathology-of-Atherosclerosis-&-IHD",
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::26-Pathology-of-Atherosclerosis-&-IHD::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "caa8375201bc39c30b96431cd0c39b2090cb7c3af43e6255fb544816c5285153",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::26-Pathology-of-Atherosclerosis-&-IHD"
+      ]
+    },
+    {
       "first_field_hash": "c41d37af68a576866d17cd0c55fee6ccf958f347b75458cc999d3334449d2f1d",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::08-Fast-Rhythm-Arrhythmias"
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::08-Fast-Rhythm-Arrhythmias",
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::26-Pathology-of-Atherosclerosis-&-IHD::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "03a4063598497edc662ca5d1145c771a47f8741d4aaa4d78cf4b74b54d4d6fb5",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::26-Pathology-of-Atherosclerosis-&-IHD",
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::26-Pathology-of-Atherosclerosis-&-IHD::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "134e24b65a925d056f6300800f0b9a4b977096c5e98336d6a685fd6e4af871a8",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::26-Pathology-of-Atherosclerosis-&-IHD::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "68b51bb0040743b2c7518bab5f8cf771041ad4a9b3b9b3cb051b10849d2226cc",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::26-Pathology-of-Atherosclerosis-&-IHD",
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::26-Pathology-of-Atherosclerosis-&-IHD::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "a5a1fbcf532d7934f8d96d156070b142756be037c7d774acf2fd46d6e0ddb4e3",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::26-Pathology-of-Atherosclerosis-&-IHD::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "a4535de1625ab3f7393da257e4b229783f2cbba8cb231a99dc600bf414f871f8",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::26-Pathology-of-Atherosclerosis-&-IHD::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "96b7388948e14bb0c71857b26fc53388a6592d62d5fd1057ab5cbab0b16d4aca",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::26-Pathology-of-Atherosclerosis-&-IHD"
+      ]
+    },
+    {
+      "first_field_hash": "af8483d18a2514b80531792db1b03ebec0d80d050053270ec88a831afae71cf1",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::26-Pathology-of-Atherosclerosis-&-IHD",
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::26-Pathology-of-Atherosclerosis-&-IHD::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "81b0b7b99c9ddf5d219dbe18eae61ec32340595b1e516ca43628a0933af2417e",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::26-Pathology-of-Atherosclerosis-&-IHD::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "778559cdc15a9d50c8b4fe6f67c1515e55e48eabec0d4adec13123bdfdf396dc",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::26-Pathology-of-Atherosclerosis-&-IHD::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "5a2c8ac07e44176cfa63a99344060d5b5390a025bbc1e441123d0fe8d44c9a23",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::26-Pathology-of-Atherosclerosis-&-IHD",
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::26-Pathology-of-Atherosclerosis-&-IHD::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "8fd43cdae16ba75901863dfc6182c9294a2c49028294a20aaf22c37f7f658b77",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::26-Pathology-of-Atherosclerosis-&-IHD",
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::26-Pathology-of-Atherosclerosis-&-IHD::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "8d0db009d5a1845d6b6615574197392f1ecf5e5e7c78337b40010adedff581f0",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::26-Pathology-of-Atherosclerosis-&-IHD",
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::26-Pathology-of-Atherosclerosis-&-IHD::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "7e31da3bb21c5c23582785f41aee8c772c9b5993c8e24dba5b2d49bf06ab6de3",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::26-Pathology-of-Atherosclerosis-&-IHD::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "6ddbca7a3ec6b78a836844b7d94a8411be9742ada9ffd715c21e5a6128fdc143",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::26-Pathology-of-Atherosclerosis-&-IHD::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "721fb541b9b5082c4b19beaf9c62cbbac0b2db2c5ccaf78e3f32d24f294a5bfe",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::26-Pathology-of-Atherosclerosis-&-IHD"
+      ]
+    },
+    {
+      "first_field_hash": "9736f0aed96f121d42a76bbedcd53ad260415e86a64bead9a7adac2884f3c6d2",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::25-Coronary-Circulation",
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::26-Pathology-of-Atherosclerosis-&-IHD"
       ]
     },
     {
       "first_field_hash": "27260d2cd9e278c675a1f49ce165aa7a9e3a81d642e74851cfdb09e32b227235",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::08-Fast-Rhythm-Arrhythmias"
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::08-Fast-Rhythm-Arrhythmias",
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::26-Pathology-of-Atherosclerosis-&-IHD"
+      ]
+    },
+    {
+      "first_field_hash": "c2f5ed0636fd03ccd6037e2ce652fde1a2761f7390590f405d8a322ede226c92",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::26-Pathology-of-Atherosclerosis-&-IHD"
+      ]
+    },
+    {
+      "first_field_hash": "9003b5acc7416272a80d7d3eb674d4c72c1a505dc720ddbecc385336001b5025",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::25-Coronary-Circulation"
+      ]
+    },
+    {
+      "first_field_hash": "6dbc9ce1863f04287d83540a6c771bc6b959ac377ee49146bcd1a0f2a4eca9f9",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::26-Pathology-of-Atherosclerosis-&-IHD::Class-Content"
       ]
     },
     {
@@ -5893,13 +6287,20 @@
     {
       "first_field_hash": "19e0b92ca1b1587478f3ca9d940ba6f32bdff668bcc6eabdb4caca96a6a3b5ff",
       "tags": [
-        "JerryShen_AnKing_Tags::POM-3::Clinical-Reasoning::Approach-to-Syncope"
+        "JerryShen_AnKing_Tags::POM-3::Clinical-Reasoning::Approach-to-Syncope",
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::25-Coronary-Circulation::Class-Content"
       ]
     },
     {
       "first_field_hash": "58df3ea612bb4993b93449007add3161e1baa0dde4f7c5a2b3317f87a60268f8",
       "tags": [
         "JerryShen_AnKing_Tags::POM-3::Clinical-Reasoning::Approach-to-Syncope"
+      ]
+    },
+    {
+      "first_field_hash": "4094ca80f302d4ea2afa08bfa149c983fd1969db50336f21e4260bed8cf38618",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::25-Coronary-Circulation::Class-Content"
       ]
     },
     {
@@ -5915,7 +6316,20 @@
       ]
     },
     {
+      "first_field_hash": "d5ff1ece9361f8678b6d2a0d03e4e25fdf18b263f579def3aca420d6adc72757",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::25-Coronary-Circulation::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::26-Pathology-of-Atherosclerosis-&-IHD::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "8bda181cad2328d3284420b2860f00893a492216f176cfce53115eed6bd978e5",
+      "tags": [
+        "JerryShen_AnKing_Tags::POM-3::Clinical-Reasoning::Approach-to-Syncope"
+      ]
+    },
+    {
+      "first_field_hash": "bb6e04b5f37e0756c9ca409375dc2cb6b7b68617da953a2e8166395e994dbe12",
       "tags": [
         "JerryShen_AnKing_Tags::POM-3::Clinical-Reasoning::Approach-to-Syncope"
       ]
@@ -7307,6 +7721,12 @@
       ]
     },
     {
+      "first_field_hash": "b86e054bddd530e115828fae56d1fff859550b15ef73f3e43f584f7678c65b81",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::26-Pathology-of-Atherosclerosis-&-IHD::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "f8987babd9e38d807b41a8394119f0b767eebfdaafb17f83d9b048700c6ef347",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::12-Myosin-and-Cardiac-Contractility::Class-Content"
@@ -7574,6 +7994,13 @@
       ]
     },
     {
+      "first_field_hash": "8c600ced0fd69edfae9b94b15d86886f5833b7580791e24393a9b5d191c160e6",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::26-Pathology-of-Atherosclerosis-&-IHD",
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::26-Pathology-of-Atherosclerosis-&-IHD::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "4560bff4e41f3cebb359dd8ed88dc6bcfa7b47287c21f528dad7b9ac56c44351",
       "tags": [
         "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-1-Thorax::Embryology::Class-Content"
@@ -7695,21 +8122,53 @@
       ]
     },
     {
+      "first_field_hash": "66ffe9f026b12527e9072900fbe880e352966475a0a7e844ab0c9d48da7af7df",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::25-Coronary-Circulation",
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::26-Pathology-of-Atherosclerosis-&-IHD::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "45732050386e2eb14567d9a48fce5983c67629e3055ecf54424d04eb2b23a645",
       "tags": [
-        "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-1-Thorax::Anatomy::Class-Content"
+        "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-1-Thorax::Anatomy::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::26-Pathology-of-Atherosclerosis-&-IHD::Class-Content"
       ]
     },
     {
       "first_field_hash": "691b9fe9d1aca1a27427e533cb45ce07d49e8cb5a144ce2826f9d73545092777",
       "tags": [
-        "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-1-Thorax::Anatomy::Class-Content"
+        "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-1-Thorax::Anatomy::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::25-Coronary-Circulation::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::26-Pathology-of-Atherosclerosis-&-IHD::Class-Content"
       ]
     },
     {
       "first_field_hash": "5a0f143a1b7fa1c14750036426f94d015161d60eaee644e1ff607c8bc5f24877",
       "tags": [
-        "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-1-Thorax::Anatomy::Class-Content"
+        "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-1-Thorax::Anatomy::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::25-Coronary-Circulation::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::26-Pathology-of-Atherosclerosis-&-IHD::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "797e519e518d5cc2232716bf1165eb81679ab6b49e9af8631ea0d0bec68d4c8e",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::25-Coronary-Circulation::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::26-Pathology-of-Atherosclerosis-&-IHD::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "86bff596e5e626bf37f7733109918b5c13d513bb6dab4eefa29abf549de2754b",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::25-Coronary-Circulation::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "bb857ef190eb20f04ccb8af353b473c2e2795a442b71493e6ef33000c074d6e1",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::25-Coronary-Circulation",
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::25-Coronary-Circulation::Class-Content"
       ]
     },
     {
@@ -7734,6 +8193,27 @@
       "first_field_hash": "9c94eb8ae6ed24e4f0c6f6d41bf8318510a80c0add7697e87f56f645c006dcb7",
       "tags": [
         "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-1-Thorax::Anatomy::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "70b61a24e13d38562e76e584a96ac1109ceb9cd1aa6c10740e91aae3aa262f3e",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::25-Coronary-Circulation::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::26-Pathology-of-Atherosclerosis-&-IHD::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "0c4408c943594f5d17b66b10a33504568a37513a9dbabec91d99e89a81e3799a",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::25-Coronary-Circulation::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::26-Pathology-of-Atherosclerosis-&-IHD::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "20a43017c5dce39ae28b152b74e809e65d50212fe1df3eccabebf7d2273b6a65",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::25-Coronary-Circulation",
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::26-Pathology-of-Atherosclerosis-&-IHD"
       ]
     },
     {
@@ -8022,6 +8502,24 @@
       ]
     },
     {
+      "first_field_hash": "d501a5d8e7452ff01b857c944789f612485682ff85fb74466a2eff12de0da52b",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::25-Coronary-Circulation::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "5a9d23a4d478fe04a32e048f43897a5c9251fb9df98f106edab3c08aa1189044",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::25-Coronary-Circulation::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "85a1a757c625279b2b66a3ef3fcbe0807233e91caf7eae291d8a2bff72f938d5",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::25-Coronary-Circulation"
+      ]
+    },
+    {
       "first_field_hash": "dea095b8df0947130e66793267bb7a4cf88b2748c525699f454cb0e5bf95b987",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::15-Pathophysiology-&-Treatment-of-Heart-Failure"
@@ -8221,6 +8719,30 @@
       ]
     },
     {
+      "first_field_hash": "c9faa9428c814d66a44473a3110d7235f004c71d176d60610a58eea15b966590",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::25-Coronary-Circulation::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "ea5e0bbc1776dc1b6bdc1a861154707aff6489b92cb0097e141a7eaeff3d88d1",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::25-Coronary-Circulation::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "ab18003cb070ed39a24ee12a92461e77d80e96908917ab0a9dafa376a45dfa5d",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::25-Coronary-Circulation"
+      ]
+    },
+    {
+      "first_field_hash": "2fcb9bc998971d3556f483fab49b1585a3b70330fa8a1f735035b52513ec2e01",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::25-Coronary-Circulation::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "bafbc31cd4e8fa2d8367b5a38eb635f1fa021f7215b90d7d8ea1b4de52dba23c",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::15-Pathophysiology-&-Treatment-of-Heart-Failure"
@@ -8230,6 +8752,13 @@
       "first_field_hash": "abc21295fbb119cf284d1585126eeff02c34f9f61b004381c702b6062f4f0baf",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::15-Pathophysiology-&-Treatment-of-Heart-Failure"
+      ]
+    },
+    {
+      "first_field_hash": "109e923236fc416d63e130a39d5ef821844d5f15b543dc07f33d7002ecfb4dcf",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::25-Coronary-Circulation",
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::25-Coronary-Circulation::Class-Content"
       ]
     },
     {
@@ -11681,6 +12210,13 @@
       ]
     },
     {
+      "first_field_hash": "b75615c6645eb025bc5cb3da4f8551eb49435948a569a2393ab0152f6a2a46fb",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::27-Lung-Cancer",
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::Lung-Lab-3-Cancer-&-ILD::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "8682dc55d97528b4b56772dffe63f9f2a4a1de63fb30695194f4a354fea8990e",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::Lung-Lab-3-Cancer-&-ILD::Class-Content"
@@ -13236,6 +13772,7 @@
       "first_field_hash": "f32f118d3f32eaae3b95702c79bc45da8aea240ae1d4bc0e245bddbd7c0506c1",
       "tags": [
         "JerryShen_AnKing_Tags::POM-3::Clinical-Reasoning::Advanced-Pulmonary-Exam",
+        "JerryShen_AnKing_Tags::POM-3::Clinical-Reasoning::Approach-to-Acute-Dyspnea::Class-Content",
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::16-Clotting-&-Thromboembolic-Disease::Class-Content"
       ]
     },
@@ -17708,6 +18245,12 @@
       "first_field_hash": "5fe796dab8892b0de8c451fdfee92968a45c5e5802ffd7af0ec22ae373c717b3",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::10-Autonomic-Physiology-and-Pharmacology"
+      ]
+    },
+    {
+      "first_field_hash": "221791d861ca2b6cde526f45a57f7e1b468ed9ff82b4a4d68658a53eb5eb5e6d",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::25-Coronary-Circulation::Class-Content"
       ]
     },
     {
@@ -23512,7 +24055,7 @@
       ]
     },
     {
-      "first_field_hash": "e542349124888b4c9c0da6dd57ce17fead1e991a229a1eb45b2438e8b88aca42",
+      "first_field_hash": "88fdab8ff4be3edd2edaebb5ddf141fbf9c6e07f8295433b4c3eb7e1816ed922",
       "tags": [
         "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-1-Thorax::Embryology::Class-Content"
       ]
@@ -25914,14 +26457,14 @@
       "first_field_hash": "54d626e08c1c802b305dad30b7e54a82f102390cc92c7d4db112048935236e9c",
       "tags": [
         "JerryShen_AnKing_Tags::(✏️)-Tagged-by-Jerry-Shen",
-        "JerryShen_AnKing_Tags::(🛠️)-Last-Updated-05122026"
+        "JerryShen_AnKing_Tags::(🛠️)-Last-Updated-05142026"
       ]
     },
     {
       "first_field_hash": "54d626e08c1c802b305dad30b7e54a82f102390cc92c7d4db112048935236e9c",
       "tags": [
         "JerryShen_AnKing_Tags::(✏️)-Tagged-by-Jerry-Shen",
-        "JerryShen_AnKing_Tags::(🛠️)-Last-Updated-05122026"
+        "JerryShen_AnKing_Tags::(🛠️)-Last-Updated-05142026"
       ]
     },
     {
@@ -27789,6 +28332,12 @@
       ]
     },
     {
+      "first_field_hash": "80a9bacfbb23023c654e5a4fb65a757e0101c110bd2605417dae0ae6e13ba1cd",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::26-Pathology-of-Atherosclerosis-&-IHD"
+      ]
+    },
+    {
       "first_field_hash": "797698b1e8c752615b448c338dd020515c09813a68ea24cc5f6504ab55383818",
       "tags": [
         "JerryShen_AnKing_Tags::Cancer-Biology::Final::02-Cell-Injury-&-Death",
@@ -28001,7 +28550,7 @@
       ]
     },
     {
-      "first_field_hash": "58a9718cde823d9c0b8d7c70cacddb6ab0e323c3b4521dd2940d6a7c1681ea20",
+      "first_field_hash": "0e2a15f1603d6acdfb877959582e545cddfa165d443a5014cb3d7fada164446b",
       "tags": [
         "JerryShen_AnKing_Tags::Cancer-Biology::Final::02-Cell-Injury-&-Death"
       ]
@@ -30143,7 +30692,7 @@
       ]
     },
     {
-      "first_field_hash": "9da40c292dcefc71d80b089b47119e58db06ad9c94c5b38b9ed0d92418dbd5e4",
+      "first_field_hash": "78a707f020e24bdbb1e15cf46bfc2f686614a5bba86650253a71866b7bc29593",
       "tags": [
         "JerryShen_AnKing_Tags::POM-1::Final::Epidemiology"
       ]
@@ -30589,7 +31138,7 @@
       ]
     },
     {
-      "first_field_hash": "02d92bafbab3f4cef596150808cc5619d968b34854d8c49209bd95415823bb86",
+      "first_field_hash": "2eda0460f73714c07f83a9d9a4c3fe5b04e6340b45e1daf309b1b3d260504e2c",
       "tags": [
         "JerryShen_AnKing_Tags::Cancer-Biology::Final::05-Cancer-Genes-&-Pathways"
       ]
@@ -31285,6 +31834,12 @@
       ]
     },
     {
+      "first_field_hash": "1d769146140d6f34fef5b921b33996e24cc8de3d1fba3d95dfc7f59b1972baed",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::26-Pathology-of-Atherosclerosis-&-IHD::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "f4bd4caa1ebda4a376d77a5465c9ffe176c787d602bc38b541856c749535f481",
       "tags": [
         "JerryShen_AnKing_Tags::POM-3::Clinical-Reasoning::Approach-to-Acute-Dyspnea"
@@ -31648,6 +32203,12 @@
       ]
     },
     {
+      "first_field_hash": "fe371da9c00f7e197e7ece8fe60b4eacb79063ada6574145167a124f8f845c41",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::25-Coronary-Circulation::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "8ad0b90da551304bb8cd8c52557408207efd47f57c06ff16eaea24d0e825b1d1",
       "tags": [
         "JerryShen_AnKing_Tags::POM-3::Clinical-Reasoning::Approach-to-Cough::Class-Content"
@@ -31767,6 +32328,18 @@
       "first_field_hash": "cd1a909cd3898887612148cec71a3f94968dff8ffc989de0a40f56855a7b47eb",
       "tags": [
         "JerryShen_AnKing_Tags::POM-3::Clinical-Reasoning::Approach-to-Syncope"
+      ]
+    },
+    {
+      "first_field_hash": "e8248411ef66c60a0e98cf832e16d9cc3d15481786c35c531ebc655939a97cd7",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::25-Coronary-Circulation"
+      ]
+    },
+    {
+      "first_field_hash": "1db01ef559627fd93477dd7a7c5289414dab0faee532ee76543d7058ec086247",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::25-Coronary-Circulation"
       ]
     },
     {
@@ -33493,6 +34066,12 @@
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-1::04-Intro-to-Viruses",
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-1::04-Intro-to-Viruses::Class-Content",
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-2::06-Antivirals::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "18d3dbd744899ebd462539b3949584db5be0ad1219dadd88cc072b5bf03531cf",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::25-Coronary-Circulation"
       ]
     },
     {
@@ -42516,6 +43095,13 @@
       ]
     },
     {
+      "first_field_hash": "45b9d24878edf5e64343539380d564568cfe2dd45cf289612d61193b9b8ec8a7",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::26-Pathology-of-Atherosclerosis-&-IHD",
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::26-Pathology-of-Atherosclerosis-&-IHD::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "de96f408831b2154c1c55dcf1f5dbf5f4b4e0a508fb0a67c486024c7e8859c5c",
       "tags": [
         "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-6-Head-&-Neck-1::Anatomy"
@@ -42765,6 +43351,24 @@
       ]
     },
     {
+      "first_field_hash": "fa092ae4ebab96a0ad6185fdcfb3e1867597cf47197dbf9df384c5eadfddb99f",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::25-Coronary-Circulation"
+      ]
+    },
+    {
+      "first_field_hash": "3cfefc211892a8766c06e6e9f774590a9a13a838d3ce2aa2f2a281bf98ea61dc",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::25-Coronary-Circulation::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "5c1b82b6da825551e656d78e7299be9e4d1a4886c423f05395df980132986cd0",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::25-Coronary-Circulation"
+      ]
+    },
+    {
       "first_field_hash": "449bf5e15ed68a5cb824af6b7ffa2e4b1cc48676e887af26d5bdbd24dfbeeefe",
       "tags": [
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-1::03-C.diff-&-Pseudomonas::Class-Content"
@@ -42992,6 +43596,18 @@
       ]
     },
     {
+      "first_field_hash": "5412c10df9898ff879543e36f8d8afcd3873a35c6eb25d10a9d8fb60eea057e7",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::25-Coronary-Circulation::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "b27b209f23c94175fbfdf25aaac09edf1c9de88bcff23e19a20840d890dcfc13",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::25-Coronary-Circulation::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "96e014ef6e6de8925f228df953fa094f15ebf1283df184e194712004de7352c3",
       "tags": [
         "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-1-Thorax::Anatomy"
@@ -43019,6 +43635,24 @@
       "first_field_hash": "04be552a5ba84b033771f383fad0cd1de6ee68cde6b70cf4617bf6a4864affd3",
       "tags": [
         "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-6-Head-&-Neck-1::Anatomy::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "167b22f913782f81c2151737b841a559803bdc24ae10bbd5905879539d73fc80",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::25-Coronary-Circulation::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "bd39b98add1738a9e1be5aab3dfb0014ed7ef9cc67aa42aedf4f6f7e2b3db0a2",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::25-Coronary-Circulation::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "0ca030b16f74f36fbc297d32ae45181df80397d0e4bc8551cb0f466caf56330e",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::25-Coronary-Circulation::Class-Content"
       ]
     },
     {
@@ -43118,6 +43752,25 @@
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::02-Normal-Anatomy-of-the-Heart",
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::02-Normal-Anatomy-of-the-Heart::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "973288ce5b3bc6c1d65a8e0fa599ba7a1a3989b3214ac79e14bb679849395f42",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::25-Coronary-Circulation"
+      ]
+    },
+    {
+      "first_field_hash": "00297bb350653059cb15dadefad0f30aa2509d9c4d78091dc1a7c3ea7f99b4b6",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::25-Coronary-Circulation"
+      ]
+    },
+    {
+      "first_field_hash": "292ae36870b467d33053182fb695e239b97fb7b8f34510a09930d725ad375d22",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::25-Coronary-Circulation",
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::25-Coronary-Circulation::Class-Content"
       ]
     },
     {
@@ -43771,6 +44424,12 @@
       ]
     },
     {
+      "first_field_hash": "1c8e37279697c15c98ae445405eac1b3983739d4ea864b1a42025f103c82c9bd",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::25-Coronary-Circulation"
+      ]
+    },
+    {
       "first_field_hash": "60a8c9b08167b6ee9f96901ef03617728316aefb6e0011f699711aeb9a7844c4",
       "tags": [
         "JerryShen_AnKing_Tags::Cancer-Biology::Final::Cancer-Pharmacology::Class-Content"
@@ -44026,7 +44685,8 @@
       "first_field_hash": "fa062a771a6816e8c1a9ce837247223e20a19a60454d051f8068063b22899aad",
       "tags": [
         "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-1-Thorax::Anatomy::Class-Content",
-        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::02-Normal-Anatomy-of-the-Heart::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::02-Normal-Anatomy-of-the-Heart::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::25-Coronary-Circulation::Class-Content"
       ]
     },
     {
@@ -45322,6 +45982,12 @@
       ]
     },
     {
+      "first_field_hash": "457b549764ee5ee280342b0fdb314aa5084ed9fa3b6f67a933f3fa67a1e1901f",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::25-Coronary-Circulation::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "376115da2f0aaca5eb2b47e7b26ef1bbc15a8755234e17011f1d092cd330322f",
       "tags": [
         "JerryShen_AnKing_Tags::POM-3::Clinical-Reasoning::Approach-to-Cough"
@@ -45543,6 +46209,48 @@
       ]
     },
     {
+      "first_field_hash": "aa67c0b38f1ee34fdbcf94e7df12b85bb6a76a4bba285d03de9f38e7ecd113b4",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::26-Pathology-of-Atherosclerosis-&-IHD::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "aeb92b85e6c8ce1d87f7b22654592cb7e34086cb1ccf7e01aa26235333b6c57d",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::25-Coronary-Circulation::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "01816c85857fbe04656cf8557e79c7f94b3aaf48a6387390ac493961ffb467f1",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::26-Pathology-of-Atherosclerosis-&-IHD"
+      ]
+    },
+    {
+      "first_field_hash": "5a2159d17b2b903a8ec624d0d02c24b73e1e9c4e27584c3ed9341f6e897f550b",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::25-Coronary-Circulation"
+      ]
+    },
+    {
+      "first_field_hash": "42ec037ed8b843626ad76e0d1b469893e85bc56d3b37cce21bde9dfdf9a49154",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::25-Coronary-Circulation"
+      ]
+    },
+    {
+      "first_field_hash": "ff9018f73df20214c371bae17860dc8d78cb20bebc73a07edb2f672cb7090c8c",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::25-Coronary-Circulation"
+      ]
+    },
+    {
+      "first_field_hash": "721fde1fd98c8f025b94aa4c4d3759bd74b8c30c9d382a3d7d511406b201b94f",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::25-Coronary-Circulation::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "2118c3a01174bdb18c798f2d7349cf7b67b1dd8ad2133b2bed360f0e195dbac1",
       "tags": [
         "JerryShen_AnKing_Tags::POM-3::Clinical-Reasoning::Approach-to-Syncope"
@@ -45645,6 +46353,13 @@
       "tags": [
         "JerryShen_AnKing_Tags::Neurobiology::Exam-3::Tutorial-5-Sensory-Motor-Pathways",
         "JerryShen_AnKing_Tags::Neurobiology::Exam-3::Tutorial-5-Sensory-Motor-Pathways::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "6bd9e05965f173f6c46776182888c440ae745ea440e0a73a7acbefb48d0e213b",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::15-Pathophysiology-&-Treatment-of-Heart-Failure",
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::25-Coronary-Circulation"
       ]
     },
     {
@@ -46054,6 +46769,12 @@
       ]
     },
     {
+      "first_field_hash": "d75ee6eb67dc04961d3ea712137f7d041bb22fe21bd760863687e0dec23566d9",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::25-Coronary-Circulation::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "d4e5e053dd8073b118ee3bcecb34ead27a9521826c489547ad267080a215465d",
       "tags": [
         "JerryShen_AnKing_Tags::POM-3::Clinical-Reasoning::Approach-to-Syncope::Class-Content"
@@ -46381,9 +47102,28 @@
       ]
     },
     {
+      "first_field_hash": "ebbb0133d5bd325a5344caeab007ca6e97893f9da9c7f252165f7c04f95328e2",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::25-Coronary-Circulation"
+      ]
+    },
+    {
+      "first_field_hash": "1b217dcc37b9ee65d9ef0f1ff231e3077ae37bf086f3cb570e9d0cc5bf7c6bf2",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::25-Coronary-Circulation"
+      ]
+    },
+    {
       "first_field_hash": "12e4aed4b1ad2669f012c490d856c6f0ca5e4757229b8e6c386f06d62d4e7fb4",
       "tags": [
-        "JerryShen_AnKing_Tags::POM-3::Clinical-Reasoning::Approach-to-Syncope"
+        "JerryShen_AnKing_Tags::POM-3::Clinical-Reasoning::Approach-to-Syncope",
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::26-Pathology-of-Atherosclerosis-&-IHD::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "3fd94cc53c3d6b516e71c302f1d3959d6cf3369952013113e71e071b803daaec",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::26-Pathology-of-Atherosclerosis-&-IHD::Class-Content"
       ]
     },
     {
@@ -47299,6 +48039,12 @@
       ]
     },
     {
+      "first_field_hash": "255daa870a2a87404ec64b9d2f1a24e5fd10c8384527b020dc29cf09078f3121",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::18-Heart-Sounds-&-Clinical-Exam"
+      ]
+    },
+    {
       "first_field_hash": "61b70288e693095fab12ddcc66f433c20972d0694070c9e3e3cbc1e972dbf16d",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::25-Pulmonary-Hypertension",
@@ -47459,6 +48205,12 @@
       "first_field_hash": "dde81923de8efcda05d3b58a43b6290536a8ac940bb13445c49ed5c65177dab7",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::20-Interstitial-Lung-Disease"
+      ]
+    },
+    {
+      "first_field_hash": "8348ea46eec1d63165a40280bb74d68cca5e523ca13256b41ee168fdfc3f5174",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::23-Pleural-Disease"
       ]
     },
     {
@@ -47671,7 +48423,8 @@
     {
       "first_field_hash": "9add1452f2e17413b0e61d732a5c895cd0a0f0b219a94dd0a487124c1bad90b5",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::06-Hypertrophy-and-Bundle-Branch-Block"
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::06-Hypertrophy-and-Bundle-Branch-Block",
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::25-Coronary-Circulation::Class-Content"
       ]
     },
     {
@@ -47679,6 +48432,18 @@
       "tags": [
         "JerryShen_AnKing_Tags::POM-3::Clinical-Reasoning::Approach-to-Acute-Dyspnea::Class-Content",
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::06-Hypertrophy-and-Bundle-Branch-Block::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "fcf6f9bdff2b5f156a6f03c58c05533ef6f6b9473055abdef177e07de63e2e0d",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::26-Pathology-of-Atherosclerosis-&-IHD"
+      ]
+    },
+    {
+      "first_field_hash": "687d18047a8faf72c9ea38f60cf107a6ca148eb2becfda9718e35ba5e0077cd9",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::26-Pathology-of-Atherosclerosis-&-IHD"
       ]
     },
     {
@@ -48127,6 +48892,12 @@
       ]
     },
     {
+      "first_field_hash": "593a9bfaee48f102539c3aa96262cf411f2413224fab18054b61a9b486987ec1",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::26-Pathology-of-Atherosclerosis-&-IHD::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "b730e6bd273d5143926fd7c033122c113fb850187850a38254545779ba9ff0e5",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::07-Slow-Rhythm-Arrhythmias",
@@ -48173,6 +48944,12 @@
       "first_field_hash": "dc2423c3dcefc1c93ff2b028e43defc95cb719671d2ca6022aeb6ebe10f349b7",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::18-Heart-Sounds-&-Clinical-Exam"
+      ]
+    },
+    {
+      "first_field_hash": "890687b071ca93b6487209d199632ea7571db4b709d2f2548a8d58846f74db32",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::26-Pathology-of-Atherosclerosis-&-IHD::Class-Content"
       ]
     },
     {
@@ -48243,6 +49020,12 @@
       "first_field_hash": "b77f7887100bad698776017e5ab628fcfcc591a9dc3d283c48f9db20ca28c4cb",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::16-Lower-Respiratory-Infections::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "fba6b779e068f002c487438470ce2a46c838cc7c02aaa12b9eb5e72f44f93533",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::25-Coronary-Circulation"
       ]
     },
     {
