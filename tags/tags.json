@@ -1,14 +1,14 @@
 {
   "schema_version": 1,
   "author": "JerryShen",
-  "description": "ihd and coronary arteries",
-  "created": "2026-05-14T19:05:33.928029+00:00",
-  "updated": "2026-05-14T19:05:33.928029+00:00",
+  "description": "",
+  "created": "2026-05-16T21:56:52.966477+00:00",
+  "updated": "2026-05-16T21:56:52.966477+00:00",
   "tag_prefix": "JerryShen_AnKing_Tags",
   "tag_hierarchy": [
     "JerryShen_AnKing_Tags",
     "JerryShen_AnKing_Tags::(✏️)-Tagged-by-Jerry-Shen",
-    "JerryShen_AnKing_Tags::(🛠️)-Last-Updated-05142026",
+    "JerryShen_AnKing_Tags::(🛠️)-Last-Updated-05152026",
     "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology",
     "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-1-Thorax",
     "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-1-Thorax::Anatomy",
@@ -314,12 +314,18 @@
     "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::22-Peripheral-Arterial-&-Aortic-Disease::Class-Content",
     "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::23-Endocarditis",
     "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::23-Endocarditis::Class-Content",
+    "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::24-Ventricular-Vascular-Coupling",
+    "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::24-Ventricular-Vascular-Coupling::Class-Content",
     "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::25-Coronary-Circulation",
     "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::25-Coronary-Circulation::Class-Content",
     "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::26-Pathology-of-Atherosclerosis-&-IHD",
     "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::26-Pathology-of-Atherosclerosis-&-IHD::Class-Content",
+    "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::27-The-Abnormal-ECG-Ischemia-&-Infarction",
+    "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::27-The-Abnormal-ECG-Ischemia-&-Infarction::Class-Content",
     "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::CV-Lab-03-Autonomic-Drugs-&-Clinical-Correlates",
     "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::CV-Lab-03-Autonomic-Drugs-&-Clinical-Correlates::Class-Content",
+    "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::CV-Lab-04-Case-Studies",
+    "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::CV-Lab-04-Case-Studies::Class-Content",
     "JerryShen_AnKing_Tags::SOM-1::MSK-Block",
     "JerryShen_AnKing_Tags::SOM-1::MSK-Block::Backache",
     "JerryShen_AnKing_Tags::SOM-1::MSK-Block::Backache::Class-Content",
@@ -535,7 +541,7 @@
     {
       "date": "2026-05-14T19:05:33.928029+00:00",
       "message": "ihd and coronary arteries",
-      "note_count": 146
+      "note_count": 69
     }
   ],
   "notes": [
@@ -4332,7 +4338,8 @@
       "first_field_hash": "a5adf0fbaffea2c1dd3b9273d5749ed566678a25acfe87add5518579d487d5f8",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::06-Hypertrophy-and-Bundle-Branch-Block::Class-Content",
-        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::26-Pathology-of-Atherosclerosis-&-IHD"
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::26-Pathology-of-Atherosclerosis-&-IHD",
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::27-The-Abnormal-ECG-Ischemia-&-Infarction::Class-Content"
       ]
     },
     {
@@ -4939,13 +4946,15 @@
     {
       "first_field_hash": "695f85c25728eb38965e7abdadc78008f5951b336f99431fba38e08f3acdfd56",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::15-Pathophysiology-&-Treatment-of-Heart-Failure"
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::15-Pathophysiology-&-Treatment-of-Heart-Failure",
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::24-Ventricular-Vascular-Coupling::Class-Content"
       ]
     },
     {
       "first_field_hash": "5ab512a66184031f71d3fa9322780bb7db400647119914e3bef053fff520b5ab",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::15-Pathophysiology-&-Treatment-of-Heart-Failure"
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::15-Pathophysiology-&-Treatment-of-Heart-Failure",
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::24-Ventricular-Vascular-Coupling::Class-Content"
       ]
     },
     {
@@ -5028,13 +5037,16 @@
     {
       "first_field_hash": "45f63ce4ae023b83b0c0d3740c17ae9ea93b00496dff3f0dca9027717c6929e7",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::15-Pathophysiology-&-Treatment-of-Heart-Failure"
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::15-Pathophysiology-&-Treatment-of-Heart-Failure",
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::24-Ventricular-Vascular-Coupling"
       ]
     },
     {
       "first_field_hash": "1c03247ddcbb433c63bf29d0a0a1b0d8246334fab4faa12d78d2512a72bc6467",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::15-Pathophysiology-&-Treatment-of-Heart-Failure"
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::14-The-Cardiac-Cycle",
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::15-Pathophysiology-&-Treatment-of-Heart-Failure",
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::24-Ventricular-Vascular-Coupling"
       ]
     },
     {
@@ -5959,6 +5971,12 @@
       ]
     },
     {
+      "first_field_hash": "b99eae879e0589aaa280313aeeddb3372d6bd386e0a6f9b3a56cec5a9b0f7baf",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::27-The-Abnormal-ECG-Ischemia-&-Infarction"
+      ]
+    },
+    {
       "first_field_hash": "2aa0a017c5e3cf772f8590853c397b54c10afeb87f357960400ca79c987fa9d1",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::25-Coronary-Circulation"
@@ -5968,6 +5986,12 @@
       "first_field_hash": "98b630b9e569cb41b282356fe88b185e8d9d23f5b3e52ae45e039c73e14a2958",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::26-Pathology-of-Atherosclerosis-&-IHD::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "5b2e02eb53dfa002296623618c7e0996d7dc3a133c5dee62da9b2ee6b9d45386",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::26-Pathology-of-Atherosclerosis-&-IHD"
       ]
     },
     {
@@ -6037,6 +6061,12 @@
       ]
     },
     {
+      "first_field_hash": "5b463a73eb8a63bec71ff7a812571b4d40eca519d6ff0513f3799f7d4aa09c9e",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::27-The-Abnormal-ECG-Ischemia-&-Infarction"
+      ]
+    },
+    {
       "first_field_hash": "24abef82566f4d2cb501e1341929e85d5b2f1a951636ee633b635995a981f8a5",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::25-Coronary-Circulation::Class-Content"
@@ -6065,19 +6095,27 @@
       "first_field_hash": "c2ccc204db458845cbf9cec32b16801fa59bf7c4509d33dde188cef6d3b848a1",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::06-Hypertrophy-and-Bundle-Branch-Block",
-        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::26-Pathology-of-Atherosclerosis-&-IHD::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::26-Pathology-of-Atherosclerosis-&-IHD::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::27-The-Abnormal-ECG-Ischemia-&-Infarction::Class-Content"
       ]
     },
     {
       "first_field_hash": "5fb360048eb340a9e5718be5713aafc92715709ecc4f485fa07c655ac5455a2c",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::06-Hypertrophy-and-Bundle-Branch-Block"
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::06-Hypertrophy-and-Bundle-Branch-Block",
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::27-The-Abnormal-ECG-Ischemia-&-Infarction::Class-Content"
       ]
     },
     {
       "first_field_hash": "0b2aaaf61f998f501bf6572cfff03243a6c19e071b4066dfbc8bfcbe83640733",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::26-Pathology-of-Atherosclerosis-&-IHD::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "a92b02daf62eacf03c2374e428c7e4556d998c2128f5607a59ce0067063db0b2",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::27-The-Abnormal-ECG-Ischemia-&-Infarction::Class-Content"
       ]
     },
     {
@@ -6090,19 +6128,57 @@
       "first_field_hash": "1421383b2a2fbba799187e778966b0f7eec7dd1564a378856e0ccb39d66d7242",
       "tags": [
         "JerryShen_AnKing_Tags::POM-3::Clinical-Reasoning::Approach-to-Acute-Dyspnea",
-        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::12-Myosin-and-Cardiac-Contractility"
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::12-Myosin-and-Cardiac-Contractility",
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::27-The-Abnormal-ECG-Ischemia-&-Infarction::Class-Content"
       ]
     },
     {
       "first_field_hash": "dbdbda2abeef1872636b9ca41b4dfcd47cc51fef41c949ef104f4d242a538060",
       "tags": [
-        "JerryShen_AnKing_Tags::POM-3::Clinical-Reasoning::Approach-to-Acute-Dyspnea"
+        "JerryShen_AnKing_Tags::POM-3::Clinical-Reasoning::Approach-to-Acute-Dyspnea",
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::27-The-Abnormal-ECG-Ischemia-&-Infarction::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "a3fb7a0c72f0a017f536ccf7dea7f25009d2340d7a18765f1301f8a23348d6a5",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::27-The-Abnormal-ECG-Ischemia-&-Infarction"
+      ]
+    },
+    {
+      "first_field_hash": "dcd87b0329e369e307fe42e65c6cba171c6ce46c689b016fb0b3b0a36574cc24",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::27-The-Abnormal-ECG-Ischemia-&-Infarction"
+      ]
+    },
+    {
+      "first_field_hash": "bebad324bf4eced5f97e4fb1944131f60af4334945212b119fb86aba6c589390",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::27-The-Abnormal-ECG-Ischemia-&-Infarction"
+      ]
+    },
+    {
+      "first_field_hash": "1bae98bfadaf55eae8a67b8b7ad79e1a905a1542a2064dd2876bfae5bce84ea9",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::27-The-Abnormal-ECG-Ischemia-&-Infarction::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "21fcf6aa0fb873e814476d4804c9a3f4fdf40743e2f7fb76e50ff475cb1ee5e2",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::27-The-Abnormal-ECG-Ischemia-&-Infarction"
       ]
     },
     {
       "first_field_hash": "3a76785dd24180e65989ab31c6a6774a9e39a918c95542d673379566da15fc92",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::25-Coronary-Circulation::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "cca43ecef51080b26ac458c81448f56e6f986df3a42ca41de25d8da6da02f1fe",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::27-The-Abnormal-ECG-Ischemia-&-Infarction"
       ]
     },
     {
@@ -6179,7 +6255,8 @@
     {
       "first_field_hash": "96b7388948e14bb0c71857b26fc53388a6592d62d5fd1057ab5cbab0b16d4aca",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::26-Pathology-of-Atherosclerosis-&-IHD"
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::26-Pathology-of-Atherosclerosis-&-IHD",
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::27-The-Abnormal-ECG-Ischemia-&-Infarction"
       ]
     },
     {
@@ -6281,7 +6358,8 @@
     {
       "first_field_hash": "93aa51780d0517f9938241ff00801a882b1245bfba32e478be8ad904d8a036ab",
       "tags": [
-        "JerryShen_AnKing_Tags::POM-3::Clinical-Reasoning::Approach-to-Syncope"
+        "JerryShen_AnKing_Tags::POM-3::Clinical-Reasoning::Approach-to-Syncope",
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::27-The-Abnormal-ECG-Ischemia-&-Infarction::Class-Content"
       ]
     },
     {
@@ -6294,7 +6372,8 @@
     {
       "first_field_hash": "58df3ea612bb4993b93449007add3161e1baa0dde4f7c5a2b3317f87a60268f8",
       "tags": [
-        "JerryShen_AnKing_Tags::POM-3::Clinical-Reasoning::Approach-to-Syncope"
+        "JerryShen_AnKing_Tags::POM-3::Clinical-Reasoning::Approach-to-Syncope",
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::27-The-Abnormal-ECG-Ischemia-&-Infarction::Class-Content"
       ]
     },
     {
@@ -6306,13 +6385,15 @@
     {
       "first_field_hash": "a4abc4cde53e9a7153d010693b27daa47c01f1866f06d0d2e5389e52a48402b9",
       "tags": [
-        "JerryShen_AnKing_Tags::POM-3::Clinical-Reasoning::Approach-to-Syncope"
+        "JerryShen_AnKing_Tags::POM-3::Clinical-Reasoning::Approach-to-Syncope",
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::27-The-Abnormal-ECG-Ischemia-&-Infarction::Class-Content"
       ]
     },
     {
       "first_field_hash": "ca10856e0cc3a0ae32cdfeadd2981beb7f05044ac6a041ff6fc87612464aa4ac",
       "tags": [
-        "JerryShen_AnKing_Tags::POM-3::Clinical-Reasoning::Approach-to-Syncope"
+        "JerryShen_AnKing_Tags::POM-3::Clinical-Reasoning::Approach-to-Syncope",
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::27-The-Abnormal-ECG-Ischemia-&-Infarction::Class-Content"
       ]
     },
     {
@@ -6325,13 +6406,15 @@
     {
       "first_field_hash": "8bda181cad2328d3284420b2860f00893a492216f176cfce53115eed6bd978e5",
       "tags": [
-        "JerryShen_AnKing_Tags::POM-3::Clinical-Reasoning::Approach-to-Syncope"
+        "JerryShen_AnKing_Tags::POM-3::Clinical-Reasoning::Approach-to-Syncope",
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::27-The-Abnormal-ECG-Ischemia-&-Infarction::Class-Content"
       ]
     },
     {
       "first_field_hash": "bb6e04b5f37e0756c9ca409375dc2cb6b7b68617da953a2e8166395e994dbe12",
       "tags": [
-        "JerryShen_AnKing_Tags::POM-3::Clinical-Reasoning::Approach-to-Syncope"
+        "JerryShen_AnKing_Tags::POM-3::Clinical-Reasoning::Approach-to-Syncope",
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::27-The-Abnormal-ECG-Ischemia-&-Infarction"
       ]
     },
     {
@@ -6513,6 +6596,12 @@
       "first_field_hash": "240a1d08b988550e3d37643b6d568208c9729b6daa67970df6543cd9e405fc65",
       "tags": [
         "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-1-Thorax::Anatomy"
+      ]
+    },
+    {
+      "first_field_hash": "6322b5e207606525a187f2a2e73383050d97661be7bb310d2d6ed1367a7ede7b",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::CV-Lab-04-Case-Studies"
       ]
     },
     {
@@ -6794,6 +6883,12 @@
       "first_field_hash": "6b83a651c6b10b13b101697b6b57e2e9886708bf9cfe9ff3f7a2e9ab7936aa45",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::17-Valvular-Disease::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "56e714f088a4d352876231d327ad0d512bd07d662b99585272d7d769a5cbf3a1",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::CV-Lab-04-Case-Studies::Class-Content"
       ]
     },
     {
@@ -7223,6 +7318,12 @@
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::11-Pathology-of-Cardiomyopathy-and-Myocarditis",
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::11-Pathology-of-Cardiomyopathy-and-Myocarditis::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "2bb78422d6ac8a4066489fcef4c984cafbf4fb9c3df26533ea39107837d6d0e3",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::17-Valvular-Disease"
       ]
     },
     {
@@ -7671,6 +7772,12 @@
       ]
     },
     {
+      "first_field_hash": "46c0bd52f2831d84da4fa97362e43b08171f89f39653dc40d842ee551e194ed1",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::09-Supraventricular-Tachycardia-&-Antiarrhythmics::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "3ae766366b54cd615547c98ec9a477fc3ff558308b76e389d6c9ba751d2d066d",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::09-Supraventricular-Tachycardia-&-Antiarrhythmics::Class-Content"
@@ -7717,7 +7824,8 @@
     {
       "first_field_hash": "16211991e820ab06e66490fe7d47e4efa79861e1ae05220f8f605f2cc08e00ea",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::06-Hypertrophy-and-Bundle-Branch-Block::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::06-Hypertrophy-and-Bundle-Branch-Block::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::27-The-Abnormal-ECG-Ischemia-&-Infarction::Class-Content"
       ]
     },
     {
@@ -7863,7 +7971,14 @@
     {
       "first_field_hash": "a4cbd83433c0a06cd922958fa218dcc844c496cfc866b02d41ff570c7ea38d71",
       "tags": [
-        "JerryShen_AnKing_Tags::POM-3::Clinical-Reasoning::Approach-to-Acute-Dyspnea::Class-Content"
+        "JerryShen_AnKing_Tags::POM-3::Clinical-Reasoning::Approach-to-Acute-Dyspnea::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::27-The-Abnormal-ECG-Ischemia-&-Infarction::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "18a4907a14effa1147ca527fd44d5073814df8e1832511f5edc89f4514ce7f16",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::27-The-Abnormal-ECG-Ischemia-&-Infarction::Class-Content"
       ]
     },
     {
@@ -13662,6 +13777,12 @@
       ]
     },
     {
+      "first_field_hash": "70674942f3e9d92696131d788903986745012ad76ec8eaa7547d86f1884b01dd",
+      "tags": [
+        "JerryShen_AnKing_Tags::POM-3::Clinical-Reasoning::Approach-to-Acute-Dyspnea::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "5354d33fa7496ab57947ad401cf5ad84b0dfd3cacc42247210328650598b650e",
       "tags": [
         "JerryShen_AnKing_Tags::POM-3::Clinical-Reasoning::Approach-to-Acute-Dyspnea"
@@ -14146,6 +14267,12 @@
     },
     {
       "first_field_hash": "3ac5bd667a9850c3dc5c88d392ae6ce988b863ddeef94a62ca61547f1fe644fe",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::29-Frontiers-in-Lung-Biology-&-Lung-Development"
+      ]
+    },
+    {
+      "first_field_hash": "825ebaca10404ed5df12fa488e024d74b0dc7058b33601628b333b8ea56c4463",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::29-Frontiers-in-Lung-Biology-&-Lung-Development"
       ]
@@ -26457,14 +26584,14 @@
       "first_field_hash": "54d626e08c1c802b305dad30b7e54a82f102390cc92c7d4db112048935236e9c",
       "tags": [
         "JerryShen_AnKing_Tags::(✏️)-Tagged-by-Jerry-Shen",
-        "JerryShen_AnKing_Tags::(🛠️)-Last-Updated-05142026"
+        "JerryShen_AnKing_Tags::(🛠️)-Last-Updated-05152026"
       ]
     },
     {
       "first_field_hash": "54d626e08c1c802b305dad30b7e54a82f102390cc92c7d4db112048935236e9c",
       "tags": [
         "JerryShen_AnKing_Tags::(✏️)-Tagged-by-Jerry-Shen",
-        "JerryShen_AnKing_Tags::(🛠️)-Last-Updated-05142026"
+        "JerryShen_AnKing_Tags::(🛠️)-Last-Updated-05152026"
       ]
     },
     {
@@ -28346,6 +28473,12 @@
     },
     {
       "first_field_hash": "962ac13a7379fc0091a8fb21a4b1ad486bc57000766d058448062d5f286ede7d",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::11-Pathology-of-Cardiomyopathy-and-Myocarditis"
+      ]
+    },
+    {
+      "first_field_hash": "a43210eac817124c6df70cbbf74d98cffe8d991eb4a571bb5f47fbff3dcf7d73",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::11-Pathology-of-Cardiomyopathy-and-Myocarditis"
       ]
@@ -31981,6 +32114,12 @@
       ]
     },
     {
+      "first_field_hash": "711e0ee438c86ca42f322a225e837da4f24d0c618e5d45c92d0f5e6f42ee935a",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::27-The-Abnormal-ECG-Ischemia-&-Infarction::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "ab9a0b157079c3cfed3c0dc571281754476bf557ddf5938a760ec27c0fc549f3",
       "tags": [
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-2::10-Biologics-Ectoparasites-&-Clinical-Cases::Class-Content"
@@ -31990,6 +32129,12 @@
       "first_field_hash": "cd6c261d833d82ce0605ee6947d75cf1ddcc572a83b314a84696eefcbcaaca89",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::07-Slow-Rhythm-Arrhythmias::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "3b3f2676b130c1d6fe0570f609880fd44f3e7b35346083cf669a0d10d0986bcc",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::CV-Lab-04-Case-Studies"
       ]
     },
     {
@@ -32316,6 +32461,12 @@
       "first_field_hash": "9213456052ad09656669c8bcf9e8275aacecef9b3a5adaa2faa4a66e4a0c009f",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::18-Heart-Sounds-&-Clinical-Exam"
+      ]
+    },
+    {
+      "first_field_hash": "769a338977657c1a4131b5809f383d4c41eaeb80bdf05df650f865fb9655a830",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::27-The-Abnormal-ECG-Ischemia-&-Infarction"
       ]
     },
     {
@@ -37684,7 +37835,7 @@
       ]
     },
     {
-      "first_field_hash": "19b4f77fb5012ceb97ba7b2a1bea61988c9efaa9f880b023400cde2a0c61d7e8",
+      "first_field_hash": "46031bcaa9a456a30fefc9a40e1554d5332100be5e3cb70e2ae40b76dd1c15ca",
       "tags": [
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-2::06-Antivirals::Class-Content"
       ]
@@ -43475,6 +43626,13 @@
       ]
     },
     {
+      "first_field_hash": "cbb167870212db908292445bd5d6dccddf54ab51a400aa69b77f3df1e9635a44",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::17-Valvular-Disease",
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::CV-Lab-04-Case-Studies::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "5626ac01dec759a5e419a66b83e9680f4cb2fb700fb694eb394c3bc52d2bf4b0",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::17-Valvular-Disease::Class-Content"
@@ -43662,6 +43820,21 @@
       ]
     },
     {
+      "first_field_hash": "08386cc62c79eb8c8440cc1cd9f04ab705f294663064d22ae4d25976013a9214",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::26-Pathology-of-Atherosclerosis-&-IHD",
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::27-The-Abnormal-ECG-Ischemia-&-Infarction",
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::27-The-Abnormal-ECG-Ischemia-&-Infarction::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "23b278b2acd6b265a6c6595ece54731dd7d589a6161c04648fd1fadb50cda4d2",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::26-Pathology-of-Atherosclerosis-&-IHD",
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::27-The-Abnormal-ECG-Ischemia-&-Infarction"
+      ]
+    },
+    {
       "first_field_hash": "6d3fc4cdc631e8e67ce588e0369c36f53f68d389813a7a35347f93558c83fde6",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::22-Peripheral-Arterial-&-Aortic-Disease::Class-Content"
@@ -43706,7 +43879,8 @@
     {
       "first_field_hash": "14d3e41299824f8ef575dbe50673f8c1d8e83eafd15f0e42075d2d418d0407cc",
       "tags": [
-        "JerryShen_AnKing_Tags::POM-3::Clinical-Reasoning::Approach-to-Syncope"
+        "JerryShen_AnKing_Tags::POM-3::Clinical-Reasoning::Approach-to-Syncope",
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::27-The-Abnormal-ECG-Ischemia-&-Infarction::Class-Content"
       ]
     },
     {
@@ -43870,6 +44044,12 @@
       "first_field_hash": "42fbde7c3a4da5329eeac2a7adf8d7cd12eb6c90ab12edd91db0b0b1098e8f26",
       "tags": [
         "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-1-Thorax::Embryology"
+      ]
+    },
+    {
+      "first_field_hash": "4e28c7239dadf3e10f736bd85cf8ac09c015893ad260841ed56a3cd93b60d5e1",
+      "tags": [
+        "JerryShen_AnKing_Tags::POM-3::Clinical-Reasoning::Approach-to-Chronic-Dyspnea"
       ]
     },
     {
@@ -45067,6 +45247,14 @@
       ]
     },
     {
+      "first_field_hash": "21c8cee4cc98939d4d8df009d93ceeeef2763150b067fef4d5889c3599eb3bbe",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::17-Valvular-Disease",
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::CV-Lab-04-Case-Studies",
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::CV-Lab-04-Case-Studies::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "e846fc5fb0624039af3e15c187c98eb19a1a898904268a4c12cbb7589a494a8c",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::22-Peripheral-Arterial-&-Aortic-Disease::Class-Content"
@@ -45474,6 +45662,12 @@
       ]
     },
     {
+      "first_field_hash": "c15a4a0e8c32f7e231ee709e1384503f3fd7089d9bbe60d65c983bd7c5747aa0",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::CV-Lab-04-Case-Studies"
+      ]
+    },
+    {
       "first_field_hash": "5f88615647c9c2de27437ea122aca8f207af17dce27c56f2e7a9bc99c20ca7cf",
       "tags": [
         "JerryShen_AnKing_Tags::Neurobiology::Exam-3::Lec-Experience-Dependent-Circuit-Tuning::Class-Content"
@@ -45552,6 +45746,13 @@
       "first_field_hash": "97fa5d681af28c988da4e92f304da2fda8838ad122f6c64733d5570020aed34e",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::18-Heart-Sounds-&-Clinical-Exam"
+      ]
+    },
+    {
+      "first_field_hash": "0aca2e3853848f338d7a3068e570ed72448bfd21d774b0c492dacf5c97cb286b",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::18-Heart-Sounds-&-Clinical-Exam",
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::CV-Lab-04-Case-Studies"
       ]
     },
     {
@@ -46000,6 +46201,12 @@
       ]
     },
     {
+      "first_field_hash": "7fa41da4ac76ec26d8f0837021837a3c4268b2cc33fa0d70df52cd40190413fb",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::05-The-Normal-ECG::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "5b55f64b4621ee368e50a8cf7589d2594868827d8d4f2bdb3d49c1dfd15e12f4",
       "tags": [
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-1::04-Intro-to-Viruses",
@@ -46148,6 +46355,12 @@
       ]
     },
     {
+      "first_field_hash": "83fedafee1fae7bc38293ad8f5000e270545eeecb2475769b8cacb6fba67e4d0",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::CV-Lab-04-Case-Studies"
+      ]
+    },
+    {
       "first_field_hash": "82c21f5dedc7f25576b1f0b7e5c4d3cd35647f35efb259236ba9248e9e91d86f",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::19-Central-&-Peripheral-Control-of-Circulation::Class-Content"
@@ -46251,6 +46464,12 @@
       ]
     },
     {
+      "first_field_hash": "274ad41408e2ee80474eeda2414057ea5b0c8aabed7ac5d8d963732ee42ef46a",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::27-The-Abnormal-ECG-Ischemia-&-Infarction"
+      ]
+    },
+    {
       "first_field_hash": "2118c3a01174bdb18c798f2d7349cf7b67b1dd8ad2133b2bed360f0e195dbac1",
       "tags": [
         "JerryShen_AnKing_Tags::POM-3::Clinical-Reasoning::Approach-to-Syncope"
@@ -46325,6 +46544,24 @@
       ]
     },
     {
+      "first_field_hash": "3554e8079782f68a09bb113fe0b8b53546e6b60eda301815167980820fd3295a",
+      "tags": [
+        "JerryShen_AnKing_Tags::POM-2::Final::Clinical-Skills::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "8144483e5fe633b45e1023ea50a9ed7cfc7be3434fbe07858633d0f3e134800b",
+      "tags": [
+        "JerryShen_AnKing_Tags::POM-2::Final::Clinical-Skills::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "f5030027ff22685a7665302c69ca63fb087d73b663e3623f941ebbb97dc6b73b",
+      "tags": [
+        "JerryShen_AnKing_Tags::POM-2::Final::Clinical-Skills::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "04e35003f7bda7208ec0dfd4807df9965f4464133ea4de7bcaeeb0a092c34c35",
       "tags": [
         "JerryShen_AnKing_Tags::POM-2::Final::Clinical-Skills"
@@ -46349,6 +46586,12 @@
       ]
     },
     {
+      "first_field_hash": "8a895f4d95a20dbfe84822230614184e39cd2de84b40117b43518ed6abf3694b",
+      "tags": [
+        "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-1-Thorax::Anatomy::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "9c248766da146e40f6d2b3122ca235e2dc70d7b4854fd7a4035bf5eddb8b22a7",
       "tags": [
         "JerryShen_AnKing_Tags::Neurobiology::Exam-3::Tutorial-5-Sensory-Motor-Pathways",
@@ -46360,6 +46603,12 @@
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::15-Pathophysiology-&-Treatment-of-Heart-Failure",
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::25-Coronary-Circulation"
+      ]
+    },
+    {
+      "first_field_hash": "0fdd6ebef439148287ddab6bec13c2407d51efb419e537af1065d075bf73298a",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::10-Autonomic-Physiology-and-Pharmacology"
       ]
     },
     {
@@ -46579,7 +46828,8 @@
     {
       "first_field_hash": "cd8e0010558ddcc55ee39a2a35b6e12ec78c25efdaabe4681c6d84ba047ae9aa",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::06-Hypertrophy-and-Bundle-Branch-Block::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::06-Hypertrophy-and-Bundle-Branch-Block::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::27-The-Abnormal-ECG-Ischemia-&-Infarction::Class-Content"
       ]
     },
     {
@@ -47102,9 +47352,27 @@
       ]
     },
     {
+      "first_field_hash": "6d5f28cb118a73b764729ce899e745ed4951ccdacafbc98a9944caed4c178ba9",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::27-The-Abnormal-ECG-Ischemia-&-Infarction::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "deae67dbf25a1a2f076b1c0c4c57866a4f4f97b74bc5a46bdb5b295adbfc4593",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::27-The-Abnormal-ECG-Ischemia-&-Infarction::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "ebbb0133d5bd325a5344caeab007ca6e97893f9da9c7f252165f7c04f95328e2",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::25-Coronary-Circulation"
+      ]
+    },
+    {
+      "first_field_hash": "3e7853494a04aefdc694bc6e07ec692f5786e42e1a4fa0897b6de3dfd21a56c7",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::27-The-Abnormal-ECG-Ischemia-&-Infarction"
       ]
     },
     {
@@ -47454,6 +47722,12 @@
       "first_field_hash": "aeed839e638fb583ccac502245c738f478419eb58624ebc5b36ef5c0fd37e4ba",
       "tags": [
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-1::05-Intro-to-Fungi::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "86f20783565535007a9daf2efa7efe53f9b61fd635102da677a9271240d3cca9",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::CV-Lab-04-Case-Studies"
       ]
     },
     {
@@ -48424,14 +48698,16 @@
       "first_field_hash": "9add1452f2e17413b0e61d732a5c895cd0a0f0b219a94dd0a487124c1bad90b5",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::06-Hypertrophy-and-Bundle-Branch-Block",
-        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::25-Coronary-Circulation::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::25-Coronary-Circulation::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::27-The-Abnormal-ECG-Ischemia-&-Infarction::Class-Content"
       ]
     },
     {
       "first_field_hash": "d3111168ef564cea579b2b7bb9ce6febde29b1d3bedc6e3245c1f4ed89892527",
       "tags": [
         "JerryShen_AnKing_Tags::POM-3::Clinical-Reasoning::Approach-to-Acute-Dyspnea::Class-Content",
-        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::06-Hypertrophy-and-Bundle-Branch-Block::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::06-Hypertrophy-and-Bundle-Branch-Block::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::27-The-Abnormal-ECG-Ischemia-&-Infarction::Class-Content"
       ]
     },
     {
@@ -48504,6 +48780,12 @@
       "first_field_hash": "afde97df239ad7d2fa20d0c7428cd368fc1a1b78fbd4c3206c4901b42c0015fa",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::18-Heart-Sounds-&-Clinical-Exam"
+      ]
+    },
+    {
+      "first_field_hash": "7e19ba6523768ae2f439b7e899a1bc4484adbd7c62c14301de99bfd1137858f0",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::CV-Lab-04-Case-Studies"
       ]
     },
     {
@@ -49026,6 +49308,12 @@
       "first_field_hash": "fba6b779e068f002c487438470ce2a46c838cc7c02aaa12b9eb5e72f44f93533",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::25-Coronary-Circulation"
+      ]
+    },
+    {
+      "first_field_hash": "0575569b6d004535f6ae1a52a369703bde41321614ca0646acdc248d6753465f",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::18-Heart-Sounds-&-Clinical-Exam::Class-Content"
       ]
     },
     {
@@ -49896,6 +50184,12 @@
       "first_field_hash": "3d42df4516a2bb5b370ee2f950dc7cff40d3ec1b0e48864095314df4a7789224",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::26-Pulmonary-Cases-&-Miscellaneous-Diseases"
+      ]
+    },
+    {
+      "first_field_hash": "73c23d4086fc1fba28bb3188513cc211dfa9493c06ccd689a7727df49b9adfa9",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::27-The-Abnormal-ECG-Ischemia-&-Infarction::Class-Content"
       ]
     },
     {
