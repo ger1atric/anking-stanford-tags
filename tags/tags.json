@@ -1,14 +1,14 @@
 {
   "schema_version": 1,
   "author": "JerryShen",
-  "description": "",
-  "created": "2026-05-16T21:56:52.966477+00:00",
-  "updated": "2026-05-16T21:56:52.966477+00:00",
+  "description": "intro to msk and bone infections",
+  "created": "2026-05-18T18:15:10.553938+00:00",
+  "updated": "2026-05-18T18:15:10.553938+00:00",
   "tag_prefix": "JerryShen_AnKing_Tags",
   "tag_hierarchy": [
     "JerryShen_AnKing_Tags",
     "JerryShen_AnKing_Tags::(✏️)-Tagged-by-Jerry-Shen",
-    "JerryShen_AnKing_Tags::(🛠️)-Last-Updated-05152026",
+    "JerryShen_AnKing_Tags::(🛠️)-Last-Updated-05182026",
     "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology",
     "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-1-Thorax",
     "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-1-Thorax::Anatomy",
@@ -327,6 +327,10 @@
     "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::CV-Lab-04-Case-Studies",
     "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::CV-Lab-04-Case-Studies::Class-Content",
     "JerryShen_AnKing_Tags::SOM-1::MSK-Block",
+    "JerryShen_AnKing_Tags::SOM-1::MSK-Block::01-Introduction-to-MSK",
+    "JerryShen_AnKing_Tags::SOM-1::MSK-Block::01-Introduction-to-MSK::Class-Content",
+    "JerryShen_AnKing_Tags::SOM-1::MSK-Block::02-Bone-&-Joint-Infections",
+    "JerryShen_AnKing_Tags::SOM-1::MSK-Block::02-Bone-&-Joint-Infections::Class-Content",
     "JerryShen_AnKing_Tags::SOM-1::MSK-Block::Backache",
     "JerryShen_AnKing_Tags::SOM-1::MSK-Block::Backache::Class-Content",
     "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block",
@@ -542,6 +546,11 @@
       "date": "2026-05-14T19:05:33.928029+00:00",
       "message": "ihd and coronary arteries",
       "note_count": 69
+    },
+    {
+      "date": "2026-05-18T18:15:10.553938+00:00",
+      "message": "intro to msk and bone infections",
+      "note_count": 98
     }
   ],
   "notes": [
@@ -746,6 +755,12 @@
       ]
     },
     {
+      "first_field_hash": "36e7716f639188aa8eddc9e881602124e3a4ef89f8a30bf40382bbf749039fed",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::MSK-Block::02-Bone-&-Joint-Infections::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "74f00bd0e2d319c9b2d655d369d9b8aa9316ac4281cd06bdbcb376bcd22d69f8",
       "tags": [
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-2::07-β-Lactam-Antibiotics-&-Parasites"
@@ -829,7 +844,8 @@
     {
       "first_field_hash": "326f38f18f0703afcb0f6c8ce5c9b7da044660bfc6247d3f3f7cca1cbcbc25d0",
       "tags": [
-        "JerryShen_AnKing_Tags::Micro-Pharm::Exam-2::09-Misc-Antimicrobials-&-Skin-Infections"
+        "JerryShen_AnKing_Tags::Micro-Pharm::Exam-2::09-Misc-Antimicrobials-&-Skin-Infections",
+        "JerryShen_AnKing_Tags::SOM-1::MSK-Block::02-Bone-&-Joint-Infections::Class-Content"
       ]
     },
     {
@@ -2885,9 +2901,22 @@
       ]
     },
     {
+      "first_field_hash": "d1a653c8bea09ef3a2b406d5b51c1b47e83fd2e8d5507268165301082cb2ec3c",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::MSK-Block::01-Introduction-to-MSK::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "f254c74948b9cabb6d4af6d17b7f9a8325484b5bc677cc015a22be661b33b49c",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::MSK-Block::01-Introduction-to-MSK"
+      ]
+    },
+    {
       "first_field_hash": "1c39117543bb67aeea12c92a81d65a635a16c3edea09180a879c35b0d67c80e3",
       "tags": [
-        "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-2-Upper-Limb::Histology::Class-Content"
+        "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-2-Upper-Limb::Histology::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-1::MSK-Block::01-Introduction-to-MSK::Class-Content"
       ]
     },
     {
@@ -4787,6 +4816,13 @@
       ]
     },
     {
+      "first_field_hash": "ec51fe283df044d8fe0262e0f679fa6a4ac6ff57fe7cebfe8314a57893d22055",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::18-Heart-Sounds-&-Clinical-Exam",
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::18-Heart-Sounds-&-Clinical-Exam::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "d0cd4c24281ec6be8e7e6c18e85f086c3bb47c0c3c53fa510f94f1b2e1cbaea5",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::14-The-Cardiac-Cycle::Class-Content"
@@ -5635,7 +5671,19 @@
       ]
     },
     {
+      "first_field_hash": "83c4a0250dc2238ed8750f04e79d291761949d6dee6d74e2c06df70c14efcbd8",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::18-Heart-Sounds-&-Clinical-Exam"
+      ]
+    },
+    {
       "first_field_hash": "c6bf91965e53001a2af02c132f9fa79227fb38e528ce7172477783bf45fff75f",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::18-Heart-Sounds-&-Clinical-Exam"
+      ]
+    },
+    {
+      "first_field_hash": "fc70b932a17622a25fc0dce16b62a38dbc84dc83c139534702c7eb6e2286d22b",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::18-Heart-Sounds-&-Clinical-Exam"
       ]
@@ -6176,6 +6224,12 @@
       ]
     },
     {
+      "first_field_hash": "3ebf65840e685c3b45544985b9ca0ee8fd463f773bcd076caf93796a8e2659c6",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::27-The-Abnormal-ECG-Ischemia-&-Infarction"
+      ]
+    },
+    {
       "first_field_hash": "cca43ecef51080b26ac458c81448f56e6f986df3a42ca41de25d8da6da02f1fe",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::27-The-Abnormal-ECG-Ischemia-&-Infarction"
@@ -6476,6 +6530,12 @@
       "first_field_hash": "272ee57337c2d682ca11db2cc29d55e597cea3346a12659362962592562e6a3b",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::15-Pathophysiology-&-Treatment-of-Heart-Failure"
+      ]
+    },
+    {
+      "first_field_hash": "d554bfa1b157825015d593815116f5db1e733188d49e228379f081d522561523",
+      "tags": [
+        "JerryShen_AnKing_Tags::POM-3::Clinical-Reasoning::Approach-to-Chronic-Dyspnea"
       ]
     },
     {
@@ -6881,6 +6941,12 @@
     },
     {
       "first_field_hash": "6b83a651c6b10b13b101697b6b57e2e9886708bf9cfe9ff3f7a2e9ab7936aa45",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::17-Valvular-Disease::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "fa786e656578ae7b21f71f9397a511b623ece6a4acc745291f003d9fef70d347",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::17-Valvular-Disease::Class-Content"
       ]
@@ -8103,6 +8169,12 @@
       ]
     },
     {
+      "first_field_hash": "d88ee426d662c467d52bed44491b1e46a26bdd12cdafc0437e89ecc31ca62da7",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::09-Supraventricular-Tachycardia-&-Antiarrhythmics"
+      ]
+    },
+    {
       "first_field_hash": "6e3b280656ce8e5a246ef8203ed830f6bbec329583213b27ba72d2d5aea3c843",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::11-Pathology-of-Cardiomyopathy-and-Myocarditis::Class-Content"
@@ -8843,6 +8915,12 @@
       "first_field_hash": "ea5e0bbc1776dc1b6bdc1a861154707aff6489b92cb0097e141a7eaeff3d88d1",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::25-Coronary-Circulation::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "b3389b7d65bb81f51fc184700a3541d03384e4ef411cbbf717af685857dc9f6e",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::27-The-Abnormal-ECG-Ischemia-&-Infarction"
       ]
     },
     {
@@ -18447,6 +18525,12 @@
       ]
     },
     {
+      "first_field_hash": "a8290a3ca4a74030f2e193829ac874a95acea489d8617724be40bd418e934b87",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::27-The-Abnormal-ECG-Ischemia-&-Infarction"
+      ]
+    },
+    {
       "first_field_hash": "44b0c24de44942b6632c948b5af8c2da665d6a32105e8e874af3a6e64c1ec6dd",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::10-Autonomic-Physiology-and-Pharmacology"
@@ -18505,6 +18589,12 @@
       "first_field_hash": "ca320157a9038b7e527d3cd54a4cc54d35b57e530a77eac4bc6d54060f44adcc",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::10-Autonomic-Physiology-and-Pharmacology"
+      ]
+    },
+    {
+      "first_field_hash": "3f049af29a847fec056385b8b05b7522b4391a4f83fd9b4892359192d6f09f55",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::25-Coronary-Circulation"
       ]
     },
     {
@@ -24528,6 +24618,12 @@
       ]
     },
     {
+      "first_field_hash": "121bb818a2736bab5a26dc67fbbc9c6ba89a675ba9498a357f5edf9a9ffcc2de",
+      "tags": [
+        "JerryShen_AnKing_Tags::Cancer-Biology::Final::Lab-01-Cancer-Case-Studies"
+      ]
+    },
+    {
       "first_field_hash": "09334165eb6c41c9c961290b3e48c4096a1a1190d3de7b2efa0611ddc4b9cce0",
       "tags": [
         "JerryShen_AnKing_Tags::Cancer-Biology::Final::Lab-01-Cancer-Case-Studies::Class-Content"
@@ -25998,7 +26094,8 @@
     {
       "first_field_hash": "c2f1098548ea8abbf939f167d1cbd9c77a1985369e37aba9af806068bb0e855d",
       "tags": [
-        "JerryShen_AnKing_Tags::Micro-Pharm::Exam-2::09-Misc-Antimicrobials-&-Skin-Infections"
+        "JerryShen_AnKing_Tags::Micro-Pharm::Exam-2::09-Misc-Antimicrobials-&-Skin-Infections",
+        "JerryShen_AnKing_Tags::SOM-1::MSK-Block::02-Bone-&-Joint-Infections::Class-Content"
       ]
     },
     {
@@ -26584,14 +26681,14 @@
       "first_field_hash": "54d626e08c1c802b305dad30b7e54a82f102390cc92c7d4db112048935236e9c",
       "tags": [
         "JerryShen_AnKing_Tags::(✏️)-Tagged-by-Jerry-Shen",
-        "JerryShen_AnKing_Tags::(🛠️)-Last-Updated-05152026"
+        "JerryShen_AnKing_Tags::(🛠️)-Last-Updated-05182026"
       ]
     },
     {
       "first_field_hash": "54d626e08c1c802b305dad30b7e54a82f102390cc92c7d4db112048935236e9c",
       "tags": [
         "JerryShen_AnKing_Tags::(✏️)-Tagged-by-Jerry-Shen",
-        "JerryShen_AnKing_Tags::(🛠️)-Last-Updated-05152026"
+        "JerryShen_AnKing_Tags::(🛠️)-Last-Updated-05182026"
       ]
     },
     {
@@ -29041,9 +29138,39 @@
       ]
     },
     {
+      "first_field_hash": "b15379c9bb255cd2581c1fe29c81954000f2a124d2399e015bdeb071b3bcfb12",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::MSK-Block::01-Introduction-to-MSK::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "303d0df7348026248c9e9b6d04d2c63334c812daba8b86cc85715134884d228b",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::MSK-Block::01-Introduction-to-MSK"
+      ]
+    },
+    {
+      "first_field_hash": "4a496a4107eb204ba817712f111e883a106bed65444335dcfe19b98e447ff9e5",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::MSK-Block::01-Introduction-to-MSK"
+      ]
+    },
+    {
+      "first_field_hash": "8b5cd46908dc38ea2d3d8b022c1fc61782afef24be6f628798576311eeeec7d2",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::MSK-Block::01-Introduction-to-MSK"
+      ]
+    },
+    {
       "first_field_hash": "984795637a5c9acaa09cb441f48899c37c925425f4b0e5a8187dd7fd4b05f72a",
       "tags": [
         "JerryShen_AnKing_Tags::Cancer-Biology::Final::02-Cell-Injury-&-Death"
+      ]
+    },
+    {
+      "first_field_hash": "0b988d84a5a9ceddc817cb9678e571b053a98575554065d55bea80009f5a23b8",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::MSK-Block::01-Introduction-to-MSK"
       ]
     },
     {
@@ -29059,9 +29186,83 @@
       ]
     },
     {
+      "first_field_hash": "210d7bf70492f48d7da951727f6c1758ecd1b0c60b096da0ce4ca2e3a08f3dff",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::MSK-Block::02-Bone-&-Joint-Infections::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "61d1863644abd1942910d20c2315550a59e600597205d6726cf2ef56a0f48271",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::MSK-Block::02-Bone-&-Joint-Infections::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "6292aef0cc9e6561af624719bcf463d50c253531dbb8a010789a754272d6c57f",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::MSK-Block::02-Bone-&-Joint-Infections"
+      ]
+    },
+    {
+      "first_field_hash": "80b732dae08382d4adb9acf5846be53048b590fa5bcaa8dc99a1879914184ebc",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::MSK-Block::02-Bone-&-Joint-Infections"
+      ]
+    },
+    {
+      "first_field_hash": "4dc7a300d686269e4a7f5597f754d6d7c95cb942cc1b0dc0ad8a14b3ca72428d",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::MSK-Block::02-Bone-&-Joint-Infections::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "51cd60450ad66bcbedd6b2ded8a9f0eca0056947938ff157462369f1e1dcba54",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::MSK-Block::02-Bone-&-Joint-Infections::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "5db18912039fd4d922f437eb3600ea5d33586b4b8c680eed1de05a0d55ae1ac5",
       "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::MSK-Block::02-Bone-&-Joint-Infections::Class-Content",
         "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::26-Pulmonary-Cases-&-Miscellaneous-Diseases"
+      ]
+    },
+    {
+      "first_field_hash": "ff547f2a4b3b0413ae2ef7514c9d1727fe3a6efddf1b0499d6e4cbe4657f03f4",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::MSK-Block::02-Bone-&-Joint-Infections"
+      ]
+    },
+    {
+      "first_field_hash": "d80a264be063a002558a1ab585ca0a47ed40422e8307a6582d63df004fecb8bb",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::MSK-Block::02-Bone-&-Joint-Infections"
+      ]
+    },
+    {
+      "first_field_hash": "822229493f06e0e72a0f73939bed910fe3d7ddeb34461e0bed45fbb5b7754225",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::MSK-Block::02-Bone-&-Joint-Infections"
+      ]
+    },
+    {
+      "first_field_hash": "db14296a80a3ee15e429d1c169aa1583bd0da8c9ce468e28b208b7daf9f149ca",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::MSK-Block::02-Bone-&-Joint-Infections::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "8a0cf4389a255da93097d4f699df79814ed0a1fe5e22aeba20df7ba9e6f2feba",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::MSK-Block::02-Bone-&-Joint-Infections",
+        "JerryShen_AnKing_Tags::SOM-1::MSK-Block::02-Bone-&-Joint-Infections::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "9cf6e749c6fb124fcc389578b208a3c925eaf3edbd8359111d80f87c1ae9863a",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::MSK-Block::02-Bone-&-Joint-Infections"
       ]
     },
     {
@@ -29077,15 +29278,61 @@
       ]
     },
     {
+      "first_field_hash": "b418c85acbdac97b207f98f0e48a3bff0a1ed60824e9585838e9435328add168",
+      "tags": [
+        "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-2-Upper-Limb::Histology",
+        "JerryShen_AnKing_Tags::SOM-1::MSK-Block::01-Introduction-to-MSK",
+        "JerryShen_AnKing_Tags::SOM-1::MSK-Block::01-Introduction-to-MSK::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "7a4f5f5de4dbcca0039f05283da6ece5b62a628e568e2bec3ee2bdf45324a9ba",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::MSK-Block::02-Bone-&-Joint-Infections::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "d539a767f6e5c51ea5d1d882f0ceb79d9e9715b6665786e870b02c40dbb05693",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::MSK-Block::02-Bone-&-Joint-Infections::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "39052315feeda2b2f9f32155b8bbef2fe9d299670d77a7509ecad79f19df100e",
       "tags": [
-        "JerryShen_AnKing_Tags::Micro-Pharm::Exam-2::09-Misc-Antimicrobials-&-Skin-Infections"
+        "JerryShen_AnKing_Tags::Micro-Pharm::Exam-2::09-Misc-Antimicrobials-&-Skin-Infections",
+        "JerryShen_AnKing_Tags::SOM-1::MSK-Block::02-Bone-&-Joint-Infections::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "42fe715829e1ce76db2a47de4d1be57aab1887422e8e101e3279c16309f236f1",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::MSK-Block::02-Bone-&-Joint-Infections::Class-Content"
       ]
     },
     {
       "first_field_hash": "004eb0d32e112412ec7fadf7024941a6e131f879211ce9a769a0907f160e9ddc",
       "tags": [
-        "JerryShen_AnKing_Tags::Micro-Pharm::Exam-2::10-Biologics-Ectoparasites-&-Clinical-Cases"
+        "JerryShen_AnKing_Tags::Micro-Pharm::Exam-2::10-Biologics-Ectoparasites-&-Clinical-Cases",
+        "JerryShen_AnKing_Tags::SOM-1::MSK-Block::02-Bone-&-Joint-Infections::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "4e39e61020723061aa235433c5ca6a32313806cf02d8d8524ef2179ebffc17c9",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::MSK-Block::02-Bone-&-Joint-Infections::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "8b2e92d24db040873c84c893a8f3ed82641326a1b5d37cba72814dffe62b1141",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::MSK-Block::02-Bone-&-Joint-Infections::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "1f6dafd2ba513a5400152d348ba56d9f4e7432f09e108d8af5cbb80ac4dc9796",
+      "tags": [
+        "JerryShen_AnKing_Tags::Biochemistry::Final::06-Nucleic-Acid-Metabolism::Class-Content"
       ]
     },
     {
@@ -29095,9 +29342,28 @@
       ]
     },
     {
+      "first_field_hash": "dbe7d646a802d6c890822ef38b0cffb63018d7872539a65f37c952e889dcc047",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::MSK-Block::02-Bone-&-Joint-Infections"
+      ]
+    },
+    {
+      "first_field_hash": "8f27631519bab11059258b3ca8da7dadc8e659c9e6f94439c990e924dc4560c1",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::MSK-Block::02-Bone-&-Joint-Infections::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "7237f1e084970c613a777e1d5cb548f2b30773a41994dae283bbe69817053ebf",
       "tags": [
-        "JerryShen_AnKing_Tags::Biochemistry::Final::06-Nucleic-Acid-Metabolism"
+        "JerryShen_AnKing_Tags::Biochemistry::Final::06-Nucleic-Acid-Metabolism",
+        "JerryShen_AnKing_Tags::SOM-1::MSK-Block::02-Bone-&-Joint-Infections"
+      ]
+    },
+    {
+      "first_field_hash": "641e5f53c1e3654583dc0250c7bceadf820ef8a4c50d872b7fdc36dd2fcfc301",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::MSK-Block::02-Bone-&-Joint-Infections::Class-Content"
       ]
     },
     {
@@ -29555,6 +29821,13 @@
       ]
     },
     {
+      "first_field_hash": "368b2b266d565e310d6b57c88aaf1e60e26a692d805a2af704f38bd91c1a244e",
+      "tags": [
+        "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-5-Lower-Limb::Embryology",
+        "JerryShen_AnKing_Tags::SOM-1::MSK-Block::01-Introduction-to-MSK"
+      ]
+    },
+    {
       "first_field_hash": "d31ef67bcb2b3f3f46229a4c203b1ecb9f7bacf7bafd2e5e812284e57fb8d8ba",
       "tags": [
         "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-5-Lower-Limb::Embryology"
@@ -29833,7 +30106,8 @@
     {
       "first_field_hash": "4671c093c6ec7cf34181d6241e3ea23a2e09c28e937c0a3338a2596afc76dfa7",
       "tags": [
-        "JerryShen_AnKing_Tags::Micro-Pharm::Exam-2::07-β-Lactam-Antibiotics-&-Parasites"
+        "JerryShen_AnKing_Tags::Micro-Pharm::Exam-2::07-β-Lactam-Antibiotics-&-Parasites",
+        "JerryShen_AnKing_Tags::SOM-1::MSK-Block::02-Bone-&-Joint-Infections"
       ]
     },
     {
@@ -30623,6 +30897,12 @@
       ]
     },
     {
+      "first_field_hash": "fc8856d87fd6a33bfcb2b1a29616e80558b3039341500da4db934774a83315d2",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::MSK-Block::02-Bone-&-Joint-Infections::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "419def1e3f4e7c383386f4b04c52e27112580b06991d28a197062e85267d3328",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::19-ARDS-&-Ventilators"
@@ -31186,6 +31466,12 @@
       ]
     },
     {
+      "first_field_hash": "723f0907ef51a96dea5428faaa48ba4042c4ef4c8b8dfeb195629a95ec9755f7",
+      "tags": [
+        "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-5-Lower-Limb::Anatomy::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "c59d98d66dcb60b4f77577a74e287ec872cf15255e3b9046d1a473ccd46f1998",
       "tags": [
         "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-5-Lower-Limb::Anatomy::Class-Content"
@@ -31568,6 +31854,12 @@
       ]
     },
     {
+      "first_field_hash": "cbde4602025d4afb0eb57c56ad35f5e3b3dd3869508d8f3713faf66a073bd5fb",
+      "tags": [
+        "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-2-Upper-Limb::Anatomy"
+      ]
+    },
+    {
       "first_field_hash": "be2c053ef503a9949de4b7063a61818e9908eed629677165d72a00fcb32251e7",
       "tags": [
         "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-2-Upper-Limb::Anatomy::Class-Content"
@@ -31607,6 +31899,13 @@
       "first_field_hash": "66e658a74cd98971ce676143b11d85e63f8bd2e29d02424ddd19d75ffb98bb59",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::14-Lung-Pharmacology"
+      ]
+    },
+    {
+      "first_field_hash": "6ef73a88407bae4e9d43a8532366529f79c4a65e6b027738df2ac84e54f4227c",
+      "tags": [
+        "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-2-Upper-Limb::Anatomy",
+        "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-2-Upper-Limb::Anatomy::Class-Content"
       ]
     },
     {
@@ -32187,6 +32486,12 @@
       ]
     },
     {
+      "first_field_hash": "b257097313f78f3b34d7e32282f0c711a312814ef0e4a942ac6a513d84b8b02c",
+      "tags": [
+        "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-2-Upper-Limb::Histology"
+      ]
+    },
+    {
       "first_field_hash": "d387bfefa442e68345a1b2cbfe18d3dc62ce5b7c26ff719ba480a57b45934590",
       "tags": [
         "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-2-Upper-Limb::Histology::Class-Content"
@@ -32228,7 +32533,8 @@
       "first_field_hash": "b83b1778e96e2e8de107878931d41b9bfb3720ac725301a446bdcf26993a6e81",
       "tags": [
         "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-2-Upper-Limb::Histology::Class-Content",
-        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::12-Myosin-and-Cardiac-Contractility::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::12-Myosin-and-Cardiac-Contractility::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-1::MSK-Block::01-Introduction-to-MSK::Class-Content"
       ]
     },
     {
@@ -32324,6 +32630,12 @@
       ]
     },
     {
+      "first_field_hash": "ceb2d1d760e47faf60fd7201822fd16136ac45babc6248309b956bb58d552867",
+      "tags": [
+        "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-2-Upper-Limb::Histology"
+      ]
+    },
+    {
       "first_field_hash": "4e59f3139f82a132d926cf8546a2963d0786c8017e0ec040198c07b0ed2b464a",
       "tags": [
         "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-2-Upper-Limb::Histology::Class-Content"
@@ -32332,7 +32644,14 @@
     {
       "first_field_hash": "7057e82496dbe1312d3220c97b2bedb544b75d40a399965cfb28779d2b9d4f2a",
       "tags": [
-        "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-2-Upper-Limb::Histology::Class-Content"
+        "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-2-Upper-Limb::Histology::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-1::MSK-Block::01-Introduction-to-MSK"
+      ]
+    },
+    {
+      "first_field_hash": "bc8c7b495a2b86e98f145bf598783c397c4057d1630b7b58c21bede744d63d71",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::MSK-Block::01-Introduction-to-MSK"
       ]
     },
     {
@@ -32344,7 +32663,26 @@
     {
       "first_field_hash": "3b2726aaf37024ed9e4a586267a181def2943c514088473129f8f573cac5833f",
       "tags": [
-        "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-2-Upper-Limb::Histology::Class-Content"
+        "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-2-Upper-Limb::Histology::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-1::MSK-Block::01-Introduction-to-MSK"
+      ]
+    },
+    {
+      "first_field_hash": "4fdf459caa3db5d893923fa5c53bf42ba5f29c7e6785fa3b88b4feacd0bbc936",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::MSK-Block::01-Introduction-to-MSK"
+      ]
+    },
+    {
+      "first_field_hash": "8b8f5878ef80682d43ea22cc6348b6a88250cbc3b2323ea9474cd569e50ede1f",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::MSK-Block::01-Introduction-to-MSK"
+      ]
+    },
+    {
+      "first_field_hash": "a6ef0f81b311350365e098701432c544087f0c63e3f2b51a51ff8c33c0f6e0df",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::MSK-Block::01-Introduction-to-MSK"
       ]
     },
     {
@@ -34659,6 +34997,12 @@
       ]
     },
     {
+      "first_field_hash": "a3a984131ecf43ba8d03aeb51a1f2b6b40f400328d9cf5898862b4d340d5d10c",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::23-Endocarditis"
+      ]
+    },
+    {
       "first_field_hash": "37805fea658ee73d88489576a3b78f06bfa7b9094a548ec29d521b71d20ebe89",
       "tags": [
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-2::08-Other-Antibiotics-&-Mycobacteria",
@@ -35304,6 +35648,18 @@
       ]
     },
     {
+      "first_field_hash": "1d5ac7575f74a916b30f62614bbeddbc76b45bd911035b12282e2813b3097d74",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::MSK-Block::02-Bone-&-Joint-Infections"
+      ]
+    },
+    {
+      "first_field_hash": "ed612ce8daa294976307c4bc1630898af6a0cef0b5b3de731525f4f68b61bd0a",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::MSK-Block::02-Bone-&-Joint-Infections"
+      ]
+    },
+    {
       "first_field_hash": "c5736aa565a340fb108cde04b3b421397dc5562128ed0fe90d779e1aa6f124b7",
       "tags": [
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-1::04-Intro-to-Viruses"
@@ -35344,6 +35700,12 @@
       "first_field_hash": "f734615afbde936b3ff9e78b0a3b7f76d17e76970ce7ab515551fff93143aed3",
       "tags": [
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-2::07-β-Lactam-Antibiotics-&-Parasites"
+      ]
+    },
+    {
+      "first_field_hash": "8eede66ed308b8da521f2b17da530b3ba7ce992057a8715b0bdd1917c98f43cb",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::MSK-Block::02-Bone-&-Joint-Infections"
       ]
     },
     {
@@ -35394,6 +35756,12 @@
       "first_field_hash": "6207f6bc247c7e8d7ff2d315e700fd4295b15c6967de70f98fc069ec393ecc57",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::23-Endocarditis::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "3b671d8d5bf31b9e6c89ed291c4918c568f2a51c9823129dfb1b07ddd75a6c26",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::MSK-Block::02-Bone-&-Joint-Infections"
       ]
     },
     {
@@ -38295,7 +38663,8 @@
     {
       "first_field_hash": "f4b0133be537ef910391a1e2ff68e3c13d1171b6368d21c97ce72fc163db9ebf",
       "tags": [
-        "JerryShen_AnKing_Tags::Micro-Pharm::Exam-2::08-Other-Antibiotics-&-Mycobacteria"
+        "JerryShen_AnKing_Tags::Micro-Pharm::Exam-2::08-Other-Antibiotics-&-Mycobacteria",
+        "JerryShen_AnKing_Tags::SOM-1::MSK-Block::02-Bone-&-Joint-Infections"
       ]
     },
     {
@@ -38450,7 +38819,7 @@
       ]
     },
     {
-      "first_field_hash": "9620682c3d74d80ddb54278741574912c17f1e05ca64f3604a58711aca138b40",
+      "first_field_hash": "174fabe130005d32f71d63f8b9e7a5ea95a018bd5d9b169141fa5232ce9a144b",
       "tags": [
         "JerryShen_AnKing_Tags::Biochemistry::Final::06-Nucleic-Acid-Metabolism::Class-Content"
       ]
@@ -41504,6 +41873,24 @@
       ]
     },
     {
+      "first_field_hash": "72d0d72caf170639abd294c877fdf0dc3fdb05d06a78f94298c16cd1dd010d65",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::MSK-Block::02-Bone-&-Joint-Infections"
+      ]
+    },
+    {
+      "first_field_hash": "8ee6ed9690006961232d60d58dccf7088054d0032a96788630fc2365a269d775",
+      "tags": [
+        "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-5-Lower-Limb::Anatomy"
+      ]
+    },
+    {
+      "first_field_hash": "4ae88abf15570d603843034f3d2e32dfdcee2a87a3e6f55ffa5c0a6a4a1550e6",
+      "tags": [
+        "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-5-Lower-Limb::Anatomy::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "9fbcb5c187c20a34f9026c45f5b97ae675f3514549c1cfce3d249ef30cae52be",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::16-Lower-Respiratory-Infections::Class-Content"
@@ -41724,6 +42111,12 @@
       "first_field_hash": "e250cda6920ba394eb3492bc47f907eb5b7102534aa51ee767c45ea017bbf2c4",
       "tags": [
         "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-6-Head-&-Neck-1::Histology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "4e5f2385a3bf252f3f7e91885331e539fd103c5decc067cb54972ee4d539066c",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::MSK-Block::02-Bone-&-Joint-Infections"
       ]
     },
     {
@@ -42717,7 +43110,8 @@
     {
       "first_field_hash": "26bcd5013ee4f757b76a9a2d9730e34edc3799344dee98bd6d8d9182d508bdfd",
       "tags": [
-        "JerryShen_AnKing_Tags::Micro-Pharm::Exam-2::10-Biologics-Ectoparasites-&-Clinical-Cases"
+        "JerryShen_AnKing_Tags::Micro-Pharm::Exam-2::10-Biologics-Ectoparasites-&-Clinical-Cases",
+        "JerryShen_AnKing_Tags::SOM-1::MSK-Block::02-Bone-&-Joint-Infections::Class-Content"
       ]
     },
     {
@@ -43360,6 +43754,12 @@
       "first_field_hash": "25a1ece9b112bb62539b69dc64b34210353c9844e6a5647c34857b361f8d84e2",
       "tags": [
         "JerryShen_AnKing_Tags::POM-3::Psychiatry::Psychiatric-Interview"
+      ]
+    },
+    {
+      "first_field_hash": "958bcd46f09212d970ba51cb3c2566da38114ea57b552b16215c877c7b7266ac",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::MSK-Block::02-Bone-&-Joint-Infections"
       ]
     },
     {
@@ -44421,6 +44821,12 @@
       ]
     },
     {
+      "first_field_hash": "2ed95ac41b1370652ce7af730ad7296c4fe1253ec8f0c28321e27b2e6f59e0a2",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::MSK-Block::02-Bone-&-Joint-Infections"
+      ]
+    },
+    {
       "first_field_hash": "1446847363666fd4129c1c8c5caa69d49b5aa334960d5d9169aafebe0e346b77",
       "tags": [
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-1::04-Intro-to-Viruses::Class-Content"
@@ -45323,6 +45729,12 @@
       ]
     },
     {
+      "first_field_hash": "7cad38e21ff2461544ed19f458bfcf543d4c9b1b600a32aaafa6520b6592c247",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::MSK-Block::02-Bone-&-Joint-Infections::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "d271b318b750cc935fa49d3d3dcdbc0470f01b7f14778c5d640c2b1703d9be70",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::15-Upper-Respiratory-Infections::Class-Content"
@@ -45837,6 +46249,12 @@
       ]
     },
     {
+      "first_field_hash": "8a07afd0f025f5e3f816a6f2a48479ca891ba34875d5d4702cd9b6d5da96bc7c",
+      "tags": [
+        "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-2-Upper-Limb::Anatomy"
+      ]
+    },
+    {
       "first_field_hash": "c757b1d9a069db0a0fbf81b8136efc9b7b9584cd610326b6b3a1582a277f552c",
       "tags": [
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-2::07-β-Lactam-Antibiotics-&-Parasites::Class-Content"
@@ -46231,6 +46649,12 @@
       "first_field_hash": "aeab54bf16c6777e649512eb820f698b0506de350a78b0728644993318b407eb",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::09-Supraventricular-Tachycardia-&-Antiarrhythmics"
+      ]
+    },
+    {
+      "first_field_hash": "0fbc20010a62e6d65fb29b8f1138aefd130dcb81f08b7326d22294e0b98aff4d",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::MSK-Block::02-Bone-&-Joint-Infections"
       ]
     },
     {
@@ -47181,9 +47605,16 @@
       ]
     },
     {
+      "first_field_hash": "b3aeef8ffaeaf3b91a4cb6387bbe286598ad3c4eaf85d40733aab97d7c6a0953",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::MSK-Block::02-Bone-&-Joint-Infections"
+      ]
+    },
+    {
       "first_field_hash": "3a1c3db5de8838d4bf600e0f7b7c84bc599158190f251f9640c91c7b92655da7",
       "tags": [
-        "JerryShen_AnKing_Tags::Micro-Pharm::Exam-2::07-β-Lactam-Antibiotics-&-Parasites"
+        "JerryShen_AnKing_Tags::Micro-Pharm::Exam-2::07-β-Lactam-Antibiotics-&-Parasites",
+        "JerryShen_AnKing_Tags::SOM-1::MSK-Block::02-Bone-&-Joint-Infections"
       ]
     },
     {
@@ -47208,6 +47639,12 @@
       "first_field_hash": "053aac1ec27ef971aa7a833f0cf7e5a80a0eb61f47bb527c18660dd82e2b96c4",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::23-Endocarditis::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "9f195c3df62e793ed05c791c1d0c65997a59259ac3876bba29e056bad62a8cc6",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::MSK-Block::02-Bone-&-Joint-Infections::Class-Content"
       ]
     },
     {
@@ -47312,7 +47749,8 @@
     {
       "first_field_hash": "3caf8af3b08eccb5ae004e09d2036bbab149b67c4ca9f771065bc5242612e233",
       "tags": [
-        "JerryShen_AnKing_Tags::Micro-Pharm::Exam-2::10-Biologics-Ectoparasites-&-Clinical-Cases"
+        "JerryShen_AnKing_Tags::Micro-Pharm::Exam-2::10-Biologics-Ectoparasites-&-Clinical-Cases",
+        "JerryShen_AnKing_Tags::SOM-1::MSK-Block::02-Bone-&-Joint-Infections"
       ]
     },
     {
@@ -47679,7 +48117,8 @@
     {
       "first_field_hash": "832ce307dc4ed592ad462d5c9baa572156616c23d1f6b2142c5fd5f6421a5433",
       "tags": [
-        "JerryShen_AnKing_Tags::Micro-Pharm::Exam-2::10-Biologics-Ectoparasites-&-Clinical-Cases"
+        "JerryShen_AnKing_Tags::Micro-Pharm::Exam-2::10-Biologics-Ectoparasites-&-Clinical-Cases",
+        "JerryShen_AnKing_Tags::SOM-1::MSK-Block::02-Bone-&-Joint-Infections::Class-Content"
       ]
     },
     {
@@ -48018,6 +48457,12 @@
       ]
     },
     {
+      "first_field_hash": "cd57a3c8bcdc00c4a05126b680d4ef136fa815ec09cb2a8d0cd6ab86cd67064e",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::30-Lung-Cancer-Treatment::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "288af4cebf37669758cc14f627a9cb32e411e0ef679cfec252c8a4e29c01b8d1",
       "tags": [
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-2::07-β-Lactam-Antibiotics-&-Parasites::Class-Content"
@@ -48039,6 +48484,12 @@
       "first_field_hash": "19c7ad14ab758e8d4dfefe932c1d7837c2112d230d9b2d22bca291a01e6986b8",
       "tags": [
         "JerryShen_AnKing_Tags::POM-3::Clinical-Reasoning"
+      ]
+    },
+    {
+      "first_field_hash": "63f5e9d765d6d013ee26575d89ceaccb1821e07ba45a1eb17594c0c3c28f3bb1",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::MSK-Block::02-Bone-&-Joint-Infections::Class-Content"
       ]
     },
     {
@@ -48072,6 +48523,12 @@
       ]
     },
     {
+      "first_field_hash": "90747428bb49a276af32b90f0fd1e7596f502e9637a295806228327b52893243",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::MSK-Block::02-Bone-&-Joint-Infections::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "15d4c2de435f160ec5b713a45463bd676968836b1151ed428a6a0730c680d954",
       "tags": [
         "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-6-Head-&-Neck-1::Anatomy"
@@ -48081,6 +48538,13 @@
       "first_field_hash": "95ae37d9c08d781ea6ce96cb60a3c49a3632dd86452d4a8730cce29a2e7af589",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::17-Valvular-Disease::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "58ab2bf2ff62c3e1b7c19b54992157b3885850dc1413555196445a53900f2626",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::MSK-Block::02-Bone-&-Joint-Infections",
+        "JerryShen_AnKing_Tags::SOM-1::MSK-Block::02-Bone-&-Joint-Infections::Class-Content"
       ]
     },
     {
@@ -48667,6 +49131,12 @@
       "first_field_hash": "2c0dbd1cc45293a5ac9e5e3deba19f750151c3b4a0d70be513f6fa28a562bcbf",
       "tags": [
         "JerryShen_AnKing_Tags::POM-3::Clinical-Reasoning::Advanced-Pulmonary-Exam"
+      ]
+    },
+    {
+      "first_field_hash": "33baaa5e9732ef1329859e98848010a2ea0051456d4cdaafbbf263d07d3fc62d",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::MSK-Block::02-Bone-&-Joint-Infections::Class-Content"
       ]
     },
     {
@@ -49425,6 +49895,12 @@
       ]
     },
     {
+      "first_field_hash": "9b1dceabd18e1d13335d17ffa294c1e8a15ae13917b5be6b7066cfba89adcf45",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::17-Chest-Imaging-II"
+      ]
+    },
+    {
       "first_field_hash": "9df88ee78321b4ea49462576ffcd7a710b5269c0050439872a1fed4463d4c2df",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::19-ARDS-&-Ventilators"
@@ -49489,6 +49965,12 @@
       "first_field_hash": "83c4b192ef6fcbb10e71515e5ae14e4e63716b3a746274dad24816d48ace7354",
       "tags": [
         "JerryShen_AnKing_Tags::POM-3::Clinical-Reasoning::Approach-to-Acute-Dyspnea"
+      ]
+    },
+    {
+      "first_field_hash": "f1cc295c31e5c27032f61e894a811360356e48e45775748d161b6aead1b9bae1",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::MSK-Block::02-Bone-&-Joint-Infections"
       ]
     },
     {
@@ -49887,6 +50369,19 @@
       "first_field_hash": "79b8ecf4bc5e12d9cc2dd8672f26dfeccfc5135dd669579cfadb5381f083df15",
       "tags": [
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-2::07-β-Lactam-Antibiotics-&-Parasites"
+      ]
+    },
+    {
+      "first_field_hash": "e85b082dd4b2090c4cd7e7cbb0486571ac69043da41b5210051455c7dcc1fccb",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::MSK-Block::02-Bone-&-Joint-Infections"
+      ]
+    },
+    {
+      "first_field_hash": "0fe419700e25e7973ba0938b909308d8e1ff8eec1fb8afcfcd89b8404106633b",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::MSK-Block::02-Bone-&-Joint-Infections",
+        "JerryShen_AnKing_Tags::SOM-1::MSK-Block::02-Bone-&-Joint-Infections::Class-Content"
       ]
     },
     {
@@ -50371,6 +50866,12 @@
       "first_field_hash": "e74c2add5061fcbb847b84d8590044bdcb9dac5422174dd36ba2fb8e215489a2",
       "tags": [
         "JerryShen_AnKing_Tags::POM-1::Final::Ethics"
+      ]
+    },
+    {
+      "first_field_hash": "4f10fb9466ce90cbe9d463096373acd87a1a295c68f9a2ce24c6eacce2cc019b",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::MSK-Block::01-Introduction-to-MSK::Class-Content"
       ]
     },
     {
