@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
   "author": "JerryShen",
-  "description": "intro to msk and bone infections",
-  "created": "2026-05-18T18:15:10.553938+00:00",
-  "updated": "2026-05-18T18:15:10.553938+00:00",
+  "description": "",
+  "created": "2026-05-19T03:20:10.224589+00:00",
+  "updated": "2026-05-19T03:20:10.224589+00:00",
   "tag_prefix": "JerryShen_AnKing_Tags",
   "tag_hierarchy": [
     "JerryShen_AnKing_Tags",
@@ -255,12 +255,15 @@
     "JerryShen_AnKing_Tags::POM-3::Clinical-Reasoning::Approach-to-Chronic-Dyspnea::Class-Content",
     "JerryShen_AnKing_Tags::POM-3::Clinical-Reasoning::Approach-to-Cough",
     "JerryShen_AnKing_Tags::POM-3::Clinical-Reasoning::Approach-to-Cough::Class-Content",
+    "JerryShen_AnKing_Tags::POM-3::Clinical-Reasoning::Approach-to-Shock",
+    "JerryShen_AnKing_Tags::POM-3::Clinical-Reasoning::Approach-to-Shock::Class-Content",
     "JerryShen_AnKing_Tags::POM-3::Clinical-Reasoning::Approach-to-Syncope",
     "JerryShen_AnKing_Tags::POM-3::Clinical-Reasoning::Approach-to-Syncope::Class-Content",
     "JerryShen_AnKing_Tags::POM-3::Clinical-Reasoning::Pain-Management",
     "JerryShen_AnKing_Tags::POM-3::Clinical-Reasoning::Pain-Management::Class-Content",
     "JerryShen_AnKing_Tags::POM-3::Geriatrics",
     "JerryShen_AnKing_Tags::POM-3::Geriatrics::Class-Content",
+    "JerryShen_AnKing_Tags::POM-3::Geriatrics::Class-Content::Class-Content",
     "JerryShen_AnKing_Tags::POM-3::Psychiatry",
     "JerryShen_AnKing_Tags::POM-3::Psychiatry::Mood-Disorders",
     "JerryShen_AnKing_Tags::POM-3::Psychiatry::Mood-Disorders::Class-Content",
@@ -331,6 +334,8 @@
     "JerryShen_AnKing_Tags::SOM-1::MSK-Block::01-Introduction-to-MSK::Class-Content",
     "JerryShen_AnKing_Tags::SOM-1::MSK-Block::02-Bone-&-Joint-Infections",
     "JerryShen_AnKing_Tags::SOM-1::MSK-Block::02-Bone-&-Joint-Infections::Class-Content",
+    "JerryShen_AnKing_Tags::SOM-1::MSK-Block::03-Bone-&-Soft-Tissue-Neoplasms",
+    "JerryShen_AnKing_Tags::SOM-1::MSK-Block::03-Bone-&-Soft-Tissue-Neoplasms::Class-Content",
     "JerryShen_AnKing_Tags::SOM-1::MSK-Block::Backache",
     "JerryShen_AnKing_Tags::SOM-1::MSK-Block::Backache::Class-Content",
     "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block",
@@ -550,7 +555,7 @@
     {
       "date": "2026-05-18T18:15:10.553938+00:00",
       "message": "intro to msk and bone infections",
-      "note_count": 98
+      "note_count": 136
     }
   ],
   "notes": [
@@ -1099,6 +1104,12 @@
       ]
     },
     {
+      "first_field_hash": "90b87c47ab0b763d57b5761b5e0083b7111c9999c6c96281da9b42030cc681d8",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::25-Coronary-Circulation"
+      ]
+    },
+    {
       "first_field_hash": "6d22c153e7cd04cf86f05c472026b923d49b75de3f178a51ba8a94564d77c019",
       "tags": [
         "JerryShen_AnKing_Tags::Biochemistry::Final::05-Nitrogen-Metabolism::Class-Content"
@@ -1448,6 +1459,12 @@
       "first_field_hash": "7cf27e335f8120b620d2aa8d8b1e82658e1586fbbfcb9facaed8d8d0f9e74971",
       "tags": [
         "JerryShen_AnKing_Tags::Biochemistry::Final::04-Regulation"
+      ]
+    },
+    {
+      "first_field_hash": "44921dd6f1332953e8a12b347dbb0643d04b820416b008e0bc65d0985ac96b4d",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::15-Pathophysiology-&-Treatment-of-Heart-Failure"
       ]
     },
     {
@@ -2348,7 +2365,7 @@
       ]
     },
     {
-      "first_field_hash": "f4b12efbf125a9830bcd3f7bed02400a6c73fd7c7f41014256c62b7026d0768c",
+      "first_field_hash": "457ae0a892a655f390a1ca15026f1d6b8be0add6a940101464bfdb5c12d188aa",
       "tags": [
         "JerryShen_AnKing_Tags::Genetics::Exam-1-Molecular-Foundations::DNA-Replication-and-Repair::Class-Content"
       ]
@@ -2619,13 +2636,13 @@
       ]
     },
     {
-      "first_field_hash": "77f3a7dd1943c9d74a1ef0a832f5b9f00fc820c2b155c54210508e7e16da3edd",
+      "first_field_hash": "705566a14f0942425338beaa22d5cab48325b6245c64b8abc300b34befe8a0ac",
       "tags": [
         "JerryShen_AnKing_Tags::Genetics::Exam-1-Molecular-Foundations::Transcription-&-Translation"
       ]
     },
     {
-      "first_field_hash": "d8e7da4dd6e186b74b5a53c0aaf5f6bb0d7719c589e34c468f4e61db8928612c",
+      "first_field_hash": "14e9b05ea761b0b6997ea1ab559817a917ce3e129daeccf5a2ebcfdb7c137fd8",
       "tags": [
         "JerryShen_AnKing_Tags::Genetics::Exam-1-Molecular-Foundations::Transcription-&-Translation::Class-Content"
       ]
@@ -2811,7 +2828,7 @@
       ]
     },
     {
-      "first_field_hash": "d8e406e0f6164199176a7ad59d00ba5b27050b0d46d544257cd377780a5ea719",
+      "first_field_hash": "2a67b8867519fd1b717fdc4c5592d6f66a95ecd0a9a25525acdf3ab8851f253f",
       "tags": [
         "JerryShen_AnKing_Tags::Biochemistry::Final::06-Nucleic-Acid-Metabolism::Class-Content"
       ]
@@ -3032,7 +3049,7 @@
       ]
     },
     {
-      "first_field_hash": "7c296142fe3760a4d89d907c5c96a41d0726ddeb8fd30f5c72f3197170db44ed",
+      "first_field_hash": "c106865ed27a3882efcefaa08c0043fff2e9f32cb2bed7297261adaba3eda6a1",
       "tags": [
         "JerryShen_AnKing_Tags::Genetics::Exam-1-Molecular-Foundations::Genome-Editing::Class-Content"
       ]
@@ -5523,6 +5540,8 @@
     {
       "first_field_hash": "b1359ef340ea39514859190bd105b895275e3ade2fcefbbe8553e408b651eb01",
       "tags": [
+        "JerryShen_AnKing_Tags::POM-3::Clinical-Reasoning::Advanced-CV-Exam::Class-Content",
+        "JerryShen_AnKing_Tags::POM-3::Clinical-Reasoning::Approach-to-Shock::Class-Content",
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::15-Pathophysiology-&-Treatment-of-Heart-Failure"
       ]
     },
@@ -6079,6 +6098,12 @@
       ]
     },
     {
+      "first_field_hash": "04f68aa5522e794e4b585e8cf1523d6ce4d1d88009300fe7bd2d2d36ead4721a",
+      "tags": [
+        "JerryShen_AnKing_Tags::POM-3::Clinical-Reasoning::Approach-to-Shock"
+      ]
+    },
+    {
       "first_field_hash": "f056cfaf08c7585453a4d4e15833fdf49e49a7d45c26e5a1d0f79bcb29cbd327",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::25-Coronary-Circulation::Class-Content"
@@ -6112,6 +6137,12 @@
       "first_field_hash": "5b463a73eb8a63bec71ff7a812571b4d40eca519d6ff0513f3799f7d4aa09c9e",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::27-The-Abnormal-ECG-Ischemia-&-Infarction"
+      ]
+    },
+    {
+      "first_field_hash": "9e1b7d2c7a1fde1f8de077de8446dd39e9823eaa0bc1e86b40b972c88351ebd8",
+      "tags": [
+        "JerryShen_AnKing_Tags::POM-3::Clinical-Reasoning::Approach-to-Shock"
       ]
     },
     {
@@ -6226,6 +6257,13 @@
     {
       "first_field_hash": "3ebf65840e685c3b45544985b9ca0ee8fd463f773bcd076caf93796a8e2659c6",
       "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::27-The-Abnormal-ECG-Ischemia-&-Infarction"
+      ]
+    },
+    {
+      "first_field_hash": "b77a2fc68ef4eee0c59226f7be0dbc19d449bdf101d5591922c3da46d8808416",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::25-Coronary-Circulation",
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::27-The-Abnormal-ECG-Ischemia-&-Infarction"
       ]
     },
@@ -6977,6 +7015,12 @@
       ]
     },
     {
+      "first_field_hash": "0ab35dc5f1fb038c39e78bbcb043df7908b78e816e92d3236d0fbe13b431dc7e",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::17-Valvular-Disease"
+      ]
+    },
+    {
       "first_field_hash": "ece1526ee777e420745fbbdc2129a371486918a70ca317abf3f5ed5ddf940b7d",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::17-Valvular-Disease"
@@ -7667,6 +7711,7 @@
     {
       "first_field_hash": "8c81196040180cd56eac7d57f5fef07aefd95573706e6f2eaddc49db2cd99e92",
       "tags": [
+        "JerryShen_AnKing_Tags::POM-3::Clinical-Reasoning::Approach-to-Shock::Class-Content",
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::21-The-Arterial-System"
       ]
     },
@@ -7909,18 +7954,21 @@
     {
       "first_field_hash": "d1b604d3f082b2954032b0389c1219f894c29b226790a2d04142eca9b7c70f9e",
       "tags": [
+        "JerryShen_AnKing_Tags::POM-3::Clinical-Reasoning::Approach-to-Shock::Class-Content",
         "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::24-Sepsis-&-Septic-Shock::Class-Content"
       ]
     },
     {
       "first_field_hash": "ca22d5ae4a8fef9c0d1c8251d72bcb143f0903852c342a80d02627f3aa2797c1",
       "tags": [
+        "JerryShen_AnKing_Tags::POM-3::Clinical-Reasoning::Approach-to-Shock::Class-Content",
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::19-Central-&-Peripheral-Control-of-Circulation::Class-Content"
       ]
     },
     {
       "first_field_hash": "8dbba71ab4db56eb9533df64b131ab5d65f4d9a63d47578d9a0eea71c564f5da",
       "tags": [
+        "JerryShen_AnKing_Tags::POM-3::Clinical-Reasoning::Approach-to-Shock::Class-Content",
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::19-Central-&-Peripheral-Control-of-Circulation",
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::19-Central-&-Peripheral-Control-of-Circulation::Class-Content"
       ]
@@ -7928,12 +7976,14 @@
     {
       "first_field_hash": "bb7214fd43897044be9bae15db5fbf4baa3a6ba55a5499f06c010e76a7317e71",
       "tags": [
+        "JerryShen_AnKing_Tags::POM-3::Clinical-Reasoning::Approach-to-Shock::Class-Content",
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::19-Central-&-Peripheral-Control-of-Circulation::Class-Content"
       ]
     },
     {
       "first_field_hash": "262ffaaaaf8c7b3245e7ca4a3f55e009740450390839800c00d94ac57a8d9cbf",
       "tags": [
+        "JerryShen_AnKing_Tags::POM-3::Clinical-Reasoning::Approach-to-Shock::Class-Content",
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::19-Central-&-Peripheral-Control-of-Circulation::Class-Content"
       ]
     },
@@ -7946,18 +7996,21 @@
     {
       "first_field_hash": "96c1ce35607d88b9b8a95b4825706a22d123791922015251675066fdec0fc91f",
       "tags": [
+        "JerryShen_AnKing_Tags::POM-3::Clinical-Reasoning::Approach-to-Shock::Class-Content",
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::19-Central-&-Peripheral-Control-of-Circulation::Class-Content"
       ]
     },
     {
       "first_field_hash": "0fbd14b97889e70747968467d619c544665260cf1ab5cf02d18689f7d6592dc0",
       "tags": [
+        "JerryShen_AnKing_Tags::POM-3::Clinical-Reasoning::Approach-to-Shock::Class-Content",
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::17-Valvular-Disease"
       ]
     },
     {
       "first_field_hash": "a825d82c0fd1613d92b36bbebd4d2a00760ee84de73049f89527bd341aa7695f",
       "tags": [
+        "JerryShen_AnKing_Tags::POM-3::Clinical-Reasoning::Approach-to-Shock::Class-Content",
         "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::26-Pulmonary-Cases-&-Miscellaneous-Diseases::Class-Content"
       ]
     },
@@ -7980,14 +8033,22 @@
       ]
     },
     {
+      "first_field_hash": "34d70887a43019ac141fe22d512dd556cdae61407b4bdddb05aca9a1bf398757",
+      "tags": [
+        "JerryShen_AnKing_Tags::POM-3::Clinical-Reasoning::Approach-to-Shock::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "d3e1b50fe8f2d84b72d130d65f2ed929a237853b9008dfe62eeac80edff8fd1a",
       "tags": [
+        "JerryShen_AnKing_Tags::POM-3::Clinical-Reasoning::Approach-to-Shock::Class-Content",
         "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::26-Pulmonary-Cases-&-Miscellaneous-Diseases::Class-Content"
       ]
     },
     {
       "first_field_hash": "760e8d1e9936a2c657dacafff4a3fe9c2c7f6757843a1fd0c0e192adedbbd3c4",
       "tags": [
+        "JerryShen_AnKing_Tags::POM-3::Clinical-Reasoning::Approach-to-Shock::Class-Content",
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::CV-Lab-03-Autonomic-Drugs-&-Clinical-Correlates::Class-Content"
       ]
     },
@@ -8000,25 +8061,35 @@
     {
       "first_field_hash": "c6a7bc360d5f5a7fb43f450cab4750f52ea609de0c3d0364548db70e2fa338ae",
       "tags": [
+        "JerryShen_AnKing_Tags::POM-3::Clinical-Reasoning::Approach-to-Shock::Class-Content",
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::CV-Lab-03-Autonomic-Drugs-&-Clinical-Correlates::Class-Content"
       ]
     },
     {
       "first_field_hash": "98059238d860e8f352fe312837589342a32f707dee8492db2a207b732450c04f",
       "tags": [
+        "JerryShen_AnKing_Tags::POM-3::Clinical-Reasoning::Approach-to-Shock::Class-Content",
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::CV-Lab-03-Autonomic-Drugs-&-Clinical-Correlates::Class-Content",
         "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::24-Sepsis-&-Septic-Shock::Class-Content"
       ]
     },
     {
+      "first_field_hash": "d7514f65e57fff88157036b9b5cb4dee2af3d67a011d1d147bd5099484afaf67",
+      "tags": [
+        "JerryShen_AnKing_Tags::POM-3::Clinical-Reasoning::Approach-to-Shock::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "ad49085f9251b790472a4c01eb987638cd3af6ce0784bb1a68e4f3047e890db5",
       "tags": [
+        "JerryShen_AnKing_Tags::POM-3::Clinical-Reasoning::Approach-to-Shock::Class-Content",
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::20-Hemodynamics"
       ]
     },
     {
       "first_field_hash": "5fee2317350157e40d49b03afc2c298c593b69736f86fca22c19b745c0c23c7f",
       "tags": [
+        "JerryShen_AnKing_Tags::POM-3::Clinical-Reasoning::Approach-to-Shock::Class-Content",
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::CV-Lab-03-Autonomic-Drugs-&-Clinical-Correlates::Class-Content"
       ]
     },
@@ -8074,7 +8145,8 @@
     {
       "first_field_hash": "b6bcefe0809808e5272dbe43271243a01f454807dd6abd7eec0571984cb57fdb",
       "tags": [
-        "JerryShen_AnKing_Tags::POM-3::Clinical-Reasoning::Advanced-CV-Exam::Class-Content"
+        "JerryShen_AnKing_Tags::POM-3::Clinical-Reasoning::Advanced-CV-Exam::Class-Content",
+        "JerryShen_AnKing_Tags::POM-3::Clinical-Reasoning::Approach-to-Shock::Class-Content"
       ]
     },
     {
@@ -8440,7 +8512,7 @@
       ]
     },
     {
-      "first_field_hash": "639273602dfe9f7d31a53cd26dc4e0ac366de59828da6c075640029778cd602b",
+      "first_field_hash": "0686c8f4d09558ba05e986654ebe5fb13d9957632193f3c2a196621fd4009239",
       "tags": [
         "JerryShen_AnKing_Tags::Biochemistry::Final::05-Nitrogen-Metabolism"
       ]
@@ -12416,6 +12488,12 @@
       ]
     },
     {
+      "first_field_hash": "1e9ed8ba567b6c1e0162b6b5f38ff4b2557e1886f940e0f037216ecfc6f9510b",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::27-Lung-Cancer"
+      ]
+    },
+    {
       "first_field_hash": "30965246a84619d0765468403b00a22fbdc0937baa37661d3551d3f845bca77c",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::Lung-Lab-3-Cancer-&-ILD"
@@ -12728,7 +12806,7 @@
       ]
     },
     {
-      "first_field_hash": "09c00b891039a8c3600c3df8411d73a0f3f8d788092fc4ff73f088aa26cdb237",
+      "first_field_hash": "41822d23ab8321610e5264abdfdff2bbaf1324ed611bd4bb2c529a992ba47b07",
       "tags": [
         "JerryShen_AnKing_Tags::Biochemistry::Final::04-Regulation::Class-Content"
       ]
@@ -15842,7 +15920,7 @@
       ]
     },
     {
-      "first_field_hash": "5fec191ec5e223bcd46eb0d3b61b3181a87794dae2fa58ab71067dce702f0fac",
+      "first_field_hash": "3a04bfbd20a83d40c7194688acc07dd550a28ca0237c093c92d878e79b19988d",
       "tags": [
         "JerryShen_AnKing_Tags::Biochemistry::Final::03-Lipid-Metabolism::Class-Content"
       ]
@@ -16017,7 +16095,7 @@
       ]
     },
     {
-      "first_field_hash": "d02ef8a4a2dbd40694c4cf0ed641439b31af6a45a8610b64ddd050bb849ca575",
+      "first_field_hash": "0117096a33f0521e8c42b2f3d5f4d6d41c5b526609f94f734f6a467e41b5b714",
       "tags": [
         "JerryShen_AnKing_Tags::Biochemistry::Final::03-Lipid-Metabolism::Class-Content"
       ]
@@ -16095,7 +16173,7 @@
       ]
     },
     {
-      "first_field_hash": "a532629d1b19354b4f15152ecc724e18cb1eef231a85a2d9bf8e41a9f29199ca",
+      "first_field_hash": "ceae8646443af79d62b6916ed6e564be262b7f345ab72d4922d5f5a0c9267e7b",
       "tags": [
         "JerryShen_AnKing_Tags::Biochemistry::Final::03-Lipid-Metabolism::Class-Content"
       ]
@@ -16617,7 +16695,7 @@
       ]
     },
     {
-      "first_field_hash": "b1a2808eeaf09579361d6aa4c7471c3e914e552b74a1fafc6fa884edb0e84151",
+      "first_field_hash": "14dc041c860baa230eeea8824e87bbf2e47e95fe2477de642775cdf9694ee103",
       "tags": [
         "JerryShen_AnKing_Tags::Genetics::Exam-2-Genetics::08.1-Inherited-Metabolic-Disorders"
       ]
@@ -17601,7 +17679,7 @@
       ]
     },
     {
-      "first_field_hash": "5054d989c9dbaacc73271e3068279e20c0da775d4b9b9a12f348ae20f703a0b1",
+      "first_field_hash": "5cf4e43c47deaa044e0fe465938719a4e1413358a45410b406fc5990c0b86948",
       "tags": [
         "JerryShen_AnKing_Tags::Neurobiology::Exam-2::Tutorial-2-Spinal-Cord"
       ]
@@ -18183,6 +18261,7 @@
     {
       "first_field_hash": "4643bb696a0060d5d3aa131fb21892db7fb6ef4a35f32cc6e35320bb139158f0",
       "tags": [
+        "JerryShen_AnKing_Tags::POM-3::Clinical-Reasoning::Approach-to-Shock::Class-Content",
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::10-Autonomic-Physiology-and-Pharmacology"
       ]
     },
@@ -18299,6 +18378,30 @@
       "first_field_hash": "4af8da5fabfdcbf06c8c4ed57457d54cc225ad9e485658e4581b47207ad3394f",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::10-Autonomic-Physiology-and-Pharmacology"
+      ]
+    },
+    {
+      "first_field_hash": "65fd48d87d6595f49755f03d44ecf7b6cdd2770836523299a302e24291bfdea2",
+      "tags": [
+        "JerryShen_AnKing_Tags::POM-3::Clinical-Reasoning::Approach-to-Shock"
+      ]
+    },
+    {
+      "first_field_hash": "bb448672268d5aff0a2b18c52759fa6380812f0340a26b012df66fb4d1d07a4f",
+      "tags": [
+        "JerryShen_AnKing_Tags::POM-3::Clinical-Reasoning::Approach-to-Shock"
+      ]
+    },
+    {
+      "first_field_hash": "5c88632970b8b4c8a733ad4aeb76f20a9d1e54afa84da8908624a4e42ef3cd24",
+      "tags": [
+        "JerryShen_AnKing_Tags::POM-3::Clinical-Reasoning::Approach-to-Shock"
+      ]
+    },
+    {
+      "first_field_hash": "61fd0abb2489875f4cfb25bfa3bf4956ab57bf859230ce1efdcf4db974088a2f",
+      "tags": [
+        "JerryShen_AnKing_Tags::POM-3::Clinical-Reasoning::Approach-to-Shock"
       ]
     },
     {
@@ -18498,6 +18601,12 @@
       "first_field_hash": "f6122389d82d23ce64cb171be0988f0a8ed42f3b485ecced7dce95934a82c816",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::10-Autonomic-Physiology-and-Pharmacology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "6d70859073ad2b8b3457d2209e70232ffa0ae940d1e0bf8a7fb15d046a3c31f5",
+      "tags": [
+        "JerryShen_AnKing_Tags::POM-3::Clinical-Reasoning::Approach-to-Shock::Class-Content"
       ]
     },
     {
@@ -26599,6 +26708,12 @@
       ]
     },
     {
+      "first_field_hash": "ec26a949453651b96260ce9161b1a4626974cfad3f2b67de16d0cbe08d37ba54",
+      "tags": [
+        "JerryShen_AnKing_Tags::POM-3::Clinical-Reasoning::Approach-to-Shock"
+      ]
+    },
+    {
       "first_field_hash": "737b253b0a662a26ca9026dcab55117cc9671beb8028bbb5d6764ca18ca50b4f",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::10-Autonomic-Physiology-and-Pharmacology"
@@ -27692,7 +27807,7 @@
       ]
     },
     {
-      "first_field_hash": "fe51424b1f9b1daf0a17b1db6c938f1555663cd3fb5818e34de11fa4d868e682",
+      "first_field_hash": "d49c79870c7ea05debf75a7da009f3bf44cc28902ed4f211a8ad80cc17f753c1",
       "tags": [
         "JerryShen_AnKing_Tags::Immunology::Final::Antigen-Presentation::Class-Content"
       ]
@@ -29266,9 +29381,147 @@
       ]
     },
     {
+      "first_field_hash": "dce379557f95b2389c310ba4885adafe9aa0a98035732a232da42b6f185c2a00",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::MSK-Block::03-Bone-&-Soft-Tissue-Neoplasms::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "492f6c5c25e3d48011d50ac2f95229ea00bdeb71948aa6fd932eb25c2069dcfd",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::MSK-Block::03-Bone-&-Soft-Tissue-Neoplasms::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "62f2fa75e0f657716a96e5acd6e880dee645f6f1dde5f7342bc3f86b493e9bf0",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::MSK-Block::03-Bone-&-Soft-Tissue-Neoplasms::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "3e4dbd0545b4eee21f874a90a06897d8ec9c69bcf2864c55dd4546e24c8c5ce7",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::MSK-Block::03-Bone-&-Soft-Tissue-Neoplasms::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "d829c49adcba95726a485597968cf280b60dd386ba65798dbae0b482aee5fae7",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::MSK-Block::03-Bone-&-Soft-Tissue-Neoplasms"
+      ]
+    },
+    {
+      "first_field_hash": "369dbddb6131efcb9f15f5e18e212d3cd41979ba9acb7bec77fd22eef8c13f28",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::MSK-Block::03-Bone-&-Soft-Tissue-Neoplasms::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "2a0b5149a985a2f5362fae01da56ab377cf10eec8ffb87d52bbbcf99bbc80ff9",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::MSK-Block::03-Bone-&-Soft-Tissue-Neoplasms::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "da6036db04fc249f0bfbfb188b4b9a2b9fdf5042bd998a09f15fd49814688708",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::MSK-Block::03-Bone-&-Soft-Tissue-Neoplasms::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "9fc6f7cfcb47a0df46c797e8a59150246a288c3acbb82e2328a3b81bd1308e37",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::MSK-Block::03-Bone-&-Soft-Tissue-Neoplasms"
+      ]
+    },
+    {
+      "first_field_hash": "e8fba03541da7dbbf8ae97a06a63b5f7a38878ff885bfc3e6c029f480a889093",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::MSK-Block::03-Bone-&-Soft-Tissue-Neoplasms::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "273d163412d7827b295a03559a3645076a032c8c3752faa50a6b0d08be2e34a8",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::MSK-Block::03-Bone-&-Soft-Tissue-Neoplasms::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "56622c2423db240380cd512b1b4f7420ad5e5c4f586e084ef53f4153092931cf",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::MSK-Block::03-Bone-&-Soft-Tissue-Neoplasms::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "52e0d487c9d74bc9bdbd7e001e2bb0e45c033f7dde12e2ce2aaba23fe4035dca",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::MSK-Block::03-Bone-&-Soft-Tissue-Neoplasms::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "f058f4a7533b74d9b501122ed2448d8765c4e6f116cc83f3d61bdca5f70076b2",
       "tags": [
         "JerryShen_AnKing_Tags::Genetics::Exam-2-Genetics::08.4-Cancer-Genetics"
+      ]
+    },
+    {
+      "first_field_hash": "f1673fc6f8902e5a388953f402cc9d20db1e27ee0f897f00eaf2ad998a0d28c5",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::MSK-Block::03-Bone-&-Soft-Tissue-Neoplasms"
+      ]
+    },
+    {
+      "first_field_hash": "bfa9e5cf4eff19d14c12579437c12777e9929701fb10db93047af24ef84c2648",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::MSK-Block::03-Bone-&-Soft-Tissue-Neoplasms::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "f3301d5ac63681643651e0897e21f1558923ded1c45186155b656b9222770abc",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::MSK-Block::03-Bone-&-Soft-Tissue-Neoplasms::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "955f72cfd0409393c5202d8447371f46c9a0f84cea6d2437c11f63de9e664655",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::MSK-Block::03-Bone-&-Soft-Tissue-Neoplasms"
+      ]
+    },
+    {
+      "first_field_hash": "454ea00b13c3fe87d436aee286cbd6380a9c6b7b08b149ec5ab62278e67d22f5",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::MSK-Block::03-Bone-&-Soft-Tissue-Neoplasms"
+      ]
+    },
+    {
+      "first_field_hash": "f5491dbac8080b34bd400185f3e10090e8aecb0f4f98cba3890ff13f4bf72188",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::MSK-Block::03-Bone-&-Soft-Tissue-Neoplasms"
+      ]
+    },
+    {
+      "first_field_hash": "57c94dba055681bfe25fb6b773f52a03eb1442f54c7480981aaf245c393fd324",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::MSK-Block::03-Bone-&-Soft-Tissue-Neoplasms::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "b0aa233f78e53ad681636d9b5b38e87c1d045d295ddb429b7d14293aab7c1553",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::MSK-Block::03-Bone-&-Soft-Tissue-Neoplasms"
+      ]
+    },
+    {
+      "first_field_hash": "c5b461e94cdbc0495ec2468383554dfe47b458574808bb1a84530421ddc8a0ae",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::MSK-Block::03-Bone-&-Soft-Tissue-Neoplasms::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "3540b302a87353381abdad0919abb6b2db2b6c20606755b8a3b30542a5772391",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::MSK-Block::03-Bone-&-Soft-Tissue-Neoplasms::Class-Content"
       ]
     },
     {
@@ -30549,7 +30802,7 @@
       ]
     },
     {
-      "first_field_hash": "4099b886dae44f7877996b09c3495546596cf4203f2fc334b2829cf2cebefade",
+      "first_field_hash": "49ae98a2781a50de6f8030d2cb1332671f954fc3bd4bd791113326717fd0b127",
       "tags": [
         "JerryShen_AnKing_Tags::POM-2::Final::Health-Policy",
         "JerryShen_AnKing_Tags::POM-2::Final::Health-Policy::Class-Content"
@@ -30954,6 +31207,7 @@
     {
       "first_field_hash": "66eae9783472f81358ee521edfa4de8d74164419be598fbe5377055d85de6aec",
       "tags": [
+        "JerryShen_AnKing_Tags::POM-3::Clinical-Reasoning::Approach-to-Shock::Class-Content",
         "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::24-Sepsis-&-Septic-Shock"
       ]
     },
@@ -31600,7 +31854,7 @@
       ]
     },
     {
-      "first_field_hash": "0ef89267cd8f6347d7a6f153e8ef9e245943b26a7b4f6165bb03f59322382e24",
+      "first_field_hash": "d1033dcc91b99a14d2b9c800138145f128f83d3b11e8edf212e2ef37761c5fec",
       "tags": [
         "JerryShen_AnKing_Tags::Cancer-Biology::Final::05-Cancer-Genes-&-Pathways"
       ]
@@ -31654,7 +31908,7 @@
       ]
     },
     {
-      "first_field_hash": "6049e16d41fa420972ad8600c932f668687c971137e5806d656ade8f6c1850a2",
+      "first_field_hash": "c6b9a38b4060a24b64d5aa2b82277ca95ed56cda6dd6e21b7af21e47e2b3ffbc",
       "tags": [
         "JerryShen_AnKing_Tags::Cancer-Biology::Final::05-Cancer-Genes-&-Pathways"
       ]
@@ -32128,6 +32382,12 @@
       ]
     },
     {
+      "first_field_hash": "87b1b9f6377b61f8d15a3fd614a6c1e216b8d34404bbf55fca5799ed5d0e874a",
+      "tags": [
+        "JerryShen_AnKing_Tags::POM-3::Clinical-Reasoning::Approach-to-Shock"
+      ]
+    },
+    {
       "first_field_hash": "3faffd6a9ae422140451f5521c1cc0731c74c3ba9c4342a299524e6d8946deba",
       "tags": [
         "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-5-Lower-Limb::Anatomy::Class-Content"
@@ -32230,7 +32490,7 @@
       ]
     },
     {
-      "first_field_hash": "a5ba85c4ad1c54cde503243572c1af6e2a73a74cb46d1f74e88213a4dc88d6ed",
+      "first_field_hash": "31b63f0bb9192fc0077711f7cc10e9c4b9cf5720998755829060e0a0102243a1",
       "tags": [
         "JerryShen_AnKing_Tags::Biochemistry::Final::06-Nucleic-Acid-Metabolism::Class-Content"
       ]
@@ -32380,6 +32640,12 @@
       "first_field_hash": "f26f084050619fc4ae5c88af12e0c263eb4c739991b1503415516928e3db6a83",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::09-Supraventricular-Tachycardia-&-Antiarrhythmics::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "95cf5a8b4cbe6bce88f13dd763f41f23430eb8e697b5cddee194d9d9d0c95424",
+      "tags": [
+        "JerryShen_AnKing_Tags::POM-3::Clinical-Reasoning::Approach-to-Shock"
       ]
     },
     {
@@ -32689,6 +32955,12 @@
       "first_field_hash": "fe371da9c00f7e197e7ece8fe60b4eacb79063ada6574145167a124f8f845c41",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::25-Coronary-Circulation::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "510e2aa358471dfaa8dc34064b2f175f218acb621d17a10168eb0bb4f8914f7b",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::25-Coronary-Circulation"
       ]
     },
     {
@@ -34449,7 +34721,7 @@
       ]
     },
     {
-      "first_field_hash": "1f1a6069031a635ea9dee0b2ef7c2d30d9d35f0d5a5140692068769df5f93b56",
+      "first_field_hash": "64a63f6d03999212c8960900bc5c8bd03e45c60bdc0d193a62054bec3289856d",
       "tags": [
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-1::04-Intro-to-Viruses"
       ]
@@ -35729,7 +36001,7 @@
       ]
     },
     {
-      "first_field_hash": "5f74444b02029cf47158cb986daf1b6fbfafddb8ff949c6845025ea6dc04996f",
+      "first_field_hash": "4883c8ac04ffae15f51acf36b35d76d88eb7e81252f52b1f3f87b45045a8fc20",
       "tags": [
         "JerryShen_AnKing_Tags::Biochemistry::Final::06-Nucleic-Acid-Metabolism::Class-Content"
       ]
@@ -36947,6 +37219,12 @@
       ]
     },
     {
+      "first_field_hash": "e569a8a3122f784894ba99ebd6e7497332f66bd5c4f4cdfb9ba271de492023f9",
+      "tags": [
+        "JerryShen_AnKing_Tags::POM-3::Clinical-Reasoning::Approach-to-Shock"
+      ]
+    },
+    {
       "first_field_hash": "bcba929f737a3489f053478b2815af9b5a823ac67d4084ccff6be52d3910ede8",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::15-Upper-Respiratory-Infections::Class-Content"
@@ -37855,6 +38133,12 @@
       "first_field_hash": "ef1eac3c9e1fbcf998934934db31038993302b3c3330b54d180d27d10ac4b092",
       "tags": [
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-1::04-Intro-to-Viruses"
+      ]
+    },
+    {
+      "first_field_hash": "8a08c8da9f2e4ce77d513ac657555e7c4dbec128598caf76e7046eb8bf777374",
+      "tags": [
+        "JerryShen_AnKing_Tags::POM-3::Clinical-Reasoning::Approach-to-Shock"
       ]
     },
     {
@@ -39203,7 +39487,7 @@
       ]
     },
     {
-      "first_field_hash": "f83a85c85bb1677d8ff7b73b8bb485d835d8bbe8025e766f4cfe60bf1fe531d0",
+      "first_field_hash": "b7fa0285dc67a99220e96ace4800486ead245d614b02be1ffbfd5becdfb07b6c",
       "tags": [
         "JerryShen_AnKing_Tags::Cancer-Biology::Final::Cancer-Pharmacology",
         "JerryShen_AnKing_Tags::Cancer-Biology::Final::Cancer-Pharmacology::Class-Content",
@@ -42328,6 +42612,24 @@
       ]
     },
     {
+      "first_field_hash": "2eb3a0e81fdf2203b2ec3fde30de28f7b96ddcaf8e0e78a691715488925511e8",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::MSK-Block::03-Bone-&-Soft-Tissue-Neoplasms::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "032efc64013188c15bd51df10e65bcc0800eb7187e101af323c7f2ff78d30521",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::MSK-Block::03-Bone-&-Soft-Tissue-Neoplasms::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "a6eec390763ff6b7396e02c243be27891c968e8da1e3b1d603cb36fdd3f3d8dc",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::MSK-Block::03-Bone-&-Soft-Tissue-Neoplasms::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "8c23ffbd24430b159dfca2692db25900814a08a57c8a82e328bd5c5aa77e5612",
       "tags": [
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-1::04-Intro-to-Viruses::Class-Content"
@@ -42509,7 +42811,7 @@
       ]
     },
     {
-      "first_field_hash": "24e47e1e48e63a04dba231b2ba74778869745e4429f8b4e50d30b1594b357123",
+      "first_field_hash": "463a0cae7d94bc2fbeb39ca7c33c88b355baa7c6758e8373d3e2c0af43daefba",
       "tags": [
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-1::04-Intro-to-Viruses::Class-Content"
       ]
@@ -44489,6 +44791,12 @@
       ]
     },
     {
+      "first_field_hash": "fff613887d1614a7fa20f725d868b3092218c6869e7edd7c6b9e370c9153bc35",
+      "tags": [
+        "JerryShen_AnKing_Tags::POM-3::Clinical-Reasoning::Approach-to-Shock::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "b09fd01d63782b07f7744c885311e119600debecc5bf207e5846886f506b93ac",
       "tags": [
         "JerryShen_AnKing_Tags::POM-3::Psychiatry::Mood-Disorders"
@@ -44802,6 +45110,18 @@
       ]
     },
     {
+      "first_field_hash": "d61f9adff1e748cff970e2ff16f23215ed36a79240d6ad99657b68172ff5ab9c",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::MSK-Block::03-Bone-&-Soft-Tissue-Neoplasms::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "ef0216c032a8a043d6d7c115df3fc94b4c45080bf7bc42e7fdbe986d1cdfd5b9",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::MSK-Block::03-Bone-&-Soft-Tissue-Neoplasms::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "92ca7d0e6a6069239d1a581668882853085f2044a5b4ef6140fb0e86241a751e",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::29-Frontiers-in-Lung-Biology-&-Lung-Development"
@@ -44993,6 +45313,12 @@
       "first_field_hash": "c792e460859863430fbb5ca94aa3f0ac44aea825d07fe1a5f2f5e80d0edbab33",
       "tags": [
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-1::04-Intro-to-Viruses::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "1105704ce19aa84a7ca2aa6d093017ffbc978e5a453fa0bd7ea855b736e3646b",
+      "tags": [
+        "JerryShen_AnKing_Tags::POM-3::Clinical-Reasoning::Approach-to-Shock"
       ]
     },
     {
@@ -45482,8 +45808,15 @@
       ]
     },
     {
+      "first_field_hash": "a39c5572e9c9c3e09cb4f01addac224abd706a39a5b032061c41ca20da90e376",
+      "tags": [
+        "JerryShen_AnKing_Tags::POM-3::Clinical-Reasoning::Approach-to-Shock::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "0e38300eb8f0903de20905783e77fa3ea20e1bf185487487e1ffd9b1550b8b21",
       "tags": [
+        "JerryShen_AnKing_Tags::POM-3::Clinical-Reasoning::Approach-to-Shock::Class-Content",
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::10-Autonomic-Physiology-and-Pharmacology",
         "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::24-Sepsis-&-Septic-Shock::Class-Content"
       ]
@@ -46591,7 +46924,8 @@
     {
       "first_field_hash": "59fbbf2bdf40414a13b9e768e516b245fcd060ca34dc9d953c4f46eee5f4a5e0",
       "tags": [
-        "JerryShen_AnKing_Tags::Micro-Pharm::Exam-2::09-Misc-Antimicrobials-&-Skin-Infections"
+        "JerryShen_AnKing_Tags::Micro-Pharm::Exam-2::09-Misc-Antimicrobials-&-Skin-Infections",
+        "JerryShen_AnKing_Tags::SOM-1::MSK-Block::02-Bone-&-Joint-Infections"
       ]
     },
     {
@@ -46601,9 +46935,21 @@
       ]
     },
     {
+      "first_field_hash": "a603d858fef3b28dbe22bd6aeed3e2ff80db99e4f8b927311406b43c878423fe",
+      "tags": [
+        "JerryShen_AnKing_Tags::POM-3::Geriatrics::Class-Content::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "457b549764ee5ee280342b0fdb314aa5084ed9fa3b6f67a933f3fa67a1e1901f",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::25-Coronary-Circulation::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "7fb81c7c745e7a3c2486ecd05ae1851a084a32ad05579b76f60eb77f705b0264",
+      "tags": [
+        "JerryShen_AnKing_Tags::POM-3::Clinical-Reasoning::Approach-to-Shock::Class-Content"
       ]
     },
     {
@@ -46872,6 +47218,19 @@
     {
       "first_field_hash": "42ec037ed8b843626ad76e0d1b469893e85bc56d3b37cce21bde9dfdf9a49154",
       "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::25-Coronary-Circulation"
+      ]
+    },
+    {
+      "first_field_hash": "4386d83eeb401b1ce33698c0a2a2779f19973e83783094db2388fd5593da54cb",
+      "tags": [
+        "JerryShen_AnKing_Tags::POM-3::Clinical-Reasoning::Approach-to-Shock::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "b9a18dbf542071a8a5020a177d3df1c409d9af148a2d5bc5af519468edcb076c",
+      "tags": [
+        "JerryShen_AnKing_Tags::POM-3::Clinical-Reasoning::Approach-to-Shock::Class-Content",
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::25-Coronary-Circulation"
       ]
     },
@@ -47467,6 +47826,14 @@
       ]
     },
     {
+      "first_field_hash": "dee4266b329d7395d68c3cd8b640d609fa0674c83ba29b20f794423d55d6e026",
+      "tags": [
+        "JerryShen_AnKing_Tags::POM-3::Clinical-Reasoning::Approach-to-Shock::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::25-Coronary-Circulation",
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::27-The-Abnormal-ECG-Ischemia-&-Infarction"
+      ]
+    },
+    {
       "first_field_hash": "9155b392691bdf02a739d846f0a3330a5d2469495dcf371210c1582defff839b",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::18-Heart-Sounds-&-Clinical-Exam"
@@ -47495,6 +47862,12 @@
       "first_field_hash": "0cfc41071912bade20a62a9ba3c6de40314f5b4a9a6972175bd860f03e5bebb4",
       "tags": [
         "JerryShen_AnKing_Tags::POM-3::Clinical-Reasoning::Advanced-CV-Exam::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "df15aaa6da207ba818ffc27d3fd3e4020e7a29301621647cf8d5da93f0b400a4",
+      "tags": [
+        "JerryShen_AnKing_Tags::Biochemistry::Final::03-Lipid-Metabolism"
       ]
     },
     {
@@ -47639,6 +48012,12 @@
       "first_field_hash": "053aac1ec27ef971aa7a833f0cf7e5a80a0eb61f47bb527c18660dd82e2b96c4",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::23-Endocarditis::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "5fd2b24ce539df57bf4765185f5f064ae701936162dfd3194b67fb6498771c20",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::MSK-Block::02-Bone-&-Joint-Infections"
       ]
     },
     {
@@ -47790,6 +48169,12 @@
       ]
     },
     {
+      "first_field_hash": "f35ca9d1553fc4d5684c94fe4754250a776bf6424fb2f4668e4e7d75de4d133c",
+      "tags": [
+        "JerryShen_AnKing_Tags::POM-3::Clinical-Reasoning::Approach-to-Shock::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "6d5f28cb118a73b764729ce899e745ed4951ccdacafbc98a9944caed4c178ba9",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::27-The-Abnormal-ECG-Ischemia-&-Infarction::Class-Content"
@@ -47808,7 +48193,25 @@
       ]
     },
     {
+      "first_field_hash": "ab316b59ea484e95ab4e9e58f614bcdc39effaf64e348ef9644005a0d1429777",
+      "tags": [
+        "JerryShen_AnKing_Tags::POM-3::Clinical-Reasoning::Approach-to-Shock::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "3e7853494a04aefdc694bc6e07ec692f5786e42e1a4fa0897b6de3dfd21a56c7",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::27-The-Abnormal-ECG-Ischemia-&-Infarction"
+      ]
+    },
+    {
+      "first_field_hash": "7629b38fe7172095fe8e48e20a647a4c7ec34087874983bacfd7f89af9cd60fa",
+      "tags": [
+        "JerryShen_AnKing_Tags::POM-3::Clinical-Reasoning::Approach-to-Shock"
+      ]
+    },
+    {
+      "first_field_hash": "8ce7a181ba950b09ac1aa2b36cd3f7cb6c9dd0657d65796904dc27224cb522df",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::27-The-Abnormal-ECG-Ischemia-&-Infarction"
       ]
@@ -48463,6 +48866,12 @@
       ]
     },
     {
+      "first_field_hash": "884ec94c7e9bbc6f590e5c55450e9a9d1a4444f33709af14560e1087da393a79",
+      "tags": [
+        "JerryShen_AnKing_Tags::POM-3::Clinical-Reasoning::Approach-to-Shock"
+      ]
+    },
+    {
       "first_field_hash": "288af4cebf37669758cc14f627a9cb32e411e0ef679cfec252c8a4e29c01b8d1",
       "tags": [
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-2::07-β-Lactam-Antibiotics-&-Parasites::Class-Content"
@@ -48839,6 +49248,12 @@
       "first_field_hash": "d458964b84e27646730af9a9a4c7c217b186ee01447dfa59fe05379794c5f47d",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::18-Heart-Sounds-&-Clinical-Exam"
+      ]
+    },
+    {
+      "first_field_hash": "1c2c299a7f94a573e40fa92e50d8dec45a886e9f7a9fb929b1e1d4bd2a46cf01",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::MSK-Block::03-Bone-&-Soft-Tissue-Neoplasms::Class-Content"
       ]
     },
     {
@@ -49814,6 +50229,7 @@
     {
       "first_field_hash": "768838b5dcd30e5ec41188dbe386038333e6e37034a5ee8f819ddee0830c4845",
       "tags": [
+        "JerryShen_AnKing_Tags::POM-3::Clinical-Reasoning::Approach-to-Shock::Class-Content",
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::19-Central-&-Peripheral-Control-of-Circulation::Class-Content"
       ]
     },
@@ -49947,6 +50363,12 @@
       "first_field_hash": "80d92efd67b814c0a233b631b0c2c199fbc3bd7d2a025a7cbbe516035cf854ee",
       "tags": [
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-2::09-Misc-Antimicrobials-&-Skin-Infections"
+      ]
+    },
+    {
+      "first_field_hash": "14bf2261d0d292edefa6e615d3983d14235551fdad59a3a7045d7fee59260e4c",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::MSK-Block::03-Bone-&-Soft-Tissue-Neoplasms"
       ]
     },
     {
@@ -50173,6 +50595,24 @@
       ]
     },
     {
+      "first_field_hash": "88ad0796035f47deaf7612829a98bc4ea6366935dc27c86040c76fa33e985794",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::MSK-Block::03-Bone-&-Soft-Tissue-Neoplasms::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "d017d4639527da4c687ac242be1837750d84381753f21e7c2e9c24031920f245",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::MSK-Block::03-Bone-&-Soft-Tissue-Neoplasms::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "d5990c16955d89cf6e69663edc45a512cd4c255120cb724e34571c29695affa6",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::MSK-Block::03-Bone-&-Soft-Tissue-Neoplasms"
+      ]
+    },
+    {
       "first_field_hash": "694577fbd1626e3db269bca27e4ff9a6a08a02627b2236aa297aa6c6d9d893bd",
       "tags": [
         "JerryShen_AnKing_Tags::Immunology::Final::Antibody-Mediated-Autoimmunity"
@@ -50339,6 +50779,18 @@
       "first_field_hash": "95e25a465427d110ccb68da0309ae822f2b46424f988ef0dda27452b33482f60",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::22-Peripheral-Arterial-&-Aortic-Disease::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "c706cc4e4c12df4f369aa996a91be8ccb3bd6980edf49108b0e8b4a16322eb8b",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::MSK-Block::03-Bone-&-Soft-Tissue-Neoplasms"
+      ]
+    },
+    {
+      "first_field_hash": "1facd44dc52d56eb6483826596ae220e05d4a507203b3dd93af611d7df3bc219",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::MSK-Block::03-Bone-&-Soft-Tissue-Neoplasms"
       ]
     },
     {
