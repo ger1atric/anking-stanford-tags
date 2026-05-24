@@ -1,15 +1,15 @@
 {
   "schema_version": 1,
   "author": "JerryShen",
-  "description": "msk stuff from 5/19",
-  "created": "2026-05-21T22:55:42.765854+00:00",
-  "updated": "2026-05-21T22:55:42.765854+00:00",
+  "description": "hypertension",
+  "created": "2026-05-24T04:48:05.125141+00:00",
+  "updated": "2026-05-24T04:48:05.125141+00:00",
   "tag_prefix": "JerryShen_AnKing_Tags",
   "tag_hierarchy": [
     "JerryShen_AnKing_Tags",
     "JerryShen_AnKing_Tags::(✏️)-Tagged-by-Jerry-Shen",
-    "JerryShen_AnKing_Tags::(🛠️)-Last-Updated-05212026",
-    "JerryShen_AnKing_Tags::(🧋)-https://buymeacoffee.com/ger1atric",
+    "JerryShen_AnKing_Tags::(🛠️)-Last-Updated-05232026",
+    "JerryShen_AnKing_Tags::(🧋)-buymeacoffee.com/ger1atric",
     "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology",
     "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-1-Thorax",
     "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-1-Thorax::Anatomy",
@@ -326,6 +326,12 @@
     "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::26-Pathology-of-Atherosclerosis-&-IHD::Class-Content",
     "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::27-The-Abnormal-ECG-Ischemia-&-Infarction",
     "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::27-The-Abnormal-ECG-Ischemia-&-Infarction::Class-Content",
+    "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::28-IHD-&-Atherosclerosis",
+    "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::28-IHD-&-Atherosclerosis::Class-Content",
+    "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::29-Therapies-for-IHD",
+    "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::29-Therapies-for-IHD::Class-Content",
+    "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::30-Hypertension",
+    "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::30-Hypertension::Class-Content",
     "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::CV-Lab-03-Autonomic-Drugs-&-Clinical-Correlates",
     "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::CV-Lab-03-Autonomic-Drugs-&-Clinical-Correlates::Class-Content",
     "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::CV-Lab-04-Case-Studies",
@@ -341,8 +347,6 @@
     "JerryShen_AnKing_Tags::SOM-1::MSK-Block::04-Upper-Limb-Pathology::Class-Content",
     "JerryShen_AnKing_Tags::SOM-1::MSK-Block::05-Lower-Limb-Pathology",
     "JerryShen_AnKing_Tags::SOM-1::MSK-Block::05-Lower-Limb-Pathology::Class-Content",
-    "JerryShen_AnKing_Tags::SOM-1::MSK-Block::Backache",
-    "JerryShen_AnKing_Tags::SOM-1::MSK-Block::Backache::Class-Content",
     "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block",
     "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::01-Structure-and-Function-of-the-Lung",
     "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::01-Structure-and-Function-of-the-Lung::Class-Content",
@@ -566,6 +570,11 @@
       "date": "2026-05-21T22:55:42.765854+00:00",
       "message": "msk stuff from 5/19",
       "note_count": 191
+    },
+    {
+      "date": "2026-05-24T04:48:05.125141+00:00",
+      "message": "hypertension",
+      "note_count": 146
     }
   ],
   "notes": [
@@ -1843,6 +1852,31 @@
       "first_field_hash": "3b6206acc578d90857a9f479e9d17d7c8137fde644667c5383cccbe177b9ae0f",
       "tags": [
         "JerryShen_AnKing_Tags::Genetics::Exam-2-Genetics::08.3-Prenatal-Genetics"
+      ]
+    },
+    {
+      "first_field_hash": "2f9a7b578c287a9aa8bc61db285501f14e2a2166ce2bb2f21a7c97f5a067f3a8",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::30-Hypertension::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "279820b6191df6157e6b0ff46acf27fbe9731abe94b298494c7352b18c6a156e",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::30-Hypertension::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "0afb20bf7bdc6f221ed0b88680fbc048f3917c5d9ae428161ff94cd6c02610a2",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::30-Hypertension",
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::30-Hypertension::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "b7c16c1f3bb284ba49fabb7b9810275f8685eb227c34dadac71f0f52dac1213b",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::30-Hypertension::Class-Content"
       ]
     },
     {
@@ -3982,14 +4016,16 @@
     {
       "first_field_hash": "c72b6044dfc2cca71752dfb5a2cd7729c78451b72b037b29ce04e32201ad98c5",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::14-The-Cardiac-Cycle"
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::14-The-Cardiac-Cycle",
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::30-Hypertension::Class-Content"
       ]
     },
     {
       "first_field_hash": "76094fd5af1910d4503325605ba741b08d8948a92b97b1b83f9a80f2a4915f0b",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::21-The-Arterial-System",
-        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::21-The-Arterial-System::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::21-The-Arterial-System::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::30-Hypertension::Class-Content"
       ]
     },
     {
@@ -5145,6 +5181,7 @@
     {
       "first_field_hash": "280350697f9bb666a26a474a3a1f5990010e661a6b9453d31cf16b27a8379de0",
       "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::30-Hypertension::Class-Content",
         "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::02-Pulmonary-Circulation"
       ]
     },
@@ -5407,7 +5444,8 @@
     {
       "first_field_hash": "47678c339ec1f4aa6c66a38bebb2d9402d8ab3f49886641df96602f35a15addb",
       "tags": [
-        "JerryShen_AnKing_Tags::Neurobiology::Exam-2::Tutorial-1-Cerebrum::Class-Content"
+        "JerryShen_AnKing_Tags::Neurobiology::Exam-2::Tutorial-1-Cerebrum::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::30-Hypertension::Class-Content"
       ]
     },
     {
@@ -5445,6 +5483,12 @@
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::25-Coronary-Circulation",
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::25-Coronary-Circulation::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "fd0f648255a8790ece7d47f68fbc41aa2c689d29ab8c10311ccef7a6d27c8fb7",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::30-Hypertension"
       ]
     },
     {
@@ -5829,7 +5873,8 @@
     {
       "first_field_hash": "d5b4d6388b14395a45a4efaee25c68923d969382f7e6a3eef48d411914fdf0df",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::21-The-Arterial-System"
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::21-The-Arterial-System",
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::28-IHD-&-Atherosclerosis::Class-Content"
       ]
     },
     {
@@ -5841,7 +5886,8 @@
     {
       "first_field_hash": "6437afc52862a895bcff9abd4576a83a6c751aeeddc390071b5566a9cecfcea6",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::16-Clotting-&-Thromboembolic-Disease::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::16-Clotting-&-Thromboembolic-Disease::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::28-IHD-&-Atherosclerosis::Class-Content"
       ]
     },
     {
@@ -5894,6 +5940,77 @@
       ]
     },
     {
+      "first_field_hash": "c55911c863de822e31b6d73c05a73e378736c00563b8337195155c2c14d96133",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::30-Hypertension::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "b897be3c1bdd5816da744eacde3a0b4dfd2f295b83cac397b4cecf5960dfd4ac",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::30-Hypertension",
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::30-Hypertension::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "f9337e7e5ae3cb5e8344ce55c927de9617650a0be93a3330147120986bccb555",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::30-Hypertension"
+      ]
+    },
+    {
+      "first_field_hash": "9a6a64bfb5caec3f5a771191a36c252bf7c2561790921402b96adefc066aa8ff",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::30-Hypertension",
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::30-Hypertension::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "e0ef5c38e33ff2af477d67a274746c4bbd31feb9885e3d6153d9d53b08cb3fef",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::30-Hypertension"
+      ]
+    },
+    {
+      "first_field_hash": "a137d0b355d0405ed50d4455247e121b78bd58d2cf140852c3455b9466c843cd",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::30-Hypertension",
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::30-Hypertension::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "4dee97d3316762f9435245dc7fe83fe725dbbf1ccd504790fd807176152f71aa",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::30-Hypertension"
+      ]
+    },
+    {
+      "first_field_hash": "25ae93a682098aec3491201c78a4e42e0c07fc81c690d63f5a21a2288314fa6f",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::30-Hypertension",
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::30-Hypertension::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "5cbd1b0334139d222ac0a694a57d4ca13696c8adcd8dc1c27ab3b8402c982946",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::30-Hypertension",
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::30-Hypertension::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "5dd887e1e46689b327ad4736f09225ef471de2c42f94d399f7c6a6dabb63e92e",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::30-Hypertension::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "07c9816e19a3d9c4e3425d20805034c9679eb3569f8df3796f38469431fe6e65",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::30-Hypertension::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "bbd94cad1022acb932e73350ac8e125dac1102bb461c9a93503d4b3d696758a4",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::21-The-Arterial-System::Class-Content"
@@ -5903,6 +6020,12 @@
       "first_field_hash": "f2e2d48cd5ac893b0ae43e1072edf2e0f40ae0861d1fb6bc7ac83374e58c813a",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::26-Pathology-of-Atherosclerosis-&-IHD::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "3e495187ad1e2803dffab216ae0eff207253e25d9d2b25736b2b3f4052075326",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::28-IHD-&-Atherosclerosis::Class-Content"
       ]
     },
     {
@@ -5930,9 +6053,34 @@
       ]
     },
     {
+      "first_field_hash": "dbdc02db559b77e141f8609009c1033a2d1bc4460f7ddcf26e7ccfb4f8537297",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::28-IHD-&-Atherosclerosis"
+      ]
+    },
+    {
+      "first_field_hash": "07e9b431918cc8284e889700682a9772313a45191dc477c8134a587071608aa7",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::28-IHD-&-Atherosclerosis::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "696d08395672aaaf4e1d0f4b055b5abf8c6bcda2d6497c7ab922577aab9e632a",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::28-IHD-&-Atherosclerosis::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "333ba4b7033b72ac3ac66be82f0be95859124a0f1a5b777d33e6d8c6ea6e1294",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::26-Pathology-of-Atherosclerosis-&-IHD::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::26-Pathology-of-Atherosclerosis-&-IHD::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::28-IHD-&-Atherosclerosis::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "286faf40dd721103851928045ea6bd442d4d8066f5e8adaec8087d037a785366",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::28-IHD-&-Atherosclerosis"
       ]
     },
     {
@@ -6029,7 +6177,8 @@
     {
       "first_field_hash": "a3510796d1a7d412d9718e593bbac079a578f952f9ea2d549693bb6daf8c184e",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::25-Coronary-Circulation::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::25-Coronary-Circulation::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::28-IHD-&-Atherosclerosis::Class-Content"
       ]
     },
     {
@@ -6093,6 +6242,13 @@
       "first_field_hash": "42af19027a7b5b16360d20ea10c019f8f93df563ff22bdfbfe139be77e48ec28",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::26-Pathology-of-Atherosclerosis-&-IHD::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "818f1f3d090fafdc3b85a4f36494bde393b769ad617c6d26c22d5ddd837a3f12",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::29-Therapies-for-IHD",
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::29-Therapies-for-IHD::Class-Content"
       ]
     },
     {
@@ -6277,6 +6433,12 @@
       ]
     },
     {
+      "first_field_hash": "290bece4eefc1b3acecd94dcd3d1f9d7710b47e7ec08c0d9e9b4c05f8c6b5f16",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::29-Therapies-for-IHD"
+      ]
+    },
+    {
       "first_field_hash": "3ebf65840e685c3b45544985b9ca0ee8fd463f773bcd076caf93796a8e2659c6",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::27-The-Abnormal-ECG-Ischemia-&-Infarction"
@@ -6454,7 +6616,8 @@
     {
       "first_field_hash": "9003b5acc7416272a80d7d3eb674d4c72c1a505dc720ddbecc385336001b5025",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::25-Coronary-Circulation"
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::25-Coronary-Circulation",
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::28-IHD-&-Atherosclerosis::Class-Content"
       ]
     },
     {
@@ -6722,6 +6885,12 @@
       "first_field_hash": "6322b5e207606525a187f2a2e73383050d97661be7bb310d2d6ed1367a7ede7b",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::CV-Lab-04-Case-Studies"
+      ]
+    },
+    {
+      "first_field_hash": "28f77d99577bc4ced9d929c6e7960b054ae3d3e70477bfbb546b0f0adc79eb8d",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::30-Hypertension"
       ]
     },
     {
@@ -8929,6 +9098,12 @@
       ]
     },
     {
+      "first_field_hash": "9f9eaa384168ab0dc497c222697733b524b0b0cf029f524ddf5e4ea08aebc551",
+      "tags": [
+        "JerryShen_AnKing_Tags::Biochemistry::Final::03-Lipid-Metabolism::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "2155efff0ae236955998668db534ba7fed63b91f6e73ced08f7565a8babf3903",
       "tags": [
         "JerryShen_AnKing_Tags::Biochemistry::Final::03-Lipid-Metabolism::Class-Content"
@@ -8961,7 +9136,8 @@
     {
       "first_field_hash": "808664c40c2c5d695f5ee8b5735cc8fd521307cefc72c8f27368c04942ebba7d",
       "tags": [
-        "JerryShen_AnKing_Tags::Biochemistry::Final::03-Lipid-Metabolism::Class-Content"
+        "JerryShen_AnKing_Tags::Biochemistry::Final::03-Lipid-Metabolism::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::29-Therapies-for-IHD::Class-Content"
       ]
     },
     {
@@ -8973,7 +9149,8 @@
     {
       "first_field_hash": "26a4c8eb8a76a53a9fe48a3c34f747e352b4d16f5fb999bd79465ec3f6c687ea",
       "tags": [
-        "JerryShen_AnKing_Tags::Biochemistry::Final::03-Lipid-Metabolism"
+        "JerryShen_AnKing_Tags::Biochemistry::Final::03-Lipid-Metabolism",
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::29-Therapies-for-IHD::Class-Content"
       ]
     },
     {
@@ -8991,13 +9168,75 @@
     {
       "first_field_hash": "439b61b09c2924d806a2a46051bba8860783cc82cfc99f7d7b94f8246432d7b7",
       "tags": [
-        "JerryShen_AnKing_Tags::Biochemistry::Final::03-Lipid-Metabolism"
+        "JerryShen_AnKing_Tags::Biochemistry::Final::03-Lipid-Metabolism",
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::29-Therapies-for-IHD::Class-Content"
       ]
     },
     {
       "first_field_hash": "2b319b212b6e82067d2b3d9d8f77cd78f705f167dafef43d39fa2bdc7df9ad04",
       "tags": [
-        "JerryShen_AnKing_Tags::Biochemistry::Final::03-Lipid-Metabolism"
+        "JerryShen_AnKing_Tags::Biochemistry::Final::03-Lipid-Metabolism",
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::29-Therapies-for-IHD::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "6dce40f8abc3210f7a9df10f8a19f379e038f89681457380a3ad5617a61ee7bf",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::29-Therapies-for-IHD"
+      ]
+    },
+    {
+      "first_field_hash": "8399d016b31e3f3c8f2ba5531e5bb40894e01fb6cd4ad099aa5835873a0ea651",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::29-Therapies-for-IHD"
+      ]
+    },
+    {
+      "first_field_hash": "5ac4b56cefceaf1bd22313e3550b306c59bac115254bb642d284413f534cd532",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::29-Therapies-for-IHD::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "3a27385cd99ad0214ef0d7d8b9cd4569a8d91885a9402f0129b2c9af20773a52",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::29-Therapies-for-IHD::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "8f4386b3759111e2a02c98113568b68da5706f69be6b009696e24c4888133a95",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::29-Therapies-for-IHD::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "205daa6da6adae380fae04be1c7399aec7f6b88fcea435366d85e65d2a9f0ef1",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::29-Therapies-for-IHD"
+      ]
+    },
+    {
+      "first_field_hash": "256c2ff4fcfb954550d597e8e0748a265d6664d8d50586f0596b821bb36ca9c0",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::29-Therapies-for-IHD::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "8c84cb39c77c4c406eb303f8023f2e070dcfbe9749bd1f2ded93a0cd3036441f",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::29-Therapies-for-IHD::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "01414fbe905c0a13680a885256b58c3b5f68c9a76b82821d07363b895fcfd737",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::29-Therapies-for-IHD::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "7dbebba50897743bae0d8ed62c74efac91a31aa4cecf29f38408525a203c26d9",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::29-Therapies-for-IHD::Class-Content"
       ]
     },
     {
@@ -12682,6 +12921,24 @@
       ]
     },
     {
+      "first_field_hash": "10fa4711c8cfeb43e46c96451f5d218a99d4d9381820503404098273a6d10110",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::29-Therapies-for-IHD::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "5fbfecb6088451fe2d73d02db516cba46a40feaa188d7a37d0e92eacfa30c26a",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::29-Therapies-for-IHD::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "efd0a7ed7e198e1131eabb443917373418012107a66d1761f1d63bd46d42e924",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::29-Therapies-for-IHD::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "06f6d6717b3493f878707170eaf8fe7b15de19e9e742baf9e50328bbd42678b8",
       "tags": [
         "JerryShen_AnKing_Tags::Immunology::Final::Complement"
@@ -15726,6 +15983,12 @@
       ]
     },
     {
+      "first_field_hash": "f090eb595931520e90482bf744be62072fa447161824979f3815e02ceff9ef51",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::30-Hypertension::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "bb9470a6b553f319395f58d1ed02b211fad4c5c04e26d82bb3cb675eb145901d",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::15-Pathophysiology-&-Treatment-of-Heart-Failure::Class-Content"
@@ -16003,6 +16266,12 @@
       ]
     },
     {
+      "first_field_hash": "1d351ff7a5d8dbf4f37de998f91a1fa52753309ffb0192a57ae2d91f05f0ff15",
+      "tags": [
+        "JerryShen_AnKing_Tags::Biochemistry::Final::03-Lipid-Metabolism::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "01eae734485d2c9c7e88dd349fb6687749654af5304cd959d6dcebf8cc9df53d",
       "tags": [
         "JerryShen_AnKing_Tags::Biochemistry::Final::03-Lipid-Metabolism"
@@ -16021,6 +16290,12 @@
       ]
     },
     {
+      "first_field_hash": "013579e0af91d24d92d2d89ea272710735a7b3e36332bc15165cb3d2c144a913",
+      "tags": [
+        "JerryShen_AnKing_Tags::Biochemistry::Final::03-Lipid-Metabolism"
+      ]
+    },
+    {
       "first_field_hash": "fe75fb7ff7fc3b6947b00e08e98cbcafad959c57ae7e20241f8d594f771f800f",
       "tags": [
         "JerryShen_AnKing_Tags::Biochemistry::Final::03-Lipid-Metabolism"
@@ -16036,6 +16311,12 @@
       "first_field_hash": "2fd48fef297f75544d7302685e7c1700fba3d8e85d3cf4c822237e514cabfa96",
       "tags": [
         "JerryShen_AnKing_Tags::Biochemistry::Final::03-Lipid-Metabolism::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "c873ef28d182c8a5b76d12a5118d8f831e7958e2623c894571cab0131f01e877",
+      "tags": [
+        "JerryShen_AnKing_Tags::Biochemistry::Final::03-Lipid-Metabolism"
       ]
     },
     {
@@ -16208,6 +16489,12 @@
       ]
     },
     {
+      "first_field_hash": "887d3aa92108db9f9bc0f64f12cd7754b06bfa264e939dd9c631a6c429e701e0",
+      "tags": [
+        "JerryShen_AnKing_Tags::Biochemistry::Final::03-Lipid-Metabolism"
+      ]
+    },
+    {
       "first_field_hash": "181f14cc3dfe0f332cce7e45d90994a7fea0000dc06e62acbcc44e97c44db40d",
       "tags": [
         "JerryShen_AnKing_Tags::Biochemistry::Final::03-Lipid-Metabolism",
@@ -16240,6 +16527,12 @@
     },
     {
       "first_field_hash": "db1912ca5db9c3930a0b698546d45772c3d262a1eec2340b2bd7255c9b358170",
+      "tags": [
+        "JerryShen_AnKing_Tags::Biochemistry::Final::03-Lipid-Metabolism"
+      ]
+    },
+    {
+      "first_field_hash": "1d1c45fe230c5e378e5974e786dca2abc1b0caedb8dea86373b74d8a0f3d6c2a",
       "tags": [
         "JerryShen_AnKing_Tags::Biochemistry::Final::03-Lipid-Metabolism"
       ]
@@ -16331,7 +16624,8 @@
     {
       "first_field_hash": "9301fb4e792aa814cb0e56687279e67992356a1d33c2e9f904c16e7b19cd2b47",
       "tags": [
-        "JerryShen_AnKing_Tags::Biochemistry::Final::03-Lipid-Metabolism::Class-Content"
+        "JerryShen_AnKing_Tags::Biochemistry::Final::03-Lipid-Metabolism::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::29-Therapies-for-IHD::Class-Content"
       ]
     },
     {
@@ -17600,6 +17894,12 @@
       ]
     },
     {
+      "first_field_hash": "afd434994beae6658f0aa868b3cc42d5bae0d2ea62c97ebcdb80aa890e24db78",
+      "tags": [
+        "JerryShen_AnKing_Tags::Biochemistry::Final::02-Oxidative-Phosphorylation::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "6aed6f862a25f0c30f669a6f173047b5d36f13a6330e5f3ec023fcde35515a81",
       "tags": [
         "JerryShen_AnKing_Tags::Biochemistry::Final::03-Lipid-Metabolism::Class-Content"
@@ -18575,7 +18875,8 @@
     {
       "first_field_hash": "3cb40cde5f543c39f1e45ebfb7af8f29a56e17cd702904d2c42e88356a075c4a",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::10-Autonomic-Physiology-and-Pharmacology::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::10-Autonomic-Physiology-and-Pharmacology::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::29-Therapies-for-IHD::Class-Content"
       ]
     },
     {
@@ -18593,13 +18894,15 @@
     {
       "first_field_hash": "221791d861ca2b6cde526f45a57f7e1b468ed9ff82b4a4d68658a53eb5eb5e6d",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::25-Coronary-Circulation::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::25-Coronary-Circulation::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::29-Therapies-for-IHD::Class-Content"
       ]
     },
     {
       "first_field_hash": "f3ca4a7833ffcc7a3ea1a7877b68f0100d74b6579446c3fdc53fe9ea192e11e8",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::10-Autonomic-Physiology-and-Pharmacology"
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::10-Autonomic-Physiology-and-Pharmacology",
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::29-Therapies-for-IHD::Class-Content"
       ]
     },
     {
@@ -18669,9 +18972,16 @@
       ]
     },
     {
+      "first_field_hash": "b129d0bd4beda6ba2287f1472db3be8e3729c3e5fbf3705a04df85ad3836f388",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::15-Pathophysiology-&-Treatment-of-Heart-Failure::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "a8290a3ca4a74030f2e193829ac874a95acea489d8617724be40bd418e934b87",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::27-The-Abnormal-ECG-Ischemia-&-Infarction"
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::27-The-Abnormal-ECG-Ischemia-&-Infarction",
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::29-Therapies-for-IHD::Class-Content"
       ]
     },
     {
@@ -18750,7 +19060,7 @@
     {
       "first_field_hash": "2a031d845d81d8519144d4178eb3dd043b6971de8122ecb98beca67bf6153b2a",
       "tags": [
-        "JerryShen_AnKing_Tags::(🧋)-https://buymeacoffee.com/ger1atric",
+        "JerryShen_AnKing_Tags::(🧋)-buymeacoffee.com/ger1atric",
         "JerryShen_AnKing_Tags::Biochemistry::Final::02-Oxidative-Phosphorylation::Class-Content"
       ]
     },
@@ -25126,7 +25436,7 @@
       ]
     },
     {
-      "first_field_hash": "49be711bd492ddb045358205251c75c22d57a25194c942537a0c8490beff2274",
+      "first_field_hash": "bc16c0edf6ce6fc9b5e3ce7198c6138dcfd637b7919249a4770c58fce0b16485",
       "tags": [
         "JerryShen_AnKing_Tags::Neurobiology::Exam-2::Tutorial-3-Brainstem"
       ]
@@ -26832,15 +27142,14 @@
       "first_field_hash": "54d626e08c1c802b305dad30b7e54a82f102390cc92c7d4db112048935236e9c",
       "tags": [
         "JerryShen_AnKing_Tags::(✏️)-Tagged-by-Jerry-Shen",
-        "JerryShen_AnKing_Tags::(🛠️)-Last-Updated-05212026"
+        "JerryShen_AnKing_Tags::(🛠️)-Last-Updated-05232026"
       ]
     },
     {
       "first_field_hash": "54d626e08c1c802b305dad30b7e54a82f102390cc92c7d4db112048935236e9c",
       "tags": [
         "JerryShen_AnKing_Tags::(✏️)-Tagged-by-Jerry-Shen",
-        "JerryShen_AnKing_Tags::(🛠️)-Last-Updated-05212026",
-        "JerryShen_AnKing_Tags::(🧋)-https://buymeacoffee.com/ger1atric"
+        "JerryShen_AnKing_Tags::(🛠️)-Last-Updated-05232026"
       ]
     },
     {
@@ -30074,10 +30383,34 @@
       ]
     },
     {
+      "first_field_hash": "31b3417285cbd08777e65f7b6dbecc35701d34a060cc90d70f1450297876cf56",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::29-Therapies-for-IHD::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "4c45ce6f7d2cc6fbc4e5c333fe4355dbca757be58a70ce5abd828f434fb1df26",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::29-Therapies-for-IHD::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "3ed9d5af7ad58617a6911d76b362c27541e28bf71ff1a4702cdeb89a1fa155f5",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::29-Therapies-for-IHD::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "6e392918b83fa03a2e93196e68ff5d46f6f2dd2c790266d709b9036ab9888bc2",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::10-Airway-Obstruction",
         "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::10-Airway-Obstruction::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "4ddb856cdff1e1c89913b1175b1daae55aa70723679767b45e84e9fad86085a6",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::29-Therapies-for-IHD"
       ]
     },
     {
@@ -30087,9 +30420,45 @@
       ]
     },
     {
+      "first_field_hash": "2f4898d7f5c06ad1bc02d156b405d9653459b51694bc51eef4ac5414ef5ec270",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::29-Therapies-for-IHD::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "cf37d8acdfee7d5bee2746f755f27e4e3315a285f632e62e82b218a3a106306e",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::29-Therapies-for-IHD::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "74ca939ad2c95fb9e33d1cc074df742f732488076f89907f4a0b672c01f25017",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::24-Sepsis-&-Septic-Shock"
+      ]
+    },
+    {
+      "first_field_hash": "064127903790cb1059c40e5f2c30e132a7297d772b61c7ac8d799c75210ed067",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::29-Therapies-for-IHD::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "41826ff0543bf513336c171dad112388c56388ee7938943918752fbe16241324",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::29-Therapies-for-IHD"
+      ]
+    },
+    {
+      "first_field_hash": "d4560045f2c431404c34836a993d5d904d2b443fa1c657ca08b6bae425a80d29",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::30-Hypertension::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "fbcb237cb7263eb6e806fdeea12a709f5bc2629739db5913846425decc3a782a",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::29-Therapies-for-IHD"
       ]
     },
     {
@@ -32957,6 +33326,12 @@
       ]
     },
     {
+      "first_field_hash": "2134f543afdea86c4a5bd444eeec56f6fd262da6265aac6cf1fbb241ee8fa215",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::29-Therapies-for-IHD::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "d39d7e245b763b52b66c6236f0d86701c52fe3b7fa39785a09a06a90ff5c896e",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::07-Slow-Rhythm-Arrhythmias::Class-Content"
@@ -33057,6 +33432,24 @@
       "first_field_hash": "ecded882756fef9623e9dfe7b0cabfeb937d5d4dc629127b7d52da11f5341ac6",
       "tags": [
         "JerryShen_AnKing_Tags::Immunology::Final::Innate-Sensing::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "19a4bd14cddcd74a93c6b9a350a6748d0447ec802e3368959f01239187839479",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::29-Therapies-for-IHD"
+      ]
+    },
+    {
+      "first_field_hash": "01b2b1ecaf6a129aadd8dc582bf9990a2a5f29d3a875d9751295bca7d1aa0f4e",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::29-Therapies-for-IHD"
+      ]
+    },
+    {
+      "first_field_hash": "8414767e62a88e527343b4c86813a9874f1a154964563c080043955ec202eb70",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::29-Therapies-for-IHD"
       ]
     },
     {
@@ -33309,9 +33702,33 @@
       ]
     },
     {
+      "first_field_hash": "9ec568c546e8d8d1f66d2d79ae2ef6e80660f7bfb8fb6225d7c66dce5c158be0",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::29-Therapies-for-IHD"
+      ]
+    },
+    {
+      "first_field_hash": "52f15c43cf0576f996bb42a1d439c705820050ffe6c21e5c8d14bf9180bbdaed",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::29-Therapies-for-IHD"
+      ]
+    },
+    {
       "first_field_hash": "510e2aa358471dfaa8dc34064b2f175f218acb621d17a10168eb0bb4f8914f7b",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::25-Coronary-Circulation"
+      ]
+    },
+    {
+      "first_field_hash": "4e958cdc439c3ed5e1e0b41ca263d0a2622d50a69296cc7b96c32057df67ed4d",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::30-Hypertension"
+      ]
+    },
+    {
+      "first_field_hash": "27866f27eadbe328206de04a0276cd4c66f63a0ce7bbbaabc189498db13e5247",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::30-Hypertension"
       ]
     },
     {
@@ -33342,6 +33759,12 @@
       "first_field_hash": "e853237e9e67666b8deb2b6890d6792e08ab95eda23e3eb5d20bf858b0bae9c3",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::15-Pathophysiology-&-Treatment-of-Heart-Failure"
+      ]
+    },
+    {
+      "first_field_hash": "fb0bd70b238f572cd6a23665b814950e4446e02c13e5108162297eac837e7f1b",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::30-Hypertension::Class-Content"
       ]
     },
     {
@@ -33413,9 +33836,21 @@
       ]
     },
     {
+      "first_field_hash": "0e501427638fbccd42d56df8f71c75b4a3fe113044795b9f1d2b7553e96c2abf",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::30-Hypertension"
+      ]
+    },
+    {
       "first_field_hash": "1e93524d96fb0914ed5a5dfb7c95dec65fdf1879e7ec5a73214a96e336d0fe38",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::09-Supraventricular-Tachycardia-&-Antiarrhythmics"
+      ]
+    },
+    {
+      "first_field_hash": "fe127996b7a4ba770edb512ab0b4929d2eb59af5fdda39229ae9c48bdcbb06ac",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::30-Hypertension"
       ]
     },
     {
@@ -35341,13 +35776,19 @@
       ]
     },
     {
+      "first_field_hash": "6447d18491c6b209fc8742a584174dc04040a1bc2c4aa3c4310051e68c293e2f",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::29-Therapies-for-IHD"
+      ]
+    },
+    {
       "first_field_hash": "f8c2547351ff75643a34c1d95b0fed2df8e3aeb9c16426d4b0b98556d6b6a385",
       "tags": [
         "JerryShen_AnKing_Tags::Biochemistry::Final::01-Carbohydrate-Metabolism"
       ]
     },
     {
-      "first_field_hash": "3a1a64e2290fd047cdb4cba0812612e4b71b7cd439712aafd5216e0a73393ee5",
+      "first_field_hash": "b1573d90427ce6a3c9daf7b1d6aaedf4094e0af80f49b5585eab4bf67bfd2d68",
       "tags": [
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-2::07-β-Lactam-Antibiotics-&-Parasites"
       ]
@@ -36865,7 +37306,7 @@
       ]
     },
     {
-      "first_field_hash": "b347b6fb0d5d79b5d53bad50f2b32d2201afe74a90c84e040c5de22ade6f8a0b",
+      "first_field_hash": "34ce5ad2bddcf5449e9e9cfc4b5fb43f555f6d2fe9c632efa7da62d6910482f8",
       "tags": [
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-2::08-Other-Antibiotics-&-Mycobacteria::Class-Content"
       ]
@@ -41403,13 +41844,13 @@
       ]
     },
     {
-      "first_field_hash": "04704d50d7f69a5c9b6cda79b9166cf73b010a42bb8fc1a08fcb94032179146f",
+      "first_field_hash": "a6403d89d7b4c780774111428ec998c35ffbcdca1e145de94e39d26482dbbebd",
       "tags": [
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-2::07-β-Lactam-Antibiotics-&-Parasites"
       ]
     },
     {
-      "first_field_hash": "03267c403c00cbabb4fd4bd14c3f96920d2c097c2c853c4c5d26a9067a1a1368",
+      "first_field_hash": "a177b109af77292347ba7340afbd98face99dcc88e1e012a5b0f3581f13d6f83",
       "tags": [
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-2::07-β-Lactam-Antibiotics-&-Parasites"
       ]
@@ -44549,6 +44990,13 @@
       ]
     },
     {
+      "first_field_hash": "24353ea601018dbfe0708d1c17bf467ecb2c3a43ac97e7856bf14e5b04c1d275",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::30-Hypertension",
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::30-Hypertension::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "958bcd46f09212d970ba51cb3c2566da38114ea57b552b16215c877c7b7266ac",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::MSK-Block::02-Bone-&-Joint-Infections"
@@ -44861,6 +45309,12 @@
       ]
     },
     {
+      "first_field_hash": "dca3f50fc7aaadba4ba5f6f3d948f76f1a421dd9904280e3b29115c6a3f74208",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::30-Hypertension"
+      ]
+    },
+    {
       "first_field_hash": "b8fad34c4c06106ec0ba29117854c56986559982b15d35434671c5e8ced53f01",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::17-Valvular-Disease",
@@ -45161,13 +45615,15 @@
     {
       "first_field_hash": "d3f4cdee121cd9fe4655ec5654e5f290ccec100f5f2b625f3ed0b74a66c21aff",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::21-The-Arterial-System"
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::21-The-Arterial-System",
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::30-Hypertension"
       ]
     },
     {
       "first_field_hash": "5115b12f495305262faae7b9cd0cf2bbe765fab0736970be690f16bc2188c18d",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::21-The-Arterial-System"
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::21-The-Arterial-System",
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::30-Hypertension"
       ]
     },
     {
@@ -46574,6 +47030,12 @@
       ]
     },
     {
+      "first_field_hash": "09329e59b8ce7a7f5edbd0c8993806759b2efae45214592bd499c077426ea381",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::30-Hypertension"
+      ]
+    },
+    {
       "first_field_hash": "2eec9370bea8788e21a9b708193a43946ea574f12e9d4ad45021b7b330090b04",
       "tags": [
         "JerryShen_AnKing_Tags::Immunology::Final::Immune-Deficiencies::Class-Content"
@@ -46657,6 +47119,20 @@
       "first_field_hash": "d89cff85176d5158730069619831536f94c1680daf194f812ca0ebaae3b5f1a5",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::MSK-Block::04-Upper-Limb-Pathology"
+      ]
+    },
+    {
+      "first_field_hash": "abb476ee7c94d8cef61bb63ec26d4877bc348ced969aa82f9c637cd90fddb104",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::30-Hypertension",
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::30-Hypertension::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "0fbe00e96d92ac9d3e0673a5f8bbc6be2ca27d4c35babfea6d3a68b3a9577208",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::30-Hypertension",
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::30-Hypertension::Class-Content"
       ]
     },
     {
@@ -47527,6 +48003,12 @@
       ]
     },
     {
+      "first_field_hash": "dfee27f4a4555cc8901edca1e9ccf4532c76c995ff1d98700ab47fffc3b6c60b",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::30-Hypertension::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "207d45c13ce7e8603a4cf41e75a3d5ed00554caf517d692086838b807cfae70a",
       "tags": [
         "JerryShen_AnKing_Tags::POM-1::Final::Epidemiology::Class-Content"
@@ -47736,6 +48218,18 @@
       ]
     },
     {
+      "first_field_hash": "8f105f83abcf8ab38196d87c446302fe410cc24bfb9cbeedf591da80250f9f80",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::30-Hypertension"
+      ]
+    },
+    {
+      "first_field_hash": "b384cf4cd926c7c9716f67f4e8414c624a68cd252d4d06727b3e4a3b3aa5982a",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::30-Hypertension"
+      ]
+    },
+    {
       "first_field_hash": "b4323a25fb4b17ca356ff1685153584082a13f69800a4c9e7e0677a64b77717b",
       "tags": [
         "JerryShen_AnKing_Tags::Neurobiology::Exam-2::Tutorial-1-Cerebrum::Class-Content"
@@ -47761,6 +48255,12 @@
       ]
     },
     {
+      "first_field_hash": "7c573dd6230112ee3807e770a7b7f22db0bb91f7168f0c7cf94049efbf0a7d7a",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::30-Hypertension::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "5d061695d6887110aff0ca605e547270a2f72949f9bba304e1368b3ebe5be011",
       "tags": [
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-1::04-Intro-to-Viruses"
@@ -47770,6 +48270,12 @@
       "first_field_hash": "144cfbbe70e1a9f486fd767cf145bb8e12a13fe077a6cb36eecee428215735d9",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::19-ARDS-&-Ventilators"
+      ]
+    },
+    {
+      "first_field_hash": "51adb1f69c5dfab0bba97e80168c048515309172ff7a756a776761493eb390c9",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::30-Hypertension::Class-Content"
       ]
     },
     {
@@ -47809,7 +48315,7 @@
       ]
     },
     {
-      "first_field_hash": "ba2298611499390545e79804738517000f5140d484a79acf65e8c1355fb26693",
+      "first_field_hash": "0f46f9dddab9a4aea2d5b1b65f9bdf54a71952fca2bb91013b3c07dedc596d00",
       "tags": [
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-1::04-Intro-to-Viruses"
       ]
@@ -47920,7 +48426,8 @@
     {
       "first_field_hash": "42ec037ed8b843626ad76e0d1b469893e85bc56d3b37cce21bde9dfdf9a49154",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::25-Coronary-Circulation"
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::25-Coronary-Circulation",
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::29-Therapies-for-IHD::Class-Content"
       ]
     },
     {
@@ -48090,6 +48597,13 @@
       ]
     },
     {
+      "first_field_hash": "fee911361849f3557da658d78018fc46384865ececeb81d50377a9396021cc46",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::30-Hypertension",
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::30-Hypertension::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "6bd9e05965f173f6c46776182888c440ae745ea440e0a73a7acbefb48d0e213b",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::15-Pathophysiology-&-Treatment-of-Heart-Failure",
@@ -48100,6 +48614,12 @@
       "first_field_hash": "0fdd6ebef439148287ddab6bec13c2407d51efb419e537af1065d075bf73298a",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::10-Autonomic-Physiology-and-Pharmacology"
+      ]
+    },
+    {
+      "first_field_hash": "5933406f0b3289cb75eb58478d36123766a55322dd8b127c8a865d5a43db31a1",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::30-Hypertension"
       ]
     },
     {
@@ -48174,6 +48694,12 @@
       "first_field_hash": "425282d63c3ab5073f28e22c0b610cd92c23b2e965a00e0296e8a1324c422168",
       "tags": [
         "JerryShen_AnKing_Tags::POM-3::Clinical-Reasoning::Approach-to-Acute-Dyspnea::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "c0f11b44e1b2db8c112d7dee501e6198730a5152de7840bc5c55b6716e9ab696",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::29-Therapies-for-IHD::Class-Content"
       ]
     },
     {
@@ -48528,6 +49054,13 @@
       ]
     },
     {
+      "first_field_hash": "960487baf50c1e39b8935a9813b88a3d44b21812398753bfdfe342d1856444f5",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::30-Hypertension",
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::30-Hypertension::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "18e676f6d51f8c7665eee71d9b5e356bb942c2809969981d05a913c2127314b9",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::23-Pleural-Disease::Class-Content"
@@ -48573,9 +49106,40 @@
       ]
     },
     {
+      "first_field_hash": "12dc0f29c1315d27c45cfad5f9f77d70197637ab096f50f66555d26a73e91467",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::29-Therapies-for-IHD"
+      ]
+    },
+    {
+      "first_field_hash": "b26707d0eb8d1dc47adffe538e97bf50693acea666c41fd857f40969998daafb",
+      "tags": [
+        "JerryShen_AnKing_Tags::Biochemistry::Final::03-Lipid-Metabolism::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "e559ebf00e0c325455245185f9c8efc0d82548ad4458920ce11fb2456ec25d15",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::29-Therapies-for-IHD"
+      ]
+    },
+    {
+      "first_field_hash": "b223e61dca1af267bd3b6ddf81058667009b4555cb6898ffef2185cfe93c02f4",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::29-Therapies-for-IHD"
+      ]
+    },
+    {
       "first_field_hash": "df15aaa6da207ba818ffc27d3fd3e4020e7a29301621647cf8d5da93f0b400a4",
       "tags": [
-        "JerryShen_AnKing_Tags::Biochemistry::Final::03-Lipid-Metabolism"
+        "JerryShen_AnKing_Tags::Biochemistry::Final::03-Lipid-Metabolism",
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::29-Therapies-for-IHD"
+      ]
+    },
+    {
+      "first_field_hash": "661c45636b7fe79e51a73cb586a0fb97258e3503b7349b381bd063d333650763",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::29-Therapies-for-IHD::Class-Content"
       ]
     },
     {
@@ -48613,6 +49177,12 @@
       "tags": [
         "JerryShen_AnKing_Tags::POM-3::Clinical-Reasoning::Approach-to-Syncope::Class-Content",
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::07-Slow-Rhythm-Arrhythmias"
+      ]
+    },
+    {
+      "first_field_hash": "a2a10aa71ee2116fdf8a6870e9b91ec966a73f43cf7dde25f3cc92f76199a5f3",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::30-Hypertension"
       ]
     },
     {
@@ -48753,6 +49323,12 @@
       ]
     },
     {
+      "first_field_hash": "7c9ce74ae31c6b16a10500c9b1109aa92dfca34a66fb74ae873920cea63725ad",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::30-Hypertension"
+      ]
+    },
+    {
       "first_field_hash": "fcf6f87ebfe8e96a7fd74e7bc778fdbaba4d4a96cecefe42755d1b2f26808075",
       "tags": [
         "JerryShen_AnKing_Tags::Neurobiology::Exam-3::Lec-Vestibular-System"
@@ -48768,6 +49344,12 @@
       "first_field_hash": "0d400eda86a4ae1a9d0b215e6ebac3a65b53c35509c48e06fcbc21bff89febd2",
       "tags": [
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-1::04-Intro-to-Viruses"
+      ]
+    },
+    {
+      "first_field_hash": "628cacfc73fc11de1ccb082f78b990c97184a3ea308aa986b294ec27c442e7c8",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::30-Hypertension"
       ]
     },
     {
@@ -48807,12 +49389,6 @@
       "first_field_hash": "1f5b36bd6a4a25fc3ebceb167088aa6ef9c817696d0912e88b69a2945753e877",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::16-Lower-Respiratory-Infections::Class-Content"
-      ]
-    },
-    {
-      "first_field_hash": "fb5ef4120f8d556b8be397810c09633f02944fc2df96989f683f05a690b81d1f",
-      "tags": [
-        "JerryShen_AnKing_Tags::SOM-1::MSK-Block::Backache::Class-Content"
       ]
     },
     {
@@ -49427,6 +50003,12 @@
       ]
     },
     {
+      "first_field_hash": "5be45903a9ba7170046fd89846f3c0f16eec3becfcfe3e373ca6c61915f516db",
+      "tags": [
+        "JerryShen_AnKing_Tags::Biochemistry::Final::03-Lipid-Metabolism"
+      ]
+    },
+    {
       "first_field_hash": "22c393221a915d61087ea94013a82b273308263db3fe1c96344a6e0f46fa6c02",
       "tags": [
         "JerryShen_AnKing_Tags::Immunology::Final::Immune-Deficiencies::Class-Content"
@@ -49500,6 +50082,12 @@
       "first_field_hash": "33df39c65614109118d84ad1a5917dd28366d50057184ad0849ea7b67c3ff121",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::26-Pulmonary-Cases-&-Miscellaneous-Diseases"
+      ]
+    },
+    {
+      "first_field_hash": "51a7faf20d6d91990958e458b26063f1c304a3f95ce4d3e7b8640cb70ac77051",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::29-Therapies-for-IHD"
       ]
     },
     {
@@ -50102,6 +50690,12 @@
       ]
     },
     {
+      "first_field_hash": "8dc73d8c114ba15efc3503bf45630a758554e120ee305f0f8051f15ef6b8def8",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::30-Hypertension"
+      ]
+    },
+    {
       "first_field_hash": "7d73f631cb379063b15a046f956bce8d618e61bdce80fd219fb0a6eeba1f033d",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::12-Myosin-and-Cardiac-Contractility",
@@ -50457,6 +51051,12 @@
       ]
     },
     {
+      "first_field_hash": "95d1295b50b34e48a45f7ee305fbb7284a6d32fe339630d78a0a7d66a62d28c1",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::29-Therapies-for-IHD::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "d3111168ef564cea579b2b7bb9ce6febde29b1d3bedc6e3245c1f4ed89892527",
       "tags": [
         "JerryShen_AnKing_Tags::POM-3::Clinical-Reasoning::Approach-to-Acute-Dyspnea::Class-Content",
@@ -50537,6 +51137,12 @@
       ]
     },
     {
+      "first_field_hash": "41766f5a043bfd52d74d3808210700a11748a439df9289df495a23bc503908e3",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::30-Hypertension"
+      ]
+    },
+    {
       "first_field_hash": "7e19ba6523768ae2f439b7e899a1bc4484adbd7c62c14301de99bfd1137858f0",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::CV-Lab-04-Case-Studies"
@@ -50577,6 +51183,38 @@
       "first_field_hash": "537e9231f7dbcbe9af0209d253d8273bdc3820fc6c981162faaa428c751ca7b3",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::22-Peripheral-Arterial-&-Aortic-Disease::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "fc6894ea8bc2a83edd9fc43e11667f4c5187790e911e9a78d9a3df90cf6b9233",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::30-Hypertension",
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::30-Hypertension::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "30cc895e8de3dff96de33d19997598c1f373461e49fac38653bbceba62cc0ae4",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::30-Hypertension::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "9a4817b1877081280f42945e4cdbe99d41a13bec609d6592179bb7137c2dcf89",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::30-Hypertension",
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::30-Hypertension::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "a85c207f90a06650d27b33a2e858f0ae3f0ee26fcd7cc2ee863ad8c7b1507aec",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::30-Hypertension::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "0d5cb1e31012e08717416805608f42030eeebf42e89a6ed4b556bf20e82bb936",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::30-Hypertension::Class-Content"
       ]
     },
     {
@@ -50744,6 +51382,13 @@
       ]
     },
     {
+      "first_field_hash": "5ca942a551fb329aa5caa4993dd76eb905be287e818d259e97b15e1cdf39c67c",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::30-Hypertension",
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::30-Hypertension::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "aeb8a5fe20a7276fe723fe21556da7f325dc822e2b0f69763b008b6aa0abc5a0",
       "tags": [
         "JerryShen_AnKing_Tags::POM-3::Geriatrics"
@@ -50795,6 +51440,12 @@
       "first_field_hash": "8daeb5d98f9c8508a48d0e6cc3936d7fb0abc5e83780e3152871272b96b446a0",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::18-Heart-Sounds-&-Clinical-Exam"
+      ]
+    },
+    {
+      "first_field_hash": "a911b25ddb21e65b6affa752bb443643ee6d8b15646f0aa5c07da1483b3f3595",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::29-Therapies-for-IHD"
       ]
     },
     {
@@ -50850,6 +51501,12 @@
       "first_field_hash": "e7f08463ffacf65a84ceefdec5e7b442623672a303f14d177a2169982d4da946",
       "tags": [
         "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-3-Abdomen::Anatomy"
+      ]
+    },
+    {
+      "first_field_hash": "7b31cacc3d6279aecc7602813a24ae50cfb87d945581dfdee2ca9ad5001b1515",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::30-Hypertension"
       ]
     },
     {
@@ -51071,9 +51728,22 @@
       ]
     },
     {
+      "first_field_hash": "38e54a13ec8d90ba1334019863c21e4030f0c91e5cad76789686625eda2fe5fd",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::30-Hypertension::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "fba6b779e068f002c487438470ce2a46c838cc7c02aaa12b9eb5e72f44f93533",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::25-Coronary-Circulation"
+      ]
+    },
+    {
+      "first_field_hash": "026b5705d3d175e2eaad31187774192f8d31d3f5938baac8da5747e6719adb8a",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::25-Coronary-Circulation",
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::26-Pathology-of-Atherosclerosis-&-IHD"
       ]
     },
     {
@@ -51835,6 +52505,19 @@
       ]
     },
     {
+      "first_field_hash": "7dca446ce65285dd67d691d12aeaa432927445c63e2733d8788239328f7f5fd8",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::30-Hypertension",
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::30-Hypertension::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "a88f095ba9e13aeb8cac6b128cf5ba0e48af733f697fa72203ab5de3735fdc39",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::30-Hypertension::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "df6e31fa88cfaef0201df7510b3f889d9ae60a7dfa7e2d774214161a22d833c7",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::27-Lung-Cancer"
@@ -52219,6 +52902,12 @@
       "first_field_hash": "99d6d16a55c9a100348d12bd9a5a5d41d0d0ac6ae11871bc421762cb77c47bb6",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::23-Endocarditis::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "0e55797da500ef25e681f4d8a6a2901c5f15184bff6de82fc9bd0217827f0b5b",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::28-IHD-&-Atherosclerosis::Class-Content"
       ]
     },
     {
