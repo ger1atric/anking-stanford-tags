@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
   "author": "JerryShen",
-  "description": "hypertension",
-  "created": "2026-05-24T04:48:05.125141+00:00",
-  "updated": "2026-05-24T04:48:05.125141+00:00",
+  "description": "treatment of hypertension",
+  "created": "2026-05-24T05:23:01.893169+00:00",
+  "updated": "2026-05-24T05:23:01.893169+00:00",
   "tag_prefix": "JerryShen_AnKing_Tags",
   "tag_hierarchy": [
     "JerryShen_AnKing_Tags",
@@ -332,6 +332,8 @@
     "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::29-Therapies-for-IHD::Class-Content",
     "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::30-Hypertension",
     "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::30-Hypertension::Class-Content",
+    "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::31-Treatment-of-Hypertension",
+    "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::31-Treatment-of-Hypertension::Class-Content",
     "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::CV-Lab-03-Autonomic-Drugs-&-Clinical-Correlates",
     "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::CV-Lab-03-Autonomic-Drugs-&-Clinical-Correlates::Class-Content",
     "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::CV-Lab-04-Case-Studies",
@@ -575,6 +577,11 @@
       "date": "2026-05-24T04:48:05.125141+00:00",
       "message": "hypertension",
       "note_count": 146
+    },
+    {
+      "date": "2026-05-24T05:23:01.893169+00:00",
+      "message": "treatment of hypertension",
+      "note_count": 69
     }
   ],
   "notes": [
@@ -6007,7 +6014,8 @@
     {
       "first_field_hash": "07c9816e19a3d9c4e3425d20805034c9679eb3569f8df3796f38469431fe6e65",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::30-Hypertension::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::30-Hypertension::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::31-Treatment-of-Hypertension::Class-Content"
       ]
     },
     {
@@ -7931,6 +7939,12 @@
       ]
     },
     {
+      "first_field_hash": "07197a41918ab7a36446e15979dbe7b18135750563bd85132c41c987cf3a4b52",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::31-Treatment-of-Hypertension::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "afdd016ac4876eaa483bc6d312026704de3c44371923e8feef7e0839ff9a6f5a",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::15-Pathophysiology-&-Treatment-of-Heart-Failure"
@@ -8953,6 +8967,18 @@
       ]
     },
     {
+      "first_field_hash": "ca5c90a0bf9b133adb22bc9fa2de40ef7d3566c5424ee0aaee0b23f7f67d3f6c",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::31-Treatment-of-Hypertension::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "956ca246520c38e7ef6136dfc322080316bd78b6943bc92111f3086085bb8867",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::31-Treatment-of-Hypertension"
+      ]
+    },
+    {
       "first_field_hash": "d501a5d8e7452ff01b857c944789f612485682ff85fb74466a2eff12de0da52b",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::25-Coronary-Circulation::Class-Content"
@@ -8971,6 +8997,12 @@
       ]
     },
     {
+      "first_field_hash": "efa936bffa1ea8933e8e6f140189598fa71e59e200881588303331adb892c3e5",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::31-Treatment-of-Hypertension::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "dea095b8df0947130e66793267bb7a4cf88b2748c525699f454cb0e5bf95b987",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::15-Pathophysiology-&-Treatment-of-Heart-Failure"
@@ -8983,9 +9015,22 @@
       ]
     },
     {
+      "first_field_hash": "01c364b1bc117a08b206006ffc80b66b84419121bb6abfc92d7f476b46a13442",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::31-Treatment-of-Hypertension::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "b14b8867655d07a1bdd886463e26481cb2c9f5d4821a233465b86aad8adc512e",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::31-Treatment-of-Hypertension"
+      ]
+    },
+    {
       "first_field_hash": "d58618520c56582427630a2e8a7db5ab4d367c660fbfea640db5ed1156c552d1",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::15-Pathophysiology-&-Treatment-of-Heart-Failure"
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::15-Pathophysiology-&-Treatment-of-Heart-Failure",
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::31-Treatment-of-Hypertension::Class-Content"
       ]
     },
     {
@@ -9004,7 +9049,15 @@
     {
       "first_field_hash": "0c76c1cfca4db62b4eec2d33eb3cfb5c97708345f5bac6b4268c099fc4335b7e",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::21-The-Arterial-System"
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::21-The-Arterial-System",
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::31-Treatment-of-Hypertension",
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::31-Treatment-of-Hypertension::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "32cd203513228d4fe2bf4bb107817c7be4b40def9371486b4555a78ca13c5946",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::31-Treatment-of-Hypertension"
       ]
     },
     {
@@ -9026,9 +9079,16 @@
       ]
     },
     {
+      "first_field_hash": "679fda81e456587748ba7f1f7ff9296dde737220f3d940f94704b90649d6dbe1",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::31-Treatment-of-Hypertension::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "d2e20729a990820462ff6f5041ee02f5da198432f600c67fc561885d43481d0f",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::15-Pathophysiology-&-Treatment-of-Heart-Failure"
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::15-Pathophysiology-&-Treatment-of-Heart-Failure",
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::31-Treatment-of-Hypertension::Class-Content"
       ]
     },
     {
@@ -9240,9 +9300,16 @@
       ]
     },
     {
+      "first_field_hash": "d9b0607bf0b5e6e127987edfff7ea4d24b98d2dc0283c73471ff3092a764ed03",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::31-Treatment-of-Hypertension"
+      ]
+    },
+    {
       "first_field_hash": "c9faa9428c814d66a44473a3110d7235f004c71d176d60610a58eea15b966590",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::25-Coronary-Circulation::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::25-Coronary-Circulation::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::31-Treatment-of-Hypertension::Class-Content"
       ]
     },
     {
@@ -9255,6 +9322,12 @@
       "first_field_hash": "b3389b7d65bb81f51fc184700a3541d03384e4ef411cbbf717af685857dc9f6e",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::27-The-Abnormal-ECG-Ischemia-&-Infarction"
+      ]
+    },
+    {
+      "first_field_hash": "cb9a7c630a6d289c6213883d21999abc774cb466fea89552a41d5fe865cb565a",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::31-Treatment-of-Hypertension::Class-Content"
       ]
     },
     {
@@ -9279,6 +9352,12 @@
       "first_field_hash": "abc21295fbb119cf284d1585126eeff02c34f9f61b004381c702b6062f4f0baf",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::15-Pathophysiology-&-Treatment-of-Heart-Failure"
+      ]
+    },
+    {
+      "first_field_hash": "771ee21dae77a6e6a4c1db9e4aba0a31947aeeb51219e1824ee2bff411762e44",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::31-Treatment-of-Hypertension::Class-Content"
       ]
     },
     {
@@ -15412,7 +15491,8 @@
     {
       "first_field_hash": "72919c6c1852fd56a6f8facdb6539260679a84eaf5ada85686d8134bf4ffe186",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::15-Pathophysiology-&-Treatment-of-Heart-Failure::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::15-Pathophysiology-&-Treatment-of-Heart-Failure::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::31-Treatment-of-Hypertension::Class-Content"
       ]
     },
     {
@@ -15428,9 +15508,21 @@
       ]
     },
     {
+      "first_field_hash": "67afba6a42845a60aa9bfd5fd755254fb432e66d6c08e6c089acc907e6d2f1f9",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::31-Treatment-of-Hypertension"
+      ]
+    },
+    {
       "first_field_hash": "224953a6c93004a8bb7fb5c0bae3fc4a81bfc72b71cfdf2745f7a29b4775be5d",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::15-Pathophysiology-&-Treatment-of-Heart-Failure::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "2020658c19b8c2ad43c5b328ab2b7d2b33241db0291d472dae74d3adf8af5f6b",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::31-Treatment-of-Hypertension::Class-Content"
       ]
     },
     {
@@ -15454,31 +15546,42 @@
     {
       "first_field_hash": "a7eaa7951e8e6f5fc6bb457584a1b424caecf7a15a980525b9c6adf1b5330735",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::15-Pathophysiology-&-Treatment-of-Heart-Failure"
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::15-Pathophysiology-&-Treatment-of-Heart-Failure",
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::31-Treatment-of-Hypertension::Class-Content"
       ]
     },
     {
       "first_field_hash": "cce80a021580bf77bcb8766d490ebc82d3b1a2a8b32c6e82c7f0fa6c35dfd9b8",
       "tags": [
-        "JerryShen_AnKing_Tags::POM-3::Clinical-Reasoning::Approach-to-Cough::Class-Content"
+        "JerryShen_AnKing_Tags::POM-3::Clinical-Reasoning::Approach-to-Cough::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::31-Treatment-of-Hypertension::Class-Content"
       ]
     },
     {
       "first_field_hash": "388f884a16769ac4ed90a6daa3cfefd1778f65890a832b7ac2e930b533ac5426",
       "tags": [
-        "JerryShen_AnKing_Tags::POM-3::Clinical-Reasoning::Approach-to-Cough"
+        "JerryShen_AnKing_Tags::POM-3::Clinical-Reasoning::Approach-to-Cough",
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::31-Treatment-of-Hypertension"
+      ]
+    },
+    {
+      "first_field_hash": "409f5b9a833b01a34cc084dbe87aa7622d4aa06f5365af04e09f4166d0dac871",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::31-Treatment-of-Hypertension"
       ]
     },
     {
       "first_field_hash": "f04d187d917236cc8b277cc915b7a03dd1f1560197baf5422b5fbebb64f184cd",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::15-Pathophysiology-&-Treatment-of-Heart-Failure"
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::15-Pathophysiology-&-Treatment-of-Heart-Failure",
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::31-Treatment-of-Hypertension::Class-Content"
       ]
     },
     {
       "first_field_hash": "7f2162d9f77c7da004315ea4ee4c39e78423e4ef9613b0e99c11ad9f4d2fdbc1",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::15-Pathophysiology-&-Treatment-of-Heart-Failure::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::15-Pathophysiology-&-Treatment-of-Heart-Failure::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::31-Treatment-of-Hypertension::Class-Content"
       ]
     },
     {
@@ -15492,6 +15595,12 @@
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::15-Pathophysiology-&-Treatment-of-Heart-Failure",
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::15-Pathophysiology-&-Treatment-of-Heart-Failure::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "518373eaf751b8d544011f6e823beec82f40798ba00ec49b011f9fad9c0d6d21",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::31-Treatment-of-Hypertension::Class-Content"
       ]
     },
     {
@@ -16039,7 +16148,8 @@
     {
       "first_field_hash": "3e4bdc10f2c24fbeb089bb766ba0f8304db9b65e7a92984709cc4e24d9d5ea05",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::15-Pathophysiology-&-Treatment-of-Heart-Failure"
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::15-Pathophysiology-&-Treatment-of-Heart-Failure",
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::31-Treatment-of-Hypertension::Class-Content"
       ]
     },
     {
@@ -16049,9 +16159,34 @@
       ]
     },
     {
+      "first_field_hash": "4ef8a9e1d42ef7536b8e8bf7b144546eac79ddf0491e2f06e1cd6fea84482832",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::31-Treatment-of-Hypertension::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "7eb1d1e487709f83841f323cabec7b8f27829194506fec4b01fa7f8d2abdd22a",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::15-Pathophysiology-&-Treatment-of-Heart-Failure"
+      ]
+    },
+    {
+      "first_field_hash": "ff299ab3501e3a9596de8b80162234f16d750046631bb4954d71a36a015dd6b3",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::31-Treatment-of-Hypertension::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "1a81fa66e90ec65927fccd38184578b97d0fc25ded0013bc0022dcc1c4b1077e",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::31-Treatment-of-Hypertension"
+      ]
+    },
+    {
+      "first_field_hash": "c23a0c2332e28fea5b87033aa1cf0d7c7bce8593060de8ff8e7c059f1dda21b4",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::31-Treatment-of-Hypertension",
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::31-Treatment-of-Hypertension::Class-Content"
       ]
     },
     {
@@ -16061,9 +16196,22 @@
       ]
     },
     {
+      "first_field_hash": "bfb5e242f0e36a88cb82bb2c5b9765ff1bdb944fa7d7bb87b7994996fe183834",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::31-Treatment-of-Hypertension::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "9d62c0d7ab32affb9df606115149831203f3597d295063495f87d3805af74d41",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::15-Pathophysiology-&-Treatment-of-Heart-Failure::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::15-Pathophysiology-&-Treatment-of-Heart-Failure::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::31-Treatment-of-Hypertension::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "d89bea7c39f0ad0c30ab7a082894dfd19bfc65c673cb61b7131e803fdf572b35",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::31-Treatment-of-Hypertension"
       ]
     },
     {
@@ -16074,9 +16222,27 @@
       ]
     },
     {
+      "first_field_hash": "2194cf80313a2a9659a19ebdaa1fd4043a751fb62f470f0b1efb3a296f9336ec",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::15-Pathophysiology-&-Treatment-of-Heart-Failure"
+      ]
+    },
+    {
       "first_field_hash": "b516628a95614d6768633adad28d209d4b0ab9784a9f08f31c0cef02040056db",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::15-Pathophysiology-&-Treatment-of-Heart-Failure::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "0ae9d96a616316dcfc5f487e6a134cc5256533fb6c80d182447095c57ca0485f",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::31-Treatment-of-Hypertension::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "a430899825949c90bad0cac0a41bfd360006cd19323bc838109703f34b9566d0",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::31-Treatment-of-Hypertension::Class-Content"
       ]
     },
     {
@@ -18803,7 +18969,8 @@
     {
       "first_field_hash": "0e97b0bda9dc7c9eab58196146a5140817cf0defde6d13d06807819a03a5383a",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::10-Autonomic-Physiology-and-Pharmacology"
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::10-Autonomic-Physiology-and-Pharmacology",
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::31-Treatment-of-Hypertension::Class-Content"
       ]
     },
     {
@@ -18834,6 +19001,24 @@
       "first_field_hash": "1e8ba70cf7617d71f8681ded43cc1dbb744ade90dbede3cfbbef275595e0a7c5",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::10-Autonomic-Physiology-and-Pharmacology"
+      ]
+    },
+    {
+      "first_field_hash": "bb76a3aa32f0f799b65e5fbae500353f190db2691d1aff82e7a602b14a81230d",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::31-Treatment-of-Hypertension::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "1fe4feba7f436b519e78f2cdde0bcc3d252b214b1e4e0538a8269af2b3e32336",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::31-Treatment-of-Hypertension::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "0930182fc640c0e2feb32974f62a1258482800a5bec732245a9cbc3c62764998",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::31-Treatment-of-Hypertension"
       ]
     },
     {
@@ -18994,6 +19179,12 @@
       "first_field_hash": "850c340f3003a7b6d386bd55ab286e541fa2e727cc1cd5aecf48d8553bccb410",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::10-Autonomic-Physiology-and-Pharmacology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "3f223a4ed41692884564b07fd6de7d06bf842d56ce1f40451128c99a0b61b452",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::31-Treatment-of-Hypertension::Class-Content"
       ]
     },
     {
@@ -31002,6 +31193,12 @@
       ]
     },
     {
+      "first_field_hash": "2abd0e41e9e0477a99900a871f1d768b0b42517850c860bcc2bf24b1aa06451f",
+      "tags": [
+        "JerryShen_AnKing_Tags::Micro-Pharm::Exam-2::07-β-Lactam-Antibiotics-&-Parasites"
+      ]
+    },
+    {
       "first_field_hash": "4157f64f49d68abf24cde44dc337ddbb809f7de7af591f1f64de1dd1fc2f77c4",
       "tags": [
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-2::08-Other-Antibiotics-&-Mycobacteria::Class-Content"
@@ -31113,7 +31310,26 @@
     {
       "first_field_hash": "010a6de40a29a482e0e914ff4e357a2490f855f72f04d71ea575f1dbb6ae2f81",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::10-Autonomic-Physiology-and-Pharmacology"
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::10-Autonomic-Physiology-and-Pharmacology",
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::31-Treatment-of-Hypertension::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "1249479b1d0e75551bd5b27dd26c2bb6d55a5fb5190821aa897be2609600013c",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::31-Treatment-of-Hypertension::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "114dc2524a5352cd03bf94f05883e595c3ae775ad1c2029a55c7abd3fb5bc9f4",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::31-Treatment-of-Hypertension::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "c262a7b854bd9fd3abc357d2a2a8a13240c1f6d25478f9208dd8dc251e403bf6",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::31-Treatment-of-Hypertension"
       ]
     },
     {
@@ -35685,7 +35901,8 @@
     {
       "first_field_hash": "7e7ffe756c14f3dcf0a4b6902277486039742566f46d1096ef79f4486bbe565d",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::10-Autonomic-Physiology-and-Pharmacology"
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::10-Autonomic-Physiology-and-Pharmacology",
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::31-Treatment-of-Hypertension::Class-Content"
       ]
     },
     {
@@ -45117,6 +45334,12 @@
       ]
     },
     {
+      "first_field_hash": "3e59d765672d393b46c27a557aff5c1ce5c6461c2945f40af881a6d30ce9e257",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::31-Treatment-of-Hypertension"
+      ]
+    },
+    {
       "first_field_hash": "1fc2dede8d037072749ac327a58a4024462987c78827b225e0afd2915143fae7",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::10-Autonomic-Physiology-and-Pharmacology"
@@ -45213,6 +45436,12 @@
       "first_field_hash": "048a28408a2e4ff4d573c564a71c8fe91edefc0f76b090df619993eb95446404",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::17-Valvular-Disease"
+      ]
+    },
+    {
+      "first_field_hash": "cc40d4444d95e174f568e5232130c752500b07c75eeccc0aba7dd3ba4b31981a",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::31-Treatment-of-Hypertension::Class-Content"
       ]
     },
     {
@@ -45591,6 +45820,13 @@
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::25-Coronary-Circulation",
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::25-Coronary-Circulation::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "a6bafe51a7cbe964043703010ab18cb84c6d29e3bfc9d68fed92cc16b844d273",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::31-Treatment-of-Hypertension",
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::31-Treatment-of-Hypertension::Class-Content"
       ]
     },
     {
@@ -46392,6 +46628,12 @@
       ]
     },
     {
+      "first_field_hash": "1301cb48406fd02632b6f3e9b553225ae2002c00bc085afc5bbca98606cb945d",
+      "tags": [
+        "JerryShen_AnKing_Tags::Biochemistry::Final::01-Carbohydrate-Metabolism"
+      ]
+    },
+    {
       "first_field_hash": "8426c5fff40120a96e04a558a78d7b060953892f2a82132fb4d2b9bc6a910d6d",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::19-ARDS-&-Ventilators::Class-Content"
@@ -47036,6 +47278,12 @@
       ]
     },
     {
+      "first_field_hash": "d58facb86e52a1ab9927c32256c0bf86548e3bba6742562ccaf6d98711bb21df",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::31-Treatment-of-Hypertension"
+      ]
+    },
+    {
       "first_field_hash": "2eec9370bea8788e21a9b708193a43946ea574f12e9d4ad45021b7b330090b04",
       "tags": [
         "JerryShen_AnKing_Tags::Immunology::Final::Immune-Deficiencies::Class-Content"
@@ -47083,6 +47331,12 @@
       "first_field_hash": "040f2dfa0ba2c9dde185ca707feedb2f5efec7aa49de1df3be92590b6405a52c",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::MSK-Block::04-Upper-Limb-Pathology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "612831bbe803721e70635ed132094bb9f085882e830a1d065f95fccc20d89d01",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::31-Treatment-of-Hypertension"
       ]
     },
     {
@@ -48058,6 +48312,13 @@
       ]
     },
     {
+      "first_field_hash": "ff131902636f50658b1e49fb8f2a5af545c1077eda794f477db1a7c343f0548f",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::31-Treatment-of-Hypertension",
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::31-Treatment-of-Hypertension::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "e168994799fd388840fe2156bc566f02159fbf7bc0c8caaaf9d6e4c2d000289d",
       "tags": [
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-2::09-Misc-Antimicrobials-&-Skin-Infections::Class-Content"
@@ -48300,6 +48561,12 @@
       "first_field_hash": "7f530c076d804caa86d029a5917e5d80e7d91d3233e1bce2b4e1d81c79559c71",
       "tags": [
         "JerryShen_AnKing_Tags::POM-3::Psychiatry::Mood-Disorders"
+      ]
+    },
+    {
+      "first_field_hash": "b66232119516cf28744f498bdb6f5949f437f8fd1e76d69ffa0048f95f6f8ef3",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::31-Treatment-of-Hypertension::Class-Content"
       ]
     },
     {
@@ -48604,10 +48871,23 @@
       ]
     },
     {
+      "first_field_hash": "85bb2d724e6bddbb29cfb2a0c41c06b9893dd4de51edaf6536263c3b618c23b5",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::31-Treatment-of-Hypertension::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "fc9a0dccbf80c43839afa07e1a58735d0ceabd4c25f622bce79f28410289ef3a",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::31-Treatment-of-Hypertension::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "6bd9e05965f173f6c46776182888c440ae745ea440e0a73a7acbefb48d0e213b",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::15-Pathophysiology-&-Treatment-of-Heart-Failure",
-        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::25-Coronary-Circulation"
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::25-Coronary-Circulation",
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::31-Treatment-of-Hypertension::Class-Content"
       ]
     },
     {
@@ -48617,9 +48897,21 @@
       ]
     },
     {
+      "first_field_hash": "61f30aaf5245245467d1a809ece9fef9ac02dff00d69fbb580203bfba1375b50",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::31-Treatment-of-Hypertension"
+      ]
+    },
+    {
       "first_field_hash": "5933406f0b3289cb75eb58478d36123766a55322dd8b127c8a865d5a43db31a1",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::30-Hypertension"
+      ]
+    },
+    {
+      "first_field_hash": "f788b8b94cbd8a76bf12f7b8facd97deebfda746589732c16f1c7cadcbed6f41",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::31-Treatment-of-Hypertension"
       ]
     },
     {
@@ -50073,6 +50365,12 @@
       ]
     },
     {
+      "first_field_hash": "67eaebbdc6cc48bacfaff686d1fef45e1dda5641f24e64f3cd8bb93b3c754b77",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::31-Treatment-of-Hypertension"
+      ]
+    },
+    {
       "first_field_hash": "f50fff005dce7e1670accda9d5428e055fcf248700f4807dd4339a5ff5d60432",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::18-Cystic-Fibrosis::Class-Content"
@@ -50598,6 +50896,12 @@
       "first_field_hash": "bb643b0c46321f4391a23cf4833256fdab95df2b4b6f1d3584465ca1a812fc76",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::21-The-Arterial-System::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "55b9ada0cf4c68e8e3ff41a3cac41c16a5f2a38cc993e2ccca2f68e1219b76e1",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::31-Treatment-of-Hypertension::Class-Content"
       ]
     },
     {
@@ -51401,6 +51705,12 @@
       ]
     },
     {
+      "first_field_hash": "93c208dd681fa2dae8591d1c7a61dcf1c81bc2f5acf1a132592b81eff129519f",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::31-Treatment-of-Hypertension::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "4e5d0e680d8a9a50b31b55d0dcfc6e6ff47e98edae0812c3c5b5e477a59d8214",
       "tags": [
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-1::05-Intro-to-Fungi"
@@ -51506,7 +51816,8 @@
     {
       "first_field_hash": "7b31cacc3d6279aecc7602813a24ae50cfb87d945581dfdee2ca9ad5001b1515",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::30-Hypertension"
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::30-Hypertension",
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::31-Treatment-of-Hypertension::Class-Content"
       ]
     },
     {
@@ -52430,6 +52741,12 @@
       ]
     },
     {
+      "first_field_hash": "ba637f3ec423da8da4be8a369410c6235754332975f72b169740a4420c39683b",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::31-Treatment-of-Hypertension"
+      ]
+    },
+    {
       "first_field_hash": "e85b082dd4b2090c4cd7e7cbb0486571ac69043da41b5210051455c7dcc1fccb",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::MSK-Block::02-Bone-&-Joint-Infections"
@@ -52527,6 +52844,12 @@
       "first_field_hash": "a5a40cf80ff2f51a1728ba132e24287edbfcf70c21d69a0649ca5494730a2278",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::22-Peripheral-Arterial-&-Aortic-Disease::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "50bd5c4513621c7d4d2e6e98cfa9103c32461a43b533d870ab60a84685fcaab5",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::31-Treatment-of-Hypertension"
       ]
     },
     {
