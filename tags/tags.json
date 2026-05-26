@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
   "author": "JerryShen",
-  "description": "msk tags",
-  "created": "2026-05-26T18:47:50.693161+00:00",
-  "updated": "2026-05-26T18:47:50.693161+00:00",
+  "description": "msk",
+  "created": "2026-05-26T19:18:34.593892+00:00",
+  "updated": "2026-05-26T19:18:34.593892+00:00",
   "tag_prefix": "JerryShen_AnKing_Tags",
   "tag_hierarchy": [
     "JerryShen_AnKing_Tags",
@@ -597,6 +597,11 @@
       "date": "2026-05-26T18:47:50.693161+00:00",
       "message": "msk tags",
       "note_count": 115
+    },
+    {
+      "date": "2026-05-26T19:18:34.593892+00:00",
+      "message": "msk",
+      "note_count": 8
     }
   ],
   "notes": [
@@ -20878,6 +20883,12 @@
       ]
     },
     {
+      "first_field_hash": "46f37b09fb378ae73dc5489a0ebc621b0c5b501151714a399926808bf01d13e7",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::MSK-Block::08-Pediatric-Orthopaedics::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "ff11c2911e77d204cf19305cdbb4b143f6662c52022efdcf18766ffda54a0be4",
       "tags": [
         "JerryShen_AnKing_Tags::Neurobiology::Exam-2::Tutorial-2-Spinal-Cord"
@@ -33657,6 +33668,12 @@
       ]
     },
     {
+      "first_field_hash": "73291ac8c7a2bad15187b9e6aa880a6e9af26eac16d3aafe2086eebf6d0d2581",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::MSK-Block::Extra-Upper-Limb-Pathology"
+      ]
+    },
+    {
       "first_field_hash": "1c7230f2777bafee792e834d2ceb4302fbefc44adb29b0b68d015fa8ff359c99",
       "tags": [
         "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-2-Upper-Limb::Anatomy::Class-Content"
@@ -34555,6 +34572,12 @@
       "first_field_hash": "a6ef0f81b311350365e098701432c544087f0c63e3f2b51a51ff8c33c0f6e0df",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::MSK-Block::01-Introduction-to-MSK"
+      ]
+    },
+    {
+      "first_field_hash": "714155be53c5304452f1cf9e40098ec1b13060c97097adac38fdafadf95b0b8d",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::MSK-Block::08-Pediatric-Orthopaedics"
       ]
     },
     {
@@ -44331,6 +44354,12 @@
       ]
     },
     {
+      "first_field_hash": "e0e3a9a499a11119277adc3f991d20ba0de773822221344a06f0c97b21a548c1",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::MSK-Block::08-Pediatric-Orthopaedics::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "3d7e71ac951fdd29dbe8bc25a346a90d537545d55bc81a78f57b81ff04560d71",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::MSK-Block::08-Pediatric-Orthopaedics::Class-Content"
@@ -46189,6 +46218,12 @@
       "first_field_hash": "449bf5e15ed68a5cb824af6b7ffa2e4b1cc48676e887af26d5bdbd24dfbeeefe",
       "tags": [
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-1::03-C.diff-&-Pseudomonas::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "bd105786d1eace20e9eaf7d23d154885aeecf35122a54348e0cb33acd1aba5ca",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::MSK-Block::08-Pediatric-Orthopaedics"
       ]
     },
     {
@@ -54729,6 +54764,12 @@
       "first_field_hash": "fc91074c03d0f734e70d8c6b5b72e5f454fcfb50c25be90114041e67744bf53d",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::MSK-Block::08-Pediatric-Orthopaedics"
+      ]
+    },
+    {
+      "first_field_hash": "b477b0718ee90b8005f70c1d6419f861e90f8388dc9f0f2ace22db6fd09a9322",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::MSK-Block::08-Pediatric-Orthopaedics::Class-Content"
       ]
     },
     {
