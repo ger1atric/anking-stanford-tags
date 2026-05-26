@@ -1,14 +1,14 @@
 {
   "schema_version": 1,
   "author": "JerryShen",
-  "description": "treatment of hypertension",
-  "created": "2026-05-24T05:23:01.893169+00:00",
-  "updated": "2026-05-24T05:23:01.893169+00:00",
+  "description": "",
+  "created": "2026-05-26T15:20:09.530740+00:00",
+  "updated": "2026-05-26T15:20:09.530740+00:00",
   "tag_prefix": "JerryShen_AnKing_Tags",
   "tag_hierarchy": [
     "JerryShen_AnKing_Tags",
     "JerryShen_AnKing_Tags::(✏️)-Tagged-by-Jerry-Shen",
-    "JerryShen_AnKing_Tags::(🛠️)-Last-Updated-05232026",
+    "JerryShen_AnKing_Tags::(🛠️)-Last-Updated-05262026",
     "JerryShen_AnKing_Tags::(🧋)-buymeacoffee.com/ger1atric",
     "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology",
     "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-1-Thorax",
@@ -334,6 +334,8 @@
     "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::30-Hypertension::Class-Content",
     "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::31-Treatment-of-Hypertension",
     "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::31-Treatment-of-Hypertension::Class-Content",
+    "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::32-Race-Based-Medicine-in-CV-Disease",
+    "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::32-Race-Based-Medicine-in-CV-Disease::Class-Content",
     "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::CV-Lab-03-Autonomic-Drugs-&-Clinical-Correlates",
     "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::CV-Lab-03-Autonomic-Drugs-&-Clinical-Correlates::Class-Content",
     "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::CV-Lab-04-Case-Studies",
@@ -349,6 +351,8 @@
     "JerryShen_AnKing_Tags::SOM-1::MSK-Block::04-Upper-Limb-Pathology::Class-Content",
     "JerryShen_AnKing_Tags::SOM-1::MSK-Block::05-Lower-Limb-Pathology",
     "JerryShen_AnKing_Tags::SOM-1::MSK-Block::05-Lower-Limb-Pathology::Class-Content",
+    "JerryShen_AnKing_Tags::SOM-1::MSK-Block::Extra-Lower-Limb-Pathology",
+    "JerryShen_AnKing_Tags::SOM-1::MSK-Block::Extra-Upper-Limb-Pathology",
     "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block",
     "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::01-Structure-and-Function-of-the-Lung",
     "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::01-Structure-and-Function-of-the-Lung::Class-Content",
@@ -581,7 +585,7 @@
     {
       "date": "2026-05-24T05:23:01.893169+00:00",
       "message": "treatment of hypertension",
-      "note_count": 69
+      "note_count": 124
     }
   ],
   "notes": [
@@ -1792,6 +1796,12 @@
       "first_field_hash": "3485b2934aaad95ba7986e3846d441adce0021036c6b56f1f01f66408033b65f",
       "tags": [
         "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-4-Pelvis::Embryology"
+      ]
+    },
+    {
+      "first_field_hash": "2d6936a9d370a9e5b03ce45969ad0f84b335e1b9c4c49e8872fae45bbeeb4bfb",
+      "tags": [
+        "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-4-Pelvis::Anatomy"
       ]
     },
     {
@@ -3659,7 +3669,8 @@
       "first_field_hash": "38d83556602694ead33eaadd934e6cee6e336c306d872a1fa73e0757b43be3b0",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::14-The-Cardiac-Cycle",
-        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::15-Pathophysiology-&-Treatment-of-Heart-Failure"
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::15-Pathophysiology-&-Treatment-of-Heart-Failure",
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::24-Ventricular-Vascular-Coupling::Class-Content"
       ]
     },
     {
@@ -3998,7 +4009,8 @@
     {
       "first_field_hash": "51a7b6ce4b9e58b4c8a7d9a4f96e7c4641ddf78dd6846c975c509df4b64461c9",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::10-Autonomic-Physiology-and-Pharmacology"
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::10-Autonomic-Physiology-and-Pharmacology",
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::24-Ventricular-Vascular-Coupling::Class-Content"
       ]
     },
     {
@@ -5092,7 +5104,8 @@
       "first_field_hash": "9f462e7f45805ac706e78d6195f5b6d2c78abfd5c59247515afba95764bd8ec2",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::14-The-Cardiac-Cycle",
-        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::15-Pathophysiology-&-Treatment-of-Heart-Failure"
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::15-Pathophysiology-&-Treatment-of-Heart-Failure",
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::24-Ventricular-Vascular-Coupling::Class-Content"
       ]
     },
     {
@@ -9082,6 +9095,12 @@
       "first_field_hash": "679fda81e456587748ba7f1f7ff9296dde737220f3d940f94704b90649d6dbe1",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::31-Treatment-of-Hypertension::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "c8e6a7524ab9c8ba82cbf138eda0431597ab1b4a40519a63878384c49b132401",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::31-Treatment-of-Hypertension"
       ]
     },
     {
@@ -16452,7 +16471,8 @@
     {
       "first_field_hash": "d13369945cb3c44ba4033e261f61dff51baf099d660e39e896cd739352799722",
       "tags": [
-        "JerryShen_AnKing_Tags::Biochemistry::Final::03-Lipid-Metabolism::Class-Content"
+        "JerryShen_AnKing_Tags::Biochemistry::Final::03-Lipid-Metabolism::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::29-Therapies-for-IHD::Class-Content"
       ]
     },
     {
@@ -16486,6 +16506,13 @@
       ]
     },
     {
+      "first_field_hash": "cc1fb0fb2ebede67232f28e5b53096956db1e126aec3b05034fc51b015fb1621",
+      "tags": [
+        "JerryShen_AnKing_Tags::Biochemistry::Final::03-Lipid-Metabolism::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::29-Therapies-for-IHD::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "0e51513328d96e9295f72a3a08922f7f53c2a75a4682484fd16804a70f72d7a0",
       "tags": [
         "JerryShen_AnKing_Tags::Biochemistry::Final::03-Lipid-Metabolism"
@@ -16493,6 +16520,12 @@
     },
     {
       "first_field_hash": "0e289cec8f0e18c62fb753e32a477951eeb777cf58d498b04f865bf7d61048ed",
+      "tags": [
+        "JerryShen_AnKing_Tags::Biochemistry::Final::03-Lipid-Metabolism"
+      ]
+    },
+    {
+      "first_field_hash": "5864d2b410e6c94750a786ffa19d97ae106edffc7202ad0d0647ab553ec7471c",
       "tags": [
         "JerryShen_AnKing_Tags::Biochemistry::Final::03-Lipid-Metabolism"
       ]
@@ -16535,7 +16568,20 @@
       ]
     },
     {
+      "first_field_hash": "23900c95c2219bc84891e5e08b76435b4bff641247783abc8b2520134fb7c178",
+      "tags": [
+        "JerryShen_AnKing_Tags::Biochemistry::Final::03-Lipid-Metabolism",
+        "JerryShen_AnKing_Tags::Biochemistry::Final::03-Lipid-Metabolism::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "a2fd528a6c72ff6b1ece533697aad2167a336c3dd421c3104c74ee940802dcae",
+      "tags": [
+        "JerryShen_AnKing_Tags::Biochemistry::Final::03-Lipid-Metabolism::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "8bc0ef42ea2292676a059fcb863ce448de6909a9ca8c694224309b6abf115e0d",
       "tags": [
         "JerryShen_AnKing_Tags::Biochemistry::Final::03-Lipid-Metabolism::Class-Content"
       ]
@@ -16625,6 +16671,12 @@
       ]
     },
     {
+      "first_field_hash": "e15b0fd48050cc81d8add96396ecab601fd4b236e0fc460ee4bba2343a6b0f68",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::29-Therapies-for-IHD::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "c48d7c4e7d0f0df8165fffe624e59eaf0b691bbf81067c18a12ba4acd5398a68",
       "tags": [
         "JerryShen_AnKing_Tags::Biochemistry::Final::03-Lipid-Metabolism::Class-Content"
@@ -16645,7 +16697,8 @@
     {
       "first_field_hash": "662cd085a4ee4082b6ea33886cb8cb0596530befa3ff4002aa8ee6f923d47545",
       "tags": [
-        "JerryShen_AnKing_Tags::Biochemistry::Final::03-Lipid-Metabolism::Class-Content"
+        "JerryShen_AnKing_Tags::Biochemistry::Final::03-Lipid-Metabolism::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::29-Therapies-for-IHD::Class-Content"
       ]
     },
     {
@@ -16665,6 +16718,36 @@
       "tags": [
         "JerryShen_AnKing_Tags::Biochemistry::Final::03-Lipid-Metabolism",
         "JerryShen_AnKing_Tags::Biochemistry::Final::04-Regulation"
+      ]
+    },
+    {
+      "first_field_hash": "95a4937374bd7770307548dde114e4e0d7df09a593e1a736adf0c7a634e2864b",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::26-Pathology-of-Atherosclerosis-&-IHD"
+      ]
+    },
+    {
+      "first_field_hash": "9806e50cbbe62572d7a156735aa236150c6f90ac608b27ddcc607f601b891a83",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::26-Pathology-of-Atherosclerosis-&-IHD"
+      ]
+    },
+    {
+      "first_field_hash": "d6c4a3bed0f8dcbc3da342ed8c838619f43b9984424a2d2fd03d8a3199e46560",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::26-Pathology-of-Atherosclerosis-&-IHD"
+      ]
+    },
+    {
+      "first_field_hash": "1103314c646182c2aca19ff17ef1b85cc9fdf458ca210f8b20bc772d7e56c2cf",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::28-IHD-&-Atherosclerosis"
+      ]
+    },
+    {
+      "first_field_hash": "120d2d3ad71eb0501215a44485981aa75279753b3cba9464548f062c232de9f6",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::26-Pathology-of-Atherosclerosis-&-IHD"
       ]
     },
     {
@@ -20164,6 +20247,12 @@
       "first_field_hash": "8e202869d6f3aa54e7ccd476b92728abab0f42bff589ef4b3d49133c1f76fbbf",
       "tags": [
         "JerryShen_AnKing_Tags::Neurobiology::Exam-3::Lec-Motor-Systems::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "d6b245e6d5bfc2d67cf991108fb18cb3996444a2df3ca7c2e8d58a7b282a7a59",
+      "tags": [
+        "JerryShen_AnKing_Tags::POM-2::Final::Clinical-Skills"
       ]
     },
     {
@@ -25899,6 +25988,12 @@
       ]
     },
     {
+      "first_field_hash": "9252dd1cc7cbeab3d3c5a1e1ae2ccefcc50ef2cd3f3bff03f5933d046635e8f8",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::MSK-Block::Extra-Lower-Limb-Pathology"
+      ]
+    },
+    {
       "first_field_hash": "f5d8c5ce1ba16a8df8195e057de3ad8ef323f8de20bfd02acc55a28f6f027b04",
       "tags": [
         "JerryShen_AnKing_Tags::Neurobiology::Exam-2::Lec-PNS-Disorders"
@@ -27333,14 +27428,14 @@
       "first_field_hash": "54d626e08c1c802b305dad30b7e54a82f102390cc92c7d4db112048935236e9c",
       "tags": [
         "JerryShen_AnKing_Tags::(✏️)-Tagged-by-Jerry-Shen",
-        "JerryShen_AnKing_Tags::(🛠️)-Last-Updated-05232026"
+        "JerryShen_AnKing_Tags::(🛠️)-Last-Updated-05262026"
       ]
     },
     {
       "first_field_hash": "54d626e08c1c802b305dad30b7e54a82f102390cc92c7d4db112048935236e9c",
       "tags": [
         "JerryShen_AnKing_Tags::(✏️)-Tagged-by-Jerry-Shen",
-        "JerryShen_AnKing_Tags::(🛠️)-Last-Updated-05232026"
+        "JerryShen_AnKing_Tags::(🛠️)-Last-Updated-05262026"
       ]
     },
     {
@@ -28146,6 +28241,42 @@
       ]
     },
     {
+      "first_field_hash": "1816e14a0ef02b93d89ce024575d48e9caf622fda0bbd82f8c9f6d70dfbb2c8e",
+      "tags": [
+        "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-6-Head-&-Neck-1::Anatomy"
+      ]
+    },
+    {
+      "first_field_hash": "b2f510f0dfca47b9c08ede9a04b4efe4e5465bda0c47b4c2f7db7165a6ad1f1e",
+      "tags": [
+        "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-1-Thorax::Anatomy"
+      ]
+    },
+    {
+      "first_field_hash": "3338f1f40ae9cc0e037fcbbf242a9f341bffd625b4ecafaeceda7e329860d71e",
+      "tags": [
+        "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-1-Thorax::Anatomy"
+      ]
+    },
+    {
+      "first_field_hash": "718e56cfe3e5d8f756f594646008c399de1672983f9232790ccff467bbf3622b",
+      "tags": [
+        "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-2-Upper-Limb::Anatomy"
+      ]
+    },
+    {
+      "first_field_hash": "5b24a696a376a226bc5f4c2dd5da52c1ac479f26ad169ab11c9d41a76e1f51a4",
+      "tags": [
+        "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-3-Abdomen::Anatomy"
+      ]
+    },
+    {
+      "first_field_hash": "0fce211dbf58b6e07f63069298fd5a6f249b4b86d8ac870b159663a0b3e8e292",
+      "tags": [
+        "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-3-Abdomen::Anatomy"
+      ]
+    },
+    {
       "first_field_hash": "1a335248d521e3cd0c6ecd8a4396d6df8e74a7af99b0a79ec8646b2318a81cf0",
       "tags": [
         "JerryShen_AnKing_Tags::Immunology::Final::GI-&-Mucosal-Immunity"
@@ -28167,6 +28298,24 @@
       "first_field_hash": "0f606e71a58c980c47b9d98ff1396bdf2e1eb287ed4cb92fe193bdf4bcff6fa8",
       "tags": [
         "JerryShen_AnKing_Tags::Immunology::Final::GI-&-Mucosal-Immunity"
+      ]
+    },
+    {
+      "first_field_hash": "6aef776ce91eb68dc9cb95fbace5c5f8763bd93f83a06063c0c04aa854f98595",
+      "tags": [
+        "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-4-Pelvis::Anatomy"
+      ]
+    },
+    {
+      "first_field_hash": "c28047fd73a9eea4df209b6576a291643dc49f499e2157ebe7f4e035110b96ff",
+      "tags": [
+        "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-3-Abdomen::Anatomy"
+      ]
+    },
+    {
+      "first_field_hash": "a7bab8bfdb94a4acfae535dee6514542d862e64fc3c56bffdc6a4227a3ab5e40",
+      "tags": [
+        "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-5-Lower-Limb::Anatomy"
       ]
     },
     {
@@ -29838,6 +29987,12 @@
       ]
     },
     {
+      "first_field_hash": "42d4ddd459787ca24a6aa98b2f180c18b99c7e7535f036674388f40caad449d4",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::MSK-Block::Extra-Upper-Limb-Pathology"
+      ]
+    },
+    {
       "first_field_hash": "01a8373c74aa55ee13e9ce45abe95717eb9963b4a961294ddc9b9a790d2d51cb",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::MSK-Block::04-Upper-Limb-Pathology::Class-Content"
@@ -29924,6 +30079,12 @@
       ]
     },
     {
+      "first_field_hash": "ce68c9c4fd5d862665855dd1aa1317737392d68255c69755fdf0f109db5a4d05",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::MSK-Block::03-Bone-&-Soft-Tissue-Neoplasms"
+      ]
+    },
+    {
       "first_field_hash": "dce379557f95b2389c310ba4885adafe9aa0a98035732a232da42b6f185c2a00",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::MSK-Block::03-Bone-&-Soft-Tissue-Neoplasms::Class-Content"
@@ -29949,6 +30110,12 @@
     },
     {
       "first_field_hash": "d829c49adcba95726a485597968cf280b60dd386ba65798dbae0b482aee5fae7",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::MSK-Block::03-Bone-&-Soft-Tissue-Neoplasms"
+      ]
+    },
+    {
+      "first_field_hash": "b9f93813cc9b6ba4145158596e258282a76fd7f7ed06b88cfa5ca51eeb485029",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::MSK-Block::03-Bone-&-Soft-Tissue-Neoplasms"
       ]
@@ -30005,6 +30172,13 @@
       "first_field_hash": "f058f4a7533b74d9b501122ed2448d8765c4e6f116cc83f3d61bdca5f70076b2",
       "tags": [
         "JerryShen_AnKing_Tags::Genetics::Exam-2-Genetics::08.4-Cancer-Genetics"
+      ]
+    },
+    {
+      "first_field_hash": "ee585656a04b92a27a0c7b1e20c336593dd351ac0cf87f37a6994fe8bf7204c7",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::MSK-Block::03-Bone-&-Soft-Tissue-Neoplasms",
+        "JerryShen_AnKing_Tags::SOM-1::MSK-Block::03-Bone-&-Soft-Tissue-Neoplasms::Class-Content"
       ]
     },
     {
@@ -32480,6 +32654,12 @@
       ]
     },
     {
+      "first_field_hash": "ff1c8444fe8cabf9a90e5fea1f7b68bb3b3302fa42ad571d529a9483a030cd5e",
+      "tags": [
+        "JerryShen_AnKing_Tags::POM-2::Final::Clinical-Skills::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "691d55687e497f08e4d9f44cdc979f8279de3c006ab42518aad847a94f118b3a",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::MSK-Block::05-Lower-Limb-Pathology::Class-Content"
@@ -32511,9 +32691,22 @@
       ]
     },
     {
+      "first_field_hash": "14262a8321dbecfbc105782336cb84a346748ae998ac02391faf1218cebd399a",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::MSK-Block::05-Lower-Limb-Pathology::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "43ee80a8670413dc0caf4c8fa44d26f2dfcc5e952e6ada6f3cc3b8be84c79616",
       "tags": [
         "JerryShen_AnKing_Tags::POM-2::Final::Clinical-Skills::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-1::MSK-Block::05-Lower-Limb-Pathology"
+      ]
+    },
+    {
+      "first_field_hash": "cd038e412354bd410a6a8798b3e2223813b42c1bea5dfc49cb3807b48f122918",
+      "tags": [
+        "JerryShen_AnKing_Tags::POM-2::Final::Clinical-Skills",
         "JerryShen_AnKing_Tags::SOM-1::MSK-Block::05-Lower-Limb-Pathology"
       ]
     },
@@ -32525,9 +32718,41 @@
       ]
     },
     {
+      "first_field_hash": "4f2b02641a2c413f85113e464e0b5a9f66d664e9c42932f99a01f842c74135c7",
+      "tags": [
+        "JerryShen_AnKing_Tags::POM-2::Final::Clinical-Skills",
+        "JerryShen_AnKing_Tags::SOM-1::MSK-Block::Extra-Lower-Limb-Pathology"
+      ]
+    },
+    {
+      "first_field_hash": "15a6a50577d068d76a45c6922ac15ad408223281603915c129032e745c860476",
+      "tags": [
+        "JerryShen_AnKing_Tags::POM-2::Final::Clinical-Skills"
+      ]
+    },
+    {
+      "first_field_hash": "e8450c969877bc1707f559aa586bb6f5efe20a4bc1c925543573cf042a427cd9",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::MSK-Block::05-Lower-Limb-Pathology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "31bf35d836cd64a9955773b580e377fe1143e9f9512d457c1686b59a1093bde3",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::MSK-Block::05-Lower-Limb-Pathology"
+      ]
+    },
+    {
       "first_field_hash": "5f663209e2ccc4a935b7582e3b1c8990b669d2bbbc59899faa8c446c8b2a45a6",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::MSK-Block::05-Lower-Limb-Pathology"
+      ]
+    },
+    {
+      "first_field_hash": "b6720628fb05bf3f63fbef284bff7384ccdfb9020b5206bac3a983c7dd72706f",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::MSK-Block::05-Lower-Limb-Pathology",
+        "JerryShen_AnKing_Tags::SOM-1::MSK-Block::05-Lower-Limb-Pathology::Class-Content"
       ]
     },
     {
@@ -32871,9 +33096,45 @@
       ]
     },
     {
+      "first_field_hash": "9f6c407072343834a371cfef267c36299f4071360d04825a17f54f35e0cbaa88",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::MSK-Block::05-Lower-Limb-Pathology"
+      ]
+    },
+    {
+      "first_field_hash": "be2f19656d8f62d9488fb4c9679df2681d8c55f87fdb3a9a43760f7a8b2d1639",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::MSK-Block::05-Lower-Limb-Pathology"
+      ]
+    },
+    {
+      "first_field_hash": "6493d1d11e013f1aab55248998323c996ea457c8a8999e27be7260cdd45bc86c",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::MSK-Block::Extra-Lower-Limb-Pathology"
+      ]
+    },
+    {
+      "first_field_hash": "1d10b5f4dc084ea10128ad85ded45e12592ef47cdd43ec33f6e9f7846f5b88b8",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::MSK-Block::Extra-Lower-Limb-Pathology"
+      ]
+    },
+    {
+      "first_field_hash": "ce5c3e30009d642112b0ac348ea033e8937f413d9385b83fefc7cc5995f28b05",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::MSK-Block::Extra-Lower-Limb-Pathology"
+      ]
+    },
+    {
       "first_field_hash": "c3580efb8669a3998a34e4697f792fac5c2f198d75855aec078072b89ff2a34e",
       "tags": [
         "JerryShen_AnKing_Tags::POM-2::Final::Clinical-Skills"
+      ]
+    },
+    {
+      "first_field_hash": "512cef1f34f4b959de53bab6bdc22fb3f7746661d56f96b95df8ce7e9c331e10",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::MSK-Block::Extra-Lower-Limb-Pathology"
       ]
     },
     {
@@ -32975,6 +33236,12 @@
       ]
     },
     {
+      "first_field_hash": "f4f92fc13edd5d82a17e1a761896c34840b7a4b8e0b039812dabff5a4dd831f1",
+      "tags": [
+        "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-2-Upper-Limb::Anatomy"
+      ]
+    },
+    {
       "first_field_hash": "6f47552770b25ae389e71421aa7fec9f5904dc65d6ca21acdb8941693a6820dd",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::14-Lung-Pharmacology"
@@ -33051,6 +33318,12 @@
       ]
     },
     {
+      "first_field_hash": "5f1551d5cbdf4a9e546ae61e38cf2b87f32743d0cd3f1cdde557a9d399f588d3",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::MSK-Block::Extra-Upper-Limb-Pathology"
+      ]
+    },
+    {
       "first_field_hash": "d86e40a8aa05336ffc585a513ae70ebc53524800579279da1c6f8204747eab2b",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::MSK-Block::04-Upper-Limb-Pathology::Class-Content"
@@ -33066,6 +33339,12 @@
       "first_field_hash": "e5f1a995e0f714456b3e24d19e1512bb7d3c7352f4be3d867d51946d4d3d9adb",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::MSK-Block::04-Upper-Limb-Pathology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "11175f6c3700ec66de843980cac1dc02c1899f2806f20143a4a96c2ff16c754e",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::MSK-Block::04-Upper-Limb-Pathology"
       ]
     },
     {
@@ -33211,6 +33490,48 @@
       ]
     },
     {
+      "first_field_hash": "4f3f0e0e66fd45ab4ba716616645116b7f1b1aff110f7aff934ea9d64720be23",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::MSK-Block::Extra-Upper-Limb-Pathology"
+      ]
+    },
+    {
+      "first_field_hash": "cf0d2d6d1f582259ed671183858921fbcd378761540bc6205f2a27ee3ef0be1f",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::MSK-Block::Extra-Upper-Limb-Pathology"
+      ]
+    },
+    {
+      "first_field_hash": "5c224d56506373fd11edc5cecea383da197eb54c2556e99a4706f324ce94a787",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::MSK-Block::Extra-Upper-Limb-Pathology"
+      ]
+    },
+    {
+      "first_field_hash": "8b6fad330b97970838a26307243a425303e2abd4fe0982bdc2150aa8f20c0673",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::MSK-Block::Extra-Upper-Limb-Pathology"
+      ]
+    },
+    {
+      "first_field_hash": "ecdcd9521f94e4db763cf5a8644a7313f489114f9096cb13cd358ab73439ad35",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::MSK-Block::Extra-Upper-Limb-Pathology"
+      ]
+    },
+    {
+      "first_field_hash": "b1cab0c60a646d0016f89875e7bb80846c32d7146cc9820359bc72bb9f817177",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::MSK-Block::Extra-Upper-Limb-Pathology"
+      ]
+    },
+    {
+      "first_field_hash": "cb568af9df2056e00bdf0a12ad0aec6269800158f702479104b53d4cb49388bd",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::MSK-Block::Extra-Upper-Limb-Pathology"
+      ]
+    },
+    {
       "first_field_hash": "74a41ea29fc515c4a758199b111f863535935041ada9ae0dbb0cbfe223649174",
       "tags": [
         "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-2-Upper-Limb::Anatomy::Class-Content"
@@ -33220,6 +33541,18 @@
       "first_field_hash": "cea8205cd074a6368701e19a1bba3e861fafedff5d06ce6937d98821e72a01b4",
       "tags": [
         "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-2-Upper-Limb::Anatomy::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "b592847969ad8c148193ec8524a204d005bf5d3ecea316512a4492a699321559",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::MSK-Block::Extra-Upper-Limb-Pathology"
+      ]
+    },
+    {
+      "first_field_hash": "79f79fcf2680d2cd65b058f90c30ce1cd57e9112c75595871bb229ce07846449",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::MSK-Block::Extra-Upper-Limb-Pathology"
       ]
     },
     {
@@ -33235,9 +33568,106 @@
       ]
     },
     {
+      "first_field_hash": "e64d015959745519b86cdfb50807f10e731a198e986a82f31e8383117ce499cf",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::MSK-Block::Extra-Upper-Limb-Pathology"
+      ]
+    },
+    {
+      "first_field_hash": "ec8c72346b28cb83ec8ee444975a741cf384379ff59a4b5e4cece262882068bc",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::MSK-Block::Extra-Upper-Limb-Pathology"
+      ]
+    },
+    {
+      "first_field_hash": "1eeb61a9baa9167aeda94f2aab7a793f349a8b625c73efba87aee892a4f86500",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::MSK-Block::Extra-Upper-Limb-Pathology"
+      ]
+    },
+    {
+      "first_field_hash": "666c9f137f263f76b3bab89bc11eecb78d0b88612d24e6ca316e42fea93b2114",
+      "tags": [
+        "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-2-Upper-Limb::Anatomy",
+        "JerryShen_AnKing_Tags::SOM-1::MSK-Block::Extra-Upper-Limb-Pathology"
+      ]
+    },
+    {
+      "first_field_hash": "3b2575b591d8d6d8160c6ec502fb141d61ed9eeb3a7c13c82e7bcecd121edcca",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::MSK-Block::Extra-Upper-Limb-Pathology"
+      ]
+    },
+    {
+      "first_field_hash": "0e98b97de3fe2833a498180e74661cef71ab01fa2cea4596bcca9e2edaa01dbc",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::MSK-Block::Extra-Upper-Limb-Pathology"
+      ]
+    },
+    {
+      "first_field_hash": "5eb8f25a16b6586f39030a225b6964fcd6e1f2abac8c31a052733b0d8b489319",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::MSK-Block::Extra-Upper-Limb-Pathology"
+      ]
+    },
+    {
+      "first_field_hash": "da9069b1145fe6373d3a0c19e9f6aff6900413cc4a189bfa11818df89717ad3e",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::MSK-Block::Extra-Upper-Limb-Pathology"
+      ]
+    },
+    {
+      "first_field_hash": "2616a9c659d340b54297f5f9e490265ac2ae95f972f4c1f3fbb07abba9aa263f",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::MSK-Block::Extra-Upper-Limb-Pathology"
+      ]
+    },
+    {
+      "first_field_hash": "088e837644f6c18994f6400041ec0539b9fa32936cd94412c6eb1ca6f4f3b2ca",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::MSK-Block::Extra-Upper-Limb-Pathology"
+      ]
+    },
+    {
       "first_field_hash": "51a8156a7475d68bf649fed45020cbdf1cbcbd7c11bd023bf22c62ac54bc14f8",
       "tags": [
         "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-2-Upper-Limb::Anatomy"
+      ]
+    },
+    {
+      "first_field_hash": "5789998c2e1b2f04cb267880f7793d8f02648892bba1b19a49225423c34a2e83",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::MSK-Block::Extra-Upper-Limb-Pathology"
+      ]
+    },
+    {
+      "first_field_hash": "3a241003acfa43d0e2c6c2e013cae429a10be38d944299e7d8fd850400de9dab",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::MSK-Block::Extra-Upper-Limb-Pathology"
+      ]
+    },
+    {
+      "first_field_hash": "7515ae59550a14069f706ffb7909d3be31837c81e0bc1d9d9b30fa894fad2deb",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::MSK-Block::Extra-Upper-Limb-Pathology"
+      ]
+    },
+    {
+      "first_field_hash": "da9b767597a2faeb28aab3b1ea4bb66d426d200416226e20969b6eb0ff7b28c6",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::MSK-Block::Extra-Upper-Limb-Pathology"
+      ]
+    },
+    {
+      "first_field_hash": "255176d6d96de3f9058907003f6ac25c05d4587847c0c6bce261752242e46e83",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::MSK-Block::Extra-Upper-Limb-Pathology"
+      ]
+    },
+    {
+      "first_field_hash": "549c5215bc9649d230a11fe4c5deb6945f4455948f79ebd7f83cef1107d5bbac",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::MSK-Block::Extra-Upper-Limb-Pathology"
       ]
     },
     {
@@ -33247,15 +33677,64 @@
       ]
     },
     {
+      "first_field_hash": "d3d6fd1cb63a43cc4bd3d8f3216cd05174afbf3c6cec00629ec77027cba7d2d0",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::MSK-Block::Extra-Upper-Limb-Pathology"
+      ]
+    },
+    {
       "first_field_hash": "a618b4766821ccf011e448c5ff361b664498e16134382329443cce4a5109fffe",
       "tags": [
         "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-1-Thorax::Anatomy::Class-Content"
       ]
     },
     {
+      "first_field_hash": "78b7ebc798bb74a9fc934eb76c9851a9a7eae64f995ad012fa307a93ad934943",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::MSK-Block::Extra-Upper-Limb-Pathology"
+      ]
+    },
+    {
       "first_field_hash": "b26936acbd4b5e3dce123787c4d2bcbe68b0b2c65ed0f5a8175cb2c1c9f26e6b",
       "tags": [
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-2::08-Other-Antibiotics-&-Mycobacteria"
+      ]
+    },
+    {
+      "first_field_hash": "b66cccbd798456c32d7d7ad99e5b63090d6e20e4b8f94d273a8d4178ecbf8620",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::MSK-Block::Extra-Upper-Limb-Pathology"
+      ]
+    },
+    {
+      "first_field_hash": "d7abb4aafb47deccc29a58ad36ce62f28a9dd36099f4d0c94f7762da51dedf8d",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::MSK-Block::Extra-Upper-Limb-Pathology"
+      ]
+    },
+    {
+      "first_field_hash": "86878534df013467264c2f5de35edf71893dc0cb1ebc4a591298650278955747",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::MSK-Block::Extra-Upper-Limb-Pathology"
+      ]
+    },
+    {
+      "first_field_hash": "63c2b9e49e1ee8ab874f1555d0ea80dfb4080333e9f8713c77aae2bf6f94760d",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::MSK-Block::Extra-Upper-Limb-Pathology"
+      ]
+    },
+    {
+      "first_field_hash": "1ec4093d55bc908cebe7c0767a6fb99d2582ec8e2609e412b0646d8d97622124",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::MSK-Block::Extra-Upper-Limb-Pathology"
+      ]
+    },
+    {
+      "first_field_hash": "bd46a9c0a1cf0122acb1e76697e105cb7ce08e03ee946f2c126fc930d35286b5",
+      "tags": [
+        "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-2-Upper-Limb::Anatomy",
+        "JerryShen_AnKing_Tags::SOM-1::MSK-Block::Extra-Upper-Limb-Pathology"
       ]
     },
     {
@@ -33317,6 +33796,24 @@
       "first_field_hash": "23189c6000ced94f03e4c27ef5f3ebc8f486d5467c3124af4e379d5eb616a2b7",
       "tags": [
         "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-5-Lower-Limb::Anatomy::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "ac2433e67e843f1ccf852fb426589848668722be1ea64a7200b05094feba7efe",
+      "tags": [
+        "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-5-Lower-Limb::Anatomy::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "90e628a0913749a780d7ccd32f5b7cd720476ab5351ae0f02efae658d291ce70",
+      "tags": [
+        "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-5-Lower-Limb::Anatomy"
+      ]
+    },
+    {
+      "first_field_hash": "b668ecd300b09ce5910a50e6b0174c13deafcc8ec8bbf726e0f354da2e873ec7",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::MSK-Block::Extra-Lower-Limb-Pathology"
       ]
     },
     {
@@ -33393,6 +33890,30 @@
       "first_field_hash": "c187ab7eec2ae9aa7ebcb21237b61a32f5fb162e23d33eb601efe01e0430267b",
       "tags": [
         "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-5-Lower-Limb::Anatomy::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "935c8d03a7cc510908cc8876435f50b19bdd8ebc54189264f291a1ca8e19de2c",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::MSK-Block::Extra-Lower-Limb-Pathology"
+      ]
+    },
+    {
+      "first_field_hash": "d5ae3b79d6fe7f3477a6eda2fe5137fc70703c60e3806f20ac8fdae995c1c364",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::MSK-Block::Extra-Lower-Limb-Pathology"
+      ]
+    },
+    {
+      "first_field_hash": "67e7c1e25f4e3f690dea4c41188854ca64b3419afa63fe323b8a714e93c02bf9",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::MSK-Block::Extra-Lower-Limb-Pathology"
+      ]
+    },
+    {
+      "first_field_hash": "d817c4d5a6d366d63d3a7a1d02c1b13a3ec8ec7854574ae972034dc5ae5466c7",
+      "tags": [
+        "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-2-Upper-Limb::Anatomy"
       ]
     },
     {
@@ -37074,6 +37595,12 @@
       "first_field_hash": "7584cd501aa70c94acbd6c0a8f16c427c2992a8ee6d08bb39ebd6b64c399ec97",
       "tags": [
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-1::05-Intro-to-Fungi"
+      ]
+    },
+    {
+      "first_field_hash": "5bbc31f2c399c47b8e19f8ab47af26ae6155cc6087006d9af0f86789dc900396",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::MSK-Block::02-Bone-&-Joint-Infections"
       ]
     },
     {
@@ -43492,6 +44019,12 @@
       ]
     },
     {
+      "first_field_hash": "1e40e5109d11106f48e519c60cdc886f6b36d48d6c7db533b15fbeb971e38969",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::MSK-Block::Extra-Upper-Limb-Pathology"
+      ]
+    },
+    {
       "first_field_hash": "e250cda6920ba394eb3492bc47f907eb5b7102534aa51ee767c45ea017bbf2c4",
       "tags": [
         "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-6-Head-&-Neck-1::Histology::Class-Content"
@@ -43522,6 +44055,12 @@
       "tags": [
         "JerryShen_AnKing_Tags::Immunology::Final::Antigen-Presentation",
         "JerryShen_AnKing_Tags::Immunology::Final::Solid-Organ-&-HSC-Transplantation"
+      ]
+    },
+    {
+      "first_field_hash": "d063b18f9f8b26eb0a49d25827879d591dfeca3e6dcfeb1b47ce303b629981bf",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::MSK-Block::Extra-Upper-Limb-Pathology"
       ]
     },
     {
@@ -43997,6 +44536,12 @@
       ]
     },
     {
+      "first_field_hash": "1f586f2b0c8f1ff50fee67fec8532f1b5668f7365c6f95bd9119dcf6cd001bc1",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::MSK-Block::Extra-Upper-Limb-Pathology"
+      ]
+    },
+    {
       "first_field_hash": "7898418865f4aab8afaaca04d838b50293a7beea1b1af9628cab7cddb796e04a",
       "tags": [
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-1::04-Intro-to-Viruses::Class-Content",
@@ -44023,6 +44568,12 @@
       ]
     },
     {
+      "first_field_hash": "19d23d10f8956be8310009bf4dd33bc5c80221075327e50c727b22cf6bef38f4",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::MSK-Block::04-Upper-Limb-Pathology"
+      ]
+    },
+    {
       "first_field_hash": "9948fbe4d1802cf5ed9aaf54690fc6b23cf6e16f8c342a7cbd4b084d501a16ec",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::MSK-Block::04-Upper-Limb-Pathology"
@@ -44038,6 +44589,30 @@
       "first_field_hash": "ad8b83acc622da88aca6f86a6e182711a487dca19549fc946b32a6e697a70ed2",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::MSK-Block::04-Upper-Limb-Pathology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "efcc135e58cd4ca4184fcbdb758e84b8b6c386e154cffa6624dfad36090eef30",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::MSK-Block::Extra-Lower-Limb-Pathology"
+      ]
+    },
+    {
+      "first_field_hash": "75fd1fd439b77b92cf8795f14c63288206b02d45caeca0b11478dfda1ba49f30",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::MSK-Block::Extra-Lower-Limb-Pathology"
+      ]
+    },
+    {
+      "first_field_hash": "f26e3954d4f378bd1fa0d250d77b0b6153036fbfe3549fdf3a275d03b787f2f1",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::MSK-Block::Extra-Lower-Limb-Pathology"
+      ]
+    },
+    {
+      "first_field_hash": "e57e00f1d3b6a697587d10f863a40123d458c1e96e830937939a5938622036e3",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::MSK-Block::Extra-Lower-Limb-Pathology"
       ]
     },
     {
@@ -45458,6 +46033,12 @@
       ]
     },
     {
+      "first_field_hash": "483808b8a973ef5f45abf2de97c4b971004dc889e75bb1d565de28e7243485ee",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::31-Treatment-of-Hypertension"
+      ]
+    },
+    {
       "first_field_hash": "80451f098ad060b0a66217cc3f6b9b77cd472dadeb5592f22fbeb72e510db8b2",
       "tags": [
         "JerryShen_AnKing_Tags::Genetics::Exam-2-Genetics::06-Complex-Inheritance-Patterns"
@@ -46028,6 +46609,18 @@
       ]
     },
     {
+      "first_field_hash": "77f86e3eebeb4f5cf3833e8957caf905a7fcee7d30ddd10c58617bb85cba42ef",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::MSK-Block::Extra-Upper-Limb-Pathology"
+      ]
+    },
+    {
+      "first_field_hash": "35775d3a904e603fcfb202cf1424c92767828221aaa1c14887af07f1134c28c3",
+      "tags": [
+        "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-2-Upper-Limb::Anatomy"
+      ]
+    },
+    {
       "first_field_hash": "282cfbb720f67eb1fc1a9ebe4f19ee9a3fac7da142de575f8d5c3d4159834a29",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::22-Respiratory-Tract-Case-Studies"
@@ -46114,7 +46707,8 @@
     {
       "first_field_hash": "d2b52af7d7b5b98bb5164f765d4ffd793da0d3573b828440698644d85b01821e",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::15-Pathophysiology-&-Treatment-of-Heart-Failure"
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::15-Pathophysiology-&-Treatment-of-Heart-Failure",
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::32-Race-Based-Medicine-in-CV-Disease::Class-Content"
       ]
     },
     {
@@ -46622,6 +47216,12 @@
       ]
     },
     {
+      "first_field_hash": "359a016dfab680a08d3a0fc2eb9169581ef18e23f363551c68967cb23da5ae1a",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::MSK-Block::Extra-Upper-Limb-Pathology"
+      ]
+    },
+    {
       "first_field_hash": "cae1f11ae5e567835ba083d68bc49e10c0e5dac0954b8621e6b886ed53803446",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::26-Pulmonary-Cases-&-Miscellaneous-Diseases::Class-Content"
@@ -46799,6 +47399,12 @@
       ]
     },
     {
+      "first_field_hash": "cf819983c8aa70b2dff5f801642689309ce0115204b2b79d2e047e882f7ed954",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::MSK-Block::Extra-Upper-Limb-Pathology"
+      ]
+    },
+    {
       "first_field_hash": "d6c18ce946379f8d1209c96a4bf7142f8cfd28e585c511aad12e45cd65591fd8",
       "tags": [
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-2::10-Biologics-Ectoparasites-&-Clinical-Cases"
@@ -46845,6 +47451,12 @@
       "first_field_hash": "c8bf016594e9f2259cc03f089aa841afa0471888fc32bd00af26507529d60579",
       "tags": [
         "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-4-Pelvis::Anatomy"
+      ]
+    },
+    {
+      "first_field_hash": "420169ac0ddbc91fa0d1de703111ffe2afd918d07812938e2ddc86d57be50cd3",
+      "tags": [
+        "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-6-Head-&-Neck-1::Anatomy"
       ]
     },
     {
@@ -46920,6 +47532,18 @@
       "first_field_hash": "2040c91a02052ce0ced5a071f81052efb0f414b8d6eac661469d54df4e867f88",
       "tags": [
         "JerryShen_AnKing_Tags::POM-1::Final::Epidemiology"
+      ]
+    },
+    {
+      "first_field_hash": "c8d941c8b7a53833644f8803b2c5cb9fdb1567fbadba4197eca54ae748138a37",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::MSK-Block::Extra-Upper-Limb-Pathology"
+      ]
+    },
+    {
+      "first_field_hash": "5e86a8335ee158687d7929c6c9106dc069144891d08009bd61f0a1af88fd181f",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::MSK-Block::Extra-Upper-Limb-Pathology"
       ]
     },
     {
@@ -47463,6 +48087,12 @@
       ]
     },
     {
+      "first_field_hash": "3f86a408ac563225eb28e60c70792150d2b9585ae6c99d303f04b1460e45e563",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::MSK-Block::Extra-Upper-Limb-Pathology"
+      ]
+    },
+    {
       "first_field_hash": "564e2ee3e3db6f21193b210fc95160d63d10f2c844c7ac991525bfbb5da4ad2d",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::MSK-Block::04-Upper-Limb-Pathology"
@@ -47831,6 +48461,12 @@
       "first_field_hash": "96a3b7dd03623ae3e5337f50fb308f163af20005a4ba0024bb34a5ddb98aa8a0",
       "tags": [
         "JerryShen_AnKing_Tags::POM-2::Final::Clinical-Skills"
+      ]
+    },
+    {
+      "first_field_hash": "fff3af812009c338e2796bc63cc59ebd33e312601864ffec010703a9e57da39b",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::MSK-Block::Extra-Upper-Limb-Pathology"
       ]
     },
     {
@@ -48389,6 +49025,12 @@
       "first_field_hash": "a8dfba07d7d2d27c8a61ee1b3398df9ba2c142b540d4f0a8066978bbc026111b",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::MSK-Block::05-Lower-Limb-Pathology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "460d402ca45f231ad48a222368b9847e157a3ca3e6e6ab235c691c33813ed400",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::MSK-Block::01-Introduction-to-MSK::Class-Content"
       ]
     },
     {
@@ -48974,6 +49616,12 @@
       "first_field_hash": "2f2ef906c0d3593c4c6aef42be2b760e07f184c0efbbb9edd5885e4f7ec8a004",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::15-Pathophysiology-&-Treatment-of-Heart-Failure::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "389227c32c946b912d59781493293991a34fa1f6c9535cc951926dce164b5e9a",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::15-Pathophysiology-&-Treatment-of-Heart-Failure"
       ]
     },
     {
@@ -49684,6 +50332,12 @@
       ]
     },
     {
+      "first_field_hash": "5b9e30f700f7ad040602cdc42eb439a543f632330449eb1843da47166c70ea34",
+      "tags": [
+        "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-1-Thorax::Anatomy::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "92a340700eb9d9acfce176e04db60e848b8372693c5e6682bc3a2ed1703582f0",
       "tags": [
         "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-5-Lower-Limb::Anatomy"
@@ -49696,9 +50350,21 @@
       ]
     },
     {
+      "first_field_hash": "d2af69afb0ee1dacef1974e89b6931233ce90692068907b60e7f02eb11bf8aa2",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::MSK-Block::Extra-Upper-Limb-Pathology"
+      ]
+    },
+    {
       "first_field_hash": "daa4f48c44994fadcc17ef79bd4bd2a25a7896743f4f137e313567ae1e9473c6",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::17-Valvular-Disease::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "7802cb1fccd394b2c0615e30b5cfdbef18f920199fbf4c41a235bdcc2f1259c0",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::MSK-Block::Extra-Upper-Limb-Pathology"
       ]
     },
     {
@@ -49931,7 +50597,8 @@
     {
       "first_field_hash": "8a12afa15b827db8dd130bf8d11fd52bbe37415bc749dcac35ee27d36beb2965",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::15-Pathophysiology-&-Treatment-of-Heart-Failure"
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::15-Pathophysiology-&-Treatment-of-Heart-Failure",
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::32-Race-Based-Medicine-in-CV-Disease::Class-Content"
       ]
     },
     {
@@ -50419,6 +51086,12 @@
       ]
     },
     {
+      "first_field_hash": "2a58217ca01f38a1fe641b81221adeaf94dc9b9d85b308061d05cc34bdaf4110",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::MSK-Block::Extra-Lower-Limb-Pathology"
+      ]
+    },
+    {
       "first_field_hash": "49c491bd1213785e5241ec43b5c595fd4a219b8c133b3025b9627b3102cd929f",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::19-Central-&-Peripheral-Control-of-Circulation"
@@ -50772,6 +51445,12 @@
       "first_field_hash": "11c44e16301a44add1150b2b6ca9907f2f2eee63fbde5a503cea0ae1cec77800",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::15-Pathophysiology-&-Treatment-of-Heart-Failure"
+      ]
+    },
+    {
+      "first_field_hash": "e4e5529b124ee68718ab571d0579be26d94d54fcd48132a39afb0bcd1aa99ebe",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::MSK-Block::04-Upper-Limb-Pathology"
       ]
     },
     {
@@ -51141,6 +51820,12 @@
       ]
     },
     {
+      "first_field_hash": "25f015da0047d9f2969687b52b84e1afb845f69177ff9380ea8a1e825a488547",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::MSK-Block::Extra-Upper-Limb-Pathology"
+      ]
+    },
+    {
       "first_field_hash": "2dfce28b7ce602a3cb799394db64ac55b8880e75f3ddcca6aa757e2b95540b67",
       "tags": [
         "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-2-Upper-Limb::Anatomy::Class-Content"
@@ -51150,6 +51835,12 @@
       "first_field_hash": "2d10a0b3b8c94562a7a78b8efe26754d39a09387396652b59dc0b4a3d1400628",
       "tags": [
         "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-2-Upper-Limb::Anatomy::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "9b8bf080ace13b96f3269b2cc243ec2aa2cd8f285953a90aa522c3898ca4fd03",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::MSK-Block::Extra-Upper-Limb-Pathology"
       ]
     },
     {
@@ -52518,6 +53209,12 @@
       ]
     },
     {
+      "first_field_hash": "17558fee841c96aa6fa000606acc1bf3b532590cd8921d558996195abb580c36",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::MSK-Block::03-Bone-&-Soft-Tissue-Neoplasms::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "5d0d6b4d65479612d881d78af91038a5c937f8a82dd622f1bd3f2f9eade94b47",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::MSK-Block::05-Lower-Limb-Pathology::Class-Content"
@@ -52701,7 +53398,8 @@
     {
       "first_field_hash": "c706cc4e4c12df4f369aa996a91be8ccb3bd6980edf49108b0e8b4a16322eb8b",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-1::MSK-Block::03-Bone-&-Soft-Tissue-Neoplasms"
+        "JerryShen_AnKing_Tags::SOM-1::MSK-Block::03-Bone-&-Soft-Tissue-Neoplasms",
+        "JerryShen_AnKing_Tags::SOM-1::MSK-Block::03-Bone-&-Soft-Tissue-Neoplasms::Class-Content"
       ]
     },
     {
@@ -52881,6 +53579,12 @@
       "first_field_hash": "856f664853b88e660bc5b4b2672b815de7da808bd16c816f37c1afdefeb2c922",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::15-Upper-Respiratory-Infections::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "5050e1fbdc32eac610ecbc2dc1f2f4dbd30f46b3bb9eb0e29e25f929b31ff015",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::15-Upper-Respiratory-Infections"
       ]
     },
     {
