@@ -1,12 +1,13 @@
 {
   "schema_version": 1,
   "author": "JerryShen",
-  "description": "msk",
-  "created": "2026-05-26T19:18:34.593892+00:00",
-  "updated": "2026-05-26T19:18:34.593892+00:00",
+  "description": "congenital heart defects and embryo",
+  "created": "2026-05-28T18:14:31.359133+00:00",
+  "updated": "2026-05-28T18:14:31.359133+00:00",
   "tag_prefix": "JerryShen_AnKing_Tags",
   "tag_hierarchy": [
     "JerryShen_AnKing_Tags",
+    "JerryShen_AnKing_Tags::(⚠️)-VOTE-IN-SMSA-ELECTIONS!-(⚠️)",
     "JerryShen_AnKing_Tags::(✏️)-Tagged-by-Jerry-Shen",
     "JerryShen_AnKing_Tags::(🛠️)-Last-Updated-05262026",
     "JerryShen_AnKing_Tags::(🧋)-buymeacoffee.com/ger1atric",
@@ -336,6 +337,12 @@
     "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::31-Treatment-of-Hypertension::Class-Content",
     "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::32-Race-Based-Medicine-in-CV-Disease",
     "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::32-Race-Based-Medicine-in-CV-Disease::Class-Content",
+    "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::33-Cardiac-Embryology",
+    "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::33-Cardiac-Embryology::Class-Content",
+    "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::34-Fetal-&-Transitional-Circulation",
+    "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::34-Fetal-&-Transitional-Circulation::Class-Content",
+    "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::35-Congenital-Heart-Disease",
+    "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::35-Congenital-Heart-Disease::Class-Content",
     "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::CV-Lab-03-Autonomic-Drugs-&-Clinical-Correlates",
     "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::CV-Lab-03-Autonomic-Drugs-&-Clinical-Correlates::Class-Content",
     "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::CV-Lab-04-Case-Studies",
@@ -602,6 +609,11 @@
       "date": "2026-05-26T19:18:34.593892+00:00",
       "message": "msk",
       "note_count": 8
+    },
+    {
+      "date": "2026-05-28T18:14:31.359133+00:00",
+      "message": "congenital heart defects and embryo",
+      "note_count": 87
     }
   ],
   "notes": [
@@ -1138,7 +1150,7 @@
       ]
     },
     {
-      "first_field_hash": "d5b421ad63ae3c69c02518935cc6b87b707c29446985902b844bcc2afecfe58f",
+      "first_field_hash": "f1fcedcbaf0ea67ee31b5e30f7521f35132c6a0f22b78fa17fc5ca1ec890a970",
       "tags": [
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-1::01-Intro-to-Pharmacodynamics::Class-Content"
       ]
@@ -2030,7 +2042,8 @@
     {
       "first_field_hash": "a006625a721189c06bcee20b9f36cbd2a136504eada5ec142285ca7917963e74",
       "tags": [
-        "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-1-Thorax::Embryology::Class-Content"
+        "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-1-Thorax::Embryology::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::34-Fetal-&-Transitional-Circulation::Class-Content"
       ]
     },
     {
@@ -2130,7 +2143,7 @@
       ]
     },
     {
-      "first_field_hash": "81c02e2d8094d693f5d9b59574455b92a8db0ec66e6ba8b1d43a398234c54f5f",
+      "first_field_hash": "dba4a8ec9a4f261e56c4c059e4b06d1aa697f6b7309aa1e9daae029c2d808baf",
       "tags": [
         "JerryShen_AnKing_Tags::Genetics::Exam-2-Genetics::03-Chromosomes"
       ]
@@ -2388,7 +2401,7 @@
       ]
     },
     {
-      "first_field_hash": "46465423a135e8c55924e44fef1b5ee1f33e1be1e1874351c9566d4493c2eb5c",
+      "first_field_hash": "49262a18962302772d681c7026048ecb0f1b7e925d56735afa3e44b889dd01e2",
       "tags": [
         "JerryShen_AnKing_Tags::Biochemistry::Final::06-Nucleic-Acid-Metabolism::Class-Content"
       ]
@@ -2442,7 +2455,7 @@
       ]
     },
     {
-      "first_field_hash": "5fb1887581f2d26bd1ae18aabc0ab3552790af83b381444afc4d8116eae761ad",
+      "first_field_hash": "15d10d52c0aa93cb614fd8f97dcbd7fad1441f3a24bbce45b2362d44b6e80b79",
       "tags": [
         "JerryShen_AnKing_Tags::Genetics::Exam-1-Molecular-Foundations::Transcription-&-Translation"
       ]
@@ -6870,6 +6883,12 @@
       ]
     },
     {
+      "first_field_hash": "6b043411dee1858ca80e2ea8086fb148fb8e5ec93c46df288797a78519266777",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::33-Cardiac-Embryology::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "38fc72e4fdfe186b906fcead0b09b14c52b53a95b8751fb5eef3e552ac8052a6",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::25-Pulmonary-Hypertension::Class-Content"
@@ -6886,6 +6905,12 @@
       "first_field_hash": "6439bbede15111ca6dc2ba71a67338e5fbdf7264b3c573aee931d88d867e181d",
       "tags": [
         "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-1-Thorax::Embryology"
+      ]
+    },
+    {
+      "first_field_hash": "2fd8721851f5aaf2ffe977b8f04d8f318c6eb2a51f0f30d60f773a631453e272",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::35-Congenital-Heart-Disease::Class-Content"
       ]
     },
     {
@@ -6913,15 +6938,66 @@
       ]
     },
     {
+      "first_field_hash": "e9b99e16be1ed755c0566c5f4f0691beeb1df0a63d194fb8763d0c5f2ce5f248",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::34-Fetal-&-Transitional-Circulation",
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::34-Fetal-&-Transitional-Circulation::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "d04148b7da7665eac1635f7523759a5b39a37a323ec7c7defe5f686694d34d0b",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::34-Fetal-&-Transitional-Circulation"
+      ]
+    },
+    {
+      "first_field_hash": "82585fbb77ad262a5249c484fd14b313af207b1bd6a7d5caec7482ea38c77b9c",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::34-Fetal-&-Transitional-Circulation"
+      ]
+    },
+    {
       "first_field_hash": "940b398832849e21998bc4009bbd89d6d810fc20401a1ae718fb037ce5261389",
       "tags": [
-        "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-1-Thorax::Anatomy"
+        "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-1-Thorax::Anatomy",
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::35-Congenital-Heart-Disease::Class-Content"
       ]
     },
     {
       "first_field_hash": "240a1d08b988550e3d37643b6d568208c9729b6daa67970df6543cd9e405fc65",
       "tags": [
-        "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-1-Thorax::Anatomy"
+        "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-1-Thorax::Anatomy",
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::35-Congenital-Heart-Disease::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "e9f871bb4407eac27d49a8a515b0fd79ece31746c4dfcd8fb74d102bb9749e1f",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::35-Congenital-Heart-Disease::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "f7d54c8dd31d23df3a4c605789dd59ddd8e5c23de50e6438cba91f6ff2181ac5",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::35-Congenital-Heart-Disease::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "9d8f051088d173fb7ef9c33e80f148421591e7bdc4dcdeb0837ab3300662a968",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::35-Congenital-Heart-Disease::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "4a1d1e1d23faeb5abcdd4481e6505cdd1d357f8433d23b8f41dbae68582c6a23",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::35-Congenital-Heart-Disease::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "d0f85a453b026e0efea2ac93e6a381b82365857ea3c7c33cd81600585584fa1d",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::35-Congenital-Heart-Disease::Class-Content"
       ]
     },
     {
@@ -8503,13 +8579,50 @@
     {
       "first_field_hash": "4560bff4e41f3cebb359dd8ed88dc6bcfa7b47287c21f528dad7b9ac56c44351",
       "tags": [
-        "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-1-Thorax::Embryology::Class-Content"
+        "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-1-Thorax::Embryology::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::33-Cardiac-Embryology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "77f798f01a80b507f9b1fa3767fe2a08761167d3bb65572a9b100aa97d751ad8",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::33-Cardiac-Embryology"
       ]
     },
     {
       "first_field_hash": "82aeba62efc0e82bcc535bf9f69666c284198c49e815d5dbbedc1a74729aade8",
       "tags": [
         "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-1-Thorax::Embryology"
+      ]
+    },
+    {
+      "first_field_hash": "d5647a6f15ed78424081a309b40af925d071aaa719b4e1839e248e54f1cb7e67",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::33-Cardiac-Embryology"
+      ]
+    },
+    {
+      "first_field_hash": "715c51b45d655d909e024e7e2184b50dd81841b9caa6d29b091e0fe3bb1afd52",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::33-Cardiac-Embryology"
+      ]
+    },
+    {
+      "first_field_hash": "7019f04fe051c5816d9f04849519425ebbfd1cd41bd4dbdfd05db17847b23a6e",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::33-Cardiac-Embryology"
+      ]
+    },
+    {
+      "first_field_hash": "ea837841f969344723c6361eb1440f21405eb2e7a865c4585b101f415838bce9",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::33-Cardiac-Embryology"
+      ]
+    },
+    {
+      "first_field_hash": "d222ac27f0b203b251edead3536005026e67fbeef61c0d5fa800b79ae5cd6d58",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::33-Cardiac-Embryology"
       ]
     },
     {
@@ -8525,46 +8638,86 @@
       ]
     },
     {
+      "first_field_hash": "cfb5744cb4e23e44d29d4cc13a5d3b4042a03be1be6a0cb9f6303afd497209ad",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::33-Cardiac-Embryology",
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::33-Cardiac-Embryology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "d64d2e7b7f720393d6e49cfe8baed5c325c94a1304d8e8e9feeb3f6e82c3f9ef",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::33-Cardiac-Embryology",
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::33-Cardiac-Embryology::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "4ffee8e4257fc578d7966a4517e1b11a199e33bc0846954c008d73013b901e93",
       "tags": [
-        "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-1-Thorax::Embryology::Class-Content"
+        "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-1-Thorax::Embryology::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::33-Cardiac-Embryology::Class-Content"
       ]
     },
     {
       "first_field_hash": "2c241eae6e94e6fa2acefa76d5ffb3195e4c46e1c19eb0b01b43b43cb76c56b0",
       "tags": [
-        "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-1-Thorax::Embryology::Class-Content"
+        "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-1-Thorax::Embryology::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::33-Cardiac-Embryology::Class-Content"
       ]
     },
     {
       "first_field_hash": "c44be0394c776aac0d5d6d82955e5dcef383f8bb98f0740f86455c6ca423e009",
       "tags": [
-        "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-1-Thorax::Embryology::Class-Content"
+        "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-1-Thorax::Embryology::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::33-Cardiac-Embryology::Class-Content"
       ]
     },
     {
       "first_field_hash": "c6ffc593d00a00fd2fb109dd906d1a7de89e90a167f2bcfdc78679ed916989b3",
       "tags": [
-        "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-1-Thorax::Embryology::Class-Content"
+        "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-1-Thorax::Embryology::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::33-Cardiac-Embryology::Class-Content"
       ]
     },
     {
       "first_field_hash": "f6dade18861877b140e0350f8558afd1a67886776fbdd5196480cd7a8da05ab7",
       "tags": [
-        "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-1-Thorax::Embryology::Class-Content"
+        "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-1-Thorax::Embryology::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::33-Cardiac-Embryology::Class-Content"
       ]
     },
     {
       "first_field_hash": "74bb35db61dca454f3fe5dee0e2fd08a6420401e271b60e2cfb77aefa9a1cf9d",
       "tags": [
-        "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-1-Thorax::Embryology::Class-Content"
+        "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-1-Thorax::Embryology::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::33-Cardiac-Embryology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "91fdf160ea36cb10fe942dffb74deb71121660ffa9d71a50d68c68e8b1add7db",
+      "tags": [
+        "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-1-Thorax::Embryology::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::34-Fetal-&-Transitional-Circulation::Class-Content"
       ]
     },
     {
       "first_field_hash": "c2fc2713875e5dce0e99ba55559637d9a06199f40cf75711fcb3373a3ce93fb1",
       "tags": [
         "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-1-Thorax::Embryology",
-        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::02-Normal-Anatomy-of-the-Heart"
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::02-Normal-Anatomy-of-the-Heart",
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::33-Cardiac-Embryology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "2ef27c5724a945c55f69a4397312c466ea8bded3135607fce974247291ab1e7c",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::34-Fetal-&-Transitional-Circulation::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "ee14f3443b32af0d34bfaaff1c39fc790b328e44449bae46f7a1b5a7321b67db",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::33-Cardiac-Embryology"
       ]
     },
     {
@@ -8582,13 +8735,15 @@
     {
       "first_field_hash": "50d03f5bb481c8ab1b5786c1ea59e4f05fbaba16fb9c8544657bbf4877fc212d",
       "tags": [
-        "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-1-Thorax::Embryology::Class-Content"
+        "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-1-Thorax::Embryology::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::35-Congenital-Heart-Disease::Class-Content"
       ]
     },
     {
       "first_field_hash": "518be40e46e6dd57b5c88ed673c0f1266b0f44b9dcf8f6ec40986eeec84ebcdc",
       "tags": [
-        "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-1-Thorax::Embryology::Class-Content"
+        "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-1-Thorax::Embryology::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::33-Cardiac-Embryology::Class-Content"
       ]
     },
     {
@@ -8598,15 +8753,42 @@
       ]
     },
     {
+      "first_field_hash": "1cd25d4ce1c0f8f09586fbb0b0a2063a7095291188a7e540c24e612370cdf959",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::34-Fetal-&-Transitional-Circulation"
+      ]
+    },
+    {
+      "first_field_hash": "5dba2f77b8eab65aa0267d51622860bd6cb0404e52a83ff485174e6098a5cf0e",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::34-Fetal-&-Transitional-Circulation"
+      ]
+    },
+    {
       "first_field_hash": "495046be6fdf1dccfa3f61cc0e3859f91ac3937a23fb55c1315beaeab4c2832a",
       "tags": [
         "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-1-Thorax::Embryology::Class-Content"
       ]
     },
     {
+      "first_field_hash": "ede0075e5a9d3d37179ceed4b34c4f9b0ba7447afb1f2b99da6dfb586d203fce",
+      "tags": [
+        "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-1-Thorax::Embryology::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::34-Fetal-&-Transitional-Circulation::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "0df9aaeb1ae13b161e36d8d868538d6792502b2cb64d65269a7e20248411435c",
       "tags": [
-        "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-1-Thorax::Embryology::Class-Content"
+        "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-1-Thorax::Embryology::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::34-Fetal-&-Transitional-Circulation::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "55b3dbbfb1000948492d1abf34780f16944055739388bb01efa198c725cdc658",
+      "tags": [
+        "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-1-Thorax::Embryology",
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::34-Fetal-&-Transitional-Circulation::Class-Content"
       ]
     },
     {
@@ -8616,9 +8798,27 @@
       ]
     },
     {
+      "first_field_hash": "0c7abe9d74c1f133564f3db6707d8f632ad0806ec0fc18ceae9b0eacca5e5ced",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::34-Fetal-&-Transitional-Circulation::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "314f71a7cec4b006d446b37e57e27eb38465faef47410dd2e279dc9fcb855cb4",
       "tags": [
         "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-1-Thorax::Embryology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "bcf8877f8b0ca02fcb8ac83203fab53398503ef3ddfcd3a9cf6ada33f0eb4f08",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::34-Fetal-&-Transitional-Circulation"
+      ]
+    },
+    {
+      "first_field_hash": "5b1ee4a2bfff252a31824c09b219dade34bf13a05ebeb0fb403c979fd4417933",
+      "tags": [
+        "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-1-Thorax::Embryology"
       ]
     },
     {
@@ -9338,6 +9538,12 @@
       "first_field_hash": "7dbebba50897743bae0d8ed62c74efac91a31aa4cecf29f38408525a203c26d9",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::29-Therapies-for-IHD::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "b28e55a7ef34d8e87a8558de90f5398d9d30a700e3028b2f292ce7daf2bdc2ee",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::15-Pathophysiology-&-Treatment-of-Heart-Failure"
       ]
     },
     {
@@ -10399,6 +10605,18 @@
       ]
     },
     {
+      "first_field_hash": "b0cf41a9c452b64baca53b3b2893d53634d4f360c3eee49ca10a11149d4f988c",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::34-Fetal-&-Transitional-Circulation::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "4ad8f22a21f45924236c7b1217c499e9d0dc65e094f65e043df5584cc079e114",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::34-Fetal-&-Transitional-Circulation::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "006cd7e68b0388187b48d82d239aaaef2954ab34d4e191f040e1cafe40cf2f16",
       "tags": [
         "JerryShen_AnKing_Tags::POM-3::Clinical-Reasoning::Advanced-Pulmonary-Exam::Class-Content",
@@ -10683,6 +10901,12 @@
       ]
     },
     {
+      "first_field_hash": "5bb0b517de54cfcd0d1faf9dd9474b12d76902b5fff41d0f9dc1f5a0b05d03c9",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::34-Fetal-&-Transitional-Circulation::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "aab273c71cb6c460199e93da52b511154021ba49b4b1bcac71e7b453678a0f8b",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::02-Pulmonary-Circulation::Class-Content"
@@ -10690,6 +10914,12 @@
     },
     {
       "first_field_hash": "ba780be1cad8432e65b27da56e6b4448c62ef723f741f8f6b74441f641f4aac7",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::02-Pulmonary-Circulation"
+      ]
+    },
+    {
+      "first_field_hash": "22199b1840cfd8ea506e7c38d3129359d0b09fa55a4019927c3e9d3a58c1bfa2",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::02-Pulmonary-Circulation"
       ]
@@ -13530,7 +13760,7 @@
       ]
     },
     {
-      "first_field_hash": "6c291a45678ef856788727f538b3deb3fde73af0c9dccd8943c33f0e11187436",
+      "first_field_hash": "f7e9a2bb94f6d10bd75df4934367011829d43003c19ccb6521cbf3737f5589e0",
       "tags": [
         "JerryShen_AnKing_Tags::Biochemistry::Final::01-Carbohydrate-Metabolism"
       ]
@@ -16437,7 +16667,7 @@
       ]
     },
     {
-      "first_field_hash": "efb4f95e171e103ec7c750a34557e129e99e73cc5994da2d196ab0c8a71a44a6",
+      "first_field_hash": "4a06f12cb6dd006e118de07daddf3dbf55424ef981983d9b2cc687d49e398ed9",
       "tags": [
         "JerryShen_AnKing_Tags::Biochemistry::Final::03-Lipid-Metabolism::Class-Content"
       ]
@@ -17639,7 +17869,7 @@
       ]
     },
     {
-      "first_field_hash": "971fe69de882ee24e882e64235efaaca4bbddc7468e86b77c2fed76ca5200678",
+      "first_field_hash": "b01f050c5799393e156c9d2aed6dba36fb94d34d777606d6c7669c8f4c18d257",
       "tags": [
         "JerryShen_AnKing_Tags::Biochemistry::Final::05-Nitrogen-Metabolism::Class-Content"
       ]
@@ -18330,6 +18560,12 @@
       "first_field_hash": "0bcd2e3dacd39c306d11fc6689c88ff0106f0a11ca157b6aed7f63ca46059e14",
       "tags": [
         "JerryShen_AnKing_Tags::Biochemistry::Final::01-Carbohydrate-Metabolism"
+      ]
+    },
+    {
+      "first_field_hash": "48698220959cb9ba44eae0efd3789df5ee7c91becc2e94710b867eeafc5aaea4",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::15-Pathophysiology-&-Treatment-of-Heart-Failure"
       ]
     },
     {
@@ -24491,6 +24727,12 @@
       ]
     },
     {
+      "first_field_hash": "02d3b29ae66190c8200b9ca00cd7fdd6972a009ade2701264fc7e7b8913115b8",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::34-Fetal-&-Transitional-Circulation::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "dbcb322fa5e06facf1e7ca3745a18959cc079b470ba26380f2ab3f06bf2d824d",
       "tags": [
         "JerryShen_AnKing_Tags::Neurobiology::Exam-3::Tutorial-4-Thalamus-and-Sensory-Systems::Class-Content"
@@ -27516,6 +27758,7 @@
     {
       "first_field_hash": "54d626e08c1c802b305dad30b7e54a82f102390cc92c7d4db112048935236e9c",
       "tags": [
+        "JerryShen_AnKing_Tags::(⚠️)-VOTE-IN-SMSA-ELECTIONS!-(⚠️)",
         "JerryShen_AnKing_Tags::(✏️)-Tagged-by-Jerry-Shen",
         "JerryShen_AnKing_Tags::(🛠️)-Last-Updated-05262026"
       ]
@@ -31162,6 +31405,12 @@
       ]
     },
     {
+      "first_field_hash": "305f9dd3b492fd4d04504acf3b2f04fe56bd2376de60eb8ff96427b4e9f6f33d",
+      "tags": [
+        "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-7-Head-&-Neck-2::Embryology::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "2cf1334a9e5d7b65400058558d43c591c3519310d04a9a3fdbf2cdda18becc64",
       "tags": [
         "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-7-Head-&-Neck-2::Embryology::Class-Content"
@@ -32683,6 +32932,12 @@
       "first_field_hash": "e9ef9e0a530dad9fa92e9cbc1976a44e4c80b2b6f9d5be598f41076625731483",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::17-Chest-Imaging-II"
+      ]
+    },
+    {
+      "first_field_hash": "92a039aafcf232f8925997c0c9f3e8e6a1beed33347aaf46ba5a4e11eeb2182a",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::19-ARDS-&-Ventilators"
       ]
     },
     {
@@ -34504,6 +34759,12 @@
       "first_field_hash": "e963723d42a08d83c35e77b7a64dd6309a274d49e771769850b9b28c5b664ba9",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::22-Peripheral-Arterial-&-Aortic-Disease::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "21f1791f321efebf10d69600642a9ffde96f6787b6ba303f037021d4f8f01848",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::15-Pathophysiology-&-Treatment-of-Heart-Failure"
       ]
     },
     {
@@ -39441,7 +39702,7 @@
       ]
     },
     {
-      "first_field_hash": "a324cbf00c310670eac2421055e0222c884078a71b3aade3342feac51007a557",
+      "first_field_hash": "7c51deb52695b732a9b8778242d0388c02e9b955e1152aca35d8250f3a8beee2",
       "tags": [
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-1::04-Intro-to-Viruses"
       ]
@@ -45706,6 +45967,12 @@
       ]
     },
     {
+      "first_field_hash": "a10a575415abd5b881389033f9358bbc5877a27b9d7bc27b36c8015a27056a48",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::35-Congenital-Heart-Disease"
+      ]
+    },
+    {
       "first_field_hash": "a3da5ec4811be27013959c1691de4f7a0e1b8d10dfc9dc35a31148b59dd7fa29",
       "tags": [
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-1::03-C.diff-&-Pseudomonas::Class-Content"
@@ -46458,6 +46725,12 @@
       "first_field_hash": "3cad684885613df7fe51a7c79e6602234e791bb033636c468ec2fb4a69b08ade",
       "tags": [
         "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-3-Abdomen::Anatomy"
+      ]
+    },
+    {
+      "first_field_hash": "9bf0b4a0d223682707786284ea0f97e747954d74e730e21f3ca299228d2c7f2d",
+      "tags": [
+        "JerryShen_AnKing_Tags::Cancer-Biology::Final::02-Cell-Injury-&-Death"
       ]
     },
     {
@@ -48060,6 +48333,12 @@
       "first_field_hash": "82d016041e114b2dad2babfbf2b724a6e8351288e5fdea0ba99497c7569e324d",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::18-Heart-Sounds-&-Clinical-Exam::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "6ceb917c188874ed0ef2dd56a36c32e1ca199f8250b50b558478c2aac8d2365c",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::35-Congenital-Heart-Disease"
       ]
     },
     {
@@ -51313,6 +51592,12 @@
       ]
     },
     {
+      "first_field_hash": "2a53691786ac762a32fbb19d17b9ef2670b6ceee8238a44fb0af6787cd516c1f",
+      "tags": [
+        "JerryShen_AnKing_Tags::Micro-Pharm::Exam-2::08-Other-Antibiotics-&-Mycobacteria"
+      ]
+    },
+    {
       "first_field_hash": "a75458cdbdb07dd41e4e4e5cfde00ee4c1d27dabe40f011f6b8ef12c11eca56b",
       "tags": [
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-2::08-Other-Antibiotics-&-Mycobacteria"
@@ -51422,6 +51707,12 @@
       ]
     },
     {
+      "first_field_hash": "aa7642b7cb485b7dfbffdd62b0c4131abb34895197742d7e63dd2f05322c43d3",
+      "tags": [
+        "JerryShen_AnKing_Tags::Micro-Pharm::Exam-2::08-Other-Antibiotics-&-Mycobacteria"
+      ]
+    },
+    {
       "first_field_hash": "e61e0de0f50af01ac82d9b9e6f377b8898e8912d80f95fbc2169cee568bb7728",
       "tags": [
         "JerryShen_AnKing_Tags::POM-3::Clinical-Reasoning::Approach-to-Syncope::Class-Content",
@@ -51507,6 +51798,12 @@
       ]
     },
     {
+      "first_field_hash": "b125d89a9e4b475ecff369e01d2a54febf68e3455988dd6644fd9fa86dfb29dd",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::34-Fetal-&-Transitional-Circulation"
+      ]
+    },
+    {
       "first_field_hash": "d1e4e6fc22da7779db5d6157b041a5c7c2fd8bf470d17855407d4e3e76c9ea72",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::18-Heart-Sounds-&-Clinical-Exam::Class-Content"
@@ -51522,6 +51819,12 @@
       "first_field_hash": "b2ef1b776ffcbf1c568b9ff85f88e84ec7535ce19d9af700278c420ea1016e14",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::18-Heart-Sounds-&-Clinical-Exam"
+      ]
+    },
+    {
+      "first_field_hash": "e907ed457050d7d4bdce3249730a27d3d96406d4697e26396d0694471c2eaa5a",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::35-Congenital-Heart-Disease::Class-Content"
       ]
     },
     {
@@ -51552,6 +51855,12 @@
       "first_field_hash": "22c393221a915d61087ea94013a82b273308263db3fe1c96344a6e0f46fa6c02",
       "tags": [
         "JerryShen_AnKing_Tags::Immunology::Final::Immune-Deficiencies::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "9f794d646dedac9ace333b75beecfa2074d5e70747556e24930541924bc6c19b",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::35-Congenital-Heart-Disease::Class-Content"
       ]
     },
     {
@@ -51637,6 +51946,12 @@
       ]
     },
     {
+      "first_field_hash": "ef54a961a6a3111c843bd9853c226afadb5c27a39d46244297becc4767940ce6",
+      "tags": [
+        "JerryShen_AnKing_Tags::Micro-Pharm::Exam-2::08-Other-Antibiotics-&-Mycobacteria::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "51a7faf20d6d91990958e458b26063f1c304a3f95ce4d3e7b8640cb70ac77051",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::29-Therapies-for-IHD"
@@ -51719,6 +52034,18 @@
       "first_field_hash": "705534dea931bf1d7676d70ee3afb90c16191216a8f9937afa08aa0b31107f00",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::17-Valvular-Disease"
+      ]
+    },
+    {
+      "first_field_hash": "918aa362d384fa41b341b527b5ed2fb6e8e2e6c1c9cf3ef71e53ab2133d4cb7a",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::35-Congenital-Heart-Disease::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "4d533bba0c448f9f7623c6a75875e58d64950f054dff289a6a28d3dd7b6ca4f7",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::34-Fetal-&-Transitional-Circulation::Class-Content"
       ]
     },
     {
@@ -52331,6 +52658,12 @@
       "first_field_hash": "f98d44e202adcfb57f9089784dbac2ce307defe9b64a27f21f800f222fa796e3",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::MSK-Block::08-Pediatric-Orthopaedics::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "f82a7f46841ca6defb224b141ae99540a6aca60d6ae43f480030ad1459f776eb",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::19-ARDS-&-Ventilators"
       ]
     },
     {
@@ -53266,7 +53599,7 @@
       ]
     },
     {
-      "first_field_hash": "6b96f0079994e74fc0e91739b00ac03bbff3acc32f4477f1367f2d745598972c",
+      "first_field_hash": "82fdda844d241f55c7e2963f7477cb420dc8c7da933020a81217493dfce030ce",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::17-Valvular-Disease::Class-Content"
       ]
@@ -53321,7 +53654,7 @@
       ]
     },
     {
-      "first_field_hash": "70c15999f7f11a0f9829e13a072c89d4bf2436c33f870c1bbc9464c62e34effd",
+      "first_field_hash": "4d5b4d9502284c613cf6d70c429a03c583ef06491b8167853bdcfc29ad735e02",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::14-Lung-Pharmacology::Class-Content"
       ]
@@ -54589,6 +54922,12 @@
       "first_field_hash": "459396c7c5267317ce98fb0f9e208efa95409585ac09c101f8e07308dd306fd5",
       "tags": [
         "JerryShen_AnKing_Tags::Immunology::Final::Immune-Deficiencies"
+      ]
+    },
+    {
+      "first_field_hash": "65001b1686c294004f9fcb2b3e6549eb2d5ed928c6f99a89b48be584e98cc4c5",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::35-Congenital-Heart-Disease::Class-Content"
       ]
     },
     {
