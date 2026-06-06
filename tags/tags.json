@@ -1,15 +1,14 @@
 {
   "schema_version": 1,
   "author": "JerryShen",
-  "description": "congenital heart defects and embryo",
-  "created": "2026-05-28T18:14:31.359133+00:00",
-  "updated": "2026-05-28T18:14:31.359133+00:00",
+  "description": "",
+  "created": "2026-06-06T04:36:52.162052+00:00",
+  "updated": "2026-06-06T04:36:52.162052+00:00",
   "tag_prefix": "JerryShen_AnKing_Tags",
   "tag_hierarchy": [
     "JerryShen_AnKing_Tags",
-    "JerryShen_AnKing_Tags::(⚠️)-VOTE-IN-SMSA-ELECTIONS!-(⚠️)",
     "JerryShen_AnKing_Tags::(✏️)-Tagged-by-Jerry-Shen",
-    "JerryShen_AnKing_Tags::(🛠️)-Last-Updated-05262026",
+    "JerryShen_AnKing_Tags::(🛠️)-Last-Updated-06042026",
     "JerryShen_AnKing_Tags::(🧋)-buymeacoffee.com/ger1atric",
     "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology",
     "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-1-Thorax",
@@ -253,6 +252,7 @@
     "JerryShen_AnKing_Tags::POM-3::Clinical-Reasoning::Advanced-Pulmonary-Exam::Class-Content",
     "JerryShen_AnKing_Tags::POM-3::Clinical-Reasoning::Approach-to-Acute-Dyspnea",
     "JerryShen_AnKing_Tags::POM-3::Clinical-Reasoning::Approach-to-Acute-Dyspnea::Class-Content",
+    "JerryShen_AnKing_Tags::POM-3::Clinical-Reasoning::Approach-to-Chest-Pain",
     "JerryShen_AnKing_Tags::POM-3::Clinical-Reasoning::Approach-to-Chronic-Dyspnea",
     "JerryShen_AnKing_Tags::POM-3::Clinical-Reasoning::Approach-to-Chronic-Dyspnea::Class-Content",
     "JerryShen_AnKing_Tags::POM-3::Clinical-Reasoning::Approach-to-Cough",
@@ -343,6 +343,10 @@
     "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::34-Fetal-&-Transitional-Circulation::Class-Content",
     "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::35-Congenital-Heart-Disease",
     "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::35-Congenital-Heart-Disease::Class-Content",
+    "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::36-Lymphatics",
+    "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::36-Lymphatics::Class-Content",
+    "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::37-Inflammatory-Heart-Disease",
+    "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::37-Inflammatory-Heart-Disease::Class-Content",
     "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::CV-Lab-03-Autonomic-Drugs-&-Clinical-Correlates",
     "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::CV-Lab-03-Autonomic-Drugs-&-Clinical-Correlates::Class-Content",
     "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::CV-Lab-04-Case-Studies",
@@ -364,8 +368,12 @@
     "JerryShen_AnKing_Tags::SOM-1::MSK-Block::07-Occupational-MSK-Health::Class-Content",
     "JerryShen_AnKing_Tags::SOM-1::MSK-Block::08-Pediatric-Orthopaedics",
     "JerryShen_AnKing_Tags::SOM-1::MSK-Block::08-Pediatric-Orthopaedics::Class-Content",
+    "JerryShen_AnKing_Tags::SOM-1::MSK-Block::09-Geriatric-Orthopedics",
+    "JerryShen_AnKing_Tags::SOM-1::MSK-Block::09-Geriatric-Orthopedics::Class-Content",
     "JerryShen_AnKing_Tags::SOM-1::MSK-Block::Extra-Lower-Limb-Pathology",
     "JerryShen_AnKing_Tags::SOM-1::MSK-Block::Extra-Upper-Limb-Pathology",
+    "JerryShen_AnKing_Tags::SOM-1::MSK-Block::Lab-01-MSK-Cases",
+    "JerryShen_AnKing_Tags::SOM-1::MSK-Block::Lab-01-MSK-Cases::Class-Content",
     "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block",
     "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::01-Structure-and-Function-of-the-Lung",
     "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::01-Structure-and-Function-of-the-Lung::Class-Content",
@@ -613,7 +621,7 @@
     {
       "date": "2026-05-28T18:14:31.359133+00:00",
       "message": "congenital heart defects and embryo",
-      "note_count": 87
+      "note_count": 279
     }
   ],
   "notes": [
@@ -1096,6 +1104,12 @@
       ]
     },
     {
+      "first_field_hash": "3edeefb3091d9596391a77e2a8f16083e0c15d44a355a6a3a5363890e317fc59",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::MSK-Block::09-Geriatric-Orthopedics"
+      ]
+    },
+    {
       "first_field_hash": "932550bbd82eac062ff8a76688efdc622fe673bdbf5fbece3d3c22cf3d43e05e",
       "tags": [
         "JerryShen_AnKing_Tags::Immunology::Final::Innate-Sensing::Class-Content"
@@ -1473,6 +1487,12 @@
       "first_field_hash": "1cca7ccb4d4b5b406ab57af6309092a632c01c6bc46eb2134b2973a11c4b6c21",
       "tags": [
         "JerryShen_AnKing_Tags::Biochemistry::Final::01-Carbohydrate-Metabolism::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "5304c50b2494fe0d4dbd39ecb142fed3ffa2365a8ff68a3ee4b554f8e4d57d37",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::MSK-Block::09-Geriatric-Orthopedics::Class-Content"
       ]
     },
     {
@@ -2125,9 +2145,27 @@
       ]
     },
     {
+      "first_field_hash": "43223bcd25a3beed52a8b32ac017d631d464463113676052c98e11e5d4f276c1",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::35-Congenital-Heart-Disease"
+      ]
+    },
+    {
       "first_field_hash": "291fe2119288016048855a5ad0e47aac8fabb3674729942085c239df992942fa",
       "tags": [
         "JerryShen_AnKing_Tags::Genetics::Exam-2-Genetics::03-Chromosomes::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "c0effc04243a5ab53ab3f7e723290dc8fc6bf292fe5ec0b9937ccfc612e2d586",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::MSK-Block::09-Geriatric-Orthopedics"
+      ]
+    },
+    {
+      "first_field_hash": "5a8572b0888868d0f352ea629c64b6d8716ec01c1cfa0a871b99d88e80726e47",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::MSK-Block::09-Geriatric-Orthopedics"
       ]
     },
     {
@@ -2140,6 +2178,13 @@
       "first_field_hash": "9cefdfc7e9b5dc6af49c9a22966910276c39b4983077028b3183c01ef03d077c",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::Lung-Lab-1-Pneumonia::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "91fb680d03aaa1d4bd931c373bd7b396b5807b89007fe50da6b42dae8a1e3978",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::MSK-Block::09-Geriatric-Orthopedics",
+        "JerryShen_AnKing_Tags::SOM-1::MSK-Block::09-Geriatric-Orthopedics::Class-Content"
       ]
     },
     {
@@ -2419,7 +2464,7 @@
       ]
     },
     {
-      "first_field_hash": "ac37279f4f65d40e2658a6382c68e10e5eaf68e9d1236d41b4ec95ba3e946c9c",
+      "first_field_hash": "f6ef2457b0081e6b8e3e149783ef783eba212a5e96eab68029f33001e6745c4b",
       "tags": [
         "JerryShen_AnKing_Tags::Biochemistry::Final::06-Nucleic-Acid-Metabolism::Class-Content"
       ]
@@ -2972,7 +3017,7 @@
       ]
     },
     {
-      "first_field_hash": "58ea8863cfa487ad284a0b6ba447bff7c68e9b9cf30cf15fe96ffcb8d3980ec8",
+      "first_field_hash": "7af6515df24e31ab8f0ff1a9334f4b6ea143c7a0e9cb68f03ee4db45158ca5bd",
       "tags": [
         "JerryShen_AnKing_Tags::Genetics::Exam-1-Molecular-Foundations::DNA-Replication-and-Repair"
       ]
@@ -4870,6 +4915,7 @@
       "first_field_hash": "a8926d5f5493368a7e95894c0b1d5cd52895e2121ed29291323fc11aebc56aea",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::14-The-Cardiac-Cycle::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::35-Congenital-Heart-Disease::Class-Content",
         "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::04-O2-and-CO2-Transport::Class-Content",
         "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::09-Acid-Base-Control-and-Exercise-Physiology::Class-Content"
       ]
@@ -5451,6 +5497,7 @@
     {
       "first_field_hash": "41b15efe2074f9b63b700b0bc43f3f1b89f5108b3be0ea54357954a4cbe29544",
       "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::36-Lymphatics::Class-Content",
         "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::02-Pulmonary-Circulation::Class-Content"
       ]
     },
@@ -5464,6 +5511,18 @@
       "first_field_hash": "e2fb34debdeaca6fbeb6bf76edb022e17d8958e15ca27bcb76e301bb2ca756b1",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::02-Pulmonary-Circulation"
+      ]
+    },
+    {
+      "first_field_hash": "c86e466e149fc1b5e4ff8029c7ecf69899e97b9d21623900b508805e41a8ee88",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::36-Lymphatics::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "c59faf9f5881749be231025a065c82445a799c21940b5fb306c2fb787b5f32d9",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::36-Lymphatics::Class-Content"
       ]
     },
     {
@@ -5763,6 +5822,12 @@
       ]
     },
     {
+      "first_field_hash": "cb182a0461d4610718b08aba142806f34a4b1b619c4d971ab773fe155ece824b",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::18-Heart-Sounds-&-Clinical-Exam"
+      ]
+    },
+    {
       "first_field_hash": "2ef430cf63699774789b5dfe118769f039165276e2612287ebfd35f5593e2fef",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::18-Heart-Sounds-&-Clinical-Exam::Class-Content"
@@ -5853,6 +5918,13 @@
       ]
     },
     {
+      "first_field_hash": "d73ceebd13ffc65020ca43501311efe194b0e0d82fa5e35825f69f3617b4db84",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::18-Heart-Sounds-&-Clinical-Exam",
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::35-Congenital-Heart-Disease"
+      ]
+    },
+    {
       "first_field_hash": "11d0df7539bfac2bca79b632fe047ce7073c65deb11dd67482a690c28b71a291",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::17-Valvular-Disease::Class-Content"
@@ -5926,6 +5998,12 @@
       ]
     },
     {
+      "first_field_hash": "0ed888ea6c9e99258d325ebe512ff3e455f94bec33df07809d8e7c02ebadd10e",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::37-Inflammatory-Heart-Disease::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "d5b4d6388b14395a45a4efaee25c68923d969382f7e6a3eef48d411914fdf0df",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::21-The-Arterial-System",
@@ -5949,13 +6027,15 @@
       "first_field_hash": "6f97af47148a1996bc1aa1807db5957be80dfaf4619c970cf8df51797ed57d72",
       "tags": [
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-1::04-Intro-to-Viruses",
-        "JerryShen_AnKing_Tags::Micro-Pharm::Exam-1::04-Intro-to-Viruses::Class-Content"
+        "JerryShen_AnKing_Tags::Micro-Pharm::Exam-1::04-Intro-to-Viruses::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::37-Inflammatory-Heart-Disease::Class-Content"
       ]
     },
     {
       "first_field_hash": "1f6c8e552be4c098c809caf5ef1a171ad0cd3ce4469040b08de01979a3b499a3",
       "tags": [
-        "JerryShen_AnKing_Tags::Micro-Pharm::Exam-1::04-Intro-to-Viruses"
+        "JerryShen_AnKing_Tags::Micro-Pharm::Exam-1::04-Intro-to-Viruses",
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::37-Inflammatory-Heart-Disease::Class-Content"
       ]
     },
     {
@@ -5967,31 +6047,36 @@
     {
       "first_field_hash": "8a229bac49e1734c035def58aa6786006ca02663d54d80a5b57d03b13a9bc1af",
       "tags": [
-        "JerryShen_AnKing_Tags::Micro-Pharm::Exam-1::04-Intro-to-Viruses::Class-Content"
+        "JerryShen_AnKing_Tags::Micro-Pharm::Exam-1::04-Intro-to-Viruses::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::37-Inflammatory-Heart-Disease::Class-Content"
       ]
     },
     {
       "first_field_hash": "950df73fd6cbdef98959dc45f556cac70289471cf5839df57056121fe8c8995f",
       "tags": [
-        "JerryShen_AnKing_Tags::Micro-Pharm::Exam-1::04-Intro-to-Viruses::Class-Content"
+        "JerryShen_AnKing_Tags::Micro-Pharm::Exam-1::04-Intro-to-Viruses::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::37-Inflammatory-Heart-Disease::Class-Content"
       ]
     },
     {
       "first_field_hash": "ef9f4a28e03cbc77a90167e23a4c102ce05421d839474727cdb27cadd2a7f2f0",
       "tags": [
-        "JerryShen_AnKing_Tags::Micro-Pharm::Exam-1::04-Intro-to-Viruses"
+        "JerryShen_AnKing_Tags::Micro-Pharm::Exam-1::04-Intro-to-Viruses",
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::37-Inflammatory-Heart-Disease::Class-Content"
       ]
     },
     {
       "first_field_hash": "01bc9475b7aca3719bdec9baf4edf1f73c3a90de8589d52b4f54d5f8657e74e1",
       "tags": [
-        "JerryShen_AnKing_Tags::Micro-Pharm::Exam-1::04-Intro-to-Viruses"
+        "JerryShen_AnKing_Tags::Micro-Pharm::Exam-1::04-Intro-to-Viruses",
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::37-Inflammatory-Heart-Disease::Class-Content"
       ]
     },
     {
       "first_field_hash": "b4f7ed62e90b03d49f6207e87104fa790cf42ef10993b19e39807166a4786143",
       "tags": [
-        "JerryShen_AnKing_Tags::Micro-Pharm::Exam-1::04-Intro-to-Viruses"
+        "JerryShen_AnKing_Tags::Micro-Pharm::Exam-1::04-Intro-to-Viruses",
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::37-Inflammatory-Heart-Disease::Class-Content"
       ]
     },
     {
@@ -6374,6 +6459,12 @@
       ]
     },
     {
+      "first_field_hash": "bb2fa6efb378c9e66407710f5b10a5d1c2336ea890a5451838f6ab7c8c9b8862",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::37-Inflammatory-Heart-Disease"
+      ]
+    },
+    {
       "first_field_hash": "9e1b7d2c7a1fde1f8de077de8446dd39e9823eaa0bc1e86b40b972c88351ebd8",
       "tags": [
         "JerryShen_AnKing_Tags::POM-3::Clinical-Reasoning::Approach-to-Shock"
@@ -6650,6 +6741,12 @@
       ]
     },
     {
+      "first_field_hash": "c75ac91854ecc915974159b7dfc8a7d5e518cebab2a68cefe9b67340b08e71f0",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::37-Inflammatory-Heart-Disease::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "9736f0aed96f121d42a76bbedcd53ad260415e86a64bead9a7adac2884f3c6d2",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::25-Coronary-Circulation",
@@ -6794,6 +6891,12 @@
       ]
     },
     {
+      "first_field_hash": "001b6abdb525338787c9357b57fdbec4d081cf10c48a98d698d699e191492078",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::35-Congenital-Heart-Disease"
+      ]
+    },
+    {
       "first_field_hash": "4ec98aa8e3798a6808d72591d02237e2726bdbad40c72213e5b2eb635d07b66c",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::25-Pulmonary-Hypertension"
@@ -6889,6 +6992,12 @@
       ]
     },
     {
+      "first_field_hash": "f87221304ba46c08afa76be7012eb759dc1fecb50614004154ddfb13b0891864",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::35-Congenital-Heart-Disease::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "38fc72e4fdfe186b906fcead0b09b14c52b53a95b8751fb5eef3e552ac8052a6",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::25-Pulmonary-Hypertension::Class-Content"
@@ -6899,6 +7008,36 @@
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::25-Pulmonary-Hypertension",
         "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::25-Pulmonary-Hypertension::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "13d7a4fa597d1a44512a487c3dc70a380c28d494df8d25156a9af3158543702a",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::35-Congenital-Heart-Disease::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "8554214b999be588fe544c7703d92b57391a4d6a47678e3219d1cd7a13b01818",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::35-Congenital-Heart-Disease::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "a3f1cac4d0f9ffdf64514c5d9afc5189d3134d224bb6c949b61eab54079d6957",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::35-Congenital-Heart-Disease"
+      ]
+    },
+    {
+      "first_field_hash": "e8e2c0f9fa3ccdf7ea4d5ca9d0b63bb34cd21ec4e4019c451e7d48614aaad5f0",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::35-Congenital-Heart-Disease::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "06e6b36ed8aedcd1dd272d0d25b8ac696a8ad96d53c33b01a5484a52661a9a6a",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::35-Congenital-Heart-Disease::Class-Content"
       ]
     },
     {
@@ -6914,21 +7053,47 @@
       ]
     },
     {
+      "first_field_hash": "cd69a61b78bb53d5747cc4725f2e2ee82c151dc7729585e65e08c9bb3827fd34",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::35-Congenital-Heart-Disease::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "8abd5de12d6d58cf78d35de230f25fcfb16251f1ca2201167bcc9df60d140c82",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::35-Congenital-Heart-Disease"
+      ]
+    },
+    {
+      "first_field_hash": "f23b0d5f576e00cfdd5d780a410c9075b92ae5df9e9b55acd444721490e2c7fd",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::35-Congenital-Heart-Disease::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "43d80ded421636e57b74b9e94bd62d0b45c711aec1e710304031dc0a40665054",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::02-Normal-Anatomy-of-the-Heart"
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::02-Normal-Anatomy-of-the-Heart",
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::35-Congenital-Heart-Disease"
       ]
     },
     {
       "first_field_hash": "24b10018d72afa4dc30c5d25158a6b5dbd324de21831d55b985ba4e7204c2b93",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::02-Normal-Anatomy-of-the-Heart"
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::02-Normal-Anatomy-of-the-Heart",
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::35-Congenital-Heart-Disease::Class-Content"
       ]
     },
     {
       "first_field_hash": "a798fe5c26387187db7eae00f89e6aca58be437130392abb616f5f2b771ccf59",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::18-Heart-Sounds-&-Clinical-Exam::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "81533de713ce8a13861b96d3d0297a2581e4e8b84c693c253aeff27b9d8061b2",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::35-Congenital-Heart-Disease"
       ]
     },
     {
@@ -6947,7 +7112,8 @@
     {
       "first_field_hash": "d04148b7da7665eac1635f7523759a5b39a37a323ec7c7defe5f686694d34d0b",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::34-Fetal-&-Transitional-Circulation"
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::34-Fetal-&-Transitional-Circulation",
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::35-Congenital-Heart-Disease::Class-Content"
       ]
     },
     {
@@ -6983,6 +7149,12 @@
       ]
     },
     {
+      "first_field_hash": "3f9fdd0939d66a3189936ee1a42b5652e7364c52895e0f5c3ea134bef935b8d6",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::35-Congenital-Heart-Disease::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "9d8f051088d173fb7ef9c33e80f148421591e7bdc4dcdeb0837ab3300662a968",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::35-Congenital-Heart-Disease::Class-Content"
@@ -6995,7 +7167,85 @@
       ]
     },
     {
+      "first_field_hash": "7fe0f99e32ea81c29f39f110bd56f9f33fb26a1e9859ba1150ed20c61ac39a25",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::35-Congenital-Heart-Disease"
+      ]
+    },
+    {
       "first_field_hash": "d0f85a453b026e0efea2ac93e6a381b82365857ea3c7c33cd81600585584fa1d",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::35-Congenital-Heart-Disease::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "37de09925a80485debc9f9a77427ce3b1e2859fdadc050a94c93ab69ce7f4892",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::35-Congenital-Heart-Disease"
+      ]
+    },
+    {
+      "first_field_hash": "f1cd0555bdbd7702081aaf1d2529aecf2b61ee9d5f44985a58478ac52bc32137",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::35-Congenital-Heart-Disease::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "d056375010bad8560a1e0337f33e982706ee29c64f07fb8d68df8c212afe83b8",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::35-Congenital-Heart-Disease::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "ccbbffe21a45124d6ee146c04990d29a895215b3265c55fd90f90aaf0bc17f6b",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::35-Congenital-Heart-Disease::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "1bc51cb419c9191fd3ac818978287783f03c5cc1f3db41576c4117707acf2326",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::35-Congenital-Heart-Disease::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "ce11888bafe09ff41061fb07e67018138e6912e5d143564bebe117f4e813efca",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::35-Congenital-Heart-Disease::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "82cca8bd952e3846d30c575d8fc3f999528ab926d9aaba01a14b07d010c3e256",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::35-Congenital-Heart-Disease"
+      ]
+    },
+    {
+      "first_field_hash": "de8ccec1e1e3ed233130bcc5216cfe0ab3161d439ccd22dc90320f3f92ecfc82",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::35-Congenital-Heart-Disease::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "93f4aa0667dce5112e9802e05c57a339849c38d8bc6e8220e2ed2c01d4dc4668",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::35-Congenital-Heart-Disease::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "26509e05eabf3a300ac9f3b50447807bcd85c060bc8fa7803b339f8cc1184adb",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::35-Congenital-Heart-Disease"
+      ]
+    },
+    {
+      "first_field_hash": "6d6ce3d2e128507cc872fbcb33ab121b04df4fb884feca2278b05da477edfdde",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::35-Congenital-Heart-Disease"
+      ]
+    },
+    {
+      "first_field_hash": "729707dc056fab271461ddbd248d422f2386977d1c2f83b8de040870c3c785b0",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::35-Congenital-Heart-Disease::Class-Content"
       ]
@@ -7007,9 +7257,52 @@
       ]
     },
     {
+      "first_field_hash": "f654a867445531fd852e1ce744270e5cad1dd8bd755b3339422a114a7be3e03b",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::35-Congenital-Heart-Disease"
+      ]
+    },
+    {
+      "first_field_hash": "ebc69d0cc050f11e8e106166ff0e9a8288acc814fe0bb708f0d6ab68b3dfa2ab",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::35-Congenital-Heart-Disease::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "b068c09db9aa9d9de87a56dd2c4d2111b8d67dd418dca8cf01fbea601d92d01a",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::35-Congenital-Heart-Disease"
+      ]
+    },
+    {
+      "first_field_hash": "42a262fe931a8ad126412ddfb65fdf2a717c7f0542a8e8f090efd164922b4a9e",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::35-Congenital-Heart-Disease"
+      ]
+    },
+    {
       "first_field_hash": "28f77d99577bc4ced9d929c6e7960b054ae3d3e70477bfbb546b0f0adc79eb8d",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::30-Hypertension"
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::30-Hypertension",
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::30-Hypertension::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "1d168126ddd5689ceaaf82a7dd47530bfdcdf920fa5e5729f827fa39ef651430",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::35-Congenital-Heart-Disease"
+      ]
+    },
+    {
+      "first_field_hash": "3739076acf5755ad38c1077c0f01d6134650a5a4b49794396734a075f55b8d02",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::35-Congenital-Heart-Disease"
+      ]
+    },
+    {
+      "first_field_hash": "7c34ffe7b02672df2442a40cb4e4c559e97ad920e225762ff51e2e8a498b7e09",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::35-Congenital-Heart-Disease::Class-Content"
       ]
     },
     {
@@ -7266,19 +7559,28 @@
     {
       "first_field_hash": "70968cb16a573bf0752e2df279c9b668a0a75cafb2ce308417ba165455d942e6",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::11-Pathology-of-Cardiomyopathy-and-Myocarditis"
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::11-Pathology-of-Cardiomyopathy-and-Myocarditis",
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::37-Inflammatory-Heart-Disease::Class-Content"
       ]
     },
     {
       "first_field_hash": "8a9e29a31d803fec7f41b6b80e9ba742ecebf79453f27f9900230875e1961b3b",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::11-Pathology-of-Cardiomyopathy-and-Myocarditis"
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::11-Pathology-of-Cardiomyopathy-and-Myocarditis",
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::37-Inflammatory-Heart-Disease"
       ]
     },
     {
       "first_field_hash": "bc9837b673be808ee7a85348fc84fa45c21cfdfab3b106480c31ff852ebf5b23",
       "tags": [
-        "JerryShen_AnKing_Tags::POM-3::Clinical-Reasoning::Approach-to-Acute-Dyspnea"
+        "JerryShen_AnKing_Tags::POM-3::Clinical-Reasoning::Approach-to-Acute-Dyspnea",
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::37-Inflammatory-Heart-Disease::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "e073f1d071d9105a501d791f75b7df6e172882d91f925d60e48096a1a37bc853",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::37-Inflammatory-Heart-Disease::Class-Content"
       ]
     },
     {
@@ -7291,6 +7593,12 @@
       "first_field_hash": "6b83a651c6b10b13b101697b6b57e2e9886708bf9cfe9ff3f7a2e9ab7936aa45",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::17-Valvular-Disease::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "8467b4b0641143000c0a883b0afcdeac89054b29972149a99501cca28c1b40b8",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::37-Inflammatory-Heart-Disease"
       ]
     },
     {
@@ -7365,6 +7673,12 @@
     },
     {
       "first_field_hash": "056f5bae217e9fa4d7c028a7e5b4bc07577b1172953ceb11a7ea74ab7c9618de",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::17-Valvular-Disease::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "940bf2ebe783ae8dda5d0ba0e433f95943711dfa82eac1703503a090cb3ae914",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::17-Valvular-Disease::Class-Content"
       ]
@@ -7618,7 +7932,8 @@
     {
       "first_field_hash": "ee913dba385b573ee39e728e709a5894b2204152db7cdbcf90fe5fc5e4182292",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::11-Pathology-of-Cardiomyopathy-and-Myocarditis::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::11-Pathology-of-Cardiomyopathy-and-Myocarditis::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::37-Inflammatory-Heart-Disease::Class-Content"
       ]
     },
     {
@@ -8086,6 +8401,18 @@
       ]
     },
     {
+      "first_field_hash": "2ef0fafb5eb6ded14884d2cf0feed9f084147b8d9ecd2dea4157b81fa9d92d2b",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::18-Heart-Sounds-&-Clinical-Exam"
+      ]
+    },
+    {
+      "first_field_hash": "b66cbbdcf22c5aae5d1f915d28eb73bd77eec86c991e070df18f7edf8340402b",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::18-Heart-Sounds-&-Clinical-Exam"
+      ]
+    },
+    {
       "first_field_hash": "515009c2b4e06cd39f45b3b47feaa05672c6189d1dc8cbac191ee20fcaab17f1",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::10-Autonomic-Physiology-and-Pharmacology"
@@ -8243,9 +8570,16 @@
       ]
     },
     {
+      "first_field_hash": "a02c7e4839b247a5b92fbcd6f2a1915ff6e83280ed69d6ae40dedb36ce2dc19d",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::35-Congenital-Heart-Disease::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "45afbe4542b40205645863c3f2f63fd2763a1c0da10ccde6a3c4eb39a0e19d9f",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::02-Normal-Anatomy-of-the-Heart"
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::02-Normal-Anatomy-of-the-Heart",
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::35-Congenital-Heart-Disease::Class-Content"
       ]
     },
     {
@@ -8419,32 +8753,55 @@
     {
       "first_field_hash": "c4c879abf17830abccd1220e92f84be97fe7b1c4d848a2b6c024eeabaf1a8b5a",
       "tags": [
-        "JerryShen_AnKing_Tags::POM-3::Clinical-Reasoning::Approach-to-Acute-Dyspnea"
+        "JerryShen_AnKing_Tags::POM-3::Clinical-Reasoning::Approach-to-Acute-Dyspnea",
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::37-Inflammatory-Heart-Disease::Class-Content"
       ]
     },
     {
       "first_field_hash": "a4cbd83433c0a06cd922958fa218dcc844c496cfc866b02d41ff570c7ea38d71",
       "tags": [
         "JerryShen_AnKing_Tags::POM-3::Clinical-Reasoning::Approach-to-Acute-Dyspnea::Class-Content",
-        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::27-The-Abnormal-ECG-Ischemia-&-Infarction::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::27-The-Abnormal-ECG-Ischemia-&-Infarction::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::37-Inflammatory-Heart-Disease::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "27e7ad032594dbdc7c836071421f8768cbff2d7b217f70c85641b300468ab7bd",
+      "tags": [
+        "JerryShen_AnKing_Tags::POM-3::Clinical-Reasoning::Approach-to-Chest-Pain"
       ]
     },
     {
       "first_field_hash": "18a4907a14effa1147ca527fd44d5073814df8e1832511f5edc89f4514ce7f16",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::27-The-Abnormal-ECG-Ischemia-&-Infarction::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::27-The-Abnormal-ECG-Ischemia-&-Infarction::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::37-Inflammatory-Heart-Disease::Class-Content"
       ]
     },
     {
       "first_field_hash": "f7d5fba11b8d30c5fd761c3561043da27180d1de112ebf35d714a787e753efee",
       "tags": [
-        "JerryShen_AnKing_Tags::POM-3::Clinical-Reasoning::Advanced-CV-Exam::Class-Content"
+        "JerryShen_AnKing_Tags::POM-3::Clinical-Reasoning::Advanced-CV-Exam::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::37-Inflammatory-Heart-Disease::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "99dbb54245970735adecd7a0b701e0d08672e070d8925f9e8bfb04c5b75607cf",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::37-Inflammatory-Heart-Disease::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "d442a231addbd10d0125ca910973a3f528b3efbb0b2c8eb7c91ef61b2ccd5255",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::37-Inflammatory-Heart-Disease"
       ]
     },
     {
       "first_field_hash": "1e20f13baa161624a447f56feb2361cbe24b6dbad371cc341fdeac991ff53f84",
       "tags": [
-        "JerryShen_AnKing_Tags::POM-3::Clinical-Reasoning::Advanced-CV-Exam::Class-Content"
+        "JerryShen_AnKing_Tags::POM-3::Clinical-Reasoning::Advanced-CV-Exam::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::37-Inflammatory-Heart-Disease::Class-Content"
       ]
     },
     {
@@ -8463,7 +8820,8 @@
       "first_field_hash": "b6bcefe0809808e5272dbe43271243a01f454807dd6abd7eec0571984cb57fdb",
       "tags": [
         "JerryShen_AnKing_Tags::POM-3::Clinical-Reasoning::Advanced-CV-Exam::Class-Content",
-        "JerryShen_AnKing_Tags::POM-3::Clinical-Reasoning::Approach-to-Shock::Class-Content"
+        "JerryShen_AnKing_Tags::POM-3::Clinical-Reasoning::Approach-to-Shock::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::37-Inflammatory-Heart-Disease::Class-Content"
       ]
     },
     {
@@ -8893,6 +9251,12 @@
       "first_field_hash": "9c94eb8ae6ed24e4f0c6f6d41bf8318510a80c0add7697e87f56f645c006dcb7",
       "tags": [
         "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-1-Thorax::Anatomy::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "321d448f543d020189b947c4b56ad87519346220db10884b748632ce85f36fe1",
+      "tags": [
+        "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-1-Thorax::Anatomy"
       ]
     },
     {
@@ -10465,6 +10829,7 @@
     {
       "first_field_hash": "0546ab42447fe58ff562dadb1d4e3e34e0ea4f38cf4798e1ba4679571c449657",
       "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::35-Congenital-Heart-Disease",
         "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::03-Ventilation-and-Diffusion"
       ]
     },
@@ -11338,6 +11703,12 @@
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::04-O2-and-CO2-Transport",
         "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::04-O2-and-CO2-Transport::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "08ba17b84eea9413b540d8d3fd014ad38c1529b58c1296bbebe7b573e3b64a6b",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::09-Acid-Base-Control-and-Exercise-Physiology"
       ]
     },
     {
@@ -15210,7 +15581,7 @@
       ]
     },
     {
-      "first_field_hash": "48e47a46250ae5ead32e5b15c46d5d6bd2f2c1cffa2d9ad770fbfa3ea5c288fc",
+      "first_field_hash": "5ab58dfe0f6712a6a0110fec87d4ac5c0a998cd9844203dcd007e02ad529107d",
       "tags": [
         "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-1-Thorax::Anatomy::Class-Content"
       ]
@@ -15226,6 +15597,12 @@
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::16-Lower-Respiratory-Infections",
         "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::23-Pleural-Disease::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "9ca70644d955361429bf59d41fce0c19216ef703adb410188d0b1779af1629c4",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::35-Congenital-Heart-Disease"
       ]
     },
     {
@@ -16399,6 +16776,12 @@
       ]
     },
     {
+      "first_field_hash": "087b8eaa4c9e555420dc5abe1816d3eb9eb704624dff6027848469b52b827124",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::37-Inflammatory-Heart-Disease"
+      ]
+    },
+    {
       "first_field_hash": "4f32cb1459e3bc0fa0e026afe5c168e977a755e14bfa9942025f1d32b78c41ee",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::15-Pathophysiology-&-Treatment-of-Heart-Failure"
@@ -16752,7 +17135,7 @@
       ]
     },
     {
-      "first_field_hash": "c873ef28d182c8a5b76d12a5118d8f831e7958e2623c894571cab0131f01e877",
+      "first_field_hash": "731be72d1f6e7c987fb3a724e08596f4c5b8c1eae17995b93183eb75b0e001f4",
       "tags": [
         "JerryShen_AnKing_Tags::Biochemistry::Final::03-Lipid-Metabolism"
       ]
@@ -16761,7 +17144,8 @@
       "first_field_hash": "cc1fb0fb2ebede67232f28e5b53096956db1e126aec3b05034fc51b015fb1621",
       "tags": [
         "JerryShen_AnKing_Tags::Biochemistry::Final::03-Lipid-Metabolism::Class-Content",
-        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::29-Therapies-for-IHD::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::29-Therapies-for-IHD::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::36-Lymphatics::Class-Content"
       ]
     },
     {
@@ -18647,6 +19031,12 @@
       ]
     },
     {
+      "first_field_hash": "6f8d532bf38a549f8085753aca821dd6828226d92f5aff847a2850903be2df7e",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::35-Congenital-Heart-Disease::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "4969871e37d688d0c23b79c814630d5c50401cec61973da6cdbc054d05543d8c",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::10-Autonomic-Physiology-and-Pharmacology::Class-Content"
@@ -19241,7 +19631,7 @@
       ]
     },
     {
-      "first_field_hash": "57eb5bc4e3dba215b718866371e001480c621619c113cc6e3b21bd5bf18ff675",
+      "first_field_hash": "cdaa37f608f4eeceb9e44f7fe4c896b58b91764c5c3b111290e1406c6bf2e3d3",
       "tags": [
         "JerryShen_AnKing_Tags::Neurobiology::Exam-1::Class-Content"
       ]
@@ -25241,6 +25631,12 @@
       ]
     },
     {
+      "first_field_hash": "85adc6a24691609459aa5467429090ed00da263f1cb0462704646f6a4de70c63",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::36-Lymphatics"
+      ]
+    },
+    {
       "first_field_hash": "c369603a765bf2cac4d09afa4c15634d8e8c04560110ee67b9f4b4d79c38f5e0",
       "tags": [
         "JerryShen_AnKing_Tags::POM-2::Final::Nutrition"
@@ -25437,6 +25833,12 @@
       "first_field_hash": "6307b2fd8bb53b0c6681b2f8c2a82aa5a0dcea96eaf979f2d9429828221d05f9",
       "tags": [
         "JerryShen_AnKing_Tags::POM-3::Clinical-Reasoning::Approach-to-Cough"
+      ]
+    },
+    {
+      "first_field_hash": "761567339c59669fff734257f6f3b8c6c97668b6bb75df2c5aa0ee75d9752a49",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::MSK-Block::09-Geriatric-Orthopedics::Class-Content"
       ]
     },
     {
@@ -27476,6 +27878,18 @@
       ]
     },
     {
+      "first_field_hash": "89e2b3f300e202457abaad7efde78705ddbc8eb627206063100d29bb37f292c8",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::35-Congenital-Heart-Disease"
+      ]
+    },
+    {
+      "first_field_hash": "4261009c26b0a318879bb75b80cf185a10d1ec896bcce18f934cee16438ba250",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::35-Congenital-Heart-Disease"
+      ]
+    },
+    {
       "first_field_hash": "74dda20971d8022bbe0123c1d13d937641785a8f7cad050da50ad5fac5307a37",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::09-Supraventricular-Tachycardia-&-Antiarrhythmics"
@@ -27752,15 +28166,14 @@
       "first_field_hash": "54d626e08c1c802b305dad30b7e54a82f102390cc92c7d4db112048935236e9c",
       "tags": [
         "JerryShen_AnKing_Tags::(✏️)-Tagged-by-Jerry-Shen",
-        "JerryShen_AnKing_Tags::(🛠️)-Last-Updated-05262026"
+        "JerryShen_AnKing_Tags::(🛠️)-Last-Updated-06042026"
       ]
     },
     {
       "first_field_hash": "54d626e08c1c802b305dad30b7e54a82f102390cc92c7d4db112048935236e9c",
       "tags": [
-        "JerryShen_AnKing_Tags::(⚠️)-VOTE-IN-SMSA-ELECTIONS!-(⚠️)",
         "JerryShen_AnKing_Tags::(✏️)-Tagged-by-Jerry-Shen",
-        "JerryShen_AnKing_Tags::(🛠️)-Last-Updated-05262026"
+        "JerryShen_AnKing_Tags::(🛠️)-Last-Updated-06042026"
       ]
     },
     {
@@ -28086,6 +28499,12 @@
       "first_field_hash": "f18d2a580e8bc2962533f63a631ccd5300fc5188f37827dd2de22ac70fa26d4d",
       "tags": [
         "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-3-Abdomen::Anatomy::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "e5f122da849ad73acfe9ee2b31666c155860e80b521d337e3d9be278417513b6",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::36-Lymphatics"
       ]
     },
     {
@@ -30330,6 +30749,48 @@
       ]
     },
     {
+      "first_field_hash": "69d1902a263d82d3705a8ec39603772f1a18cc1e898d62bd7c0889cc9d78504e",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::MSK-Block::09-Geriatric-Orthopedics::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "034d0a6e8eb937377bf26f6412d1ff5c6f437077075cc7bcf1fbbc4197417127",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::MSK-Block::09-Geriatric-Orthopedics::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "e575debb871adee6736b0f4265366cc3828127770679ec11351e5cff39e32690",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::MSK-Block::09-Geriatric-Orthopedics::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "af356b0a4836c2c20989a1232417cbb23aa2f1e2b9f46521a4ce5a9dbcdea56e",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::MSK-Block::09-Geriatric-Orthopedics::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "bf3b9361bbf01b22e12eb9aa27342ca7df5740a0e6bcb787f59f88b1e5115c27",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::MSK-Block::09-Geriatric-Orthopedics::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "274f53cce81023421737a3a926372d045b861803be562d92222555ba31779893",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::MSK-Block::09-Geriatric-Orthopedics"
+      ]
+    },
+    {
+      "first_field_hash": "fea948c29ebba43d3aa6b65031c4a078accbd2b8f900f5bba58213d853e35d88",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::MSK-Block::09-Geriatric-Orthopedics"
+      ]
+    },
+    {
       "first_field_hash": "01a8373c74aa55ee13e9ce45abe95717eb9963b4a961294ddc9b9a790d2d51cb",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::MSK-Block::04-Upper-Limb-Pathology::Class-Content"
@@ -30521,7 +30982,16 @@
     {
       "first_field_hash": "f1673fc6f8902e5a388953f402cc9d20db1e27ee0f897f00eaf2ad998a0d28c5",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-1::MSK-Block::03-Bone-&-Soft-Tissue-Neoplasms"
+        "JerryShen_AnKing_Tags::SOM-1::MSK-Block::03-Bone-&-Soft-Tissue-Neoplasms",
+        "JerryShen_AnKing_Tags::SOM-1::MSK-Block::Lab-01-MSK-Cases"
+      ]
+    },
+    {
+      "first_field_hash": "6c81092396cd8994176463d6ed4b7fc2f04a07058071c89e12e46f3872492a7b",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::MSK-Block::03-Bone-&-Soft-Tissue-Neoplasms",
+        "JerryShen_AnKing_Tags::SOM-1::MSK-Block::Lab-01-MSK-Cases",
+        "JerryShen_AnKing_Tags::SOM-1::MSK-Block::Lab-01-MSK-Cases::Class-Content"
       ]
     },
     {
@@ -30601,7 +31071,8 @@
     {
       "first_field_hash": "bbe42256401cfea22d493c272255efd5a3ab44ef604bd1a42d83904e2dfaf61c",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-1::MSK-Block::05-Lower-Limb-Pathology::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-1::MSK-Block::05-Lower-Limb-Pathology::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-1::MSK-Block::09-Geriatric-Orthopedics::Class-Content"
       ]
     },
     {
@@ -30617,6 +31088,12 @@
       ]
     },
     {
+      "first_field_hash": "e1833d87ea64ce3458d10cfe564c69248698c382a81405df5c764be37ab42c96",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::MSK-Block::09-Geriatric-Orthopedics::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "c1e10a735380748cf86eaa7765c909182df4f753d764e83d9c7b5be3621b93e4",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::MSK-Block::05-Lower-Limb-Pathology::Class-Content"
@@ -30629,6 +31106,12 @@
       ]
     },
     {
+      "first_field_hash": "9b01c13a6e77806baa2419aecbb26bf8a9e72f21192e48270a238d3b7a48ce30",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::MSK-Block::09-Geriatric-Orthopedics"
+      ]
+    },
+    {
       "first_field_hash": "d65965b149f905e33acf728179cda8855e82846b1f235006ba0ab6aba4f2af9b",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::MSK-Block::05-Lower-Limb-Pathology::Class-Content"
@@ -30637,7 +31120,8 @@
     {
       "first_field_hash": "400052664b7fcff08e7abb31ce155d5987e6d23a3839df1ff2ca316fef41fd80",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-1::MSK-Block::05-Lower-Limb-Pathology::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-1::MSK-Block::05-Lower-Limb-Pathology::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-1::MSK-Block::09-Geriatric-Orthopedics::Class-Content"
       ]
     },
     {
@@ -30662,6 +31146,18 @@
       "first_field_hash": "4a86fed858ec80d715e822d863de00496a8d7e005756e104aa9ca0c129cea8e0",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::MSK-Block::05-Lower-Limb-Pathology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "6af35943148d3c3fe41b71cab0b114bb4d3f3042af057e209d52a48cd68d83c3",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::MSK-Block::09-Geriatric-Orthopedics::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "ba142e85cef86df7f970d0ed129a6bc69472dc2a2ebe94e9fa06f2a7eb58009c",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::MSK-Block::Lab-01-MSK-Cases"
       ]
     },
     {
@@ -30700,6 +31196,12 @@
       "tags": [
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-2::10-Biologics-Ectoparasites-&-Clinical-Cases",
         "JerryShen_AnKing_Tags::SOM-1::MSK-Block::02-Bone-&-Joint-Infections::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "7163b4b396d1a6410dd6b1547ce2166f5bad935b1cbcc5545a06ff629d6b28f7",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::MSK-Block::Lab-01-MSK-Cases"
       ]
     },
     {
@@ -30746,9 +31248,39 @@
       ]
     },
     {
+      "first_field_hash": "1b309adf77b0f9f715729f8736fc7e14124ecf91880981851e844de051289950",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::MSK-Block::Lab-01-MSK-Cases"
+      ]
+    },
+    {
       "first_field_hash": "641e5f53c1e3654583dc0250c7bceadf820ef8a4c50d872b7fdc36dd2fcfc301",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::MSK-Block::02-Bone-&-Joint-Infections::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "79e6f8a063f6362e7c4cbab4c929fb76877032d87ab1887343c3b882e4bf801f",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::MSK-Block::Lab-01-MSK-Cases"
+      ]
+    },
+    {
+      "first_field_hash": "47bef2e2e5b97f0cfc0c2aaff269705d05ab4e657086563eea937130fd0fc42c",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::MSK-Block::Lab-01-MSK-Cases"
+      ]
+    },
+    {
+      "first_field_hash": "016486bb0975e636578c563d617dc16bba0820c048e25729234e9fc272fb6c6f",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::MSK-Block::Lab-01-MSK-Cases"
+      ]
+    },
+    {
+      "first_field_hash": "a1c71299d369cdca665c5bf26a9df32c3b9c425b6c9b7cf957dfcfae99e054c0",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::MSK-Block::Lab-01-MSK-Cases"
       ]
     },
     {
@@ -31176,6 +31708,12 @@
       ]
     },
     {
+      "first_field_hash": "e5424d7a86ff7cd6bc0eff11ef26677f05c8d3d116568632659d86cbebfc93b8",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::37-Inflammatory-Heart-Disease"
+      ]
+    },
+    {
       "first_field_hash": "fbcb237cb7263eb6e806fdeea12a709f5bc2629739db5913846425decc3a782a",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::29-Therapies-for-IHD"
@@ -31383,31 +31921,36 @@
     {
       "first_field_hash": "9a94a188539cb942a886beb00449732dddd19031b36735af0671d1d5f2d75753",
       "tags": [
-        "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-7-Head-&-Neck-2::Embryology"
+        "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-7-Head-&-Neck-2::Embryology",
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::33-Cardiac-Embryology::Class-Content"
       ]
     },
     {
       "first_field_hash": "0a7858ce2f1a75603dc92a3eee7177e6b376b9ff5701bc913c2b4bad0b29f960",
       "tags": [
-        "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-7-Head-&-Neck-2::Embryology"
+        "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-7-Head-&-Neck-2::Embryology",
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::33-Cardiac-Embryology::Class-Content"
       ]
     },
     {
       "first_field_hash": "79d2356b32ae67449cf553e6b511c6762ea3e8a4352acc474440b7f752509174",
       "tags": [
-        "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-7-Head-&-Neck-2::Embryology::Class-Content"
+        "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-7-Head-&-Neck-2::Embryology::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::33-Cardiac-Embryology::Class-Content"
       ]
     },
     {
       "first_field_hash": "96c46e55e601010525b27fe85ca1bea73f015bab1eefc3c806d4756fe47f485e",
       "tags": [
-        "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-7-Head-&-Neck-2::Embryology::Class-Content"
+        "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-7-Head-&-Neck-2::Embryology::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::33-Cardiac-Embryology::Class-Content"
       ]
     },
     {
       "first_field_hash": "305f9dd3b492fd4d04504acf3b2f04fe56bd2376de60eb8ff96427b4e9f6f33d",
       "tags": [
-        "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-7-Head-&-Neck-2::Embryology::Class-Content"
+        "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-7-Head-&-Neck-2::Embryology::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::33-Cardiac-Embryology::Class-Content"
       ]
     },
     {
@@ -31574,7 +32117,7 @@
       ]
     },
     {
-      "first_field_hash": "7124570d4e0a9d5b2b9e3e953e586cdb464900bd957c0bd50cbefdc34107b195",
+      "first_field_hash": "bbba07378892326fbbd0d7aebb4234646a16e7b77ab4c65f3212883856cda48f",
       "tags": [
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-2::07-β-Lactam-Antibiotics-&-Parasites"
       ]
@@ -32498,6 +33041,12 @@
       "first_field_hash": "45d98f1a9477c442a2c3922a2b8b616097cd9c9974cec220c05d0b7c7ef2e4de",
       "tags": [
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-2::10-Biologics-Ectoparasites-&-Clinical-Cases"
+      ]
+    },
+    {
+      "first_field_hash": "11a6100b445688f2d51f7c6788d671110940237e6ccc5f2660ae347613e518fb",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::MSK-Block::09-Geriatric-Orthopedics::Class-Content"
       ]
     },
     {
@@ -33660,7 +34209,7 @@
       ]
     },
     {
-      "first_field_hash": "4995b2b15bd3bf344d5e675e9d48821e75a1d7d7c39d5299c1e93e6c3d306ee0",
+      "first_field_hash": "6220b83683b769fcf2fdd4a23b487b804f5b60f864b13ba0fd0e1ff4cb4fa28c",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::MSK-Block::04-Upper-Limb-Pathology"
       ]
@@ -33687,7 +34236,9 @@
     {
       "first_field_hash": "5f1551d5cbdf4a9e546ae61e38cf2b87f32743d0cd3f1cdde557a9d399f588d3",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-1::MSK-Block::Extra-Upper-Limb-Pathology"
+        "JerryShen_AnKing_Tags::SOM-1::MSK-Block::04-Upper-Limb-Pathology",
+        "JerryShen_AnKing_Tags::SOM-1::MSK-Block::04-Upper-Limb-Pathology::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-1::MSK-Block::Lab-01-MSK-Cases"
       ]
     },
     {
@@ -33853,7 +34404,8 @@
       "first_field_hash": "97cc0a78ac7f322b3fbbfee0f791d952cad2cd5544db02382519428ae0681e18",
       "tags": [
         "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-2-Upper-Limb::Anatomy::Class-Content",
-        "JerryShen_AnKing_Tags::SOM-1::MSK-Block::04-Upper-Limb-Pathology"
+        "JerryShen_AnKing_Tags::SOM-1::MSK-Block::04-Upper-Limb-Pathology",
+        "JerryShen_AnKing_Tags::SOM-1::MSK-Block::04-Upper-Limb-Pathology::Class-Content"
       ]
     },
     {
@@ -34034,13 +34586,15 @@
     {
       "first_field_hash": "255176d6d96de3f9058907003f6ac25c05d4587847c0c6bce261752242e46e83",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-1::MSK-Block::Extra-Upper-Limb-Pathology"
+        "JerryShen_AnKing_Tags::SOM-1::MSK-Block::Extra-Upper-Limb-Pathology",
+        "JerryShen_AnKing_Tags::SOM-1::MSK-Block::Lab-01-MSK-Cases"
       ]
     },
     {
       "first_field_hash": "549c5215bc9649d230a11fe4c5deb6945f4455948f79ebd7f83cef1107d5bbac",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-1::MSK-Block::Extra-Upper-Limb-Pathology"
+        "JerryShen_AnKing_Tags::SOM-1::MSK-Block::Extra-Upper-Limb-Pathology",
+        "JerryShen_AnKing_Tags::SOM-1::MSK-Block::Lab-01-MSK-Cases"
       ]
     },
     {
@@ -34052,7 +34606,8 @@
     {
       "first_field_hash": "d3d6fd1cb63a43cc4bd3d8f3216cd05174afbf3c6cec00629ec77027cba7d2d0",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-1::MSK-Block::Extra-Upper-Limb-Pathology"
+        "JerryShen_AnKing_Tags::SOM-1::MSK-Block::Extra-Upper-Limb-Pathology",
+        "JerryShen_AnKing_Tags::SOM-1::MSK-Block::Lab-01-MSK-Cases"
       ]
     },
     {
@@ -34238,6 +34793,12 @@
       ]
     },
     {
+      "first_field_hash": "b9d0d02ef9e19dd6aec04964e2949da33662df2c0026776a7814d021ee9d227b",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::MSK-Block::05-Lower-Limb-Pathology"
+      ]
+    },
+    {
       "first_field_hash": "9f98d4a486e0783c07a09e8ee4d3c0910cc5f3d132edf4879bec83bdbb2821b6",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::MSK-Block::05-Lower-Limb-Pathology"
@@ -34362,9 +34923,21 @@
       ]
     },
     {
+      "first_field_hash": "9e43d0b5825f85649b1a7508f53a7b9ab6f06bcc35d37776783b6f67c440347a",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::MSK-Block::Lab-01-MSK-Cases"
+      ]
+    },
+    {
       "first_field_hash": "0143aeb587325c4d0079642b5a792e564a93491b18315c6826949e7a613e99eb",
       "tags": [
         "JerryShen_AnKing_Tags::Biochemistry::Final::06-Nucleic-Acid-Metabolism"
+      ]
+    },
+    {
+      "first_field_hash": "faa2356e7b2a4caa01864f58d9b17ca766406058693eff084d18bc24aee63463",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::37-Inflammatory-Heart-Disease::Class-Content"
       ]
     },
     {
@@ -34392,6 +34965,12 @@
       ]
     },
     {
+      "first_field_hash": "c0e1aa97a8b34d75383e939e749b5cfe4b141a13880308990446b629b58aadb0",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::17-Valvular-Disease"
+      ]
+    },
+    {
       "first_field_hash": "2d32ad55be7e0905b60013bdfbba1e8f9e176e4aa4d6e71ccf6801b5c51af372",
       "tags": [
         "JerryShen_AnKing_Tags::POM-3::Clinical-Reasoning::Approach-to-Syncope"
@@ -34402,6 +34981,12 @@
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::10-Autonomic-Physiology-and-Pharmacology",
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::15-Pathophysiology-&-Treatment-of-Heart-Failure::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "d1f68c1e6acb7d4ac4586ae7b9607c65e6c26b284254ce9d6c271ca37b21eef8",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::35-Congenital-Heart-Disease"
       ]
     },
     {
@@ -34563,9 +35148,16 @@
       ]
     },
     {
+      "first_field_hash": "f08f4ad5aedd5e44390998efcd4a377d3f3d8dd8596343be050b5683b3e31423",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::37-Inflammatory-Heart-Disease"
+      ]
+    },
+    {
       "first_field_hash": "ecded882756fef9623e9dfe7b0cabfeb937d5d4dc629127b7d52da11f5341ac6",
       "tags": [
-        "JerryShen_AnKing_Tags::Immunology::Final::Innate-Sensing::Class-Content"
+        "JerryShen_AnKing_Tags::Immunology::Final::Innate-Sensing::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-1::MSK-Block::Lab-01-MSK-Cases::Class-Content"
       ]
     },
     {
@@ -34596,6 +35188,18 @@
       "first_field_hash": "d4f4890447e67d238b5e9496a800aa035913a142fd977cb96c8789a18fa6059e",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::09-Supraventricular-Tachycardia-&-Antiarrhythmics"
+      ]
+    },
+    {
+      "first_field_hash": "30364222fe5a3906fe60ea12d0d6c9db8c39f130d0a6a81519d5b634e62eeec0",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::37-Inflammatory-Heart-Disease"
+      ]
+    },
+    {
+      "first_field_hash": "c998631bb0c43a56371a7753de709db1971a05883a5bfeaaf8063780ff7314fe",
+      "tags": [
+        "JerryShen_AnKing_Tags::POM-3::Clinical-Reasoning::Approach-to-Chest-Pain"
       ]
     },
     {
@@ -34842,6 +35446,13 @@
       ]
     },
     {
+      "first_field_hash": "eb633c4361a050fb4e62c2e55252454c2fff56caa881149588e585d97e934e61",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::MSK-Block::09-Geriatric-Orthopedics",
+        "JerryShen_AnKing_Tags::SOM-1::MSK-Block::09-Geriatric-Orthopedics::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "fe371da9c00f7e197e7ece8fe60b4eacb79063ada6574145167a124f8f845c41",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::25-Coronary-Circulation::Class-Content"
@@ -34923,6 +35534,12 @@
       "first_field_hash": "8c9ea26bdc1a48dc55798cf7c9befcdc619cf95452f4b9ea4ce66b28ec155352",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::01-Introduction-to-CV-Block"
+      ]
+    },
+    {
+      "first_field_hash": "b32d6d50b4c0390a28bc209e95f2674261f322d305e2f6ae98837867bdb136fc",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::35-Congenital-Heart-Disease"
       ]
     },
     {
@@ -35030,9 +35647,27 @@
       ]
     },
     {
+      "first_field_hash": "caa4d2448ef75ba9082a212e602e7ba31cb44f1a5ec9f49e8d729df3effa035b",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::37-Inflammatory-Heart-Disease"
+      ]
+    },
+    {
       "first_field_hash": "1db01ef559627fd93477dd7a7c5289414dab0faee532ee76543d7058ec086247",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::25-Coronary-Circulation"
+      ]
+    },
+    {
+      "first_field_hash": "c21bc237ea9dc8422c658de4472b5c3413ee401989063b45a249d98ed1d4e6d7",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::35-Congenital-Heart-Disease"
+      ]
+    },
+    {
+      "first_field_hash": "d81d30268239fcb3a825ac139c398e47675f8e235761a773de402e0eb03a7c3f",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::35-Congenital-Heart-Disease"
       ]
     },
     {
@@ -36477,6 +37112,13 @@
       ]
     },
     {
+      "first_field_hash": "5a634c5a996231961bb10c5a1f79cfe0ed6b7e4935f93cccd2befe1707d52a50",
+      "tags": [
+        "JerryShen_AnKing_Tags::POM-3::Clinical-Reasoning::Approach-to-Chest-Pain",
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::37-Inflammatory-Heart-Disease::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "740619cc97f61cc84c7e2bd6a69d76fc10580566660f021945d100731b38bdbe",
       "tags": [
         "JerryShen_AnKing_Tags::Immunology::Final::Complement::Class-Content"
@@ -36998,7 +37640,8 @@
       "first_field_hash": "7f99a70690e7cc52bba00c267faa41012243435fcef1a4c9be31be5c6e23dabe",
       "tags": [
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-1::02-S.pyogenes-&-E.coli",
-        "JerryShen_AnKing_Tags::Micro-Pharm::Exam-1::04-Intro-to-Viruses::Class-Content"
+        "JerryShen_AnKing_Tags::Micro-Pharm::Exam-1::04-Intro-to-Viruses::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::37-Inflammatory-Heart-Disease::Class-Content"
       ]
     },
     {
@@ -37039,6 +37682,7 @@
       "tags": [
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-1::02-S.pyogenes-&-E.coli",
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-1::02-S.pyogenes-&-E.coli::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::37-Inflammatory-Heart-Disease::Class-Content",
         "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::15-Upper-Respiratory-Infections::Class-Content"
       ]
     },
@@ -37046,6 +37690,7 @@
       "first_field_hash": "bb04be91cc653872992ed6a1b867afe235b301fef87e97f77a89f58f5ed07a50",
       "tags": [
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-1::02-S.pyogenes-&-E.coli",
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::37-Inflammatory-Heart-Disease",
         "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::15-Upper-Respiratory-Infections"
       ]
     },
@@ -37058,7 +37703,9 @@
     {
       "first_field_hash": "ac6c1d8d8a1a63d38ead36508707ca419ce251fedda83edc58bbf634e293c8f7",
       "tags": [
-        "JerryShen_AnKing_Tags::Micro-Pharm::Exam-1::02-S.pyogenes-&-E.coli"
+        "JerryShen_AnKing_Tags::Micro-Pharm::Exam-1::02-S.pyogenes-&-E.coli",
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::37-Inflammatory-Heart-Disease",
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::37-Inflammatory-Heart-Disease::Class-Content"
       ]
     },
     {
@@ -37102,6 +37749,7 @@
       "tags": [
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-1::02-S.pyogenes-&-E.coli",
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-1::02-S.pyogenes-&-E.coli::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::37-Inflammatory-Heart-Disease::Class-Content",
         "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::15-Upper-Respiratory-Infections::Class-Content"
       ]
     },
@@ -37639,7 +38287,8 @@
     {
       "first_field_hash": "3c52901430cc344d376056822060e43d3b7f3d5c0c76abb024c659d232face0a",
       "tags": [
-        "JerryShen_AnKing_Tags::Micro-Pharm::Exam-2::07-β-Lactam-Antibiotics-&-Parasites"
+        "JerryShen_AnKing_Tags::Micro-Pharm::Exam-2::07-β-Lactam-Antibiotics-&-Parasites",
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::37-Inflammatory-Heart-Disease::Class-Content"
       ]
     },
     {
@@ -37934,6 +38583,12 @@
       ]
     },
     {
+      "first_field_hash": "7b1810518b637ac8d7289302a74ac0ff98bdaa74e16d2b4107894bceeda0c10a",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::MSK-Block::Lab-01-MSK-Cases"
+      ]
+    },
+    {
       "first_field_hash": "4c65eb6728c13675110b917b12a8a64865805461fc857182faddbed1c14c5525",
       "tags": [
         "JerryShen_AnKing_Tags::Biochemistry::Final::06-Nucleic-Acid-Metabolism::Class-Content"
@@ -37943,6 +38598,12 @@
       "first_field_hash": "4883c8ac04ffae15f51acf36b35d76d88eb7e81252f52b1f3f87b45045a8fc20",
       "tags": [
         "JerryShen_AnKing_Tags::Biochemistry::Final::06-Nucleic-Acid-Metabolism::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "d19b7086de4a72bb85d4e9cc11635eba9e7a27aa220f987f70e5878bf042266c",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::MSK-Block::Lab-01-MSK-Cases"
       ]
     },
     {
@@ -38367,6 +39028,12 @@
       "first_field_hash": "acbaf12817c44316f477eb6e160fc6e234d91e3ee1a0cc7d46bd99313cc47d26",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::MSK-Block::06-Backache"
+      ]
+    },
+    {
+      "first_field_hash": "ce35d3ea89bd8ea44b87cf5d85aefb1493bd7066333c62229729d0aec796ca66",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::MSK-Block::09-Geriatric-Orthopedics::Class-Content"
       ]
     },
     {
@@ -40028,7 +40695,7 @@
       ]
     },
     {
-      "first_field_hash": "b64d152cfdf8820ed159dfed4f5f5263ef4228bf747eb62bddb49e55cfa82623",
+      "first_field_hash": "9aca10f36fd1a2b47292d16891910210da1505609e9dab7a1a903877733706fd",
       "tags": [
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-1::04-Intro-to-Viruses"
       ]
@@ -40902,7 +41569,7 @@
       ]
     },
     {
-      "first_field_hash": "34484c35b2acadd3a35d1802e66fbbe959795757e667f87b7ab201511532a499",
+      "first_field_hash": "9bf59690bc4b41e02b3297935d1df0be2c7e3a4555b5bb584a9c3690823160f3",
       "tags": [
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-2::08-Other-Antibiotics-&-Mycobacteria::Class-Content"
       ]
@@ -43457,6 +44124,12 @@
       ]
     },
     {
+      "first_field_hash": "a62c7a8734bcc881a8f6e956ae21d241ca5dcb218c9533665f5fe5eb15108a34",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::35-Congenital-Heart-Disease"
+      ]
+    },
+    {
       "first_field_hash": "0105c38ef00bf514ab21e4cb48f8269d29902b4b3f004937ebb5088adc06f768",
       "tags": [
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-1::03-C.diff-&-Pseudomonas"
@@ -44615,6 +45288,12 @@
       ]
     },
     {
+      "first_field_hash": "26d14600aeca6eba0240e624aa7d06c91fdb3a7f7910076322ee02649d60de58",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::MSK-Block::05-Lower-Limb-Pathology"
+      ]
+    },
+    {
       "first_field_hash": "e0e3a9a499a11119277adc3f991d20ba0de773822221344a06f0c97b21a548c1",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::MSK-Block::08-Pediatric-Orthopaedics::Class-Content"
@@ -44715,6 +45394,12 @@
       ]
     },
     {
+      "first_field_hash": "a57b0f1b027966f55829846628cf69bbd3651db94fe1e7180728e7c70e99b014",
+      "tags": [
+        "JerryShen_AnKing_Tags::Micro-Pharm::Exam-1::04-Intro-to-Viruses"
+      ]
+    },
+    {
       "first_field_hash": "5ffec49ebbf43109193e51ae4c17a97b2c0678094e31b85656aa85093dea5c54",
       "tags": [
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-1::04-Intro-to-Viruses"
@@ -44724,6 +45409,12 @@
       "first_field_hash": "08a12b324182610cb142254fa139f41780ff48dd34b8b60a306d5100443d843f",
       "tags": [
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-1::04-Intro-to-Viruses"
+      ]
+    },
+    {
+      "first_field_hash": "71e8fef6aeb4ec3e6424ad9d63e1a12b8500eb1dec4d60ab9bf556795754b85c",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::35-Congenital-Heart-Disease"
       ]
     },
     {
@@ -45411,7 +46102,8 @@
     {
       "first_field_hash": "ad14851b20ad63183bd4674513ae5612523743851000e458a6a7b86b6c0d0a4e",
       "tags": [
-        "JerryShen_AnKing_Tags::Micro-Pharm::Exam-1::04-Intro-to-Viruses::Class-Content"
+        "JerryShen_AnKing_Tags::Micro-Pharm::Exam-1::04-Intro-to-Viruses::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::37-Inflammatory-Heart-Disease"
       ]
     },
     {
@@ -45664,6 +46356,12 @@
       ]
     },
     {
+      "first_field_hash": "b12126e0b064aed4b6a9c0ed754b77844bf4df90eda74fdf501132a65f14ca6d",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::MSK-Block::05-Lower-Limb-Pathology"
+      ]
+    },
+    {
       "first_field_hash": "0104e66ecaf6f029e2ad29e25a15481c5fea907f4fcfc08a02893e367f331529",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::MSK-Block::06-Backache"
@@ -45678,7 +46376,8 @@
     {
       "first_field_hash": "37533eb8c0db38291f0dd66c6fba8390677b958b65bf46c74647954c85c5470e",
       "tags": [
-        "JerryShen_AnKing_Tags::Micro-Pharm::Exam-1::04-Intro-to-Viruses"
+        "JerryShen_AnKing_Tags::Micro-Pharm::Exam-1::04-Intro-to-Viruses",
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::37-Inflammatory-Heart-Disease::Class-Content"
       ]
     },
     {
@@ -45724,6 +46423,12 @@
       ]
     },
     {
+      "first_field_hash": "fedd9adfdc03cc73f67ad79a697d6af7e34d9d3cd01a91f0c6f70ca9dfcfc795",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::36-Lymphatics"
+      ]
+    },
+    {
       "first_field_hash": "311bbf92ff2b84bf6d64dbec590faad1843b58eb4c39c1a9f103e34448000299",
       "tags": [
         "JerryShen_AnKing_Tags::Immunology::Final::Immune-Deficiencies"
@@ -45736,9 +46441,21 @@
       ]
     },
     {
+      "first_field_hash": "e1edeadefbb5ad57ad780d1609d916cc68265a32f9dccfe317ae7846a811d1b3",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::37-Inflammatory-Heart-Disease::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "0453eb8f1daf9165b835142065d436f144a9e4d1503fd1a1aff60358e25d24ac",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::10-Autonomic-Physiology-and-Pharmacology"
+      ]
+    },
+    {
+      "first_field_hash": "a0cf9162ca8c8e2bc1ebebfbd16e11eb74600b1ccfe4a38db594c1ff3f969014",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::35-Congenital-Heart-Disease"
       ]
     },
     {
@@ -45748,9 +46465,33 @@
       ]
     },
     {
+      "first_field_hash": "7b84075062fce8d9a611440693965d7c011f8e1b522bf615e90056e1af6a6743",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::35-Congenital-Heart-Disease"
+      ]
+    },
+    {
       "first_field_hash": "a155b97aec9cd6267abd010c81173596e6f13efceceb690b7f05bfa795224050",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::05-The-Normal-ECG"
+      ]
+    },
+    {
+      "first_field_hash": "f36984cad9e7e6e9f9fe107bfcc71ed3bde8027de74db5fe746bf815d1cf38d5",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::35-Congenital-Heart-Disease::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "59d92978907adc9411fad82ecbc269dbc6eadd46fe2c279bb821d622086558f6",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::35-Congenital-Heart-Disease::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "188396fca1b6fa9e46bf9d85ae5512fe9a347ce604a413c58b6e903ac23d9cac",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::37-Inflammatory-Heart-Disease::Class-Content"
       ]
     },
     {
@@ -45906,6 +46647,12 @@
       ]
     },
     {
+      "first_field_hash": "3264872489f181d9c19f7a7fe043102c0f24aa13648559f0e74fcf64c040c70d",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::35-Congenital-Heart-Disease"
+      ]
+    },
+    {
       "first_field_hash": "a4151875740fca2ed1132e8c9bcfd5ef7ecde875616abd4ad6da7627461a8ae5",
       "tags": [
         "JerryShen_AnKing_Tags::Neurobiology::Exam-2::Lec-PNS-Disorders",
@@ -45967,7 +46714,43 @@
       ]
     },
     {
+      "first_field_hash": "dc4b2780714b09455fcd76c3ec5b6ec8e6ac29aef4f2ef2b9373e076278797be",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::MSK-Block::Lab-01-MSK-Cases"
+      ]
+    },
+    {
+      "first_field_hash": "7507c8635606a64d9ae6b847ae94febcfdabcf8a6da386144de86fe0fd5811e2",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::35-Congenital-Heart-Disease::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "ecf2501ac94dc044b66522a922f1583ae040fc7f93c373fb8bbdb8081982ff92",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::35-Congenital-Heart-Disease::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "a10a575415abd5b881389033f9358bbc5877a27b9d7bc27b36c8015a27056a48",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::35-Congenital-Heart-Disease"
+      ]
+    },
+    {
+      "first_field_hash": "6550520c5318254cc3792732e4938dae4fa718cfa0c89f653bf8873353e3b822",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::35-Congenital-Heart-Disease::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "a772cd4cdc115e0e0606d0c93f63da09a1b839915ef61006d366c68b31ea2c63",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::35-Congenital-Heart-Disease::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "7ee88f6fa83ddbf061ca17c9215624292286dd4ef501807bc998e43ee7868383",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::35-Congenital-Heart-Disease"
       ]
@@ -46202,6 +46985,12 @@
       ]
     },
     {
+      "first_field_hash": "7250af2a73d6aba3d9b49768d5dcbecd04e89fc9fb2a7317a2976683cb313983",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::MSK-Block::09-Geriatric-Orthopedics::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "4ce56a2b54e161617bdef28c687a4b5ac389fde0530207afe36f2460835bab1f",
       "tags": [
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-1::02-S.pyogenes-&-E.coli",
@@ -46242,7 +47031,14 @@
     {
       "first_field_hash": "aeec2f6005b091d6c045ff1cb95764ca23b62d683b4bdb34216ac247d0ed8a92",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::11-Pathology-of-Cardiomyopathy-and-Myocarditis::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::11-Pathology-of-Cardiomyopathy-and-Myocarditis::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::37-Inflammatory-Heart-Disease::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "b1e394e9ca691e89b1e429b685be830d0459f42c9d242918bb3dc29a6e9b3179",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::37-Inflammatory-Heart-Disease::Class-Content"
       ]
     },
     {
@@ -46254,7 +47050,14 @@
     {
       "first_field_hash": "ee471f9130af44f7fe4b86fadecda6e42a3a26143381a111748bbc8c86cf662b",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::11-Pathology-of-Cardiomyopathy-and-Myocarditis::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::11-Pathology-of-Cardiomyopathy-and-Myocarditis::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::37-Inflammatory-Heart-Disease::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "57a85ee2553f3ecd7f4a80c48e88ef3f165818a52ea00e4d7253e71c460c69b3",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::37-Inflammatory-Heart-Disease"
       ]
     },
     {
@@ -46270,9 +47073,22 @@
       ]
     },
     {
+      "first_field_hash": "74c9b631db8722c34feac2f825c879fb8ba8d0751e653c9e546d7d5bd9b9ddba",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::37-Inflammatory-Heart-Disease"
+      ]
+    },
+    {
       "first_field_hash": "023d07778f5ffe72fa126de6808584bfeafb5675dc79d5703cd7e151a1325f2f",
       "tags": [
-        "JerryShen_AnKing_Tags::Micro-Pharm::Exam-1::04-Intro-to-Viruses"
+        "JerryShen_AnKing_Tags::Micro-Pharm::Exam-1::04-Intro-to-Viruses",
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::37-Inflammatory-Heart-Disease"
+      ]
+    },
+    {
+      "first_field_hash": "4e30d657819afa83b2ef98e814e04504d4f59505e2450ef2707e6ac1cbc22603",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::37-Inflammatory-Heart-Disease::Class-Content"
       ]
     },
     {
@@ -46285,6 +47101,12 @@
       "first_field_hash": "02cccbda6bebd463326b061a1a34be9e6f5d0d3d1c2abc7d5e738411bd3461d1",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::11-Pathology-of-Cardiomyopathy-and-Myocarditis"
+      ]
+    },
+    {
+      "first_field_hash": "b5965a875f67f9c4febae6ab1e0ce7457008b3c468f65a817565a891f23ac650",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::37-Inflammatory-Heart-Disease::Class-Content"
       ]
     },
     {
@@ -46494,6 +47316,12 @@
       ]
     },
     {
+      "first_field_hash": "677c734744d92c47a4c8addd9ea68a6c01ebd9d1e4a84691cc5b9d78b573295e",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::37-Inflammatory-Heart-Disease"
+      ]
+    },
+    {
       "first_field_hash": "d0c665031032b884b07aa413e8a8b4dbe77a22d19160aaf2f6777d97ae35ebc9",
       "tags": [
         "JerryShen_AnKing_Tags::Immunology::Final::Innate-Sensing::Class-Content"
@@ -46674,6 +47502,30 @@
       ]
     },
     {
+      "first_field_hash": "883a3adad48f6e42d8b064c9d39e824bb147c36bdeeec1bd82c01992f798843c",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::37-Inflammatory-Heart-Disease::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "098ad2feb2917f172ff28a919de893c914c6c0908af100e20b5c12711f1b0f0a",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::37-Inflammatory-Heart-Disease"
+      ]
+    },
+    {
+      "first_field_hash": "6f87096ddc0dc40620812dbd32ed71c67ffcef7e57364ad00c88acaeb2f649f7",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::37-Inflammatory-Heart-Disease"
+      ]
+    },
+    {
+      "first_field_hash": "7ea99fcac918a9f157713ed1a4bd36cdd885663baf2d11bd92ae2ecad0bb900f",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::37-Inflammatory-Heart-Disease::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "2280aa8c51c8cd0222edea663352f7e0f30f83907995972043e754fb08253ded",
       "tags": [
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-2::09-Misc-Antimicrobials-&-Skin-Infections"
@@ -46737,6 +47589,12 @@
       "first_field_hash": "89da850024cb79d112e445f054084d61028af0f8edbeb4ab354e9dd0a64776f8",
       "tags": [
         "JerryShen_AnKing_Tags::Biochemistry::Final::05-Nitrogen-Metabolism"
+      ]
+    },
+    {
+      "first_field_hash": "c5c3c9321f4956ae80bdea5ee423c1dc6f5a95e84c5950fe951ffa7640b19c8a",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::36-Lymphatics::Class-Content"
       ]
     },
     {
@@ -46882,6 +47740,12 @@
       ]
     },
     {
+      "first_field_hash": "ee59cfb1a88b71e0838a7ec7721ada4e2b51980592cc02a0920483d652eb4883",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::37-Inflammatory-Heart-Disease::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "93c5cd093ef58efeee0faf2f2dac17da52b75f872ffef0935e4f57312dc9e9e9",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::23-Endocarditis"
@@ -46947,9 +47811,21 @@
       ]
     },
     {
+      "first_field_hash": "7d27b1fc98f87fa72d9f402b2a21877f2648f647d91766f3752510386463bca9",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::MSK-Block::09-Geriatric-Orthopedics::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "be81b1aef2cdeda12fa0155dde2e08fce5eed6873101c4dfcd956aa3dadd9639",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::18-Heart-Sounds-&-Clinical-Exam"
+      ]
+    },
+    {
+      "first_field_hash": "dae3d5f4c710b8f5a5ac4e665ade8be295f312382f0205ab754ce14ef1737c38",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::36-Lymphatics"
       ]
     },
     {
@@ -47147,7 +48023,8 @@
     {
       "first_field_hash": "77f86e3eebeb4f5cf3833e8957caf905a7fcee7d30ddd10c58617bb85cba42ef",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-1::MSK-Block::Extra-Upper-Limb-Pathology"
+        "JerryShen_AnKing_Tags::SOM-1::MSK-Block::Extra-Upper-Limb-Pathology",
+        "JerryShen_AnKing_Tags::SOM-1::MSK-Block::Lab-01-MSK-Cases"
       ]
     },
     {
@@ -48225,6 +49102,12 @@
       ]
     },
     {
+      "first_field_hash": "94f782c0d4c56835e11cf6f104c1d06053eb2cde49871256ba5d570d5c8e0ee3",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::35-Congenital-Heart-Disease::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "0bd6a8e905cde9e465a40c6eb893be1a441026198338109d526a85a31bc68f79",
       "tags": [
         "JerryShen_AnKing_Tags::Genetics::Exam-2-Genetics::08.4-Cancer-Genetics::Class-Content"
@@ -48342,6 +49225,18 @@
       ]
     },
     {
+      "first_field_hash": "ea9fbd80564fa37ca98a979707ce0d121452e317705225ed0a1de69a37c6dca6",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::35-Congenital-Heart-Disease"
+      ]
+    },
+    {
+      "first_field_hash": "f8ada694a6abda6f28cb5d5eb6b5bb8bcf7b46d48375d482bd730bb11bfa92d3",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::35-Congenital-Heart-Disease::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "e86ec37abbecaa8a400fabc61227051740f723d503381dba95b1bcb3e4ebe445",
       "tags": [
         "JerryShen_AnKing_Tags::POM-3::Clinical-Reasoning::Approach-to-Syncope"
@@ -48429,6 +49324,12 @@
       "first_field_hash": "b2d6ba08c468c8d39a79a1c301759c8b6f5f7313d3cde65d3aefa0547be7c587",
       "tags": [
         "JerryShen_AnKing_Tags::POM-3::Clinical-Reasoning::Advanced-CV-Exam"
+      ]
+    },
+    {
+      "first_field_hash": "e7618e5eeff97d31fe0764f6d666a4da7da7049ca9b1335e08ff75a36a8a16f7",
+      "tags": [
+        "JerryShen_AnKing_Tags::POM-3::Clinical-Reasoning::Approach-to-Chest-Pain"
       ]
     },
     {
@@ -48643,6 +49544,12 @@
       ]
     },
     {
+      "first_field_hash": "021585e1ba90554b9b77aa5921a6be1f2beb1d5ac276bd5c30920599ae6cd4d9",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::MSK-Block::09-Geriatric-Orthopedics"
+      ]
+    },
+    {
       "first_field_hash": "26b631238f9470eccc23a3517d4e52716b226c7c260a08dd96694a81f897ec06",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::09-Acid-Base-Control-and-Exercise-Physiology"
@@ -48778,7 +49685,8 @@
     {
       "first_field_hash": "52a6a353f82d15ea41f32bae7dd358d29f9b41c8f62d86371bc1363db7802d59",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-1::MSK-Block::08-Pediatric-Orthopaedics"
+        "JerryShen_AnKing_Tags::SOM-1::MSK-Block::08-Pediatric-Orthopaedics",
+        "JerryShen_AnKing_Tags::SOM-1::MSK-Block::09-Geriatric-Orthopedics::Class-Content"
       ]
     },
     {
@@ -48910,6 +49818,12 @@
       ]
     },
     {
+      "first_field_hash": "ca7e9ae15e57457b44d60279dafd229cb4b79317944561c8192094f1e907cccd",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::35-Congenital-Heart-Disease::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "a19cc5fc6053bef09dba7b86f37af105abf94204180cb2f5262c09e2f3f8b16d",
       "tags": [
         "JerryShen_AnKing_Tags::Neurobiology::Exam-3::Lec-Experience-Dependent-Circuit-Tuning::Class-Content"
@@ -49037,9 +49951,28 @@
       ]
     },
     {
+      "first_field_hash": "2f2c2abd5fab1f13f4949cd089b2b52da13a5b0ac7162f46647fcbc01a29d50d",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::35-Congenital-Heart-Disease::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "5bba4e0531434d627a9745bb1b29e1efcc0ba5682bb4734eba27a7a223c613b4",
       "tags": [
-        "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-1-Thorax::Embryology::Class-Content"
+        "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-1-Thorax::Embryology::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::35-Congenital-Heart-Disease::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "fdfea7bcbdd2a1e2d8018bb7bf06801b6ff40a24e2c082e42b131252e36b08e0",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::35-Congenital-Heart-Disease::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "3946b6204dcbd1fffeca9c2e5c1c0d8629d664a1ce191589b50fcb79b695a318",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::35-Congenital-Heart-Disease::Class-Content"
       ]
     },
     {
@@ -49061,9 +49994,22 @@
       ]
     },
     {
+      "first_field_hash": "dfa4f40131926b71c7ae572554f9eaaf496077a400d4c8df08c2f767b8a04d56",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::35-Congenital-Heart-Disease::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "23b982dafb150a2fc2d3cfc9b7531590d16e6a6a78b7cd43356c4cc27661963a",
       "tags": [
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-1::04-Intro-to-Viruses"
+      ]
+    },
+    {
+      "first_field_hash": "40845f3686ea9c5350a225e4effbf1a5d22d46fdde21861ffff4b480f8fce551",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::18-Heart-Sounds-&-Clinical-Exam",
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::35-Congenital-Heart-Disease::Class-Content"
       ]
     },
     {
@@ -49139,6 +50085,12 @@
       "first_field_hash": "97fa5d681af28c988da4e92f304da2fda8838ad122f6c64733d5570020aed34e",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::18-Heart-Sounds-&-Clinical-Exam"
+      ]
+    },
+    {
+      "first_field_hash": "4f2372a70e87e60509a87aa4bb83d328aeaf4d8254a3502047dc140337db5ed8",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::35-Congenital-Heart-Disease"
       ]
     },
     {
@@ -49236,6 +50188,12 @@
       ]
     },
     {
+      "first_field_hash": "0f981416a8edcb133fa5691fb3e0bceb5eda0886594f901c48f972badde82123",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::MSK-Block::09-Geriatric-Orthopedics"
+      ]
+    },
+    {
       "first_field_hash": "c757b1d9a069db0a0fbf81b8136efc9b7b9584cd610326b6b3a1582a277f552c",
       "tags": [
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-2::07-β-Lactam-Antibiotics-&-Parasites::Class-Content"
@@ -49260,9 +50218,21 @@
       ]
     },
     {
+      "first_field_hash": "219f48c2c34c54aa5d27504fce9200858434d2e6533555735c0ca6b7b1441b9e",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::35-Congenital-Heart-Disease"
+      ]
+    },
+    {
       "first_field_hash": "a20d90f8281631df9a9932cbeceb331b2cec4e9f67caee0ac5914ffa8e8ebae5",
       "tags": [
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-1::04-Intro-to-Viruses"
+      ]
+    },
+    {
+      "first_field_hash": "b532c75f6c117c999671a5516a3e0396cfa7e3ebd1a73fdba09c551bbc599db2",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::35-Congenital-Heart-Disease::Class-Content"
       ]
     },
     {
@@ -49608,6 +50578,13 @@
       ]
     },
     {
+      "first_field_hash": "3d7e52c7e760a58b2d44fe799bba4dea355b04a5679f0f1ae3eea706bbc84f89",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::MSK-Block::09-Geriatric-Orthopedics",
+        "JerryShen_AnKing_Tags::SOM-1::MSK-Block::09-Geriatric-Orthopedics::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "a603d858fef3b28dbe22bd6aeed3e2ff80db99e4f8b927311406b43c878423fe",
       "tags": [
         "JerryShen_AnKing_Tags::POM-3::Geriatrics::Class-Content::Class-Content"
@@ -49687,6 +50664,18 @@
       ]
     },
     {
+      "first_field_hash": "29141f1c37f855ad17249158cd3931adb216700918d1b74a811d6b137a258494",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::MSK-Block::09-Geriatric-Orthopedics::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "575e791c2375846f066bbd34cb720c3b09ae8619931a170aedc16c24e0f1b194",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::MSK-Block::09-Geriatric-Orthopedics"
+      ]
+    },
+    {
       "first_field_hash": "7fa41da4ac76ec26d8f0837021837a3c4268b2cc33fa0d70df52cd40190413fb",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::05-The-Normal-ECG::Class-Content"
@@ -49695,7 +50684,8 @@
     {
       "first_field_hash": "f825672acdfc705aed19d8ad939690ed699dc9a7f985da36afc3e449bcdff495",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-1::MSK-Block::05-Lower-Limb-Pathology"
+        "JerryShen_AnKing_Tags::SOM-1::MSK-Block::05-Lower-Limb-Pathology",
+        "JerryShen_AnKing_Tags::SOM-1::MSK-Block::09-Geriatric-Orthopedics::Class-Content"
       ]
     },
     {
@@ -49868,6 +50858,12 @@
       "first_field_hash": "ea8f6d5bde49394400d685dd6e1bbb4f4e0f0aa64810632f64bed151895a0557",
       "tags": [
         "JerryShen_AnKing_Tags::Genetics::Exam-2-Genetics::03-Chromosomes"
+      ]
+    },
+    {
+      "first_field_hash": "57f66611f87d856879d08ec5d2f78550879c8ec81d9e8db5d2236781b4c999f5",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::MSK-Block::09-Geriatric-Orthopedics::Class-Content"
       ]
     },
     {
@@ -50792,9 +51788,16 @@
       ]
     },
     {
+      "first_field_hash": "3a66b064d5f016fb9af41915bd4f29f1c7f945517673171c61392a4403e872ac",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::37-Inflammatory-Heart-Disease::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "0cfc41071912bade20a62a9ba3c6de40314f5b4a9a6972175bd860f03e5bebb4",
       "tags": [
-        "JerryShen_AnKing_Tags::POM-3::Clinical-Reasoning::Advanced-CV-Exam::Class-Content"
+        "JerryShen_AnKing_Tags::POM-3::Clinical-Reasoning::Advanced-CV-Exam::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::37-Inflammatory-Heart-Disease::Class-Content"
       ]
     },
     {
@@ -50985,6 +51988,12 @@
       ]
     },
     {
+      "first_field_hash": "91c6167947446813734c29d581587ce5622765313924d10b35453b3e44b16b1e",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::MSK-Block::Lab-01-MSK-Cases"
+      ]
+    },
+    {
       "first_field_hash": "053aac1ec27ef971aa7a833f0cf7e5a80a0eb61f47bb527c18660dd82e2b96c4",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::23-Endocarditis::Class-Content"
@@ -51005,7 +52014,14 @@
     {
       "first_field_hash": "b9a577a5cc15acf0adc5d0ad2b0120ed0aecd624b8be1a870ad270896944bdc8",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-1::MSK-Block::06-Backache"
+        "JerryShen_AnKing_Tags::SOM-1::MSK-Block::06-Backache",
+        "JerryShen_AnKing_Tags::SOM-1::MSK-Block::Lab-01-MSK-Cases::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "6d19065d4e33ff52bedee68a42eb747e1a1b2677a4a4af45f3f086ec022423c4",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::MSK-Block::09-Geriatric-Orthopedics::Class-Content"
       ]
     },
     {
@@ -51023,7 +52039,8 @@
     {
       "first_field_hash": "483f671f3a6b6e5b1e099f5e7097ac2cb658234d1bfb263c33afb8d307c6d029",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-1::MSK-Block::05-Lower-Limb-Pathology"
+        "JerryShen_AnKing_Tags::SOM-1::MSK-Block::05-Lower-Limb-Pathology",
+        "JerryShen_AnKing_Tags::SOM-1::MSK-Block::09-Geriatric-Orthopedics::Class-Content"
       ]
     },
     {
@@ -51036,6 +52053,12 @@
       "first_field_hash": "82aed3d94fc74aea28446cf0cbd79bf4ad660f311e9b3ad237a2b60051f9279f",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::MSK-Block::07-Occupational-MSK-Health"
+      ]
+    },
+    {
+      "first_field_hash": "aa3e1d53de2ab3142b57196f2ffd60f97bedf73fb0d2dce1b6591c445d81567c",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::36-Lymphatics"
       ]
     },
     {
@@ -51691,7 +52714,8 @@
     {
       "first_field_hash": "6da14c5addc456f63524647d056982287ec961a887a57ebf6c23cd405c7ff4a9",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-1::MSK-Block::05-Lower-Limb-Pathology"
+        "JerryShen_AnKing_Tags::SOM-1::MSK-Block::05-Lower-Limb-Pathology",
+        "JerryShen_AnKing_Tags::SOM-1::MSK-Block::09-Geriatric-Orthopedics::Class-Content"
       ]
     },
     {
@@ -51710,6 +52734,12 @@
       "first_field_hash": "aa7642b7cb485b7dfbffdd62b0c4131abb34895197742d7e63dd2f05322c43d3",
       "tags": [
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-2::08-Other-Antibiotics-&-Mycobacteria"
+      ]
+    },
+    {
+      "first_field_hash": "a70ac49ea322fe3b49558a920a6e806090074af1d401393835105af8689e5da2",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::35-Congenital-Heart-Disease::Class-Content"
       ]
     },
     {
@@ -51810,6 +52840,12 @@
       ]
     },
     {
+      "first_field_hash": "81afd4c1e6578711949f77553c7c970520df3b05bda9ed807bf7532fb91228bd",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::35-Congenital-Heart-Disease"
+      ]
+    },
+    {
       "first_field_hash": "efae6a096cb321ac8a19a89a08301927f1f702cb43e28f06c32aee272e3786ee",
       "tags": [
         "JerryShen_AnKing_Tags::Biochemistry::Final::01-Carbohydrate-Metabolism::Class-Content"
@@ -51855,6 +52891,12 @@
       "first_field_hash": "22c393221a915d61087ea94013a82b273308263db3fe1c96344a6e0f46fa6c02",
       "tags": [
         "JerryShen_AnKing_Tags::Immunology::Final::Immune-Deficiencies::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "c8c0c7657089612e60f06eb2c9f9882179703fda79c4fa6c4c41ff76a5835ff8",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::35-Congenital-Heart-Disease::Class-Content"
       ]
     },
     {
@@ -51924,7 +52966,8 @@
     {
       "first_field_hash": "5a6464c3df1ee4d1913865109ed7397a1de4ccb1cb6bb2e74591f42b7bcef140",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-1::MSK-Block::05-Lower-Limb-Pathology"
+        "JerryShen_AnKing_Tags::SOM-1::MSK-Block::05-Lower-Limb-Pathology",
+        "JerryShen_AnKing_Tags::SOM-1::MSK-Block::09-Geriatric-Orthopedics::Class-Content"
       ]
     },
     {
@@ -51958,9 +53001,21 @@
       ]
     },
     {
+      "first_field_hash": "5629e0c8d33d3626f070b73a6e0b529e5d17017c462949901737e6e62c62ca89",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::37-Inflammatory-Heart-Disease"
+      ]
+    },
+    {
       "first_field_hash": "5cfb4ccf8151adda28565d365e231ad8c2cf14d449e61d4b9c0f340dcbdefbd1",
       "tags": [
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-2::07-β-Lactam-Antibiotics-&-Parasites"
+      ]
+    },
+    {
+      "first_field_hash": "7d7848e854936dea3ac2e89c50d8c931801aa716a42d3e93c2e79ac911943608",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::35-Congenital-Heart-Disease::Class-Content"
       ]
     },
     {
@@ -52000,6 +53055,12 @@
       ]
     },
     {
+      "first_field_hash": "fdac8faf237be80fee2140f4f18ddbc4fa3ededb5c368e910370c6cb03b4b0b9",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::MSK-Block::Lab-01-MSK-Cases"
+      ]
+    },
+    {
       "first_field_hash": "49c491bd1213785e5241ec43b5c595fd4a219b8c133b3025b9627b3102cd929f",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::19-Central-&-Peripheral-Control-of-Circulation"
@@ -52015,6 +53076,12 @@
       "first_field_hash": "9fe82514bc0c99653e2db5d5b0d39015ccfe7f3c053cfc2646f7f56c4972344b",
       "tags": [
         "JerryShen_AnKing_Tags::Cancer-Biology::Final::06-Role-of-Pathology-in-Cancer-Diagnosis"
+      ]
+    },
+    {
+      "first_field_hash": "c4f5f8bad855b11c697221dc6ece29e7da2e433110cf8381d560d92b7fc24cf1",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::MSK-Block::09-Geriatric-Orthopedics::Class-Content"
       ]
     },
     {
@@ -52052,6 +53119,12 @@
       "first_field_hash": "d5e688dee60483df54fdccf5d20d4a541251e3eb0ecae80970caf47fcda18bb3",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::18-Cystic-Fibrosis::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "d4be985dee8e9fae0cd1b2a3d312458c862d2799b3fb3de283a8a87ff5f15ca3",
+      "tags": [
+        "JerryShen_AnKing_Tags::POM-3::Clinical-Reasoning::Approach-to-Chest-Pain"
       ]
     },
     {
@@ -52151,6 +53224,12 @@
       ]
     },
     {
+      "first_field_hash": "98173772dae32775001e04b714d761d4410e71eeebfe8bb301432f00028ead7e",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::37-Inflammatory-Heart-Disease::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "4d1d8dc12cd2b5be6249161ae7393d90717846940cd1d8725b32498138c5198a",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::MSK-Block::05-Lower-Limb-Pathology"
@@ -52172,6 +53251,12 @@
       "first_field_hash": "3f8c758b3feba3c43abd6ced594d1f190009df6a3b2d8d18b60b641c474dde2d",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::MSK-Block::05-Lower-Limb-Pathology"
+      ]
+    },
+    {
+      "first_field_hash": "3221a2ddfdd95a1ce4072d1654653aaae0fb5d56343f929f1051030f853ea695",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::MSK-Block::09-Geriatric-Orthopedics::Class-Content"
       ]
     },
     {
@@ -52214,7 +53299,8 @@
     {
       "first_field_hash": "001d7819cf4edb88668d4c279e838f173e80522220bf1e0efbb7905e6ee7577a",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-1::MSK-Block::05-Lower-Limb-Pathology"
+        "JerryShen_AnKing_Tags::SOM-1::MSK-Block::05-Lower-Limb-Pathology",
+        "JerryShen_AnKing_Tags::SOM-1::MSK-Block::09-Geriatric-Orthopedics::Class-Content"
       ]
     },
     {
@@ -52293,6 +53379,12 @@
       ]
     },
     {
+      "first_field_hash": "40e88dae89d9f67d4190ff5fc87e21e38c8c17cabf13cf3bc1ea53ae9df2fc3c",
+      "tags": [
+        "JerryShen_AnKing_Tags::POM-3::Clinical-Reasoning::Approach-to-Chest-Pain"
+      ]
+    },
+    {
       "first_field_hash": "57e718698ed55ce5a0986c92bda3c58bb7de8342247c4d971f2d1e0a6c269f47",
       "tags": [
         "JerryShen_AnKing_Tags::POM-3::Clinical-Reasoning::Advanced-Pulmonary-Exam",
@@ -52368,6 +53460,12 @@
       ]
     },
     {
+      "first_field_hash": "bf6e32e86c8b390447bbc51b7c2fd0e774d3a15d5a364a50cb6587b8392507aa",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::18-Heart-Sounds-&-Clinical-Exam"
+      ]
+    },
+    {
       "first_field_hash": "dbd285a295d8189fba0f492f94b522bda1ca1e5d3adf6a8d14f5aba49fb8915b",
       "tags": [
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-1::02-S.pyogenes-&-E.coli"
@@ -52383,6 +53481,12 @@
       "first_field_hash": "11c44e16301a44add1150b2b6ca9907f2f2eee63fbde5a503cea0ae1cec77800",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::15-Pathophysiology-&-Treatment-of-Heart-Failure"
+      ]
+    },
+    {
+      "first_field_hash": "96c137df83a86e749461f6610c3bc444528b782af3dfe73b63e5f552822cd40a",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::35-Congenital-Heart-Disease::Class-Content"
       ]
     },
     {
@@ -52599,6 +53703,12 @@
       ]
     },
     {
+      "first_field_hash": "3cf87bf735702ff5afef0c622fae10202a00d71608f7a132349af64311fdd5fb",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::MSK-Block::09-Geriatric-Orthopedics::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "250b88f71416b7578e94511773a9d5f4af22584f84b742888bf27a75e30129a2",
       "tags": [
         "JerryShen_AnKing_Tags::Biochemistry::Final::03-Lipid-Metabolism"
@@ -52688,6 +53798,12 @@
       "first_field_hash": "f6c371546933fde9b4d9d56133d77fe2ae8a5def8e52ed622969ab80898977b4",
       "tags": [
         "JerryShen_AnKing_Tags::Genetics::Exam-2-Genetics::08.1-Inherited-Metabolic-Disorders::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "d1cee19ededd548c42c473efcc625039b0b82b20d55be6f5157ea3ea3d4fdd03",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::37-Inflammatory-Heart-Disease"
       ]
     },
     {
@@ -52895,6 +54011,12 @@
       ]
     },
     {
+      "first_field_hash": "15fcc7d7c91679e1db7f97d0a133f1e300d370e9b1a6b1b981efd4e8ae989575",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::19-ARDS-&-Ventilators"
+      ]
+    },
+    {
       "first_field_hash": "e3f940e78ba4995cb49ad5a6bda54d7c45a95ff62d0e5cc43a6720692fd8196f",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::01-Structure-and-Function-of-the-Lung"
@@ -53077,6 +54199,31 @@
       ]
     },
     {
+      "first_field_hash": "5142a545e2c5c93f1a9266cb8ea71aeb2dc0a28a4fb21aa98ae0937a138ffc93",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::37-Inflammatory-Heart-Disease"
+      ]
+    },
+    {
+      "first_field_hash": "bd76e4c66fa6b89e0c6d3040d9fec5628046bea19d31cdcfbd119d5cf8cfdc18",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::11-Pathology-of-Cardiomyopathy-and-Myocarditis",
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::37-Inflammatory-Heart-Disease::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "9df598ffc1c34e5f3d90f8c9d6f74a0d23123c375103197e5e00291644d4f817",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::37-Inflammatory-Heart-Disease::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "3afdcd781228d43f9a54b4de7f1908fb0a9b252cf78da33fcc586f4ca5a31f1d",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::37-Inflammatory-Heart-Disease::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "b51e52769583c67c5ae18a057cf595b5cab3144666aca4d0ea1bf192dbb20953",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::17-Valvular-Disease::Class-Content"
@@ -53097,7 +54244,14 @@
     {
       "first_field_hash": "afde97df239ad7d2fa20d0c7428cd368fc1a1b78fbd4c3206c4901b42c0015fa",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::18-Heart-Sounds-&-Clinical-Exam"
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::18-Heart-Sounds-&-Clinical-Exam",
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::35-Congenital-Heart-Disease"
+      ]
+    },
+    {
+      "first_field_hash": "9bdf5247d35806671f8b4df750895b177b1a9199c4c8cf793d984cec25715662",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::35-Congenital-Heart-Disease"
       ]
     },
     {
@@ -53109,6 +54263,8 @@
     {
       "first_field_hash": "7e19ba6523768ae2f439b7e899a1bc4484adbd7c62c14301de99bfd1137858f0",
       "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::35-Congenital-Heart-Disease",
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::35-Congenital-Heart-Disease::Class-Content",
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::CV-Lab-04-Case-Studies"
       ]
     },
@@ -53116,6 +54272,18 @@
       "first_field_hash": "6286c545a77adcdb0bc61ec1a461dd58cb658a299a64bcacf6fc6602b0728321",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::23-Endocarditis"
+      ]
+    },
+    {
+      "first_field_hash": "46387b2b0902e7f2e46f54b96c16357d6d268dfa4f30ba7e58dc7ecbd3044d4f",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::35-Congenital-Heart-Disease"
+      ]
+    },
+    {
+      "first_field_hash": "845ff8e8a08797d74cdd9d10de9951b30cfc5972a4dcca72089ef0723756e7bf",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::35-Congenital-Heart-Disease::Class-Content"
       ]
     },
     {
@@ -53207,6 +54375,18 @@
       ]
     },
     {
+      "first_field_hash": "22c2d76ce1b57e78c98b86373f001239ecbbcccc8f5f66450f405e750708d7d5",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::MSK-Block::09-Geriatric-Orthopedics"
+      ]
+    },
+    {
+      "first_field_hash": "c06f6f2e5854651babe786da4bf40960a88baa52137a006ecf26555e174048ec",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::MSK-Block::09-Geriatric-Orthopedics::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "3a6f75c689b1382470fb6d88e015ef3bf8e5f28a3d7112e396d9c3de72f64f0f",
       "tags": [
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-2::07-β-Lactam-Antibiotics-&-Parasites::Class-Content"
@@ -53280,6 +54460,12 @@
       "first_field_hash": "c4650f696d502680fdd507ad9a364243aa8a4328d0f88dff052fb1b96a619f1e",
       "tags": [
         "JerryShen_AnKing_Tags::Genetics::Exam-2-Genetics::06-Complex-Inheritance-Patterns"
+      ]
+    },
+    {
+      "first_field_hash": "f990a9748a8bcd050a73a2c0bc58d43070281467441daa53ae447ac3b1431989",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::MSK-Block::09-Geriatric-Orthopedics::Class-Content"
       ]
     },
     {
@@ -53636,6 +54822,12 @@
       ]
     },
     {
+      "first_field_hash": "512ea623e71b884534960fde9c6f271535a72e8af216254cc57f711105adbdae",
+      "tags": [
+        "JerryShen_AnKing_Tags::POM-3::Clinical-Reasoning::Approach-to-Chest-Pain"
+      ]
+    },
+    {
       "first_field_hash": "866340443127aef62b6f298a9fba789e70b528a35de07d4435a8c03f50aec4d1",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::23-Pleural-Disease::Class-Content"
@@ -53975,7 +55167,8 @@
     {
       "first_field_hash": "4040160bdfa3691de198c49c969e2665ea9a661588ad9a005c92fb60f5ca2fb0",
       "tags": [
-        "JerryShen_AnKing_Tags::POM-3::Clinical-Reasoning::Advanced-CV-Exam::Class-Content"
+        "JerryShen_AnKing_Tags::POM-3::Clinical-Reasoning::Advanced-CV-Exam::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::37-Inflammatory-Heart-Disease::Class-Content"
       ]
     },
     {
@@ -54022,6 +55215,18 @@
       "first_field_hash": "68d0bb45464ab41055059ff2af988fd5fb369a201c334121bdc899018468282f",
       "tags": [
         "JerryShen_AnKing_Tags::Genetics::Exam-2-Genetics::08.1-Inherited-Metabolic-Disorders"
+      ]
+    },
+    {
+      "first_field_hash": "4f1020805f7b7db415dac2c92f9185880f9d9184930c9b7281d336705b4021ed",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::37-Inflammatory-Heart-Disease::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "0812db8db1861992723eb6e2c2385a5cc714059bb600787ace26da5da8c32531",
+      "tags": [
+        "JerryShen_AnKing_Tags::POM-3::Clinical-Reasoning::Approach-to-Chest-Pain"
       ]
     },
     {
@@ -54177,6 +55382,12 @@
       ]
     },
     {
+      "first_field_hash": "53b6b3e3f5a569066ce5e5e76eff9f9be3af0600ce789e8c7214788ef76edf64",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::MSK-Block::09-Geriatric-Orthopedics::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "9e8fd252a8bcfce319e7299acc426eba7d638f4a7e3d75d61c17573eacf85ecf",
       "tags": [
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-2::09-Misc-Antimicrobials-&-Skin-Infections",
@@ -54208,6 +55419,12 @@
       ]
     },
     {
+      "first_field_hash": "451330de22a2c491946b40583b8cb968a451f7ec34851f22239ac57464579bad",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::MSK-Block::09-Geriatric-Orthopedics"
+      ]
+    },
+    {
       "first_field_hash": "5d0d6b4d65479612d881d78af91038a5c937f8a82dd622f1bd3f2f9eade94b47",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::MSK-Block::05-Lower-Limb-Pathology::Class-Content"
@@ -54222,7 +55439,14 @@
     {
       "first_field_hash": "d0eeb2c084bac8fc1bb7b22770aa759df929551d871c73d67bb74d958f68fc20",
       "tags": [
-        "JerryShen_AnKing_Tags::POM-3::Clinical-Reasoning::Advanced-CV-Exam"
+        "JerryShen_AnKing_Tags::POM-3::Clinical-Reasoning::Advanced-CV-Exam",
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::37-Inflammatory-Heart-Disease::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "f1dd869f76935e7c02b6f4e044e2bf568862a5c64d70839c4aa4dd88988309df",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::MSK-Block::Lab-01-MSK-Cases"
       ]
     },
     {
@@ -54350,6 +55574,12 @@
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::15-Upper-Respiratory-Infections",
         "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::15-Upper-Respiratory-Infections::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "6f845c7b0116b68fd517f033d4a655572b03ee5cb49fbb3f21469bfbd527d4a8",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::MSK-Block::Lab-01-MSK-Cases"
       ]
     },
     {
@@ -54496,6 +55726,12 @@
       "first_field_hash": "b1d402e2162b58098707f7793266df817f53a8aaa284686cfe92503286aab23c",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::10-Autonomic-Physiology-and-Pharmacology"
+      ]
+    },
+    {
+      "first_field_hash": "b37403f849e28db8f238f1a1714fefb65ef9b34fb053a6a1a87521b9b475ea02",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::MSK-Block::09-Geriatric-Orthopedics"
       ]
     },
     {
@@ -54872,7 +56108,8 @@
     {
       "first_field_hash": "7ee65780f6b91dc2c7476f06a721aaf0886318eced23c034a98d4e250bd048fa",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-1::MSK-Block::05-Lower-Limb-Pathology::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-1::MSK-Block::05-Lower-Limb-Pathology::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-1::MSK-Block::09-Geriatric-Orthopedics::Class-Content"
       ]
     },
     {
@@ -55127,6 +56364,13 @@
       "first_field_hash": "18678b06856ec9b0720a0f587393fb8ef0818c6430f8ecea88296d30f8569a43",
       "tags": [
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-2::09-Misc-Antimicrobials-&-Skin-Infections::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "3c7832047dd34326a6ab2af9697e9cf07f608cb5072a04584d47f2e37a3a4cf8",
+      "tags": [
+        "JerryShen_AnKing_Tags::POM-3::Clinical-Reasoning::Approach-to-Chest-Pain",
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::37-Inflammatory-Heart-Disease::Class-Content"
       ]
     },
     {
