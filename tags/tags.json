@@ -1,14 +1,14 @@
 {
   "schema_version": 1,
   "author": "JerryShen",
-  "description": "more renal",
-  "created": "2026-08-25T03:58:06.295932+00:00",
-  "updated": "2026-08-25T03:58:06.295932+00:00",
+  "description": "gfr and water and sodium balance",
+  "created": "2026-08-25T21:53:23.565944+00:00",
+  "updated": "2026-08-25T21:53:23.565944+00:00",
   "tag_prefix": "JerryShen_AnKing_Tags",
   "tag_hierarchy": [
     "JerryShen_AnKing_Tags",
     "JerryShen_AnKing_Tags::(✏️)-Tagged-by-Jerry-Shen",
-    "JerryShen_AnKing_Tags::(🛠️)-Last-Updated-08242026",
+    "JerryShen_AnKing_Tags::(🛠️)-Last-Updated-08252026",
     "JerryShen_AnKing_Tags::(🧋)-buymeacoffee.com/ger1atric",
     "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology",
     "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-1-Thorax",
@@ -444,7 +444,13 @@
     "JerryShen_AnKing_Tags::SOM-2::Renal-Block::01-Introduction-to-Renal-Physiology",
     "JerryShen_AnKing_Tags::SOM-2::Renal-Block::01-Introduction-to-Renal-Physiology::Class-Content",
     "JerryShen_AnKing_Tags::SOM-2::Renal-Block::02-Body-Fluid-Compartments",
-    "JerryShen_AnKing_Tags::SOM-2::Renal-Block::02-Body-Fluid-Compartments::Class-Content"
+    "JerryShen_AnKing_Tags::SOM-2::Renal-Block::02-Body-Fluid-Compartments::Class-Content",
+    "JerryShen_AnKing_Tags::SOM-2::Renal-Block::03-GFR-Clearance-&-Steady-State",
+    "JerryShen_AnKing_Tags::SOM-2::Renal-Block::03-GFR-Clearance-&-Steady-State::Class-Content",
+    "JerryShen_AnKing_Tags::SOM-2::Renal-Block::04-Sodium-Balance",
+    "JerryShen_AnKing_Tags::SOM-2::Renal-Block::04-Sodium-Balance::Class-Content",
+    "JerryShen_AnKing_Tags::SOM-2::Renal-Block::05-Water-Balance",
+    "JerryShen_AnKing_Tags::SOM-2::Renal-Block::05-Water-Balance::Class-Content"
   ],
   "changelog": [
     {
@@ -643,6 +649,11 @@
       "date": "2026-08-25T03:58:06.295932+00:00",
       "message": "more renal",
       "note_count": 25
+    },
+    {
+      "date": "2026-08-25T21:53:23.565944+00:00",
+      "message": "gfr and water and sodium balance",
+      "note_count": 120
     }
   ],
   "notes": [
@@ -1233,9 +1244,39 @@
       ]
     },
     {
+      "first_field_hash": "f456d3e1298c233f82920e512173ff079b239f50ef5f94ada4ef3be84f2014f5",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::05-Water-Balance::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "55b90ce438010ae530b203442de4c0a546646ae8668b9df44522c98d1918b07a",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::05-Water-Balance::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "d97650f300a7274480b541451eb2c2e7230889e1a8cf930aa6b5bb46fc032e30",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::19-Central-&-Peripheral-Control-of-Circulation"
+      ]
+    },
+    {
+      "first_field_hash": "822b73312e3d086866a025999e546880f6685e9c175ce10973d6e4137579d621",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::05-Water-Balance::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "e2fd830e53dfa2f3e9abec64e73405d98df0b64d493d7732e6a24cb1df9bc11d",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::05-Water-Balance::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "700a17e957d8d7c1a35ef7bff64e8a8a8720f7d8c963d06b6d927b3d53679ef9",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::05-Water-Balance::Class-Content"
       ]
     },
     {
@@ -1333,6 +1374,12 @@
       "first_field_hash": "33fd96d3a6487d24a042bd63de71afb932674a234cb408a8fba034490c65adfc",
       "tags": [
         "JerryShen_AnKing_Tags::Neurobiology::Exam-3::Tutorial-7-Affective-and-Cognitive-Systems::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "ea4e052be999e21590ea873f5cc45d6c6fa3112fda5469107d3663bb79fc2213",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::04-Sodium-Balance::Class-Content"
       ]
     },
     {
@@ -1486,6 +1533,12 @@
       ]
     },
     {
+      "first_field_hash": "99a0a238f58ac61bbc8f38a34c59f0d10c4611ac1be29b8ebb57b765e37a083d",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::05-Water-Balance"
+      ]
+    },
+    {
       "first_field_hash": "d855cd5ea0e0b8d7a239695d76ebd43956ce6da18b84fc74466b2f4195d74592",
       "tags": [
         "JerryShen_AnKing_Tags::Biochemistry::Final::04-Regulation"
@@ -1600,6 +1653,12 @@
       "first_field_hash": "a83a514aacfdc7f46f2954c712b90445b9f7d57503af0926458b5bec7c6fbaa8",
       "tags": [
         "JerryShen_AnKing_Tags::POM-3::Clinical-Reasoning::Advanced-CV-Exam::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "05bc4c54474540a88456d8c475577094a40bd75ba710ef58d47c663b043eb98c",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::04-Sodium-Balance"
       ]
     },
     {
@@ -2187,6 +2246,18 @@
       "first_field_hash": "5a8572b0888868d0f352ea629c64b6d8716ec01c1cfa0a871b99d88e80726e47",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::MSK-Block::09-Geriatric-Orthopedics"
+      ]
+    },
+    {
+      "first_field_hash": "0752a26e8bff55aefd59d56e545c47d6a41289edae9ec788a64d7c020afbee6a",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::05-Water-Balance::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "60ca9977738d5b67761c710509362ac1bc998100a4bf56c160b435ad27382f97",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::05-Water-Balance::Class-Content"
       ]
     },
     {
@@ -3076,14 +3147,16 @@
     {
       "first_field_hash": "6d7ac262cdd1335f982252202a84331d730f42ce9eae182aa44d57aeead2f42c",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::03-The-Cardiac-Action-Potential::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::03-The-Cardiac-Action-Potential::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::04-Sodium-Balance::Class-Content"
       ]
     },
     {
       "first_field_hash": "f78fe1f98b078cb2c4edb24dd7f58619da965eb2de1f39cf3d3cd2c50373798c",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::03-The-Cardiac-Action-Potential::Class-Content",
-        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::02-Body-Fluid-Compartments"
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::02-Body-Fluid-Compartments",
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::04-Sodium-Balance::Class-Content"
       ]
     },
     {
@@ -5463,6 +5536,12 @@
       ]
     },
     {
+      "first_field_hash": "829378737701a601fa73f0433c34ee7a1878f4528d3f7615596e6e01b7a793ca",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::04-Sodium-Balance::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "9cfd652da995f75cc5fdf29ddfe32c20fd5a5d0829ca632d73398211c6dc2952",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::15-Pathophysiology-&-Treatment-of-Heart-Failure"
@@ -5665,6 +5744,12 @@
       "first_field_hash": "0b5290e8a4ba69f76cd52ebb41993d3d380c11126201bce7f87cf6dea09dbe8f",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::02-Pulmonary-Circulation"
+      ]
+    },
+    {
+      "first_field_hash": "7f4358bf1aee1475fa6825801964dc70be38252b5ea1d109d4803bf337816703",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::04-Sodium-Balance::Class-Content"
       ]
     },
     {
@@ -11829,6 +11914,12 @@
       ]
     },
     {
+      "first_field_hash": "c9396e4e770eb9897fc123dea6e93430dd6d18add1964cf8303a7b7e019f1140",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::04-Sodium-Balance"
+      ]
+    },
+    {
       "first_field_hash": "41445fc6709d42749116b3743258f6c29f511e7e7f89860104ea758f4b0e171f",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::25-Pulmonary-Hypertension::Class-Content"
@@ -12876,7 +12967,7 @@
       ]
     },
     {
-      "first_field_hash": "85fd3c3c6fc753a2cf081126ce2209da2d603a7f2b058d52729d1d7a0a8114af",
+      "first_field_hash": "5a2e05cacf6d0bece67412c677ae09ba3c0ef8839c230fd171fdd0111cdfea03",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::06-Intro-to-Lung-Histology::Class-Content",
         "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::21-Pathology-of-ILD::Class-Content"
@@ -16771,13 +16862,45 @@
     {
       "first_field_hash": "b00c0cc5616a7762db2191aea204394ee8a1ba033b31df5f97827d6cf63c6b39",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::02-Body-Fluid-Compartments::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::02-Body-Fluid-Compartments::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::05-Water-Balance::Class-Content"
       ]
     },
     {
       "first_field_hash": "511803e173e6eb694bdaaa02193795da6b22b02e3f9aa422a8b0d40e9ab4a729",
       "tags": [
-        "JerryShen_AnKing_Tags::Micro-Pharm::Exam-1::03-C.diff-&-Pseudomonas"
+        "JerryShen_AnKing_Tags::Micro-Pharm::Exam-1::03-C.diff-&-Pseudomonas",
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::03-GFR-Clearance-&-Steady-State::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "f1f2f86efde87c1098c84a1073f3517a2c2e99d33dca20c194481614b36db34f",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::03-GFR-Clearance-&-Steady-State::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "70e6e66f138f54d199b6b076a8da42aefc1291ea0dabc7944b8a25e1f310969f",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::03-GFR-Clearance-&-Steady-State"
+      ]
+    },
+    {
+      "first_field_hash": "30be59553eb3e7633bd59639166fd0adb2e62c747a40f156eee7318b4a332293",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::03-GFR-Clearance-&-Steady-State"
+      ]
+    },
+    {
+      "first_field_hash": "7928b87dab1ee8ecb2391dd0cac8aec3576ed3f738f0649eeac1e40bf5eb55fb",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::03-GFR-Clearance-&-Steady-State"
+      ]
+    },
+    {
+      "first_field_hash": "a88302ce565b8e9d7167c4e5b3c42c26fe44fde992b701faff3556890abaf069",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::03-GFR-Clearance-&-Steady-State"
       ]
     },
     {
@@ -16805,9 +16928,33 @@
       ]
     },
     {
+      "first_field_hash": "a7f3efb7be7a8a30801c18afe00f8cf6d3c9b120ec5edf19352961f45f42faa0",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::04-Sodium-Balance"
+      ]
+    },
+    {
       "first_field_hash": "78850f3ee3b34876f55125a287128c086c5397a3d80b1d54ebfd3f751a06cf40",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Renal-Block::01-Introduction-to-Renal-Physiology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "95bed299470999b106ef620f5b9ebc4f7508f2eceafd6f9f62092c1b6ad038b6",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::04-Sodium-Balance"
+      ]
+    },
+    {
+      "first_field_hash": "bd54dc718b2302b04ce18104f36a1ed3e523a7eca8af53b5586c9d7a0bb50f93",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::04-Sodium-Balance"
+      ]
+    },
+    {
+      "first_field_hash": "32aa1305e0e4d6bc0874a7adb3d7230da6ffd26a22c1219bdac1b57bfa54f5fa",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::04-Sodium-Balance"
       ]
     },
     {
@@ -16820,6 +16967,24 @@
       "first_field_hash": "7c92249aa141dcb4979f8e70c3bec92f974e8730f7182bf5a7ae5b17846367ff",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Renal-Block::01-Introduction-to-Renal-Physiology"
+      ]
+    },
+    {
+      "first_field_hash": "336a431d70f3d1b3ffcf1867b603e30812c9cdc3827b8126c16411a4e4deb33d",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::04-Sodium-Balance::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "13ac184aa7f93f39a020f879506a3afcc6e7eb62c0ea8bf8bffaef4d31dfc5da",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::04-Sodium-Balance::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "af28f581feccea51a3431bdfa9b8633aa78b1d3739b53b71570ce547a5f1485d",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::04-Sodium-Balance::Class-Content"
       ]
     },
     {
@@ -16863,7 +17028,8 @@
     {
       "first_field_hash": "16f66dfcd8c4fef4ebea01ccd7f29ea7121e2683819544dbd4426ab9f7201c88",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::01-Introduction-to-Renal-Physiology"
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::01-Introduction-to-Renal-Physiology",
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::03-GFR-Clearance-&-Steady-State::Class-Content"
       ]
     },
     {
@@ -16885,9 +17051,46 @@
       ]
     },
     {
-      "first_field_hash": "2e28647cbed05ee815261d06655d7d878aeee2f8dd33fa3a17912f512a4448a4",
+      "first_field_hash": "057a2438c51d3c26cf155f4b8f946c0bcfd4c0f7c77f95fb678856628457cabe",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Renal-Block::01-Introduction-to-Renal-Physiology"
+      ]
+    },
+    {
+      "first_field_hash": "3e07d21cfd76c5bf52cf4909632d4b0fd23e6810f2c0df8964fcdb07a3da0a87",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::01-Introduction-to-Renal-Physiology"
+      ]
+    },
+    {
+      "first_field_hash": "bbccd362605fead15ad0c633351c0f80b1ad54fd2cc54341c430a0a178b7a280",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::03-GFR-Clearance-&-Steady-State::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "d6cde366e5bd50d26e87af38f6a501c498831e6f89094160edf42c4af91fdea6",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::03-GFR-Clearance-&-Steady-State::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "2e28647cbed05ee815261d06655d7d878aeee2f8dd33fa3a17912f512a4448a4",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::01-Introduction-to-Renal-Physiology",
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::03-GFR-Clearance-&-Steady-State::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "4b40127d17196c435a62b257fffbfcd1da365d2d548bdc196fe9a2238406d95c",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::03-GFR-Clearance-&-Steady-State::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "176f07063370c973e3df9a573b557f18d1d6b51a42dd3ad4f5c7c7813ed46aad",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::03-GFR-Clearance-&-Steady-State"
       ]
     },
     {
@@ -16927,9 +17130,39 @@
       ]
     },
     {
+      "first_field_hash": "498e2cdfeb188eb30bf4e5114e01f8cc8901c55bd90dec600c167f432faaf1d6",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::03-GFR-Clearance-&-Steady-State"
+      ]
+    },
+    {
+      "first_field_hash": "9a6b8d85d97930d72c314197841a7efb9c63b69b7efe66153e500a9b20162930",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::01-Introduction-to-Renal-Physiology"
+      ]
+    },
+    {
+      "first_field_hash": "24c3c3951cdbb78c0de833aed6437938d5a819f8e687a4bbfbca3ba6811c6b40",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::01-Introduction-to-Renal-Physiology"
+      ]
+    },
+    {
+      "first_field_hash": "7456454e32c6714a55f880cf4161a8fe2e6597cd340c18ec35363988014d1552",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::01-Introduction-to-Renal-Physiology"
+      ]
+    },
+    {
       "first_field_hash": "576b1f22c7751c2b90f767e4f3566000408d6c5b4595bb6a7df337ddf9734eee",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Renal-Block::01-Introduction-to-Renal-Physiology"
+      ]
+    },
+    {
+      "first_field_hash": "d4e734dce7c106891f0a8d0d166dc9fbf8ccac04896e78177913c6a1a3c15095",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::04-Sodium-Balance::Class-Content"
       ]
     },
     {
@@ -16939,9 +17172,94 @@
       ]
     },
     {
+      "first_field_hash": "20bbd15bb3d134c22d8c2fc4bf8dd7eb4ba3c1bbe02b64b3b33213ddfaa4f176",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::03-GFR-Clearance-&-Steady-State"
+      ]
+    },
+    {
       "first_field_hash": "fd25134741b04591d7c64cde68eacd83d64c71906b192b61254be32c74250bb4",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::01-Introduction-to-Renal-Physiology"
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::01-Introduction-to-Renal-Physiology",
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::04-Sodium-Balance::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "7dce3aa92cafac7833b301801e5c11159305ecd434c3f747c67d70c7903e3efc",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::04-Sodium-Balance::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "8788c677db5c2509046dbfdeee9a84d22e494a6749a3e1d37a1bc9cdfe172d61",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::04-Sodium-Balance::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "8a385edf73668fb35d9d3249766332f9e9d13d3142a033272fe4a4e5f24c0499",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::04-Sodium-Balance"
+      ]
+    },
+    {
+      "first_field_hash": "3b6c90a11f21b5c5ddbd9d30012abb81ad7abd1a82b79f5dd51c22a5f5ddc9d4",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::04-Sodium-Balance::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "30342b18006794d297bdc793c0c1eaf0e2994a1792d564478c5b07bf14fa5c01",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::04-Sodium-Balance::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "0fe45f97f12758889a37f691b8a06aa792fdc73590be8eea6464dfb52d6ada8f",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::04-Sodium-Balance::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "61a4de4be67e5d5bd42fb9df7ca916dea0fd9ed672ae12999596073c8c454fb6",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::04-Sodium-Balance::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "bcabe6945b50203593ba31cf2a8bce9c115856e5ebc2c236ca17fe474f6c2e74",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::04-Sodium-Balance"
+      ]
+    },
+    {
+      "first_field_hash": "75967d8018392dd172c4c583480b5b49b13dc4612967010abaa8c6473149691e",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::04-Sodium-Balance"
+      ]
+    },
+    {
+      "first_field_hash": "16f74c432bbc862d15bdc6d639befea6bb16bbfcbb9a4f758927fdde6e750e05",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::04-Sodium-Balance::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "c70e1eaba9d7d3b034555ea25eb49a2b4d22c09bbf7b4adbcd2d312e1af36da4",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::04-Sodium-Balance"
+      ]
+    },
+    {
+      "first_field_hash": "80cf28205e687cc255cb5569378386aa92b8b76d205cf7522a1e8dbec8f197ce",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::04-Sodium-Balance::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "959925f7963213c194e71adfd396ae6358cee252902303cd48546e8c9c61ef2f",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::04-Sodium-Balance"
       ]
     },
     {
@@ -16954,6 +17272,186 @@
       "first_field_hash": "b1fec5a70f7296866cf824ff4a5ffacb2df48ba00cb15619201bfe348b45c215",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Renal-Block::02-Body-Fluid-Compartments"
+      ]
+    },
+    {
+      "first_field_hash": "84376c1ab0044d137948aa976a213a19dd4abfb4a120c4aac28a1b5b4f8e6b1e",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::04-Sodium-Balance::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "9c6200c4c2e930bcb2f4a7d5b11d94af2ff94dc6eaf5bc0ba02b00bdddacdb3b",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::05-Water-Balance::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "afc2ca9518a21259794db8f1d8b1ae1996580c94b843972db3701416dd0b9262",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::04-Sodium-Balance"
+      ]
+    },
+    {
+      "first_field_hash": "20b8b06b41125a23c15f3f23912a3aef2eea13ad183daa976a06dbad0a77fca1",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::05-Water-Balance::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "172f8eda6d8ca2f63ed1808f95916d5c57b514e9b4c662f2e58a27a7feea3fac",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::05-Water-Balance::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "8b4e5677d9099cc98b3aa388d2fdd39c46770eb0e9768e2e8c0db93e43a82115",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::04-Sodium-Balance::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "ba12c18a59f370d24e31aed7d1ea06b236690387ebf14b9c9c4699cdc894b94b",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::04-Sodium-Balance::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "79b2ff386d55ca7510a21dd7877773da350ab8482e8e251be260988b09cf45dc",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::05-Water-Balance::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "210315d6e09023c647f202c0b1cd57a23fdf8097f0dedb10c70f8d78384e5094",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::04-Sodium-Balance::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "531c1a9c5e30fd66f853ce4f18359a8dfba3881f7f48857972de41a398abee58",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::04-Sodium-Balance::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "ccc4ac412a22c5e72040aa842498e5610c5cd9578287a0bc56134035d4865dd7",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::04-Sodium-Balance::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "bb44a68dae9c923d0b9bdcdeefa874c1c7f7ba872f0a7ae98fa6453282895023",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::04-Sodium-Balance::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "9a40eb0ca4d6ee4c307ab9feb87c39d3d1482b53f5efb7fd8ddcc35385a35468",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::04-Sodium-Balance::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "fc7398594f60e8171efd1bb647d79c366a4bfc0946d006ad3c1ccd1c38430850",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::04-Sodium-Balance::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "3fb7c79c9a572f491ddbf7c5ef07d651b20c5f3aad5c85aff5555d801d67a6b5",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::04-Sodium-Balance"
+      ]
+    },
+    {
+      "first_field_hash": "79d1c08cb6c09154386dd8be5a25a2d070e49287ee944d0809506ebcaffba20f",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::04-Sodium-Balance::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "30e1cb4e247eb2e6d281ddebcb039a62bfa2c75b7ecc3d609933366a3a911f45",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::04-Sodium-Balance::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "388c297a02138ad879e0b0d31480b962ba66d8bb621bacbfd44616940213ac3f",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::04-Sodium-Balance::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "49485bdf9fabf9aeb50f6c36661dac71a5203b7e9ad47b9c2a42753f5aad766c",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::04-Sodium-Balance::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "b825ec22530dcab19cec9455fee552427207c69e449e40c0577e86d7a7ea2ed7",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::04-Sodium-Balance::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "48060969e38c0aec493beba404250783ec172d75127232bea718bea028cdff71",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::04-Sodium-Balance"
+      ]
+    },
+    {
+      "first_field_hash": "89170fa521956a008857196b762d7d2a7f08f1368136a66799f849e360342454",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::04-Sodium-Balance"
+      ]
+    },
+    {
+      "first_field_hash": "fa4b40ecc570d637055d4538b08fd5ef1ee00c9a3d8fea1ef922fcab808e87a2",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::04-Sodium-Balance"
+      ]
+    },
+    {
+      "first_field_hash": "8cbd6e26cffe637c7f0e236bfc747ca6f213b3984085dbe3ece835d99d66dc48",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::04-Sodium-Balance"
+      ]
+    },
+    {
+      "first_field_hash": "d57f2a8cbc32797939d3855c74985559e2c9adb5d738e4fea1b11ca9df6c3ad2",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::04-Sodium-Balance"
+      ]
+    },
+    {
+      "first_field_hash": "11ec43f71acd40d649409a3570f870a40eba97c40e1d7380a168a7bc63be758d",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::04-Sodium-Balance::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "ba9b7ba7eccd30b5d8914ab0b77a5a307317710e5ac40216d372d83e3aa79b56",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::04-Sodium-Balance::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "aaa9f37c0fa57896187786b1c7e3b3dd8504a02f19deea128998c0331e9eb069",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::04-Sodium-Balance::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "cc7bdc33f2f9cab60d135680f37689e5e3323b9572e5e0f96bf3b3352a776b72",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::04-Sodium-Balance::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "93d95c137a5610b427567227725435fac4fac25a38ec13db7004d8d062ab51e9",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::04-Sodium-Balance"
       ]
     },
     {
@@ -16987,9 +17485,64 @@
       ]
     },
     {
+      "first_field_hash": "1e6207cd634e0899c1890b48dd0e12acf9272333741a119682d5f99c7cf2406d",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::04-Sodium-Balance::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "eefae2f52c58b6aeec5dddcb84aa8a0be46cf59398ebbfee456b85da5740324f",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::04-Sodium-Balance::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "fb2d862dcba998171a5b1fb217baa134f594bc3f796744dd30a13f8e726f282c",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::15-Pathophysiology-&-Treatment-of-Heart-Failure::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "9605ab322b2d6617317d2e76230bdf820f0bfb106150fbaf68212468ce23cbbc",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::05-Water-Balance::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "6f99fb6765f71562a7555e21c3b71a980ae719d20b761c048eb3a0bddeb8f64e",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::05-Water-Balance::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "565c7de2079b83f4f14b206b0407fbe828532952332a10566a41e47f98027e17",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::05-Water-Balance::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "9d4c21d02f763524d5ed17d3dd00e10035b13334937adfb88493f1782f6a7962",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::05-Water-Balance"
+      ]
+    },
+    {
+      "first_field_hash": "5133dde51c9eb02c6712d3d31690921efe67902abef32a7063e9ffb4982269b1",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::05-Water-Balance",
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::05-Water-Balance::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "ab3525dfc857acc0e810211af3b2c412e8e2e86f2adcfa26b6fe8186a142f55f",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::05-Water-Balance"
+      ]
+    },
+    {
+      "first_field_hash": "0440ff08587403d4debb682c96a20ccc209febef681785a13466ff8388a495ef",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::05-Water-Balance::Class-Content"
       ]
     },
     {
@@ -17302,6 +17855,12 @@
       ]
     },
     {
+      "first_field_hash": "aae3beb434526876356cf9b20d2d1dde4cadc2119f54025dd6aafcc05de236c7",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::03-GFR-Clearance-&-Steady-State::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "96be8cf103fe5f63c38bb270be4e11c10e0c36cac57147d321574f2e0c59281e",
       "tags": [
         "JerryShen_AnKing_Tags::Cancer-Biology::Final::Cancer-Pharmacology::Class-Content"
@@ -17374,15 +17933,106 @@
       ]
     },
     {
+      "first_field_hash": "e30c572d257e10725e3698b88a1047c3cfa4989a168894079ed295abf09bcf60",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::04-Sodium-Balance"
+      ]
+    },
+    {
+      "first_field_hash": "896621579657fd75c21a2aa2a8765311746fcf632eccad0adb007b7da32a19f4",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::04-Sodium-Balance::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "99cb3e074f08c16080244cdf66f5627b09cc87be699d86625d9b0437f3725cac",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::04-Sodium-Balance::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "01150f9c90229acae53f99bfe325ef5d493377e955140943248bfbfc17ce7495",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::04-Sodium-Balance"
+      ]
+    },
+    {
       "first_field_hash": "f090eb595931520e90482bf744be62072fa447161824979f3815e02ceff9ef51",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::30-Hypertension::Class-Content"
       ]
     },
     {
+      "first_field_hash": "00a8c2333d835fd6f3e9a9d990b988489196213ca6f0df6a8008d928d50a0634",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::04-Sodium-Balance::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "2f9ddf0ad970716879dc223d4db232831401f72219c9f5e1e181a117b5f7d91d",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::04-Sodium-Balance::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "fa6fba0c4fff10e781571b00df484d45fc8a62d33605032f3267ed64f2d6ff73",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::04-Sodium-Balance::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "0127ed8305f191656a9c9411a8de1b81e74e25188703953cd8ad5d7c51f16409",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::04-Sodium-Balance::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "381685f29dda849b4e4f051f47f96bccdee0544fe3985780c30a422d3d6d6948",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::15-Pathophysiology-&-Treatment-of-Heart-Failure",
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::04-Sodium-Balance::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "bb9470a6b553f319395f58d1ed02b211fad4c5c04e26d82bb3cb675eb145901d",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::15-Pathophysiology-&-Treatment-of-Heart-Failure::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "23c618c43ce659bb2ce4ef33e75360d0ad13734f285d445954fb3357941b1bf5",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::05-Water-Balance::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "5e066ae13996e42ef168663aab4d5d9d5e35ae6c3ae5e3f1c56552b211dc7f9c",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::04-Sodium-Balance"
+      ]
+    },
+    {
+      "first_field_hash": "689afa484fd53e9d8716d55f4b2a12f10784a5599b903744b7588d1cf500d300",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::04-Sodium-Balance::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "4c14e59391d5c0f544b4e145884ce3aa5ad0dcde0a09738362c259986eb58bfd",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::04-Sodium-Balance"
+      ]
+    },
+    {
+      "first_field_hash": "18f829cfb077eb544bc97f6d3d9fe7f8f96b717ae94543e3c2b21008cb66eb19",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::04-Sodium-Balance::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "cf0e36737e0f71df6d7c999ac765ff8eb5723d0e277fb83ec73886492ca58aa6",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::04-Sodium-Balance::Class-Content"
       ]
     },
     {
@@ -17474,6 +18124,12 @@
       "first_field_hash": "7eb1d1e487709f83841f323cabec7b8f27829194506fec4b01fa7f8d2abdd22a",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::15-Pathophysiology-&-Treatment-of-Heart-Failure"
+      ]
+    },
+    {
+      "first_field_hash": "fb098407902b98d032b98452ae221903b984546a46f78b20abd68e6bfa73bf04",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::04-Sodium-Balance"
       ]
     },
     {
@@ -24697,6 +25353,12 @@
       ]
     },
     {
+      "first_field_hash": "c2e41741f918bd256213a5d8e2aa856c1024434cf5d3556bab374ba991685ecf",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::04-Sodium-Balance"
+      ]
+    },
+    {
       "first_field_hash": "60aa4c06e250bb276f7f4835b024a47d0e954bb769667deb9e53ac077fc55a99",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::10-Autonomic-Physiology-and-Pharmacology::Class-Content"
@@ -24965,7 +25627,8 @@
     {
       "first_field_hash": "bb8c91a4d94cba4b81b214e44b2014293a4754b743ceb4ba7e29ebac55aac59c",
       "tags": [
-        "JerryShen_AnKing_Tags::Neurobiology::Exam-3::Tutorial-7-Affective-and-Cognitive-Systems::Class-Content"
+        "JerryShen_AnKing_Tags::Neurobiology::Exam-3::Tutorial-7-Affective-and-Cognitive-Systems::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::05-Water-Balance"
       ]
     },
     {
@@ -28856,14 +29519,14 @@
       "first_field_hash": "54d626e08c1c802b305dad30b7e54a82f102390cc92c7d4db112048935236e9c",
       "tags": [
         "JerryShen_AnKing_Tags::(✏️)-Tagged-by-Jerry-Shen",
-        "JerryShen_AnKing_Tags::(🛠️)-Last-Updated-08242026"
+        "JerryShen_AnKing_Tags::(🛠️)-Last-Updated-08252026"
       ]
     },
     {
       "first_field_hash": "54d626e08c1c802b305dad30b7e54a82f102390cc92c7d4db112048935236e9c",
       "tags": [
         "JerryShen_AnKing_Tags::(✏️)-Tagged-by-Jerry-Shen",
-        "JerryShen_AnKing_Tags::(🛠️)-Last-Updated-08242026"
+        "JerryShen_AnKing_Tags::(🛠️)-Last-Updated-08252026"
       ]
     },
     {
@@ -49732,6 +50395,12 @@
       "first_field_hash": "d8ccf3185363ba05eaab90acde6c53bae6583099b393127bf2ff189fe018af0f",
       "tags": [
         "JerryShen_AnKing_Tags::POM-1::Final::Ethics::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "22211da0f5fce64d463c9b55b6c7ec8921d9b6c2dfd365f36f0610f26a9900a6",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::03-GFR-Clearance-&-Steady-State"
       ]
     },
     {
