@@ -1,14 +1,14 @@
 {
   "schema_version": 1,
   "author": "JerryShen",
-  "description": "gfr and water and sodium balance",
-  "created": "2026-08-25T21:53:23.565944+00:00",
-  "updated": "2026-08-25T21:53:23.565944+00:00",
+  "description": "endocrine introduction and glucose homeostasis",
+  "created": "2026-08-27T19:11:04.004911+00:00",
+  "updated": "2026-08-27T19:11:04.004911+00:00",
   "tag_prefix": "JerryShen_AnKing_Tags",
   "tag_hierarchy": [
     "JerryShen_AnKing_Tags",
     "JerryShen_AnKing_Tags::(✏️)-Tagged-by-Jerry-Shen",
-    "JerryShen_AnKing_Tags::(🛠️)-Last-Updated-08252026",
+    "JerryShen_AnKing_Tags::(🛠️)-Last-Updated-08272026",
     "JerryShen_AnKing_Tags::(🧋)-buymeacoffee.com/ger1atric",
     "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology",
     "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-1-Thorax",
@@ -440,6 +440,13 @@
     "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::Lung-Lab-3-Cancer-&-ILD",
     "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::Lung-Lab-3-Cancer-&-ILD::Class-Content",
     "JerryShen_AnKing_Tags::SOM-2",
+    "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block",
+    "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::01-Intro-to-Endocrine-Block",
+    "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::01-Intro-to-Endocrine-Block::Class-Content",
+    "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::02-Glucose-Homeostasis-1",
+    "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::02-Glucose-Homeostasis-1::Class-Content",
+    "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::03-Glucose-Homeostasis-2",
+    "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::03-Glucose-Homeostasis-2::Class-Content",
     "JerryShen_AnKing_Tags::SOM-2::Renal-Block",
     "JerryShen_AnKing_Tags::SOM-2::Renal-Block::01-Introduction-to-Renal-Physiology",
     "JerryShen_AnKing_Tags::SOM-2::Renal-Block::01-Introduction-to-Renal-Physiology::Class-Content",
@@ -654,6 +661,11 @@
       "date": "2026-08-25T21:53:23.565944+00:00",
       "message": "gfr and water and sodium balance",
       "note_count": 120
+    },
+    {
+      "date": "2026-08-27T19:11:04.004911+00:00",
+      "message": "endocrine introduction and glucose homeostasis",
+      "note_count": 145
     }
   ],
   "notes": [
@@ -1178,15 +1190,35 @@
       ]
     },
     {
+      "first_field_hash": "ee216207ac3fba713438a628b02aed22d24b6ff772174ca3b70bec7040ae87fe",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::01-Intro-to-Endocrine-Block::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "016c683c0431a279d3878f5e0b980e5df17e9bb6efcd2d01dc0277ca354b37e5",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::01-Intro-to-Endocrine-Block::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "e8b73d8e114d714458ce183039216fe7c6f62b7e6a7668bca4ebd0656d5149eb",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::01-Intro-to-Endocrine-Block::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "52bac08a15020e381315e05845fbfde93b3404cea823228617fb157031b64da6",
       "tags": [
-        "JerryShen_AnKing_Tags::Biochemistry::Final::05-Nitrogen-Metabolism"
+        "JerryShen_AnKing_Tags::Biochemistry::Final::05-Nitrogen-Metabolism",
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::01-Intro-to-Endocrine-Block::Class-Content"
       ]
     },
     {
       "first_field_hash": "fa330228ecea45df2409e347bc3e4fb9ff9ae091a9a08c35eb01d4f2a9027411",
       "tags": [
-        "JerryShen_AnKing_Tags::Biochemistry::Final::05-Nitrogen-Metabolism"
+        "JerryShen_AnKing_Tags::Biochemistry::Final::05-Nitrogen-Metabolism",
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::01-Intro-to-Endocrine-Block::Class-Content"
       ]
     },
     {
@@ -1205,6 +1237,24 @@
       "first_field_hash": "8657f705b3564db1b4b0895d370ec5e56951a19f367442e5980c1371cf5e6dcf",
       "tags": [
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-1::01-Intro-to-Pharmacodynamics::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "8607d0c65eac2b7d12d401c7261f5512e65bf771411ea50dccec274cb7501505",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::01-Intro-to-Endocrine-Block::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "653a2a7a728c43f31b7382fcc6cae4728ef47a3ec6270b239855dab510221f3d",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::01-Intro-to-Endocrine-Block::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "871de47274cfd574582ae33a93dcbfbd1d2a8212f54815d43a20d087eb21f718",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::01-Intro-to-Endocrine-Block::Class-Content"
       ]
     },
     {
@@ -1235,6 +1285,60 @@
       "first_field_hash": "ad8e08fc6655c77a5fb6d9ed9aab996f1f79b5c4c2d3940c1c8d13c1f4bdebbd",
       "tags": [
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-1::01-Intro-to-Pharmacodynamics::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "d9079a93e18a4f8bf07ad56a3c98faa0797854a70e5d208901d8544cb25261eb",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::01-Intro-to-Endocrine-Block"
+      ]
+    },
+    {
+      "first_field_hash": "aef1898e2eb83a5d809b19617dfc1bdfb1bd95f0872f01e03a8b515435214b14",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::01-Intro-to-Endocrine-Block"
+      ]
+    },
+    {
+      "first_field_hash": "2920f535b433dbd48786e04882882fb01bb2010d7e7813a3aa38270baee02639",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::01-Intro-to-Endocrine-Block"
+      ]
+    },
+    {
+      "first_field_hash": "2424145831a2c5fdc410e59abff7d6508ac1ab9ad169523e0a1e7ac0959796e1",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::01-Intro-to-Endocrine-Block"
+      ]
+    },
+    {
+      "first_field_hash": "8a5b5388839756bc567af32e9a7554af71b9f9b6071927056dd2c6ad7eb7f106",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::01-Intro-to-Endocrine-Block"
+      ]
+    },
+    {
+      "first_field_hash": "f79399b7f4335bbd497381c16881dcf3ce5c845a600eb219ec2375b67ddb7cba",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::01-Intro-to-Endocrine-Block::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "c422cac5cfc90ab7da309fe3869a12b3a86a9c7d8e5d8d50d3017769a64d856b",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::01-Intro-to-Endocrine-Block"
+      ]
+    },
+    {
+      "first_field_hash": "01e65689ad50420c4da73cdd4da894ca938ff566a3b5259a585d965f87a737bc",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::01-Intro-to-Endocrine-Block::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "e6f8f700616e5d53ffddb9c536133bcf209a989417725524b3477bf849fe0401",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::01-Intro-to-Endocrine-Block::Class-Content"
       ]
     },
     {
@@ -1323,6 +1427,12 @@
       ]
     },
     {
+      "first_field_hash": "2b2a0eaad579017117eb0dfae96ac8a202fc69e41398176a0edb9ca40311d337",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::01-Intro-to-Endocrine-Block"
+      ]
+    },
+    {
       "first_field_hash": "43d24237ae0c357c9164e5904cbc999ebe267cd7da8f05bdf58941d8ee83d0a8",
       "tags": [
         "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-4-Pelvis::Histology::Class-Content"
@@ -1401,15 +1511,61 @@
       ]
     },
     {
+      "first_field_hash": "f8a2fd6cd01416f48cfca92990685fd771f9556d6e0b91d4f3ab6ae44e9e73d5",
+      "tags": [
+        "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-3-Abdomen::Histology::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::02-Glucose-Homeostasis-1::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "5ac6eef524f5eea76c63e5e6fd5ddb091d12884cb25eba5ae4a1355216557110",
+      "tags": [
+        "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-3-Abdomen::Histology::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::02-Glucose-Homeostasis-1::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "68e1f7f6a7a93971197fffe7b67fcba14b6203747ce2965c79d3adef6cd192c5",
+      "tags": [
+        "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-3-Abdomen::Histology::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::02-Glucose-Homeostasis-1::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "d9acfba85002988f75f9aa3e20e89ca79eb21564e8bc247d7e235a4671b6abca",
       "tags": [
         "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-3-Abdomen::Histology::Class-Content"
       ]
     },
     {
-      "first_field_hash": "f0cabad16736c7f4df1c58ac632e4dd2b8dd73df5d2a75ba1c1b17a6dc08a226",
+      "first_field_hash": "549e84ab2cfc46b634788899238e2fdd76588c14db7b1a96a7e98f4bb5c6c16e",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::01-Intro-to-Endocrine-Block"
+      ]
+    },
+    {
+      "first_field_hash": "fdc8f21619c97c0fd6713b4066309c20ba4cdaf973a7a473ba786953a0230410",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::02-Glucose-Homeostasis-1"
+      ]
+    },
+    {
+      "first_field_hash": "6278f4d4efd4da84f08bb0cbdaa031ee8401edd70e7130447332f815a39323b3",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::02-Glucose-Homeostasis-1::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "645e598cab8d3d8f874e969d08599572d067cbc7cd2460bf4807e5f4dfe5ad4c",
       "tags": [
         "JerryShen_AnKing_Tags::Biochemistry::Final::04-Regulation::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "f0cabad16736c7f4df1c58ac632e4dd2b8dd73df5d2a75ba1c1b17a6dc08a226",
+      "tags": [
+        "JerryShen_AnKing_Tags::Biochemistry::Final::04-Regulation::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::02-Glucose-Homeostasis-1::Class-Content"
       ]
     },
     {
@@ -1419,9 +1575,22 @@
       ]
     },
     {
+      "first_field_hash": "0018a8e67d50e0add373d8118ae75bc4d54f433325d2d2dea0916628bda5144e",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::01-Intro-to-Endocrine-Block::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "c9c679a97fd97e22d19da3b507ecd70f424c23ca07135bfdef09f62e75a29606",
       "tags": [
-        "JerryShen_AnKing_Tags::Biochemistry::Final::04-Regulation::Class-Content"
+        "JerryShen_AnKing_Tags::Biochemistry::Final::04-Regulation::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::01-Intro-to-Endocrine-Block::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "44d1034b5ebe9e1804a22e04762a86a4d528915ca46c95c92d0ca9b8985873de",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::01-Intro-to-Endocrine-Block::Class-Content"
       ]
     },
     {
@@ -1433,13 +1602,15 @@
     {
       "first_field_hash": "37c8ac36d8857c59c74ace8b7f5e0b2a0dceeac9611679e54132a36587b35a67",
       "tags": [
-        "JerryShen_AnKing_Tags::Biochemistry::Final::04-Regulation::Class-Content"
+        "JerryShen_AnKing_Tags::Biochemistry::Final::04-Regulation::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::02-Glucose-Homeostasis-1::Class-Content"
       ]
     },
     {
       "first_field_hash": "87afce89a67a60d5ed476475aba74ae05e77f7c2f30f7fc4ea59018bb008f668",
       "tags": [
-        "JerryShen_AnKing_Tags::Biochemistry::Final::04-Regulation::Class-Content"
+        "JerryShen_AnKing_Tags::Biochemistry::Final::04-Regulation::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::03-Glucose-Homeostasis-2"
       ]
     },
     {
@@ -1451,7 +1622,14 @@
     {
       "first_field_hash": "10cf7769f0fb8ce4cb9b11f2f93c23f10d5da9d2bfe6ff00bd65a3554e95c3c5",
       "tags": [
-        "JerryShen_AnKing_Tags::Biochemistry::Final::04-Regulation"
+        "JerryShen_AnKing_Tags::Biochemistry::Final::04-Regulation",
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::03-Glucose-Homeostasis-2::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "eed7cc7df36c9f2fc4a315645498774482759f4d1755992f3362c9c0de8167e4",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::03-Glucose-Homeostasis-2::Class-Content"
       ]
     },
     {
@@ -1461,9 +1639,23 @@
       ]
     },
     {
+      "first_field_hash": "b31044aa7f2cbc97d2834f04c2f4aebd87e270622ac3eeba7f198e9ed7663d13",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::03-Glucose-Homeostasis-2"
+      ]
+    },
+    {
       "first_field_hash": "4b6e91fab771cd0f95fb552d44d2a8fb45fd9245d149d7b482198dc403240882",
       "tags": [
-        "JerryShen_AnKing_Tags::Biochemistry::Final::04-Regulation"
+        "JerryShen_AnKing_Tags::Biochemistry::Final::04-Regulation",
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::02-Glucose-Homeostasis-1::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "95916c431131e4e177dd4577a01cc4b3ceb0fa3b412b0b0c6e0506dc3f38b3bb",
+      "tags": [
+        "JerryShen_AnKing_Tags::Biochemistry::Final::04-Regulation::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::03-Glucose-Homeostasis-2::Class-Content"
       ]
     },
     {
@@ -1475,7 +1667,8 @@
     {
       "first_field_hash": "16b79d5e3b826eab8790c069cbab712de65966687da6702a782f479b3400e5c7",
       "tags": [
-        "JerryShen_AnKing_Tags::Biochemistry::Final::04-Regulation"
+        "JerryShen_AnKing_Tags::Biochemistry::Final::04-Regulation",
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::02-Glucose-Homeostasis-1::Class-Content"
       ]
     },
     {
@@ -1487,13 +1680,15 @@
     {
       "first_field_hash": "cd69f5360f7f6b8fee8b8ed643977e244a0ac830ad965e32c0c1b619d5926ef1",
       "tags": [
-        "JerryShen_AnKing_Tags::Biochemistry::Final::04-Regulation"
+        "JerryShen_AnKing_Tags::Biochemistry::Final::04-Regulation",
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::03-Glucose-Homeostasis-2::Class-Content"
       ]
     },
     {
       "first_field_hash": "b819ff668246e68dc403c0c1577ad35d94e20c059d52d4c6c37b43539363aad1",
       "tags": [
-        "JerryShen_AnKing_Tags::Biochemistry::Final::04-Regulation"
+        "JerryShen_AnKing_Tags::Biochemistry::Final::04-Regulation",
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::03-Glucose-Homeostasis-2::Class-Content"
       ]
     },
     {
@@ -1512,6 +1707,24 @@
       "first_field_hash": "fa72fe80760a302b97fa19fa2eac54d2a574998f573a2fbe230499f21ecce89c",
       "tags": [
         "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-6-Head-&-Neck-1::Histology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "44373a0f89e446c0855ed49f7ca5fee619e611be70b7b4e9145a427a58c5ff31",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::01-Intro-to-Endocrine-Block::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "831181d83b1eda09771e4c21ce67b954a2ddd00a67cd8830eed3dc1e90d61487",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::01-Intro-to-Endocrine-Block"
+      ]
+    },
+    {
+      "first_field_hash": "307835825a6e17acc5ed1280707006beb0c72e639b2fb9242acb6a8e197e687a",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::01-Intro-to-Endocrine-Block"
       ]
     },
     {
@@ -1539,15 +1752,95 @@
       ]
     },
     {
+      "first_field_hash": "ca70c39ecba6e3be671878ac4cccd6a27157ae285278320a7a9f70286e0d2e82",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::01-Intro-to-Endocrine-Block"
+      ]
+    },
+    {
+      "first_field_hash": "37f3b429be378fd6a53bb04d41a3bb7daed6f1f2e89afcbe4c641ab2d40fc776",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::02-Glucose-Homeostasis-1::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "d855cd5ea0e0b8d7a239695d76ebd43956ce6da18b84fc74466b2f4195d74592",
       "tags": [
-        "JerryShen_AnKing_Tags::Biochemistry::Final::04-Regulation"
+        "JerryShen_AnKing_Tags::Biochemistry::Final::04-Regulation",
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::02-Glucose-Homeostasis-1::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "5e745c7dcd964b7dc3b6015da9b2331e477f557c7b7f13db30942bceef368af4",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::03-Glucose-Homeostasis-2::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "57e841a66c46ccf5eb98729b6dcf4cd31d18d8a224a033afcd77bb89ac8ac721",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::02-Glucose-Homeostasis-1::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "baa3ef6e1eff343d91dca0c8b0f1d32e18caf3cf56dd9943f26e7f042b1c42b1",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::02-Glucose-Homeostasis-1::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "170781b14151b912b539befc127889342f03d5597af4840a9e36128bd684e625",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::02-Glucose-Homeostasis-1::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "e506a05a35b89553ec16d3835a37707eb16adb70942ce7ed6eddb5b4d5926bad",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::02-Glucose-Homeostasis-1::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "e16c54a1888f4d6cc19bcfa31459689ca0e89a0b65e57596be5dc4cad182ee65",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::02-Glucose-Homeostasis-1",
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::02-Glucose-Homeostasis-1::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "e125241511029a49f795c72ec56af6d638a4e0a77c79753c3fa520ccc9512740",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::02-Glucose-Homeostasis-1::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "872f730d36623ec256e7234441b6d5cbc1e87158448d40b9274427fcd84dccb1",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::03-Glucose-Homeostasis-2"
       ]
     },
     {
       "first_field_hash": "671e3d2ec5c09437394f355c55586432e5258844ac2415775bd309392a10f0b2",
       "tags": [
         "JerryShen_AnKing_Tags::Biochemistry::Final::03-Lipid-Metabolism"
+      ]
+    },
+    {
+      "first_field_hash": "e705fc8cc3b07542327619240af77217117867c3ab1f3d026364429ff8648d74",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::03-Glucose-Homeostasis-2::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "7af8aa028c6c76bc246c039b341385654fd447e2f994ddc9c0b1209d8baba94e",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::03-Glucose-Homeostasis-2::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "ed09c67288f168a327856a0c8477a8ba1e39cc1bfd95ca39cb3b37c94c68cab5",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::03-Glucose-Homeostasis-2::Class-Content"
       ]
     },
     {
@@ -1558,9 +1851,21 @@
       ]
     },
     {
+      "first_field_hash": "035c023a48cd59f8151b62a901e31d442040d67756d1c4b643278091ead2ddae",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::02-Glucose-Homeostasis-1::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "1cca7ccb4d4b5b406ab57af6309092a632c01c6bc46eb2134b2973a11c4b6c21",
       "tags": [
         "JerryShen_AnKing_Tags::Biochemistry::Final::01-Carbohydrate-Metabolism::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "996541a42291e02d0e5c5ef4e2d4a438a644b1d29d2b978d9fe73c4194aa5813",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::01-Intro-to-Endocrine-Block"
       ]
     },
     {
@@ -1596,21 +1901,48 @@
       ]
     },
     {
+      "first_field_hash": "35d8653ef000d0ae0e118fb728200365b216187df97a838b669c25d6a473ce8b",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::02-Glucose-Homeostasis-1::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "5869aefe808b273b64562d1bc460d34e45011e7a0b8eb88c829d2a0388b19eff",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::03-Glucose-Homeostasis-2::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "1bb50477f1c5bf2a9a3a310ab0bdba33aa7186c9a9103884b2bc31ae85652c3a",
       "tags": [
-        "JerryShen_AnKing_Tags::Biochemistry::Final::04-Regulation"
+        "JerryShen_AnKing_Tags::Biochemistry::Final::04-Regulation",
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::02-Glucose-Homeostasis-1::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "fdcace9d51c0331f630adf21395da51f71b66eb73b62b0b982e5486b2d965b64",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::02-Glucose-Homeostasis-1::Class-Content"
       ]
     },
     {
       "first_field_hash": "0fdb96ee6b2d070ef4fd7e72c05386b56255993ff078a097b7ea1d690a1b5768",
       "tags": [
-        "JerryShen_AnKing_Tags::Biochemistry::Final::04-Regulation"
+        "JerryShen_AnKing_Tags::Biochemistry::Final::04-Regulation",
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::02-Glucose-Homeostasis-1::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "eddb6e23fca84f8fc0cda7c9f7cea2f1acad0ef32f56e238b9f00563716094e4",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::02-Glucose-Homeostasis-1"
       ]
     },
     {
       "first_field_hash": "ad2938e9dc2c7deff7cf16d45840bb145b57fca878ba0fc2cc7fd63976e0a5f6",
       "tags": [
-        "JerryShen_AnKing_Tags::Biochemistry::Final::04-Regulation"
+        "JerryShen_AnKing_Tags::Biochemistry::Final::04-Regulation",
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::03-Glucose-Homeostasis-2::Class-Content"
       ]
     },
     {
@@ -1632,15 +1964,88 @@
       ]
     },
     {
+      "first_field_hash": "3c570f6b4c5bc77a66da00c5e8b3bc16d8fd4c5e096df3703a26731a835ec922",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::03-Glucose-Homeostasis-2::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "ca5e7b172724ce6846419487730ac6511cff92305e603d0ee4836bbce20bfbaf",
       "tags": [
-        "JerryShen_AnKing_Tags::Biochemistry::Final::04-Regulation::Class-Content"
+        "JerryShen_AnKing_Tags::Biochemistry::Final::04-Regulation::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::03-Glucose-Homeostasis-2::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "115b76b9028a4b9fef516915a65b3afb0565594a3e9027bca21c47deb6183343",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::02-Glucose-Homeostasis-1"
+      ]
+    },
+    {
+      "first_field_hash": "5925a4401f323b3001ec69fd6e4d07a2db38239b87c7065395c39505b55457fa",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::02-Glucose-Homeostasis-1"
+      ]
+    },
+    {
+      "first_field_hash": "f695a09619c0cc3516def04006f6f92ab8726fc2bcd403a76f0428b90130526c",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::03-Glucose-Homeostasis-2"
+      ]
+    },
+    {
+      "first_field_hash": "502b6391c80a28e1fedaef08672faa043b3580bfdb8d4a3668a0bcec1d0e1d2c",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::03-Glucose-Homeostasis-2::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "92f9df42e294e2818d7cda08a5e2b16bfb0db69e1259cfd1d85859537ebbedc1",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::03-Glucose-Homeostasis-2"
+      ]
+    },
+    {
+      "first_field_hash": "886ec1602dadb8f51514a56a6c82482e9983ceee7342db3c9da6d9bf96d349b8",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::03-Glucose-Homeostasis-2"
       ]
     },
     {
       "first_field_hash": "e94314c2669edc3764df40dcf9d55f88f6a9f6381b3ebee12adcfa5e74674844",
       "tags": [
         "JerryShen_AnKing_Tags::Biochemistry::Final::04-Regulation"
+      ]
+    },
+    {
+      "first_field_hash": "d3cd94744f9a834d43dfee9e16ff7a6ea7473515dd622fe1301a1ab0d19fec02",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::03-Glucose-Homeostasis-2::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "a90c0365ca6056a04b1b0a5d921de7f1e27211544aabf6260d2a55730cfb6e44",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::03-Glucose-Homeostasis-2::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "18704b7f313a980b391071fbb8522aaec6dd197c24a0eb405b959cf9b6609874",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::03-Glucose-Homeostasis-2"
+      ]
+    },
+    {
+      "first_field_hash": "938ed77dc3f9d4f8fbddd3d4c7db7a682bcd2b88b6a00060ed8f9bb00f07d395",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::03-Glucose-Homeostasis-2::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "7fae2862ff6fb3c223f4f44a46e079e57a9380e2cdf3a0042fc13f7ec0edd507",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::03-Glucose-Homeostasis-2"
       ]
     },
     {
@@ -1731,6 +2136,12 @@
       "first_field_hash": "44d032939cd506b45c2fc15dab7afd5b6e78d2dad9ed9b854e00eaa60bffdab8",
       "tags": [
         "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-4-Pelvis::Histology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "c7cb27d85898961ed613b98021ba7cc165ab797e6a0a37ffe06db06f6c758194",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::01-Intro-to-Endocrine-Block::Class-Content"
       ]
     },
     {
@@ -2246,6 +2657,12 @@
       "first_field_hash": "5a8572b0888868d0f352ea629c64b6d8716ec01c1cfa0a871b99d88e80726e47",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::MSK-Block::09-Geriatric-Orthopedics"
+      ]
+    },
+    {
+      "first_field_hash": "2f5ab3d491d6c1fe163b7674eafcd5f54623e8924660e5a5e76b97e87fa5602f",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::01-Intro-to-Endocrine-Block"
       ]
     },
     {
@@ -9598,6 +10015,30 @@
       ]
     },
     {
+      "first_field_hash": "b41eef23d232e9d0070e855c3027d5ccd4f9b39f0fada765c3deee1ca07f1913",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::02-Glucose-Homeostasis-1"
+      ]
+    },
+    {
+      "first_field_hash": "44b6eab7bd3d6ea034d3f4e95f41699ff12fc427f34d59cc5e9003708b29d703",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::02-Glucose-Homeostasis-1::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "06fd003235f33197afa58d39a07bf57b7e10188acf3b6a19e0251a9a7748c0a4",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::02-Glucose-Homeostasis-1"
+      ]
+    },
+    {
+      "first_field_hash": "229de3de44801ee40dfcfbfcc8637851d82ba702aff24d5464e75ac9abb82aa1",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::02-Glucose-Homeostasis-1"
+      ]
+    },
+    {
       "first_field_hash": "9a5e954ad3a56813d71fb87ba8d6a17bebb43247328cb4051e7bab6056b29c6c",
       "tags": [
         "JerryShen_AnKing_Tags::Biochemistry::Final::04-Regulation::Class-Content"
@@ -11994,6 +12435,12 @@
       ]
     },
     {
+      "first_field_hash": "d68d8e80042764be3e3601a99bb1d9307b65a5e35ac0462f09446972348662bc",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::01-Intro-to-Endocrine-Block::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "6a019ba88b3eada7b1ef52c6552c6b6c8a6a09c8b70d79159b610c123392f0f0",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::15-Upper-Respiratory-Infections::Class-Content"
@@ -12307,6 +12754,18 @@
       "first_field_hash": "97999dd8d5f427f1b3eff515f1231f40d38c6187126354ad426d25497de42df0",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::18-Heart-Sounds-&-Clinical-Exam"
+      ]
+    },
+    {
+      "first_field_hash": "6cdf978ebe988d4a1f4d5a19777c5fe07946bc329480e85ba76a2436f222c096",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::01-Intro-to-Endocrine-Block::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "6a9ab0a5db7a399c5ac5b8c7cbfd6d433e4bae819add90813cd88fbfadcae98c",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::01-Intro-to-Endocrine-Block::Class-Content"
       ]
     },
     {
@@ -14015,7 +14474,19 @@
       ]
     },
     {
+      "first_field_hash": "8fc04e13a5a34e9bfa2d1ad65d720b522548a3176513821807171e34cdaad2de",
+      "tags": [
+        "JerryShen_AnKing_Tags::Biochemistry::Final::04-Regulation::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "01636e8bd833be6e61cb4a513be93263c0d36615e9cec7599e8dc41522f19588",
+      "tags": [
+        "JerryShen_AnKing_Tags::Biochemistry::Final::04-Regulation::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "96203737c5249f77977e3e86971f27b1740b46c464b55e2088cf87dd5eb8fb39",
       "tags": [
         "JerryShen_AnKing_Tags::Biochemistry::Final::04-Regulation::Class-Content"
       ]
@@ -14033,6 +14504,12 @@
       ]
     },
     {
+      "first_field_hash": "7c6a85f8cfc7d7e29f2f9a910fcf408068d0d22029e4ef6a76c5e7cbd863e183",
+      "tags": [
+        "JerryShen_AnKing_Tags::Biochemistry::Final::04-Regulation::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "95bc51b9ec5a555792c064f01b5edd1264db1ea67ebbd4af8542babb3b65501b",
       "tags": [
         "JerryShen_AnKing_Tags::Biochemistry::Final::04-Regulation::Class-Content"
@@ -14042,6 +14519,18 @@
       "first_field_hash": "cf778c498306a1b33869dc3c48c2e40a025dd17f49fb903e728274e1082f63ce",
       "tags": [
         "JerryShen_AnKing_Tags::Biochemistry::Final::04-Regulation::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "5babb588349fb54ffadd8f448a5ad952f65b99778ea35262597961340afdcaaa",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::02-Glucose-Homeostasis-1::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "b3910b74ec8830908bea0efedc0a44fbd9c7627df5e615b9aec22117baf63631",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::02-Glucose-Homeostasis-1::Class-Content"
       ]
     },
     {
@@ -14305,7 +14794,8 @@
     {
       "first_field_hash": "321671528133a2c32ac7bf11fa848df764441971bdbab69b7b8858dcb53b00e1",
       "tags": [
-        "JerryShen_AnKing_Tags::Biochemistry::Final::01-Carbohydrate-Metabolism"
+        "JerryShen_AnKing_Tags::Biochemistry::Final::01-Carbohydrate-Metabolism",
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::02-Glucose-Homeostasis-1"
       ]
     },
     {
@@ -14369,7 +14859,7 @@
       ]
     },
     {
-      "first_field_hash": "1408be1f07f5b3b326705c1bf06930c6ee02e5138a275b0aafa2bd2dbd0cf94b",
+      "first_field_hash": "e32b892df80abc16f0af1ae9a8d17525d30ea03fe5e44e74e316255e82608a37",
       "tags": [
         "JerryShen_AnKing_Tags::Biochemistry::Final::02-Oxidative-Phosphorylation::Class-Content"
       ]
@@ -14910,7 +15400,8 @@
     {
       "first_field_hash": "10f56bf190d7d5630241dfd5a4e825511badedf0dba5c6ef119c09e43c1a9174",
       "tags": [
-        "JerryShen_AnKing_Tags::Biochemistry::Final::01-Carbohydrate-Metabolism::Class-Content"
+        "JerryShen_AnKing_Tags::Biochemistry::Final::01-Carbohydrate-Metabolism::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::02-Glucose-Homeostasis-1::Class-Content"
       ]
     },
     {
@@ -15024,7 +15515,8 @@
     {
       "first_field_hash": "ddfd72796ad9d6c8f0b3716cc6ea84c5ef7be19d521656a385de789d9472c332",
       "tags": [
-        "JerryShen_AnKing_Tags::Biochemistry::Final::04-Regulation::Class-Content"
+        "JerryShen_AnKing_Tags::Biochemistry::Final::04-Regulation::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::02-Glucose-Homeostasis-1::Class-Content"
       ]
     },
     {
@@ -17172,6 +17664,24 @@
       ]
     },
     {
+      "first_field_hash": "91ca3e97664cd978e81e1918a6e8f2a1ad6f930990d8ce3b5a54d2f6cf99e38c",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::02-Glucose-Homeostasis-1::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "8fb0b3365163cdcb86bd98fb922bd4128d3173d314bddc22f839fce56d746658",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::02-Glucose-Homeostasis-1::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "df3b822c756f2337d1cfa4bd91973f6bca8400b7a52869f01248e2a43662d644",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::02-Glucose-Homeostasis-1::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "20bbd15bb3d134c22d8c2fc4bf8dd7eb4ba3c1bbe02b64b3b33213ddfaa4f176",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Renal-Block::03-GFR-Clearance-&-Steady-State"
@@ -17188,6 +17698,12 @@
       "first_field_hash": "7dce3aa92cafac7833b301801e5c11159305ecd434c3f747c67d70c7903e3efc",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Renal-Block::04-Sodium-Balance::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "3369aa36d5c6913e6a684be7ca9dc4c11e73da031903f50d08efce593f72d539",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::02-Glucose-Homeostasis-1::Class-Content"
       ]
     },
     {
@@ -17509,6 +18025,19 @@
       ]
     },
     {
+      "first_field_hash": "3a4a9da19dede76335fa929bd89d141d9eb9daebd454256d6ab965901cad5e1b",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::05-Water-Balance::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "a43807d369efdcf723936548941b73e10b589c678461bd8dcdf7f37bb2a260e6",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::05-Water-Balance",
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::05-Water-Balance::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "6f99fb6765f71562a7555e21c3b71a980ae719d20b761c048eb3a0bddeb8f64e",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Renal-Block::05-Water-Balance::Class-Content"
@@ -17518,6 +18047,12 @@
       "first_field_hash": "565c7de2079b83f4f14b206b0407fbe828532952332a10566a41e47f98027e17",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Renal-Block::05-Water-Balance::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "b5de65cd3c0a1bb0ec1c5130140f7a83a404ea529fd2ceac53fa7f8f3bbef517",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::05-Water-Balance"
       ]
     },
     {
@@ -17537,6 +18072,12 @@
       "first_field_hash": "ab3525dfc857acc0e810211af3b2c412e8e2e86f2adcfa26b6fe8186a142f55f",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Renal-Block::05-Water-Balance"
+      ]
+    },
+    {
+      "first_field_hash": "10df7487d324ad26e4ca2782b81d7667408ebd4ff651066a3264df44a70d4132",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::05-Water-Balance::Class-Content"
       ]
     },
     {
@@ -17732,6 +18273,12 @@
       "first_field_hash": "59be176eefa325766d7dd8540b7deda7f5c8dc12f8649dc187be95e25c47c03d",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::09-Acid-Base-Control-and-Exercise-Physiology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "71b80b5e3b3c995279ca74b213d4e226359d764483224a6ff02097eaaaeeef83",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::03-Glucose-Homeostasis-2::Class-Content"
       ]
     },
     {
@@ -18849,13 +19396,15 @@
     {
       "first_field_hash": "0cac7fab0d84ae4183de3851aef8027cc0be912c28c7a68c4586faeb86e2951f",
       "tags": [
-        "JerryShen_AnKing_Tags::Biochemistry::Final::03-Lipid-Metabolism"
+        "JerryShen_AnKing_Tags::Biochemistry::Final::03-Lipid-Metabolism",
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::02-Glucose-Homeostasis-1::Class-Content"
       ]
     },
     {
       "first_field_hash": "1692a6980de116843c3cc70298f801bc68e472e34d618e0a584ec7c038e8f7ba",
       "tags": [
-        "JerryShen_AnKing_Tags::Biochemistry::Final::03-Lipid-Metabolism::Class-Content"
+        "JerryShen_AnKing_Tags::Biochemistry::Final::03-Lipid-Metabolism::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::02-Glucose-Homeostasis-1::Class-Content"
       ]
     },
     {
@@ -19014,7 +19563,8 @@
     {
       "first_field_hash": "3f68e68ed7ad7a27864b7593e1c5e0b48ec88e9e63310506f29a39d3e5b29ab9",
       "tags": [
-        "JerryShen_AnKing_Tags::Biochemistry::Final::03-Lipid-Metabolism::Class-Content"
+        "JerryShen_AnKing_Tags::Biochemistry::Final::03-Lipid-Metabolism::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::02-Glucose-Homeostasis-1::Class-Content"
       ]
     },
     {
@@ -19045,7 +19595,8 @@
     {
       "first_field_hash": "252e74b2b8821ce630e7bb8400349953389f52525d22c69f618f9103263c4e8d",
       "tags": [
-        "JerryShen_AnKing_Tags::Biochemistry::Final::03-Lipid-Metabolism::Class-Content"
+        "JerryShen_AnKing_Tags::Biochemistry::Final::03-Lipid-Metabolism::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::02-Glucose-Homeostasis-1::Class-Content"
       ]
     },
     {
@@ -19069,7 +19620,8 @@
     {
       "first_field_hash": "a264fc40e9c8a7ac09c0362ac62dfbe6d335240e3c99be3c18a38216e7b7878e",
       "tags": [
-        "JerryShen_AnKing_Tags::Biochemistry::Final::03-Lipid-Metabolism::Class-Content"
+        "JerryShen_AnKing_Tags::Biochemistry::Final::03-Lipid-Metabolism::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::02-Glucose-Homeostasis-1::Class-Content"
       ]
     },
     {
@@ -20000,7 +20552,8 @@
     {
       "first_field_hash": "904abaa79cbf2c0597f246c5e0a481483e3ce0c8d77e0220dfc5f0eb7cece7b6",
       "tags": [
-        "JerryShen_AnKing_Tags::Biochemistry::Final::03-Lipid-Metabolism::Class-Content"
+        "JerryShen_AnKing_Tags::Biochemistry::Final::03-Lipid-Metabolism::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::02-Glucose-Homeostasis-1::Class-Content"
       ]
     },
     {
@@ -26893,6 +27446,25 @@
       ]
     },
     {
+      "first_field_hash": "0455f7d47004ec877969753c9292b214952ace383d99e8f63920c2a4ad4767f5",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::03-Glucose-Homeostasis-2",
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::03-Glucose-Homeostasis-2::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "240786237f288d9aed03dc0e1d3e3e3afdc9e4eae31384535eebd5c9a78a3d7f",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::03-Glucose-Homeostasis-2"
+      ]
+    },
+    {
+      "first_field_hash": "adb0ae4e36d8288ff6724c36409b7c0e0f1a7c3fb80a59e952d66293c5e9f8e7",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::03-Glucose-Homeostasis-2"
+      ]
+    },
+    {
       "first_field_hash": "980c499039217784412b56436a12f2899be71f1929e19af05307f74a82493a69",
       "tags": [
         "JerryShen_AnKing_Tags::Genetics::Exam-2-Genetics::06-Complex-Inheritance-Patterns"
@@ -26966,9 +27538,33 @@
       ]
     },
     {
+      "first_field_hash": "3cf1bd39415db668739b90ba84a1c7e930f1568361740ce99b667a32c7821db3",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::02-Glucose-Homeostasis-1::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "27d9a16310aaab19e04ab764ec0021d942b63293210f4139edcd8c377d8ed0ca",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::02-Glucose-Homeostasis-1"
+      ]
+    },
+    {
+      "first_field_hash": "30d10a4dd852c0e8c7b349305c5dc6e69b9b86c6dcab7bd80f9495a16d6658a6",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::02-Glucose-Homeostasis-1::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "116c9130bbca77780f35b3febd560c617376037a8a6b29921737d26f6eef92c9",
       "tags": [
         "JerryShen_AnKing_Tags::Biochemistry::Final::01-Carbohydrate-Metabolism"
+      ]
+    },
+    {
+      "first_field_hash": "850eb23e037e95dbfef2625ce37b21bc7b0d834fee034e8d8d601e1d34cc4791",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::02-Glucose-Homeostasis-1::Class-Content"
       ]
     },
     {
@@ -29519,14 +30115,14 @@
       "first_field_hash": "54d626e08c1c802b305dad30b7e54a82f102390cc92c7d4db112048935236e9c",
       "tags": [
         "JerryShen_AnKing_Tags::(✏️)-Tagged-by-Jerry-Shen",
-        "JerryShen_AnKing_Tags::(🛠️)-Last-Updated-08252026"
+        "JerryShen_AnKing_Tags::(🛠️)-Last-Updated-08272026"
       ]
     },
     {
       "first_field_hash": "54d626e08c1c802b305dad30b7e54a82f102390cc92c7d4db112048935236e9c",
       "tags": [
         "JerryShen_AnKing_Tags::(✏️)-Tagged-by-Jerry-Shen",
-        "JerryShen_AnKing_Tags::(🛠️)-Last-Updated-08252026"
+        "JerryShen_AnKing_Tags::(🛠️)-Last-Updated-08272026"
       ]
     },
     {
@@ -32102,9 +32698,28 @@
       ]
     },
     {
+      "first_field_hash": "9dec891cf23d13e9a2d3069f9aa6ceb4e063a525b72ce73c2cc8e63b0f91fea8",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::01-Intro-to-Endocrine-Block"
+      ]
+    },
+    {
+      "first_field_hash": "af6426768856906330e2de95e38d6fa1dc57e773d073a1cd1ffe786c4878038d",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::01-Intro-to-Endocrine-Block::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "d250440b10d063e9d840d5a49c9b95cbc5a9047bce3d02a8e0706ae147deda85",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::01-Intro-to-Endocrine-Block::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "42d4ddd459787ca24a6aa98b2f180c18b99c7e7535f036674388f40caad449d4",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-1::MSK-Block::Extra-Upper-Limb-Pathology"
+        "JerryShen_AnKing_Tags::SOM-1::MSK-Block::Extra-Upper-Limb-Pathology",
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::01-Intro-to-Endocrine-Block"
       ]
     },
     {
@@ -33748,6 +34363,18 @@
       "first_field_hash": "33e49f216cbd6ccbeee716bbb2c327080d6fe6aead1e6fd7a059d15384b50884",
       "tags": [
         "JerryShen_AnKing_Tags::POM-1::Final::Public-Health::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "9ef8bc8ae1bbc3f64cc244ded87040ddef0a4cffc778c21304c8db6b122da312",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::01-Intro-to-Endocrine-Block"
+      ]
+    },
+    {
+      "first_field_hash": "7ef6d9f5a2511732a50e18623b9506be201f545e66c526eafc68a7e670e88f3d",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::01-Intro-to-Endocrine-Block"
       ]
     },
     {
@@ -38603,7 +39230,7 @@
       ]
     },
     {
-      "first_field_hash": "93f673d10a8bc01f1f79629f6e306baa61d0657ee73673f25f309cb473afa9bd",
+      "first_field_hash": "a32cc0c1b51d50f2abdb13e8193e17956b45f42d843e2c641435dee604c01c03",
       "tags": [
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-1::04-Intro-to-Viruses"
       ]
@@ -38948,6 +39575,12 @@
       "first_field_hash": "a53d7d93b479517f6685b76bd332180a7ab49ff5885650fb7273ae9c22302552",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::19-Central-&-Peripheral-Control-of-Circulation"
+      ]
+    },
+    {
+      "first_field_hash": "f4e02b9bc08a24e5289d3c652abf83705cb79d55c926ecaa66c316a4c95bd549",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::03-Glucose-Homeostasis-2"
       ]
     },
     {
@@ -39760,6 +40393,12 @@
       "first_field_hash": "3273fb10ce569ca357199c979d5913fbc8bd6ca993a5714486336b2fbc6e2d84",
       "tags": [
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-2::07-β-Lactam-Antibiotics-&-Parasites::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "cefad21bc0ea4803c50f06fc7e8ffb10c78045dc798d3dff7a55aa20049aab4e",
+      "tags": [
+        "JerryShen_AnKing_Tags::Micro-Pharm::Exam-2::07-β-Lactam-Antibiotics-&-Parasites"
       ]
     },
     {
@@ -46747,6 +47386,12 @@
       ]
     },
     {
+      "first_field_hash": "28846c451e9ae1d18bc78fb493c99d6196672a433c890adb9bff9d355206f791",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::02-Glucose-Homeostasis-1::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "eec9db807f0118f66b62cde12b5e60e7e405ee245dd9f6c82f57d15af5c3817d",
       "tags": [
         "JerryShen_AnKing_Tags::Neurobiology::Exam-2::Tutorial-2-Spinal-Cord",
@@ -48457,6 +49102,12 @@
       ]
     },
     {
+      "first_field_hash": "c386cd8c6c7af70061bb15e9b718bdf184aebdaff5ec25bd9606fa18a5129820",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::01-Intro-to-Endocrine-Block"
+      ]
+    },
+    {
       "first_field_hash": "7250af2a73d6aba3d9b49768d5dcbecd04e89fc9fb2a7317a2976683cb313983",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::MSK-Block::09-Geriatric-Orthopedics::Class-Content"
@@ -49616,6 +50267,12 @@
       ]
     },
     {
+      "first_field_hash": "b819baaa44e428f0f5a37f27415e5139d70505194085317f67f82c41614f28ae",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::02-Glucose-Homeostasis-1"
+      ]
+    },
+    {
       "first_field_hash": "d2b52af7d7b5b98bb5164f765d4ffd793da0d3573b828440698644d85b01821e",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::15-Pathophysiology-&-Treatment-of-Heart-Failure",
@@ -50146,6 +50803,12 @@
       ]
     },
     {
+      "first_field_hash": "0dc9f116e6a65826eebf11ebf958481023974dbadc6fa22d42dab45412d3c361",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::03-Glucose-Homeostasis-2::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "1301cb48406fd02632b6f3e9b553225ae2002c00bc085afc5bbca98606cb945d",
       "tags": [
         "JerryShen_AnKing_Tags::Biochemistry::Final::01-Carbohydrate-Metabolism"
@@ -50192,6 +50855,12 @@
       "first_field_hash": "f7ae64a8510bce02b29f8e725ffa359aedda439117dcf4e1407a1c6b133e3861",
       "tags": [
         "JerryShen_AnKing_Tags::POM-3::Clinical-Reasoning::Advanced-Pulmonary-Exam"
+      ]
+    },
+    {
+      "first_field_hash": "2408601ffd2c02c0054100ede7db7c19daedb9b2d73775b792690942e76fb7c2",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::03-Glucose-Homeostasis-2::Class-Content"
       ]
     },
     {
@@ -50371,6 +51040,12 @@
       "first_field_hash": "aa2ffe74233c4e0c31aa9cb1c51c2bd8ba89da05df877d1923b9d33686718adf",
       "tags": [
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-2::07-β-Lactam-Antibiotics-&-Parasites::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "fe1aaa0a7d91ad81431a92cfd268b0ef6471159f1738a7ecd5b933f6b6c56ae2",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::03-Glucose-Homeostasis-2"
       ]
     },
     {
@@ -52771,6 +53446,12 @@
       ]
     },
     {
+      "first_field_hash": "12614eab4f55d0961f7e515f46969e0273964bfe5109e1c5500064c65fd8cb8b",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::03-Glucose-Homeostasis-2"
+      ]
+    },
+    {
       "first_field_hash": "fee911361849f3557da658d78018fc46384865ececeb81d50377a9396021cc46",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::30-Hypertension",
@@ -54209,6 +54890,18 @@
       "tags": [
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-2::10-Biologics-Ectoparasites-&-Clinical-Cases",
         "JerryShen_AnKing_Tags::SOM-1::MSK-Block::02-Bone-&-Joint-Infections::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "8d0edc19334fb68e0c6882f7b70030b8b6bf9e18e90ad4d755ec69cd1cbebdb1",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::02-Glucose-Homeostasis-1::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "1d950c9b3b96cbd5a96b44398dcd2f8476676a4ddae9fd1edfe96717396575be",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::02-Glucose-Homeostasis-1::Class-Content"
       ]
     },
     {
@@ -56419,6 +57112,12 @@
       ]
     },
     {
+      "first_field_hash": "ae300984d31c22b897da792e630a08f9c3d339c37dc4a1cf3e040f1173901365",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::02-Glucose-Homeostasis-1::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "558b22e0f458d3bb8434df9b953ea26ced7727e4d60b30f41a9aeeb3fd5083c8",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::26-Pathology-of-Atherosclerosis-&-IHD::Class-Content"
@@ -57065,6 +57764,12 @@
       ]
     },
     {
+      "first_field_hash": "7802a0fd9fa486bb4e70bc0242a8765e17bc04f8e0381a31757971d861f91bbe",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::03-Glucose-Homeostasis-2"
+      ]
+    },
+    {
       "first_field_hash": "468592c2106b4be32f9569b215491dde393106ca924837da671d6ad702b1f59a",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::MSK-Block::06-Backache"
@@ -57074,6 +57779,18 @@
       "first_field_hash": "872c7bd11ff89b3d7c617bd59cd9d855b1fb611a26b8f0506e8e2603fd5c9b1b",
       "tags": [
         "JerryShen_AnKing_Tags::Neurobiology::Exam-2::Tutorial-1-Cerebrum::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "09706919e9f21027c2580a1a977b3d7d3baf37446dcd49f49cf7f267c4a135e8",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::03-Glucose-Homeostasis-2::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "d682207af735595544916bf3ad026c51219a43d0f9f8d197f1ecaf16dfa149e4",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::02-Glucose-Homeostasis-1"
       ]
     },
     {
@@ -57129,6 +57846,12 @@
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::23-Endocarditis",
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::23-Endocarditis::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "65d4c588427e010d3aa10c96e125785b75aaa9ba9a515d0e9f09aea9f57e66c0",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::03-Glucose-Homeostasis-2"
       ]
     },
     {
