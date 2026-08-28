@@ -1,14 +1,14 @@
 {
   "schema_version": 1,
   "author": "JerryShen",
-  "description": "endocrine introduction and glucose homeostasis",
-  "created": "2026-08-27T19:11:04.004911+00:00",
-  "updated": "2026-08-27T19:11:04.004911+00:00",
+  "description": "lipoproteins and hyperlipidemia",
+  "created": "2026-08-28T18:11:40.587634+00:00",
+  "updated": "2026-08-28T18:11:40.587634+00:00",
   "tag_prefix": "JerryShen_AnKing_Tags",
   "tag_hierarchy": [
     "JerryShen_AnKing_Tags",
     "JerryShen_AnKing_Tags::(✏️)-Tagged-by-Jerry-Shen",
-    "JerryShen_AnKing_Tags::(🛠️)-Last-Updated-08272026",
+    "JerryShen_AnKing_Tags::(🛠️)-Last-Updated-08282026",
     "JerryShen_AnKing_Tags::(🧋)-buymeacoffee.com/ger1atric",
     "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology",
     "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-1-Thorax",
@@ -447,6 +447,10 @@
     "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::02-Glucose-Homeostasis-1::Class-Content",
     "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::03-Glucose-Homeostasis-2",
     "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::03-Glucose-Homeostasis-2::Class-Content",
+    "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::04-Lipoproteins",
+    "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::04-Lipoproteins::Class-Content",
+    "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::05-Treatment-of-Hyperlipidemia",
+    "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::05-Treatment-of-Hyperlipidemia::Class-Content",
     "JerryShen_AnKing_Tags::SOM-2::Renal-Block",
     "JerryShen_AnKing_Tags::SOM-2::Renal-Block::01-Introduction-to-Renal-Physiology",
     "JerryShen_AnKing_Tags::SOM-2::Renal-Block::01-Introduction-to-Renal-Physiology::Class-Content",
@@ -666,6 +670,11 @@
       "date": "2026-08-27T19:11:04.004911+00:00",
       "message": "endocrine introduction and glucose homeostasis",
       "note_count": 145
+    },
+    {
+      "date": "2026-08-28T18:11:40.587634+00:00",
+      "message": "lipoproteins and hyperlipidemia",
+      "note_count": 105
     }
   ],
   "notes": [
@@ -1538,6 +1547,18 @@
       ]
     },
     {
+      "first_field_hash": "e39c476b1d580af0fdc5c1c934886e382af04a4bbbc9a041f9cae2e9e5d09949",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::02-Glucose-Homeostasis-1"
+      ]
+    },
+    {
+      "first_field_hash": "5b2f508e55f2a46a7ef06bbed5ccbc09ab1fb5dcdb7afeb8b960e40f65605c6e",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::02-Glucose-Homeostasis-1"
+      ]
+    },
+    {
       "first_field_hash": "549e84ab2cfc46b634788899238e2fdd76588c14db7b1a96a7e98f4bb5c6c16e",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::01-Intro-to-Endocrine-Block"
@@ -1545,6 +1566,12 @@
     },
     {
       "first_field_hash": "fdc8f21619c97c0fd6713b4066309c20ba4cdaf973a7a473ba786953a0230410",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::02-Glucose-Homeostasis-1"
+      ]
+    },
+    {
+      "first_field_hash": "840c5eb60ef9660ef51d280c50a2e3ab26277ca53fb69c5098a8a1b33b745837",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::02-Glucose-Homeostasis-1"
       ]
@@ -1597,6 +1624,13 @@
       "first_field_hash": "4a3b3c64235b2714358d8ef31bb44b248222ec9e85171df9a8a9890d0e5aae6c",
       "tags": [
         "JerryShen_AnKing_Tags::Biochemistry::Final::04-Regulation::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "ab987f557fca6ed1276977da2e03212c55aaf6bcef420bf9c5c9bc2a08f0bc6d",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::03-Glucose-Homeostasis-2",
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::04-Lipoproteins::Class-Content"
       ]
     },
     {
@@ -1851,6 +1885,12 @@
       ]
     },
     {
+      "first_field_hash": "c551551e01e71038f355070e7a760334439f85ad8b00386853c8667f140d1173",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::03-Glucose-Homeostasis-2"
+      ]
+    },
+    {
       "first_field_hash": "035c023a48cd59f8151b62a901e31d442040d67756d1c4b643278091ead2ddae",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::02-Glucose-Homeostasis-1::Class-Content"
@@ -1930,6 +1970,12 @@
       "tags": [
         "JerryShen_AnKing_Tags::Biochemistry::Final::04-Regulation",
         "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::02-Glucose-Homeostasis-1::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "f46bae77e96adb1685979f57fc823a8abb8c4f48ee55936b1983f975762c2421",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::02-Glucose-Homeostasis-1"
       ]
     },
     {
@@ -9160,6 +9206,24 @@
       ]
     },
     {
+      "first_field_hash": "aaa13961d18693721e89421c2b5e580306ae90624f26d7a2980e7ecaafcb6520",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::04-Lipoproteins::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "bfe1b2ffcd18449ab4dad98b9758cab03714f8115c2e806dc8df3d9584987363",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::04-Lipoproteins::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "134e58331086ae1642cc40e256426094c44294d8d7c06fe6592db0c9e826ad48",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::04-Lipoproteins::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "16211991e820ab06e66490fe7d47e4efa79861e1ae05220f8f605f2cc08e00ea",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::06-Hypertrophy-and-Bundle-Branch-Block::Class-Content",
@@ -10390,7 +10454,8 @@
     {
       "first_field_hash": "d90b5c198dc0113f0f1966982fe26811e63970f2771745db384d35ee63ec7c8a",
       "tags": [
-        "JerryShen_AnKing_Tags::Biochemistry::Final::03-Lipid-Metabolism::Class-Content"
+        "JerryShen_AnKing_Tags::Biochemistry::Final::03-Lipid-Metabolism::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::04-Lipoproteins::Class-Content"
       ]
     },
     {
@@ -10415,7 +10480,9 @@
       "first_field_hash": "808664c40c2c5d695f5ee8b5735cc8fd521307cefc72c8f27368c04942ebba7d",
       "tags": [
         "JerryShen_AnKing_Tags::Biochemistry::Final::03-Lipid-Metabolism::Class-Content",
-        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::29-Therapies-for-IHD::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::29-Therapies-for-IHD::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::04-Lipoproteins::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::05-Treatment-of-Hyperlipidemia::Class-Content"
       ]
     },
     {
@@ -10428,7 +10495,8 @@
       "first_field_hash": "26a4c8eb8a76a53a9fe48a3c34f747e352b4d16f5fb999bd79465ec3f6c687ea",
       "tags": [
         "JerryShen_AnKing_Tags::Biochemistry::Final::03-Lipid-Metabolism",
-        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::29-Therapies-for-IHD::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::29-Therapies-for-IHD::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::05-Treatment-of-Hyperlipidemia::Class-Content"
       ]
     },
     {
@@ -10440,7 +10508,14 @@
     {
       "first_field_hash": "5e681b7501307a44d7082b616c35f021c727fdccc9f23d030fb0f63a88335f68",
       "tags": [
-        "JerryShen_AnKing_Tags::Biochemistry::Final::03-Lipid-Metabolism"
+        "JerryShen_AnKing_Tags::Biochemistry::Final::03-Lipid-Metabolism",
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::05-Treatment-of-Hyperlipidemia::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "65b413bc7a93a7c1b407cb9380778d143161d9498c65fec565bedcb60476fc89",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::05-Treatment-of-Hyperlipidemia::Class-Content"
       ]
     },
     {
@@ -10460,7 +10535,8 @@
     {
       "first_field_hash": "6dce40f8abc3210f7a9df10f8a19f379e038f89681457380a3ad5617a61ee7bf",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::29-Therapies-for-IHD"
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::29-Therapies-for-IHD",
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::05-Treatment-of-Hyperlipidemia::Class-Content"
       ]
     },
     {
@@ -10472,55 +10548,209 @@
     {
       "first_field_hash": "18203a58ae92aa1316b3e23f8dd6158f5cc1777e405d1b43d314a96485bdd3ea",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::29-Therapies-for-IHD"
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::29-Therapies-for-IHD",
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::05-Treatment-of-Hyperlipidemia::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "9a7b7852738926054d3c6007688f4ccedfc829c36b548e3b0a2e8a5dcc76769b",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::05-Treatment-of-Hyperlipidemia"
+      ]
+    },
+    {
+      "first_field_hash": "d8121779ddc1bbb4b9d00dfbbe6d6d0e24efd6b5fe325581f8093470e7f7c619",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::05-Treatment-of-Hyperlipidemia"
+      ]
+    },
+    {
+      "first_field_hash": "71c904b861288706a9e54dd77132ce8cb3880db0c1680d7b5d2ff5cf55477df8",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::05-Treatment-of-Hyperlipidemia::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "b5ce5b52dd01a62a1b1c44bf0e4baaf1ecded1bdff41ecbe3f77cf559f96b613",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::05-Treatment-of-Hyperlipidemia"
+      ]
+    },
+    {
+      "first_field_hash": "9aa3d5bfb0e8407497fc228e1990efecaaf55565b3cac79d2eab976787867c83",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::05-Treatment-of-Hyperlipidemia"
+      ]
+    },
+    {
+      "first_field_hash": "30d827f744fafafcf815ec78724076f308e84231246a8031e5a6e31a2d06cb54",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::05-Treatment-of-Hyperlipidemia"
+      ]
+    },
+    {
+      "first_field_hash": "315373a9aafbc596e19ac57f31867058842a9153fbc3c6fc582c3423ac757a4d",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::05-Treatment-of-Hyperlipidemia::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "f194b52f1b27edf93ece7df5d4700efec0a5042fa5b1cc29d0436f641c8d7c29",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::05-Treatment-of-Hyperlipidemia"
+      ]
+    },
+    {
+      "first_field_hash": "a599809efdb0c91914a28b221df1200d84e087fdaf9dce57e28e61388935d0d8",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::05-Treatment-of-Hyperlipidemia",
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::05-Treatment-of-Hyperlipidemia::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "8d299bb4f21e99213981436194aff9a29ded85ab26c3fe1b983dd3b91611bb72",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::05-Treatment-of-Hyperlipidemia"
       ]
     },
     {
       "first_field_hash": "5ac4b56cefceaf1bd22313e3550b306c59bac115254bb642d284413f534cd532",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::29-Therapies-for-IHD::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::29-Therapies-for-IHD::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::05-Treatment-of-Hyperlipidemia::Class-Content"
       ]
     },
     {
       "first_field_hash": "3a27385cd99ad0214ef0d7d8b9cd4569a8d91885a9402f0129b2c9af20773a52",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::29-Therapies-for-IHD::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::29-Therapies-for-IHD::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::05-Treatment-of-Hyperlipidemia::Class-Content"
       ]
     },
     {
       "first_field_hash": "8f4386b3759111e2a02c98113568b68da5706f69be6b009696e24c4888133a95",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::29-Therapies-for-IHD::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::29-Therapies-for-IHD::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::05-Treatment-of-Hyperlipidemia::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "b28bcb03a1cf3a2535631a0d3f5c6b3af94659e06a44ea698666a1682885d664",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::05-Treatment-of-Hyperlipidemia"
+      ]
+    },
+    {
+      "first_field_hash": "26ed1ded4d98dfdc843e397ac8b6b759a2d863ec86feeecd38f37e74306c659b",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::05-Treatment-of-Hyperlipidemia",
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::05-Treatment-of-Hyperlipidemia::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "5957853bf77c9bc60376d55a8ae1630c02096410f704cfd1f9c57419984a6409",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::05-Treatment-of-Hyperlipidemia"
       ]
     },
     {
       "first_field_hash": "205daa6da6adae380fae04be1c7399aec7f6b88fcea435366d85e65d2a9f0ef1",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::29-Therapies-for-IHD"
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::29-Therapies-for-IHD",
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::05-Treatment-of-Hyperlipidemia"
       ]
     },
     {
       "first_field_hash": "256c2ff4fcfb954550d597e8e0748a265d6664d8d50586f0596b821bb36ca9c0",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::29-Therapies-for-IHD::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::29-Therapies-for-IHD::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::05-Treatment-of-Hyperlipidemia::Class-Content"
       ]
     },
     {
       "first_field_hash": "8c84cb39c77c4c406eb303f8023f2e070dcfbe9749bd1f2ded93a0cd3036441f",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::29-Therapies-for-IHD::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::29-Therapies-for-IHD::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::04-Lipoproteins::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::05-Treatment-of-Hyperlipidemia::Class-Content"
       ]
     },
     {
       "first_field_hash": "01414fbe905c0a13680a885256b58c3b5f68c9a76b82821d07363b895fcfd737",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::29-Therapies-for-IHD::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::29-Therapies-for-IHD::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::05-Treatment-of-Hyperlipidemia::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "50a9f7849f2a47d344ee7d1a89540f46538e721cbae95adae5d7f054c8d221bd",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::05-Treatment-of-Hyperlipidemia"
+      ]
+    },
+    {
+      "first_field_hash": "d0d2a6ed9026d17efddd00a43d733cc89222f625bafa4eb35ab796ca7cc9534d",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::05-Treatment-of-Hyperlipidemia::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "4e55f95641550a41732410fa0550881f083628f661704a536e4d89bd6cf248b2",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::05-Treatment-of-Hyperlipidemia"
+      ]
+    },
+    {
+      "first_field_hash": "4bf42b2ddddb488a1410d3a6bec5a9b50189e35dab727bbc243e203b98e428bc",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::05-Treatment-of-Hyperlipidemia",
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::05-Treatment-of-Hyperlipidemia::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "5b3462f5e442c8eaa68117026474d03d0afbd22154de49b03e9c2ed8127ef6c4",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::05-Treatment-of-Hyperlipidemia",
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::05-Treatment-of-Hyperlipidemia::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "bc2c319a31952a26298d4a31c8e6981da7d30b08ff111296f24e7776e709573a",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::05-Treatment-of-Hyperlipidemia::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "4105befe9b838692574e21ba654e2aa6d50d1ff7cdccca597cb4c296037a4f74",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::05-Treatment-of-Hyperlipidemia",
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::05-Treatment-of-Hyperlipidemia::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "95beb2c65986fb4f49d25a8846ab265236bb3b5b3f02c9bb06537abf5ece39d4",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::05-Treatment-of-Hyperlipidemia",
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::05-Treatment-of-Hyperlipidemia::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "c796c4c807fb2ec6021b9e2ad5b647502d87ee90b3d798ae486350ebd73b5ed1",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::05-Treatment-of-Hyperlipidemia::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "8ecf8844127101e9f1d35c12d09423af8f32b7d9cefcb89f67f30511f5fa5c10",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::05-Treatment-of-Hyperlipidemia::Class-Content"
       ]
     },
     {
       "first_field_hash": "7dbebba50897743bae0d8ed62c74efac91a31aa4cecf29f38408525a203c26d9",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::29-Therapies-for-IHD::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::29-Therapies-for-IHD::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::05-Treatment-of-Hyperlipidemia::Class-Content"
       ]
     },
     {
@@ -14429,6 +14659,13 @@
       "first_field_hash": "65cc8567e6100d591623966654236536d0f8c1ddfaeb70fa7897ea490b8c5647",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::16-Clotting-&-Thromboembolic-Disease"
+      ]
+    },
+    {
+      "first_field_hash": "9218acabd6d0637a8c61609e1d8428b827877cc58fe896c610024ea164139bcb",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::05-Treatment-of-Hyperlipidemia",
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::05-Treatment-of-Hyperlipidemia::Class-Content"
       ]
     },
     {
@@ -18943,19 +19180,22 @@
     {
       "first_field_hash": "1d351ff7a5d8dbf4f37de998f91a1fa52753309ffb0192a57ae2d91f05f0ff15",
       "tags": [
-        "JerryShen_AnKing_Tags::Biochemistry::Final::03-Lipid-Metabolism::Class-Content"
+        "JerryShen_AnKing_Tags::Biochemistry::Final::03-Lipid-Metabolism::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::04-Lipoproteins::Class-Content"
       ]
     },
     {
       "first_field_hash": "01eae734485d2c9c7e88dd349fb6687749654af5304cd959d6dcebf8cc9df53d",
       "tags": [
-        "JerryShen_AnKing_Tags::Biochemistry::Final::03-Lipid-Metabolism"
+        "JerryShen_AnKing_Tags::Biochemistry::Final::03-Lipid-Metabolism",
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::04-Lipoproteins"
       ]
     },
     {
       "first_field_hash": "2242955168fdabeb500a7db93a4b56bba87769a79450d2f756cc2e6e1f598c5c",
       "tags": [
-        "JerryShen_AnKing_Tags::Biochemistry::Final::03-Lipid-Metabolism::Class-Content"
+        "JerryShen_AnKing_Tags::Biochemistry::Final::03-Lipid-Metabolism::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::04-Lipoproteins"
       ]
     },
     {
@@ -18972,27 +19212,44 @@
       ]
     },
     {
+      "first_field_hash": "3e0df7af4337338e97352e64e2c831d532cab15b9abd770b053d06c20b3c28a0",
+      "tags": [
+        "JerryShen_AnKing_Tags::Biochemistry::Final::03-Lipid-Metabolism",
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::04-Lipoproteins"
+      ]
+    },
+    {
       "first_field_hash": "fe75fb7ff7fc3b6947b00e08e98cbcafad959c57ae7e20241f8d594f771f800f",
       "tags": [
-        "JerryShen_AnKing_Tags::Biochemistry::Final::03-Lipid-Metabolism"
+        "JerryShen_AnKing_Tags::Biochemistry::Final::03-Lipid-Metabolism",
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::04-Lipoproteins::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "706c81b434e62cc3e308b2de9c15516066dd4f8abde04e99e3368b5b063f862f",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::04-Lipoproteins::Class-Content"
       ]
     },
     {
       "first_field_hash": "7fa0e0e77e6eb3a507315f7b0b9e339bae166b3ac9afe0b5762a9b4be9e7d817",
       "tags": [
-        "JerryShen_AnKing_Tags::Biochemistry::Final::03-Lipid-Metabolism"
+        "JerryShen_AnKing_Tags::Biochemistry::Final::03-Lipid-Metabolism",
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::04-Lipoproteins::Class-Content"
       ]
     },
     {
       "first_field_hash": "2fd48fef297f75544d7302685e7c1700fba3d8e85d3cf4c822237e514cabfa96",
       "tags": [
-        "JerryShen_AnKing_Tags::Biochemistry::Final::03-Lipid-Metabolism::Class-Content"
+        "JerryShen_AnKing_Tags::Biochemistry::Final::03-Lipid-Metabolism::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::04-Lipoproteins::Class-Content"
       ]
     },
     {
       "first_field_hash": "731be72d1f6e7c987fb3a724e08596f4c5b8c1eae17995b93183eb75b0e001f4",
       "tags": [
-        "JerryShen_AnKing_Tags::Biochemistry::Final::03-Lipid-Metabolism"
+        "JerryShen_AnKing_Tags::Biochemistry::Final::03-Lipid-Metabolism",
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::04-Lipoproteins::Class-Content"
       ]
     },
     {
@@ -19000,7 +19257,8 @@
       "tags": [
         "JerryShen_AnKing_Tags::Biochemistry::Final::03-Lipid-Metabolism::Class-Content",
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::29-Therapies-for-IHD::Class-Content",
-        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::36-Lymphatics::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::36-Lymphatics::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::04-Lipoproteins::Class-Content"
       ]
     },
     {
@@ -19024,7 +19282,8 @@
     {
       "first_field_hash": "55b63b35c7fb000fb66bf27c88fc1270ea80a4a0a990f826b0770010a0c0c96c",
       "tags": [
-        "JerryShen_AnKing_Tags::Biochemistry::Final::03-Lipid-Metabolism"
+        "JerryShen_AnKing_Tags::Biochemistry::Final::03-Lipid-Metabolism",
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::04-Lipoproteins"
       ]
     },
     {
@@ -19049,7 +19308,8 @@
       "first_field_hash": "d4cf4581a59947cf666c41f3bf78ac777b9cc643d06085136c7a9fdf9220fca3",
       "tags": [
         "JerryShen_AnKing_Tags::Biochemistry::Final::03-Lipid-Metabolism",
-        "JerryShen_AnKing_Tags::Biochemistry::Final::03-Lipid-Metabolism::Class-Content"
+        "JerryShen_AnKing_Tags::Biochemistry::Final::03-Lipid-Metabolism::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::04-Lipoproteins::Class-Content"
       ]
     },
     {
@@ -19062,7 +19322,8 @@
       "first_field_hash": "23900c95c2219bc84891e5e08b76435b4bff641247783abc8b2520134fb7c178",
       "tags": [
         "JerryShen_AnKing_Tags::Biochemistry::Final::03-Lipid-Metabolism",
-        "JerryShen_AnKing_Tags::Biochemistry::Final::03-Lipid-Metabolism::Class-Content"
+        "JerryShen_AnKing_Tags::Biochemistry::Final::03-Lipid-Metabolism::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::04-Lipoproteins"
       ]
     },
     {
@@ -19080,7 +19341,8 @@
     {
       "first_field_hash": "c35816aae823dd7a13f6a2435301faa353a70ae646fef929202a67cca07ac46a",
       "tags": [
-        "JerryShen_AnKing_Tags::Biochemistry::Final::03-Lipid-Metabolism"
+        "JerryShen_AnKing_Tags::Biochemistry::Final::03-Lipid-Metabolism",
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::04-Lipoproteins"
       ]
     },
     {
@@ -19116,7 +19378,8 @@
     {
       "first_field_hash": "3565b5ec234991ed1463508063f0926a0630db2d9a5fc4151c9878686d8da5bc",
       "tags": [
-        "JerryShen_AnKing_Tags::Biochemistry::Final::03-Lipid-Metabolism"
+        "JerryShen_AnKing_Tags::Biochemistry::Final::03-Lipid-Metabolism",
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::04-Lipoproteins"
       ]
     },
     {
@@ -19134,7 +19397,8 @@
     {
       "first_field_hash": "426792aa81979525266daac68091fb7ad28c5793f1bdb4b5c4e4a28f0eecc567",
       "tags": [
-        "JerryShen_AnKing_Tags::Biochemistry::Final::03-Lipid-Metabolism::Class-Content"
+        "JerryShen_AnKing_Tags::Biochemistry::Final::03-Lipid-Metabolism::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::04-Lipoproteins::Class-Content"
       ]
     },
     {
@@ -19158,13 +19422,15 @@
     {
       "first_field_hash": "d285c24e8ae0d5c3693bbbb26518895fcdf880ebad61abcce894e3b9612fe2ef",
       "tags": [
-        "JerryShen_AnKing_Tags::Biochemistry::Final::03-Lipid-Metabolism::Class-Content"
+        "JerryShen_AnKing_Tags::Biochemistry::Final::03-Lipid-Metabolism::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::04-Lipoproteins::Class-Content"
       ]
     },
     {
       "first_field_hash": "e15b0fd48050cc81d8add96396ecab601fd4b236e0fc460ee4bba2343a6b0f68",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::29-Therapies-for-IHD::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::29-Therapies-for-IHD::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::04-Lipoproteins::Class-Content"
       ]
     },
     {
@@ -19254,6 +19520,12 @@
       ]
     },
     {
+      "first_field_hash": "f9d66d0d217d767ad9886fcba9bce1f6dfe3ba7d99c58b532e3eccda8a0a47d6",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::04-Lipoproteins"
+      ]
+    },
+    {
       "first_field_hash": "b95bdaf2653b12ebea90aab51fd941aa49b0ad4e67af088859c79ef6ad437f36",
       "tags": [
         "JerryShen_AnKing_Tags::Biochemistry::Final::03-Lipid-Metabolism"
@@ -19266,9 +19538,34 @@
       ]
     },
     {
+      "first_field_hash": "df49416c1e1d4a23aa0bf4b7f76cfb0a5c1fb294eca46b466f491bd1432a53e6",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::04-Lipoproteins",
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::04-Lipoproteins::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "55fc49b78f25d1b0e9663741359ef3ea638b229e8fb5f101ee10a1671df8bf93",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::04-Lipoproteins"
+      ]
+    },
+    {
+      "first_field_hash": "2930da63a0a6c80c4b3cb989571060c148afb22b3ada8989adb531acb3febc69",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::04-Lipoproteins"
+      ]
+    },
+    {
       "first_field_hash": "db1912ca5db9c3930a0b698546d45772c3d262a1eec2340b2bd7255c9b358170",
       "tags": [
         "JerryShen_AnKing_Tags::Biochemistry::Final::03-Lipid-Metabolism"
+      ]
+    },
+    {
+      "first_field_hash": "b182da7a6a693b3db4833a8c4366cdf6c1c1ed1033834007b7fd66574b8f6a06",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::04-Lipoproteins"
       ]
     },
     {
@@ -19284,9 +19581,33 @@
       ]
     },
     {
+      "first_field_hash": "be998298c53c411f7d7cf7771e01933d55a5e59c5f8b629b9eab68bdc9ce51a8",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::04-Lipoproteins"
+      ]
+    },
+    {
+      "first_field_hash": "310a8d53458941c6a72306a103511deb2d883e9202ee378b191fa2610ee7d270",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::04-Lipoproteins"
+      ]
+    },
+    {
+      "first_field_hash": "b8aa6aefb08ed6d0a8939dd1f5f12119c450aba4647c8f31cb30491f987c32a2",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::04-Lipoproteins"
+      ]
+    },
+    {
       "first_field_hash": "85ec5653d1cb2af864d647e81d0d317bf025098d2f0d64a6c5eb8356c704b1bb",
       "tags": [
         "JerryShen_AnKing_Tags::Biochemistry::Final::03-Lipid-Metabolism"
+      ]
+    },
+    {
+      "first_field_hash": "66886cab6aab9bb6498aeeed9197241e5ddfdf3a11a975364e5634fbe749d079",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::04-Lipoproteins"
       ]
     },
     {
@@ -19304,7 +19625,16 @@
     {
       "first_field_hash": "206c55c681a6b72a82c7862e47dd23d491fb9c0290365d9cd8b41fd77bba97ff",
       "tags": [
-        "JerryShen_AnKing_Tags::Biochemistry::Final::03-Lipid-Metabolism"
+        "JerryShen_AnKing_Tags::Biochemistry::Final::03-Lipid-Metabolism",
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::04-Lipoproteins"
+      ]
+    },
+    {
+      "first_field_hash": "a68346a4c23e6f96f9e6bf711c56cb9760ab561b54157bce3daebed7b55d99fe",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::04-Lipoproteins",
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::05-Treatment-of-Hyperlipidemia",
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::05-Treatment-of-Hyperlipidemia::Class-Content"
       ]
     },
     {
@@ -19322,7 +19652,8 @@
     {
       "first_field_hash": "d25f50be22671e57491f902884bb731e3e5db831bb731156ae55fbb5aab820df",
       "tags": [
-        "JerryShen_AnKing_Tags::Biochemistry::Final::03-Lipid-Metabolism::Class-Content"
+        "JerryShen_AnKing_Tags::Biochemistry::Final::03-Lipid-Metabolism::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::04-Lipoproteins::Class-Content"
       ]
     },
     {
@@ -19371,7 +19702,8 @@
     {
       "first_field_hash": "19fdbbac6369244a7c8269c9114d8456999c7ea70f4d45f9ce50e7455dee38d1",
       "tags": [
-        "JerryShen_AnKing_Tags::Biochemistry::Final::03-Lipid-Metabolism"
+        "JerryShen_AnKing_Tags::Biochemistry::Final::03-Lipid-Metabolism",
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::05-Treatment-of-Hyperlipidemia::Class-Content"
       ]
     },
     {
@@ -21875,6 +22207,8 @@
     {
       "first_field_hash": "2a031d845d81d8519144d4178eb3dd043b6971de8122ecb98beca67bf6153b2a",
       "tags": [
+        "JerryShen_AnKing_Tags::(✏️)-Tagged-by-Jerry-Shen",
+        "JerryShen_AnKing_Tags::(🛠️)-Last-Updated-08282026",
         "JerryShen_AnKing_Tags::(🧋)-buymeacoffee.com/ger1atric",
         "JerryShen_AnKing_Tags::Biochemistry::Final::02-Oxidative-Phosphorylation::Class-Content"
       ]
@@ -27532,6 +27866,13 @@
       ]
     },
     {
+      "first_field_hash": "783317293934dc5180d4dc55ce406ea3c2a2d7888aab93e3d5081265f631d886",
+      "tags": [
+        "JerryShen_AnKing_Tags::Biochemistry::Final::03-Lipid-Metabolism",
+        "JerryShen_AnKing_Tags::Biochemistry::Final::03-Lipid-Metabolism::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "43f996dc6b03bb17b2d95f562ba33f8be7a56bc4f5da19f79c94a883346c5dc6",
       "tags": [
         "JerryShen_AnKing_Tags::Biochemistry::Final::01-Carbohydrate-Metabolism"
@@ -28058,6 +28399,12 @@
       ]
     },
     {
+      "first_field_hash": "97ae850cc058f967c8db9686d8e20e767b152d6cda4eafd2954343500efe41bb",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::04-Lipoproteins"
+      ]
+    },
+    {
       "first_field_hash": "d89e8d854562b62f57f58b243d0e96d1f6610cb5ed01235e81c9d22d9f83a1ba",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::19-ARDS-&-Ventilators::Class-Content"
@@ -28073,6 +28420,13 @@
       "first_field_hash": "4e15fa4aa8bb7b07a13646b5ad9d306699cb25ac6b53fdcc17666116344b7e6c",
       "tags": [
         "JerryShen_AnKing_Tags::Biochemistry::Final::05-Nitrogen-Metabolism::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "8809129e68cb5e0beea90bb7b4bb7059346d3ad4230eef800b2df50155947c2d",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::05-Treatment-of-Hyperlipidemia",
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::05-Treatment-of-Hyperlipidemia::Class-Content"
       ]
     },
     {
@@ -30112,32 +30466,6 @@
       ]
     },
     {
-      "first_field_hash": "54d626e08c1c802b305dad30b7e54a82f102390cc92c7d4db112048935236e9c",
-      "tags": [
-        "JerryShen_AnKing_Tags::(✏️)-Tagged-by-Jerry-Shen",
-        "JerryShen_AnKing_Tags::(🛠️)-Last-Updated-08272026"
-      ]
-    },
-    {
-      "first_field_hash": "54d626e08c1c802b305dad30b7e54a82f102390cc92c7d4db112048935236e9c",
-      "tags": [
-        "JerryShen_AnKing_Tags::(✏️)-Tagged-by-Jerry-Shen",
-        "JerryShen_AnKing_Tags::(🛠️)-Last-Updated-08272026"
-      ]
-    },
-    {
-      "first_field_hash": "54d626e08c1c802b305dad30b7e54a82f102390cc92c7d4db112048935236e9c",
-      "tags": [
-        "JerryShen_AnKing_Tags::(✏️)-Tagged-by-Jerry-Shen"
-      ]
-    },
-    {
-      "first_field_hash": "54d626e08c1c802b305dad30b7e54a82f102390cc92c7d4db112048935236e9c",
-      "tags": [
-        "JerryShen_AnKing_Tags::(✏️)-Tagged-by-Jerry-Shen"
-      ]
-    },
-    {
       "first_field_hash": "02d37e3bf544ed245c783217bf8a15b200ffea51d3f381e5fa501a408e30df64",
       "tags": [
         "JerryShen_AnKing_Tags::Neurobiology::Exam-2::Lec-PNS-Disorders::Class-Content"
@@ -32135,7 +32463,7 @@
       ]
     },
     {
-      "first_field_hash": "5ec2abec21a1736760b220d3a853cdac2c494e11f5d7052be30202412c6bec80",
+      "first_field_hash": "23abb0857b9c6194ac988aa88b8e9c0530ac48a1d32e5b5d7891593c8851071f",
       "tags": [
         "JerryShen_AnKing_Tags::Immunology::Final::Innate-Sensing"
       ]
@@ -35306,6 +35634,13 @@
       ]
     },
     {
+      "first_field_hash": "989776548e92d552fa6612a58a10b716921c6e0a683f47a10d2ca391aef385c1",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::04-Lipoproteins",
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::05-Treatment-of-Hyperlipidemia::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "b338efd1ca674f247b76beea5b9fdc5752d24293c4cec97391cc868d1169fa71",
       "tags": [
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-2::10-Biologics-Ectoparasites-&-Clinical-Cases::Class-Content"
@@ -37072,7 +37407,8 @@
     {
       "first_field_hash": "2134f543afdea86c4a5bd444eeec56f6fd262da6265aac6cf1fbb241ee8fa215",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::29-Therapies-for-IHD::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::29-Therapies-for-IHD::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::05-Treatment-of-Hyperlipidemia::Class-Content"
       ]
     },
     {
@@ -41648,7 +41984,8 @@
     {
       "first_field_hash": "05763fee6f8d68a936d375a66f7b5394e9bf612dcab32a156d90e57e90524f36",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::29-Therapies-for-IHD::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::29-Therapies-for-IHD::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::05-Treatment-of-Hyperlipidemia::Class-Content"
       ]
     },
     {
@@ -46945,6 +47282,13 @@
       "first_field_hash": "72d0d72caf170639abd294c877fdf0dc3fdb05d06a78f94298c16cd1dd010d65",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::MSK-Block::02-Bone-&-Joint-Infections"
+      ]
+    },
+    {
+      "first_field_hash": "84c94627a98f1b60ca8f408d21d073405db045a4e9df66468bcc005fc7c09c98",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::05-Treatment-of-Hyperlipidemia",
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::05-Treatment-of-Hyperlipidemia::Class-Content"
       ]
     },
     {
@@ -52422,6 +52766,12 @@
       ]
     },
     {
+      "first_field_hash": "30887a7d546018af8f420cb3db51a55ab926dbced3fe3bf758b79155acdd5f77",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::03-Glucose-Homeostasis-2"
+      ]
+    },
+    {
       "first_field_hash": "b532c75f6c117c999671a5516a3e0396cfa7e3ebd1a73fdba09c551bbc599db2",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::35-Congenital-Heart-Disease::Class-Content"
@@ -52575,6 +52925,12 @@
       ]
     },
     {
+      "first_field_hash": "f63092421b4eef45788b0f05d8d3e0c8ad243b04d550f5ef2d85d18ab10d31b6",
+      "tags": [
+        "JerryShen_AnKing_Tags::POM-1::Final::Clinical-Skills::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "48b3a1c67d2807f0964f7f36967cc556bfddad7a68e98c9dc48d859c9651df48",
       "tags": [
         "JerryShen_AnKing_Tags::Neurobiology::Exam-2::Tutorial-1-Cerebrum::Class-Content"
@@ -52717,6 +53073,12 @@
       "first_field_hash": "0ad16afbce38a1d232aa21d7a0d687d2a9abf7e9f2e115c40462210d6585fd3d",
       "tags": [
         "JerryShen_AnKing_Tags::POM-1::Final::Epidemiology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "ceec9a34e5306d324a373f7ae52261154d66754e0cd74ea60145278c94449f1d",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::04-Lipoproteins"
       ]
     },
     {
@@ -53008,6 +53370,12 @@
       "first_field_hash": "7c573dd6230112ee3807e770a7b7f22db0bb91f7168f0c7cf94049efbf0a7d7a",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::30-Hypertension::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "c446d02fc0cb8150dd6c202c614d85e8288f967bb08b40520efbe552bffe453b",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::05-Treatment-of-Hyperlipidemia::Class-Content"
       ]
     },
     {
@@ -53488,6 +53856,12 @@
       "first_field_hash": "61f30aaf5245245467d1a809ece9fef9ac02dff00d69fbb580203bfba1375b50",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::31-Treatment-of-Hypertension"
+      ]
+    },
+    {
+      "first_field_hash": "5cd6aeda003bd3634d542688547bb1217672b249cd4d3238a22b5ffcb293ef4e",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::30-Hypertension"
       ]
     },
     {
@@ -54026,13 +54400,20 @@
     {
       "first_field_hash": "12dc0f29c1315d27c45cfad5f9f77d70197637ab096f50f66555d26a73e91467",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::29-Therapies-for-IHD"
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::29-Therapies-for-IHD",
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::05-Treatment-of-Hyperlipidemia"
       ]
     },
     {
       "first_field_hash": "b26707d0eb8d1dc47adffe538e97bf50693acea666c41fd857f40969998daafb",
       "tags": [
         "JerryShen_AnKing_Tags::Biochemistry::Final::03-Lipid-Metabolism::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "44bd67dc511e91e7193e27308ad45d357839bd7e102c5c0e71787f3bd8b0dba9",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::05-Treatment-of-Hyperlipidemia"
       ]
     },
     {
@@ -54057,7 +54438,8 @@
     {
       "first_field_hash": "661c45636b7fe79e51a73cb586a0fb97258e3503b7349b381bd063d333650763",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::29-Therapies-for-IHD::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::29-Therapies-for-IHD::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::05-Treatment-of-Hyperlipidemia::Class-Content"
       ]
     },
     {
@@ -55292,7 +55674,8 @@
     {
       "first_field_hash": "09ebba585e1e955d016fdb14601493de04341577872f0678341728e44727a3a8",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::29-Therapies-for-IHD"
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::29-Therapies-for-IHD",
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::05-Treatment-of-Hyperlipidemia::Class-Content"
       ]
     },
     {
@@ -56082,6 +56465,12 @@
       "first_field_hash": "8af043bb779c1750fdcc6106a5d8e807e07529f510106e113f5224c812d12507",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::MSK-Block::06-Backache::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "c5bb36e9530b99030154dde2c7b60f9d34f853d977da746a12ee2528b7e71f04",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::03-Glucose-Homeostasis-2"
       ]
     },
     {
@@ -56885,7 +57274,8 @@
     {
       "first_field_hash": "a911b25ddb21e65b6affa752bb443643ee6d8b15646f0aa5c07da1483b3f3595",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::29-Therapies-for-IHD"
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::29-Therapies-for-IHD",
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::05-Treatment-of-Hyperlipidemia"
       ]
     },
     {
@@ -58004,6 +58394,12 @@
       "first_field_hash": "aba0541a12c2e416a446719acf66ccd14ed08aa14083e78570ca930c65d12528",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::22-Peripheral-Arterial-&-Aortic-Disease::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "6544bf7ffc199140f59e092c3400ca660b3ba5cc8d8d4c5b76dc254aa9a9ad5d",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::05-Treatment-of-Hyperlipidemia"
       ]
     },
     {
