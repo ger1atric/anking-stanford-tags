@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
   "author": "JerryShen",
-  "description": "8/31 renal",
-  "created": "2026-08-31T17:53:34.327033+00:00",
-  "updated": "2026-08-31T17:53:34.327033+00:00",
+  "description": "diuretics",
+  "created": "2026-08-31T19:16:25.277986+00:00",
+  "updated": "2026-08-31T19:16:25.277986+00:00",
   "tag_prefix": "JerryShen_AnKing_Tags",
   "tag_hierarchy": [
     "JerryShen_AnKing_Tags",
@@ -467,7 +467,9 @@
     "JerryShen_AnKing_Tags::SOM-2::Renal-Block::06-Disorders-of-Water-Balance",
     "JerryShen_AnKing_Tags::SOM-2::Renal-Block::06-Disorders-of-Water-Balance::Class-Content",
     "JerryShen_AnKing_Tags::SOM-2::Renal-Block::07-Acid-Base-Balance",
-    "JerryShen_AnKing_Tags::SOM-2::Renal-Block::07-Acid-Base-Balance::Class-Content"
+    "JerryShen_AnKing_Tags::SOM-2::Renal-Block::07-Acid-Base-Balance::Class-Content",
+    "JerryShen_AnKing_Tags::SOM-2::Renal-Block::08-Diuretics",
+    "JerryShen_AnKing_Tags::SOM-2::Renal-Block::08-Diuretics::Class-Content"
   ],
   "changelog": [
     {
@@ -686,6 +688,11 @@
       "date": "2026-08-31T17:53:34.327033+00:00",
       "message": "8/31 renal",
       "note_count": 148
+    },
+    {
+      "date": "2026-08-31T19:16:25.277986+00:00",
+      "message": "diuretics",
+      "note_count": 73
     }
   ],
   "notes": [
@@ -1562,6 +1569,12 @@
       ]
     },
     {
+      "first_field_hash": "59550fb2f746e4ffd58d82c17bd43e9becc799c85ce248bcb9a64be0e1066590",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::07-Acid-Base-Balance"
+      ]
+    },
+    {
       "first_field_hash": "4dc7b726fd29469e4e57cf7dfa60e2a6e18fdb352c1e4fd78be4cbcad7b50d20",
       "tags": [
         "JerryShen_AnKing_Tags::Biochemistry::Final::03-Lipid-Metabolism"
@@ -2314,7 +2327,8 @@
     {
       "first_field_hash": "b16414c7b5e9b1b61c6048c42dd630b333db780210be30cc8c51f0cc796a48d3",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::15-Pathophysiology-&-Treatment-of-Heart-Failure"
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::15-Pathophysiology-&-Treatment-of-Heart-Failure",
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::08-Diuretics"
       ]
     },
     {
@@ -2326,7 +2340,8 @@
     {
       "first_field_hash": "05bc4c54474540a88456d8c475577094a40bd75ba710ef58d47c663b043eb98c",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::04-Sodium-Balance"
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::04-Sodium-Balance",
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::08-Diuretics::Class-Content"
       ]
     },
     {
@@ -2947,9 +2962,16 @@
       ]
     },
     {
+      "first_field_hash": "55690815b208af2ec35e51084b9a71b6b464fcf5b22540cba66280e79b19f96a",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::08-Diuretics"
+      ]
+    },
+    {
       "first_field_hash": "11b2ee342bd746f4e38edc8d746eaac3f3a907f1bceeffecb009cc5bcfb6d3c7",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::15-Pathophysiology-&-Treatment-of-Heart-Failure::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::15-Pathophysiology-&-Treatment-of-Heart-Failure::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::08-Diuretics"
       ]
     },
     {
@@ -14709,6 +14731,12 @@
       ]
     },
     {
+      "first_field_hash": "b845b9fee710c70b6650db81c2e0049ba31cc741f5fbb54bd8f1763f28e7ad61",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::07-Acid-Base-Balance::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "62084eaada9c0e363697791ac272d97293a3404240e4f6585d081f18388f6516",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::16-Clotting-&-Thromboembolic-Disease::Class-Content"
@@ -18417,7 +18445,8 @@
     {
       "first_field_hash": "3fb7c79c9a572f491ddbf7c5ef07d651b20c5f3aad5c85aff5555d801d67a6b5",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::04-Sodium-Balance"
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::04-Sodium-Balance",
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::08-Diuretics"
       ]
     },
     {
@@ -18459,7 +18488,8 @@
     {
       "first_field_hash": "48060969e38c0aec493beba404250783ec172d75127232bea718bea028cdff71",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::04-Sodium-Balance"
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::04-Sodium-Balance",
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::08-Diuretics"
       ]
     },
     {
@@ -18483,7 +18513,8 @@
     {
       "first_field_hash": "d57f2a8cbc32797939d3855c74985559e2c9adb5d738e4fea1b11ca9df6c3ad2",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::04-Sodium-Balance"
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::04-Sodium-Balance",
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::07-Acid-Base-Balance::Class-Content"
       ]
     },
     {
@@ -18505,6 +18536,24 @@
       ]
     },
     {
+      "first_field_hash": "cdf9f94d5b1840f552f8d591e301e62a2d07301f68b389f70ac9237369488c22",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::08-Diuretics"
+      ]
+    },
+    {
+      "first_field_hash": "07acb84369a1b0fa13cb354e28efdf474659bf428691db98401b87b6329a6433",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::08-Diuretics"
+      ]
+    },
+    {
+      "first_field_hash": "549fc023830c713d54a25faeb426357a1c9fb462e705c14877c14c97bfd17411",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::08-Diuretics::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "cc7bdc33f2f9cab60d135680f37689e5e3323b9572e5e0f96bf3b3352a776b72",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Renal-Block::04-Sodium-Balance::Class-Content"
@@ -18514,6 +18563,18 @@
       "first_field_hash": "93d95c137a5610b427567227725435fac4fac25a38ec13db7004d8d062ab51e9",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Renal-Block::04-Sodium-Balance"
+      ]
+    },
+    {
+      "first_field_hash": "19c95d30fb32986610ff75c030969911842dc75ddf67d087c4efa96ad07417a7",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::08-Diuretics::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "20353d5a1c4d3def94323d518501f68dd1caf2c79652c10ecb05ba9583fced29",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::07-Acid-Base-Balance"
       ]
     },
     {
@@ -18532,6 +18593,30 @@
       "first_field_hash": "f5a93b3ac24aa3faae6f57506c77a1cdaf242619278b55a7610db07b6c4f7f23",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Renal-Block::01-Introduction-to-Renal-Physiology"
+      ]
+    },
+    {
+      "first_field_hash": "94cc3c8aae6d825415a2c51c8d4f4dd689711214bd6c373a9b4727b7ac34030e",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::08-Diuretics"
+      ]
+    },
+    {
+      "first_field_hash": "bf909aa39b4964cb11d80d67f54db00a8f0aa546bcee7ad7adf09580da71d369",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::08-Diuretics"
+      ]
+    },
+    {
+      "first_field_hash": "5be6323c97c9ee01e09e9c3eb07054eab3cc226d28559f815ce6acc1be159198",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::08-Diuretics"
+      ]
+    },
+    {
+      "first_field_hash": "7e3e39b9c927ed56648e17a99b82b3ab9f6cc738a74c0314849b25fe0c4d18dd",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::08-Diuretics"
       ]
     },
     {
@@ -18555,7 +18640,21 @@
     {
       "first_field_hash": "eefae2f52c58b6aeec5dddcb84aa8a0be46cf59398ebbfee456b85da5740324f",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::04-Sodium-Balance::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::04-Sodium-Balance::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::08-Diuretics::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "8b6917d1b340291475cb56659b354639d422acb2aad54d8025038a331256ce34",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::08-Diuretics::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "b702e1a5c6ad63fe0220fc56c5a6f6aa8de6e9442e2d13c465c871c0ea3ca97d",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::08-Diuretics",
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::08-Diuretics::Class-Content"
       ]
     },
     {
@@ -18852,6 +18951,12 @@
       ]
     },
     {
+      "first_field_hash": "7cd83a4af420c73981876693b391dd4fbbbe00d873b3ac70736fb9a0c38c3c60",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::07-Acid-Base-Balance::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "10144c55f9c21ef568d246807241dde0846c6044c6a98170680c90ec91e07bd6",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::09-Acid-Base-Control-and-Exercise-Physiology::Class-Content"
@@ -18877,9 +18982,21 @@
       ]
     },
     {
+      "first_field_hash": "1a804db42fee807a6231051b17541e42f7ded7f5333207c14d54fe27bf271059",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::07-Acid-Base-Balance::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "718826e929647f97b1018f177f82bb3be617a77dd266126c8341687658a95bf4",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Renal-Block::07-Acid-Base-Balance::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "6d9f7b79d4a17cf02b6a526f86c836e836a233169a4caf8b37a5ac5534cbd458",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::07-Acid-Base-Balance"
       ]
     },
     {
@@ -18925,7 +19042,37 @@
       ]
     },
     {
+      "first_field_hash": "1523d8dd31030935911ebb521ec6f5b595589e93b83cdda9cdb6f17278db7dbb",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::07-Acid-Base-Balance::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "712a690fbb66e1e0e5950554b14f0f94dbcc5516a9a316a4f89ebdf91532d12a",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::07-Acid-Base-Balance::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "9b9fe41f3fdf5cd7b9a1d7a2fa31d21ab9e833a92c37222939e396e627561be4",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::07-Acid-Base-Balance::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "7d1d229be501e95ec388f804ea752f7f08ef750d587749129b46c455fc8c6eff",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::07-Acid-Base-Balance"
+      ]
+    },
+    {
+      "first_field_hash": "374f8e489bae800584bc3c49009235eba233e34c95606d7b70827a1380475230",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::07-Acid-Base-Balance::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "2f5363c13fa02207dcd8d84f4709fdb23fafc828b05264a8e453a022441860dc",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Renal-Block::07-Acid-Base-Balance::Class-Content"
       ]
@@ -19148,6 +19295,12 @@
       ]
     },
     {
+      "first_field_hash": "e1a9ed211e9cf547673f9be7d9b996cea24adde04ffd383e51ffbc332e228644",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::08-Diuretics::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "cd4cc94c5949f44c2c5eb7910cc851c761ca4885e801de6ec7da0684169a8d83",
       "tags": [
         "JerryShen_AnKing_Tags::Genetics::Exam-2-Genetics::06-Complex-Inheritance-Patterns"
@@ -19178,9 +19331,40 @@
       ]
     },
     {
+      "first_field_hash": "f1e3c64508f6e91a6393851e1c4168ecce1a8d2dcf6871f3204f254b80925d2d",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::08-Diuretics"
+      ]
+    },
+    {
       "first_field_hash": "e30c572d257e10725e3698b88a1047c3cfa4989a168894079ed295abf09bcf60",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::04-Sodium-Balance"
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::04-Sodium-Balance",
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::08-Diuretics::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "32ba4206975f9e8fd811f7faf0b29230ab5cce0e9210e24248c941525cb39013",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::08-Diuretics::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "33a3b63986476785093ea635bdaec71862f07c09cf6071f3e60e2af5d15afdd4",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::08-Diuretics"
+      ]
+    },
+    {
+      "first_field_hash": "42fcc12a3f09f77f4a5ec9c201e723008ed07a90a465cba96137d4569b95330c",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::08-Diuretics"
+      ]
+    },
+    {
+      "first_field_hash": "1558af3aa10a32b8d36a68bb84903045380fe88a76a8441a6d65eae3041c801e",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::08-Diuretics"
       ]
     },
     {
@@ -19199,6 +19383,91 @@
       "first_field_hash": "01150f9c90229acae53f99bfe325ef5d493377e955140943248bfbfc17ce7495",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Renal-Block::04-Sodium-Balance"
+      ]
+    },
+    {
+      "first_field_hash": "e29c8c8d20679f32dee7152437f4b5e1764b0814879129fa296f79eef3a68138",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::07-Acid-Base-Balance"
+      ]
+    },
+    {
+      "first_field_hash": "570e33a67809ce9b6c07713f224de6f7b61aa27b00ff1768020660bfc9fbf801",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::07-Acid-Base-Balance"
+      ]
+    },
+    {
+      "first_field_hash": "98390a73c623c29b477c0d87a7af7556ed4f9acb310b53c79d080f87867bfcc0",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::08-Diuretics::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "3f75fb42b40dc03113d2abc1d2613fb4975c59de717fb5bae31e7ed9f87865f0",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::08-Diuretics"
+      ]
+    },
+    {
+      "first_field_hash": "c77f2a32303b16ae1ac20dd0c1dfba3e7de96dd9616b6b1cd431beb3dc993612",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::08-Diuretics::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "180b4acb1959fb667d6e98e1fb6eb5d1343f55ba977afd93a8f13c126ab5e093",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::08-Diuretics",
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::08-Diuretics::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "dc8599ea85757ff0b734b970c483b2e802b0a47a40040260f0e428ae6afbf04e",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::08-Diuretics"
+      ]
+    },
+    {
+      "first_field_hash": "ba4c4c5598b692533ca6ed4dfae0d0e7e738dcdfca127a32b93d3a4e1ce7bcd3",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::08-Diuretics::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "7626572b65b065673996e93879ef1d40818da0ff3dbde1e7e65f9b78731979e0",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::08-Diuretics::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "5f1b9cbdc44a34e5c7179bb5ab7792d6e58bec0a0686c4e6146ba403bcb3a31c",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::08-Diuretics::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "c61db4427b68d08105c29bc80ee16504e2f546ee6c6d74612cbc39358b152850",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::08-Diuretics::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "468614fd5eea4d7c23bd61ee5175ea6de041ff8fda510c7d763776fb1e929f02",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::08-Diuretics::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "d22e457993b099ede4e53e101eadd50c78421b9b168066f5cbb4971062398af0",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::08-Diuretics"
+      ]
+    },
+    {
+      "first_field_hash": "1f438ed21293025a379fde3cf6dc9a38fc8747b79152837a91077fd2043e5997",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::08-Diuretics::Class-Content"
       ]
     },
     {
@@ -19343,19 +19612,27 @@
     {
       "first_field_hash": "4f32cb1459e3bc0fa0e026afe5c168e977a755e14bfa9942025f1d32b78c41ee",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::15-Pathophysiology-&-Treatment-of-Heart-Failure"
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::15-Pathophysiology-&-Treatment-of-Heart-Failure",
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::08-Diuretics"
       ]
     },
     {
       "first_field_hash": "cbacc556fdc6987a015dae2c404bb50b8d9ea8a894d3d6c17dc6f7a4c722458f",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::15-Pathophysiology-&-Treatment-of-Heart-Failure"
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::15-Pathophysiology-&-Treatment-of-Heart-Failure",
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::08-Diuretics::Class-Content"
       ]
     },
     {
       "first_field_hash": "02b3e12f3b6c97ee7ec48552286f5ebf4edac37e396ad079d2119b28f91fb68b",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Renal-Block::01-Introduction-to-Renal-Physiology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "200b8689b8bbf8262268a56cc7450879f61aba8033560505bf409f445b84e627",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::15-Pathophysiology-&-Treatment-of-Heart-Failure::Class-Content"
       ]
     },
     {
@@ -19372,9 +19649,23 @@
       ]
     },
     {
+      "first_field_hash": "1e1a64c3d804f06cd3a69d43914da85c43b78edf9146feb0e5fc227694ab71f7",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::08-Diuretics"
+      ]
+    },
+    {
       "first_field_hash": "6f81ab276e123f47a6a1bf7cafffe89f03dc8ff897e096cdc3d7db46e20cde1f",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::15-Pathophysiology-&-Treatment-of-Heart-Failure::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::15-Pathophysiology-&-Treatment-of-Heart-Failure::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::08-Diuretics",
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::08-Diuretics::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "40a5e5bf8630c9eed236cbc7e3fb823f74cea5785d36e7cd4576038bdc13749c",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::08-Diuretics"
       ]
     },
     {
@@ -19387,6 +19678,12 @@
       "first_field_hash": "7eb1d1e487709f83841f323cabec7b8f27829194506fec4b01fa7f8d2abdd22a",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::15-Pathophysiology-&-Treatment-of-Heart-Failure"
+      ]
+    },
+    {
+      "first_field_hash": "6cc5df489421e9756b16114f2d3f1e37bbbd9b1c5a7ce6207baa534daebd51d0",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::08-Diuretics"
       ]
     },
     {
@@ -19404,7 +19701,8 @@
     {
       "first_field_hash": "1a81fa66e90ec65927fccd38184578b97d0fc25ded0013bc0022dcc1c4b1077e",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::31-Treatment-of-Hypertension"
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::31-Treatment-of-Hypertension",
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::08-Diuretics"
       ]
     },
     {
@@ -19418,6 +19716,24 @@
       "first_field_hash": "61c354f5fa77c4500a4eee22dd0942ddc1e4ebdd003e06ed2702f4f595824e42",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::15-Pathophysiology-&-Treatment-of-Heart-Failure"
+      ]
+    },
+    {
+      "first_field_hash": "2bae65279d5a29941c097a29421c42872ee3ee5463273c8d64e94dc50f1c48b9",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::08-Diuretics"
+      ]
+    },
+    {
+      "first_field_hash": "0cb2bdf167700ea5028ed6f4562c2309098d38d47b8114a7e7b9cfdf7bed90b2",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::08-Diuretics"
+      ]
+    },
+    {
+      "first_field_hash": "4305dfcbd262c0f8a6431348331b10053a59b797b230bfefd063b6f9acd968a9",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::08-Diuretics::Class-Content"
       ]
     },
     {
@@ -19436,13 +19752,33 @@
     {
       "first_field_hash": "eb148632297439dffc453a271b0b756653521cfb9a7cb728d829f9af56f23458",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::06-Disorders-of-Water-Balance::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::06-Disorders-of-Water-Balance::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::08-Diuretics::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "209f8425435b5c792e58fc01d6937cd1b02c04f40d13d96b7d170cf36ba7c5fe",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::08-Diuretics::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "5daa4009d1f061500e60301c8959aa44d52b977c313536d87aa28043fab3a46d",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::08-Diuretics"
+      ]
+    },
+    {
+      "first_field_hash": "e05dca44815ac991aea4dcc50872030364b15a587108f09ff3a30bbfaa7a20d9",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::08-Diuretics::Class-Content"
       ]
     },
     {
       "first_field_hash": "d89bea7c39f0ad0c30ab7a082894dfd19bfc65c673cb61b7131e803fdf572b35",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::31-Treatment-of-Hypertension"
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::31-Treatment-of-Hypertension",
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::08-Diuretics::Class-Content"
       ]
     },
     {
@@ -19465,6 +19801,18 @@
       ]
     },
     {
+      "first_field_hash": "34af9cb347eb407d7a930c70dd5dabdf3f5aca4b126ed4e7af79edb8555d8934",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::08-Diuretics::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "498c45f2ac577f7a87ba295e892cc0409d7ac0e4a71e15fe600eeb47e61c0b95",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::08-Diuretics"
+      ]
+    },
+    {
       "first_field_hash": "0ae9d96a616316dcfc5f487e6a134cc5256533fb6c80d182447095c57ca0485f",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::31-Treatment-of-Hypertension::Class-Content"
@@ -19474,6 +19822,25 @@
       "first_field_hash": "a430899825949c90bad0cac0a41bfd360006cd19323bc838109703f34b9566d0",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::31-Treatment-of-Hypertension::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "e8e2592d76842fb6236db2d2b25f9fedb0ae4bcea7c54f2f8fbf224fd0910b10",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::08-Diuretics::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "d1865abcb08ce91ede28b27b93bfd3c34f7320b19ce1e39ee0e6e56895314061",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::08-Diuretics"
+      ]
+    },
+    {
+      "first_field_hash": "9d4b38966906ae8458f8d7bd9f1b4261c18bc4b25c8b2f8b2aec69fd88dd6462",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::08-Diuretics",
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::08-Diuretics::Class-Content"
       ]
     },
     {
@@ -20641,6 +21008,12 @@
     },
     {
       "first_field_hash": "dffc636d2d4c61cbce48f627fe5bfba257f228a7c632eb2941eb8f9aa6f2c144",
+      "tags": [
+        "JerryShen_AnKing_Tags::Biochemistry::Final::05-Nitrogen-Metabolism::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "e8d556635d23e40b3e7ff141f1f94e84eaf68f629bb0f1d25beb99c089074ebc",
       "tags": [
         "JerryShen_AnKing_Tags::Biochemistry::Final::05-Nitrogen-Metabolism::Class-Content"
       ]
@@ -51233,6 +51606,12 @@
       "first_field_hash": "56ea03e2f6e667855f8e4efb956334fb25539d2d3b5bd00591e06d46d94b4fcd",
       "tags": [
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-2::09-Misc-Antimicrobials-&-Skin-Infections"
+      ]
+    },
+    {
+      "first_field_hash": "72b5ea4b46fde039a2a86c17815d0c8c90f38f323a9db465df51609b4a056c1e",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::08-Diuretics"
       ]
     },
     {
