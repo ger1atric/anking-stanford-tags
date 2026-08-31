@@ -1,14 +1,14 @@
 {
   "schema_version": 1,
   "author": "JerryShen",
-  "description": "lipoproteins and hyperlipidemia",
-  "created": "2026-08-28T18:11:40.587634+00:00",
-  "updated": "2026-08-28T18:11:40.587634+00:00",
+  "description": "8/31 renal",
+  "created": "2026-08-31T17:53:34.327033+00:00",
+  "updated": "2026-08-31T17:53:34.327033+00:00",
   "tag_prefix": "JerryShen_AnKing_Tags",
   "tag_hierarchy": [
     "JerryShen_AnKing_Tags",
     "JerryShen_AnKing_Tags::(✏️)-Tagged-by-Jerry-Shen",
-    "JerryShen_AnKing_Tags::(🛠️)-Last-Updated-08282026",
+    "JerryShen_AnKing_Tags::(🛠️)-Last-Updated-08302026",
     "JerryShen_AnKing_Tags::(🧋)-buymeacoffee.com/ger1atric",
     "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology",
     "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-1-Thorax",
@@ -451,6 +451,8 @@
     "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::04-Lipoproteins::Class-Content",
     "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::05-Treatment-of-Hyperlipidemia",
     "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::05-Treatment-of-Hyperlipidemia::Class-Content",
+    "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::06-Pathogenesis-&-Treatment-of-Type-1-Diabetes",
+    "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::06-Pathogenesis-&-Treatment-of-Type-1-Diabetes::Class-Content",
     "JerryShen_AnKing_Tags::SOM-2::Renal-Block",
     "JerryShen_AnKing_Tags::SOM-2::Renal-Block::01-Introduction-to-Renal-Physiology",
     "JerryShen_AnKing_Tags::SOM-2::Renal-Block::01-Introduction-to-Renal-Physiology::Class-Content",
@@ -461,7 +463,11 @@
     "JerryShen_AnKing_Tags::SOM-2::Renal-Block::04-Sodium-Balance",
     "JerryShen_AnKing_Tags::SOM-2::Renal-Block::04-Sodium-Balance::Class-Content",
     "JerryShen_AnKing_Tags::SOM-2::Renal-Block::05-Water-Balance",
-    "JerryShen_AnKing_Tags::SOM-2::Renal-Block::05-Water-Balance::Class-Content"
+    "JerryShen_AnKing_Tags::SOM-2::Renal-Block::05-Water-Balance::Class-Content",
+    "JerryShen_AnKing_Tags::SOM-2::Renal-Block::06-Disorders-of-Water-Balance",
+    "JerryShen_AnKing_Tags::SOM-2::Renal-Block::06-Disorders-of-Water-Balance::Class-Content",
+    "JerryShen_AnKing_Tags::SOM-2::Renal-Block::07-Acid-Base-Balance",
+    "JerryShen_AnKing_Tags::SOM-2::Renal-Block::07-Acid-Base-Balance::Class-Content"
   ],
   "changelog": [
     {
@@ -675,6 +681,11 @@
       "date": "2026-08-28T18:11:40.587634+00:00",
       "message": "lipoproteins and hyperlipidemia",
       "note_count": 105
+    },
+    {
+      "date": "2026-08-31T17:53:34.327033+00:00",
+      "message": "8/31 renal",
+      "note_count": 148
     }
   ],
   "notes": [
@@ -1381,6 +1392,19 @@
       ]
     },
     {
+      "first_field_hash": "cb8460e1ad75b7a3bd9811c00eeae40ff96e3842be245e1ee80540d76f25d276",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::06-Disorders-of-Water-Balance",
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::06-Disorders-of-Water-Balance::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "39e45a98cfb738c58da1d4eec5b0525ed85cf1ab2ca8d7ff31ff3e6d152294a0",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::06-Disorders-of-Water-Balance::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "e2fd830e53dfa2f3e9abec64e73405d98df0b64d493d7732e6a24cb1df9bc11d",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Renal-Block::05-Water-Balance::Class-Content"
@@ -1396,6 +1420,36 @@
       "first_field_hash": "8a15b71829ab7e00ef7e7f16a5b46816ec2ecbe6b4be60e5a1df7c818afe0f2a",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::CV-Lab-03-Autonomic-Drugs-&-Clinical-Correlates"
+      ]
+    },
+    {
+      "first_field_hash": "3f87f53a284550e54a194bd5df521a500b1c1a8a1b78ab1333b517eb5c2a4815",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::06-Disorders-of-Water-Balance::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "593c1743fe3ad6796e9c420b36a7d2f64d2052eb47fa0bd7bc7e3ae023f89d61",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::06-Disorders-of-Water-Balance::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "f195522f8c0d6fedfa3e4a02c7182f8574388c574f81e7ee5f83073d09cf97c8",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::06-Disorders-of-Water-Balance::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "43f722c98a8abf5ad1ad42be79000b8683459d38c5dcd06dc35852a8ab2dffbb",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::06-Disorders-of-Water-Balance::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "a7a88b9ddcfdfba6d5cbde61c4b5a6b5a59de9bc37e8c2ad37ec0b6bb3305a58",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::06-Disorders-of-Water-Balance::Class-Content"
       ]
     },
     {
@@ -1780,9 +1834,113 @@
       ]
     },
     {
+      "first_field_hash": "d111fb0bb83ad58c04a659f5dfb26679fdf76a72413c337a181a88c06f22cec2",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::06-Disorders-of-Water-Balance::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "c01b20e65a67f5f61d1889289b9f886e5207bff2d94c62da4b78b4dd2e1eec73",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::06-Disorders-of-Water-Balance::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "32d34cbaa998bd8257b798d0825298f20943866372c76fe3a65e0a09437e4a4b",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::06-Disorders-of-Water-Balance"
+      ]
+    },
+    {
       "first_field_hash": "99a0a238f58ac61bbc8f38a34c59f0d10c4611ac1be29b8ebb57b765e37a083d",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::05-Water-Balance"
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::05-Water-Balance",
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::06-Disorders-of-Water-Balance::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "1c5d5d204a60aba6e0df111d20be119106d5383146ab77a5b9952a7f13b1e26c",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::06-Disorders-of-Water-Balance"
+      ]
+    },
+    {
+      "first_field_hash": "fd1489a735e0f13bfdf4b7c7479e930551468a1b7a814d5a1e5e344e69a64245",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::06-Disorders-of-Water-Balance::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "eee9f3e8b808ebe2c3ac65552a60c01b9d8141fc7cb8c9bd4152cb3e7f3a128f",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::06-Disorders-of-Water-Balance"
+      ]
+    },
+    {
+      "first_field_hash": "488686b857738d1c3d78ea2fd15ed97a6822762265ed1fcd9a9024ab3c68a788",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::06-Disorders-of-Water-Balance::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "4b99ac369748b512aca6f484569794297a0c7eb9559f8e08e8eacb130701f812",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::06-Disorders-of-Water-Balance"
+      ]
+    },
+    {
+      "first_field_hash": "b717daa92f816afce036a275f24237e7dd18bad3adb1b528f94ad41cf7cba772",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::06-Disorders-of-Water-Balance"
+      ]
+    },
+    {
+      "first_field_hash": "1a56f565373aaac2a6c69e56336d8198d533236c5bf0adfbcdfc24f87c4f5b9c",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::06-Disorders-of-Water-Balance::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "5f9dae387de6f71c8e68457f371fe1b4e90f669280a32dfa4f7cadced3b6f0b7",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::06-Disorders-of-Water-Balance::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "f6341e053cb9de4cc310b3f0f058cdfc5d2b135c598768669c8d9a1be8d49584",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::06-Disorders-of-Water-Balance"
+      ]
+    },
+    {
+      "first_field_hash": "d01f51e8b214cae18da7b007553ed580c01dd968a87a931559a5069f5abb76eb",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::06-Disorders-of-Water-Balance",
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::06-Disorders-of-Water-Balance::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "0a8d038e8044beef67e46119ce4f53556407cd69db4d29ca0999660930a019af",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::06-Disorders-of-Water-Balance::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "c1cb51691a3a1f90e474cff9220bfbb069639d5c7d71de845b80e5e0aae9659e",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::06-Disorders-of-Water-Balance::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "2b64f482fbe18cf7bc443f0df0264d56d2a7a0e3ad209b1e2baeb26abd60eb93",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::06-Disorders-of-Water-Balance"
+      ]
+    },
+    {
+      "first_field_hash": "5a5b0a78006b7dac16c9ab71202f66cbdac73a2844b329f8820961ddd5d81c7e",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::06-Disorders-of-Water-Balance"
       ]
     },
     {
@@ -1801,7 +1959,45 @@
       "first_field_hash": "d855cd5ea0e0b8d7a239695d76ebd43956ce6da18b84fc74466b2f4195d74592",
       "tags": [
         "JerryShen_AnKing_Tags::Biochemistry::Final::04-Regulation",
-        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::02-Glucose-Homeostasis-1::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::02-Glucose-Homeostasis-1::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::06-Pathogenesis-&-Treatment-of-Type-1-Diabetes::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "3244455015c3b02fe9a9050dcd18fdfccf8b6e19492cac9f67df011b15db7702",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::06-Pathogenesis-&-Treatment-of-Type-1-Diabetes",
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::06-Pathogenesis-&-Treatment-of-Type-1-Diabetes::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "ec53ecf3ed5d1da535cc0d3d57978d97592f7c8b0083034ce5d6fb01ec83fa17",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::06-Pathogenesis-&-Treatment-of-Type-1-Diabetes"
+      ]
+    },
+    {
+      "first_field_hash": "17270531db3cb9ec53efd6ddf66daf0cf7cf9c2aa3a05ef74b6f0965dedb3271",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::06-Pathogenesis-&-Treatment-of-Type-1-Diabetes::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "ec2a6258542d2e2795695f15dbe8830a04347308fb9740f1ec1e66d2050fd218",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::06-Pathogenesis-&-Treatment-of-Type-1-Diabetes::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "0d02d7ff0857218353a024248434a546d88467eee53acbf52c58000a0fb00192",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::06-Pathogenesis-&-Treatment-of-Type-1-Diabetes::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "d6c162f8aab3d2a68675b2ffd480a502ec0563784904e3fd94ef3660fa0a6e30",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::06-Pathogenesis-&-Treatment-of-Type-1-Diabetes"
       ]
     },
     {
@@ -1850,7 +2046,8 @@
     {
       "first_field_hash": "872f730d36623ec256e7234441b6d5cbc1e87158448d40b9274427fcd84dccb1",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::03-Glucose-Homeostasis-2"
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::03-Glucose-Homeostasis-2",
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::06-Pathogenesis-&-Treatment-of-Type-1-Diabetes::Class-Content"
       ]
     },
     {
@@ -1881,7 +2078,8 @@
       "first_field_hash": "3bd1fd439808c8d8ad6b0cbd34a634b08b662bcac62d260e156bde88df7ccb8a",
       "tags": [
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-1::05-Intro-to-Fungi",
-        "JerryShen_AnKing_Tags::Micro-Pharm::Exam-1::05-Intro-to-Fungi::Class-Content"
+        "JerryShen_AnKing_Tags::Micro-Pharm::Exam-1::05-Intro-to-Fungi::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::06-Pathogenesis-&-Treatment-of-Type-1-Diabetes::Class-Content"
       ]
     },
     {
@@ -2020,6 +2218,25 @@
       "tags": [
         "JerryShen_AnKing_Tags::Biochemistry::Final::04-Regulation::Class-Content",
         "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::03-Glucose-Homeostasis-2::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "e79e1766d69629d11b8938e73ececb9e4a84e9cba8d6a5f3e8185c7514885d3b",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::03-Glucose-Homeostasis-2",
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::06-Pathogenesis-&-Treatment-of-Type-1-Diabetes::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "b58acd077e49052507547dced494031c4593728427b9ac1f9ca8f799ae456f87",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::06-Pathogenesis-&-Treatment-of-Type-1-Diabetes"
+      ]
+    },
+    {
+      "first_field_hash": "f37896949018575a5976fcff4f5faae2e641d3388e2b2f0a92b94ef75fe9e61c",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::06-Pathogenesis-&-Treatment-of-Type-1-Diabetes::Class-Content"
       ]
     },
     {
@@ -2721,6 +2938,12 @@
       "first_field_hash": "60ca9977738d5b67761c710509362ac1bc998100a4bf56c160b435ad27382f97",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Renal-Block::05-Water-Balance::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "7c48ebda08d4a20e74fa7e0eea65e8539f583b039c2cb4ad0009e24db3a1db9b",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::06-Disorders-of-Water-Balance::Class-Content"
       ]
     },
     {
@@ -14150,7 +14373,8 @@
     {
       "first_field_hash": "ed619be44a474c2683f7a11098629bbddf00b79a1d7f43410b1f69066c01f543",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::27-Lung-Cancer"
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::27-Lung-Cancer",
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::06-Disorders-of-Water-Balance::Class-Content"
       ]
     },
     {
@@ -17495,7 +17719,8 @@
       "first_field_hash": "427d274337e88e9cdccdc150720ab0d12f7833ae62eceb5715b20093b0799640",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Renal-Block::02-Body-Fluid-Compartments",
-        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::02-Body-Fluid-Compartments::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::02-Body-Fluid-Compartments::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::06-Disorders-of-Water-Balance::Class-Content"
       ]
     },
     {
@@ -17517,6 +17742,12 @@
       ]
     },
     {
+      "first_field_hash": "0af8504752578091c5f1f0825439390e9121b63e854a463c92b470e2021cedb4",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::02-Body-Fluid-Compartments"
+      ]
+    },
+    {
       "first_field_hash": "3c99dc0461a189b3000441e47c0d070c78633a60eef76a728c564faa9b70b49a",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Renal-Block::02-Body-Fluid-Compartments"
@@ -17524,6 +17755,18 @@
     },
     {
       "first_field_hash": "f9fbb1b0555f6ce8e0399d36af84c978c2d798e100e47b60acf330a3605a1829",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::02-Body-Fluid-Compartments"
+      ]
+    },
+    {
+      "first_field_hash": "da454bb580cb2c01a502204bc5087582b45fdfb35aecd55ec53e66b2f1304bab",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::02-Body-Fluid-Compartments"
+      ]
+    },
+    {
+      "first_field_hash": "6f2f7c2541d77dee5d6d6eca68fa66205643b8376f21e72b14326b33a0e300eb",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Renal-Block::02-Body-Fluid-Compartments"
       ]
@@ -17586,6 +17829,42 @@
       "first_field_hash": "293d7d1e37c0203495957fe6f2b2ced070500b1392c7b635ff658a11cdce8142",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Renal-Block::02-Body-Fluid-Compartments::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "576d10eec3de2b44960af5af747215ef15e8b46b7dadf6d067c615fdf28c50c9",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::06-Disorders-of-Water-Balance::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "e53c21a6a2757bcb41cd363c8312841417ce27ba909f4ccd18cf70e05fab94fc",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::06-Disorders-of-Water-Balance"
+      ]
+    },
+    {
+      "first_field_hash": "9b2c6bd7b0ffbd1e970df1edcd19626d15f8e8e352a8f0aa9ce5ba07d588b3fd",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::06-Disorders-of-Water-Balance::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "b2cba99ade89e1866b828f72ec26fb33bc813de5d7012f9e19473c2505610c81",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::06-Disorders-of-Water-Balance"
+      ]
+    },
+    {
+      "first_field_hash": "4d77fbedc5d187cd43ceef4751b154cd23794ca794d8b5551d589268847f5f96",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::06-Disorders-of-Water-Balance"
+      ]
+    },
+    {
+      "first_field_hash": "45238e3bd2b940f346963e3ebf9e29b99dfb92615669d6902b725bc6b34225f3",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::06-Disorders-of-Water-Balance"
       ]
     },
     {
@@ -17786,6 +18065,12 @@
       ]
     },
     {
+      "first_field_hash": "060d84984f91bd29b344d5ef90b2e24b88b78db4ddf2069c3de7f0edd6ca5845",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::01-Introduction-to-Renal-Physiology::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "3e07d21cfd76c5bf52cf4909632d4b0fd23e6810f2c0df8964fcdb07a3da0a87",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Renal-Block::01-Introduction-to-Renal-Physiology"
@@ -17826,6 +18111,24 @@
       "first_field_hash": "f4b861f1863f877f9e394cad75ac1493e185adf36f0829da72fa1da12a071fb5",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Renal-Block::01-Introduction-to-Renal-Physiology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "8b5179fe049d36675bdeb6f8f1310b24118a817777f65a322cfaa1910da79074",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::01-Introduction-to-Renal-Physiology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "34845788a0ad9fab5736f0fabf71526d0f2a28a21b3a0428cded8ff91b1479d0",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::01-Introduction-to-Renal-Physiology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "db4cdce9ce15f4c745740d16ed98118a278043fd0eb48fafcc29890a7b509d4c",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::01-Introduction-to-Renal-Physiology"
       ]
     },
     {
@@ -18142,6 +18445,12 @@
       ]
     },
     {
+      "first_field_hash": "6ed49304fc73d22eb585782bac411959484eb032381e9dbc584a1a3e0712e37a",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::05-Water-Balance"
+      ]
+    },
+    {
       "first_field_hash": "b825ec22530dcab19cec9455fee552427207c69e449e40c0577e86d7a7ea2ed7",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Renal-Block::04-Sodium-Balance::Class-Content"
@@ -18306,9 +18615,21 @@
       ]
     },
     {
+      "first_field_hash": "e0dae1fa94fc2b180e569f112847cfdb46106b4041bece9f1ae3e6f628d6ca8d",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::06-Disorders-of-Water-Balance::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "ab3525dfc857acc0e810211af3b2c412e8e2e86f2adcfa26b6fe8186a142f55f",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Renal-Block::05-Water-Balance"
+      ]
+    },
+    {
+      "first_field_hash": "7ce9d674a098dbe2b6352b0486968749c358babb01349fef102d653cc112ab70",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::06-Disorders-of-Water-Balance::Class-Content"
       ]
     },
     {
@@ -18327,6 +18648,42 @@
       "first_field_hash": "09ce11c3b5b78474b5aea3c46a9b91efacebbb5920cdaacd576bdd46def91487",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Renal-Block::02-Body-Fluid-Compartments"
+      ]
+    },
+    {
+      "first_field_hash": "27b82e72a00194dba9f6410d2f79dfa550e2ad5df46eaf337432d7b68def1ac4",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::05-Water-Balance"
+      ]
+    },
+    {
+      "first_field_hash": "fc261bb11122b6c881ab879eecaafe9fa07adef36d9d014322e370aad5e4060f",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::05-Water-Balance"
+      ]
+    },
+    {
+      "first_field_hash": "ed9394eae33175a88e0c5c1ba04fe44f6c2feb8d77fc81e23e2f3fae268251b9",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::05-Water-Balance"
+      ]
+    },
+    {
+      "first_field_hash": "883cab55062eecac2d1a72869ff2e06fc4d25d2d83f0e5e4895036c72f88a70f",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::05-Water-Balance"
+      ]
+    },
+    {
+      "first_field_hash": "07243463156ec95cbde2d0e9b2ca83ebc4b7018faf08910343fecb31b3ee5a31",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::05-Water-Balance"
+      ]
+    },
+    {
+      "first_field_hash": "802bfe242f96fa25d61f1399cdffb1ebe4dbe065f7bcb8f6f61101809375a4a8",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::05-Water-Balance"
       ]
     },
     {
@@ -18423,19 +18780,22 @@
     {
       "first_field_hash": "adc403cccebd27ae9e31c5866eb268403a692e8e99b3c9d380715f2e748f370d",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::09-Acid-Base-Control-and-Exercise-Physiology"
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::09-Acid-Base-Control-and-Exercise-Physiology",
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::07-Acid-Base-Balance::Class-Content"
       ]
     },
     {
       "first_field_hash": "403753cf19f8a825cafcc7971f3bf28db714e067a612bbefec938f025613c00b",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::09-Acid-Base-Control-and-Exercise-Physiology::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::09-Acid-Base-Control-and-Exercise-Physiology::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::07-Acid-Base-Balance::Class-Content"
       ]
     },
     {
       "first_field_hash": "5c8a5ad7fd5e5d7ccb3647c7a63bb844620f2815107f194481cff6dac68648e6",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::09-Acid-Base-Control-and-Exercise-Physiology"
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::09-Acid-Base-Control-and-Exercise-Physiology",
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::07-Acid-Base-Balance::Class-Content"
       ]
     },
     {
@@ -18452,22 +18812,43 @@
       ]
     },
     {
+      "first_field_hash": "8bc34c4806ea458b71921442af7dcffbfd89c7638c20c695c45a44681e295a4c",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::07-Acid-Base-Balance"
+      ]
+    },
+    {
+      "first_field_hash": "ff408d6d702fe2ee35c6808c51c855934036fdeee1816c4cc925c1173656963d",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::07-Acid-Base-Balance"
+      ]
+    },
+    {
+      "first_field_hash": "e53c2a215b9a2d8bcadd510bc66cb147cbd619daf50e8cf03974f3b0756281ed",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::03-Glucose-Homeostasis-2::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "d4463fa6dba5cff776e624660c309b89dee4e5e3b9a97e8f1c81a7f898a08529",
       "tags": [
         "JerryShen_AnKing_Tags::Biochemistry::Final::02-Oxidative-Phosphorylation",
-        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::09-Acid-Base-Control-and-Exercise-Physiology"
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::09-Acid-Base-Control-and-Exercise-Physiology",
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::07-Acid-Base-Balance"
       ]
     },
     {
       "first_field_hash": "a08e26f1559922677113c6df9a4050562572fd26def559e491360d316779be60",
       "tags": [
-        "JerryShen_AnKing_Tags::Micro-Pharm::Exam-1::03-C.diff-&-Pseudomonas::Class-Content"
+        "JerryShen_AnKing_Tags::Micro-Pharm::Exam-1::03-C.diff-&-Pseudomonas::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::07-Acid-Base-Balance::Class-Content"
       ]
     },
     {
       "first_field_hash": "473c84faa4fdc242ec8d77aa69f46cdc9a9bb3de59893accb2f8289c9077c30d",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::09-Acid-Base-Control-and-Exercise-Physiology"
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::09-Acid-Base-Control-and-Exercise-Physiology",
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::07-Acid-Base-Balance::Class-Content"
       ]
     },
     {
@@ -18485,7 +18866,8 @@
     {
       "first_field_hash": "8979644ca77746d79839652807f0ab12d23b04c4e101d5c398954793fc977711",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::09-Acid-Base-Control-and-Exercise-Physiology::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::09-Acid-Base-Control-and-Exercise-Physiology::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::07-Acid-Base-Balance::Class-Content"
       ]
     },
     {
@@ -18495,9 +18877,64 @@
       ]
     },
     {
-      "first_field_hash": "f3ef63857677acff487f436fb0f807f06aaad94209132e444e523f79ff0d28a4",
+      "first_field_hash": "718826e929647f97b1018f177f82bb3be617a77dd266126c8341687658a95bf4",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::07-Acid-Base-Balance::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "519eb45cb99cf2391099d7d31f144aeb8f6301c58cf2fe1e214e275f635ef142",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::09-Acid-Base-Control-and-Exercise-Physiology"
+      ]
+    },
+    {
+      "first_field_hash": "0b279c2f005c14470223a61afbe6d9d530c55ac485720124100dd5c0f12c45f2",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::07-Acid-Base-Balance::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "0a087e4e0532b04612d8882fde29859ffdeadfcc7139f8574d1bfd02447d6227",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::07-Acid-Base-Balance"
+      ]
+    },
+    {
+      "first_field_hash": "d0ad37d24242b80fb4f38de86d0c1e465733c259a414090ad85ed57b58fc6ae2",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::04-Sodium-Balance::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "2d93a8d4a6a4dc93a1215598734c5758869dc122b9163e4975fa74a9dc593aec",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::07-Acid-Base-Balance::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "affbfcf9a7fb62915fcf62fa0ce8b17ed30d099297408550a0484aa573e95469",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::07-Acid-Base-Balance::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "10661d79f57e3802172754132e113dd2c8b9403b24e02379da8549756542d983",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::07-Acid-Base-Balance"
+      ]
+    },
+    {
+      "first_field_hash": "712a690fbb66e1e0e5950554b14f0f94dbcc5516a9a316a4f89ebdf91532d12a",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::07-Acid-Base-Balance::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "f3ef63857677acff487f436fb0f807f06aaad94209132e444e523f79ff0d28a4",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::09-Acid-Base-Control-and-Exercise-Physiology",
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::07-Acid-Base-Balance"
       ]
     },
     {
@@ -18561,6 +18998,18 @@
       ]
     },
     {
+      "first_field_hash": "38f1882bdc98654c181e6c58ec2d6fd822e63025e9d5ae5e2f33628dbfd67862",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::07-Acid-Base-Balance::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "a8653c4f275943a600042e0868f5837232def67b716ce61cc8672c2862182725",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::07-Acid-Base-Balance::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "77e155670355f02532f610210ba9c009cc44cb23dc47fab5a3f5e990688d0739",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::09-Acid-Base-Control-and-Exercise-Physiology"
@@ -18576,6 +19025,18 @@
       "first_field_hash": "1c18f18b62a42cccaaafe92e867d339a79ad8177bcc08cb4d04a13d12f1894c3",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::09-Acid-Base-Control-and-Exercise-Physiology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "0ee551e6291af811fbced83ac6f9a164337053984279ded3c07240f88a619078",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::07-Acid-Base-Balance::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "2178e1162994e6ad0c837d0389b7518f3a2980d8ee8e2c3ec7247530feb190f5",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::07-Acid-Base-Balance::Class-Content"
       ]
     },
     {
@@ -18747,6 +19208,12 @@
       ]
     },
     {
+      "first_field_hash": "8a5e6f6136d8f516101a70b568a58ffc981ae307e58d1b5cb5a04fba85005791",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::04-Sodium-Balance"
+      ]
+    },
+    {
       "first_field_hash": "00a8c2333d835fd6f3e9a9d990b988489196213ca6f0df6a8008d928d50a0634",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Renal-Block::04-Sodium-Balance::Class-Content"
@@ -18775,6 +19242,12 @@
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::15-Pathophysiology-&-Treatment-of-Heart-Failure",
         "JerryShen_AnKing_Tags::SOM-2::Renal-Block::04-Sodium-Balance::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "4f506f68b174873be35c5164ac533e5c9cc9700e981b15c9f3076c6d845631ec",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::06-Disorders-of-Water-Balance"
       ]
     },
     {
@@ -18835,6 +19308,12 @@
       "first_field_hash": "cc54b888e4fc20dadf72912df9b5ffbcf52858b7727c0230d39da12662411f93",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::10-Autonomic-Physiology-and-Pharmacology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "66281e6cca0e86a82929ffd70bf780ae60a1c94cd16f0a6366d4227f1eb15c39",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::06-Disorders-of-Water-Balance"
       ]
     },
     {
@@ -18952,6 +19431,12 @@
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::15-Pathophysiology-&-Treatment-of-Heart-Failure::Class-Content",
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::31-Treatment-of-Hypertension::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "eb148632297439dffc453a271b0b756653521cfb9a7cb728d829f9af56f23458",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::06-Disorders-of-Water-Balance::Class-Content"
       ]
     },
     {
@@ -22208,7 +22693,7 @@
       "first_field_hash": "2a031d845d81d8519144d4178eb3dd043b6971de8122ecb98beca67bf6153b2a",
       "tags": [
         "JerryShen_AnKing_Tags::(✏️)-Tagged-by-Jerry-Shen",
-        "JerryShen_AnKing_Tags::(🛠️)-Last-Updated-08282026",
+        "JerryShen_AnKing_Tags::(🛠️)-Last-Updated-08302026",
         "JerryShen_AnKing_Tags::(🧋)-buymeacoffee.com/ger1atric",
         "JerryShen_AnKing_Tags::Biochemistry::Final::02-Oxidative-Phosphorylation::Class-Content"
       ]
@@ -27553,13 +28038,15 @@
     {
       "first_field_hash": "7ffa8f167e174e69f580aed7f4281cd878a588fa4fef430a45fe7f99ce3af9da",
       "tags": [
-        "JerryShen_AnKing_Tags::Neurobiology::Exam-2::Tutorial-3-Brainstem::Class-Content"
+        "JerryShen_AnKing_Tags::Neurobiology::Exam-2::Tutorial-3-Brainstem::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::06-Disorders-of-Water-Balance::Class-Content"
       ]
     },
     {
       "first_field_hash": "aa993bd6fe292cf835f8f930c0c00a753df6f5ad150dbeac22f280f14ec051ac",
       "tags": [
-        "JerryShen_AnKing_Tags::Neurobiology::Exam-2::Tutorial-3-Brainstem::Class-Content"
+        "JerryShen_AnKing_Tags::Neurobiology::Exam-2::Tutorial-3-Brainstem::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::06-Disorders-of-Water-Balance::Class-Content"
       ]
     },
     {
@@ -30181,6 +30668,12 @@
       ]
     },
     {
+      "first_field_hash": "40caaa47bd97ce82adce500ef3cf6fe453f7610b0989d0d26572a5c5f753ce46",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::06-Disorders-of-Water-Balance::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "89e2b3f300e202457abaad7efde78705ddbc8eb627206063100d29bb37f292c8",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::35-Congenital-Heart-Disease"
@@ -31532,7 +32025,7 @@
       ]
     },
     {
-      "first_field_hash": "d49c79870c7ea05debf75a7da009f3bf44cc28902ed4f211a8ad80cc17f753c1",
+      "first_field_hash": "030a428484e7741841179b6272357608b1eb9e73743353a2e2036751ae3222ce",
       "tags": [
         "JerryShen_AnKing_Tags::Immunology::Final::Antigen-Presentation::Class-Content"
       ]
@@ -33023,6 +33516,18 @@
       "first_field_hash": "22f7e5a1723bb05f7a9c267f79ab7c5079508fb242c3d0f7a85a4e13cb97b5a8",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::23-Pleural-Disease::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "a85482200fdb0237c9406f49403580c983c843c0f4eb4b6b2fe14a2de800787e",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::06-Pathogenesis-&-Treatment-of-Type-1-Diabetes"
+      ]
+    },
+    {
+      "first_field_hash": "296c0e3444260903e0d46ae90851a8c83363a08172b460c571aa8cab36102ff5",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::06-Pathogenesis-&-Treatment-of-Type-1-Diabetes::Class-Content"
       ]
     },
     {
@@ -37123,6 +37628,12 @@
       ]
     },
     {
+      "first_field_hash": "08a2a51bf24e2d3c7782dd34d7ff9be50534cadc5b696862eeb7e67d355640b6",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::06-Disorders-of-Water-Balance"
+      ]
+    },
+    {
       "first_field_hash": "9f0ce05914987f8500eb34bbbb41bae0cf09a854270fc71fd9026d7248707bc1",
       "tags": [
         "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-5-Lower-Limb::Anatomy::Class-Content"
@@ -37876,7 +38387,8 @@
     {
       "first_field_hash": "e853237e9e67666b8deb2b6890d6792e08ab95eda23e3eb5d20bf858b0bae9c3",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::15-Pathophysiology-&-Treatment-of-Heart-Failure"
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::15-Pathophysiology-&-Treatment-of-Heart-Failure",
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::07-Acid-Base-Balance::Class-Content"
       ]
     },
     {
@@ -39461,6 +39973,12 @@
       ]
     },
     {
+      "first_field_hash": "cb09fd9f4d96ce0385d4ca8adaaf4b247e2b6a776eb3e762008a7d2070051d58",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::06-Disorders-of-Water-Balance"
+      ]
+    },
+    {
       "first_field_hash": "1fe3e92197cd729c35c55d1630439b6918a02225c963046f15bb921ba3187f83",
       "tags": [
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-2::09-Misc-Antimicrobials-&-Skin-Infections::Class-Content"
@@ -39914,9 +40432,22 @@
       ]
     },
     {
+      "first_field_hash": "40320910201baa25785e9dbf90f693e8054ed51355e8dc6e31b883e10dbc2fac",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::06-Pathogenesis-&-Treatment-of-Type-1-Diabetes"
+      ]
+    },
+    {
       "first_field_hash": "f4e02b9bc08a24e5289d3c652abf83705cb79d55c926ecaa66c316a4c95bd549",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::03-Glucose-Homeostasis-2"
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::03-Glucose-Homeostasis-2",
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::06-Pathogenesis-&-Treatment-of-Type-1-Diabetes::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "2bd409359b31f276a3079c5c9d73abe303531d508e82d6e91af8de0cae236912",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::06-Pathogenesis-&-Treatment-of-Type-1-Diabetes"
       ]
     },
     {
@@ -39935,6 +40466,12 @@
       "first_field_hash": "c2ebaa8ec855e1591c6ce1eba27978bdf02ab675d7e96a5ff81cbedd72af33df",
       "tags": [
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-1::04-Intro-to-Viruses"
+      ]
+    },
+    {
+      "first_field_hash": "cc1e437bbd62fe12a5c036a780e57358a7126944cbaea47115a023d724fdf801",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::06-Disorders-of-Water-Balance::Class-Content"
       ]
     },
     {
@@ -40440,7 +40977,7 @@
       ]
     },
     {
-      "first_field_hash": "40cbf6ff2a16a7896f48fab7d10e116388c0191959368e93b6f41a9f9376a016",
+      "first_field_hash": "91104b74dccae479f346a15a2efe0ec2d372b4d3ce658dd789b638efa645c9c9",
       "tags": [
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-2::08-Other-Antibiotics-&-Mycobacteria",
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-2::08-Other-Antibiotics-&-Mycobacteria::Class-Content"
@@ -41601,6 +42138,12 @@
       "first_field_hash": "34ce5ad2bddcf5449e9e9cfc4b5fb43f555f6d2fe9c632efa7da62d6910482f8",
       "tags": [
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-2::08-Other-Antibiotics-&-Mycobacteria::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "49bcef6e2846732468884f86bbcfb2ad6fbbaaf286e95d3f3fe21ccefafd3466",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::16-Lower-Respiratory-Infections"
       ]
     },
     {
@@ -48483,6 +49026,12 @@
       ]
     },
     {
+      "first_field_hash": "e2ec9f99f12206bb712d9d09444d58bc9678ac58b743e576877d72d8c4206a21",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::06-Pathogenesis-&-Treatment-of-Type-1-Diabetes"
+      ]
+    },
+    {
       "first_field_hash": "e99854f0e829b88d8839f2d8fac3fd63c58055b02c39ce2c6a770d626ab03066",
       "tags": [
         "JerryShen_AnKing_Tags::Genetics::Exam-2-Genetics::03-Chromosomes"
@@ -50490,6 +51039,18 @@
       ]
     },
     {
+      "first_field_hash": "9b26c11efc8a4b1db671f805ab9572218fe20b31e7eaed98f48d9e4b5772fed9",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::06-Disorders-of-Water-Balance::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "a816ec2eefc7c61cb48dae2ece2cd5bb017f8cf40d3f909bd5f4a44682a390b6",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::06-Disorders-of-Water-Balance::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "6cc44422450674f72b2d1ac797d337864fe5156643a6bc2bbda712a81d2fe1d2",
       "tags": [
         "JerryShen_AnKing_Tags::Genetics::Exam-1-Molecular-Foundations::DNA-Replication-and-Repair"
@@ -51389,7 +51950,8 @@
     {
       "first_field_hash": "fe1aaa0a7d91ad81431a92cfd268b0ef6471159f1738a7ecd5b933f6b6c56ae2",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::03-Glucose-Homeostasis-2"
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::03-Glucose-Homeostasis-2",
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::06-Pathogenesis-&-Treatment-of-Type-1-Diabetes::Class-Content"
       ]
     },
     {
@@ -51920,6 +52482,24 @@
       ]
     },
     {
+      "first_field_hash": "64f2f8f4fe1fd488021841a580f3f02f5f9118c736427316d3513abb9c20bea1",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::06-Disorders-of-Water-Balance::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "b4b70693dfdfe98cfaa94d72e002ff3ebca550282b0450abec9567bd8feba65e",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::06-Disorders-of-Water-Balance::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "18a96682c1b5c24957632c458c714aea1c1d4d29ae5184d58f98c0372d7a7b3b",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::06-Disorders-of-Water-Balance"
+      ]
+    },
+    {
       "first_field_hash": "58b2019f33107679c199083c2ee6d1376d819f4ff13a48cfa537a920883c0063",
       "tags": [
         "JerryShen_AnKing_Tags::Cancer-Biology::Final::Cancer-Screening"
@@ -52070,7 +52650,8 @@
     {
       "first_field_hash": "26b631238f9470eccc23a3517d4e52716b226c7c260a08dd96694a81f897ec06",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::09-Acid-Base-Control-and-Exercise-Physiology"
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::09-Acid-Base-Control-and-Exercise-Physiology",
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::07-Acid-Base-Balance::Class-Content"
       ]
     },
     {
@@ -52089,6 +52670,12 @@
       "first_field_hash": "a9d256ee39b1a3116efab981cbd28e096c18b3ae7e4f16f2e0b06b7130e04d05",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::19-ARDS-&-Ventilators"
+      ]
+    },
+    {
+      "first_field_hash": "92502e4f77e7730899b6cb4c0d115af0f30457827a65d682ffc1dff30fe633c2",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::06-Disorders-of-Water-Balance"
       ]
     },
     {
@@ -53151,6 +53738,13 @@
       ]
     },
     {
+      "first_field_hash": "c508e70d272f0519e5167d09244d674dd8c105d1aedf1b1032744dee62b722e8",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::06-Pathogenesis-&-Treatment-of-Type-1-Diabetes",
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::06-Pathogenesis-&-Treatment-of-Type-1-Diabetes::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "457b549764ee5ee280342b0fdb314aa5084ed9fa3b6f67a933f3fa67a1e1901f",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::25-Coronary-Circulation::Class-Content"
@@ -53685,6 +54279,12 @@
       ]
     },
     {
+      "first_field_hash": "d3d164779811a40ccd0228d4fad0537fc4aff52ab57fc1f342b7077f7545b663",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::06-Pathogenesis-&-Treatment-of-Type-1-Diabetes"
+      ]
+    },
+    {
       "first_field_hash": "0753ed50f454fbd5b78b8021cf4c0a9ba7930b9671a7312dec143b97025c1b58",
       "tags": [
         "JerryShen_AnKing_Tags::POM-2::Final::Clinical-Skills::Class-Content"
@@ -53817,6 +54417,19 @@
       "first_field_hash": "12614eab4f55d0961f7e515f46969e0273964bfe5109e1c5500064c65fd8cb8b",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::03-Glucose-Homeostasis-2"
+      ]
+    },
+    {
+      "first_field_hash": "82117f726aee56454e119df80c24c22abe83223b96d44b798e35123f0d9a4b26",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::06-Disorders-of-Water-Balance::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "c68d1e8b86060c5bddee45fed21968ec7eb420412d1ea47efbf064788d573b67",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::06-Disorders-of-Water-Balance",
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::06-Disorders-of-Water-Balance::Class-Content"
       ]
     },
     {
@@ -54486,6 +55099,43 @@
       ]
     },
     {
+      "first_field_hash": "dbac8342fe2235f41f32cb2d38991c9a15c8231a8664862479e5232cdb5c1608",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::06-Disorders-of-Water-Balance::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "d343feb94e44c19944c653a2e78fcf3e428b1cd287baac254b4c5abaa7b90d88",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::06-Pathogenesis-&-Treatment-of-Type-1-Diabetes::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "59bf775e08dac8e42e4d598adf22ef7edda5cbe129762b359942d5573dae91ff",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::06-Pathogenesis-&-Treatment-of-Type-1-Diabetes::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "5ef7879c3e5f21e616f47b30c57b4648aa144eaa942b26109b8645f54b5a41c0",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::06-Pathogenesis-&-Treatment-of-Type-1-Diabetes",
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::06-Pathogenesis-&-Treatment-of-Type-1-Diabetes::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "e06d63422605a876ad05eb41eacb8812b9078199124037da1384ca4831d07205",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::06-Pathogenesis-&-Treatment-of-Type-1-Diabetes::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "6c430de4495789d3076e7f3f5f889d9f1dc1e38bd76562c439f1f2b6c88357a1",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::06-Pathogenesis-&-Treatment-of-Type-1-Diabetes"
+      ]
+    },
+    {
       "first_field_hash": "449fa70c224b5b5f9eff5f3a987602e098114262873fe05f86642d8c4d109fd3",
       "tags": [
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-2::09-Misc-Antimicrobials-&-Skin-Infections::Class-Content",
@@ -54757,6 +55407,13 @@
       "first_field_hash": "8ebc6f8fa059dd14a347a3967e011d0aa15854b102cebc24593f304042e9e5a1",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::MSK-Block::06-Backache::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "71137df98ab4425704f7cec2ad2b6f55c85643d8cab38628b1103517c586498d",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::06-Disorders-of-Water-Balance",
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::06-Disorders-of-Water-Balance::Class-Content"
       ]
     },
     {
@@ -55258,7 +55915,8 @@
     {
       "first_field_hash": "74a3a873f09df8203b9af7d8f775063dc1c75ccf76496a3a73f839139ea3fa59",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::02-Body-Fluid-Compartments"
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::02-Body-Fluid-Compartments",
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::06-Disorders-of-Water-Balance::Class-Content"
       ]
     },
     {
@@ -55357,6 +56015,12 @@
       "first_field_hash": "130f66d25ba7226121ce3c9dab06eeedb4a3887c50419978340ff21bb19367dc",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::MSK-Block::04-Upper-Limb-Pathology"
+      ]
+    },
+    {
+      "first_field_hash": "fc85d41755dc3be357f43542101a0b3eee75d67fbddbeeba819768e482e537e2",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::06-Disorders-of-Water-Balance"
       ]
     },
     {
@@ -55688,6 +56352,12 @@
       "first_field_hash": "04d25141f5c6b8f4fdd0c0fd798abd941d7c51eaaf2e03e804dfc29e71f4dba8",
       "tags": [
         "JerryShen_AnKing_Tags::POM-3::Clinical-Reasoning::Approach-to-Cough"
+      ]
+    },
+    {
+      "first_field_hash": "a579ad018bb833b150669f19b0edf29dabedfd54626f29f4527b854c6ef02aae",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::06-Disorders-of-Water-Balance::Class-Content"
       ]
     },
     {
@@ -56123,6 +56793,12 @@
       "first_field_hash": "c018642903c526a3c3e809ba09daff43f89eb168750d7e7513b32d3cc54a3284",
       "tags": [
         "JerryShen_AnKing_Tags::POM-1::Final::Psychiatry::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "5a401be04354f71b7be9d620f777ab8a87524beb2a5307997bb08167e215a42d",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::06-Pathogenesis-&-Treatment-of-Type-1-Diabetes"
       ]
     },
     {
@@ -56845,6 +57521,12 @@
       "first_field_hash": "cf08ae0511c3e6b694dfce11b1335eb58d8384edd5a7b7b21e3b6c9d4c699b8b",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::11-Pathology-of-Cardiomyopathy-and-Myocarditis"
+      ]
+    },
+    {
+      "first_field_hash": "5ec53f306f504861d118d35496ad52bcf3f323b104a73f3863667160a041cf25",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::06-Disorders-of-Water-Balance"
       ]
     },
     {
@@ -57583,6 +58265,18 @@
       ]
     },
     {
+      "first_field_hash": "f14d10dc1a8c4b9b294391792625d45e5beb420a3cfce0d6e00721ff61043c80",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::06-Disorders-of-Water-Balance"
+      ]
+    },
+    {
+      "first_field_hash": "d5da47ef299da2252d25c05f81a110869a9adfae4b9abdfb3447a9abb3d008b1",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::06-Disorders-of-Water-Balance"
+      ]
+    },
+    {
       "first_field_hash": "38e54a13ec8d90ba1334019863c21e4030f0c91e5cad76789686625eda2fe5fd",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::30-Hypertension::Class-Content"
@@ -57695,6 +58389,12 @@
       "first_field_hash": "0f4288b92bcaec20db2c38edfe5cd00e813660b1f7f8281daa7e608814e3adc6",
       "tags": [
         "JerryShen_AnKing_Tags::Genetics::Exam-2-Genetics::03-Chromosomes::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "aa781975b5e4c563c98562570f15b2e20fdbdf684cc7d450886c72d98a841993",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::06-Disorders-of-Water-Balance"
       ]
     },
     {
@@ -58136,6 +58836,12 @@
       ]
     },
     {
+      "first_field_hash": "07c4bc02872c5a2fd8d094136262f4fcb0b1e11909119a56eaae55e1e1bcbb31",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::06-Pathogenesis-&-Treatment-of-Type-1-Diabetes::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "f1dd869f76935e7c02b6f4e044e2bf568862a5c64d70839c4aa4dd88988309df",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::MSK-Block::Lab-01-MSK-Cases"
@@ -58160,9 +58866,21 @@
       ]
     },
     {
+      "first_field_hash": "460e215403519fb70bb1fa9e1b026388833a8d5de033cbe26d31ef85a7ade735",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::06-Pathogenesis-&-Treatment-of-Type-1-Diabetes::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "468592c2106b4be32f9569b215491dde393106ca924837da671d6ad702b1f59a",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::MSK-Block::06-Backache"
+      ]
+    },
+    {
+      "first_field_hash": "28c41871850fd0f1b45243186508d8c874202036b433f79a489085dc3bcd0dd6",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::06-Pathogenesis-&-Treatment-of-Type-1-Diabetes::Class-Content"
       ]
     },
     {
@@ -58239,6 +58957,18 @@
       ]
     },
     {
+      "first_field_hash": "5a0861103cb3b37ad315a983da84aed9f057843dd88f6f27598e4ffc53a1567b",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::06-Pathogenesis-&-Treatment-of-Type-1-Diabetes"
+      ]
+    },
+    {
+      "first_field_hash": "66557bbb05bbc305700dc9cb4211f2cc4fc09b1ab503c706aca206de32010116",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::06-Pathogenesis-&-Treatment-of-Type-1-Diabetes"
+      ]
+    },
+    {
       "first_field_hash": "65d4c588427e010d3aa10c96e125785b75aaa9ba9a515d0e9f09aea9f57e66c0",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::03-Glucose-Homeostasis-2"
@@ -58306,9 +59036,51 @@
       ]
     },
     {
+      "first_field_hash": "9b7f4b4b4163e2ee08b4b30363e22ef5928f208217842b5cd3b0e24d39c6daa1",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::06-Disorders-of-Water-Balance::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "6b1bc0a0f4cb2554a039771f1131b068e89aaf1362723d24fdc035294450867f",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::06-Disorders-of-Water-Balance"
+      ]
+    },
+    {
+      "first_field_hash": "0c8391a3eeb7ec274b03a0df5d890a1eab0c4df802f2c06de6e277639ae56edd",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::06-Disorders-of-Water-Balance::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "1409299c5cff980a043f86a63c4ead188c22ec1a20a117244841c803e101e41a",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Renal-Block::02-Body-Fluid-Compartments::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "ff784d353c1dcb3a05f48259d95c3cfa29184612a12157c7661dd6162e9113aa",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::06-Disorders-of-Water-Balance"
+      ]
+    },
+    {
+      "first_field_hash": "fa3e7993693573d73da59d92654a582b40f3e5d2e4ddd0aacaf078aba401fa15",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::06-Disorders-of-Water-Balance::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "414ae23f060c43e39cb48fa978bb4abcbbb20b88d51beb9ec2d684f7a75c358d",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::06-Disorders-of-Water-Balance"
+      ]
+    },
+    {
+      "first_field_hash": "2c3c4ee517395bd250d091c056a06c761253348ba87f7086addccc6c0b21b7b8",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::06-Disorders-of-Water-Balance::Class-Content"
       ]
     },
     {
