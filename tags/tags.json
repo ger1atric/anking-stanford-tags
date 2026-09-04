@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
   "author": "JerryShen",
-  "description": "Neuroendocrinology + GH/IGF-1/Prolactin",
-  "created": "2026-09-04T17:53:59.204635+00:00",
-  "updated": "2026-09-04T17:53:59.204635+00:00",
+  "description": "prolactin",
+  "created": "2026-09-04T18:19:27.229592+00:00",
+  "updated": "2026-09-04T18:19:27.229592+00:00",
   "tag_prefix": "JerryShen_AnKing_Tags",
   "tag_hierarchy": [
     "JerryShen_AnKing_Tags",
@@ -732,6 +732,11 @@
       "date": "2026-09-04T17:53:59.204635+00:00",
       "message": "Neuroendocrinology + GH/IGF-1/Prolactin",
       "note_count": 196
+    },
+    {
+      "date": "2026-09-04T18:19:27.229592+00:00",
+      "message": "prolactin",
+      "note_count": 36
     }
   ],
   "notes": [
@@ -1637,6 +1642,12 @@
       ]
     },
     {
+      "first_field_hash": "4a072015b237d116c73ebc94c88cc6a68af7b0edab6c9da1383ae853e6bd3919",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::11-GH-IGF1-&-Prolactin::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "c1f609a0d51e3bed9d36755abb03254849cf51b9b3efc2511fdda2754ae79f8c",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::11-GH-IGF1-&-Prolactin"
@@ -1651,13 +1662,26 @@
     {
       "first_field_hash": "4c4823c164240fbc792b9846da8b751f9b1c26004418d1135075009a676edce4",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::10-Neuroendocrinology"
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::10-Neuroendocrinology",
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::11-GH-IGF1-&-Prolactin::Class-Content"
       ]
     },
     {
       "first_field_hash": "b8c4b69b75565ff0a7d7ef2aaa0f47ea565f3344fc6bffba9379e79d995cdb1c",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::10-Neuroendocrinology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "a203f91bb1494b941721fd9be8efb07d97fc3b944ed6189133f6cb7ff71363ea",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::11-GH-IGF1-&-Prolactin::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "564e614f91a04d0c8dc7829f66d50f6e81f8fb1d5385e4f6b5c50d3b0a82b5c4",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::11-GH-IGF1-&-Prolactin::Class-Content"
       ]
     },
     {
@@ -1673,6 +1697,18 @@
       ]
     },
     {
+      "first_field_hash": "20217b09b425bd10723b055c5e86898a799f75dfd6876eb19f3b97fc7076e4f9",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::11-GH-IGF1-&-Prolactin"
+      ]
+    },
+    {
+      "first_field_hash": "95c540a3f14b280f5f3a6bd09b8ea3d5ce2a489a24d6125d0683e77647d6b181",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::11-GH-IGF1-&-Prolactin"
+      ]
+    },
+    {
       "first_field_hash": "ee62c8bb64118d544766698a344d5c8865a99257877e1dcd54e7e89c888d9664",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::10-Neuroendocrinology"
@@ -1681,7 +1717,20 @@
     {
       "first_field_hash": "37072019b232713bee7d8ee2eea90b4ac96ec17eeba51cc6cd45745b8ff6057a",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::10-Neuroendocrinology"
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::10-Neuroendocrinology",
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::11-GH-IGF1-&-Prolactin::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "0fee6ad75ad640489ef7fde6f4c1c579f4fd0be312105b461a594922002ada55",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::11-GH-IGF1-&-Prolactin"
+      ]
+    },
+    {
+      "first_field_hash": "a44c41634e00f43246ee919bf90b084241575709c4500c4638846a0e2563cdb9",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::11-GH-IGF1-&-Prolactin"
       ]
     },
     {
@@ -2431,9 +2480,41 @@
       ]
     },
     {
+      "first_field_hash": "72f340a2a5edb3e72ad0ac8309fa7cc7076dc25f1e6b713a6e95e4798e473217",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::10-Neuroendocrinology",
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::11-GH-IGF1-&-Prolactin"
+      ]
+    },
+    {
       "first_field_hash": "d850aa1bf47c7059adfc7941a3a148fceef089542fba44f9e097ce65bf38db11",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::10-Neuroendocrinology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "4fd1f5f97774a102e227e9a9f3b7c7ca2ad0f8329a31744b256e21d07da13dd6",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::11-GH-IGF1-&-Prolactin",
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::11-GH-IGF1-&-Prolactin::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "eb8b56f1c080a32d409c44d56dcdd044e7fb810f3f3a61020324e6470250261c",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::11-GH-IGF1-&-Prolactin::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "a14b0bd49afe61efb99750d974cc7089af23b13a01a5fc3cd641b196a932d84d",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::11-GH-IGF1-&-Prolactin::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "50bfbd17c56316073ae19cd39e18d2154318feccacad7c422c3595dbc65d663c",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::11-GH-IGF1-&-Prolactin"
       ]
     },
     {
@@ -2507,6 +2588,12 @@
       "first_field_hash": "8ccdcb52dbbe3f625f8911cd7f7f09b2bd40e287703c592e2d7094faf783138c",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::11-GH-IGF1-&-Prolactin"
+      ]
+    },
+    {
+      "first_field_hash": "ee6480e0f19686e42d9b22f4877d8462b6688f17c86ab713a7ddb2910bf0a337",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::11-GH-IGF1-&-Prolactin::Class-Content"
       ]
     },
     {
@@ -4223,6 +4310,12 @@
       "first_field_hash": "7b0fa3c1bbde7400dc0fbca358e5eb96d561280bdd0e187e711aa366fbdccbb7",
       "tags": [
         "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-5-Lower-Limb::Histology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "13c3f4c1d582d0bf84354557d567ab0f92f85806392ad92691713c6b40a7ea1d",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::11-GH-IGF1-&-Prolactin::Class-Content"
       ]
     },
     {
@@ -31723,7 +31816,14 @@
     {
       "first_field_hash": "16505c9548691ab33903703c3aebffad19bf1ee21ce9e0ac392c346cd782abc2",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::10-Neuroendocrinology"
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::10-Neuroendocrinology",
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::11-GH-IGF1-&-Prolactin::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "53ce9e9c1cebc6ce1560479aec2d55395da67ab1138cf33170aed97e8e857864",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::11-GH-IGF1-&-Prolactin::Class-Content"
       ]
     },
     {
@@ -32201,6 +32301,18 @@
       "first_field_hash": "1eb2da990fd483e9b87f0868858148b89dd39456d4e24c05502fee03daeed61e",
       "tags": [
         "JerryShen_AnKing_Tags::Neurobiology::Exam-2::Lec-PNS-Disorders::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "ae4a162e1b49f4f97f49099ffd3cde88f289652abdb6c9b018a1dee7853bd6d3",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::11-GH-IGF1-&-Prolactin"
+      ]
+    },
+    {
+      "first_field_hash": "f780d9717829fcda2c3072d0a60984e9e8a4651cd02fdf9c349b54551a8174d6",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::10-Neuroendocrinology"
       ]
     },
     {
@@ -33563,6 +33675,12 @@
       "first_field_hash": "6aec80803c1502ef0929449c3c7cf85640a9a7de8c3a47bcbd6f2e400e12512c",
       "tags": [
         "JerryShen_AnKing_Tags::POM-1::Final::Psychiatry::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "6c2d160376f4a9634044077117e26c58413982027ef1b6b4c906dc3a4edf66af",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::11-GH-IGF1-&-Prolactin::Class-Content"
       ]
     },
     {
@@ -43251,6 +43369,12 @@
       ]
     },
     {
+      "first_field_hash": "05c951f1ecfb490bb4a23aefc81b6bd70a6928363b184619ea26e1984cbc9afd",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::11-GH-IGF1-&-Prolactin"
+      ]
+    },
+    {
       "first_field_hash": "d8f69c60dc5dd07cee3b3498ce483f251ec0247e017ce2ba2182083721e8b16a",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::10-Neuroendocrinology"
@@ -43385,6 +43509,18 @@
       "first_field_hash": "c2ebaa8ec855e1591c6ce1eba27978bdf02ab675d7e96a5ff81cbedd72af33df",
       "tags": [
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-1::04-Intro-to-Viruses"
+      ]
+    },
+    {
+      "first_field_hash": "6aa02dc17ac40d8eeb5d88121f85b76c4c7a3bd387b6cdaecd8711eb0c4f9351",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::11-GH-IGF1-&-Prolactin"
+      ]
+    },
+    {
+      "first_field_hash": "e8fa38a5a599d74c75190ddec0444acc1ec2ac39f554ac33c81179cce5a00ab6",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::11-GH-IGF1-&-Prolactin"
       ]
     },
     {
@@ -47600,6 +47736,12 @@
       "first_field_hash": "56ecd606b3e9229e0355a8207e840db96cadbf9a3f72806612ec12f44000e6bb",
       "tags": [
         "JerryShen_AnKing_Tags::POM-1::Final::Psychiatry::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "689a1a17a02ba7406d64625e3d85fb312a4c62735a1d542812b2747cb85530ff",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::11-GH-IGF1-&-Prolactin"
       ]
     },
     {
@@ -53225,6 +53367,12 @@
       ]
     },
     {
+      "first_field_hash": "bcb286bfc287256d857c270c188d3818c1d6f9d7950d359a7bfe88de258f1cfd",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::11-GH-IGF1-&-Prolactin"
+      ]
+    },
+    {
       "first_field_hash": "958bcd46f09212d970ba51cb3c2566da38114ea57b552b16215c877c7b7266ac",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::MSK-Block::02-Bone-&-Joint-Infections"
@@ -55762,9 +55910,21 @@
       ]
     },
     {
+      "first_field_hash": "ecb148447e4f01403371171b9f44bd488ede56679b856fe0aa8fcf1f8ea01588",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::11-GH-IGF1-&-Prolactin"
+      ]
+    },
+    {
       "first_field_hash": "ef031560e904cef49149180a09cdf8a72a5d381dd81b3836e586cd55f6d0e7e3",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Renal-Block::06-Disorders-of-Water-Balance"
+      ]
+    },
+    {
+      "first_field_hash": "96530a1a64ce3593d822a12f60e848f70b0ded8820a251688e88d1e225b4c0a7",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::11-GH-IGF1-&-Prolactin::Class-Content"
       ]
     },
     {
@@ -57254,6 +57414,12 @@
       ]
     },
     {
+      "first_field_hash": "def71ef294e9d7088e9c0a74af4b88c53aad611ee7045efbb31014bfd240b450",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::11-GH-IGF1-&-Prolactin"
+      ]
+    },
+    {
       "first_field_hash": "587f5c1724d36128602dc82e206e5fc6ebf9ad65ad359c80e7c54dbfa02f2951",
       "tags": [
         "JerryShen_AnKing_Tags::POM-3::Clinical-Reasoning::Approach-to-Cough"
@@ -57305,6 +57471,12 @@
       "first_field_hash": "560beba4e0b44115ae3ef13fe89c756515ceacad37ff99e4d01ba4776d9a9082",
       "tags": [
         "JerryShen_AnKing_Tags::Neurobiology::Exam-3::Tutorial-7-Affective-and-Cognitive-Systems"
+      ]
+    },
+    {
+      "first_field_hash": "342a6c6fe37cea2596bacd506732e309f96df4b3296a63663bce4744f521f9ee",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::11-GH-IGF1-&-Prolactin"
       ]
     },
     {
@@ -58468,6 +58640,12 @@
     },
     {
       "first_field_hash": "b85b3c5eadd46bdb93d3bffcd613ad5002988d5452c245be73f5328ece0ec135",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::11-GH-IGF1-&-Prolactin"
+      ]
+    },
+    {
+      "first_field_hash": "a64fc86f5d6e8097e08d71f67c8d653d75c83d4ea5bdaeff26be8a16659cad13",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::11-GH-IGF1-&-Prolactin"
       ]
@@ -60259,6 +60437,12 @@
       "first_field_hash": "5a401be04354f71b7be9d620f777ab8a87524beb2a5307997bb08167e215a42d",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::06-Pathogenesis-&-Treatment-of-Type-1-Diabetes"
+      ]
+    },
+    {
+      "first_field_hash": "55763afcf49bc0f6e6f3f91f4baf3cee89887453a57e9414885afb1848c55b73",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::11-GH-IGF1-&-Prolactin"
       ]
     },
     {
@@ -62692,6 +62876,24 @@
       ]
     },
     {
+      "first_field_hash": "af093f325f62923b22b6c8a8ca8a77157e454d2fec3c37de41715cb1e72e164e",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::11-GH-IGF1-&-Prolactin"
+      ]
+    },
+    {
+      "first_field_hash": "ae77ddc3f7926759b2e0a4ee276865f7f96e48311f64d711a15ff0552a07077b",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::11-GH-IGF1-&-Prolactin::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "81ce0d87d178de045c02950d10e37ccfeaf1651fab0ae91ff868f57b87b4d7c3",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::11-GH-IGF1-&-Prolactin::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "491b498f6ab3c0c401a00c23023e3e5203cdd1f4e7595e7266ae1357da8940a2",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::04-O2-and-CO2-Transport::Class-Content"
@@ -63068,6 +63270,12 @@
       "first_field_hash": "50bd5c4513621c7d4d2e6e98cfa9103c32461a43b533d870ab60a84685fcaab5",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::31-Treatment-of-Hypertension"
+      ]
+    },
+    {
+      "first_field_hash": "5f28dd5a8efb4f623c6351d87beed9425af8ff1761880414dd8307cd8d2a1336",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::11-GH-IGF1-&-Prolactin::Class-Content"
       ]
     },
     {
