@@ -1,14 +1,14 @@
 {
   "schema_version": 1,
   "author": "JerryShen",
-  "description": "normal endocrine histo",
-  "created": "2026-09-04T19:01:01.137397+00:00",
-  "updated": "2026-09-04T19:01:01.137397+00:00",
+  "description": "Calcium Magnesium and Phosphate",
+  "created": "2026-09-10T01:08:47.548116+00:00",
+  "updated": "2026-09-10T01:08:47.548116+00:00",
   "tag_prefix": "JerryShen_AnKing_Tags",
   "tag_hierarchy": [
     "JerryShen_AnKing_Tags",
     "JerryShen_AnKing_Tags::(✏️)-Tagged-by-Jerry-Shen",
-    "JerryShen_AnKing_Tags::(🛠️)-Last-Updated-09042026",
+    "JerryShen_AnKing_Tags::(🛠️)-Last-Updated-09092026",
     "JerryShen_AnKing_Tags::(🧋)-buymeacoffee.com/ger1atric",
     "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology",
     "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-1-Thorax",
@@ -495,7 +495,9 @@
     "JerryShen_AnKing_Tags::SOM-2::Renal-Block::10-Potassium-Balance",
     "JerryShen_AnKing_Tags::SOM-2::Renal-Block::10-Potassium-Balance::Class-Content",
     "JerryShen_AnKing_Tags::SOM-2::Renal-Block::11-Potassium-Disorders",
-    "JerryShen_AnKing_Tags::SOM-2::Renal-Block::11-Potassium-Disorders::Class-Content"
+    "JerryShen_AnKing_Tags::SOM-2::Renal-Block::11-Potassium-Disorders::Class-Content",
+    "JerryShen_AnKing_Tags::SOM-2::Renal-Block::12-Calcium-Magnesium-&-Phosphate-Regulation",
+    "JerryShen_AnKing_Tags::SOM-2::Renal-Block::12-Calcium-Magnesium-&-Phosphate-Regulation::Class-Content"
   ],
   "changelog": [
     {
@@ -744,6 +746,11 @@
       "date": "2026-09-04T19:01:01.137397+00:00",
       "message": "normal endocrine histo",
       "note_count": 53
+    },
+    {
+      "date": "2026-09-10T01:08:47.548116+00:00",
+      "message": "Calcium Magnesium and Phosphate",
+      "note_count": 76
     }
   ],
   "notes": [
@@ -1229,6 +1236,12 @@
       "first_field_hash": "3edeefb3091d9596391a77e2a8f16083e0c15d44a355a6a3a5363890e317fc59",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::MSK-Block::09-Geriatric-Orthopedics"
+      ]
+    },
+    {
+      "first_field_hash": "5741ab640c4c687e12a6b813fef996e24d8e75c33a86a6026425c7fb016c1c7b",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::12-Calcium-Magnesium-&-Phosphate-Regulation::Class-Content"
       ]
     },
     {
@@ -2088,7 +2101,19 @@
       ]
     },
     {
+      "first_field_hash": "31405f6103476e1f895c39a806b0e91c8565ae44eaa1d1c087a3d4492ff64d9c",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::04-Sodium-Balance"
+      ]
+    },
+    {
       "first_field_hash": "59550fb2f746e4ffd58d82c17bd43e9becc799c85ce248bcb9a64be0e1066590",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::07-Acid-Base-Balance"
+      ]
+    },
+    {
+      "first_field_hash": "d147854480c283fd3fac20d2ba243078905390a28e5ddcb855cdc49c69d5f527",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Renal-Block::07-Acid-Base-Balance"
       ]
@@ -2530,6 +2555,42 @@
       ]
     },
     {
+      "first_field_hash": "21c6e72e5e2f197c0e9cb1f8dcf9554f80d349638dc5bbe95526a870d73b1a72",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::12-Calcium-Magnesium-&-Phosphate-Regulation::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "25574d477cb099bef66ab0030499bda86ba6aea76a297304ac794429fa60d175",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::12-Calcium-Magnesium-&-Phosphate-Regulation::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "ad5786929b52966b7e6912a278bc8ac44eef27783d7383a81af0aa563b6a9486",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::12-Calcium-Magnesium-&-Phosphate-Regulation::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "ed95da3405507506edf66d998fac974708739cf60f888796540f31449748676f",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::12-Calcium-Magnesium-&-Phosphate-Regulation::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "e66c75c9b210f6e67407179aca651d0f1adbcee2a43fe23f4f277d51c5d940ab",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::12-Calcium-Magnesium-&-Phosphate-Regulation::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "0dbf63b2e948df584d0899f9ed4cb5d528c627526d15c8bc7daa8e06c8f45968",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::12-Calcium-Magnesium-&-Phosphate-Regulation::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "d9d4fe513d630912c610611b852e13cc66121efb1496f38cda10a3ac1b3b635e",
       "tags": [
         "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-6-Head-&-Neck-1::Histology::Class-Content",
@@ -2539,14 +2600,16 @@
     {
       "first_field_hash": "edb29a6eb1cc74ed4668ebd403238a10060f31e94d856311f162d3ed5cd5af01",
       "tags": [
-        "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-6-Head-&-Neck-1::Histology::Class-Content"
+        "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-6-Head-&-Neck-1::Histology::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::12-Calcium-Magnesium-&-Phosphate-Regulation::Class-Content"
       ]
     },
     {
       "first_field_hash": "c23227402b1bd93fee4b0daa830d85609d0cb7a55ea5bd31a8ce6b8f74bbcd3f",
       "tags": [
         "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-6-Head-&-Neck-1::Histology::Class-Content",
-        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::12-Normal-Endocrine-Histology::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::12-Normal-Endocrine-Histology::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::12-Calcium-Magnesium-&-Phosphate-Regulation::Class-Content"
       ]
     },
     {
@@ -2556,9 +2619,27 @@
       ]
     },
     {
+      "first_field_hash": "78f713a97f3a2d8e373ef73abb74d3fec0516c996c6195813474dc389bad3c4c",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::12-Calcium-Magnesium-&-Phosphate-Regulation"
+      ]
+    },
+    {
+      "first_field_hash": "5d4bd354e6c93af43e12d93ca6381f5ee5eda4c0b4b7e55f2866dc88747a9b77",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::12-Calcium-Magnesium-&-Phosphate-Regulation"
+      ]
+    },
+    {
       "first_field_hash": "ac556ab5817cb07b05bd070eb620acd1ef7e5c347b972c5d337a6eed1dcd47ff",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::12-Normal-Endocrine-Histology"
+      ]
+    },
+    {
+      "first_field_hash": "7f8f9263afc1dd2c760899bac0daf9eac6f0afcf54bf2e4cad149c817f30be24",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::12-Calcium-Magnesium-&-Phosphate-Regulation::Class-Content"
       ]
     },
     {
@@ -2574,10 +2655,28 @@
       ]
     },
     {
+      "first_field_hash": "35de490baba825b1aad4cdbc446957ded8e5637610506e5846cb8fbe992b3535",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::12-Calcium-Magnesium-&-Phosphate-Regulation::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "908076b4182d547b8286def414118960bf39939f1dd1455469dc85dc313971ca",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::12-Calcium-Magnesium-&-Phosphate-Regulation::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "fa72fe80760a302b97fa19fa2eac54d2a574998f573a2fbe230499f21ecce89c",
       "tags": [
         "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-6-Head-&-Neck-1::Histology::Class-Content",
         "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::12-Normal-Endocrine-Histology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "e002113fadd04b398786c64b46056d56256ca5404763887caa1acdb3072f0278",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::12-Calcium-Magnesium-&-Phosphate-Regulation"
       ]
     },
     {
@@ -2847,6 +2946,18 @@
       "first_field_hash": "ca70c39ecba6e3be671878ac4cccd6a27157ae285278320a7a9f70286e0d2e82",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::01-Intro-to-Endocrine-Block"
+      ]
+    },
+    {
+      "first_field_hash": "d53cb935f67b669bca262c826c4b959f3624e62e7c42668469d857590e252b8c",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::12-Calcium-Magnesium-&-Phosphate-Regulation"
+      ]
+    },
+    {
+      "first_field_hash": "0b60199295d636a2cb608dfc86c11bd7d0da2d3d34a47e817fa0004d6f1601ed",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::12-Calcium-Magnesium-&-Phosphate-Regulation"
       ]
     },
     {
@@ -3417,6 +3528,12 @@
       "first_field_hash": "cc467a04a1817a5f0782963096aefb20eae2de2ecacc1147ae2d755017111b3a",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::10-Neuroendocrinology"
+      ]
+    },
+    {
+      "first_field_hash": "e359ec94a9f854630e4169f2878b7afe1e69295bbea8bc37fbd9b2efc3ef7725",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::12-Calcium-Magnesium-&-Phosphate-Regulation::Class-Content"
       ]
     },
     {
@@ -4714,6 +4831,12 @@
       "first_field_hash": "55690815b208af2ec35e51084b9a71b6b464fcf5b22540cba66280e79b19f96a",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Renal-Block::08-Diuretics"
+      ]
+    },
+    {
+      "first_field_hash": "ffb0a71dc45f3dc748640713feea00076892c3e6cb00991f707e7c36d8c6d1e0",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::06-Disorders-of-Water-Balance"
       ]
     },
     {
@@ -20839,6 +20962,19 @@
       ]
     },
     {
+      "first_field_hash": "8a3ab426b98a351c2865fc28c1905dd7b705a9356409325afa83f8a0eefc9a9a",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::12-Calcium-Magnesium-&-Phosphate-Regulation"
+      ]
+    },
+    {
+      "first_field_hash": "9bd4506be80369d529270bbddf2150e22d88794f1066c9b66fa379572d799300",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::12-Calcium-Magnesium-&-Phosphate-Regulation",
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::12-Calcium-Magnesium-&-Phosphate-Regulation::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "caa065c46065d9c37593ccf7217e800e0f1a17eaacf06940aff73eb935667977",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Renal-Block::01-Introduction-to-Renal-Physiology"
@@ -20851,10 +20987,17 @@
       ]
     },
     {
+      "first_field_hash": "7f1e0c7707e1690e007c730e2ada70156dbf61900cff9cc103f225c5af779e52",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::12-Calcium-Magnesium-&-Phosphate-Regulation::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "eefae2f52c58b6aeec5dddcb84aa8a0be46cf59398ebbfee456b85da5740324f",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Renal-Block::04-Sodium-Balance::Class-Content",
-        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::08-Diuretics::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::08-Diuretics::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::12-Calcium-Magnesium-&-Phosphate-Regulation::Class-Content"
       ]
     },
     {
@@ -20864,16 +21007,47 @@
       ]
     },
     {
+      "first_field_hash": "a9a52cfabd4256683945f93c6244f82a54adc30714ab5b01cfd89b67c424942e",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::12-Calcium-Magnesium-&-Phosphate-Regulation::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "b702e1a5c6ad63fe0220fc56c5a6f6aa8de6e9442e2d13c465c871c0ea3ca97d",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Renal-Block::08-Diuretics",
-        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::08-Diuretics::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::08-Diuretics::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::12-Calcium-Magnesium-&-Phosphate-Regulation::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "2feab534a685abdf92f13b08fc5620bee7196ca884114433241c7ca1de5be170",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::12-Calcium-Magnesium-&-Phosphate-Regulation::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "f54e0256573e6e9bff38eb796389bc66dfc4a5b16c0a9dfdfc1b541c0a165269",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::12-Calcium-Magnesium-&-Phosphate-Regulation::Class-Content"
       ]
     },
     {
       "first_field_hash": "fb2d862dcba998171a5b1fb217baa134f594bc3f796744dd30a13f8e726f282c",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::15-Pathophysiology-&-Treatment-of-Heart-Failure::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "0c2e62cb502c4711070475fe6fdb7fede0ed05d40402cef7e5d4cb83e743cc7e",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::12-Calcium-Magnesium-&-Phosphate-Regulation"
+      ]
+    },
+    {
+      "first_field_hash": "69f1481f5834dd6079968a732cbf96001baa22d475eebafb599296edd1c2b7bd",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::12-Calcium-Magnesium-&-Phosphate-Regulation"
       ]
     },
     {
@@ -21252,6 +21426,12 @@
       ]
     },
     {
+      "first_field_hash": "3480579d122bcb76061ce69affbf2b59b56f88d8f741eb413f0a9276b241b8b8",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::07-Acid-Base-Balance"
+      ]
+    },
+    {
       "first_field_hash": "2d93a8d4a6a4dc93a1215598734c5758869dc122b9163e4975fa74a9dc593aec",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Renal-Block::07-Acid-Base-Balance::Class-Content"
@@ -21613,7 +21793,8 @@
     {
       "first_field_hash": "e1a9ed211e9cf547673f9be7d9b996cea24adde04ffd383e51ffbc332e228644",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::08-Diuretics::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::08-Diuretics::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::12-Calcium-Magnesium-&-Phosphate-Regulation::Class-Content"
       ]
     },
     {
@@ -21717,6 +21898,12 @@
       "first_field_hash": "570e33a67809ce9b6c07713f224de6f7b61aa27b00ff1768020660bfc9fbf801",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Renal-Block::07-Acid-Base-Balance"
+      ]
+    },
+    {
+      "first_field_hash": "bfbe01a71b42704a5dcd7b3d464cbed8dcf444e4ec0f7ae6c4173538644d686d",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::12-Calcium-Magnesium-&-Phosphate-Regulation"
       ]
     },
     {
@@ -21906,6 +22093,12 @@
       ]
     },
     {
+      "first_field_hash": "4f4e07c68cd88490ca69e185576a713b97b8ffb4c7d923c6c63c5d12e3306204",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::11-Potassium-Disorders"
+      ]
+    },
+    {
       "first_field_hash": "9dd24bdbe3e3079f9c014aeb7f1656769fcaea31d4e591163f777e5d5723be96",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Renal-Block::11-Potassium-Disorders::Class-Content"
@@ -22047,6 +22240,18 @@
       ]
     },
     {
+      "first_field_hash": "f47f912841c033a9b65bf8cd359d6af1d2716fa04c755ceb6a2ddb26e97902ad",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::12-Calcium-Magnesium-&-Phosphate-Regulation::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "0624cf92ead515087d3e9ad2876ae61fcdb42fd5ed4ba06ad05f46e8195cb218",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::12-Calcium-Magnesium-&-Phosphate-Regulation"
+      ]
+    },
+    {
       "first_field_hash": "3665a6cd7112b836fc144a4cb416192368840118cc82060233ab666dd43791dc",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Renal-Block::09-Metabolic-Acidosis-&-Alkalosis",
@@ -22097,6 +22302,12 @@
       ]
     },
     {
+      "first_field_hash": "0993d7cb32dbd904550ba4c17228269854b579002218f44a6bf8266441fd888d",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::09-Metabolic-Acidosis-&-Alkalosis"
+      ]
+    },
+    {
       "first_field_hash": "6d55251db2e09de11a7f22266ebea63fa9f0a088320b3eb6153fb4eec602375f",
       "tags": [
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-2::09-Misc-Antimicrobials-&-Skin-Infections"
@@ -22130,6 +22341,12 @@
       "first_field_hash": "4b4f9a1e01a45be26032b8e629d507a7d64fe59a65b197614508e1ad3f74b78c",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Renal-Block::09-Metabolic-Acidosis-&-Alkalosis::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "d0bdc1ef742dcd4c890937687088868759a923fa7774a8e75ffa9066cd1067ed",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::09-Metabolic-Acidosis-&-Alkalosis"
       ]
     },
     {
@@ -22262,19 +22479,22 @@
     {
       "first_field_hash": "2bae65279d5a29941c097a29421c42872ee3ee5463273c8d64e94dc50f1c48b9",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::08-Diuretics"
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::08-Diuretics",
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::12-Calcium-Magnesium-&-Phosphate-Regulation"
       ]
     },
     {
       "first_field_hash": "0cb2bdf167700ea5028ed6f4562c2309098d38d47b8114a7e7b9cfdf7bed90b2",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::08-Diuretics"
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::08-Diuretics",
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::12-Calcium-Magnesium-&-Phosphate-Regulation::Class-Content"
       ]
     },
     {
       "first_field_hash": "4305dfcbd262c0f8a6431348331b10053a59b797b230bfefd063b6f9acd968a9",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::08-Diuretics::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::08-Diuretics::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::12-Calcium-Magnesium-&-Phosphate-Regulation::Class-Content"
       ]
     },
     {
@@ -25651,7 +25871,7 @@
       "first_field_hash": "2a031d845d81d8519144d4178eb3dd043b6971de8122ecb98beca67bf6153b2a",
       "tags": [
         "JerryShen_AnKing_Tags::(✏️)-Tagged-by-Jerry-Shen",
-        "JerryShen_AnKing_Tags::(🛠️)-Last-Updated-09042026",
+        "JerryShen_AnKing_Tags::(🛠️)-Last-Updated-09092026",
         "JerryShen_AnKing_Tags::(🧋)-buymeacoffee.com/ger1atric",
         "JerryShen_AnKing_Tags::Biochemistry::Final::02-Oxidative-Phosphorylation::Class-Content"
       ]
@@ -26442,7 +26662,7 @@
       ]
     },
     {
-      "first_field_hash": "47370b28418b8aaa14352e358b5ed6888320db52f05fea6f0a9eaa1442c0cd8e",
+      "first_field_hash": "d90afd9d1208cca489f01b66e1684cae65d47bbb44dbe0138041963bb3cb62d8",
       "tags": [
         "JerryShen_AnKing_Tags::Neurobiology::Exam-3::Lec-Somatosensation-and-Pain::Class-Content"
       ]
@@ -33872,6 +34092,12 @@
       ]
     },
     {
+      "first_field_hash": "e3be1a66c9cafe12c1c19dcf00e0729eec630b399e28f2a52673305080ea4dd7",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::12-Calcium-Magnesium-&-Phosphate-Regulation"
+      ]
+    },
+    {
       "first_field_hash": "6c2d160376f4a9634044077117e26c58413982027ef1b6b4c906dc3a4edf66af",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::11-GH-IGF1-&-Prolactin::Class-Content"
@@ -39001,6 +39227,18 @@
       ]
     },
     {
+      "first_field_hash": "b2646d19af5002f64b9aef149c011804829dcc54814e166c96dd3708168df155",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::12-Calcium-Magnesium-&-Phosphate-Regulation"
+      ]
+    },
+    {
+      "first_field_hash": "70245f1a683e76e14c7c1733424b6fa5651455882245662ecf3daaad6a96fc3f",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::12-Calcium-Magnesium-&-Phosphate-Regulation"
+      ]
+    },
+    {
       "first_field_hash": "9c3889c94afafd4cbe131a103c56db3539f4013c9151d8fc9d0497b7588db875",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::MSK-Block::05-Lower-Limb-Pathology::Class-Content"
@@ -40752,7 +40990,8 @@
     {
       "first_field_hash": "a59f74096b4279bdcedc24ada9073955b59cb6e7c540d9db58c36d2afbb03863",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::11-Potassium-Disorders::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::11-Potassium-Disorders::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::12-Calcium-Magnesium-&-Phosphate-Regulation::Class-Content"
       ]
     },
     {
@@ -43581,6 +43820,12 @@
       ]
     },
     {
+      "first_field_hash": "e9f04b4ef567cfe544f175651450b7e127634067e6ca56bdee894619a5fa7253",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::12-Calcium-Magnesium-&-Phosphate-Regulation::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "d8f69c60dc5dd07cee3b3498ce483f251ec0247e017ce2ba2182083721e8b16a",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::10-Neuroendocrinology"
@@ -43654,6 +43899,18 @@
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::18-Cystic-Fibrosis",
         "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::18-Cystic-Fibrosis::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "1be3e28b57b928c10310b34b7cf993f7602b26d284a0e5e4db1b5b6388e45feb",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::06-Disorders-of-Water-Balance"
+      ]
+    },
+    {
+      "first_field_hash": "65886614977c4cccba3c5c2e4248d2d6292d3f35b41006cdd2aedf7a35e26dce",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::09-Metabolic-Acidosis-&-Alkalosis"
       ]
     },
     {
@@ -43756,9 +44013,27 @@
       ]
     },
     {
+      "first_field_hash": "c8403c1d5a34d90d267baec071d90e197be1e5b93e1585a35249efda9c0dfb7f",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::12-Calcium-Magnesium-&-Phosphate-Regulation::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "2339e5bd4ef6d71cf6a3f899863d4f7e44643a8363ce9550bc325875b88d8c8e",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::12-Calcium-Magnesium-&-Phosphate-Regulation::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "f8c2547351ff75643a34c1d95b0fed2df8e3aeb9c16426d4b0b98556d6b6a385",
       "tags": [
         "JerryShen_AnKing_Tags::Biochemistry::Final::01-Carbohydrate-Metabolism"
+      ]
+    },
+    {
+      "first_field_hash": "e834ddb943ae616a67301fec2dbd14b38e22244bc3c08c813e590c542d0905f9",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::12-Calcium-Magnesium-&-Phosphate-Regulation::Class-Content"
       ]
     },
     {
@@ -47406,7 +47681,7 @@
       ]
     },
     {
-      "first_field_hash": "bbf45927ab1451bd76f780636f2ac07010c12edc48687b37ab89467ff96d700b",
+      "first_field_hash": "30b8f5ef2d81e15e13b30296b9402cc337d7744c99da7c23f51e75aaacd583b5",
       "tags": [
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-1::04-Intro-to-Viruses",
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-1::04-Intro-to-Viruses::Class-Content",
@@ -48871,7 +49146,8 @@
     {
       "first_field_hash": "369ae0873ef782eab20f6044d86d773391d1a027e10e07be914711cc6b7691e5",
       "tags": [
-        "JerryShen_AnKing_Tags::Micro-Pharm::Exam-2::09-Misc-Antimicrobials-&-Skin-Infections"
+        "JerryShen_AnKing_Tags::Micro-Pharm::Exam-2::09-Misc-Antimicrobials-&-Skin-Infections",
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::12-Calcium-Magnesium-&-Phosphate-Regulation"
       ]
     },
     {
@@ -49227,7 +49503,8 @@
     {
       "first_field_hash": "3fb1dffacb23962b7f43df107827988ee0fb9e44eef4beb33b66d429e244bb53",
       "tags": [
-        "JerryShen_AnKing_Tags::Micro-Pharm::Exam-2::09-Misc-Antimicrobials-&-Skin-Infections"
+        "JerryShen_AnKing_Tags::Micro-Pharm::Exam-2::09-Misc-Antimicrobials-&-Skin-Infections",
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::12-Calcium-Magnesium-&-Phosphate-Regulation"
       ]
     },
     {
@@ -53467,6 +53744,18 @@
       ]
     },
     {
+      "first_field_hash": "325beee4ac61d3c04fadca441b083073422d1bed25952ebe099464c3aa631b82",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::12-Calcium-Magnesium-&-Phosphate-Regulation::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "785c4f95962cbe96ea47682f1877ff46e4a8cd3ca703e71c537358c14ca0b3de",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::12-Calcium-Magnesium-&-Phosphate-Regulation::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "aeec2f6005b091d6c045ff1cb95764ca23b62d683b4bdb34216ac247d0ed8a92",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::11-Pathology-of-Cardiomyopathy-and-Myocarditis::Class-Content",
@@ -56361,6 +56650,12 @@
       ]
     },
     {
+      "first_field_hash": "6ab165b64a89fbb3335541f89293ef7404def3e7a92cbd40ce53abd269a7d4db",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::12-Calcium-Magnesium-&-Phosphate-Regulation::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "379fe043ea3f772394a25ef1eac120dbf5365e78c7dc902991439bcd965838fe",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::MSK-Block::08-Pediatric-Orthopaedics::Class-Content"
@@ -57488,6 +57783,12 @@
       ]
     },
     {
+      "first_field_hash": "115a9d84f367d302b926d0db1a7e6765ffa935b00f26f1d6a8558481d0b6d495",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::12-Calcium-Magnesium-&-Phosphate-Regulation::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "7fa41da4ac76ec26d8f0837021837a3c4268b2cc33fa0d70df52cd40190413fb",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::05-The-Normal-ECG::Class-Content"
@@ -57498,6 +57799,12 @@
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::MSK-Block::05-Lower-Limb-Pathology",
         "JerryShen_AnKing_Tags::SOM-1::MSK-Block::09-Geriatric-Orthopedics::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "68c611bbbeb52075a6b42934b43d206f61f7826b9f0f09f3f4adbfb986483b4e",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::12-Calcium-Magnesium-&-Phosphate-Regulation::Class-Content"
       ]
     },
     {
@@ -57671,6 +57978,12 @@
       "first_field_hash": "611126fd4756f49a42486d12c6a9953e81d74fd1a8b78ebff88a6037f4e19457",
       "tags": [
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-1::04-Intro-to-Viruses"
+      ]
+    },
+    {
+      "first_field_hash": "c1cdcda57658430f590dc61e3a27f2df3a1260005431a43b4ecf706d502879ca",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::12-Calcium-Magnesium-&-Phosphate-Regulation"
       ]
     },
     {
@@ -58168,6 +58481,12 @@
       "first_field_hash": "82117f726aee56454e119df80c24c22abe83223b96d44b798e35123f0d9a4b26",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Renal-Block::06-Disorders-of-Water-Balance::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "eda85e63585eea8a8a7053f2edfa0e3642d93f6bb62ec63d9a8c8ee7c8bf16ca",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::04-Sodium-Balance::Class-Content"
       ]
     },
     {
@@ -58854,6 +59173,12 @@
       "first_field_hash": "a64fc86f5d6e8097e08d71f67c8d653d75c83d4ea5bdaeff26be8a16659cad13",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::11-GH-IGF1-&-Prolactin"
+      ]
+    },
+    {
+      "first_field_hash": "e72c08fc9330ba57c318a8850f3f06896b0b6e87e3e8d84fef9bde5958a65949",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::12-Calcium-Magnesium-&-Phosphate-Regulation::Class-Content"
       ]
     },
     {
@@ -60101,6 +60426,12 @@
       ]
     },
     {
+      "first_field_hash": "bef52f673e128d1f6ea4154a312c114d27cf970144f6e8ec608cc03cc0fef89e",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::12-Calcium-Magnesium-&-Phosphate-Regulation"
+      ]
+    },
+    {
       "first_field_hash": "f50fff005dce7e1670accda9d5428e055fcf248700f4807dd4339a5ff5d60432",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::18-Cystic-Fibrosis::Class-Content"
@@ -60469,6 +60800,24 @@
       "first_field_hash": "654df5e11c854d20c0e5fe4b689b63d8cae6d37f55b019ff6faed779116a6349",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::MSK-Block::04-Upper-Limb-Pathology"
+      ]
+    },
+    {
+      "first_field_hash": "85adddaadf01749adff1a92a12884c702e15e91b719b5c5f8ff78c61918230c2",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::12-Calcium-Magnesium-&-Phosphate-Regulation"
+      ]
+    },
+    {
+      "first_field_hash": "23f2dd7e9865658ae78b267ce8b96fe53c40dd10b7533d062d71149b8bdad1b9",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::12-Calcium-Magnesium-&-Phosphate-Regulation"
+      ]
+    },
+    {
+      "first_field_hash": "ff464424df526b1cbf8e553f0acb34236e3626b185fd1e5170f5bc07e843f416",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::12-Calcium-Magnesium-&-Phosphate-Regulation::Class-Content"
       ]
     },
     {
@@ -61328,6 +61677,12 @@
       ]
     },
     {
+      "first_field_hash": "72815b1bb5dbdb82767406bae9fd57932bf88cbdbd25def0f899dc9736878c55",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::09-Metabolic-Acidosis-&-Alkalosis"
+      ]
+    },
+    {
       "first_field_hash": "0b457b7a7b60581eff087938bc18826098b816b6abd029124536fe0d83b14d39",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Renal-Block::09-Metabolic-Acidosis-&-Alkalosis"
@@ -61368,6 +61723,12 @@
       "first_field_hash": "60b8e2a89ea8eab2bae4f32eeb98c72424b28547a69106e4f2768762734448c3",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Renal-Block::09-Metabolic-Acidosis-&-Alkalosis"
+      ]
+    },
+    {
+      "first_field_hash": "abdaee74fe96d101a32e6eaedeb20f5604fd18d23ce4e7e78155fd0a4b49d557",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::12-Calcium-Magnesium-&-Phosphate-Regulation"
       ]
     },
     {
@@ -63138,7 +63499,8 @@
     {
       "first_field_hash": "0496988ba62dab4ffaff5961508c0d9d9e162b19d739fd4de49c1df375ffbfcb",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::11-Potassium-Disorders::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::11-Potassium-Disorders::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::12-Calcium-Magnesium-&-Phosphate-Regulation::Class-Content"
       ]
     },
     {
@@ -63395,6 +63757,12 @@
       "first_field_hash": "3783df8c5186962fda1ef119385c739611bf21a2ddb11916151e41e17d2bd453",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::11-GH-IGF1-&-Prolactin::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "b4a6a363778910c27cea9dd20894fcaf6293f0acb5b8d49512d20b881d194293",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::11-Potassium-Disorders::Class-Content"
       ]
     },
     {
@@ -63790,6 +64158,12 @@
       "first_field_hash": "ea1013d7a6ea0a0f92a822fac6bc2b61f60f7a0f9e4206c30c485a31f99daebd",
       "tags": [
         "JerryShen_AnKing_Tags::POM-1::Final::Epidemiology"
+      ]
+    },
+    {
+      "first_field_hash": "4e9c3249fab18592ff0c4e069629186e67a12e8c4c4d5954ac0eab7916e1a970",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::12-Calcium-Magnesium-&-Phosphate-Regulation::Class-Content"
       ]
     },
     {
