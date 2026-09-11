@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
   "author": "JerryShen",
-  "description": "ca and phosphate",
-  "created": "2026-09-10T18:34:10.427208+00:00",
-  "updated": "2026-09-10T18:34:10.427208+00:00",
+  "description": "",
+  "created": "2026-09-11T06:08:25.606188+00:00",
+  "updated": "2026-09-11T06:08:25.606188+00:00",
   "tag_prefix": "JerryShen_AnKing_Tags",
   "tag_hierarchy": [
     "JerryShen_AnKing_Tags",
@@ -755,7 +755,7 @@
     {
       "date": "2026-09-10T18:34:10.427208+00:00",
       "message": "ca and phosphate",
-      "note_count": 50
+      "note_count": 3
     }
   ],
   "notes": [
@@ -16819,7 +16819,7 @@
       ]
     },
     {
-      "first_field_hash": "24c410a424b3be641a877cb42f7375cc8b435bf37ed3cf31155f6d04279add48",
+      "first_field_hash": "54eb8e641941ba208ffd7d0380679f4c90bbbbdf6c9beedacc33490053e65213",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::27-Lung-Cancer"
       ]
@@ -21939,6 +21939,12 @@
       "first_field_hash": "657b6f31f4a071fd387da2913cc13af38581a2bf0fc5a2df91cd8cfd36153e5a",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Renal-Block::11-Potassium-Disorders::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "bde9f25c966b3f4f78660020939467a90fe10cfcbe1fc3d140362f6d39b30bec",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::12-Calcium-Magnesium-&-Phosphate-Regulation"
       ]
     },
     {
