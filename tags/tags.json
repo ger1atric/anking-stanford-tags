@@ -1,14 +1,14 @@
 {
   "schema_version": 1,
   "author": "JerryShen",
-  "description": "",
-  "created": "2026-09-11T06:08:25.606188+00:00",
-  "updated": "2026-09-11T06:08:25.606188+00:00",
+  "description": "9/14 lecture",
+  "created": "2026-09-14T19:11:49.097184+00:00",
+  "updated": "2026-09-14T19:11:49.097184+00:00",
   "tag_prefix": "JerryShen_AnKing_Tags",
   "tag_hierarchy": [
     "JerryShen_AnKing_Tags",
     "JerryShen_AnKing_Tags::(✏️)-Tagged-by-Jerry-Shen",
-    "JerryShen_AnKing_Tags::(🛠️)-Last-Updated-09092026",
+    "JerryShen_AnKing_Tags::(🛠️)-Last-Updated-09142026",
     "JerryShen_AnKing_Tags::(🧋)-buymeacoffee.com/ger1atric",
     "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology",
     "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-1-Thorax",
@@ -497,7 +497,13 @@
     "JerryShen_AnKing_Tags::SOM-2::Renal-Block::11-Potassium-Disorders",
     "JerryShen_AnKing_Tags::SOM-2::Renal-Block::11-Potassium-Disorders::Class-Content",
     "JerryShen_AnKing_Tags::SOM-2::Renal-Block::12-Calcium-Magnesium-&-Phosphate-Regulation",
-    "JerryShen_AnKing_Tags::SOM-2::Renal-Block::12-Calcium-Magnesium-&-Phosphate-Regulation::Class-Content"
+    "JerryShen_AnKing_Tags::SOM-2::Renal-Block::12-Calcium-Magnesium-&-Phosphate-Regulation::Class-Content",
+    "JerryShen_AnKing_Tags::SOM-2::Renal-Block::13-Urinalysis",
+    "JerryShen_AnKing_Tags::SOM-2::Renal-Block::13-Urinalysis::Class-Content",
+    "JerryShen_AnKing_Tags::SOM-2::Renal-Block::14-Kidney-Histology",
+    "JerryShen_AnKing_Tags::SOM-2::Renal-Block::14-Kidney-Histology::Class-Content",
+    "JerryShen_AnKing_Tags::SOM-2::Renal-Block::15-Renal-&-Bladder-Tumor-Pathology",
+    "JerryShen_AnKing_Tags::SOM-2::Renal-Block::15-Renal-&-Bladder-Tumor-Pathology::Class-Content"
   ],
   "changelog": [
     {
@@ -756,6 +762,11 @@
       "date": "2026-09-10T18:34:10.427208+00:00",
       "message": "ca and phosphate",
       "note_count": 3
+    },
+    {
+      "date": "2026-09-14T19:11:49.097184+00:00",
+      "message": "9/14 lecture",
+      "note_count": 151
     }
   ],
   "notes": [
@@ -1862,6 +1873,12 @@
       "first_field_hash": "a7a88b9ddcfdfba6d5cbde61c4b5a6b5a59de9bc37e8c2ad37ec0b6bb3305a58",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Renal-Block::06-Disorders-of-Water-Balance::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "34da726fe9cc189ab503cf2f0cb61f3be5a9e88dbd798ff22493bfdf213271e5",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::06-Disorders-of-Water-Balance"
       ]
     },
     {
@@ -3008,6 +3025,12 @@
     },
     {
       "first_field_hash": "f6341e053cb9de4cc310b3f0f058cdfc5d2b135c598768669c8d9a1be8d49584",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::06-Disorders-of-Water-Balance"
+      ]
+    },
+    {
+      "first_field_hash": "ff6013c9f1e9a334efdfbaafe40385ecbb06601aa2cadf24248e6f13f6f87f94",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Renal-Block::06-Disorders-of-Water-Balance"
       ]
@@ -6863,7 +6886,8 @@
     {
       "first_field_hash": "dcef4ed059dd4c3db0e00f3f0166c497129bef94d424e0ad26a3558ff3454227",
       "tags": [
-        "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-1-Thorax::Anatomy"
+        "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-1-Thorax::Anatomy",
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::14-Kidney-Histology::Class-Content"
       ]
     },
     {
@@ -16212,7 +16236,7 @@
       ]
     },
     {
-      "first_field_hash": "cc5782d9a0decb37c18f331541679a68796e29d8682804d0d95187a8c86c2c16",
+      "first_field_hash": "3dccbae72ef094e38e129d8307fa736398ec5c566eebbf57e7eda13494db2110",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::21-Pathology-of-ILD"
       ]
@@ -18144,7 +18168,8 @@
     {
       "first_field_hash": "2b0e4e6b4feb0a2877ee3058340a6a553965e1957be9afc7489931c80e975b0e",
       "tags": [
-        "JerryShen_AnKing_Tags::Biochemistry::Final::01-Carbohydrate-Metabolism"
+        "JerryShen_AnKing_Tags::Biochemistry::Final::01-Carbohydrate-Metabolism",
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::13-Urinalysis"
       ]
     },
     {
@@ -19869,7 +19894,8 @@
     {
       "first_field_hash": "b23aec39f3f2482175624e322788525e6cd6a7b9da54b027d28c8ef101c38aae",
       "tags": [
-        "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-4-Pelvis::Histology"
+        "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-4-Pelvis::Histology",
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::14-Kidney-Histology::Class-Content"
       ]
     },
     {
@@ -19880,16 +19906,24 @@
       ]
     },
     {
+      "first_field_hash": "6eb565c0e629147684993f03a520f5e110cbce7b59f0cef9dd8bf645519000cf",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::14-Kidney-Histology"
+      ]
+    },
+    {
       "first_field_hash": "4e974ab1c035442dfbfa59f50dbd266c8fb4ecdffb616652493427135d91839e",
       "tags": [
         "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-4-Pelvis::Anatomy",
-        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::01-Introduction-to-Renal-Physiology::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::01-Introduction-to-Renal-Physiology::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::14-Kidney-Histology::Class-Content"
       ]
     },
     {
       "first_field_hash": "e38cb6028884e933f24154eb96f5f33db379fd2aac41d2ef820dc72d1757a65c",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::01-Introduction-to-Renal-Physiology::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::01-Introduction-to-Renal-Physiology::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::14-Kidney-Histology::Class-Content"
       ]
     },
     {
@@ -20326,7 +20360,8 @@
       "first_field_hash": "365a3f3e6306f07a495e8d02d814bfd72f0602de637965a9c547636c1ce390e4",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Renal-Block::01-Introduction-to-Renal-Physiology",
-        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::01-Introduction-to-Renal-Physiology::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::01-Introduction-to-Renal-Physiology::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::14-Kidney-Histology::Class-Content"
       ]
     },
     {
@@ -20345,7 +20380,8 @@
       "first_field_hash": "9cdc5ec9b065761edf8610ffc53c5b46e96e182e8dce205c6cf3c1b1d45f47ae",
       "tags": [
         "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-4-Pelvis::Histology::Class-Content",
-        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::01-Introduction-to-Renal-Physiology::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::01-Introduction-to-Renal-Physiology::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::14-Kidney-Histology::Class-Content"
       ]
     },
     {
@@ -21226,6 +21262,12 @@
       ]
     },
     {
+      "first_field_hash": "cd98bae7524589509f9d6a6b2260090c2a84a581e0d3a8b39a6f8304fcceedcd",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::05-Water-Balance"
+      ]
+    },
+    {
       "first_field_hash": "9d4c21d02f763524d5ed17d3dd00e10035b13334937adfb88493f1782f6a7962",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Renal-Block::05-Water-Balance"
@@ -21821,6 +21863,30 @@
       ]
     },
     {
+      "first_field_hash": "60fd1cdeb1f291db625ebca7214892acc0f9a51391b6c7b8be38d27b40eaf4db",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::15-Renal-&-Bladder-Tumor-Pathology"
+      ]
+    },
+    {
+      "first_field_hash": "0b95e1513a1c10992d5fb54fea78eab2d206c319da699c495dbb0de594ecf455",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::15-Renal-&-Bladder-Tumor-Pathology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "a89efae77fd6b4e0b4a275c7fadafcdb16d6e71e82e8735e61700c80484ef46e",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::15-Renal-&-Bladder-Tumor-Pathology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "8c481d1452b268b65e9e1a927f44c779988828ac86788db73e9cc0eb25c67dfd",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::15-Renal-&-Bladder-Tumor-Pathology::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "274e4c5940bbc9f32224e0871ef9585275ac55e84917a4c59a35f4fbcec1523f",
       "tags": [
         "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-4-Pelvis::Embryology::Class-Content"
@@ -21875,6 +21941,54 @@
       ]
     },
     {
+      "first_field_hash": "ce684c4bcb6b8c7c798d0893475426bef14005998692430e94a4ad651484ad00",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::13-Urinalysis::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "eea5f05257ff400f980185c573697aac75a94f439c123350e6a2316dc7949723",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::13-Urinalysis"
+      ]
+    },
+    {
+      "first_field_hash": "57add6476d2af178f19ccddf82d27d166c4af90fc39dbd5e29d1dd9f07dc7e0f",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::13-Urinalysis"
+      ]
+    },
+    {
+      "first_field_hash": "9d043ba56032fab9a3873939e32f8ade6d07576e4f309e19a1b003fdb642cdf1",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::14-Kidney-Histology"
+      ]
+    },
+    {
+      "first_field_hash": "59debf4c262c337d66e1f6e4f3a1d2caeae89e5513943c4809cc4faa2e70a07c",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::14-Kidney-Histology"
+      ]
+    },
+    {
+      "first_field_hash": "a4085710569599b32ac7d00b06071ee400a8e08fdb7cd0f9a1d158f7542aa100",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::14-Kidney-Histology"
+      ]
+    },
+    {
+      "first_field_hash": "37c2a551740aa74fe2ae4613285b2a2758e9f4139be3cbf0935d71c50b4be317",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::14-Kidney-Histology"
+      ]
+    },
+    {
+      "first_field_hash": "81c5276bb5f22f3fae6da9c1ffc5d4d7c3ae7a24b7b218895fc092a9695fb614",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::14-Kidney-Histology"
+      ]
+    },
+    {
       "first_field_hash": "22fa1d73bf981ff2807ff8c3128026340e165f36be3a723cbb6adbd4cc684cc9",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::07-Type-2-Diabetes::Class-Content"
@@ -21911,9 +22025,21 @@
       ]
     },
     {
+      "first_field_hash": "7bac418437e94285a7471c5e7ee06239fc8b51b387e3833ef36b1646f6b99df5",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::14-Kidney-Histology"
+      ]
+    },
+    {
       "first_field_hash": "bc72f5e4d129a6a0f44e346793c48517c6eb6e92eb1e0b7978d93750a88d08ab",
       "tags": [
         "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-4-Pelvis::Histology"
+      ]
+    },
+    {
+      "first_field_hash": "ee849d73e62169285a934600bcec545e27715675f563438fff7f4266fa054c76",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::13-Urinalysis"
       ]
     },
     {
@@ -21926,6 +22052,12 @@
       "first_field_hash": "da381538f1cfda91f2593ed7f45825306c4b86354fcafd52f4f0251646c4da79",
       "tags": [
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-1::03-C.diff-&-Pseudomonas"
+      ]
+    },
+    {
+      "first_field_hash": "7fa71ee4c1ed1a088fd2eded661afea1fce1d86d16b8183f1af4758e23d62e33",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::13-Urinalysis::Class-Content"
       ]
     },
     {
@@ -21948,6 +22080,214 @@
       ]
     },
     {
+      "first_field_hash": "dafc3b4924f816efe140eb080b4ce2f66d1e943ae3f3f5e7a89296d5574ce607",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::15-Renal-&-Bladder-Tumor-Pathology"
+      ]
+    },
+    {
+      "first_field_hash": "7e9d64aa5e863ca3fa1294bc59f71c4f6fc59186846151e615e408ddf6741bed",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::15-Renal-&-Bladder-Tumor-Pathology",
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::15-Renal-&-Bladder-Tumor-Pathology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "25416a1a9e58435998837e4b0165cf5026c71a28091d35c8ccb59f0800c75f80",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::15-Renal-&-Bladder-Tumor-Pathology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "28d5f46187561d8f6a0ded61bebbbb8a7c8a89fc3f90e10df7328b7295a58161",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::15-Renal-&-Bladder-Tumor-Pathology"
+      ]
+    },
+    {
+      "first_field_hash": "7bc5406bdd7fef86e163dbac73c199ced59e8f53368b8f70d1144550e2cfc05f",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::15-Renal-&-Bladder-Tumor-Pathology",
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::15-Renal-&-Bladder-Tumor-Pathology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "c8f999394e64654df92a43baeac2549813081dba025bd2d6bf2a9d6a9df4b140",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::15-Renal-&-Bladder-Tumor-Pathology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "13fed3c3028a78a033beef9815a548d64c8002d15b4770df05f1864179b11693",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::15-Renal-&-Bladder-Tumor-Pathology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "af9cd2f4a1e2dfadd4a47cb04b7dbf43b135749f8edbee3ccd0fc73e6c4f5d61",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::15-Renal-&-Bladder-Tumor-Pathology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "edaff94b7603d8e42abe489d747b1fe889fd06415b6138cc8dc9c63984ce884f",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::15-Renal-&-Bladder-Tumor-Pathology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "94589f03c92ed9e6dd36b73f43ea053acb01dc70e02beabf580d3c44a4443be5",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::15-Renal-&-Bladder-Tumor-Pathology"
+      ]
+    },
+    {
+      "first_field_hash": "18162574e3501a9d5ebd369c88d9747635c1bef88b48e714a24d0416eb8532ca",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::15-Renal-&-Bladder-Tumor-Pathology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "bdcfa39103c997ec49f4e0ff9f26b82394eb84d800cc0c3f094bd76ca1d9b6f3",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::15-Renal-&-Bladder-Tumor-Pathology"
+      ]
+    },
+    {
+      "first_field_hash": "49966d37f0dfd8f0a389831f1cc6c5215d84241ad26f89dc68ba8c65f92331f7",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::15-Renal-&-Bladder-Tumor-Pathology"
+      ]
+    },
+    {
+      "first_field_hash": "db94e9fc3f60548fa311407e47169b3bcaaae6d670e0c2330f5240948beb9eb5",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::15-Renal-&-Bladder-Tumor-Pathology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "faed25f7716a601d32d18f0845fdf1782ef73de5f1d31f7f243040cbbfbe780c",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::15-Renal-&-Bladder-Tumor-Pathology"
+      ]
+    },
+    {
+      "first_field_hash": "3dcb6fb5517bdc36cd68700b9b3cf843dddb1bdc99ddb7a5c40406c5ad7d2ea7",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::15-Renal-&-Bladder-Tumor-Pathology"
+      ]
+    },
+    {
+      "first_field_hash": "3f002ed426bf20bfdd1fa2b6d2c7d04021c1af2975dd6c1fb455a6006813c3ba",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::15-Renal-&-Bladder-Tumor-Pathology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "b905da5d2d0d292dc8a7fd28d8ff1fe9dad24364eecd0303a4bc98d6eb4b3823",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::15-Renal-&-Bladder-Tumor-Pathology"
+      ]
+    },
+    {
+      "first_field_hash": "b7df3c50e022f5038129d1cd883e6cd9a7f84f49b4b3dacea7df92467fc5486e",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::15-Renal-&-Bladder-Tumor-Pathology"
+      ]
+    },
+    {
+      "first_field_hash": "d872b7fefef52dd7b084dc02a998c9bed5d7d18a1f319d19fe58f1b7e83279f1",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::15-Renal-&-Bladder-Tumor-Pathology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "d43cb7768e969e1f25aec19e35a02c07f6fd4ee93d7d9dc71a809f7215e95e73",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::15-Renal-&-Bladder-Tumor-Pathology"
+      ]
+    },
+    {
+      "first_field_hash": "5f50c03e000a1a8fda513f6bc0e85f91f4b60c0a52289bef9524b992b4e62394",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::15-Renal-&-Bladder-Tumor-Pathology"
+      ]
+    },
+    {
+      "first_field_hash": "4a52094ed18fcbd081070c4c09509925f3f90e39ab73ad08a9e2ecc6ec6a3dba",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::15-Renal-&-Bladder-Tumor-Pathology"
+      ]
+    },
+    {
+      "first_field_hash": "f181cd293bf8e0898379972c95d6a7e34eb8a78978baf09efa3b71f2e751a5ed",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::15-Renal-&-Bladder-Tumor-Pathology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "f34536fdfd30925f5b69f57a0e95dec62b1f81a1cc4480936f53c773ce77bde6",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::15-Renal-&-Bladder-Tumor-Pathology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "95f5e90edc366ff8c193f990f86aa20de1f779f54e2ca762b7773f830034290d",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::15-Renal-&-Bladder-Tumor-Pathology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "4412976acbb5b4a610a5a4fdfe5ced64aaa0e7dc4b16823dc97a1ad43d4d6572",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::15-Renal-&-Bladder-Tumor-Pathology"
+      ]
+    },
+    {
+      "first_field_hash": "cab28df955c8dcd173c3111b5e27b8988f98c643db2493b808ae1b1ea1b9836f",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::15-Renal-&-Bladder-Tumor-Pathology",
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::15-Renal-&-Bladder-Tumor-Pathology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "91d52bb4a0985912ff50ca72e2bb4aa1ec3c1b84c565052b95b307eb52fe5080",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::15-Renal-&-Bladder-Tumor-Pathology",
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::15-Renal-&-Bladder-Tumor-Pathology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "d75de7d4f6a33b3d817b0facb838758c59e56876ff3cbdb9c2c67680c6b684fc",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::15-Renal-&-Bladder-Tumor-Pathology"
+      ]
+    },
+    {
+      "first_field_hash": "5f3cc0de33cacfafa990dffa6b9400526cafc001bb92b106b11a613b3c23a75c",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::15-Renal-&-Bladder-Tumor-Pathology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "2bbc7e27e6b256cc561e4cb6885ab159fee9bede1bfc1939178293f202672664",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::15-Renal-&-Bladder-Tumor-Pathology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "79816dab645deb92d36efd8149c958751178e4426e137b996b0112dbceeb2f2e",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::15-Renal-&-Bladder-Tumor-Pathology"
+      ]
+    },
+    {
+      "first_field_hash": "05798887104e64f59374c10ad8279420bfff264ab440ec4d50bd27a70d6bf7a7",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::15-Renal-&-Bladder-Tumor-Pathology::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "cd4cc94c5949f44c2c5eb7910cc851c761ca4885e801de6ec7da0684169a8d83",
       "tags": [
         "JerryShen_AnKing_Tags::Molecular-Foundations-&-Genetics::02-Genetics::06-Complex-Inheritance-Patterns"
@@ -21962,13 +22302,135 @@
     {
       "first_field_hash": "4a148f9dfe3384cd97f1611b1e4968f4700f9db8be189fb1f7c46783f4ce76d5",
       "tags": [
-        "JerryShen_AnKing_Tags::Molecular-Foundations-&-Genetics::02-Genetics::06-Complex-Inheritance-Patterns"
+        "JerryShen_AnKing_Tags::Molecular-Foundations-&-Genetics::02-Genetics::06-Complex-Inheritance-Patterns",
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::15-Renal-&-Bladder-Tumor-Pathology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "3f5b75587f381aed38f5eb2718eaade19cdb93b8a798e860dced4aa9898ba70b",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::15-Renal-&-Bladder-Tumor-Pathology"
+      ]
+    },
+    {
+      "first_field_hash": "74cb2d5c246da0a5cd6e8b1708ce4f6a7d71d2416fa0023a95b89e09e8e103e7",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::15-Renal-&-Bladder-Tumor-Pathology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "3575b8fa1c48ee8572aa4849af26c1e5c37d1decc28275d6ec61c836cfdce2ec",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::15-Renal-&-Bladder-Tumor-Pathology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "b2e245953a00e08ce393ae6131980ccaa0f9d39ddcb8d800075e6a5b83fe929f",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::15-Renal-&-Bladder-Tumor-Pathology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "549c2e2c9cd5aafebf0b6cb2de90f0c62bd149229cfaf4c4cf67d5a15f1f5850",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::15-Renal-&-Bladder-Tumor-Pathology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "ec0b9b84e790ff1639db6765c7229d7714f2d0277afdc3cd04a489686f1a99ce",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::15-Renal-&-Bladder-Tumor-Pathology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "4b98fd9ec239478b5427ab82af5b6e011d03ac7a4b6ed765890c874a7ec6cb09",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::15-Renal-&-Bladder-Tumor-Pathology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "c2d859703aa1f904ccbb6cae6503792e3afdd2e28df581940dd01a0a003cbf20",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::15-Renal-&-Bladder-Tumor-Pathology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "3b80469b2e2f48a486fcf2fda8b52e185d28af5bdce6ee055e06dcb8ee657d51",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::15-Renal-&-Bladder-Tumor-Pathology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "8a57b5c3e0b372a2c773e42065096b846b8a1ad5dba071c06465cb3fc0164252",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::15-Renal-&-Bladder-Tumor-Pathology"
+      ]
+    },
+    {
+      "first_field_hash": "3b3e8e2d91bf7943e90ac3b9927c51949c50c956aedbd0403c156ff379c8359d",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::15-Renal-&-Bladder-Tumor-Pathology"
+      ]
+    },
+    {
+      "first_field_hash": "758e5dec74b04cae4895e1b36fb2d2d069657e922f33fdfe8a460d6c4d7b5068",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::15-Renal-&-Bladder-Tumor-Pathology"
+      ]
+    },
+    {
+      "first_field_hash": "6db5aff10dac7caf10c8566b52f24274e1ac940553f1da02501d639f089cd566",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::15-Renal-&-Bladder-Tumor-Pathology"
+      ]
+    },
+    {
+      "first_field_hash": "7a756f82094cfbd51e86dda310f1ee75063e944145c676f6ec12c54945ecd37a",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::15-Renal-&-Bladder-Tumor-Pathology"
+      ]
+    },
+    {
+      "first_field_hash": "6e480617b50c39266117b2e73e4dcbd74da1f7e83444ecd51a38a7e629ebf4e8",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::15-Renal-&-Bladder-Tumor-Pathology"
+      ]
+    },
+    {
+      "first_field_hash": "31d04fdb1b80b7c4b00210ad5f0e61b7cf9ea1e1469bedcedf29a9e2df6dc950",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::15-Renal-&-Bladder-Tumor-Pathology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "d4753965871fb1c0728f9d9fb9349e6ca4a2c53776e38a617ee1be1ddd9a8bbb",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::15-Renal-&-Bladder-Tumor-Pathology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "6ee2158d3e57692aa23acd4eef809ea34bbe9217673cd811225928a57c1cf5a4",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::15-Renal-&-Bladder-Tumor-Pathology::Class-Content"
       ]
     },
     {
       "first_field_hash": "3787d1ef20eff99d410dc4730df89a014315291b456ab61d13a09ca962cbc3d3",
       "tags": [
-        "JerryShen_AnKing_Tags::Micro-Pharm::Exam-2::07-β-Lactam-Antibiotics-&-Parasites::Class-Content"
+        "JerryShen_AnKing_Tags::Micro-Pharm::Exam-2::07-β-Lactam-Antibiotics-&-Parasites::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::15-Renal-&-Bladder-Tumor-Pathology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "17d0b9d937bd3374f52504bc330e5f2a2247d7e2e1a1b8abc052223c4a520843",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::15-Renal-&-Bladder-Tumor-Pathology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "c916547a5071097aea16419ec5d9e76c438bdf00ebafe9201d4da6dbed23937a",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::15-Renal-&-Bladder-Tumor-Pathology::Class-Content"
       ]
     },
     {
@@ -22256,6 +22718,12 @@
       ]
     },
     {
+      "first_field_hash": "91c047a636cbcb4fa5e7049f4eea1b63f8508cefecafb09ba0fe73d97ab24d0c",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::14-Kidney-Histology::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "8a5e6f6136d8f516101a70b568a58ffc981ae307e58d1b5cb5a04fba85005791",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Renal-Block::04-Sodium-Balance"
@@ -22315,6 +22783,12 @@
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Renal-Block::04-Sodium-Balance",
         "JerryShen_AnKing_Tags::SOM-2::Renal-Block::04-Sodium-Balance::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "42b5249be91f33d009b1f20e9d03b163c83d528ebb733376750501c60f8e1b9a",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::14-Kidney-Histology::Class-Content"
       ]
     },
     {
@@ -22491,6 +22965,75 @@
       "first_field_hash": "d0bdc1ef742dcd4c890937687088868759a923fa7774a8e75ffa9066cd1067ed",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Renal-Block::09-Metabolic-Acidosis-&-Alkalosis"
+      ]
+    },
+    {
+      "first_field_hash": "0d5e6fd13886968963de389211f0c81437960f171caf8df50606dc889137d682",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::13-Urinalysis::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "36e639f52da9208d4e71f4c81128b38fb016331adc2f84f02ebb0108adf92780",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::13-Urinalysis"
+      ]
+    },
+    {
+      "first_field_hash": "0b54bdb499f69cdd84297435b7d89888246c60da67d93b5fa1eb6d07f57c43f0",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::13-Urinalysis"
+      ]
+    },
+    {
+      "first_field_hash": "a9f748d0310490710792dbbf4f7d9d942e8e9ff168236fa28666501fff0fc032",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::13-Urinalysis",
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::13-Urinalysis::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "f2599af1cc7c44e4279a7367109d334364c2ff3bc340dbb1b7765b5b6489a6e7",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::13-Urinalysis",
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::13-Urinalysis::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "b51de0410236003d1427940f6ef446fd9f78e07a7e0de8e84dbfe70c7ab4a632",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::14-Kidney-Histology"
+      ]
+    },
+    {
+      "first_field_hash": "d551784fd6bf3d2e36f16b8e50d748310355d743d0e0f08f96134d721c2a3d5b",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::14-Kidney-Histology"
+      ]
+    },
+    {
+      "first_field_hash": "49fb4bed37c7a97aff0db33200d674de21bf783859d344abe1c45d5df995fce5",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::15-Renal-&-Bladder-Tumor-Pathology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "2ae17290ee733a2569a82183b572008130d273ae4e5b8f5746ad668560f23234",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::15-Renal-&-Bladder-Tumor-Pathology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "4228e4e11e986cc4fcb24d5695eaf31e692441751f1f12321003f960b0e4d9ce",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::15-Renal-&-Bladder-Tumor-Pathology",
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::15-Renal-&-Bladder-Tumor-Pathology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "f84a1e9da92e2e4bc8599ab1c61475cf7bb7951ae71f7015ee23adfac6e17a12",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::15-Renal-&-Bladder-Tumor-Pathology::Class-Content"
       ]
     },
     {
@@ -24260,7 +24803,8 @@
     {
       "first_field_hash": "b514ab102abc8b9326d287abc1534dab44ea0af1d233b87e844bd55ffaab937e",
       "tags": [
-        "JerryShen_AnKing_Tags::Biochemistry::Final::05-Nitrogen-Metabolism::Class-Content"
+        "JerryShen_AnKing_Tags::Biochemistry::Final::05-Nitrogen-Metabolism::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::13-Urinalysis"
       ]
     },
     {
@@ -26039,7 +26583,7 @@
       "first_field_hash": "2a031d845d81d8519144d4178eb3dd043b6971de8122ecb98beca67bf6153b2a",
       "tags": [
         "JerryShen_AnKing_Tags::(✏️)-Tagged-by-Jerry-Shen",
-        "JerryShen_AnKing_Tags::(🛠️)-Last-Updated-09092026",
+        "JerryShen_AnKing_Tags::(🛠️)-Last-Updated-09142026",
         "JerryShen_AnKing_Tags::(🧋)-buymeacoffee.com/ger1atric",
         "JerryShen_AnKing_Tags::Biochemistry::Final::02-Oxidative-Phosphorylation::Class-Content"
       ]
@@ -30282,6 +30826,18 @@
       ]
     },
     {
+      "first_field_hash": "77b23c25f49f7a7db6f880cb0185fe033cb1e68bd41c3d5f29e11c931ba0628e",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::13-Urinalysis"
+      ]
+    },
+    {
+      "first_field_hash": "0fc09b689060e53958e449838550c6979fb2c6c2156e1c8278c5bf55d9239137",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::13-Urinalysis"
+      ]
+    },
+    {
       "first_field_hash": "768ea2e84924c0d48c6fa9ac73550e8f73f8bd98a86393dbb00111a17661f085",
       "tags": [
         "JerryShen_AnKing_Tags::Neurobiology::Exam-3::Tutorial-4-Thalamus-and-Sensory-Systems::Class-Content"
@@ -32886,6 +33442,24 @@
       ]
     },
     {
+      "first_field_hash": "feece2ab7e537cc444a69404aa48f20fc2bb1e6b01397612060f83360aa5854a",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::15-Renal-&-Bladder-Tumor-Pathology"
+      ]
+    },
+    {
+      "first_field_hash": "75e9a31c6e9e02be0221c2ea96f52caba0757f14782da319f5d6b8e8cfcb1f6c",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::15-Renal-&-Bladder-Tumor-Pathology"
+      ]
+    },
+    {
+      "first_field_hash": "9408b999a9640fa6828b5a76bcc1800cc79141bd30571a2f88c7d1402a16e901",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::15-Renal-&-Bladder-Tumor-Pathology"
+      ]
+    },
+    {
       "first_field_hash": "ae4a162e1b49f4f97f49099ffd3cde88f289652abdb6c9b018a1dee7853bd6d3",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::11-GH-IGF1-&-Prolactin"
@@ -34014,6 +34588,12 @@
       ]
     },
     {
+      "first_field_hash": "0595f3064a5c3b7c7c611d32a5ea57f7a84db41c28a18c55c38dbac5b2e3df24",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::06-Disorders-of-Water-Balance"
+      ]
+    },
+    {
       "first_field_hash": "8b044a4ab2d2b3526b24ec5cb97a2643d66a456f6d104efc65f59838ecf6f0c7",
       "tags": [
         "JerryShen_AnKing_Tags::Neurobiology::Exam-3::Lec-Somatosensation-and-Pain"
@@ -34101,6 +34681,12 @@
       "first_field_hash": "4261009c26b0a318879bb75b80cf185a10d1ec896bcce18f934cee16438ba250",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::35-Congenital-Heart-Disease"
+      ]
+    },
+    {
+      "first_field_hash": "03bbd63d93b7c5645adae78acb8bb5d1aeda42ddaccab21ea7ef9d99df6bc3ac",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::06-Disorders-of-Water-Balance"
       ]
     },
     {
@@ -34844,6 +35430,12 @@
       "first_field_hash": "9b7c0bac724a915812307d2b1c6428495d09af63b678be2d583d4542ff8316dc",
       "tags": [
         "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-3-Abdomen::Anatomy::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "7656219e16377daec817edeb577ca9e2e92a9f70a95412ca11a300cc899a3ce6",
+      "tags": [
+        "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-4-Pelvis::Class-Content"
       ]
     },
     {
@@ -40105,6 +40697,12 @@
       ]
     },
     {
+      "first_field_hash": "e2b25cef32bc39ddae943749f3612e101cffffd2bc9de64ac01394360a4d9966",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::15-Renal-&-Bladder-Tumor-Pathology::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "a670daaece293ee48d4b684ecdc31c3272eb6e03e3b3f2c4ddfa8acf6114cea3",
       "tags": [
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-1::04-Intro-to-Viruses::Class-Content"
@@ -40345,7 +40943,7 @@
       ]
     },
     {
-      "first_field_hash": "fd2a0371a11364b9e482f9d9ae6544e6a46bc2df40b9df02bc03efaf189421cf",
+      "first_field_hash": "e20ee5ad8ab93069e7c343be5ed79fc77fe93ad64189e4f1eccb4b86273dd6c4",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::27-Lung-Cancer",
         "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::Lung-Lab-3-Cancer-&-ILD::Class-Content"
@@ -41140,6 +41738,12 @@
       ]
     },
     {
+      "first_field_hash": "4a1ae379f100a811f21ecf829c514722cc8e4a60ab91d7ddd42738d4a9767568",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::13-Urinalysis"
+      ]
+    },
+    {
       "first_field_hash": "8a95f13642abc31438bcb635ce9d031da6000d61b8f3a59c7af2ec1650204c37",
       "tags": [
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-2::06-Antivirals::Class-Content"
@@ -41371,6 +41975,18 @@
       "first_field_hash": "6f5bba36cad5563bfa2861f2e05dea446d3ffac22b789c5ba1ca38e2247b0b99",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Renal-Block::11-Potassium-Disorders"
+      ]
+    },
+    {
+      "first_field_hash": "975d1cb54e79e92fcfd113b90aabf91e70c9709cfc7a08699184fcf3ce7d20d0",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::15-Renal-&-Bladder-Tumor-Pathology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "385852a7292d451c7b1257902646448127f72719eb8106b4051c6c77e381a4b5",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::15-Renal-&-Bladder-Tumor-Pathology::Class-Content"
       ]
     },
     {
@@ -41667,7 +42283,7 @@
       ]
     },
     {
-      "first_field_hash": "01b2b1ecaf6a129aadd8dc582bf9990a2a5f29d3a875d9751295bca7d1aa0f4e",
+      "first_field_hash": "ed7119018db4fb86edc4186a10316346c84244c544bd611c15f7b7adbdd473ae",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::29-Therapies-for-IHD"
       ]
@@ -43443,6 +44059,12 @@
       ]
     },
     {
+      "first_field_hash": "b023be304a744abeac91173a037402e478ff857f7aba14698c8fad8938b5c5c5",
+      "tags": [
+        "JerryShen_AnKing_Tags::Micro-Pharm::Exam-1::02-S.pyogenes-&-E.coli"
+      ]
+    },
+    {
       "first_field_hash": "78eb1f3ed737e11dd9792e98a332c213f49f755dc279162fc80542f4c0013cd6",
       "tags": [
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-2::08-Other-Antibiotics-&-Mycobacteria",
@@ -44883,7 +45505,8 @@
     {
       "first_field_hash": "18a268a25ebe5374f60edeb4b2b541de469903545a1cc39dcedd6e0034a4aaab",
       "tags": [
-        "JerryShen_AnKing_Tags::Micro-Pharm::Exam-2::09-Misc-Antimicrobials-&-Skin-Infections::Class-Content"
+        "JerryShen_AnKing_Tags::Micro-Pharm::Exam-2::09-Misc-Antimicrobials-&-Skin-Infections::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::13-Urinalysis::Class-Content"
       ]
     },
     {
@@ -44942,6 +45565,13 @@
     {
       "first_field_hash": "1e6993078392ffa96647964b9d0d7b65e85ddbf1a37cc26f4f86d414c5cc4543",
       "tags": [
+        "JerryShen_AnKing_Tags::Micro-Pharm::Exam-2::08-Other-Antibiotics-&-Mycobacteria::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "1c1ad2dbf2435fae1727a5f291c19fc2f8f6be62a7182387c19e6f28db8ae76b",
+      "tags": [
+        "JerryShen_AnKing_Tags::Micro-Pharm::Exam-2::08-Other-Antibiotics-&-Mycobacteria",
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-2::08-Other-Antibiotics-&-Mycobacteria::Class-Content"
       ]
     },
@@ -48649,6 +49279,18 @@
       ]
     },
     {
+      "first_field_hash": "b66b3c922b83309d1bc79fc17e5ec214b88ba76e46dc018c2050590d9452fa13",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::15-Renal-&-Bladder-Tumor-Pathology"
+      ]
+    },
+    {
+      "first_field_hash": "c147edf378245ff6aa6b144ca6f9c7b0ca28a1926b01b6527980b5971bea2492",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::15-Renal-&-Bladder-Tumor-Pathology::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "9347a014afb036c643c39a9e44d46ddf137bbc22496632f6a2365d404205f0d2",
       "tags": [
         "JerryShen_AnKing_Tags::Cancer-Biology::Final::Cancer-Pharmacology::Class-Content"
@@ -50662,7 +51304,8 @@
     {
       "first_field_hash": "13fa39f0e2d2078011238b934ebd4c7870611d0428c29994749dd2cacd139ed5",
       "tags": [
-        "JerryShen_AnKing_Tags::Micro-Pharm::Exam-2::07-β-Lactam-Antibiotics-&-Parasites::Class-Content"
+        "JerryShen_AnKing_Tags::Micro-Pharm::Exam-2::07-β-Lactam-Antibiotics-&-Parasites::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::15-Renal-&-Bladder-Tumor-Pathology"
       ]
     },
     {
@@ -50698,7 +51341,8 @@
     {
       "first_field_hash": "97ad497afe6911d36f224f771c08c24d47dc8cb503ba69afaef979a7388dc340",
       "tags": [
-        "JerryShen_AnKing_Tags::Micro-Pharm::Exam-2::07-β-Lactam-Antibiotics-&-Parasites::Class-Content"
+        "JerryShen_AnKing_Tags::Micro-Pharm::Exam-2::07-β-Lactam-Antibiotics-&-Parasites::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::15-Renal-&-Bladder-Tumor-Pathology::Class-Content"
       ]
     },
     {
@@ -50729,13 +51373,15 @@
     {
       "first_field_hash": "7aa196f716dbab90968680b10332cffeded55868dd90a5959d826283e66aa358",
       "tags": [
-        "JerryShen_AnKing_Tags::Micro-Pharm::Exam-2::07-β-Lactam-Antibiotics-&-Parasites::Class-Content"
+        "JerryShen_AnKing_Tags::Micro-Pharm::Exam-2::07-β-Lactam-Antibiotics-&-Parasites::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::15-Renal-&-Bladder-Tumor-Pathology"
       ]
     },
     {
       "first_field_hash": "1ab3b79b982d747be7a5952584603a6f487f257087d256dd8f11f9f93adb9e80",
       "tags": [
-        "JerryShen_AnKing_Tags::Micro-Pharm::Exam-2::07-β-Lactam-Antibiotics-&-Parasites::Class-Content"
+        "JerryShen_AnKing_Tags::Micro-Pharm::Exam-2::07-β-Lactam-Antibiotics-&-Parasites::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::15-Renal-&-Bladder-Tumor-Pathology"
       ]
     },
     {
@@ -52050,6 +52696,12 @@
       ]
     },
     {
+      "first_field_hash": "8aa4c964b8d2a126967c77cd79e678c3ee5dd5005837cd641309c75a0a4a686b",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::13-Urinalysis"
+      ]
+    },
+    {
       "first_field_hash": "1ac8bc5a078fd3d79319fcfcd0595bc9140c019ed9933239b4999e2bc860b149",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Renal-Block::09-Metabolic-Acidosis-&-Alkalosis::Class-Content"
@@ -52059,6 +52711,12 @@
       "first_field_hash": "b2e39ef448499216a425033eb7b52ff0c5c37d0ddc643dc05b0aa81dbde95687",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Renal-Block::09-Metabolic-Acidosis-&-Alkalosis::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "7a1814e70ecc2c5d71fd1f13bdb003b8b5be9aacc90d6e8b15d347e385a34de8",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::13-Urinalysis"
       ]
     },
     {
@@ -53441,6 +54099,19 @@
       ]
     },
     {
+      "first_field_hash": "5fef96cac9c6b23c415962369eba2c5b7c2b43df65ca41b914419a0a3387eb74",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::15-Renal-&-Bladder-Tumor-Pathology",
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::15-Renal-&-Bladder-Tumor-Pathology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "0472bb7cf7c2ae761e476997ec05298596a5ee9d94c8a2dcce529e946e8d3dcf",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::15-Renal-&-Bladder-Tumor-Pathology::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "5f82d1b0ed55512c792bd2f04fbb6b62e9d62f4f5f81e9dfc80b962b57c07cef",
       "tags": [
         "JerryShen_AnKing_Tags::Cancer-Biology::Final::05-Cancer-Genes-&-Pathways"
@@ -53493,6 +54164,12 @@
       "first_field_hash": "6ae8d14775b5946124c9b2bfc0499d1b1ec3c6faa6683b096e9a8e5fee309a53",
       "tags": [
         "JerryShen_AnKing_Tags::Molecular-Foundations-&-Genetics::01-Molecular-Foundations::02-DNA-Replication-and-Repair::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "202d31de66a20421b001d198686c86823b51498fe363f69ae8035ed707e7a814",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::15-Renal-&-Bladder-Tumor-Pathology::Class-Content"
       ]
     },
     {
@@ -55048,6 +55725,12 @@
       ]
     },
     {
+      "first_field_hash": "30b050eb9ad35c17b332b3884ca74d3cf4cace02557c2597598738a78ff0a81d",
+      "tags": [
+        "JerryShen_AnKing_Tags::Micro-Pharm::Exam-2::08-Other-Antibiotics-&-Mycobacteria"
+      ]
+    },
+    {
       "first_field_hash": "282cfbb720f67eb1fc1a9ebe4f19ee9a3fac7da142de575f8d5c3d4159834a29",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::22-Respiratory-Tract-Case-Studies"
@@ -56511,6 +57194,18 @@
       ]
     },
     {
+      "first_field_hash": "cf51b5a48fbe8bb24bcbc6286776af0a73568d31b7d44f7f983886bc2112b83d",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::15-Renal-&-Bladder-Tumor-Pathology"
+      ]
+    },
+    {
+      "first_field_hash": "62520d7b8076b4bd3c445456e5dd21f44718ced8adc90107dc75e92538aa9514",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::15-Renal-&-Bladder-Tumor-Pathology::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "64f2f8f4fe1fd488021841a580f3f02f5f9118c736427316d3513abb9c20bea1",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Renal-Block::06-Disorders-of-Water-Balance::Class-Content"
@@ -56765,6 +57460,12 @@
       ]
     },
     {
+      "first_field_hash": "d73dc8c566ef2a737029587b5a8c60e9eb341cba2db5084bd841e498146b65da",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::13-Urinalysis::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "6bca69ad5049648dff9ee14e142861a47d862c4eb81acf7fe6ff0c30762ec8c3",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::01-Structure-and-Function-of-the-Lung::Class-Content"
@@ -57006,6 +57707,12 @@
       "first_field_hash": "2dedd0c38d733f5aa8bca3c2eed489a5be6263f9f43438435d3fd2bfd53a2fb2",
       "tags": [
         "JerryShen_AnKing_Tags::POM-3::Clinical-Reasoning::Approach-to-Acute-Dyspnea"
+      ]
+    },
+    {
+      "first_field_hash": "b4f86c40f53c9bfb08348ff6b271406dd64d46edef87f4ce0e1e7ffef1d811db",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::15-Renal-&-Bladder-Tumor-Pathology::Class-Content"
       ]
     },
     {
@@ -57430,6 +58137,12 @@
       "first_field_hash": "f7ddcf5a021a1ce52aae6a7da54ca123d59b59363fe4a808bf52f2230126c3f9",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::10-Neuroendocrinology"
+      ]
+    },
+    {
+      "first_field_hash": "c4bbf9984dba5623874eabe1b2c6641b48b21b6d8fdfae8ca8a2af69b2acef12",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::15-Renal-&-Bladder-Tumor-Pathology"
       ]
     },
     {
@@ -57971,6 +58684,12 @@
       ]
     },
     {
+      "first_field_hash": "4da3d002dcd7f439ee6b52412cdf92217059ad28a4b5d69735a8ec91704122fa",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::13-Urinalysis"
+      ]
+    },
+    {
       "first_field_hash": "4fd864bf1fa12da3279349dfedf234db638f5b34b438a9ed1e588363091b3db8",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::07-Type-2-Diabetes"
@@ -58232,6 +58951,12 @@
       "first_field_hash": "b66232119516cf28744f498bdb6f5949f437f8fd1e76d69ffa0048f95f6f8ef3",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::31-Treatment-of-Hypertension::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "b5eca0bb170f34343d3a7e1b6705c927d080ef2049586701b2e34045c894f00f",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::15-Renal-&-Bladder-Tumor-Pathology::Class-Content"
       ]
     },
     {
@@ -60288,6 +61013,12 @@
       ]
     },
     {
+      "first_field_hash": "a7c26de59b3d166b462d093da7f449a5a3ffdc721b166ff2d0d3f4268e357af8",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::13-Urinalysis"
+      ]
+    },
+    {
       "first_field_hash": "832ce307dc4ed592ad462d5c9baa572156616c23d1f6b2142c5fd5f6421a5433",
       "tags": [
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-2::10-Biologics-Ectoparasites-&-Clinical-Cases",
@@ -60346,6 +61077,13 @@
       "first_field_hash": "e511c2887c285acc18b7185fb30ba7164f51838503e2cc3e6dad80a7b39f7a10",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Renal-Block::01-Introduction-to-Renal-Physiology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "39c3ad9d5e9a7f24af7a11b16e4ae016165defa9583899ad041d2b0e4a71f115",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::13-Urinalysis",
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::13-Urinalysis::Class-Content"
       ]
     },
     {
@@ -60504,6 +61242,13 @@
       "first_field_hash": "b125d89a9e4b475ecff369e01d2a54febf68e3455988dd6644fd9fa86dfb29dd",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::34-Fetal-&-Transitional-Circulation"
+      ]
+    },
+    {
+      "first_field_hash": "0cef3a24d0f715a9843ce6f14e031a43415963ea213d2bd8622287b038149686",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::13-Urinalysis",
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::13-Urinalysis::Class-Content"
       ]
     },
     {
@@ -60739,6 +61484,12 @@
       "first_field_hash": "04d25141f5c6b8f4fdd0c0fd798abd941d7c51eaaf2e03e804dfc29e71f4dba8",
       "tags": [
         "JerryShen_AnKing_Tags::POM-3::Clinical-Reasoning::Approach-to-Cough"
+      ]
+    },
+    {
+      "first_field_hash": "5b3c42e9c7f011855304fd03461f70374575de2af667838faefe5c6e2cd59240",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::13-Urinalysis"
       ]
     },
     {
@@ -61832,6 +62583,12 @@
       ]
     },
     {
+      "first_field_hash": "e646aff5ef01321548bc468ad849e32b3f5d1c4c96492d778c5929619f9dc8de",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::15-Renal-&-Bladder-Tumor-Pathology::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "9e9262c2190645c148a0985d3a7cf1c3a4ccb08cc418eb68d80d77782fc7dc64",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::09-Acid-Base-Control-and-Exercise-Physiology"
@@ -62326,6 +63083,12 @@
       ]
     },
     {
+      "first_field_hash": "d82616b6d6c9b07047cae53322bd8780a66d0047a4245b624752c8704bd52f00",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::13-Urinalysis"
+      ]
+    },
+    {
       "first_field_hash": "f990a9748a8bcd050a73a2c0bc58d43070281467441daa53ae447ac3b1431989",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::MSK-Block::09-Geriatric-Orthopedics::Class-Content"
@@ -62527,6 +63290,12 @@
       "first_field_hash": "e7f08463ffacf65a84ceefdec5e7b442623672a303f14d177a2169982d4da946",
       "tags": [
         "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-3-Abdomen::Anatomy"
+      ]
+    },
+    {
+      "first_field_hash": "9ad1ac586bacdedf8d0b22bd9f652c9bc9c7f27b677517e87cb8280f1b489e71",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::13-Urinalysis::Class-Content"
       ]
     },
     {
@@ -62773,6 +63542,12 @@
       ]
     },
     {
+      "first_field_hash": "e96187ebeacb6cff9f332507745706592835e2bd4954464a11a060cd0f74a6f8",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::13-Urinalysis::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "b77f7887100bad698776017e5ab628fcfcc591a9dc3d283c48f9db20ca28c4cb",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::16-Lower-Respiratory-Infections::Class-Content"
@@ -62788,6 +63563,12 @@
       "first_field_hash": "d5da47ef299da2252d25c05f81a110869a9adfae4b9abdfb3447a9abb3d008b1",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Renal-Block::06-Disorders-of-Water-Balance"
+      ]
+    },
+    {
+      "first_field_hash": "4dbe8ec89ccba420c17989630db2579909ff064c5152459b634a2f365d62ec22",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::05-Treatment-of-Hyperlipidemia"
       ]
     },
     {
@@ -63104,6 +63885,13 @@
       ]
     },
     {
+      "first_field_hash": "7196d5488d041486d71bc3816a9cd30b2d6782b7cfb3c1905ecd019d66521b8a",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::15-Renal-&-Bladder-Tumor-Pathology",
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::15-Renal-&-Bladder-Tumor-Pathology::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "4040160bdfa3691de198c49c969e2665ea9a661588ad9a005c92fb60f5ca2fb0",
       "tags": [
         "JerryShen_AnKing_Tags::POM-3::Clinical-Reasoning::Advanced-CV-Exam::Class-Content",
@@ -63190,6 +63978,13 @@
       "first_field_hash": "bf82755bf621e93c9fb6997881f1bd3226e9f14a0577351b4449e018b660da37",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::MSK-Block::04-Upper-Limb-Pathology"
+      ]
+    },
+    {
+      "first_field_hash": "9fb405650d2105f434dc38fc333ff5fe9e7f3903fc3cc9f3d8fa486f0b0f5fa1",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::13-Urinalysis",
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::13-Urinalysis::Class-Content"
       ]
     },
     {
@@ -63401,7 +64196,7 @@
       ]
     },
     {
-      "first_field_hash": "ba26fb5597aa1523fa6e76e65bfe22e098d18aa7119e1bc5b32389884f5ce64e",
+      "first_field_hash": "afbe425b16f0cb8d942b6e941efe4963dbc083638742ce4ba1d8e0d7859138a0",
       "tags": [
         "JerryShen_AnKing_Tags::Neurobiology::Exam-2::Lec-PNS-Disorders"
       ]
@@ -64117,6 +64912,12 @@
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::15-Upper-Respiratory-Infections",
         "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::15-Upper-Respiratory-Infections::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "7df55feaaae4a6c9f6380abe96e5e95138c5d9c61d40fc46850523958fc83de5",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::13-Urinalysis"
       ]
     },
     {
