@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
   "author": "JerryShen",
-  "description": "9/14 lecture",
-  "created": "2026-09-14T19:11:49.097184+00:00",
-  "updated": "2026-09-14T19:11:49.097184+00:00",
+  "description": "acute kidney injury",
+  "created": "2026-09-15T18:07:55.695267+00:00",
+  "updated": "2026-09-15T18:07:55.695267+00:00",
   "tag_prefix": "JerryShen_AnKing_Tags",
   "tag_hierarchy": [
     "JerryShen_AnKing_Tags",
@@ -276,6 +276,9 @@
     "JerryShen_AnKing_Tags::POM-3::Psychiatry::Psychiatric-Interview",
     "JerryShen_AnKing_Tags::POM-3::Psychiatry::Psychiatric-Interview::Class-Content",
     "JerryShen_AnKing_Tags::POM-4",
+    "JerryShen_AnKing_Tags::POM-4::Clinical-Reasoning",
+    "JerryShen_AnKing_Tags::POM-4::Clinical-Reasoning::Approach-to-Palpitations",
+    "JerryShen_AnKing_Tags::POM-4::Clinical-Reasoning::Approach-to-Palpitations::Class-Content",
     "JerryShen_AnKing_Tags::POM-4::EMED-Procedures",
     "JerryShen_AnKing_Tags::POM-4::EMED-Procedures::Foley-NGTube-&-I&D",
     "JerryShen_AnKing_Tags::POM-4::EMED-Procedures::Foley-NGTube-&-I&D::Class-Content",
@@ -503,7 +506,9 @@
     "JerryShen_AnKing_Tags::SOM-2::Renal-Block::14-Kidney-Histology",
     "JerryShen_AnKing_Tags::SOM-2::Renal-Block::14-Kidney-Histology::Class-Content",
     "JerryShen_AnKing_Tags::SOM-2::Renal-Block::15-Renal-&-Bladder-Tumor-Pathology",
-    "JerryShen_AnKing_Tags::SOM-2::Renal-Block::15-Renal-&-Bladder-Tumor-Pathology::Class-Content"
+    "JerryShen_AnKing_Tags::SOM-2::Renal-Block::15-Renal-&-Bladder-Tumor-Pathology::Class-Content",
+    "JerryShen_AnKing_Tags::SOM-2::Renal-Block::16-Acute-Kidney-Injury",
+    "JerryShen_AnKing_Tags::SOM-2::Renal-Block::16-Acute-Kidney-Injury::Class-Content"
   ],
   "changelog": [
     {
@@ -767,6 +772,11 @@
       "date": "2026-09-14T19:11:49.097184+00:00",
       "message": "9/14 lecture",
       "note_count": 151
+    },
+    {
+      "date": "2026-09-15T18:07:55.695267+00:00",
+      "message": "acute kidney injury",
+      "note_count": 153
     }
   ],
   "notes": [
@@ -985,7 +995,8 @@
     {
       "first_field_hash": "8aeaa0dcc2b3ce290d4d9bc0b2eb6b84817c7d21f9e47a703cec27741d1583d4",
       "tags": [
-        "JerryShen_AnKing_Tags::Micro-Pharm::Exam-1::05-Intro-to-Fungi::Class-Content"
+        "JerryShen_AnKing_Tags::Micro-Pharm::Exam-1::05-Intro-to-Fungi::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::06-Pathogenesis-&-Treatment-of-Type-1-Diabetes::Class-Content"
       ]
     },
     {
@@ -3487,6 +3498,12 @@
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Renal-Block::11-Potassium-Disorders",
         "JerryShen_AnKing_Tags::SOM-2::Renal-Block::11-Potassium-Disorders::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "f0692ac9242961db2a95a6ac07578b30210fa14366b77c5b708e413885f59c43",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::16-Acute-Kidney-Injury"
       ]
     },
     {
@@ -9256,7 +9273,8 @@
     {
       "first_field_hash": "4dee97d3316762f9435245dc7fe83fe725dbbf1ccd504790fd807176152f71aa",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::30-Hypertension"
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::30-Hypertension",
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::16-Acute-Kidney-Injury::Class-Content"
       ]
     },
     {
@@ -9264,6 +9282,18 @@
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::30-Hypertension",
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::30-Hypertension::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "85749194bbe844879276f3dc58a9761d94b6d47b296df6663b9640864fe36f95",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::16-Acute-Kidney-Injury::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "68fb241d8b8ab3bd8b782e0d78e1c2eacb26acf77650e0fb01a62452bc8ac500",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::16-Acute-Kidney-Injury::Class-Content"
       ]
     },
     {
@@ -19648,6 +19678,14 @@
       ]
     },
     {
+      "first_field_hash": "22d8f10ff0d4cd19455c06bbdb9e86b38ae1cf00a2e70c605eb8f79ea7216302",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::03-GFR-Clearance-&-Steady-State",
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::03-GFR-Clearance-&-Steady-State::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::16-Acute-Kidney-Injury::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "cbeba308e7e32883e22e0744984bae3b02a0f611aa8523cbcd6aaf4c6bf58d45",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Renal-Block::10-Potassium-Balance"
@@ -19664,6 +19702,19 @@
       "first_field_hash": "9b24d40de827f21f3763c283b436ab6efb154d96f51fc18cba998620255c87a8",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::15-Pathophysiology-&-Treatment-of-Heart-Failure::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "f3c370c89c624186486987d799fcced2e8b17ca6b68939974ccb3ca09041238d",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::03-GFR-Clearance-&-Steady-State"
+      ]
+    },
+    {
+      "first_field_hash": "cbb242bc7970205d98fe71ed34379406ead39e9e364beef1b62bd7792cda0660",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::03-GFR-Clearance-&-Steady-State",
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::16-Acute-Kidney-Injury::Class-Content"
       ]
     },
     {
@@ -19753,7 +19804,8 @@
     {
       "first_field_hash": "53fe69c53ac24e3d9f0584702f14f3bff0613f5d8d533599c15a0e4321985308",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::01-Introduction-to-Renal-Physiology"
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::01-Introduction-to-Renal-Physiology",
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::16-Acute-Kidney-Injury::Class-Content"
       ]
     },
     {
@@ -19766,6 +19818,18 @@
       "first_field_hash": "d5c5c5d29ee6228cfff07192fa2cf52e7eb5710f727d3fd4617d9d1ab9fc2d46",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Renal-Block::01-Introduction-to-Renal-Physiology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "7a7f5a9650b18732d0a74970b58eed8e0d85d6d3934b154324fcf7bd2eed67b3",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::16-Acute-Kidney-Injury"
+      ]
+    },
+    {
+      "first_field_hash": "70d48a4cd64b9c94830cd0768ee5e664fe5ca15d4b2e0eb9e51cf0d67a3c3aff",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::16-Acute-Kidney-Injury::Class-Content"
       ]
     },
     {
@@ -20305,7 +20369,8 @@
     {
       "first_field_hash": "78850f3ee3b34876f55125a287128c086c5397a3d80b1d54ebfd3f751a06cf40",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::01-Introduction-to-Renal-Physiology::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::01-Introduction-to-Renal-Physiology::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::16-Acute-Kidney-Injury::Class-Content"
       ]
     },
     {
@@ -20440,6 +20505,12 @@
       ]
     },
     {
+      "first_field_hash": "00e6a79c8014236b1c5a01a112c88c0aee72c636835b13790aa5643b80d9dc5a",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::16-Acute-Kidney-Injury::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "bbccd362605fead15ad0c633351c0f80b1ad54fd2cc54341c430a0a178b7a280",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Renal-Block::03-GFR-Clearance-&-Steady-State::Class-Content"
@@ -20492,6 +20563,13 @@
       "first_field_hash": "db4cdce9ce15f4c745740d16ed98118a278043fd0eb48fafcc29890a7b509d4c",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Renal-Block::01-Introduction-to-Renal-Physiology"
+      ]
+    },
+    {
+      "first_field_hash": "209cbda5d8a00df5030a4fcfd18de21ca5a46bc2c20eb386fc9f02c998681778",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::03-GFR-Clearance-&-Steady-State::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::16-Acute-Kidney-Injury::Class-Content"
       ]
     },
     {
@@ -20613,6 +20691,18 @@
       "first_field_hash": "b25e54e0bbb1d9d2f12ddac7530a8bcaf38e79f6b3bade7a427d22b4898ed910",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Renal-Block::12-Calcium-Magnesium-&-Phosphate-Regulation"
+      ]
+    },
+    {
+      "first_field_hash": "a624b129b34ea6559c6029b646fba2e9fb3d31072a3221d6f32ee1818f1e27f8",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::04-Sodium-Balance"
+      ]
+    },
+    {
+      "first_field_hash": "670ba133f6e662126efab56f489fb6224d25c8fe7d92f08c12d97c3934b418b1",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::04-Sodium-Balance"
       ]
     },
     {
@@ -21929,9 +22019,167 @@
       ]
     },
     {
+      "first_field_hash": "08b21234188a7f8a379011ba57155d0ffb688d89f794cfd29a3066d060013dc7",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::16-Acute-Kidney-Injury"
+      ]
+    },
+    {
+      "first_field_hash": "b53564537199ea705325374d0e736830bcd0abcb1f585526f50adbe32496d4ae",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::16-Acute-Kidney-Injury"
+      ]
+    },
+    {
+      "first_field_hash": "3f35ed9adfb5360766c2e31918e8128ea78d8e86b9be4633593513b775910d74",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::16-Acute-Kidney-Injury::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "aae3beb434526876356cf9b20d2d1dde4cadc2119f54025dd6aafcc05de236c7",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Renal-Block::03-GFR-Clearance-&-Steady-State::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "84993ebcac173a954599a708ef42aea9d1c2338616db2415da51ff008002ea15",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::16-Acute-Kidney-Injury"
+      ]
+    },
+    {
+      "first_field_hash": "1ec7907d1d0d8ff290641e2d3239629c45d53b8bb5126b2e54a5b767c3755a2c",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::16-Acute-Kidney-Injury"
+      ]
+    },
+    {
+      "first_field_hash": "f21aea81cdcf790b8ae9bc4571ce56ef2cc961e041996091d482fcc2fd43d9ab",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::16-Acute-Kidney-Injury::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "bfcbaf58dc6ae62f4b3280b14da4cd1ff0ab5e9316018c91227b8ac026e5b962",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::16-Acute-Kidney-Injury"
+      ]
+    },
+    {
+      "first_field_hash": "9f5e84655f86224175f67ae659dd8778eb478cdf31bea71caee565fa62ccc01b",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::16-Acute-Kidney-Injury"
+      ]
+    },
+    {
+      "first_field_hash": "926e300f56a76318bb6793a8dbeae415b047918c4dd6463a36e05a6f255cd289",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::16-Acute-Kidney-Injury::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "c80c041fbcbf54ebb469ea34ce877f4f2da247d5a8339270589d8c5bbd3065fb",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::16-Acute-Kidney-Injury"
+      ]
+    },
+    {
+      "first_field_hash": "9a14564ddc23fe8fa192aebc8e05d825c7d1d1eca2fdb21c8e296b310932351b",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::16-Acute-Kidney-Injury::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "8a58148caf861b7ce0ce7d5671e7d8b928daafe187a77311c391846f21f4abf9",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::16-Acute-Kidney-Injury"
+      ]
+    },
+    {
+      "first_field_hash": "91e816db9aa8db5ab1561f707129173d7e5ae596290dee92660b3957e234daac",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::16-Acute-Kidney-Injury"
+      ]
+    },
+    {
+      "first_field_hash": "b787bf45c77c5e04e02daea51fadca32198ec20037bb8a2373b77685dfbf9093",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::16-Acute-Kidney-Injury",
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::16-Acute-Kidney-Injury::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "de94ed9db7ebf1774ba283c4716c8f1b0a3357eda8c2943893a12fce2d807163",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::16-Acute-Kidney-Injury"
+      ]
+    },
+    {
+      "first_field_hash": "9dadba6b766759afc79f3bff8bf3b05a565b828eacb37e546ae909e7f7d41d39",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::16-Acute-Kidney-Injury::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "a4ae3811d9e83349a3c1b5c34a44c4232e998fc9d0a54e8777804dae94b95f5e",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::16-Acute-Kidney-Injury::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "27418ac69772f7050290575fd4b437f6c694b9fa752d5491acd222eba43d5cd3",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::16-Acute-Kidney-Injury::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "831e0505501eb66c17470bef0f690d106a62308ef0d52ddfff11862f0f6301c7",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::16-Acute-Kidney-Injury"
+      ]
+    },
+    {
+      "first_field_hash": "81127f394e4d678788304b89aee0f8101aebf49b31d155359b3ceb844bd49771",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::16-Acute-Kidney-Injury::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "57cc302acf1028abd9dab0779eec8af7d84d65f3fb5f41448a5c65e2f882749e",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::16-Acute-Kidney-Injury::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "6ecab65456228c2c7787520651924094598d3f06c4e71368ddff91c30f6b2252",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::16-Acute-Kidney-Injury::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "27b68fce313f8f6a6eea2e4df94975f69cc21c1393814aa0700df887b93dc3b1",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::16-Acute-Kidney-Injury"
+      ]
+    },
+    {
+      "first_field_hash": "efa5831eb50f3b55dd9e5fb6efb6351f62a54eff829ea01afbb18bef439bffce",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::16-Acute-Kidney-Injury"
+      ]
+    },
+    {
+      "first_field_hash": "e5395c07bd36ec5715565ff7f90491fdecba493011143a7b99d4c2ee4471be55",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::16-Acute-Kidney-Injury",
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::16-Acute-Kidney-Injury::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "62d127c03d0ba2b96539f65e732df8e368c1b019400f96a738d0da54ce223324",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::16-Acute-Kidney-Injury"
       ]
     },
     {
@@ -21943,7 +22191,129 @@
     {
       "first_field_hash": "ce684c4bcb6b8c7c798d0893475426bef14005998692430e94a4ad651484ad00",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::13-Urinalysis::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::13-Urinalysis::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::16-Acute-Kidney-Injury::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "4a14c1cfdf8fc0c6d8bf71ec3485ede12c5805c10276b6e10ec5f3b4c57128eb",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::16-Acute-Kidney-Injury::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "1b2c03b58df806b4b07ba5817b687dffdd98d4b98b4c01c3175c871ba5e87784",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::16-Acute-Kidney-Injury::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "8a83f5e5cc793d3ea3913e699d76204243e70d0134e0161a83f55a279e141607",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::16-Acute-Kidney-Injury"
+      ]
+    },
+    {
+      "first_field_hash": "62c753160882a9c666afa86ec81e5b20d6346351bf8697f9e6eb20056ca55ff8",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::16-Acute-Kidney-Injury"
+      ]
+    },
+    {
+      "first_field_hash": "d7a61d694a9d9354e540c9167306cec1f037616bf4b7c66c2762e5a073ccb509",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::16-Acute-Kidney-Injury"
+      ]
+    },
+    {
+      "first_field_hash": "5d2210c8db25855bbbf5c47966334e1370fe693861a04ddd6ef2d108ad3b7350",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::16-Acute-Kidney-Injury"
+      ]
+    },
+    {
+      "first_field_hash": "9941d65239ad11fe03c0cf381a861d76b5d48ca8e3f174668ef000d19a257b69",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::16-Acute-Kidney-Injury::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "24bb5d527a09d57529e0a32bb10f97ac01c6cd2b304085f089a79d1dcf31d05a",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::16-Acute-Kidney-Injury"
+      ]
+    },
+    {
+      "first_field_hash": "708242251d8cf9a17a658f33eea01c8374c3cb4363e7bbfd297957c5497bd5f6",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::16-Acute-Kidney-Injury"
+      ]
+    },
+    {
+      "first_field_hash": "0766ca6076451941fc04d8ac4feff3ce90b337ba75f6d6323b1e2e84a1a11ae4",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::16-Acute-Kidney-Injury"
+      ]
+    },
+    {
+      "first_field_hash": "675a713269ae129d622d55df5592456c1efcc1e1d26572dd43047c4365360ec2",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::16-Acute-Kidney-Injury"
+      ]
+    },
+    {
+      "first_field_hash": "f63675b7daae0739e736205aef3330893f7f5c4473fec1065696e1ff7a937b62",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::16-Acute-Kidney-Injury::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "58fbdb1c1ef167065d4d6bf4ec526b7cfde36315ee4c79dbf93a70d377d06a4b",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::16-Acute-Kidney-Injury"
+      ]
+    },
+    {
+      "first_field_hash": "a88d270b1939263a101ef709a123f7e031af3ae7560ad31370dbb8f6dd8d4d84",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::16-Acute-Kidney-Injury::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "ce4f38ec705c24193b324ea6bf86caf0922bb347b16457e417f3aab92560c858",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::16-Acute-Kidney-Injury",
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::16-Acute-Kidney-Injury::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "f3b9ef4b8fd5236fcb6ec55e817e2177fc50a05fba4d67f4f1dc06584e431ea6",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::16-Acute-Kidney-Injury"
+      ]
+    },
+    {
+      "first_field_hash": "52b7d6e6e93da7bde0b3893246081adb585bba32de828c5a137fc2b10f4662ef",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::16-Acute-Kidney-Injury"
+      ]
+    },
+    {
+      "first_field_hash": "ed116179a49ea3f82a69e0f8e0c549a6be569648dfecc55f6a0b53419726a775",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::16-Acute-Kidney-Injury::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "df38d43f236fe2261aa7c1cf1886f60c2697b220fc84cb97021eec78105b72d7",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::16-Acute-Kidney-Injury"
+      ]
+    },
+    {
+      "first_field_hash": "0d4ee89db41bf6b5406959768760a8a476e3de11dcd8ef6be4b790993ec0c3d1",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::16-Acute-Kidney-Injury"
       ]
     },
     {
@@ -22037,6 +22407,12 @@
       ]
     },
     {
+      "first_field_hash": "98aa5ff7ed04c6a3a7cd802610887b3410ed18560f4b2a0df0ace43996224c01",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::16-Acute-Kidney-Injury::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "ee849d73e62169285a934600bcec545e27715675f563438fff7f4266fa054c76",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Renal-Block::13-Urinalysis"
@@ -22058,6 +22434,84 @@
       "first_field_hash": "7fa71ee4c1ed1a088fd2eded661afea1fce1d86d16b8183f1af4758e23d62e33",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Renal-Block::13-Urinalysis::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "30b176ae6ba0439bd4757a116862fdd143db07b38f9d4c4278abca04773e556f",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::16-Acute-Kidney-Injury::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "73e2cd2170e5688b3442a7a204e3ef763179ebb46815d09ea00ef4798280ded7",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::16-Acute-Kidney-Injury::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "cd185029d53504aee013016b9e5ff21f9a8dda1ff47bf364ca19014157b8b461",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::16-Acute-Kidney-Injury"
+      ]
+    },
+    {
+      "first_field_hash": "09b0f076fc8e61571840a9bed31e96baabef47769d170f4f2591fe7ea343164b",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::16-Acute-Kidney-Injury::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "6936715c871ee99e2327f0df78750661fa92c898e34045d3c4ff693bc4e4937a",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::16-Acute-Kidney-Injury::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "de0650b0cbb3c9d81ddb363dd2bdc94aad87be1c43a51fc6beac60e679fd5059",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::16-Acute-Kidney-Injury::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "f1db482bbd0691d35cd24a2590a2e6947c3790fc07ba66e55459c71cf49dd5e8",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::16-Acute-Kidney-Injury::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "f7ad98dfe0504c92992f80f3c14d05f55e766efe9c5d048812ce511f64412a21",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::16-Acute-Kidney-Injury::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "996a3ef77e03e6b40f425700c5bc1c44e44d062eae1c3085243bbc149174c3c5",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::16-Acute-Kidney-Injury::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "125f9ff076cc4770ef6a914104436493c2e64397190668ac77d5f0ba7101593f",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::16-Acute-Kidney-Injury::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "1e31c0314dbd57f472845d58b15d1f2fded1bfaa732cdf172bb437bcfb97b7f9",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::16-Acute-Kidney-Injury::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "b4ea5adea2693140683c71ab2f74c9f6f5de9df1146e2fead8069ee0e2f38f9b",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::16-Acute-Kidney-Injury"
+      ]
+    },
+    {
+      "first_field_hash": "f5aada7cd5592a44b9a86927dc883c10a89d99200adadc6147a1abdbb6a272a4",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::16-Acute-Kidney-Injury::Class-Content"
       ]
     },
     {
@@ -22718,6 +23172,12 @@
       ]
     },
     {
+      "first_field_hash": "bf1c8ed2d7bd00ab153213a960290f72bc2c38d6a28325103bfbd71ff6bf9840",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::03-GFR-Clearance-&-Steady-State"
+      ]
+    },
+    {
       "first_field_hash": "91c047a636cbcb4fa5e7049f4eea1b63f8508cefecafb09ba0fe73d97ab24d0c",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Renal-Block::14-Kidney-Histology::Class-Content"
@@ -22758,6 +23218,12 @@
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::15-Pathophysiology-&-Treatment-of-Heart-Failure",
         "JerryShen_AnKing_Tags::SOM-2::Renal-Block::04-Sodium-Balance::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "6c84737c300dfa0b740768dcbbe9df94dde51d88a436d5ba8121a1701fbf9624",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::16-Acute-Kidney-Injury::Class-Content"
       ]
     },
     {
@@ -23105,6 +23571,12 @@
       "first_field_hash": "40a5e5bf8630c9eed236cbc7e3fb823f74cea5785d36e7cd4576038bdc13749c",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Renal-Block::08-Diuretics"
+      ]
+    },
+    {
+      "first_field_hash": "3916f4241eb34c5c299a661e3f6e124ba1814b64f9bf12098ef0638a1b0b4fb7",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::16-Acute-Kidney-Injury"
       ]
     },
     {
@@ -26798,7 +27270,8 @@
     {
       "first_field_hash": "98e6ec8a359d4c776cf6c8a1616148b3b3ae758c6445c3c62369612a5f0f3eaa",
       "tags": [
-        "JerryShen_AnKing_Tags::Micro-Pharm::Exam-2::07-β-Lactam-Antibiotics-&-Parasites::Class-Content"
+        "JerryShen_AnKing_Tags::Micro-Pharm::Exam-2::07-β-Lactam-Antibiotics-&-Parasites::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::16-Acute-Kidney-Injury"
       ]
     },
     {
@@ -27054,7 +27527,7 @@
       ]
     },
     {
-      "first_field_hash": "f1339d971f97ac91f48b0cc8650b959c61184f2bfc23cf43328412b3057615ed",
+      "first_field_hash": "8cdefdf319bb178e8ec0ba484cf933cb140b70559fa1dfeca085f5aeae2388d3",
       "tags": [
         "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-1-Thorax::Anatomy"
       ]
@@ -30833,6 +31306,13 @@
     },
     {
       "first_field_hash": "0fc09b689060e53958e449838550c6979fb2c6c2156e1c8278c5bf55d9239137",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::13-Urinalysis",
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::13-Urinalysis::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "5aea4c029c6ee14657f61756661b0577387ba5e668c703b9003693aecae55634",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Renal-Block::13-Urinalysis"
       ]
@@ -36917,6 +37397,12 @@
       ]
     },
     {
+      "first_field_hash": "ab3e853a8c73228c3289e60401ea64fa02947079f208e78c6bed203c904d2e23",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::14-Kidney-Histology"
+      ]
+    },
+    {
       "first_field_hash": "797698b1e8c752615b448c338dd020515c09813a68ea24cc5f6504ab55383818",
       "tags": [
         "JerryShen_AnKing_Tags::Cancer-Biology::Final::02-Cell-Injury-&-Death",
@@ -38588,6 +39074,12 @@
       ]
     },
     {
+      "first_field_hash": "a2a562a2c61984d0c3f670e193566e620eb9c2036310793bf64122675628d850",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::16-Acute-Kidney-Injury::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "e5424d7a86ff7cd6bc0eff11ef26677f05c8d3d116568632659d86cbebfc93b8",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::37-Inflammatory-Heart-Disease"
@@ -39332,6 +39824,12 @@
       "first_field_hash": "c262a7b854bd9fd3abc357d2a2a8a13240c1f6d25478f9208dd8dc251e403bf6",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::31-Treatment-of-Hypertension"
+      ]
+    },
+    {
+      "first_field_hash": "9db12ad9c39033f6ba373593625aaa413259af6403a5688d8def1ca4e2c953b4",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::16-Acute-Kidney-Injury::Class-Content"
       ]
     },
     {
@@ -41830,6 +42328,12 @@
       ]
     },
     {
+      "first_field_hash": "0f071cb89dbca543eabcaf7628195145357263ab95a21bae9fbd570e3dc6df0b",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::16-Acute-Kidney-Injury::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "08a2a51bf24e2d3c7782dd34d7ff9be50534cadc5b696862eeb7e67d355640b6",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Renal-Block::06-Disorders-of-Water-Balance"
@@ -41996,6 +42500,12 @@
       ]
     },
     {
+      "first_field_hash": "34e74b836d9fda14bc14571a625a6ef37bb03fe64d1f30fa4c1168c80dca1722",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::16-Acute-Kidney-Injury"
+      ]
+    },
+    {
       "first_field_hash": "ef2872c6af69bd16b6879c2b9b320fa733189255dbb4c3a4a88bead50f1d7c49",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Renal-Block::10-Potassium-Balance::Class-Content"
@@ -42102,6 +42612,12 @@
       "first_field_hash": "4bb2f53ecaefba00ffd127bdbc72bc849230415b8ef3c8db1d07d6dd9598a694",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::18-Heart-Sounds-&-Clinical-Exam::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "a84c6d285b80265cfd82c3f8ec3075d0688417644f07b7701435f693cf25e4e8",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::16-Acute-Kidney-Injury"
       ]
     },
     {
@@ -42629,6 +43145,12 @@
       ]
     },
     {
+      "first_field_hash": "4070bb72328e26229c5bb9ab990ef97199d5e7f83dece1cdfd4a3e3892921036",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::16-Acute-Kidney-Injury::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "7dc6b49ab5143f746eefa7787e5d05edb8fb8821dddee6aa646cfca614caaa1f",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::15-Pathophysiology-&-Treatment-of-Heart-Failure"
@@ -42669,6 +43191,12 @@
       "first_field_hash": "dcb172bb99d1aae488a249880ca168184c0cb191826da5e075d6ad4fefbe61f0",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::22-Peripheral-Arterial-&-Aortic-Disease::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "62699beaf1158537b88e499f81c5f30ca0cceed26d42d162f709140aff92be06",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::07-Slow-Rhythm-Arrhythmias::Class-Content"
       ]
     },
     {
@@ -42737,6 +43265,12 @@
       "first_field_hash": "fe127996b7a4ba770edb512ab0b4929d2eb59af5fdda39229ae9c48bdcbb06ac",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::30-Hypertension"
+      ]
+    },
+    {
+      "first_field_hash": "1517ced95a41b1ff18ffda64695298a62f9e86405095dc18189b7a1baf5b03a3",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::16-Acute-Kidney-Injury"
       ]
     },
     {
@@ -45637,6 +46171,13 @@
       ]
     },
     {
+      "first_field_hash": "20eb17a07297b234ddc9b5068046a1883014c0a50b7695ba878b5b433dcf7b33",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::16-Acute-Kidney-Injury",
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::16-Acute-Kidney-Injury::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "cefad21bc0ea4803c50f06fc7e8ffb10c78045dc798d3dff7a55aa20049aab4e",
       "tags": [
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-2::07-β-Lactam-Antibiotics-&-Parasites"
@@ -45665,6 +46206,19 @@
       "first_field_hash": "3a77bd78de7846dbe9726dd5ba0d2caf1098d5b013bf3301b7d24cf21bd6e57b",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::26-Pulmonary-Cases-&-Miscellaneous-Diseases"
+      ]
+    },
+    {
+      "first_field_hash": "f8d88c20ac5d6cfe85dfb0692e96747ce9b0e9672a2b80174e6a74cf6290a4ef",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::16-Acute-Kidney-Injury",
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::16-Acute-Kidney-Injury::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "fd150b19b0785a7285ed814cc77b940e0456d438333f4fd6662429b4a090c3ff",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::16-Acute-Kidney-Injury"
       ]
     },
     {
@@ -47133,14 +47687,16 @@
     {
       "first_field_hash": "6b989ba980cca72687e0fccb4c2a8e96f1f2833b78f6a222dd893371aadcbcf0",
       "tags": [
-        "JerryShen_AnKing_Tags::Micro-Pharm::Exam-2::08-Other-Antibiotics-&-Mycobacteria"
+        "JerryShen_AnKing_Tags::Micro-Pharm::Exam-2::08-Other-Antibiotics-&-Mycobacteria",
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::16-Acute-Kidney-Injury::Class-Content"
       ]
     },
     {
       "first_field_hash": "02d9c57389597eb2774b49fc29f8195ae2d5022c088987955daf8179645eba33",
       "tags": [
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-2::08-Other-Antibiotics-&-Mycobacteria",
-        "JerryShen_AnKing_Tags::Micro-Pharm::Exam-2::08-Other-Antibiotics-&-Mycobacteria::Class-Content"
+        "JerryShen_AnKing_Tags::Micro-Pharm::Exam-2::08-Other-Antibiotics-&-Mycobacteria::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::16-Acute-Kidney-Injury::Class-Content"
       ]
     },
     {
@@ -48876,7 +49432,8 @@
     {
       "first_field_hash": "5c9b4d72938c93f15cde770f16b43ec812468a8f282f8f9c9e0e97a5791b541e",
       "tags": [
-        "JerryShen_AnKing_Tags::Micro-Pharm::Exam-2::08-Other-Antibiotics-&-Mycobacteria"
+        "JerryShen_AnKing_Tags::Micro-Pharm::Exam-2::08-Other-Antibiotics-&-Mycobacteria",
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::16-Acute-Kidney-Injury"
       ]
     },
     {
@@ -49983,7 +50540,8 @@
     {
       "first_field_hash": "e6cdeb8de63778863c39b32f9dcea6782ffac83b1e6f5a9457a2bbd98255054b",
       "tags": [
-        "JerryShen_AnKing_Tags::Micro-Pharm::Exam-2::09-Misc-Antimicrobials-&-Skin-Infections"
+        "JerryShen_AnKing_Tags::Micro-Pharm::Exam-2::09-Misc-Antimicrobials-&-Skin-Infections",
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::16-Acute-Kidney-Injury"
       ]
     },
     {
@@ -49997,7 +50555,8 @@
     {
       "first_field_hash": "8f236a2ae4b467596ab7b134ab2c7533a0e133b9b59f1716b73861c73406b2e1",
       "tags": [
-        "JerryShen_AnKing_Tags::Micro-Pharm::Exam-2::09-Misc-Antimicrobials-&-Skin-Infections"
+        "JerryShen_AnKing_Tags::Micro-Pharm::Exam-2::09-Misc-Antimicrobials-&-Skin-Infections",
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::16-Acute-Kidney-Injury"
       ]
     },
     {
@@ -51973,6 +52532,12 @@
       ]
     },
     {
+      "first_field_hash": "59857e8f9ee9c7c63b65e154ec9c687473db76bc54d1b8f797cdca8325042991",
+      "tags": [
+        "JerryShen_AnKing_Tags::Micro-Pharm::Exam-2::07-β-Lactam-Antibiotics-&-Parasites"
+      ]
+    },
+    {
       "first_field_hash": "c1ec1e419bc70d78dfa6ba7d8e8e5cecdabab36b91a862198ec42dfd28b5c4b5",
       "tags": [
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-2::07-β-Lactam-Antibiotics-&-Parasites"
@@ -52047,7 +52612,8 @@
     {
       "first_field_hash": "f9aa26ea756b51699a5d965c7dbad567afc4f86e7374ec9066fa8d1513798135",
       "tags": [
-        "JerryShen_AnKing_Tags::Micro-Pharm::Exam-2::08-Other-Antibiotics-&-Mycobacteria"
+        "JerryShen_AnKing_Tags::Micro-Pharm::Exam-2::08-Other-Antibiotics-&-Mycobacteria",
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::16-Acute-Kidney-Injury"
       ]
     },
     {
@@ -52242,6 +52808,13 @@
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::05-Treatment-of-Hyperlipidemia",
         "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::05-Treatment-of-Hyperlipidemia::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "67cbc6f425faa8e4d3ded0444f019a57fc361c0493e10b49c6648ee1b7fa4f0e",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::16-Acute-Kidney-Injury",
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::16-Acute-Kidney-Injury::Class-Content"
       ]
     },
     {
@@ -52702,6 +53275,12 @@
       ]
     },
     {
+      "first_field_hash": "e68ffe3a8e628bba48b56c2cfbf6f0062072226c4581daccd4a3f4cad3f95367",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::13-Urinalysis"
+      ]
+    },
+    {
       "first_field_hash": "1ac8bc5a078fd3d79319fcfcd0595bc9140c019ed9933239b4999e2bc860b149",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Renal-Block::09-Metabolic-Acidosis-&-Alkalosis::Class-Content"
@@ -52711,6 +53290,12 @@
       "first_field_hash": "b2e39ef448499216a425033eb7b52ff0c5c37d0ddc643dc05b0aa81dbde95687",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Renal-Block::09-Metabolic-Acidosis-&-Alkalosis::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "63f64e7447bc73b4d9de06d40314c40a2e450988bb1af0c87a5274e2e22039af",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::16-Acute-Kidney-Injury::Class-Content"
       ]
     },
     {
@@ -55263,6 +55848,12 @@
       ]
     },
     {
+      "first_field_hash": "e4345c2f46fcb4e4f08c7cee42b83fc3a49570f5e653aabc39c67fbe0f90aa15",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::16-Acute-Kidney-Injury"
+      ]
+    },
+    {
       "first_field_hash": "059ef921ae5b5054a21ac7445a6bfd17c825b7255733b78163b1a58d5dc9779b",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::15-Pathophysiology-&-Treatment-of-Heart-Failure::Class-Content"
@@ -55342,6 +55933,12 @@
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::26-Pathology-of-Atherosclerosis-&-IHD",
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::27-The-Abnormal-ECG-Ischemia-&-Infarction",
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::27-The-Abnormal-ECG-Ischemia-&-Infarction::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "6d0c9fe06fe663008ba57e32f63ef55d74836747fc443c4b668e40af236038e3",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::16-Acute-Kidney-Injury"
       ]
     },
     {
@@ -55967,6 +56564,24 @@
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Renal-Block::09-Metabolic-Acidosis-&-Alkalosis",
         "JerryShen_AnKing_Tags::SOM-2::Renal-Block::10-Potassium-Balance"
+      ]
+    },
+    {
+      "first_field_hash": "a707f41a1a76b04519261e77747b6746e71ebe469b746b50e8aa65d29e1b1e2b",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::16-Acute-Kidney-Injury::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "f9eeecd5baa0186253cc3f946c39df6f516f561c463025ded9456c540c13a692",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::16-Acute-Kidney-Injury::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "155d16aa0d1122ec42f7fc940cbec190a0f9ad575992541fdec48362e19a3aec",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::16-Acute-Kidney-Injury::Class-Content"
       ]
     },
     {
@@ -56796,6 +57411,24 @@
       ]
     },
     {
+      "first_field_hash": "fff90be352366abd7c7cd8a83e1f01f749bbaaafbee818db2bf3127a2807140b",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::16-Acute-Kidney-Injury::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "b43eb73b3fa465b4e38a9484bc61546be87a72192fba1fd3ec36b7a82cba7b1c",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::16-Acute-Kidney-Injury"
+      ]
+    },
+    {
+      "first_field_hash": "aed44477bed6a23ddeb7b1e266f4b71ca9758be6b7f59d8cad86ce63dd8f4c83",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::16-Acute-Kidney-Injury::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "780e17898e3fa493f492597ccd7eab07ba4aa5de041d37385e54069e90c0e401",
       "tags": [
         "JerryShen_AnKing_Tags::Cancer-Biology::Final::Cancer-Pharmacology",
@@ -57224,6 +57857,12 @@
       ]
     },
     {
+      "first_field_hash": "df189941e53dd75fe8fc1b70b6d2b140878a470d2466a11958420addb8c66d3a",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::16-Acute-Kidney-Injury"
+      ]
+    },
+    {
       "first_field_hash": "58b2019f33107679c199083c2ee6d1376d819f4ff13a48cfa537a920883c0063",
       "tags": [
         "JerryShen_AnKing_Tags::Cancer-Biology::Final::Cancer-Screening"
@@ -57232,7 +57871,20 @@
     {
       "first_field_hash": "09329e59b8ce7a7f5edbd0c8993806759b2efae45214592bd499c077426ea381",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::30-Hypertension"
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::30-Hypertension",
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::16-Acute-Kidney-Injury::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "f11b785be8a368b1a9a6fdf0eb54d9cbef0705ed0c123f5d143c9ff4ca73f677",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::16-Acute-Kidney-Injury"
+      ]
+    },
+    {
+      "first_field_hash": "e3eb32f044179e897c47ba6e07e5b8a39a6e3e5a51f5da2c3c8b34e88a60d152",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::16-Acute-Kidney-Injury"
       ]
     },
     {
@@ -57707,6 +58359,13 @@
       "first_field_hash": "2dedd0c38d733f5aa8bca3c2eed489a5be6263f9f43438435d3fd2bfd53a2fb2",
       "tags": [
         "JerryShen_AnKing_Tags::POM-3::Clinical-Reasoning::Approach-to-Acute-Dyspnea"
+      ]
+    },
+    {
+      "first_field_hash": "f579eef0134c2cc08c478d42a5a6c6ed9e649d45fd72fae6e7c3faa472f37b7f",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::16-Acute-Kidney-Injury",
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::16-Acute-Kidney-Injury::Class-Content"
       ]
     },
     {
@@ -58732,6 +59391,12 @@
       ]
     },
     {
+      "first_field_hash": "9d5a61b695987f3b7bb134bc59b424f6d1489addcabf4eae1ac03148f7ae704a",
+      "tags": [
+        "JerryShen_AnKing_Tags::POM-4::Clinical-Reasoning::Approach-to-Palpitations::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "f825672acdfc705aed19d8ad939690ed699dc9a7f985da36afc3e449bcdff495",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::MSK-Block::05-Lower-Limb-Pathology",
@@ -58829,7 +59494,8 @@
     {
       "first_field_hash": "8f105f83abcf8ab38196d87c446302fe410cc24bfb9cbeedf591da80250f9f80",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::30-Hypertension"
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::30-Hypertension",
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::16-Acute-Kidney-Injury::Class-Content"
       ]
     },
     {
@@ -58849,6 +59515,12 @@
       "tags": [
         "JerryShen_AnKing_Tags::POM-3::Clinical-Reasoning::Approach-to-Cough",
         "JerryShen_AnKing_Tags::POM-3::Clinical-Reasoning::Approach-to-Cough::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "481536fe8989dde80e7b22dce67cdab581c39597407857a3bbca41137256a31d",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::16-Acute-Kidney-Injury::Class-Content"
       ]
     },
     {
@@ -60299,6 +60971,12 @@
       ]
     },
     {
+      "first_field_hash": "d971b7993b0aad34e5b61d2ef7ea4dd2b3d877b672f3b6b5cc22ba74da7e670f",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::16-Acute-Kidney-Injury::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "91c6167947446813734c29d581587ce5622765313924d10b35453b3e44b16b1e",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::MSK-Block::Lab-01-MSK-Cases"
@@ -60621,6 +61299,12 @@
       "first_field_hash": "f35ca9d1553fc4d5684c94fe4754250a776bf6424fb2f4668e4e7d75de4d133c",
       "tags": [
         "JerryShen_AnKing_Tags::POM-3::Clinical-Reasoning::Approach-to-Shock::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "de01299ddae4b57fa04526bbfa3b622929e4c224ecfbce9f65938fc865dcddb7",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::16-Acute-Kidney-Injury"
       ]
     },
     {
@@ -61010,6 +61694,12 @@
       "first_field_hash": "7af136b4d77eb2c7bed7fd22634c835de41a273fd59fd40b69862428b17167cc",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Renal-Block::09-Metabolic-Acidosis-&-Alkalosis"
+      ]
+    },
+    {
+      "first_field_hash": "55e8a75a880e6a762eb0ee1ef215bfb304e022de263f4e2c7146240f4a899a94",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::16-Acute-Kidney-Injury"
       ]
     },
     {
@@ -62499,7 +63189,51 @@
     {
       "first_field_hash": "e6c43c9aeb42a8be421d91528bd46b9e9b0ab6a8c07dd78b12f29af7c72f7a5b",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::16-Clotting-&-Thromboembolic-Disease"
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::16-Clotting-&-Thromboembolic-Disease",
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::16-Acute-Kidney-Injury::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "e54430e4deddcee56e8ee970dad791be01f4e851e9b2e25d2bf0c37712a079e4",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::16-Acute-Kidney-Injury::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "68d4cdf4ff8f7a97534aec36a29ef2ef9df7fa88a9c8ab4a7dc3910a8b5cd4da",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::16-Acute-Kidney-Injury"
+      ]
+    },
+    {
+      "first_field_hash": "6e9e071c133fdf3e3898d796ae3c4bff4078a19c39835f7582c6f716610fa56e",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::16-Acute-Kidney-Injury"
+      ]
+    },
+    {
+      "first_field_hash": "1cca2fc3b31cdd0c0d5e10681dd43296e2c1f7734d00bfab5f8b8f1304d6f9d5",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::16-Acute-Kidney-Injury"
+      ]
+    },
+    {
+      "first_field_hash": "4edcef7955c650b64d66c61bcd9493bc722a4127a3ac0bc9548fc96f68ee4be5",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::16-Acute-Kidney-Injury"
+      ]
+    },
+    {
+      "first_field_hash": "eba30e52ac1c6ae7f8181cb9c1ed0e480d35e6d4c58729681d368f5fa2bce2cc",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::16-Acute-Kidney-Injury",
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::16-Acute-Kidney-Injury::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "e700cb99971298bd1f8dcb363d116f7a081166be73519e3cf8c8133332c40c1c",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::16-Acute-Kidney-Injury::Class-Content"
       ]
     },
     {
@@ -62539,6 +63273,12 @@
       ]
     },
     {
+      "first_field_hash": "13f9e5d42cac2ce4195cb4fdf95ff72336c2472340cf98c7d84dad67dc785044",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::16-Acute-Kidney-Injury"
+      ]
+    },
+    {
       "first_field_hash": "24f9eaf8e5ad6b85d63441fff0bc4903c9070a5f3a02334adb2b82ab477dfcb8",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::19-ARDS-&-Ventilators",
@@ -62574,6 +63314,37 @@
       "first_field_hash": "e3f940e78ba4995cb49ad5a6bda54d7c45a95ff62d0e5cc43a6720692fd8196f",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::01-Structure-and-Function-of-the-Lung"
+      ]
+    },
+    {
+      "first_field_hash": "289b1a37e723c565d89fc583fb57f825c7793bb6653b02e795c22ab76c393356",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::16-Acute-Kidney-Injury::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "6469760c61069b5f9529438f19511117a646878e2f3c53907df6c0d3612bd9a1",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::16-Acute-Kidney-Injury::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "06bf2d85dc109a8f9927bbff52c8b6d4e9230c55c3e0dd85f0bed455f5f4a015",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::13-Urinalysis",
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::13-Urinalysis::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "cc397c6049e51835d664b66145cf6c071013616ca3060465bfe596ef9613b0bc",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::16-Acute-Kidney-Injury"
+      ]
+    },
+    {
+      "first_field_hash": "c30c3e2553b785690a33bd4006dc3a980a00dc931a7fbce0c18907fd3bdac68a",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::16-Acute-Kidney-Injury"
       ]
     },
     {
@@ -63293,9 +64064,39 @@
       ]
     },
     {
+      "first_field_hash": "ea7bc21100c611ee9ef12f8c0faf301e84d652eb81d4cff48fac918e3a448b2e",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::16-Acute-Kidney-Injury::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "4d3ba8ca29d84b293398001676aab3d8aaa112fd2642242c218658b454bf16ac",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::16-Acute-Kidney-Injury::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "b7f08d3d7cb729afa8c60b8537bdc8c8cfce8bbf836035c362cbe476eac83d45",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::16-Acute-Kidney-Injury::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "9ad1ac586bacdedf8d0b22bd9f652c9bc9c7f27b677517e87cb8280f1b489e71",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Renal-Block::13-Urinalysis::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "077de1de89b78f16de3aca845d336ea49618b718b330194f222d511fe0f42e62",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::16-Acute-Kidney-Injury::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "8201f988cc4b0633b4c896d8c7a9489afac3586da10fccd3e1d2b1c3c67871c1",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::16-Acute-Kidney-Injury"
       ]
     },
     {
@@ -63719,6 +64520,13 @@
       ]
     },
     {
+      "first_field_hash": "8237255c24294a21f2eca5a6f0cd0362d2a3705eef681f60f7237aa5a8a74fb9",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::16-Acute-Kidney-Injury",
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::16-Acute-Kidney-Injury::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "7fd94da51644351346ff01e6d7f48ebb864d11a20b1e5fc2903184591d638930",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::19-ARDS-&-Ventilators",
@@ -63828,6 +64636,18 @@
       "first_field_hash": "35aa8afc651889e4bb33c09c2ff0ac0720d1ab087997e367f3083f994685d80e",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::MSK-Block::05-Lower-Limb-Pathology"
+      ]
+    },
+    {
+      "first_field_hash": "5f0bd924db60ee5727b7d54d2887ddee1f58d68ba1677f739496cc707e8a2b7e",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::16-Acute-Kidney-Injury"
+      ]
+    },
+    {
+      "first_field_hash": "05506c3fbcfc48485d798bd5958df225a4a118d0d9ef3e75133bcae7e0e017b5",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::16-Acute-Kidney-Injury"
       ]
     },
     {
@@ -64754,6 +65574,12 @@
       ]
     },
     {
+      "first_field_hash": "13b55e39513de436e0e08d627cd91f414106ab023a22eec56512b6c539166803",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::16-Acute-Kidney-Injury"
+      ]
+    },
+    {
       "first_field_hash": "78ca5aaf85ab407305a42739f272e19554d4b7bd42f1e18159f5a3b9381a7d5d",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::16-Lower-Respiratory-Infections"
@@ -64834,6 +65660,12 @@
       ]
     },
     {
+      "first_field_hash": "e985358e5ee03c0e8b465d6ea3c52303aead63ba4fb142341dc4a3d60708af8d",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::16-Acute-Kidney-Injury::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "cb6a5d08f6827bdb11e6e3fc5ae738d97b7efc0cac84b311d876f44ef9403382",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::15-Upper-Respiratory-Infections"
@@ -64902,6 +65734,12 @@
       ]
     },
     {
+      "first_field_hash": "d6d1cf0930daa3b2248b20e34c3d8d062d2da23f89c7709e8f86f19a70d44e7a",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::16-Acute-Kidney-Injury::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "5676b2585eadea16ec301a0751e85f5d37ff5f67923ba339597a5c954fa78ad4",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::15-Upper-Respiratory-Infections::Class-Content"
@@ -64917,7 +65755,8 @@
     {
       "first_field_hash": "7df55feaaae4a6c9f6380abe96e5e95138c5d9c61d40fc46850523958fc83de5",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::13-Urinalysis"
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::13-Urinalysis",
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::13-Urinalysis::Class-Content"
       ]
     },
     {
@@ -65377,6 +66216,13 @@
       "first_field_hash": "cd1a236ed61e3414ef5d2212d5c5b2f02cc743c00baf08aa3ccde89012d33dd9",
       "tags": [
         "JerryShen_AnKing_Tags::Biochemistry::Final::06-Nucleic-Acid-Metabolism"
+      ]
+    },
+    {
+      "first_field_hash": "ecd88c6cb768facbd357a08913680b47ae77e14d35260d882d2cdf2e8d7c7874",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::16-Acute-Kidney-Injury",
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::16-Acute-Kidney-Injury::Class-Content"
       ]
     },
     {
