@@ -1,14 +1,14 @@
 {
   "schema_version": 1,
   "author": "JerryShen",
-  "description": "aki",
-  "created": "2026-09-15T18:32:14.405811+00:00",
-  "updated": "2026-09-15T18:32:14.405811+00:00",
+  "description": "bone and obesity",
+  "created": "2026-09-17T18:31:03.785638+00:00",
+  "updated": "2026-09-17T18:31:03.785638+00:00",
   "tag_prefix": "JerryShen_AnKing_Tags",
   "tag_hierarchy": [
     "JerryShen_AnKing_Tags",
     "JerryShen_AnKing_Tags::(✏️)-Tagged-by-Jerry-Shen",
-    "JerryShen_AnKing_Tags::(🛠️)-Last-Updated-09142026",
+    "JerryShen_AnKing_Tags::(🛠️)-Last-Updated-09152026",
     "JerryShen_AnKing_Tags::(🧋)-buymeacoffee.com/ger1atric",
     "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology",
     "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-1-Thorax",
@@ -279,6 +279,7 @@
     "JerryShen_AnKing_Tags::POM-4::Clinical-Reasoning",
     "JerryShen_AnKing_Tags::POM-4::Clinical-Reasoning::Approach-to-Palpitations",
     "JerryShen_AnKing_Tags::POM-4::Clinical-Reasoning::Approach-to-Palpitations::Class-Content",
+    "JerryShen_AnKing_Tags::POM-4::Clinical-Reasoning::Class-Content",
     "JerryShen_AnKing_Tags::POM-4::EMED-Procedures",
     "JerryShen_AnKing_Tags::POM-4::EMED-Procedures::Foley-NGTube-&-I&D",
     "JerryShen_AnKing_Tags::POM-4::EMED-Procedures::Foley-NGTube-&-I&D::Class-Content",
@@ -476,6 +477,10 @@
     "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::11-GH-IGF1-&-Prolactin::Class-Content",
     "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::12-Normal-Endocrine-Histology",
     "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::12-Normal-Endocrine-Histology::Class-Content",
+    "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::13-Obesity",
+    "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::13-Obesity::Class-Content",
+    "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::14-Bone-Pathophysiology",
+    "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::14-Bone-Pathophysiology::Class-Content",
     "JerryShen_AnKing_Tags::SOM-2::Renal-Block",
     "JerryShen_AnKing_Tags::SOM-2::Renal-Block::01-Introduction-to-Renal-Physiology",
     "JerryShen_AnKing_Tags::SOM-2::Renal-Block::01-Introduction-to-Renal-Physiology::Class-Content",
@@ -782,6 +787,11 @@
       "date": "2026-09-15T18:32:14.405811+00:00",
       "message": "aki",
       "note_count": 21
+    },
+    {
+      "date": "2026-09-17T18:31:03.785638+00:00",
+      "message": "bone and obesity",
+      "note_count": 245
     }
   ],
   "notes": [
@@ -1579,6 +1589,12 @@
       ]
     },
     {
+      "first_field_hash": "718886717249dd0dd25a03a3c029599cddaa6020d2c4e0c2f197537e3e02eedf",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::13-Obesity"
+      ]
+    },
+    {
       "first_field_hash": "01e65689ad50420c4da73cdd4da894ca938ff566a3b5259a585d965f87a737bc",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::01-Intro-to-Endocrine-Block::Class-Content"
@@ -1938,6 +1954,12 @@
       "tags": [
         "JerryShen_AnKing_Tags::Immunology::Final::Antibody-Mediated-Autoimmunity",
         "JerryShen_AnKing_Tags::Immunology::Final::Antibody-Mediated-Autoimmunity::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "05c5bf532460ac7ece5f3be86606f5e91d4782e422153d7263af8cd8a7af22fc",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::13-Obesity"
       ]
     },
     {
@@ -2481,6 +2503,12 @@
       ]
     },
     {
+      "first_field_hash": "2cdcb4cabeb693111ab21a49afbc03c31436f7e2d9a243946979e008e47df3d4",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::13-Obesity"
+      ]
+    },
+    {
       "first_field_hash": "ab987f557fca6ed1276977da2e03212c55aaf6bcef420bf9c5c9bc2a08f0bc6d",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::03-Glucose-Homeostasis-2",
@@ -2623,15 +2651,29 @@
       ]
     },
     {
+      "first_field_hash": "e1700aee456bc47b43c74d739fd498d05df5a792e0823eb00c76a9a417df2e87",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::14-Bone-Pathophysiology::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "ed95da3405507506edf66d998fac974708739cf60f888796540f31449748676f",
       "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::14-Bone-Pathophysiology::Class-Content",
         "JerryShen_AnKing_Tags::SOM-2::Renal-Block::12-Calcium-Magnesium-&-Phosphate-Regulation::Class-Content"
       ]
     },
     {
       "first_field_hash": "e66c75c9b210f6e67407179aca651d0f1adbcee2a43fe23f4f277d51c5d940ab",
       "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::14-Bone-Pathophysiology::Class-Content",
         "JerryShen_AnKing_Tags::SOM-2::Renal-Block::12-Calcium-Magnesium-&-Phosphate-Regulation::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "5336e4147a5c30b5ad35dfc07998855e1043bba1fcfaf833ba4dc664932aaa15",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::14-Bone-Pathophysiology::Class-Content"
       ]
     },
     {
@@ -2649,7 +2691,14 @@
     {
       "first_field_hash": "5089581452c6ef2723b413e5da62e183ceb141fdd722f196aa406f8c3c0eefc1",
       "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::14-Bone-Pathophysiology::Class-Content",
         "JerryShen_AnKing_Tags::SOM-2::Renal-Block::12-Calcium-Magnesium-&-Phosphate-Regulation"
+      ]
+    },
+    {
+      "first_field_hash": "062efcba7d172f8293201ca0d0967592659c4e671821e227e7aca3b619ed274a",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::14-Bone-Pathophysiology::Class-Content"
       ]
     },
     {
@@ -2671,13 +2720,21 @@
       "tags": [
         "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-6-Head-&-Neck-1::Histology::Class-Content",
         "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::12-Normal-Endocrine-Histology::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::14-Bone-Pathophysiology::Class-Content",
         "JerryShen_AnKing_Tags::SOM-2::Renal-Block::12-Calcium-Magnesium-&-Phosphate-Regulation::Class-Content"
       ]
     },
     {
       "first_field_hash": "073855394e239053cee0910289057c28c2a7cae243e9196901da812df951dee0",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::12-Normal-Endocrine-Histology"
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::12-Normal-Endocrine-Histology",
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::14-Bone-Pathophysiology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "8ab78a546058cd1acdb124920e5e6f3aae26dd405369e55cb99a982733e6e6cd",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::14-Bone-Pathophysiology"
       ]
     },
     {
@@ -2693,27 +2750,62 @@
       ]
     },
     {
+      "first_field_hash": "7fcce0445c5cc8018974632fce0f19f351b819557952bef17a98d14d89f01c97",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::14-Bone-Pathophysiology",
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::14-Bone-Pathophysiology::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "ac556ab5817cb07b05bd070eb620acd1ef7e5c347b972c5d337a6eed1dcd47ff",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::12-Normal-Endocrine-Histology"
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::12-Normal-Endocrine-Histology",
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::14-Bone-Pathophysiology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "e1e39be9509e7d0ba0a1482fbdc6307c4b40078416dccf4e88a2173454961794",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::14-Bone-Pathophysiology"
+      ]
+    },
+    {
+      "first_field_hash": "fda44162a7d24ba3e877cfdfc70c7f660c4aaa054155f905654af67b836c8ab3",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::14-Bone-Pathophysiology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "75e5a32a08584874f2123e6705f276842436b130111e3edfec30dfca72d958b8",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::14-Bone-Pathophysiology"
       ]
     },
     {
       "first_field_hash": "141d037ab83f28e82b6ba9dd8291d8816dda7b3ccedb48c054254ebcd74def39",
       "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::14-Bone-Pathophysiology::Class-Content",
         "JerryShen_AnKing_Tags::SOM-2::Renal-Block::12-Calcium-Magnesium-&-Phosphate-Regulation"
       ]
     },
     {
       "first_field_hash": "7f8f9263afc1dd2c760899bac0daf9eac6f0afcf54bf2e4cad149c817f30be24",
       "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::14-Bone-Pathophysiology::Class-Content",
         "JerryShen_AnKing_Tags::SOM-2::Renal-Block::12-Calcium-Magnesium-&-Phosphate-Regulation::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "e5d860369e3b69fc6123005eb92e948c0a2490d416fce6abe2718708c53eef82",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::14-Bone-Pathophysiology::Class-Content"
       ]
     },
     {
       "first_field_hash": "e373dd1cd1e7f4a41c06c8ffdcb6e3d660d212e64d596c7cf8d39865767c72fb",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::12-Normal-Endocrine-Histology::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::12-Normal-Endocrine-Histology::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::14-Bone-Pathophysiology::Class-Content"
       ]
     },
     {
@@ -2729,8 +2821,15 @@
       ]
     },
     {
+      "first_field_hash": "043047ed8853e01f30d43008ba0cf03be78fa3ce3074a03202a6a84ba1c5512a",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::14-Bone-Pathophysiology::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "35de490baba825b1aad4cdbc446957ded8e5637610506e5846cb8fbe992b3535",
       "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::14-Bone-Pathophysiology::Class-Content",
         "JerryShen_AnKing_Tags::SOM-2::Renal-Block::12-Calcium-Magnesium-&-Phosphate-Regulation::Class-Content"
       ]
     },
@@ -2749,31 +2848,90 @@
     {
       "first_field_hash": "541d6d347dee8a974ae00e1eec491ef67b9bfb149db2f9c761ac92d2bc5605f2",
       "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::14-Bone-Pathophysiology::Class-Content",
         "JerryShen_AnKing_Tags::SOM-2::Renal-Block::12-Calcium-Magnesium-&-Phosphate-Regulation"
+      ]
+    },
+    {
+      "first_field_hash": "f3f6e81c973ec2336fe71d36fd7bdb6ef315a70da55e56875dec4bcb46f01531",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::14-Bone-Pathophysiology"
+      ]
+    },
+    {
+      "first_field_hash": "36384f1e788d6f704b27306a3b06b43a94a1433cd07b00a5b329d062411d3eb2",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::14-Bone-Pathophysiology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "bb9e5937412848136b01131a8b0be5c619dffecd2eedf01064d38d0a4619fb55",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::14-Bone-Pathophysiology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "85791d7f00a5f4dbf587ab90a49529f64fb80037728bd649e6a6d5e3aeddc550",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::14-Bone-Pathophysiology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "fbb53f7f645b31098ca0e9c311dc6c665a3e4384827aae358b81d07b83ae9a6c",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::14-Bone-Pathophysiology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "23e9e2c335c40243a31a72612302714128e10d7f3a8c282fb77410af356029cc",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::14-Bone-Pathophysiology"
       ]
     },
     {
       "first_field_hash": "791168cfddb73b3d7d2e4b431aefb9abf5a7505c1a500cf274c39131850cbae6",
       "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::14-Bone-Pathophysiology::Class-Content",
         "JerryShen_AnKing_Tags::SOM-2::Renal-Block::12-Calcium-Magnesium-&-Phosphate-Regulation"
       ]
     },
     {
       "first_field_hash": "f57982d8733acfd13c48fe336eab88d31f1d5d95e375ad7818fdeef77fb5bae4",
       "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::14-Bone-Pathophysiology::Class-Content",
         "JerryShen_AnKing_Tags::SOM-2::Renal-Block::12-Calcium-Magnesium-&-Phosphate-Regulation"
       ]
     },
     {
       "first_field_hash": "178afe71761ae5819bb9be6dcd1a3e89ef9c31c426a10aa768d5c5650bb815c5",
       "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::14-Bone-Pathophysiology::Class-Content",
         "JerryShen_AnKing_Tags::SOM-2::Renal-Block::12-Calcium-Magnesium-&-Phosphate-Regulation"
       ]
     },
     {
       "first_field_hash": "47018b8332575565c7ad7971ff2d917af59bfb53b4745e1874ca69152174f6b7",
       "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::14-Bone-Pathophysiology",
         "JerryShen_AnKing_Tags::SOM-2::Renal-Block::12-Calcium-Magnesium-&-Phosphate-Regulation"
+      ]
+    },
+    {
+      "first_field_hash": "e9267cfe51517ca254ee06fc59460aa33ebad05ea34936881e64f0242f380d53",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::14-Bone-Pathophysiology"
+      ]
+    },
+    {
+      "first_field_hash": "54f077e23a2a1b64a67c0a43043b09764c347b2ae32711920e0eaef2f17e2d24",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::14-Bone-Pathophysiology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "39ed121b5659955ce4c2abe351099e0a9c29a440345cc90c3db223ee3e5afae7",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::14-Bone-Pathophysiology"
       ]
     },
     {
@@ -2796,9 +2954,40 @@
       ]
     },
     {
+      "first_field_hash": "d0c2f9bb3bb1f37a4c3998cc5c06e22133491d8f6875316b43184b4b5059955a",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::14-Bone-Pathophysiology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "f9cfac447a28941f58a3b6e4e596211f6ba0897a8036676525d0b7cac01bceb2",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::14-Bone-Pathophysiology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "320cd18025bfd516ac5e596bf463a64c47ef22fe61a2addba3aaa48098cc64ba",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::14-Bone-Pathophysiology::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "d6cbfc775ac583103d0861dc8ddcb1d7a85caea4863d41b05e87ecceb54a0fae",
       "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::14-Bone-Pathophysiology::Class-Content",
         "JerryShen_AnKing_Tags::SOM-2::Renal-Block::12-Calcium-Magnesium-&-Phosphate-Regulation"
+      ]
+    },
+    {
+      "first_field_hash": "4bfc90f6985f2bd77ac33680761d9ae8cd19c2d11ebdf62ebe1dc6e04578f176",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::14-Bone-Pathophysiology"
+      ]
+    },
+    {
+      "first_field_hash": "8ea57ebe6f49850093b3fa0111bd57defe79e6607bad6e26f72e81abe30f4bac",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::14-Bone-Pathophysiology::Class-Content"
       ]
     },
     {
@@ -2808,9 +2997,41 @@
       ]
     },
     {
+      "first_field_hash": "c575cfdc355d2e64a3454bd0df48fa651faaa5c5a751887ce7946be2e0107d69",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::14-Bone-Pathophysiology::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "89c1226c20ca063d4db27f9c34125e455761cda2be5bf56f25f1c5c6458f901b",
       "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::14-Bone-Pathophysiology::Class-Content",
         "JerryShen_AnKing_Tags::SOM-2::Renal-Block::12-Calcium-Magnesium-&-Phosphate-Regulation"
+      ]
+    },
+    {
+      "first_field_hash": "c9f8cca211389998e30b8df8adbddfe2a5f161c94b2c60641fec4f7ac7e5e60b",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::14-Bone-Pathophysiology",
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::14-Bone-Pathophysiology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "3235bea87d7111bf886253f5af84396ef5c635c0db2653068242bdbc1c21d303",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::14-Bone-Pathophysiology"
+      ]
+    },
+    {
+      "first_field_hash": "7548b4a9d44aae6d2c0e3a6c97451659b7eeb1b4f9b3d08fd39bc1a95d43a73a",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::14-Bone-Pathophysiology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "4a8b188f8a918f861a78f1a935900decfe5269e9bc7e91cf853307202e92b0d0",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::14-Bone-Pathophysiology"
       ]
     },
     {
@@ -3095,15 +3316,87 @@
       ]
     },
     {
+      "first_field_hash": "9eb1f510f26472d3834b7318ed3a31cf77edd38e33e5e588e691fb316d524e7e",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::14-Bone-Pathophysiology::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "d53cb935f67b669bca262c826c4b959f3624e62e7c42668469d857590e252b8c",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Renal-Block::12-Calcium-Magnesium-&-Phosphate-Regulation"
       ]
     },
     {
+      "first_field_hash": "7904eaecb151164bcc7fa2fa3942e7ae1e42ca4b3ef4eae639730c4f4906ddf3",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::14-Bone-Pathophysiology"
+      ]
+    },
+    {
+      "first_field_hash": "d5167f4f417fab0ca49ac298ca5783aee846271ef54188f4d1add46b77c00286",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::14-Bone-Pathophysiology"
+      ]
+    },
+    {
       "first_field_hash": "0b60199295d636a2cb608dfc86c11bd7d0da2d3d34a47e817fa0004d6f1601ed",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Renal-Block::12-Calcium-Magnesium-&-Phosphate-Regulation"
+      ]
+    },
+    {
+      "first_field_hash": "a7b9c9b27c5121a05d3e9fcaaa553b9f3107cda155e6d899e17bc0def8562934",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::14-Bone-Pathophysiology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "b5d01d91d9a72667f2c5375ae702b604e68b60a391d6b23780c3941e5104b28e",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::14-Bone-Pathophysiology"
+      ]
+    },
+    {
+      "first_field_hash": "809f13b85e9176ab48ebd43f8944744d974788cc68fbdfbd1dd636b20edc33e3",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::14-Bone-Pathophysiology"
+      ]
+    },
+    {
+      "first_field_hash": "59a5d84a28eda83a4a4f8c289325fcbf95265091d35c51845743ea87d567639e",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::14-Bone-Pathophysiology"
+      ]
+    },
+    {
+      "first_field_hash": "a5e39de2c5efeb0caef400a2ef38c287285c37f6ca5ab0b28528f6465a0a7fa4",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::14-Bone-Pathophysiology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "66357719d05aa55c8efb202299cd661bc94778d98230132fce0df845df516f03",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::14-Bone-Pathophysiology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "ff5c585a86d86e1696b8a1e274a80fad39bab6d5db576118ddd143f5fadd6df5",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::14-Bone-Pathophysiology"
+      ]
+    },
+    {
+      "first_field_hash": "cee604684d610596bb6bb2565c37c591b1668f22e0898fd98eeca8d058bf7c01",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::14-Bone-Pathophysiology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "1a451a62ce34754cbea0c4de585890950cbe47ecb57cebdd1fb3717103ab35b7",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::14-Bone-Pathophysiology"
       ]
     },
     {
@@ -3191,7 +3484,8 @@
     {
       "first_field_hash": "e67d8ab28b6d00032079ab2dd158eb5fff78308f43bc5d7ffe11dd7411b1d259",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::07-Type-2-Diabetes"
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::07-Type-2-Diabetes",
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::13-Obesity"
       ]
     },
     {
@@ -3573,6 +3867,12 @@
       ]
     },
     {
+      "first_field_hash": "6522a0ed52a58afc75df1475908810b683f0bda7553dbd8a61f22d1ecab87eca",
+      "tags": [
+        "JerryShen_AnKing_Tags::POM-4::Clinical-Reasoning::Approach-to-Palpitations"
+      ]
+    },
+    {
       "first_field_hash": "b34b1a8136f3ceaf3c3dae6f2333b08e8ca5e2cdcf6f7f2b407cb5dd69d1b606",
       "tags": [
         "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-4-Pelvis::Embryology::Class-Content",
@@ -3665,10 +3965,22 @@
       ]
     },
     {
+      "first_field_hash": "35d77508ba268e3fd2f463afd00d664d8f638bcbd336bc258a6b948ea28cd57c",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::13-Obesity"
+      ]
+    },
+    {
       "first_field_hash": "7cf27e335f8120b620d2aa8d8b1e82658e1586fbbfcb9facaed8d8d0f9e74971",
       "tags": [
         "JerryShen_AnKing_Tags::Biochemistry::Final::04-Regulation",
         "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::10-Neuroendocrinology"
+      ]
+    },
+    {
+      "first_field_hash": "cfcd74428bb21019f414d346cfdc122c2df70864c1bab9b95ae0f547a93c0ef0",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::14-Bone-Pathophysiology::Class-Content"
       ]
     },
     {
@@ -3692,7 +4004,14 @@
     {
       "first_field_hash": "e359ec94a9f854630e4169f2878b7afe1e69295bbea8bc37fbd9b2efc3ef7725",
       "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::14-Bone-Pathophysiology::Class-Content",
         "JerryShen_AnKing_Tags::SOM-2::Renal-Block::12-Calcium-Magnesium-&-Phosphate-Regulation::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "bc7ea6b3954a767383fe8bd63cd38bf599f0efca027075b7eb11860416779ea4",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::14-Bone-Pathophysiology::Class-Content"
       ]
     },
     {
@@ -3883,7 +4202,8 @@
       "first_field_hash": "f695a09619c0cc3516def04006f6f92ab8726fc2bcd403a76f0428b90130526c",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::03-Glucose-Homeostasis-2",
-        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::08-Insulin-&-Antidiabetic-Pharmacology::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::08-Insulin-&-Antidiabetic-Pharmacology::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::13-Obesity::Class-Content"
       ]
     },
     {
@@ -4780,6 +5100,12 @@
       ]
     },
     {
+      "first_field_hash": "6e29f74d39021748bbd604a5c88b36342100b712516ec6488ced0506d3cb8fc4",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::13-Obesity"
+      ]
+    },
+    {
       "first_field_hash": "026365e2a74f5533dc1e1f7b11ee2b39f68a1ea91f8e75ff03c342d9e78bf7ca",
       "tags": [
         "JerryShen_AnKing_Tags::Cancer-Biology::Final::06-Role-of-Pathology-in-Cancer-Diagnosis::Class-Content"
@@ -4969,6 +5295,12 @@
       ]
     },
     {
+      "first_field_hash": "b5c33621731917b01b52f79f32f6b54b8b5c3b767731684abd8adde82da789ca",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::14-Bone-Pathophysiology::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "5559962ce4815a8b442b25fcbded975cd8e6527c5f002b490eddc469e4a6f4ca",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::12-Normal-Endocrine-Histology::Class-Content"
@@ -5009,6 +5341,12 @@
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::15-Pathophysiology-&-Treatment-of-Heart-Failure::Class-Content",
         "JerryShen_AnKing_Tags::SOM-2::Renal-Block::08-Diuretics"
+      ]
+    },
+    {
+      "first_field_hash": "5dcce7a6aa8868dfdde4ca59ae6b486a09e15c5437a5b863620428927d199ea2",
+      "tags": [
+        "JerryShen_AnKing_Tags::Micro-Pharm::Exam-2::08-Other-Antibiotics-&-Mycobacteria"
       ]
     },
     {
@@ -5082,6 +5420,12 @@
     },
     {
       "first_field_hash": "1beee4831234406bd505ba27dcc7987e781a78ae18269d600ce17e72bd8e05bc",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::11-GH-IGF1-&-Prolactin"
+      ]
+    },
+    {
+      "first_field_hash": "a28b71193c2010f1590fcea67086cddf5abef49dc36dbceb35c1824c1e852903",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::11-GH-IGF1-&-Prolactin"
       ]
@@ -5193,6 +5537,24 @@
       "first_field_hash": "4ab652c40e084b931159b09087ffe26b50a0088faacdadc4b8942e78b543f7c0",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::10-Neuroendocrinology"
+      ]
+    },
+    {
+      "first_field_hash": "92b2d2249725c9de27f6d2282b6df89a0fe1c09ea1031331518627eeb96d3e1a",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::14-Bone-Pathophysiology"
+      ]
+    },
+    {
+      "first_field_hash": "8ddae41d0868225023ecdeada5597311c53c3a87cb4a1bc6312d7e98249074a7",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::13-Obesity::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "ba8dcf2db36541456ef6d5a5a38f07260ff039f21ff4b0f2683f7b948483ca65",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::13-Obesity::Class-Content"
       ]
     },
     {
@@ -6181,15 +6543,100 @@
       ]
     },
     {
+      "first_field_hash": "f11273e11b7a5542c8ba8777ffc7a1201c176965058b9db8c69791521db69d64",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::14-Bone-Pathophysiology"
+      ]
+    },
+    {
+      "first_field_hash": "ad70e6efdeac93deb4d178956e8c4ccbb839e2a81db7e6b5064148d45ad1757d",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::14-Bone-Pathophysiology"
+      ]
+    },
+    {
+      "first_field_hash": "f88ad43f51fb1fd13a0379de99f0b55ee4d6629b1cdb9cb07b001af487be1205",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::14-Bone-Pathophysiology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "bf9b40c0fc6c89d7669f2de653e245cf45d25fe6ffcfafa810c272fced8f911b",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::14-Bone-Pathophysiology"
+      ]
+    },
+    {
+      "first_field_hash": "ee8efee36461460d562d09391732a16873e453d952b584afe1633c02ace16abd",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::14-Bone-Pathophysiology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "6fef72ab2065dafc8c26275a9d16ae83deaf37e3fe0b78ce7ae22c6aefd3bfad",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::14-Bone-Pathophysiology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "635eab7c7f44381151bd43097643051d7f6969c237c15724636d15dc17191a89",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::14-Bone-Pathophysiology"
+      ]
+    },
+    {
+      "first_field_hash": "f928bf9b52a819fe82707df01c15d80d611203d4e381b822cfbc25481a5f1c85",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::14-Bone-Pathophysiology",
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::14-Bone-Pathophysiology::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "16a356bb7a971eb72dd233f46b067b793440456f4ba6ab0961077991d693ee3d",
       "tags": [
         "JerryShen_AnKing_Tags::Molecular-Foundations-&-Genetics::02-Genetics::02-Pedigrees-&-Inheritance-Patterns"
       ]
     },
     {
+      "first_field_hash": "e05f931536981bf6b8da28545666d5d11434476993d4339469e6205f0fa3f862",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::14-Bone-Pathophysiology"
+      ]
+    },
+    {
       "first_field_hash": "6e774c1bf8d938ec7408a03144b7c37c211645881ef8276b92186697ab4bd7cd",
       "tags": [
         "JerryShen_AnKing_Tags::Molecular-Foundations-&-Genetics::02-Genetics::02-Pedigrees-&-Inheritance-Patterns"
+      ]
+    },
+    {
+      "first_field_hash": "2333e904ec74767abab24f5f81af9befd56ebcd7dd1ebadf6ca3eb004f45eff0",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::14-Bone-Pathophysiology"
+      ]
+    },
+    {
+      "first_field_hash": "8d4890a81a81ffc60edfa3ee1ff5207ff4f1ee88fd2747954f74fa4ccd9d1395",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::14-Bone-Pathophysiology"
+      ]
+    },
+    {
+      "first_field_hash": "95cfe3bc1495dc724daf0d6c5657984dca14c72dedd0c9fbcc8b1f5117c09646",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::14-Bone-Pathophysiology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "c104733484d7cf016e37609633c3505e2b24a3eab5785e417a1781f0510c15ce",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::14-Bone-Pathophysiology"
+      ]
+    },
+    {
+      "first_field_hash": "9ea3e13f26a49bc501e98d32f77fe6474a526d53c21d511aa23fd1ed2a7fe215",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::14-Bone-Pathophysiology::Class-Content"
       ]
     },
     {
@@ -6492,6 +6939,12 @@
       "first_field_hash": "86bd4e9f2646824da572de7b407cadf23091fa3981e7d1b08fb1a8ef9f6e92b0",
       "tags": [
         "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-4-Pelvis::Embryology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "1fddd7dfd2d1f2ccf709f1a265a4dfa06c9c5ab2e5203874ba4fc9b67af9559f",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::14-Bone-Pathophysiology"
       ]
     },
     {
@@ -11342,6 +11795,7 @@
     {
       "first_field_hash": "25e549ff3e72e74502c237f346d22a54ac4553b775b4e51c8b198103f9db884b",
       "tags": [
+        "JerryShen_AnKing_Tags::POM-4::Clinical-Reasoning::Approach-to-Palpitations::Class-Content",
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::09-Supraventricular-Tachycardia-&-Antiarrhythmics"
       ]
     },
@@ -12126,6 +12580,7 @@
     {
       "first_field_hash": "00ac373423e9b674c67ed4711960fa2a41888158a3671717f2b86dcc28d0e486",
       "tags": [
+        "JerryShen_AnKing_Tags::POM-4::Clinical-Reasoning::Approach-to-Palpitations::Class-Content",
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::09-Supraventricular-Tachycardia-&-Antiarrhythmics"
       ]
     },
@@ -14472,7 +14927,7 @@
       ]
     },
     {
-      "first_field_hash": "6ce4bb804ce25dbd5996e02cc674f519807f2c149f3064d4745de2b5119ce0b2",
+      "first_field_hash": "fe6f001d5802ffd5ca8a2813e643fe668898b00af13f1665985510741cd63f07",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::04-O2-and-CO2-Transport::Class-Content"
       ]
@@ -18495,7 +18950,8 @@
     {
       "first_field_hash": "5354d33fa7496ab57947ad401cf5ad84b0dfd3cacc42247210328650598b650e",
       "tags": [
-        "JerryShen_AnKing_Tags::POM-3::Clinical-Reasoning::Approach-to-Acute-Dyspnea"
+        "JerryShen_AnKing_Tags::POM-3::Clinical-Reasoning::Approach-to-Acute-Dyspnea",
+        "JerryShen_AnKing_Tags::POM-4::Clinical-Reasoning::Approach-to-Palpitations::Class-Content"
       ]
     },
     {
@@ -20709,6 +21165,7 @@
     {
       "first_field_hash": "b25e54e0bbb1d9d2f12ddac7530a8bcaf38e79f6b3bade7a427d22b4898ed910",
       "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::14-Bone-Pathophysiology::Class-Content",
         "JerryShen_AnKing_Tags::SOM-2::Renal-Block::12-Calcium-Magnesium-&-Phosphate-Regulation"
       ]
     },
@@ -21240,6 +21697,7 @@
     {
       "first_field_hash": "8a3ab426b98a351c2865fc28c1905dd7b705a9356409325afa83f8a0eefc9a9a",
       "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::14-Bone-Pathophysiology::Class-Content",
         "JerryShen_AnKing_Tags::SOM-2::Renal-Block::12-Calcium-Magnesium-&-Phosphate-Regulation",
         "JerryShen_AnKing_Tags::SOM-2::Renal-Block::12-Calcium-Magnesium-&-Phosphate-Regulation::Class-Content"
       ]
@@ -21253,8 +21711,15 @@
     {
       "first_field_hash": "9bd4506be80369d529270bbddf2150e22d88794f1066c9b66fa379572d799300",
       "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::14-Bone-Pathophysiology::Class-Content",
         "JerryShen_AnKing_Tags::SOM-2::Renal-Block::12-Calcium-Magnesium-&-Phosphate-Regulation",
         "JerryShen_AnKing_Tags::SOM-2::Renal-Block::12-Calcium-Magnesium-&-Phosphate-Regulation::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "e9ecdfecee91999079bac2a2deeac116d7d5c1b21007e8621cf64e9fead73617",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::14-Bone-Pathophysiology"
       ]
     },
     {
@@ -21287,6 +21752,12 @@
       "first_field_hash": "8b6917d1b340291475cb56659b354639d422acb2aad54d8025038a331256ce34",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Renal-Block::08-Diuretics::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "37444e82452a547335adc80ded3524f7657a8e54585e22f5b60d3aa754e49939",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::14-Bone-Pathophysiology::Class-Content"
       ]
     },
     {
@@ -22583,6 +23054,30 @@
       ]
     },
     {
+      "first_field_hash": "19bb869db8db801697e4b9d641cc7dcf1b56ecfbcbe9e7d5ec0790f79bfd6750",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::14-Bone-Pathophysiology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "64ec179105f29973f6e91af9d7aa756d4c03abcde8bf01dd96f9a8390008e851",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::14-Bone-Pathophysiology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "fd56aa288ff46d72446d66aabba63c6f955bcb9c6b3f11289bca18a6091db829",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::14-Bone-Pathophysiology"
+      ]
+    },
+    {
+      "first_field_hash": "cec164e3657eaf21dbf1219ea5e2a7354e93b0b709e12b5b321a850854ffda11",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::14-Bone-Pathophysiology::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "dafc3b4924f816efe140eb080b4ce2f66d1e943ae3f3f5e7a89296d5574ce607",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Renal-Block::15-Renal-&-Bladder-Tumor-Pathology"
@@ -23331,6 +23826,12 @@
       ]
     },
     {
+      "first_field_hash": "dcf7167e4b200e7a2991407b690dbb645206e7b2b47fcef8c2e9b11d4be658a0",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::14-Bone-Pathophysiology"
+      ]
+    },
+    {
       "first_field_hash": "451742babd9eb184375a71be946b50308a19a0408c193e03fac36b79d05087e3",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Renal-Block::01-Introduction-to-Renal-Physiology"
@@ -23370,6 +23871,12 @@
       "first_field_hash": "60ed6a31b22b159584f86477fd0f9fa456bc34837a54ae81d2a58ed0d7d4e38b",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::06-Hypertrophy-and-Bundle-Branch-Block::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "eed62156700e425c7660a6b719d67c8e5e317b023d9b2f288516efa7472d9139",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::14-Bone-Pathophysiology::Class-Content"
       ]
     },
     {
@@ -24571,7 +25078,8 @@
     {
       "first_field_hash": "c8393d03075d7be3dc4def300394aa317d1f6387a03c8d1533db2bb2b7c9cd67",
       "tags": [
-        "JerryShen_AnKing_Tags::Biochemistry::Final::05-Nitrogen-Metabolism::Class-Content"
+        "JerryShen_AnKing_Tags::Biochemistry::Final::05-Nitrogen-Metabolism::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::14-Bone-Pathophysiology::Class-Content"
       ]
     },
     {
@@ -25988,6 +26496,12 @@
       ]
     },
     {
+      "first_field_hash": "ea774e0ce2ccd6fd04a85959ee8837f66d23f2dd12b2f8274cf0efec1f055daa",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::14-Bone-Pathophysiology::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "bd89f126a57561f7bf1bdad80efca0e7993019911e7464e31e7c5c17bfc50a85",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Renal-Block::12-Calcium-Magnesium-&-Phosphate-Regulation"
@@ -26002,12 +26516,50 @@
     {
       "first_field_hash": "d0756b58b81fc1c24d72dd792621e1634ace1853a6c30e4f07f3b9a55d8cb844",
       "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::14-Bone-Pathophysiology::Class-Content",
         "JerryShen_AnKing_Tags::SOM-2::Renal-Block::12-Calcium-Magnesium-&-Phosphate-Regulation"
+      ]
+    },
+    {
+      "first_field_hash": "db4bcd43457f5c3d90e1fa570b23700d161c789613ef082fbc73ad8ce8199f57",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::14-Bone-Pathophysiology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "11cd6758957dd1418a021f4c319f8431dfb9e093efa51532071edef4fae1c711",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::14-Bone-Pathophysiology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "31b8df7d1ec9446036b08c8c5319fe7b1d306879ddde39b6d3dcf846fe2d8dc9",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::14-Bone-Pathophysiology"
+      ]
+    },
+    {
+      "first_field_hash": "5392657f812d22752dea2b6f823cd9db9787a565136e04b28f8bfb1d2c4b25ba",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::14-Bone-Pathophysiology"
+      ]
+    },
+    {
+      "first_field_hash": "cbf4b41daaf9cb6deb4bad1c78ae5422994360550d55ffebf59b94e8ccb0fcb4",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::14-Bone-Pathophysiology"
+      ]
+    },
+    {
+      "first_field_hash": "7155c5e6e764b53d1e88f5c6054494f69fc9cf0f5adef4f4bffeb44acdea24f4",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::14-Bone-Pathophysiology"
       ]
     },
     {
       "first_field_hash": "272ff63aa2f850f2f1ad0fb73b5e80c6e2565d2e5dd03d4dfb7bc8999aa1eff8",
       "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::14-Bone-Pathophysiology::Class-Content",
         "JerryShen_AnKing_Tags::SOM-2::Renal-Block::12-Calcium-Magnesium-&-Phosphate-Regulation"
       ]
     },
@@ -27119,6 +27671,13 @@
       ]
     },
     {
+      "first_field_hash": "2211626fea691c89dd6eab4c2e655a157ff7fb997f0cc28900d1a6904fee7a62",
+      "tags": [
+        "JerryShen_AnKing_Tags::POM-4::Clinical-Reasoning::Approach-to-Palpitations",
+        "JerryShen_AnKing_Tags::POM-4::Clinical-Reasoning::Approach-to-Palpitations::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "2f44cc3947fa5b2186c0041c60f88244ddb16938063fb72c259d2492ed82d534",
       "tags": [
         "JerryShen_AnKing_Tags::POM-3::Clinical-Reasoning::Approach-to-Chronic-Dyspnea"
@@ -27128,7 +27687,7 @@
       "first_field_hash": "2a031d845d81d8519144d4178eb3dd043b6971de8122ecb98beca67bf6153b2a",
       "tags": [
         "JerryShen_AnKing_Tags::(✏️)-Tagged-by-Jerry-Shen",
-        "JerryShen_AnKing_Tags::(🛠️)-Last-Updated-09142026",
+        "JerryShen_AnKing_Tags::(🛠️)-Last-Updated-09152026",
         "JerryShen_AnKing_Tags::(🧋)-buymeacoffee.com/ger1atric",
         "JerryShen_AnKing_Tags::Biochemistry::Final::02-Oxidative-Phosphorylation::Class-Content"
       ]
@@ -27155,6 +27714,12 @@
       "first_field_hash": "97856865b3f40abdedfe12f50887630d72fa28c20c44618a26003bad6bf9443e",
       "tags": [
         "JerryShen_AnKing_Tags::Biochemistry::Final::02-Oxidative-Phosphorylation"
+      ]
+    },
+    {
+      "first_field_hash": "b405bae74cafb3039461c1d667554dc78a4a33be15553dbc1fe77e95bcbe2272",
+      "tags": [
+        "JerryShen_AnKing_Tags::POM-4::Clinical-Reasoning::Approach-to-Palpitations"
       ]
     },
     {
@@ -31525,7 +32090,8 @@
     {
       "first_field_hash": "0401f60d377c136d4175f045477885c6564e3bb54d7fdfe5ad1631c08855f370",
       "tags": [
-        "JerryShen_AnKing_Tags::Neurobiology::Exam-3::Tutorial-7-Affective-and-Cognitive-Systems::Class-Content"
+        "JerryShen_AnKing_Tags::Neurobiology::Exam-3::Tutorial-7-Affective-and-Cognitive-Systems::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::13-Obesity"
       ]
     },
     {
@@ -32776,9 +33342,41 @@
       ]
     },
     {
+      "first_field_hash": "a3fc48eed2c933a02ae3ee84328d1ee9f08ce5ff3ea7adb7095d36507942c203",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::13-Obesity",
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::13-Obesity::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "d2441e57ad01eac918f5ef6efbf68abbbcc37ce26ad7e40c0424d50bb8e9e2f4",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::13-Obesity"
+      ]
+    },
+    {
       "first_field_hash": "980c499039217784412b56436a12f2899be71f1929e19af05307f74a82493a69",
       "tags": [
         "JerryShen_AnKing_Tags::Molecular-Foundations-&-Genetics::02-Genetics::06-Complex-Inheritance-Patterns"
+      ]
+    },
+    {
+      "first_field_hash": "145cb2c781111578a76d2d9e2c75f481eb4048e3849f9a97babf99177581ffa8",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::13-Obesity"
+      ]
+    },
+    {
+      "first_field_hash": "75f9c30737f722b1800bbe61c4fcac6312b279d409bb887e31a13ba0ba56afb6",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::13-Obesity",
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::13-Obesity::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "22a2c7eaf6a88b80e6a49937be6388bab530d2bb5662b89c743d5232b7a7ae5e",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::13-Obesity::Class-Content"
       ]
     },
     {
@@ -33289,6 +33887,12 @@
       "first_field_hash": "419c1da4db9d19271a9e82d31ac9c4c8573ca2091fb90d220a800173ebc62124",
       "tags": [
         "JerryShen_AnKing_Tags::Cancer-Biology::Final::Lab-01-Cancer-Case-Studies"
+      ]
+    },
+    {
+      "first_field_hash": "c5c4742140c7b5bd27471c5744ff8f1d127a28d051b2da8738852ff37aa2b355",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::13-Obesity::Class-Content"
       ]
     },
     {
@@ -35161,7 +35765,8 @@
     {
       "first_field_hash": "9d8016349dda88697a50dee73b9a8193a4290c3c86ae6270ae05c717dbe6edb2",
       "tags": [
-        "JerryShen_AnKing_Tags::POM-3::Psychiatry::Psychiatric-Interview"
+        "JerryShen_AnKing_Tags::POM-3::Psychiatry::Psychiatric-Interview",
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::13-Obesity::Class-Content"
       ]
     },
     {
@@ -35440,6 +36045,24 @@
       "first_field_hash": "072531e221bd57f83175312e3ebad8d6b2e7c5e907edf062ae6a60d5027455bb",
       "tags": [
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-2::06-Antivirals"
+      ]
+    },
+    {
+      "first_field_hash": "8cb1933633d7e34c8e76a6c23adc85e640e16c1a48a1e64321a9e34ed4e55e01",
+      "tags": [
+        "JerryShen_AnKing_Tags::POM-4::Clinical-Reasoning::Approach-to-Palpitations::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "f4fd6db789b1e2d053d5bb46091abcc4cd7cd55acc0ab8840ef6b7550bb4fb2f",
+      "tags": [
+        "JerryShen_AnKing_Tags::POM-4::Clinical-Reasoning::Approach-to-Palpitations::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "4f37880ed3e8c467ae14b8f6911918f8110794df87a53b2bf62d20bd3aebefb7",
+      "tags": [
+        "JerryShen_AnKing_Tags::POM-4::Clinical-Reasoning::Approach-to-Palpitations::Class-Content"
       ]
     },
     {
@@ -35856,6 +36479,12 @@
       "first_field_hash": "3863ec7f9db76782e3584c592eeecf58074d463a7acfffbd1f42288d5ad0c7f9",
       "tags": [
         "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-3-Abdomen::Anatomy::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "c3331daf7509c7298c1261741bc3d87ebe6059f4f6ad741b9b7bc549175bb923",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::13-Obesity::Class-Content"
       ]
     },
     {
@@ -37470,7 +38099,7 @@
       ]
     },
     {
-      "first_field_hash": "ab3e853a8c73228c3289e60401ea64fa02947079f208e78c6bed203c904d2e23",
+      "first_field_hash": "5606cca41626dd71949d08a369c86e017cc85721cae8962ed058f4f472433577",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Renal-Block::14-Kidney-Histology"
       ]
@@ -38182,6 +38811,24 @@
       ]
     },
     {
+      "first_field_hash": "1cef729cc1ef9e12ec0502f8107778e3787d0b63d8d2514e5de80558010514e9",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::14-Bone-Pathophysiology"
+      ]
+    },
+    {
+      "first_field_hash": "305b3c3625f99884a9314985059d831d03ce284a6d9030416d62a5e61289ff35",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::14-Bone-Pathophysiology"
+      ]
+    },
+    {
+      "first_field_hash": "490dc0da86d6d0218f8a33a36b86cc23ed69d04bbe5efee4d66ba04f662d4310",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::14-Bone-Pathophysiology"
+      ]
+    },
+    {
       "first_field_hash": "69d1902a263d82d3705a8ec39603772f1a18cc1e898d62bd7c0889cc9d78504e",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::MSK-Block::09-Geriatric-Orthopedics::Class-Content"
@@ -38203,6 +38850,12 @@
       "first_field_hash": "af356b0a4836c2c20989a1232417cbb23aa2f1e2b9f46521a4ce5a9dbcdea56e",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::MSK-Block::09-Geriatric-Orthopedics::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "e7b962d98adcc5d7e74955267fe3687c7bb49658e4e169cf721f4dc936fe9ee1",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::14-Bone-Pathophysiology"
       ]
     },
     {
@@ -39046,13 +39699,15 @@
     {
       "first_field_hash": "7e212ab281686c8c346c682124b3c7d06f580d08bade244b3edbfa6da02ac8a8",
       "tags": [
-        "JerryShen_AnKing_Tags::POM-3::Clinical-Reasoning::Approach-to-Acute-Dyspnea::Class-Content"
+        "JerryShen_AnKing_Tags::POM-3::Clinical-Reasoning::Approach-to-Acute-Dyspnea::Class-Content",
+        "JerryShen_AnKing_Tags::POM-4::Clinical-Reasoning::Approach-to-Palpitations::Class-Content"
       ]
     },
     {
       "first_field_hash": "00a9085a2be8e423d7bca30f6fefef3e23bd08f3151bd53f909ba49d804391ef",
       "tags": [
-        "JerryShen_AnKing_Tags::POM-3::Clinical-Reasoning::Approach-to-Acute-Dyspnea::Class-Content"
+        "JerryShen_AnKing_Tags::POM-3::Clinical-Reasoning::Approach-to-Acute-Dyspnea::Class-Content",
+        "JerryShen_AnKing_Tags::POM-4::Clinical-Reasoning::Approach-to-Palpitations::Class-Content"
       ]
     },
     {
@@ -39065,6 +39720,12 @@
       "first_field_hash": "cefd611eaac24d29fde347cdae459f6c3426fe90183563fb536f96bb8c797755",
       "tags": [
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-2::10-Biologics-Ectoparasites-&-Clinical-Cases"
+      ]
+    },
+    {
+      "first_field_hash": "57ac79119e62e43a744042444b3140c60a292f2121a65607458ce45b3ed42138",
+      "tags": [
+        "JerryShen_AnKing_Tags::POM-4::Clinical-Reasoning::Approach-to-Palpitations::Class-Content"
       ]
     },
     {
@@ -40553,15 +41214,69 @@
       ]
     },
     {
+      "first_field_hash": "ca36fc7b86e2e9f55af8d7db2b5f02aca465422209606bce7e9bb50164a66ea5",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::14-Bone-Pathophysiology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "2c7ad9809525ce34a5bbcc3abb481ef36c930b277c8a4a3e55d730c7f1a88bb2",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::14-Bone-Pathophysiology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "3b0da697715adafff0990cdc2fe1db7d523b38e7385bce2812f078af58d9dce5",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::14-Bone-Pathophysiology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "d15d13316970533058c0a537ce609e0fb0667af816a8cb81b5102a2014e4b837",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::14-Bone-Pathophysiology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "448c1c4a4074a87566009dc7569d9872493d42e142d1485e90191dcc56b7632c",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::14-Bone-Pathophysiology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "8fcd14bc66a9add47c9810ef9b3243d0b73c3ea3e0ba7f9cd73387c7b8168f23",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::14-Bone-Pathophysiology"
+      ]
+    },
+    {
       "first_field_hash": "11a6100b445688f2d51f7c6788d671110940237e6ccc5f2660ae347613e518fb",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::MSK-Block::09-Geriatric-Orthopedics::Class-Content"
       ]
     },
     {
+      "first_field_hash": "ab65271d8927fca65ca43a48185c31535bbdc59241996f136c0d93f681dd67a2",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::14-Bone-Pathophysiology"
+      ]
+    },
+    {
       "first_field_hash": "0b3788e9bbba68b54d07174e5285d7ccfa767573bb9aa8cb927b81ead8b06b26",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Renal-Block::12-Calcium-Magnesium-&-Phosphate-Regulation::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "c3f5b1d6026aa8cee6e53b4c4d25f8ea9ab2e59565191d6979635ab873a90b73",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::14-Bone-Pathophysiology"
+      ]
+    },
+    {
+      "first_field_hash": "296e0f3894cff388bd689933a0d5748202eb7d76708b19cdf857fc330e5952b8",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::14-Bone-Pathophysiology"
       ]
     },
     {
@@ -40574,6 +41289,12 @@
       "first_field_hash": "5b2bcb030b49faeee18d1e9093b3a7416c0e1949b936fe321ea7534c632d380f",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Renal-Block::12-Calcium-Magnesium-&-Phosphate-Regulation"
+      ]
+    },
+    {
+      "first_field_hash": "9debfb5077c3521bbbd3d72e67ccde07d90c8fba369349ac6c63f2e08857a896",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::14-Bone-Pathophysiology"
       ]
     },
     {
@@ -40646,7 +41367,8 @@
     {
       "first_field_hash": "f99624f8f731eb6615a1863d1184c74a7fec7e7a2c46acad9172fdaa7f793f1a",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::07-Type-2-Diabetes::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::07-Type-2-Diabetes::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::13-Obesity::Class-Content"
       ]
     },
     {
@@ -40924,6 +41646,12 @@
       "first_field_hash": "6b28dde308203eed27c4753fb9a94c404a2ae359da5fd22d3aafc9d35c40520e",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::26-Pulmonary-Cases-&-Miscellaneous-Diseases::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "d798e17d9e4b833ed4adee6b3fce5f876450cd0d2da5af674e83c5521d32df37",
+      "tags": [
+        "JerryShen_AnKing_Tags::POM-4::Clinical-Reasoning::Approach-to-Palpitations::Class-Content"
       ]
     },
     {
@@ -42224,6 +42952,12 @@
       ]
     },
     {
+      "first_field_hash": "9287e0d8e8e494a34455cdae4bee9bf336a1dc6f6e6e8a318adb89b6166ae4b9",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::09-Metabolic-Acidosis-&-Alkalosis"
+      ]
+    },
+    {
       "first_field_hash": "b26936acbd4b5e3dce123787c4d2bcbe68b0b2c65ed0f5a8175cb2c1c9f26e6b",
       "tags": [
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-2::08-Other-Antibiotics-&-Mycobacteria"
@@ -42627,6 +43361,12 @@
       ]
     },
     {
+      "first_field_hash": "1b9fdfdd2c5e149cb283b138e1c82086b254b378ca836b1a40dae791537292ba",
+      "tags": [
+        "JerryShen_AnKing_Tags::POM-4::Clinical-Reasoning::Approach-to-Palpitations::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "faa2356e7b2a4caa01864f58d9b17ca766406058693eff084d18bc24aee63463",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::37-Inflammatory-Heart-Disease::Class-Content"
@@ -42635,6 +43375,7 @@
     {
       "first_field_hash": "3f39753ba41705fd553fcabb9e67f81a4039681330f4fc3939c5ee6371ef352c",
       "tags": [
+        "JerryShen_AnKing_Tags::POM-4::Clinical-Reasoning::Class-Content",
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::09-Supraventricular-Tachycardia-&-Antiarrhythmics::Class-Content"
       ]
     },
@@ -42673,6 +43414,12 @@
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::10-Autonomic-Physiology-and-Pharmacology",
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::15-Pathophysiology-&-Treatment-of-Heart-Failure::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "cf476c43ac4889a33e71d1119e57c5d094477af5a5f86606da4be91c2af5aac1",
+      "tags": [
+        "JerryShen_AnKing_Tags::POM-4::Clinical-Reasoning::Approach-to-Palpitations"
       ]
     },
     {
@@ -42752,6 +43499,7 @@
     {
       "first_field_hash": "3cee8b15e5fca5f2131531863ea067c87b2111575c8b9c9126028ef586720565",
       "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::14-Bone-Pathophysiology::Class-Content",
         "JerryShen_AnKing_Tags::SOM-2::Renal-Block::11-Potassium-Disorders"
       ]
     },
@@ -43129,7 +43877,8 @@
     {
       "first_field_hash": "4fdf459caa3db5d893923fa5c53bf42ba5f29c7e6785fa3b88b4feacd0bbc936",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-1::MSK-Block::01-Introduction-to-MSK"
+        "JerryShen_AnKing_Tags::SOM-1::MSK-Block::01-Introduction-to-MSK",
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::14-Bone-Pathophysiology::Class-Content"
       ]
     },
     {
@@ -43141,7 +43890,8 @@
     {
       "first_field_hash": "a6ef0f81b311350365e098701432c544087f0c63e3f2b51a51ff8c33c0f6e0df",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-1::MSK-Block::01-Introduction-to-MSK"
+        "JerryShen_AnKing_Tags::SOM-1::MSK-Block::01-Introduction-to-MSK",
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::14-Bone-Pathophysiology::Class-Content"
       ]
     },
     {
@@ -43331,6 +44081,7 @@
     {
       "first_field_hash": "1e93524d96fb0914ed5a5dfb7c95dec65fdf1879e7ec5a73214a96e336d0fe38",
       "tags": [
+        "JerryShen_AnKing_Tags::POM-4::Clinical-Reasoning::Approach-to-Palpitations::Class-Content",
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::09-Supraventricular-Tachycardia-&-Antiarrhythmics"
       ]
     },
@@ -44854,6 +45605,12 @@
       ]
     },
     {
+      "first_field_hash": "1515f37361d640a04954eef812b3b35752e03e7e14ecd66d85b383d15226691f",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::14-Bone-Pathophysiology::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "1fe3e92197cd729c35c55d1630439b6918a02225c963046f15bb921ba3187f83",
       "tags": [
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-2::09-Misc-Antimicrobials-&-Skin-Infections::Class-Content"
@@ -45239,6 +45996,7 @@
     {
       "first_field_hash": "e9f04b4ef567cfe544f175651450b7e127634067e6ca56bdee894619a5fa7253",
       "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::14-Bone-Pathophysiology::Class-Content",
         "JerryShen_AnKing_Tags::SOM-2::Renal-Block::12-Calcium-Magnesium-&-Phosphate-Regulation::Class-Content"
       ]
     },
@@ -45246,6 +46004,12 @@
       "first_field_hash": "d8f69c60dc5dd07cee3b3498ce483f251ec0247e017ce2ba2182083721e8b16a",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::10-Neuroendocrinology"
+      ]
+    },
+    {
+      "first_field_hash": "5bb22fe6d020b7e2d4f6a186218a288ccb2686c7ccb080fe6d0858ae0f480ea4",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::14-Bone-Pathophysiology::Class-Content"
       ]
     },
     {
@@ -45343,9 +46107,21 @@
       ]
     },
     {
+      "first_field_hash": "2b366c635614622ec559d9d4aa17a4afeaf29c1dbf4acf31c9fba2b5b22b56ce",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::14-Bone-Pathophysiology"
+      ]
+    },
+    {
       "first_field_hash": "00be7099cc9e129ae35f24203cb8e913d8f79af04f787b68323b01af501b922a",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::10-Neuroendocrinology"
+      ]
+    },
+    {
+      "first_field_hash": "9563cfd9e8161256e6f84adeaaa8bc76850ad978ec3ed099b69e6fa3b93fbf7f",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::14-Bone-Pathophysiology"
       ]
     },
     {
@@ -46189,6 +46965,12 @@
       ]
     },
     {
+      "first_field_hash": "56047657c49c9d194a26aab5f97787dd2cb23a988cc3fd0a348177851bccac7e",
+      "tags": [
+        "JerryShen_AnKing_Tags::POM-4::Clinical-Reasoning::Approach-to-Palpitations"
+      ]
+    },
+    {
       "first_field_hash": "22f818553d331698c0a26cbb0cb42026aa5528ae7fd9d5f018f255f698317c7f",
       "tags": [
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-2::07-β-Lactam-Antibiotics-&-Parasites::Class-Content"
@@ -46822,6 +47604,18 @@
       ]
     },
     {
+      "first_field_hash": "41656b9e24ee3d5af832d894d68683a4802ad53e24a23b24b75a40d29b00e21f",
+      "tags": [
+        "JerryShen_AnKing_Tags::Micro-Pharm::Exam-2::07-β-Lactam-Antibiotics-&-Parasites"
+      ]
+    },
+    {
+      "first_field_hash": "c7fcd0530797432c94653a4b102001341975110918a25f349054849ac4ae9257",
+      "tags": [
+        "JerryShen_AnKing_Tags::Micro-Pharm::Exam-2::07-β-Lactam-Antibiotics-&-Parasites"
+      ]
+    },
+    {
       "first_field_hash": "8c2af788e83af2a1877d2b164abe38d52a60a2474c08c97cd8a39ae90bbece4b",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::MSK-Block::05-Lower-Limb-Pathology::Class-Content"
@@ -47175,7 +47969,8 @@
     {
       "first_field_hash": "f4af23bd6eb4479c4de97b4334a9f0d70cb4e6c785dea5cccbcb95d6902ebf96",
       "tags": [
-        "JerryShen_AnKing_Tags::Micro-Pharm::Exam-2::08-Other-Antibiotics-&-Mycobacteria::Class-Content"
+        "JerryShen_AnKing_Tags::Micro-Pharm::Exam-2::08-Other-Antibiotics-&-Mycobacteria::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::14-Bone-Pathophysiology"
       ]
     },
     {
@@ -50442,7 +51237,8 @@
     {
       "first_field_hash": "f64f5edae330da77520bb03705a7c8841400fe585dbd83a4234e9c4e836d535d",
       "tags": [
-        "JerryShen_AnKing_Tags::POM-3::Psychiatry::Psychiatric-Interview"
+        "JerryShen_AnKing_Tags::POM-3::Psychiatry::Psychiatric-Interview",
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::13-Obesity"
       ]
     },
     {
@@ -52859,6 +53655,12 @@
       ]
     },
     {
+      "first_field_hash": "088455d8c187100527d762c6ebb149aa39a8e7a892831776a88363e077cfedcc",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::14-Bone-Pathophysiology::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "ee0ee423594aa62397b49fd528e3a0a706755a146cc504b9938fd29fece72923",
       "tags": [
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-2::06-Antivirals::Class-Content"
@@ -54869,6 +55671,7 @@
     {
       "first_field_hash": "0c2d908b007fd5f4bd0214cd510f58bb2cdf78804482897f1e7e5bc20fd7e4d0",
       "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::14-Bone-Pathophysiology::Class-Content",
         "JerryShen_AnKing_Tags::SOM-2::Renal-Block::12-Calcium-Magnesium-&-Phosphate-Regulation"
       ]
     },
@@ -55392,7 +56195,8 @@
     {
       "first_field_hash": "fbc01c410aee5f529778dbefd79d0ea785654e2d5e206ba2abf4a742c61f1282",
       "tags": [
-        "JerryShen_AnKing_Tags::POM-3::Psychiatry::Psychiatric-Interview"
+        "JerryShen_AnKing_Tags::POM-3::Psychiatry::Psychiatric-Interview",
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::13-Obesity"
       ]
     },
     {
@@ -55467,6 +56271,12 @@
       "first_field_hash": "ae31bad51df60b7f79eea705e17540ff4a289994d490d645aca6ee60b6e6bed6",
       "tags": [
         "JerryShen_AnKing_Tags::Molecular-Foundations-&-Genetics::02-Genetics::03-Chromosomes"
+      ]
+    },
+    {
+      "first_field_hash": "88f92183aff9ef580c71b727a641e1289409d08447a33f17c5051907bd577011",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::14-Bone-Pathophysiology"
       ]
     },
     {
@@ -55741,6 +56551,12 @@
       "first_field_hash": "c5ca35a306c06c75b8dbcc44a4c38a23a2a831df2a5abd82adff489f25f23731",
       "tags": [
         "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-3-Abdomen::Embryology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "406afaabd2aa7be41ec79b70a967bb73bc5d54d4faad15ca3279cabf64e3413c",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::13-Obesity"
       ]
     },
     {
@@ -56413,6 +57229,12 @@
       ]
     },
     {
+      "first_field_hash": "d05da31e10652611b2cb92fdc5e0068e934c2954d33df75ee09fff98fdb0247b",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::14-Bone-Pathophysiology"
+      ]
+    },
+    {
       "first_field_hash": "282cfbb720f67eb1fc1a9ebe4f19ee9a3fac7da142de575f8d5c3d4159834a29",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::22-Respiratory-Tract-Case-Studies"
@@ -56828,6 +57650,18 @@
       "first_field_hash": "08b4bbc690d7bcd2209c70723a472f0c76c8abae1891b3b84d37ca8cc98df805",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::10-Autonomic-Physiology-and-Pharmacology"
+      ]
+    },
+    {
+      "first_field_hash": "e70580bafe0ab62987b29713739653c34a197d9fd746297d90e3f4fbec3f1050",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::06-Pathogenesis-&-Treatment-of-Type-1-Diabetes"
+      ]
+    },
+    {
+      "first_field_hash": "6b9be3d7e3f4cacf2eec240dcda47958bf3afd57d97305ac6b51156f3b555665",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::02-Glucose-Homeostasis-1"
       ]
     },
     {
@@ -58484,8 +59318,15 @@
       ]
     },
     {
+      "first_field_hash": "c7bd34a941d99f857f18fbc5a5a9cbe673aff39593f7006a7329aec90c86c870",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::14-Bone-Pathophysiology"
+      ]
+    },
+    {
       "first_field_hash": "2f381aac2b1d7c1eeba0c665014d7ada4763362b89771f86a27cfcc5036b0896",
       "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::14-Bone-Pathophysiology::Class-Content",
         "JerryShen_AnKing_Tags::SOM-2::Renal-Block::12-Calcium-Magnesium-&-Phosphate-Regulation"
       ]
     },
@@ -59128,6 +59969,12 @@
       ]
     },
     {
+      "first_field_hash": "b3097afd3365179c335ef6b826049c64c786e73e29039f2285eaefa2add314d7",
+      "tags": [
+        "JerryShen_AnKing_Tags::POM-4::Clinical-Reasoning::Approach-to-Palpitations"
+      ]
+    },
+    {
       "first_field_hash": "48b3a1c67d2807f0964f7f36967cc556bfddad7a68e98c9dc48d859c9651df48",
       "tags": [
         "JerryShen_AnKing_Tags::Neurobiology::Exam-2::Tutorial-1-Cerebrum::Class-Content"
@@ -59275,7 +60122,8 @@
     {
       "first_field_hash": "ceec9a34e5306d324a373f7ae52261154d66754e0cd74ea60145278c94449f1d",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::04-Lipoproteins"
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::04-Lipoproteins",
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::13-Obesity::Class-Content"
       ]
     },
     {
@@ -59484,6 +60332,7 @@
     {
       "first_field_hash": "115a9d84f367d302b926d0db1a7e6765ffa935b00f26f1d6a8558481d0b6d495",
       "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::14-Bone-Pathophysiology::Class-Content",
         "JerryShen_AnKing_Tags::SOM-2::Renal-Block::12-Calcium-Magnesium-&-Phosphate-Regulation::Class-Content"
       ]
     },
@@ -59567,6 +60416,7 @@
     {
       "first_field_hash": "a36d13a2224c40444b9f1a3d5d67a6dcaa20f7142af3539ba63b5fa804250f40",
       "tags": [
+        "JerryShen_AnKing_Tags::POM-4::Clinical-Reasoning::Approach-to-Palpitations::Class-Content",
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::09-Supraventricular-Tachycardia-&-Antiarrhythmics"
       ]
     },
@@ -60500,6 +61350,7 @@
     {
       "first_field_hash": "d552fb5c8a3a4e3faa19ab5376de488422534c9c2250c5003964321a995af17c",
       "tags": [
+        "JerryShen_AnKing_Tags::POM-4::Clinical-Reasoning::Approach-to-Palpitations::Class-Content",
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::09-Supraventricular-Tachycardia-&-Antiarrhythmics::Class-Content"
       ]
     },
@@ -60569,7 +61420,14 @@
     {
       "first_field_hash": "b77da9a9d264f2e9334040467ef6a8e996a0260f68b8c443c6d4bcdee0c2f415",
       "tags": [
+        "JerryShen_AnKing_Tags::POM-4::Clinical-Reasoning::Approach-to-Palpitations::Class-Content",
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::05-The-Normal-ECG"
+      ]
+    },
+    {
+      "first_field_hash": "6f3295f4fac50ccf53557325e097dd5a1019872753c3dd13a054e0b5da78a2b0",
+      "tags": [
+        "JerryShen_AnKing_Tags::POM-4::Clinical-Reasoning::Approach-to-Palpitations::Class-Content"
       ]
     },
     {
@@ -60641,6 +61499,12 @@
       ]
     },
     {
+      "first_field_hash": "b31ca2eb9e2b6d84a36d6cc75a495a0882f602b3bd27e32569a3d55fd6392e84",
+      "tags": [
+        "JerryShen_AnKing_Tags::POM-4::Clinical-Reasoning::Approach-to-Palpitations::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "e249cbea667ec8543227b2120c8051b7e01fb9a6d31fe15ba95ac10745f3479a",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::05-Ventilation-Perfusion-Relationships"
@@ -60692,6 +61556,7 @@
     {
       "first_field_hash": "3062f681af41b292abaeb13fd2b0ece9d654ad722d99e46bc1805908541bf59e",
       "tags": [
+        "JerryShen_AnKing_Tags::POM-4::Clinical-Reasoning::Approach-to-Palpitations",
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::08-Fast-Rhythm-Arrhythmias"
       ]
     },
@@ -60730,6 +61595,8 @@
     {
       "first_field_hash": "4e21657a3fb2b116daf46cb64ff9590af822c77f0cf4abe00dc634e6212d6947",
       "tags": [
+        "JerryShen_AnKing_Tags::POM-4::Clinical-Reasoning::Approach-to-Palpitations",
+        "JerryShen_AnKing_Tags::POM-4::Clinical-Reasoning::Approach-to-Palpitations::Class-Content",
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::09-Supraventricular-Tachycardia-&-Antiarrhythmics::Class-Content"
       ]
     },
@@ -60783,6 +61650,12 @@
       "first_field_hash": "515d37333ad7a4f6a691cde788a0d21fc0d915a24693f79055146b4eb52760e1",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::08-Fast-Rhythm-Arrhythmias"
+      ]
+    },
+    {
+      "first_field_hash": "c4eee2c49b61b9898bfdc0572bda54d0a115798f3603a8ff499622d11a203187",
+      "tags": [
+        "JerryShen_AnKing_Tags::POM-4::Clinical-Reasoning::Approach-to-Palpitations"
       ]
     },
     {
@@ -61441,7 +62314,7 @@
       ]
     },
     {
-      "first_field_hash": "7629b38fe7172095fe8e48e20a647a4c7ec34087874983bacfd7f89af9cd60fa",
+      "first_field_hash": "0de1e7160434adf42c371f72cca3a4cbbeb6565907005a44e712cad9d4939a34",
       "tags": [
         "JerryShen_AnKing_Tags::POM-3::Clinical-Reasoning::Approach-to-Shock"
       ]
@@ -61472,6 +62345,12 @@
       ]
     },
     {
+      "first_field_hash": "771aa539202d7e14fc1b9d3019be2dbffd8d29a5550b876f8500472fedd8c996",
+      "tags": [
+        "JerryShen_AnKing_Tags::POM-4::Clinical-Reasoning::Approach-to-Palpitations::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "ce5fc8d3e2939e4d3bccac0d956319b7cfd1d1a0ded424208c13ce797398e615",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::08-Fast-Rhythm-Arrhythmias::Class-Content"
@@ -61498,12 +62377,14 @@
     {
       "first_field_hash": "6b7d16e98cc2e662b20314900c4df78f2ab5d4a180db557231383b05c4770ac3",
       "tags": [
+        "JerryShen_AnKing_Tags::POM-4::Clinical-Reasoning::Approach-to-Palpitations::Class-Content",
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::09-Supraventricular-Tachycardia-&-Antiarrhythmics"
       ]
     },
     {
       "first_field_hash": "c506af4b01557a673fce574dfb97a44c484df033b25db7cbb3dabba9f73f0e14",
       "tags": [
+        "JerryShen_AnKing_Tags::POM-4::Clinical-Reasoning::Approach-to-Palpitations::Class-Content",
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::09-Supraventricular-Tachycardia-&-Antiarrhythmics::Class-Content"
       ]
     },
@@ -62123,6 +63004,12 @@
       ]
     },
     {
+      "first_field_hash": "4c48be2de0ca6c4c81bbbd30cef8e033b6740f8a7feb005236140f2f4df56877",
+      "tags": [
+        "JerryShen_AnKing_Tags::POM-4::Clinical-Reasoning::Approach-to-Palpitations::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "16ca7397cc8693e26cd0cde4390718d68717a328a62b9f38ed1cfafe6749daf6",
       "tags": [
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-1::05-Intro-to-Fungi::Class-Content"
@@ -62190,6 +63077,7 @@
     {
       "first_field_hash": "bef52f673e128d1f6ea4154a312c114d27cf970144f6e8ec608cc03cc0fef89e",
       "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::14-Bone-Pathophysiology",
         "JerryShen_AnKing_Tags::SOM-2::Renal-Block::12-Calcium-Magnesium-&-Phosphate-Regulation"
       ]
     },
@@ -62203,6 +63091,12 @@
       "first_field_hash": "33df39c65614109118d84ad1a5917dd28366d50057184ad0849ea7b67c3ff121",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::26-Pulmonary-Cases-&-Miscellaneous-Diseases"
+      ]
+    },
+    {
+      "first_field_hash": "3da6b5f792ce953572d87c15a82d34128a75b741c75ceab6197753acb427a67b",
+      "tags": [
+        "JerryShen_AnKing_Tags::POM-4::Clinical-Reasoning::Approach-to-Palpitations::Class-Content"
       ]
     },
     {
@@ -62328,6 +63222,12 @@
       ]
     },
     {
+      "first_field_hash": "5fae54b7eca0a8d8c894db3782adcf6a7c3f232c12b1cbffd1b4b51ae825b416",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::13-Obesity"
+      ]
+    },
+    {
       "first_field_hash": "9aa3e62c69a800c76d1ac980e919a320157ad97b64c95acc0092071c1a55fe8c",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::09-Endocrinology-of-Growth::Class-Content"
@@ -62337,6 +63237,12 @@
       "first_field_hash": "c4f5f8bad855b11c697221dc6ece29e7da2e433110cf8381d560d92b7fc24cf1",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::MSK-Block::09-Geriatric-Orthopedics::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "a0774b76f74227f59648f68371468af653490ca78f7471b277c246fb8e085ad1",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::14-Bone-Pathophysiology"
       ]
     },
     {
@@ -62446,6 +63352,12 @@
       "first_field_hash": "0cb485b500c4528482e4e091d1c79b494359746c015a349d352ff13545a6383b",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::22-Peripheral-Arterial-&-Aortic-Disease"
+      ]
+    },
+    {
+      "first_field_hash": "bc64fdf3a25918932dcb3475e9132ed710fd75f947e2d7c6113ecfc1b712a376",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::14-Bone-Pathophysiology"
       ]
     },
     {
@@ -62573,6 +63485,7 @@
     {
       "first_field_hash": "85adddaadf01749adff1a92a12884c702e15e91b719b5c5f8ff78c61918230c2",
       "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::14-Bone-Pathophysiology::Class-Content",
         "JerryShen_AnKing_Tags::SOM-2::Renal-Block::12-Calcium-Magnesium-&-Phosphate-Regulation"
       ]
     },
@@ -62583,8 +63496,15 @@
       ]
     },
     {
+      "first_field_hash": "c3f16b74f253a30fce8904e7ae5313141f2b29e6b82c70713ce543b14f1b082d",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::14-Bone-Pathophysiology"
+      ]
+    },
+    {
       "first_field_hash": "ff464424df526b1cbf8e553f0acb34236e3626b185fd1e5170f5bc07e843f416",
       "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::14-Bone-Pathophysiology::Class-Content",
         "JerryShen_AnKing_Tags::SOM-2::Renal-Block::12-Calcium-Magnesium-&-Phosphate-Regulation::Class-Content"
       ]
     },
@@ -62605,6 +63525,12 @@
       "first_field_hash": "0cb41e8fbc2c4a1578a1bfe4f38f649f7d93ccc0c945e1e4b70cc65accc276f7",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::MSK-Block::04-Upper-Limb-Pathology"
+      ]
+    },
+    {
+      "first_field_hash": "240f5ebfc4db2b73e45d2492c750d38d783fca1169b8809a007842cbbd61b048",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::14-Bone-Pathophysiology::Class-Content"
       ]
     },
     {
@@ -62802,7 +63728,8 @@
     {
       "first_field_hash": "c6e70eb056afbc26031767c07d6b12534f25a1b659060f5fa09d5e7419a33a78",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::04-Pacemaker-Potential"
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::04-Pacemaker-Potential",
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::14-Bone-Pathophysiology"
       ]
     },
     {
@@ -62835,6 +63762,12 @@
       "first_field_hash": "e91f00b4152bf2e086f287b6555677089a2da7171d8a13b008ee7ad189fd7e47",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::18-Cystic-Fibrosis"
+      ]
+    },
+    {
+      "first_field_hash": "e89ebb1778b0e237121209f37b6b111a9a472d3a0e6f27e6e926827beabaf55f",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::14-Bone-Pathophysiology"
       ]
     },
     {
@@ -63382,6 +64315,12 @@
       ]
     },
     {
+      "first_field_hash": "982d0da32f9f62aebf610b94afa4589af17db9f5cb9d140626c9afac7a807ff1",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::14-Bone-Pathophysiology"
+      ]
+    },
+    {
       "first_field_hash": "13f9e5d42cac2ce4195cb4fdf95ff72336c2472340cf98c7d84dad67dc785044",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Renal-Block::16-Acute-Kidney-Injury"
@@ -63601,13 +64540,34 @@
     {
       "first_field_hash": "abdaee74fe96d101a32e6eaedeb20f5604fd18d23ce4e7e78155fd0a4b49d557",
       "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::14-Bone-Pathophysiology::Class-Content",
         "JerryShen_AnKing_Tags::SOM-2::Renal-Block::12-Calcium-Magnesium-&-Phosphate-Regulation"
+      ]
+    },
+    {
+      "first_field_hash": "e5e77fcac759e1063638497d0f384890fc28564d848821bbb2674ba5f753fa5e",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::14-Bone-Pathophysiology"
+      ]
+    },
+    {
+      "first_field_hash": "a3c992c1f00f57262db7dcfb747f56e7014842ba9e2a78b91f151247c054293a",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::14-Bone-Pathophysiology"
       ]
     },
     {
       "first_field_hash": "77b60133f305e24e43cb008edbb2e44f623d445a8cdd1ff3b26e63ff53839a98",
       "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::14-Bone-Pathophysiology",
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::14-Bone-Pathophysiology::Class-Content",
         "JerryShen_AnKing_Tags::SOM-2::Renal-Block::12-Calcium-Magnesium-&-Phosphate-Regulation"
+      ]
+    },
+    {
+      "first_field_hash": "d6c9f37deaeed54c2bc4e1d6d16790a7b9bd4161a1613afb975ec8ba96a1cd6a",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::14-Bone-Pathophysiology"
       ]
     },
     {
@@ -63781,6 +64741,12 @@
       ]
     },
     {
+      "first_field_hash": "db321359a7108e8ab58d1c98436fe635a89eb6d3c1d2fd34858c56f4e8dfc0fc",
+      "tags": [
+        "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-1-Thorax::Embryology"
+      ]
+    },
+    {
       "first_field_hash": "4e95ab7fcb9061d684f79905d90deaf869b0a7a6f53c4e5f2ff686191b0ff89b",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::22-Peripheral-Arterial-&-Aortic-Disease",
@@ -63887,6 +64853,12 @@
       ]
     },
     {
+      "first_field_hash": "58ed4bb58395cf6f65665080a95df832979588bd733e6cd3149cf242a47dd9b4",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::13-Obesity"
+      ]
+    },
+    {
       "first_field_hash": "c06f6f2e5854651babe786da4bf40960a88baa52137a006ecf26555e174048ec",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::MSK-Block::09-Geriatric-Orthopedics::Class-Content"
@@ -63981,6 +64953,12 @@
       ]
     },
     {
+      "first_field_hash": "c1344cc5be8b29efcf3df90b83bb61c1a53434f1f55c686e7f516d1040b56e5e",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::13-Obesity"
+      ]
+    },
+    {
       "first_field_hash": "1525850167ee6eebfc122640ed53f13322e655c77e25096ec49976c245374c69",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::06-Intro-to-Lung-Histology::Class-Content",
@@ -64051,9 +65029,21 @@
       ]
     },
     {
+      "first_field_hash": "391bffc9255041495a6a78cd8d24afe8a9463cadea821851ff86753e18faa31e",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::13-Obesity::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "aeb8a5fe20a7276fe723fe21556da7f325dc822e2b0f69763b008b6aa0abc5a0",
       "tags": [
         "JerryShen_AnKing_Tags::POM-3::Geriatrics"
+      ]
+    },
+    {
+      "first_field_hash": "de3580e62ad425b756b46b7d970e148f06ccae417b793028f6e5e859a63e7efd",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::07-Type-2-Diabetes::Class-Content"
       ]
     },
     {
@@ -64093,9 +65083,22 @@
       ]
     },
     {
+      "first_field_hash": "3940d1e588ca7a77b39ab05f979339fd23d0d8bc6fa56fcb8667f3ccb59b24ad",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::13-Obesity",
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::13-Obesity::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "7d65bf276c83f018784e2e7a89d8c29c3c147ccf286de1b45cbf826ac3e1878a",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::11-GH-IGF1-&-Prolactin"
+      ]
+    },
+    {
+      "first_field_hash": "30bd2939845c19edb9afbacb108fab4999bba56f0e016ee053c84ec2540520df",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::14-Bone-Pathophysiology::Class-Content"
       ]
     },
     {
@@ -64140,6 +65143,12 @@
       "first_field_hash": "008b54930e6db83623894937b2c192d0f41a59828983db31eee68c5f2f0ce24d",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::16-Lower-Respiratory-Infections"
+      ]
+    },
+    {
+      "first_field_hash": "5fa2273219bee33b527271d48ae81b7b62dab9c5034494d85a3db698fbe0ae5e",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::14-Bone-Pathophysiology"
       ]
     },
     {
@@ -64553,6 +65562,12 @@
       ]
     },
     {
+      "first_field_hash": "73035561a90f3c4102ee6e824eca52597bb55d449e926f2ec184d438f638376e",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::13-Obesity"
+      ]
+    },
+    {
       "first_field_hash": "db0c17d08eab9e8469e4981adbddf3f2ef249465dceae6d08c488e9220ef7af6",
       "tags": [
         "JerryShen_AnKing_Tags::Biochemistry::Final::03-Lipid-Metabolism"
@@ -64658,7 +65673,8 @@
       "first_field_hash": "f3e47516cb435045dfff5c4aff6c836bfc4de65f17a96642dc2d2cac13f92e67",
       "tags": [
         "JerryShen_AnKing_Tags::Biochemistry::Final::03-Lipid-Metabolism",
-        "JerryShen_AnKing_Tags::Biochemistry::Final::05-Nitrogen-Metabolism"
+        "JerryShen_AnKing_Tags::Biochemistry::Final::05-Nitrogen-Metabolism",
+        "JerryShen_AnKing_Tags::POM-4::Clinical-Reasoning::Approach-to-Palpitations"
       ]
     },
     {
@@ -64929,6 +65945,12 @@
       ]
     },
     {
+      "first_field_hash": "f37e968db344a51916ff2df2936297f67d35317cd721c7998e33a206dfa8fa8c",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::07-Type-2-Diabetes"
+      ]
+    },
+    {
       "first_field_hash": "617f36b9769fa32c7679b3a2c8b186ef60c8e9457fe52b6950852fddaed318a5",
       "tags": [
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-1::03-C.diff-&-Pseudomonas"
@@ -65173,6 +66195,12 @@
       ]
     },
     {
+      "first_field_hash": "75523ac813ae9d3614d7a3510780fbbd261841b9deff7777afc000267b13cf25",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::13-Obesity::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "872c7bd11ff89b3d7c617bd59cd9d855b1fb611a26b8f0506e8e2603fd5c9b1b",
       "tags": [
         "JerryShen_AnKing_Tags::Neurobiology::Exam-2::Tutorial-1-Cerebrum::Class-Content"
@@ -65191,6 +66219,18 @@
       ]
     },
     {
+      "first_field_hash": "21fc0d944c54b0a7b9683d3c6531533affb38b26cc9a1c038bbd25c5c3e5c626",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::13-Obesity"
+      ]
+    },
+    {
+      "first_field_hash": "ea1d9cb96c724eda5cf0ff98f0df63a105225805cbda27ec0f3d7c3cd8c0876a",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::13-Obesity"
+      ]
+    },
+    {
       "first_field_hash": "e4dfe99ab22c5e364d40ea0d00a0e6c11be4e611f1fc2417055e0a80c4a5f7c5",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::07-Type-2-Diabetes::Class-Content"
@@ -65206,6 +66246,12 @@
       "first_field_hash": "935647336be7bd182eb3fc38c55388f878b60a0828c054c5a964798348f8f3f3",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::07-Type-2-Diabetes::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "87bff39cee7207a17340afe55eb6a73f74608bc7e9c82339d6049a1091a64b9e",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::13-Obesity::Class-Content"
       ]
     },
     {
@@ -65251,6 +66297,12 @@
       ]
     },
     {
+      "first_field_hash": "f9b70de68846a4563d9388537f83a3ee3d95dccd8b821a6703d92350c02bb2c6",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::14-Bone-Pathophysiology::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "39df79153a065f70011159776b454b62680f7dde32a89648a99a14d7f2f872d2",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::MSK-Block::05-Lower-Limb-Pathology"
@@ -65285,6 +66337,12 @@
       "first_field_hash": "65d4c588427e010d3aa10c96e125785b75aaa9ba9a515d0e9f09aea9f57e66c0",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::03-Glucose-Homeostasis-2"
+      ]
+    },
+    {
+      "first_field_hash": "c898575cebda1dbd22b9d0948a04eaeddca3faf81160b881aedd1cead740205c",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::07-Type-2-Diabetes"
       ]
     },
     {
@@ -65339,6 +66397,12 @@
       "first_field_hash": "146a2c70bc5a7d866872841ab614e6849e6f4de8990099c39e6a3851f62c297e",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::30-Lung-Cancer-Treatment"
+      ]
+    },
+    {
+      "first_field_hash": "d15eaf7386b7ce492c18f347f114bbd0aa0666911d372fd9a7062d5dd522a73c",
+      "tags": [
+        "JerryShen_AnKing_Tags::POM-4::Clinical-Reasoning::Approach-to-Palpitations::Class-Content"
       ]
     },
     {
@@ -65442,6 +66506,18 @@
       "first_field_hash": "491b498f6ab3c0c401a00c23023e3e5203cdd1f4e7595e7266ae1357da8940a2",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::04-O2-and-CO2-Transport::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "776c457502dc50f22685f34496fed9715b48b016d1d691c48a8d2463754a8c0f",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::14-Bone-Pathophysiology"
+      ]
+    },
+    {
+      "first_field_hash": "db5abc973069f3dbaba0e049c799acca7985211a72832923a4e61232e8cde4aa",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::14-Bone-Pathophysiology"
       ]
     },
     {
@@ -65575,7 +66651,8 @@
     {
       "first_field_hash": "2f31593178f6d660870eab9e8849aa19cdd4eab13170028758dbdeb24a848f39",
       "tags": [
-        "JerryShen_AnKing_Tags::POM-3::Psychiatry::Psychiatric-Interview"
+        "JerryShen_AnKing_Tags::POM-3::Psychiatry::Psychiatric-Interview",
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::13-Obesity"
       ]
     },
     {
@@ -65637,6 +66714,48 @@
       "first_field_hash": "fae524af10eac07942fb91660e91bc553bd2a2360cbdbffd468874233ad330a5",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::22-Peripheral-Arterial-&-Aortic-Disease"
+      ]
+    },
+    {
+      "first_field_hash": "046fff7c7dfa73006266e923740cc3c81cbc2b10b602b84c29691a7db78c0846",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::14-Bone-Pathophysiology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "c6bf3cfd96b691608ecfc9bc6b69b2b39127a574e9e02d20eb96a4fb4e6b9a0a",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::14-Bone-Pathophysiology"
+      ]
+    },
+    {
+      "first_field_hash": "494b291c0ae3e868a33c9fb0695fa229eca9b57a833edb124b57fab31eaae7e7",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::14-Bone-Pathophysiology"
+      ]
+    },
+    {
+      "first_field_hash": "766ed3d03a70ece677714a31e36f4d6ad3484096be54495a612124a69e5bfb7b",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::14-Bone-Pathophysiology"
+      ]
+    },
+    {
+      "first_field_hash": "2bebf7b1f9f607ab15861d7fbf86fdac3a1a4107d371e16261a17f57edf236a1",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::14-Bone-Pathophysiology"
+      ]
+    },
+    {
+      "first_field_hash": "1cb4a35e4afc466d6a75e386d42ccb9f033a3755e4c0250dd019a8e5fc39df2e",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::14-Bone-Pathophysiology"
+      ]
+    },
+    {
+      "first_field_hash": "f30d2d394e5880cb00d404b66a80934456752ea9492ee90f0ad358ae0ac8958d",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::14-Bone-Pathophysiology"
       ]
     },
     {
@@ -65775,6 +66894,12 @@
       ]
     },
     {
+      "first_field_hash": "448f4b915f07a10e76b7d23472f2ab5c48012f10f18a8ed54fc4e17a297fb7bd",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::13-Obesity::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "9ad39db82d255802053720c16feaea1728d23fa77f5c7b1244905b0901fba1c1",
       "tags": [
         "JerryShen_AnKing_Tags::Immunology::Final::Immune-Deficiencies::Class-Content"
@@ -65834,6 +66959,12 @@
       "first_field_hash": "a5a40cf80ff2f51a1728ba132e24287edbfcf70c21d69a0649ca5494730a2278",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::22-Peripheral-Arterial-&-Aortic-Disease::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "97108624b831e503a0780a450eeecac3814203ce2ceb01acebf6a4730dd6bcb4",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::14-Bone-Pathophysiology::Class-Content"
       ]
     },
     {
@@ -66100,6 +67231,7 @@
     {
       "first_field_hash": "53c12a16cec57d7e7d2ade134e39d1c0fbab4c414fa949242973d0d1d8f90481",
       "tags": [
+        "JerryShen_AnKing_Tags::POM-4::Clinical-Reasoning::Approach-to-Palpitations::Class-Content",
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::09-Supraventricular-Tachycardia-&-Antiarrhythmics::Class-Content"
       ]
     },
