@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
   "author": "JerryShen",
-  "description": "bone disease",
-  "created": "2026-09-17T19:16:43.307330+00:00",
-  "updated": "2026-09-17T19:16:43.307330+00:00",
+  "description": "uti's and kidney stones",
+  "created": "2026-09-21T18:31:35.843917+00:00",
+  "updated": "2026-09-21T18:31:35.843917+00:00",
   "tag_prefix": "JerryShen_AnKing_Tags",
   "tag_hierarchy": [
     "JerryShen_AnKing_Tags",
@@ -279,6 +279,8 @@
     "JerryShen_AnKing_Tags::POM-4::Clinical-Reasoning",
     "JerryShen_AnKing_Tags::POM-4::Clinical-Reasoning::Approach-to-Palpitations",
     "JerryShen_AnKing_Tags::POM-4::Clinical-Reasoning::Approach-to-Palpitations::Class-Content",
+    "JerryShen_AnKing_Tags::POM-4::Clinical-Reasoning::Approach-to-Polyuria",
+    "JerryShen_AnKing_Tags::POM-4::Clinical-Reasoning::Approach-to-Polyuria::Class-Content",
     "JerryShen_AnKing_Tags::POM-4::Clinical-Reasoning::Class-Content",
     "JerryShen_AnKing_Tags::POM-4::EMED-Procedures",
     "JerryShen_AnKing_Tags::POM-4::EMED-Procedures::Foley-NGTube-&-I&D",
@@ -484,6 +486,8 @@
     "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::14-Bone-Physiology::Class-Content",
     "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::15-Bone-Pathophysiology",
     "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::15-Bone-Pathophysiology::Class-Content",
+    "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::Tutorial-1-Bone",
+    "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::Tutorial-1-Bone::Class-Content",
     "JerryShen_AnKing_Tags::SOM-2::Renal-Block",
     "JerryShen_AnKing_Tags::SOM-2::Renal-Block::01-Introduction-to-Renal-Physiology",
     "JerryShen_AnKing_Tags::SOM-2::Renal-Block::01-Introduction-to-Renal-Physiology::Class-Content",
@@ -516,7 +520,11 @@
     "JerryShen_AnKing_Tags::SOM-2::Renal-Block::15-Renal-&-Bladder-Tumor-Pathology",
     "JerryShen_AnKing_Tags::SOM-2::Renal-Block::15-Renal-&-Bladder-Tumor-Pathology::Class-Content",
     "JerryShen_AnKing_Tags::SOM-2::Renal-Block::16-Acute-Kidney-Injury",
-    "JerryShen_AnKing_Tags::SOM-2::Renal-Block::16-Acute-Kidney-Injury::Class-Content"
+    "JerryShen_AnKing_Tags::SOM-2::Renal-Block::16-Acute-Kidney-Injury::Class-Content",
+    "JerryShen_AnKing_Tags::SOM-2::Renal-Block::17-Urinary-Tract-Infections",
+    "JerryShen_AnKing_Tags::SOM-2::Renal-Block::17-Urinary-Tract-Infections::Class-Content",
+    "JerryShen_AnKing_Tags::SOM-2::Renal-Block::18-Kidney-Stones",
+    "JerryShen_AnKing_Tags::SOM-2::Renal-Block::18-Kidney-Stones::Class-Content"
   ],
   "changelog": [
     {
@@ -800,6 +808,11 @@
       "date": "2026-09-17T19:16:43.307330+00:00",
       "message": "bone disease",
       "note_count": 267
+    },
+    {
+      "date": "2026-09-21T18:31:35.843917+00:00",
+      "message": "uti's and kidney stones",
+      "note_count": 201
     }
   ],
   "notes": [
@@ -1538,6 +1551,12 @@
       ]
     },
     {
+      "first_field_hash": "f7a2ff715656d583148ba185f514be35273aeb047ad7641a8385d542f36c0313",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::10-Neuroendocrinology"
+      ]
+    },
+    {
       "first_field_hash": "b1b92358526e873630b5da1948bbec886f1c609ed1ff92e13c440ee8eb96fd07",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::10-Neuroendocrinology"
@@ -2091,6 +2110,12 @@
       ]
     },
     {
+      "first_field_hash": "38963a34487e71d9f9aeb69fc719ca3fb214fbe657c6207df5b026eb11dc6863",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::10-Neuroendocrinology"
+      ]
+    },
+    {
       "first_field_hash": "9025051ef5f86e08a3aef0a4714b0854707ffc0fb298431ea1fe321786b116c9",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::10-Neuroendocrinology::Class-Content"
@@ -2118,6 +2143,12 @@
       "first_field_hash": "962837f8a149266bb4b7ef93810016a62e4a3f8ebcc857f90c71a462aefdd390",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::10-Neuroendocrinology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "d738eef2c7eb459146df9894bfde83d4e7eb84c989a89dca2bd62157afa9615c",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::10-Neuroendocrinology"
       ]
     },
     {
@@ -2860,9 +2891,22 @@
       ]
     },
     {
+      "first_field_hash": "1b1f20e07204897a3a9e7fbe61485967dbfa75877bc3b6f1ccf690da3522d565",
+      "tags": [
+        "JerryShen_AnKing_Tags::POM-4::Clinical-Reasoning::Approach-to-Polyuria::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::18-Kidney-Stones::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "908076b4182d547b8286def414118960bf39939f1dd1455469dc85dc313971ca",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Renal-Block::12-Calcium-Magnesium-&-Phosphate-Regulation::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "1d0550ccbc238841d20d7b0649ee10c730634e286afec1ed9803ec25da98ede8",
+      "tags": [
+        "JerryShen_AnKing_Tags::POM-4::Clinical-Reasoning::Approach-to-Polyuria::Class-Content"
       ]
     },
     {
@@ -3361,6 +3405,18 @@
       ]
     },
     {
+      "first_field_hash": "147a466f3067ca0b25b8322444c635d72e8a1661fcbb6d63b8cd77804816a658",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::18-Kidney-Stones"
+      ]
+    },
+    {
+      "first_field_hash": "8ec6c80103bb6207a0078dfb36751d29f5d849e631a2e282c586f90565ef2c2c",
+      "tags": [
+        "JerryShen_AnKing_Tags::POM-4::Clinical-Reasoning::Approach-to-Polyuria::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "7904eaecb151164bcc7fa2fa3942e7ae1e42ca4b3ef4eae639730c4f4906ddf3",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::14-Bone-Physiology"
@@ -3779,7 +3835,8 @@
       "first_field_hash": "367bcd5bcb7acf9f6b05b63daf8e615b2aa46cb9e253fed9b2e55507185fbaa6",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::27-Lung-Cancer",
-        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::Lung-Lab-3-Cancer-&-ILD"
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::Lung-Lab-3-Cancer-&-ILD",
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::10-Neuroendocrinology"
       ]
     },
     {
@@ -3798,6 +3855,12 @@
       "first_field_hash": "84143ba8e3c3b8a7397d59fbf944ac82eff9d30b01605fa749560ea48350bd93",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::10-Neuroendocrinology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "b6a510067245c6dfebcfcf937c6f70ec5ee1bb5172c7712e9ee222bee1c2f740",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::10-Neuroendocrinology"
       ]
     },
     {
@@ -5079,6 +5142,24 @@
       ]
     },
     {
+      "first_field_hash": "13da0edbe14f8681b2a010c9b91757a91aa3de7f2297a29fc0d5b937c2ddc900",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::17-Urinary-Tract-Infections"
+      ]
+    },
+    {
+      "first_field_hash": "6c5c1d647f4b85d4434b5a9cba7468738723c0fb2a67a9edc8c9f31db45dba29",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::17-Urinary-Tract-Infections::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "8637d6f80e91ad9f24211370ee8adfe2e0a58da34c7de8da346119aafabe9357",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::17-Urinary-Tract-Infections"
+      ]
+    },
+    {
       "first_field_hash": "6689b834ec168c48e97f1bcadd0350b2185988d436ee394d005ca7daab14098f",
       "tags": [
         "JerryShen_AnKing_Tags::Cancer-Biology::Final::Lab-01-Cancer-Case-Studies"
@@ -5403,6 +5484,12 @@
       "first_field_hash": "5559962ce4815a8b442b25fcbded975cd8e6527c5f002b490eddc469e4a6f4ca",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::12-Normal-Endocrine-Histology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "a091beea673006d643a40e7e8b317e40f625e90af67e16adf2de3ffd4319189a",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::14-Bone-Physiology"
       ]
     },
     {
@@ -10286,7 +10373,7 @@
       ]
     },
     {
-      "first_field_hash": "dbdbda2abeef1872636b9ca41b4dfcd47cc51fef41c949ef104f4d242a538060",
+      "first_field_hash": "5ce834bc5e0a8ce2cb91fffce88b3d3aab968b00565f1aa14652b8d6f4704395",
       "tags": [
         "JerryShen_AnKing_Tags::POM-3::Clinical-Reasoning::Approach-to-Acute-Dyspnea",
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::27-The-Abnormal-ECG-Ischemia-&-Infarction::Class-Content"
@@ -20931,6 +21018,12 @@
       ]
     },
     {
+      "first_field_hash": "ef727db5729f7ca58ceea92be23cd083be31d55c8dbebfdae80dc7c687d52443",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::03-GFR-Clearance-&-Steady-State"
+      ]
+    },
+    {
       "first_field_hash": "c36e699eb713bc4515adbaaa0f2af317d98735b9439d505d1e69a804761381c6",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::10-Autonomic-Physiology-and-Pharmacology"
@@ -22779,6 +22872,12 @@
       ]
     },
     {
+      "first_field_hash": "8cb70786e99db129fd950b1aefbf3f33f2c35dfc6228a74ac172bb4d2e492ac5",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::18-Kidney-Stones"
+      ]
+    },
+    {
       "first_field_hash": "e5395c07bd36ec5715565ff7f90491fdecba493011143a7b99d4c2ee4471be55",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Renal-Block::16-Acute-Kidney-Injury",
@@ -23022,9 +23121,82 @@
       ]
     },
     {
+      "first_field_hash": "630717ee9d4605071a736542f439c35a35e9ac4d980ca00f85522a6e9d6431b4",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::17-Urinary-Tract-Infections"
+      ]
+    },
+    {
+      "first_field_hash": "7212008227bc4fd60e7bffab4cbc1b323fba2eb57d357887255810ac0af023cd",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::17-Urinary-Tract-Infections::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "5b1af98c598d5401ccc3f272e2ad7ff5628e538d911436c6d1246a1d0989d283",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::17-Urinary-Tract-Infections"
+      ]
+    },
+    {
+      "first_field_hash": "423bd2505ad49a96fd68b3f71f4d2a0a7c03bfca1045ac57ba65f1107e14ff93",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::17-Urinary-Tract-Infections::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "2307c7b7273da99b348097611018009bf8fed23a65c8291d20397b768fd64207",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::17-Urinary-Tract-Infections::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "31161321b097dbf94f2662d0b630e65bc52034c96c9cf6ec26b584447ead942e",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::17-Urinary-Tract-Infections::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "e5a1a6f24fb6b2cd8d1719375235dc45f29eb5304bf79961100aef09556a5696",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::17-Urinary-Tract-Infections::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "3d9d2524160c572937be2991751ef34fc49d24e736594c05323204a51a60d269",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::17-Urinary-Tract-Infections::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "d887f75a7a55bfc318555f2748fafd721fcd72059fefe1485efb1a93943c10aa",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::17-Urinary-Tract-Infections::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "e41c77e90937652e41a2a72f48cf78b2598e9e8a3b69208bddc9fbb924f490e6",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::17-Urinary-Tract-Infections::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "eb36e71b9482314e2bd0f1bac79fbc45a06860deda09aca51233cfb390d349a7",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::17-Urinary-Tract-Infections::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "ee849d73e62169285a934600bcec545e27715675f563438fff7f4266fa054c76",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::13-Urinalysis"
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::13-Urinalysis",
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::17-Urinary-Tract-Infections::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "e02d5b3089fda105ca177a403c0ac9815437ddee2de5dca69ae73a7c2942b49f",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::17-Urinary-Tract-Infections"
       ]
     },
     {
@@ -23034,9 +23206,21 @@
       ]
     },
     {
+      "first_field_hash": "397a5eb3e5dc2240899db130e3c79d41974b934b1b04b59c9cc10269c7591324",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::17-Urinary-Tract-Infections"
+      ]
+    },
+    {
       "first_field_hash": "da381538f1cfda91f2593ed7f45825306c4b86354fcafd52f4f0251646c4da79",
       "tags": [
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-1::03-C.diff-&-Pseudomonas"
+      ]
+    },
+    {
+      "first_field_hash": "437a86a4000d785e68fae4a76db128209d750d0c60ce0c013e2f76b2e7087fc8",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::17-Urinary-Tract-Infections::Class-Content"
       ]
     },
     {
@@ -23067,6 +23251,12 @@
       "first_field_hash": "09b0f076fc8e61571840a9bed31e96baabef47769d170f4f2591fe7ea343164b",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Renal-Block::16-Acute-Kidney-Injury::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "3e8faa0d67904896a174f7ca1e8054c41c79d3595d1eb84c05fe10403e284ff9",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::17-Urinary-Tract-Infections::Class-Content"
       ]
     },
     {
@@ -23124,10 +23314,298 @@
       ]
     },
     {
+      "first_field_hash": "d47581739dd9b76d6b42dcba66ef330b40b844b2400426568ecbf1c54799f0e7",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::18-Kidney-Stones::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "a37d2b8c419a2c7fc9c4b481a6a750e5732ce3d44eaa4f5bf344d96c0cdc42cb",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::18-Kidney-Stones::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "4b9b15485bc764b808517f61edf378cf68354c75f93a3746d3098349161ed8ca",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::18-Kidney-Stones::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "d9d104e71233b415b1007a68b563fafc2111223f147f92bc286940de98ae8ad3",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::18-Kidney-Stones::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "3b4f0bc3957d39beab0c5d0951066774b980933dfb54fbee5fab16e399b620ba",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::18-Kidney-Stones::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "0bc734539c070210fcd9271a64eec698ca003ac75695cfbba1f185331f2cb84e",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::18-Kidney-Stones::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "80aecb8e4747abc5486bd63f73db74b81c013b46536011e6d3958ffc2360566b",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::18-Kidney-Stones::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "b596ca45b9b6d1b525b4360f4ce16a070eab1d24873c50b14d22a25764d37a3f",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::18-Kidney-Stones"
+      ]
+    },
+    {
+      "first_field_hash": "c70c5d97050244f05e87c0f882f059cb590164b32c06e55aaae84e7e558456f8",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::18-Kidney-Stones"
+      ]
+    },
+    {
+      "first_field_hash": "381c07ff7c7dc6c384288256005c6abe1227449b5081d9fe2130f9c72db66d3f",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::18-Kidney-Stones::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "a2613b5fa8dcefb992eaefb5140fc485b147c4c63e060e116376f4deddb55471",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::18-Kidney-Stones"
+      ]
+    },
+    {
+      "first_field_hash": "6a9b6777a29827338d0be28057767a7d4b80decbddf98f5212920437112f9f2b",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::18-Kidney-Stones::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "423f2255839579e30f762178d1b464fc1f921d926470651d04e4141dd4c6c4f2",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::18-Kidney-Stones",
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::18-Kidney-Stones::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "0e1bbfaa789276ee0d3c5e3fbd5d7279cde61f3b195cca9669cb7830ede2dc87",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::18-Kidney-Stones",
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::18-Kidney-Stones::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "e1a9ed211e9cf547673f9be7d9b996cea24adde04ffd383e51ffbc332e228644",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Renal-Block::08-Diuretics::Class-Content",
         "JerryShen_AnKing_Tags::SOM-2::Renal-Block::12-Calcium-Magnesium-&-Phosphate-Regulation::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "1f89105a1031bbd26855507f0fe5f2616ea69a0716366535ca94841b58a38ae0",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::18-Kidney-Stones",
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::18-Kidney-Stones::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "170ec09a5ae8d9639d5bb69905708f7b7b8a03b6bdd75b2f2004d83d9953dddd",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::18-Kidney-Stones"
+      ]
+    },
+    {
+      "first_field_hash": "85dc6d7db88b9b892f2ab9491af6fe096e8b08925de29a53e4ebff63d6d148be",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::18-Kidney-Stones",
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::18-Kidney-Stones::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "5bb0bc5b59f88537619830fdc020357a71be3c95753a82d9f783b3db77ec3292",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::18-Kidney-Stones::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "75540c417d4d339a5ef236588580809cabb54a24e3ed649a19a27295c7aa6f62",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::18-Kidney-Stones::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "8e5ef15b00f5d6e0ce56f3ffd67330704e7dea9cad73e721b8c4cf34a3b987ab",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::18-Kidney-Stones"
+      ]
+    },
+    {
+      "first_field_hash": "0f98b5b3f0f9c9a8d49cee7d7bd4c592f9084a0dc04c7750ecc04c33c715df20",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::18-Kidney-Stones::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "770a6ab4b52bac4ad62d76c5ad7de28002fc5f0a632ab42ac52ddcbd62782b1d",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::18-Kidney-Stones::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "c2c7326c003a9ed30f10ebc5f4f9edfcea0f7cfc96406f925dac0ed7a95f3477",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::18-Kidney-Stones::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "73fd021ffa7215ea81b48abad0a864a9ca541227a64b02ae2d71b802cd168046",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::18-Kidney-Stones"
+      ]
+    },
+    {
+      "first_field_hash": "db03f9fe45eeee7bb09344304b01efc0c83c6eed943eea0b98f52d415ed5e707",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::18-Kidney-Stones"
+      ]
+    },
+    {
+      "first_field_hash": "8bd77232ea475687c62f366c3644d2558a2f7f8ced7d1eb296b24b39dc041f06",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::18-Kidney-Stones::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "e331f40069361011cf28c5dd15a71ae1e52aafa4becb8261a60c007df068d4be",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::18-Kidney-Stones",
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::18-Kidney-Stones::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "2b058047a725fd5297a9b54b8cf423c3c8b65633ef74581a8214c392cb74ed35",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::18-Kidney-Stones::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "ffedce978ec93980f56442900cc8ecd55915821b7bc877393ea4034e9db27eaf",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::18-Kidney-Stones"
+      ]
+    },
+    {
+      "first_field_hash": "d6385e7f2a7b9e19853ccdd942b7811e4165f580f83de3867bdcfbb7febe22ec",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::18-Kidney-Stones"
+      ]
+    },
+    {
+      "first_field_hash": "4168eef13a7ed94d4948930a30b9216886ebf7263979cf73f0ed65d0f1e6334c",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::18-Kidney-Stones",
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::18-Kidney-Stones::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "d5fa3ec3406b1d0a57aa7702596ead97e0ef8380695eec13a68364369e278670",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::18-Kidney-Stones"
+      ]
+    },
+    {
+      "first_field_hash": "56e61a50cf3efe77bcd970c947eba35de8363386ee9d15262973f8c80c556b6e",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::18-Kidney-Stones::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "05d6e33716f1a38cb504dfa05096c1567bf70df406ed24c96bad6e8e804f6cd6",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::18-Kidney-Stones"
+      ]
+    },
+    {
+      "first_field_hash": "6f470a23e390647eac2681162fc5c7eb5f9f2a799549bde542ac6ba795a0603e",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::18-Kidney-Stones"
+      ]
+    },
+    {
+      "first_field_hash": "cc2304c68bcd03682de56c0a2e0e776e0a5af4edd836f2025879705a4d5e1c63",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::18-Kidney-Stones::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "deccc8f4201de96231de66f8c3947577973b4540278e6b4ac31b87433ab066e2",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::18-Kidney-Stones::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "1b52b91bb7a9c52b0a7546cd2f97e1c7864361c3b817a47913f16796cdf9bbcc",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::18-Kidney-Stones::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "ab241dd4dfa8869a5c08cdb8a46127f45385de19d55cfae9fff3401eeb2ecfa0",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::18-Kidney-Stones"
+      ]
+    },
+    {
+      "first_field_hash": "1c4d140cf77025708fe67f489af73362307ce34aac146c637933eeac1d7b80ba",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::18-Kidney-Stones"
+      ]
+    },
+    {
+      "first_field_hash": "c43e240c996ee728434758863d0bfd1cd2bbc5b3821e4973b085c7a13defb03a",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::18-Kidney-Stones"
+      ]
+    },
+    {
+      "first_field_hash": "1c0d317df6e8de589139e8d1caf478bd2542b5467e212203ff871aaffc1211d0",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::18-Kidney-Stones"
+      ]
+    },
+    {
+      "first_field_hash": "c9521905bfe754061dfe76498cacde9ea512f033eee32d4424a915f19f54e312",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::18-Kidney-Stones::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "27e20aa992a388eeca06c275f6d6db7272ad2b2a4fa48ea3e521f14d43373517",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::18-Kidney-Stones"
+      ]
+    },
+    {
+      "first_field_hash": "257a5cb9c7fbd0c8c10aaab8c8ab5f50f97685884794ce492df59f0f8b779590",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::18-Kidney-Stones::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "023828cce05d5c4b68ef014d30d7ecc2bae797597a18e642cf2bcfdb8be4f666",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::18-Kidney-Stones"
+      ]
+    },
+    {
+      "first_field_hash": "beaf771694cbb31540e957eedcf513fee8bbbb104fdeced13fcc00b6c931c3e0",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::18-Kidney-Stones"
       ]
     },
     {
@@ -23582,9 +24060,21 @@
       ]
     },
     {
+      "first_field_hash": "e187f49b6f78e240894b3fa2c18921a2eec6ec833412d7bb8e13a2af78f081d4",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::18-Kidney-Stones"
+      ]
+    },
+    {
       "first_field_hash": "1558af3aa10a32b8d36a68bb84903045380fe88a76a8441a6d65eae3041c801e",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Renal-Block::08-Diuretics"
+      ]
+    },
+    {
+      "first_field_hash": "5599f57278aca082d764c29b5beb4a0cac09bf5a9b50e09fe362a644e6706119",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::18-Kidney-Stones"
       ]
     },
     {
@@ -23993,6 +24483,12 @@
       ]
     },
     {
+      "first_field_hash": "6dedf56e283e7fafdde7783f8e2b17c3d04ba1a9c8d003985cf6801fd02d800f",
+      "tags": [
+        "JerryShen_AnKing_Tags::POM-4::Clinical-Reasoning::Approach-to-Polyuria::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "f47f912841c033a9b65bf8cd359d6af1d2716fa04c755ceb6a2ddb26e97902ad",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Renal-Block::12-Calcium-Magnesium-&-Phosphate-Regulation::Class-Content"
@@ -24061,6 +24557,12 @@
       ]
     },
     {
+      "first_field_hash": "b82597d3a97126884045aaddfa704affcf9e4449d4139cf474a3f498aa1dbebd",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::18-Kidney-Stones"
+      ]
+    },
+    {
       "first_field_hash": "6d55251db2e09de11a7f22266ebea63fa9f0a088320b3eb6153fb4eec602375f",
       "tags": [
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-2::09-Misc-Antimicrobials-&-Skin-Infections"
@@ -24118,6 +24620,12 @@
       "first_field_hash": "36e639f52da9208d4e71f4c81128b38fb016331adc2f84f02ebb0108adf92780",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Renal-Block::13-Urinalysis"
+      ]
+    },
+    {
+      "first_field_hash": "8cd4a336e4db7e83bec1c85317aa38a5ccbfab0e87ba89db9750603c0c07a34d",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::17-Urinary-Tract-Infections::Class-Content"
       ]
     },
     {
@@ -24345,7 +24853,8 @@
       "first_field_hash": "0cb2bdf167700ea5028ed6f4562c2309098d38d47b8114a7e7b9cfdf7bed90b2",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Renal-Block::08-Diuretics",
-        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::12-Calcium-Magnesium-&-Phosphate-Regulation::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::12-Calcium-Magnesium-&-Phosphate-Regulation::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::18-Kidney-Stones::Class-Content"
       ]
     },
     {
@@ -24503,6 +25012,12 @@
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Renal-Block::08-Diuretics",
         "JerryShen_AnKing_Tags::SOM-2::Renal-Block::08-Diuretics::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "ab38c92aff3ba70468e6c01be9ce73deb299c9e69a2e0da4704d65c508241921",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::18-Kidney-Stones::Class-Content"
       ]
     },
     {
@@ -26047,6 +26562,12 @@
       ]
     },
     {
+      "first_field_hash": "6f67b4418a00ebdd9917f10eb7c4411daf9a3a06e302b67bbf190cfd62467463",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::18-Kidney-Stones::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "6c8ba71ca4315c2309150ce68a72ca49a174abc3ceeda30b00b8a89fa3971f48",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::22-Peripheral-Arterial-&-Aortic-Disease"
@@ -26615,6 +27136,12 @@
       ]
     },
     {
+      "first_field_hash": "efa1425151ee0178e0e76ad80ab3080440032e982ca313056551e6687ff8b4bb",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::18-Kidney-Stones::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "ea774e0ce2ccd6fd04a85959ee8837f66d23f2dd12b2f8274cf0efec1f055daa",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::14-Bone-Physiology::Class-Content"
@@ -26778,6 +27305,30 @@
       "first_field_hash": "8149812eacc5eda504c0f865b64a20f02820e8ff56984a735abca01c5404759d",
       "tags": [
         "JerryShen_AnKing_Tags::Biochemistry::Final::02-Oxidative-Phosphorylation::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "2ba14bf7f564e45242f15377f149b523eae3834e8a741392be4b3ac3c0a57889",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::18-Kidney-Stones"
+      ]
+    },
+    {
+      "first_field_hash": "9127ed2b03c42fe06f71357fdb3b69a0f5c77ac759881ab0d34a2dc72a51aebf",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::18-Kidney-Stones::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "39fdd359e28cfa0b209515a5d61f84b175d26bf30da71e7859d3446a6dfd31b2",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::18-Kidney-Stones"
+      ]
+    },
+    {
+      "first_field_hash": "731c9077d28adf0b6d8068c8b4c6732dfd02d83d03c2defa7328e2849488832b",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::18-Kidney-Stones"
       ]
     },
     {
@@ -32076,6 +32627,12 @@
       ]
     },
     {
+      "first_field_hash": "681ec3d7e508e3b8236cbc6439942ab67f70e66991ca08cbca16503994ba049c",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::Tutorial-1-Bone::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "0fc09b689060e53958e449838550c6979fb2c6c2156e1c8278c5bf55d9239137",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Renal-Block::13-Urinalysis",
@@ -33868,6 +34425,12 @@
       "first_field_hash": "ed6e01cefed2b40f95af8b85caac0f8c3f764c71d89bd6cf9c0ded8eb411d347",
       "tags": [
         "JerryShen_AnKing_Tags::Immunology::Final::GI-&-Mucosal-Immunity"
+      ]
+    },
+    {
+      "first_field_hash": "f5d1e16bd23a7a53fc0d8aba18d18020dabf19f7fb8bd0ad285594bdba49f4b5",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::18-Kidney-Stones::Class-Content"
       ]
     },
     {
@@ -36646,6 +37209,12 @@
       ]
     },
     {
+      "first_field_hash": "1bc7299ecf6451a0a60c9feeb4526ba2c8be043467dfc628369acc475f992810",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::Tutorial-1-Bone::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "f6c046e0592495ff4a96e93691103cfd25f39cde3e08677de44e11f34d8b1fee",
       "tags": [
         "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-3-Abdomen::Embryology::Class-Content"
@@ -37080,7 +37649,7 @@
       ]
     },
     {
-      "first_field_hash": "d33cc7b856f68614cf8c1e5c36423f8ecca0baf953f299426018dcad77c82d92",
+      "first_field_hash": "ce6262a9b1239b44cce391222d940daa4e8974f293f62aabeb79cc5d38bb57f3",
       "tags": [
         "JerryShen_AnKing_Tags::Immunology::Final::T-cells::Class-Content"
       ]
@@ -38354,13 +38923,13 @@
       ]
     },
     {
-      "first_field_hash": "b3b4e633d2568f064ecfee03c908330dd15e0a2fd3025b99c10ecd1075575b87",
+      "first_field_hash": "3b284835417260f7c9c983dc97fe831ccc600576923a3916714f9f88540672eb",
       "tags": [
         "JerryShen_AnKing_Tags::Immunology::Final::Complement::Class-Content"
       ]
     },
     {
-      "first_field_hash": "59784028324ea3142446a8a2e703d7f73695d03d91a7bf75bd8aa45424f155c5",
+      "first_field_hash": "a33311f21af02cb9246a3821685c9186a92e1bb05f0962d626521d11c902277d",
       "tags": [
         "JerryShen_AnKing_Tags::Immunology::Final::Complement::Class-Content"
       ]
@@ -38378,7 +38947,7 @@
       ]
     },
     {
-      "first_field_hash": "24b86d9e8e2d4d36cf14264dc1b0e2264064bc487f4dff9ade52270d8eccb63c",
+      "first_field_hash": "a011710715108f6efd71de4b149eea59ed374b12634d437d5c5a2423b1fdd4dc",
       "tags": [
         "JerryShen_AnKing_Tags::Immunology::Final::Complement::Class-Content"
       ]
@@ -38504,7 +39073,7 @@
       ]
     },
     {
-      "first_field_hash": "3b2af832c0b4d69dab3f7298526a26530fd952dc5ba85566580a683e3d89e19d",
+      "first_field_hash": "ad6c6b7660f13c1f492d8f25dc4c5c68d9dd19d13d1ea445966c1e7c6757d872",
       "tags": [
         "JerryShen_AnKing_Tags::Immunology::Final::Immune-Deficiencies::Class-Content"
       ]
@@ -40816,6 +41385,18 @@
       ]
     },
     {
+      "first_field_hash": "f64a83531c2fb6802e11219d0af9550fc06ea3fe67ae5022f58ac03059d7b054",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::17-Urinary-Tract-Infections"
+      ]
+    },
+    {
+      "first_field_hash": "91f7d430505db34e131283639f90c039b5a05b8a1e2ceff33401b3eece23b372",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::17-Urinary-Tract-Infections"
+      ]
+    },
+    {
       "first_field_hash": "5412adefcb77c88e69320db129d92b2f092293e5a3a77e732797697268d76e12",
       "tags": [
         "JerryShen_AnKing_Tags::POM-3::Psychiatry::Psychiatric-Interview"
@@ -41614,6 +42195,18 @@
       ]
     },
     {
+      "first_field_hash": "8a9457f6d26d5b30fbeb908a602cff9272c1af86681609af5c9ff2190b2750e6",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::14-Bone-Physiology"
+      ]
+    },
+    {
+      "first_field_hash": "f8df294f7e8cfa9970f1ffc4d98e792354a2cb0171f32fdbf8e6860afb8cc1fe",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::14-Bone-Physiology"
+      ]
+    },
+    {
       "first_field_hash": "8fcd14bc66a9add47c9810ef9b3243d0b73c3ea3e0ba7f9cd73387c7b8168f23",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::14-Bone-Physiology"
@@ -42378,6 +42971,18 @@
       "first_field_hash": "a35e7d17f0fa513d4238887b094ea11030e47469b8f86b61ff7b0b70dce7722c",
       "tags": [
         "JerryShen_AnKing_Tags::Immunology::Final::B-cells"
+      ]
+    },
+    {
+      "first_field_hash": "ec608b72c4f8e2ac468785b0372cbc9728ef00adc76b7b2e39246cd1d9f0bbdd",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::Tutorial-1-Bone"
+      ]
+    },
+    {
+      "first_field_hash": "66240cc85bd740651202023c9b03e8a3d13d115ab8017bd984ced14d26a5409c",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::Tutorial-1-Bone"
       ]
     },
     {
@@ -43465,6 +44070,12 @@
       ]
     },
     {
+      "first_field_hash": "1714ed18891f0a882f9db102790ea0a3ee21dd4277a57681df43113969c933ac",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::18-Kidney-Stones::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "6c723ae246afcb089d99aeede4cd1ea8693fb193337233d0170ce541df0af7b7",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Renal-Block::09-Metabolic-Acidosis-&-Alkalosis::Class-Content"
@@ -43480,6 +44091,12 @@
       "first_field_hash": "87b1b9f6377b61f8d15a3fd614a6c1e216b8d34404bbf55fca5799ed5d0e874a",
       "tags": [
         "JerryShen_AnKing_Tags::POM-3::Clinical-Reasoning::Approach-to-Shock"
+      ]
+    },
+    {
+      "first_field_hash": "43486f645752f1eb3b3d45bd90712cc11063149a67df03e719dc650f966994b7",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::18-Kidney-Stones"
       ]
     },
     {
@@ -43687,6 +44304,18 @@
       ]
     },
     {
+      "first_field_hash": "dd11ca84b49af619ebecd1d218c2b4413e6bf5cbdfecba397065af64e8eab0bd",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::17-Urinary-Tract-Infections::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "f0fd6e570505ef779ec1f46ce1f223fbd53bf30e8acb30882eb449a50d11bcc4",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::17-Urinary-Tract-Infections"
+      ]
+    },
+    {
       "first_field_hash": "6f5bba36cad5563bfa2861f2e05dea446d3ffac22b789c5ba1ca38e2247b0b99",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Renal-Block::11-Potassium-Disorders"
@@ -43836,6 +44465,12 @@
       "first_field_hash": "4bb2f53ecaefba00ffd127bdbc72bc849230415b8ef3c8db1d07d6dd9598a694",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::18-Heart-Sounds-&-Clinical-Exam::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "dd08ae91adf7a63c8a309861b159e99c9ff024455f659cca9c4014f8f245dfca",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::18-Kidney-Stones::Class-Content"
       ]
     },
     {
@@ -45766,7 +46401,8 @@
     {
       "first_field_hash": "b9e343d8376b81a78ac19d0ffdd7f094e6bfa4fe744f9c5facc93e6e9c4c4a16",
       "tags": [
-        "JerryShen_AnKing_Tags::Micro-Pharm::Exam-1::02-S.pyogenes-&-E.coli"
+        "JerryShen_AnKing_Tags::Micro-Pharm::Exam-1::02-S.pyogenes-&-E.coli",
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::17-Urinary-Tract-Infections::Class-Content"
       ]
     },
     {
@@ -46656,6 +47292,12 @@
       ]
     },
     {
+      "first_field_hash": "ab94692afc19576d2e43e9fc2d21f70e4721123dbf2f7aee0f5786449c443621",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::17-Urinary-Tract-Infections"
+      ]
+    },
+    {
       "first_field_hash": "6e95ba9f9b32cba1217044afb9f1a8629342218def8c146bdc9b7b0c0d30256e",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::23-Endocarditis"
@@ -46671,6 +47313,12 @@
       "first_field_hash": "f4f8a3319b60ed6602a171f5225e736decf696009dbed5a9547dcf305c4902fd",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::23-Endocarditis::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "c9f8bbda6c0c2164f802e737e2429badf1f71af795d8ddd4e4fd2ca63800375f",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::17-Urinary-Tract-Infections"
       ]
     },
     {
@@ -48729,6 +49377,12 @@
       ]
     },
     {
+      "first_field_hash": "bcf55d441b56f84d5c3c52914a2be7c36eb8d4a6ceafa54649b90ebba679ec34",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::17-Urinary-Tract-Infections"
+      ]
+    },
+    {
       "first_field_hash": "291421566b85a75aa6350b3d439b2acf9072455672348ed3bc52bfca7af2dd37",
       "tags": [
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-2::10-Biologics-Ectoparasites-&-Clinical-Cases"
@@ -48751,6 +49405,12 @@
       "first_field_hash": "dc181316e651392d48c782f819101606796d0d07f08c98d9c91f70b0ba6323c7",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::19-Central-&-Peripheral-Control-of-Circulation"
+      ]
+    },
+    {
+      "first_field_hash": "92cdda4c08c5077d996d2724ab539880bad0fd6ee7e23d38401c1b1662af6990",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::18-Kidney-Stones"
       ]
     },
     {
@@ -50642,7 +51302,8 @@
     {
       "first_field_hash": "c65e40baa3703784aad83eb5530d4ac76c750858d80fbca76f5dc08c0764b7d6",
       "tags": [
-        "JerryShen_AnKing_Tags::Micro-Pharm::Exam-2::08-Other-Antibiotics-&-Mycobacteria::Class-Content"
+        "JerryShen_AnKing_Tags::Micro-Pharm::Exam-2::08-Other-Antibiotics-&-Mycobacteria::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::17-Urinary-Tract-Infections::Class-Content"
       ]
     },
     {
@@ -53381,7 +54042,8 @@
     {
       "first_field_hash": "0105c38ef00bf514ab21e4cb48f8269d29902b4b3f004937ebb5088adc06f768",
       "tags": [
-        "JerryShen_AnKing_Tags::Micro-Pharm::Exam-1::03-C.diff-&-Pseudomonas"
+        "JerryShen_AnKing_Tags::Micro-Pharm::Exam-1::03-C.diff-&-Pseudomonas",
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::17-Urinary-Tract-Infections::Class-Content"
       ]
     },
     {
@@ -53669,19 +54331,64 @@
     {
       "first_field_hash": "90197e19381bb7caccf8ec071a2c406ceced35396a2b6352eaa77812343aaf7f",
       "tags": [
-        "JerryShen_AnKing_Tags::Micro-Pharm::Exam-1::02-S.pyogenes-&-E.coli"
+        "JerryShen_AnKing_Tags::Micro-Pharm::Exam-1::02-S.pyogenes-&-E.coli",
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::17-Urinary-Tract-Infections"
       ]
     },
     {
       "first_field_hash": "5fe2c34833f4b811c51415bc92fba81eaebda18bcb42c981a7fdbfc436eb7618",
       "tags": [
-        "JerryShen_AnKing_Tags::Micro-Pharm::Exam-1::02-S.pyogenes-&-E.coli"
+        "JerryShen_AnKing_Tags::Micro-Pharm::Exam-1::02-S.pyogenes-&-E.coli",
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::17-Urinary-Tract-Infections::Class-Content"
       ]
     },
     {
       "first_field_hash": "5eb50604bf82fbd524768382b58387eb034b152c27ad3c3bb4dd7db78c19a30e",
       "tags": [
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-2::08-Other-Antibiotics-&-Mycobacteria"
+      ]
+    },
+    {
+      "first_field_hash": "1cd12a269b18a39651b90a16449eb7f53d4895c59b375f990e5ef5647f618024",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::17-Urinary-Tract-Infections::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "31f59c04471c2fdc825cd8ffd6d6269ce96db711ac2c7093f607f299488f6447",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::17-Urinary-Tract-Infections::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::18-Kidney-Stones::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "a347a0667bca21fba08077e0c00f52e9749141ffa95a2b5da6f024f37268d530",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::17-Urinary-Tract-Infections::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "28fe158e41e5bdac52b73f7e83d9207dba55d48116414d4e58bbf376b510b6ac",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::17-Urinary-Tract-Infections::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "b29cafc382e4bad6aa002097c65b7e7163467d58efd4e6041dc060138ddbf55e",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::17-Urinary-Tract-Infections"
+      ]
+    },
+    {
+      "first_field_hash": "91d4e403150b06631780409875fdaa0cc4a8e994576247ad15053d9e05a7b9ec",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::17-Urinary-Tract-Infections::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "afd262bc5651206474b3d65d08bc2c5c12a4b2ca7ad23662e3f87689bfdfc227",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::17-Urinary-Tract-Infections"
       ]
     },
     {
@@ -53756,6 +54463,12 @@
       "first_field_hash": "e611dd6045e4feb7267203eec2b64e61af34425293815632326ff74150adee37",
       "tags": [
         "JerryShen_AnKing_Tags::Neurobiology::Exam-3::Tutorial-4-Thalamus-and-Sensory-Systems::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "45ab36f99ac22a0d57ddbee86936f86dd76a9fbac4dbcc1c4d00216ebe25d7b0",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::17-Urinary-Tract-Infections::Class-Content"
       ]
     },
     {
@@ -53896,6 +54609,12 @@
       "first_field_hash": "175d5b54af220765ad101c2de357fb91a887cf641170fcb92a1e99146c4d228d",
       "tags": [
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-2::07-β-Lactam-Antibiotics-&-Parasites::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "6dd600cba75c1516b38fc9608a17316a663a43799d09541434e5048ca3825179",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::17-Urinary-Tract-Infections"
       ]
     },
     {
@@ -54514,6 +55233,12 @@
       ]
     },
     {
+      "first_field_hash": "4b7be2bb12dec196f154d54afd4d689d5565952336de3970caf8524ee91febd8",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::17-Urinary-Tract-Infections::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "dd967f1e0377154ef4274770bb2d92fb455fb9e1adb263fc7d3cfb3c13d3838b",
       "tags": [
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-1::02-S.pyogenes-&-E.coli::Class-Content"
@@ -54573,6 +55298,12 @@
       "first_field_hash": "28846c451e9ae1d18bc78fb493c99d6196672a433c890adb9bff9d355206f791",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::02-Glucose-Homeostasis-1::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "a847a8d428092742ffcad7b20f8e25feef0c76c6d0df6ed4e00755674706221e",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::17-Urinary-Tract-Infections::Class-Content"
       ]
     },
     {
@@ -55408,6 +56139,12 @@
       ]
     },
     {
+      "first_field_hash": "f8eb40f043cb895dea3527cc65622bc0a01c05d7b0f157e5c2af65406417f308",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::17-Urinary-Tract-Infections"
+      ]
+    },
+    {
       "first_field_hash": "e99854f0e829b88d8839f2d8fac3fd63c58055b02c39ce2c6a770d626ab03066",
       "tags": [
         "JerryShen_AnKing_Tags::Molecular-Foundations-&-Genetics::02-Genetics::03-Chromosomes",
@@ -56108,6 +56845,12 @@
       ]
     },
     {
+      "first_field_hash": "c0e1c1b7ac8dcea0d48fe5b9683771f0f0d313416d0ab42ff6599740c0670475",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::14-Bone-Physiology"
+      ]
+    },
+    {
       "first_field_hash": "a4151875740fca2ed1132e8c9bcfd5ef7ecde875616abd4ad6da7627461a8ae5",
       "tags": [
         "JerryShen_AnKing_Tags::Neurobiology::Exam-2::Lec-PNS-Disorders",
@@ -56238,6 +56981,12 @@
       "first_field_hash": "222e53614859824a561f59773f4ba38e5a994609a04d76bc9672bcebfce6c1c9",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::15-Bone-Pathophysiology"
+      ]
+    },
+    {
+      "first_field_hash": "0dd17377e0d0dd59028f11b864c71dccf01af8073a1e08dcbba5fce997b781db",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::Tutorial-1-Bone::Class-Content"
       ]
     },
     {
@@ -56375,6 +57124,12 @@
       ]
     },
     {
+      "first_field_hash": "78592403f5f5017c4c47a4762cf2fbbe7e8d3a91e2e79847b964c0a4fd1fa4a9",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::17-Urinary-Tract-Infections"
+      ]
+    },
+    {
       "first_field_hash": "df80a5f5875fbc3b48307d1c7f2b6d0ee9ac2a86b5cdc126961fb135cf7969a8",
       "tags": [
         "JerryShen_AnKing_Tags::POM-4::EMED-Procedures::Foley-NGTube-&-I&D::Class-Content"
@@ -56402,6 +57157,12 @@
       "first_field_hash": "c14596dba4585743809e2f22a4e69052e37d73afea926b6b358cdaa06ebe5dce",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::22-Peripheral-Arterial-&-Aortic-Disease"
+      ]
+    },
+    {
+      "first_field_hash": "fc321c7242077d502adf7d1fa6aa05fcc6d75a24dca7ed7bbaff5b0b99e02c5c",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::18-Kidney-Stones::Class-Content"
       ]
     },
     {
@@ -56478,7 +57239,8 @@
     {
       "first_field_hash": "de96f408831b2154c1c55dcf1f5dbf5f4b4e0a508fb0a67c486024c7e8859c5c",
       "tags": [
-        "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-6-Head-&-Neck-1::Anatomy"
+        "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-6-Head-&-Neck-1::Anatomy",
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::Tutorial-1-Bone"
       ]
     },
     {
@@ -56715,6 +57477,12 @@
       "first_field_hash": "88f92183aff9ef580c71b727a641e1289409d08447a33f17c5051907bd577011",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::14-Bone-Physiology"
+      ]
+    },
+    {
+      "first_field_hash": "e68870aa4ab542590452fa8347f555b1cb4a8242b5697f6812c6d20a20cb7fe1",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::18-Kidney-Stones"
       ]
     },
     {
@@ -58947,7 +59715,8 @@
     {
       "first_field_hash": "d5d1e3aa1e35a4763e9cf394ecbc584a9ff49923b017ce29785b33d1660aa3fb",
       "tags": [
-        "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-4-Pelvis::Anatomy"
+        "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-4-Pelvis::Anatomy",
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::18-Kidney-Stones::Class-Content"
       ]
     },
     {
@@ -58999,6 +59768,12 @@
       "tags": [
         "JerryShen_AnKing_Tags::Neurobiology::Exam-2::Tutorial-2-Spinal-Cord",
         "JerryShen_AnKing_Tags::Neurobiology::Exam-2::Tutorial-2-Spinal-Cord::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "f7337d5b834c6ab8940585d9ef5472e309e1e55876d5438af25ba50f5dce4a68",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::18-Kidney-Stones"
       ]
     },
     {
@@ -59203,9 +59978,27 @@
       ]
     },
     {
+      "first_field_hash": "32110acfb2822d209da70d4e6bfc672439fae9032d2859a427550e37913a69fe",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::18-Kidney-Stones::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "cf51b5a48fbe8bb24bcbc6286776af0a73568d31b7d44f7f983886bc2112b83d",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Renal-Block::15-Renal-&-Bladder-Tumor-Pathology"
+      ]
+    },
+    {
+      "first_field_hash": "6a2931269fb46b420f33b402f965bc18b495dc0fb7f6eafc915359e31f89e38c",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::18-Kidney-Stones"
+      ]
+    },
+    {
+      "first_field_hash": "30ff35632760acbec6d834ef52c62bc6fb304577ed9daf32c6c1fae95caf3880",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::18-Kidney-Stones"
       ]
     },
     {
@@ -59276,6 +60069,12 @@
       ]
     },
     {
+      "first_field_hash": "4af9ffb6e53670ee8ec0142c88f10bb736178dbca5d0c8a13ed3fcc7b39ab0ee",
+      "tags": [
+        "JerryShen_AnKing_Tags::POM-4::Clinical-Reasoning::Approach-to-Polyuria::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "864f4723acff0680bb4777270d086206e09d6bca72277b4dc1044bd1feb10e91",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Renal-Block::11-Potassium-Disorders",
@@ -59287,6 +60086,12 @@
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::31-Treatment-of-Hypertension",
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::31-Treatment-of-Hypertension::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "66a7dedb1ad62c663826d937117324a92fad3cebd2135947ece54347e9f286f1",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::Tutorial-1-Bone::Class-Content"
       ]
     },
     {
@@ -59462,6 +60267,18 @@
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::09-Acid-Base-Control-and-Exercise-Physiology",
         "JerryShen_AnKing_Tags::SOM-2::Renal-Block::07-Acid-Base-Balance::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "67fcaf65d0d830d7ca615aab1287a584dc4088fa671e9aad9759cca9f713465e",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::18-Kidney-Stones"
+      ]
+    },
+    {
+      "first_field_hash": "834855c842746e861a7e179f1eae882b73cf1436ffd426f67356e90839798715",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::18-Kidney-Stones::Class-Content"
       ]
     },
     {
@@ -59766,7 +60583,8 @@
     {
       "first_field_hash": "c7bd34a941d99f857f18fbc5a5a9cbe673aff39593f7006a7329aec90c86c870",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::14-Bone-Physiology"
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::14-Bone-Physiology",
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::Tutorial-1-Bone::Class-Content"
       ]
     },
     {
@@ -59792,6 +60610,12 @@
       "first_field_hash": "9d71356c77fc1c70326e2f2ec78185cb9e827a855fabd6cced7c7bd0fcceeca3",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::05-Ventilation-Perfusion-Relationships"
+      ]
+    },
+    {
+      "first_field_hash": "1d94e07e73a0198297c0cee4034a71317b1c8d23eb1f7147eb625c3681ac07bc",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::Tutorial-1-Bone::Class-Content"
       ]
     },
     {
@@ -59987,6 +60811,12 @@
       "first_field_hash": "c8a5046d6dbd0607513417e512dc9521cdb3f05c29b03cebffc86eb882a89a3b",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::09-Endocrinology-of-Growth"
+      ]
+    },
+    {
+      "first_field_hash": "708fcd9ecded3ed588d3f4402968e4f761a9de732ee686589aae7d8cf839969e",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::17-Urinary-Tract-Infections::Class-Content"
       ]
     },
     {
@@ -60192,6 +61022,13 @@
       "first_field_hash": "c4bbf9984dba5623874eabe1b2c6641b48b21b6d8fdfae8ca8a2af69b2acef12",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Renal-Block::15-Renal-&-Bladder-Tumor-Pathology"
+      ]
+    },
+    {
+      "first_field_hash": "48ffcbbb584f05aaecaedafbcf7bec5f5c42051902a75518ad8ad42e67481a0e",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::18-Kidney-Stones",
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::18-Kidney-Stones::Class-Content"
       ]
     },
     {
@@ -60579,6 +61416,12 @@
       ]
     },
     {
+      "first_field_hash": "488d632248731f901c320166a74aa14bd55dcea6233bbe9274214e742c368799",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::18-Kidney-Stones"
+      ]
+    },
+    {
       "first_field_hash": "23ec9ca73fdb04496f4cff11d703e543c0ea8eda1ade64e75a9990a9272b1294",
       "tags": [
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-1::03-C.diff-&-Pseudomonas"
@@ -60738,6 +61581,12 @@
       "first_field_hash": "460d402ca45f231ad48a222368b9847e157a3ca3e6e6ab235c691c33813ed400",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::MSK-Block::01-Introduction-to-MSK::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "cfd827ccede1feebabb7059ebd28c94ff51ba97b8dc974dbb5867a14010680c4",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::18-Kidney-Stones"
       ]
     },
     {
@@ -60962,6 +61811,12 @@
       ]
     },
     {
+      "first_field_hash": "cde68600695c6d64368faa3209ddf995f1b95ad730a4c17aadb391e4bf64e0f5",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::17-Urinary-Tract-Infections"
+      ]
+    },
+    {
       "first_field_hash": "7c573dd6230112ee3807e770a7b7f22db0bb91f7168f0c7cf94049efbf0a7d7a",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::30-Hypertension::Class-Content"
@@ -61013,6 +61868,12 @@
       "first_field_hash": "342a6c6fe37cea2596bacd506732e309f96df4b3296a63663bce4744f521f9ee",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::11-GH-IGF1-&-Prolactin"
+      ]
+    },
+    {
+      "first_field_hash": "9b6215bd7e655a201eefb871624864dac2ab09eda1de48fdd8bf2989dcd5ec41",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::17-Urinary-Tract-Infections::Class-Content"
       ]
     },
     {
@@ -61104,6 +61965,12 @@
       "first_field_hash": "113f50184bf858a690c79751ba57405400a6fe55ac4cf8c75db8bc414bd63ac9",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::09-Endocrinology-of-Growth::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "379dc4fb69d5b7bc1ff4e4b957fea68b514018cae1f7580ab19ef59b197678e0",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::17-Urinary-Tract-Infections"
       ]
     },
     {
@@ -62408,6 +63275,18 @@
       ]
     },
     {
+      "first_field_hash": "0820088082dff4f31fc9bdc8f7786c9c41b101df8a6fd482e8d93b5763cd4a97",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::17-Urinary-Tract-Infections"
+      ]
+    },
+    {
+      "first_field_hash": "cfbc73f8e07d2dc3cf7ebaa6e5942c54b989dcdba7a7f8fa3d133eb4b8a6609f",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::17-Urinary-Tract-Infections::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "d971b7993b0aad34e5b61d2ef7ea4dd2b3d877b672f3b6b5cc22ba74da7e670f",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Renal-Block::16-Acute-Kidney-Injury::Class-Content"
@@ -62690,10 +63569,22 @@
       ]
     },
     {
+      "first_field_hash": "984885a43f9ca449850ea09fb2b2e223238e7da14ea8b258a8fef3194696632f",
+      "tags": [
+        "JerryShen_AnKing_Tags::POM-4::Clinical-Reasoning::Approach-to-Polyuria::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "3caf8af3b08eccb5ae004e09d2036bbab149b67c4ca9f771065bc5242612e233",
       "tags": [
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-2::10-Biologics-Ectoparasites-&-Clinical-Cases",
         "JerryShen_AnKing_Tags::SOM-1::MSK-Block::02-Bone-&-Joint-Infections"
+      ]
+    },
+    {
+      "first_field_hash": "aa4ea619b42655942c9b09c110b87be1b221c2631fdc1b301b3ad193edb92e04",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::17-Urinary-Tract-Infections"
       ]
     },
     {
@@ -63173,6 +64064,18 @@
       ]
     },
     {
+      "first_field_hash": "54e5ca11edb7ba91bf3350d83c4676cded3c1e314bf490f56f7e16c539a9b28e",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::18-Kidney-Stones::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "dd9991a515eeb9d3d34a8ae13ade9546ddab75e7bd7340f0841a19d56b37718d",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::17-Urinary-Tract-Infections::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "832ce307dc4ed592ad462d5c9baa572156616c23d1f6b2142c5fd5f6421a5433",
       "tags": [
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-2::10-Biologics-Ectoparasites-&-Clinical-Cases",
@@ -63302,6 +64205,12 @@
       ]
     },
     {
+      "first_field_hash": "86943aa0c360fceebadd2abea934c20c0ceb0e15084fdd0b9f316584d5b3f056",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::Tutorial-1-Bone::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "aa7642b7cb485b7dfbffdd62b0c4131abb34895197742d7e63dd2f05322c43d3",
       "tags": [
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-2::08-Other-Antibiotics-&-Mycobacteria"
@@ -63396,6 +64305,12 @@
       "first_field_hash": "4f04907619f98704a6207438043f3ea1f6d72683acee86c339a74c687374377a",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::MSK-Block::Extra-Upper-Limb-Pathology"
+      ]
+    },
+    {
+      "first_field_hash": "9c0e48cb2a51ace767c0864bc0f4962c6a009e9e5dd4c338b1be5e475770fe34",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::17-Urinary-Tract-Infections::Class-Content"
       ]
     },
     {
@@ -63744,6 +64659,13 @@
       ]
     },
     {
+      "first_field_hash": "9bedc633df539637211731c6bc123ee747652a912bd4bbd6208466c70e83269a",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::18-Kidney-Stones",
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::18-Kidney-Stones::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "00a0355ba26fcbc1aaace4e7907cd672b8a1aa14e9d05c018bf59bec1e66449d",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::MSK-Block::05-Lower-Limb-Pathology",
@@ -63871,6 +64793,12 @@
       ]
     },
     {
+      "first_field_hash": "2ad1dd0066ede94b3c281e957fd6211e457ce591fd93363810098dd5044e3216",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::17-Urinary-Tract-Infections"
+      ]
+    },
+    {
       "first_field_hash": "0929ea1e5de8964fe704bed23afd6465fc30e8164389b91152061fbf8751e355",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::MSK-Block::06-Backache"
@@ -63886,6 +64814,12 @@
       "first_field_hash": "98173772dae32775001e04b714d761d4410e71eeebfe8bb301432f00028ead7e",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::37-Inflammatory-Heart-Disease::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "ca7b83ebb63041742e0bd1764e5fa342abefd46f8b8cddcf533fd74bd7b6a7ee",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::18-Kidney-Stones"
       ]
     },
     {
@@ -63941,6 +64875,12 @@
       "first_field_hash": "1c3ca8044f10d109def8ddeff64c1d292ab6524486d83c4033cfc7e4e473240d",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::09-Acid-Base-Control-and-Exercise-Physiology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "0f5371a1c371494b64981196635600e732e99e078debd0d2b0ece9746177f831",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::18-Kidney-Stones::Class-Content"
       ]
     },
     {
@@ -64100,6 +65040,12 @@
       "first_field_hash": "03d2bdb19b76a4e866a7f651fbebd1ee3e323a570369722d02d906b8c48047c1",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::07-Pulmonary-Function-Testing::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "0103f527c9ab9f069195fc4aed8e3e2bf2479919e0ee133f897abd1fb656a1eb",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::10-Neuroendocrinology"
       ]
     },
     {
@@ -64561,6 +65507,12 @@
       ]
     },
     {
+      "first_field_hash": "c7acdcf5b2e6c9a3ed4860edc958b16cea8aa288228baf2d8b712666bd6d844a",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::18-Kidney-Stones::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "8ec0b9665641be5e934d88a7be8c69bb7a75713c1f942f1b9daa1ba6ba8ef315",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::19-ARDS-&-Ventilators::Class-Content"
@@ -64601,6 +65553,12 @@
       "first_field_hash": "3570b36d67d7d37fa96d490fbc65e0cc5bddb697b51550daa176b42a7d2af1da",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::16-Lower-Respiratory-Infections"
+      ]
+    },
+    {
+      "first_field_hash": "06351bf72cbfc39db07fa7413139a49bc89363073f2e391207097d815c65ffc4",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::18-Kidney-Stones"
       ]
     },
     {
@@ -64918,6 +65876,43 @@
       ]
     },
     {
+      "first_field_hash": "e42d1125cf54ef1317b4da3dea32c7a2951ae53cce4e2bb2f191f0f2bdd2fdd9",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::18-Kidney-Stones"
+      ]
+    },
+    {
+      "first_field_hash": "40d0899bea3e26d8a716d061ee93c9d65cd839b7f36e0239cd223abe4acf25dd",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::18-Kidney-Stones"
+      ]
+    },
+    {
+      "first_field_hash": "b2f285440056988353856f6a00b0338c75a7ad670d750cca6adaf71cf07f2b60",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::18-Kidney-Stones::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "3d0c0ca051c8305b3bf642b5ddc850d0c999ad61ebaaaf2b51223fcb705efb52",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::18-Kidney-Stones",
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::18-Kidney-Stones::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "79a8a04f9d41411e043b0cfadbde950abccbbd4c5cb4bfcfa88e65e294298ece",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::18-Kidney-Stones"
+      ]
+    },
+    {
+      "first_field_hash": "f223f299cf454b981a5b8bf6db5dda459abde3fb92eb59df5bd6bba16a7cdbcc",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::18-Kidney-Stones"
+      ]
+    },
+    {
       "first_field_hash": "e646aff5ef01321548bc468ad849e32b3f5d1c4c96492d778c5929619f9dc8de",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Renal-Block::15-Renal-&-Bladder-Tumor-Pathology::Class-Content"
@@ -65005,6 +66000,12 @@
       ]
     },
     {
+      "first_field_hash": "2f56985f5796651286bfd473da4b482d9b31dbc4877e5a5b1a08aaa18ecdd3d3",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::18-Kidney-Stones"
+      ]
+    },
+    {
       "first_field_hash": "0b457b7a7b60581eff087938bc18826098b816b6abd029124536fe0d83b14d39",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Renal-Block::09-Metabolic-Acidosis-&-Alkalosis"
@@ -65061,9 +66062,27 @@
       ]
     },
     {
+      "first_field_hash": "39ae347c33e81a6cc8dc3ccec6072ba3f9a17a44b024a9fdd33df4e896de0535",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::12-Calcium-Magnesium-&-Phosphate-Regulation"
+      ]
+    },
+    {
+      "first_field_hash": "77acc569d16a43784125992c32ab13bb9f287a55d7a490dfa55a27582e4d2cb9",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::14-Bone-Physiology"
+      ]
+    },
+    {
       "first_field_hash": "a3c992c1f00f57262db7dcfb747f56e7014842ba9e2a78b91f151247c054293a",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::14-Bone-Physiology"
+      ]
+    },
+    {
+      "first_field_hash": "c1d844fbbff249bda80cb88be9ad2f608df1bef25f567137b6a67a971362a647",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::Tutorial-1-Bone::Class-Content"
       ]
     },
     {
@@ -66048,6 +67067,12 @@
       ]
     },
     {
+      "first_field_hash": "d10ea64695b8a46136ef9b7a83768bcd896a83183ef9191cda662e0b9e8a5a48",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::18-Kidney-Stones"
+      ]
+    },
+    {
       "first_field_hash": "56e9059b54c56c0067a10aaef95ee0a2887941cbe1284091d0833ca73fdecc2d",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::09-Endocrinology-of-Growth",
@@ -66193,6 +67218,12 @@
         "JerryShen_AnKing_Tags::Biochemistry::Final::03-Lipid-Metabolism",
         "JerryShen_AnKing_Tags::Biochemistry::Final::05-Nitrogen-Metabolism",
         "JerryShen_AnKing_Tags::POM-4::Clinical-Reasoning::Approach-to-Palpitations"
+      ]
+    },
+    {
+      "first_field_hash": "67953334ff3957ce4adac2c526af34c48e9fab1ec172d331233ee2a92c83161c",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::Tutorial-1-Bone::Class-Content"
       ]
     },
     {
@@ -66914,6 +67945,12 @@
       ]
     },
     {
+      "first_field_hash": "ca1720eef5aab6b2b0ad428acf712fe407ce3f57a4b6c006af09684e6950f526",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::17-Urinary-Tract-Infections"
+      ]
+    },
+    {
       "first_field_hash": "c003c9455868a4818576fd7592ccc1f9a41ac703c6a62b2c92d38da26a02dc49",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::17-Chest-Imaging-II::Class-Content"
@@ -67145,6 +68182,12 @@
       ]
     },
     {
+      "first_field_hash": "09f96da48dc63c8cf98b9728098e17eab8a709d169355e889c4c55d19c9ff032",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::06-Disorders-of-Water-Balance"
+      ]
+    },
+    {
       "first_field_hash": "1409299c5cff980a043f86a63c4ead188c22ec1a20a117244841c803e101e41a",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Renal-Block::02-Body-Fluid-Compartments::Class-Content"
@@ -67218,6 +68261,12 @@
       ]
     },
     {
+      "first_field_hash": "51af256050c20079ce56cfb6659097daaa709c21bec916c58e0765370c5ddf4a",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::14-Bone-Physiology"
+      ]
+    },
+    {
       "first_field_hash": "185860f4800ab00def0a16923afb250eb274194e7747e35c8e1e9a7812fa1807",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::22-Peripheral-Arterial-&-Aortic-Disease::Class-Content"
@@ -67279,6 +68328,12 @@
       ]
     },
     {
+      "first_field_hash": "a6f545e3b95745c1591ba104f6646ed267baa2b99a792faa917d4ad58c1ade91",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::14-Bone-Physiology"
+      ]
+    },
+    {
       "first_field_hash": "046fff7c7dfa73006266e923740cc3c81cbc2b10b602b84c29691a7db78c0846",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::14-Bone-Physiology::Class-Content"
@@ -67315,6 +68370,12 @@
       ]
     },
     {
+      "first_field_hash": "02cdbac50a1ce1777e4788cfd9692f822971a103800c662eb8306ac3b8fa486d",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::Tutorial-1-Bone::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "f30d2d394e5880cb00d404b66a80934456752ea9492ee90f0ad358ae0ac8958d",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::14-Bone-Physiology"
@@ -67330,6 +68391,24 @@
       "first_field_hash": "132aef789881b31d57e85a6cc18035921c227bd8ed102e5e2bf28d7e04e5164b",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::MSK-Block::08-Pediatric-Orthopaedics"
+      ]
+    },
+    {
+      "first_field_hash": "14ceb8e2bdeddd431ed5207f2d714e4f1cdbead24e0b026144310fd03d870e3b",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::14-Bone-Physiology"
+      ]
+    },
+    {
+      "first_field_hash": "0045fc5b1acaf755ca5d005e8e5120caca3eafcd4007410b5504f52b1cb0434c",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::Tutorial-1-Bone::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "f1bda1abc620af0e46aa0e1cbf39e309b6ab0de412b9f13f399caa88884d00e6",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::Tutorial-1-Bone::Class-Content"
       ]
     },
     {
@@ -67361,6 +68440,19 @@
       "first_field_hash": "3caf8d5c4fa1dd349671b7ae0ffc1d16ef388bb8ae4f3b9d140a19eaf306bba4",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::10-Neuroendocrinology"
+      ]
+    },
+    {
+      "first_field_hash": "ef494a4fe6e9feb3d0835aade3971617b6e2c35dc134e76d81387d72ba802925",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::18-Kidney-Stones"
+      ]
+    },
+    {
+      "first_field_hash": "bd3bb96e80457856d72adb0d0ce36af58f247fd4b89477e84cda3b3923582ff9",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::18-Kidney-Stones",
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::18-Kidney-Stones::Class-Content"
       ]
     },
     {
@@ -67478,6 +68570,18 @@
       "first_field_hash": "cb6a5d08f6827bdb11e6e3fc5ae738d97b7efc0cac84b311d876f44ef9403382",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::15-Upper-Respiratory-Infections"
+      ]
+    },
+    {
+      "first_field_hash": "bf7783dde4451f7dfd6a57740687b47f97b7aa4f185130add56b4b2b2b0ac67f",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::18-Kidney-Stones::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "ea11c7405d0199c408d7bc8a900a63993ccf2e3f4d4e309aef0f71d373af8742",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::18-Kidney-Stones::Class-Content"
       ]
     },
     {
