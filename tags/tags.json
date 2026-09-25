@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
   "author": "JerryShen",
-  "description": "nephritic and nephrotic",
-  "created": "2026-09-23T23:14:16.027559+00:00",
-  "updated": "2026-09-23T23:14:16.027559+00:00",
+  "description": "thyroid--there's a lot",
+  "created": "2026-09-25T01:02:26.382435+00:00",
+  "updated": "2026-09-25T01:02:26.382435+00:00",
   "tag_prefix": "JerryShen_AnKing_Tags",
   "tag_hierarchy": [
     "JerryShen_AnKing_Tags",
@@ -284,6 +284,8 @@
     "JerryShen_AnKing_Tags::POM-4::Clinical-Reasoning::Approach-to-Polyuria",
     "JerryShen_AnKing_Tags::POM-4::Clinical-Reasoning::Approach-to-Polyuria::Class-Content",
     "JerryShen_AnKing_Tags::POM-4::Clinical-Reasoning::Class-Content",
+    "JerryShen_AnKing_Tags::POM-4::Clinical-Reasoning::Shortness-of-Breath-(Hyperthyroidism)",
+    "JerryShen_AnKing_Tags::POM-4::Clinical-Reasoning::Shortness-of-Breath-(Hyperthyroidism)::Class-Content",
     "JerryShen_AnKing_Tags::POM-4::EMED-Procedures",
     "JerryShen_AnKing_Tags::POM-4::EMED-Procedures::Foley-NGTube-&-I&D",
     "JerryShen_AnKing_Tags::POM-4::EMED-Procedures::Foley-NGTube-&-I&D::Class-Content",
@@ -488,6 +490,10 @@
     "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::14-Bone-Physiology::Class-Content",
     "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::15-Bone-Pathophysiology",
     "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::15-Bone-Pathophysiology::Class-Content",
+    "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::16-Thyroid-Physiology-&-Pathophysiology",
+    "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::16-Thyroid-Physiology-&-Pathophysiology::Class-Content",
+    "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::17-Thyroid-Pathology",
+    "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::17-Thyroid-Pathology::Class-Content",
     "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::Tutorial-1-Bone",
     "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::Tutorial-1-Bone::Class-Content",
     "JerryShen_AnKing_Tags::SOM-2::Renal-Block",
@@ -824,6 +830,11 @@
       "date": "2026-09-23T23:14:16.027559+00:00",
       "message": "nephritic and nephrotic",
       "note_count": 251
+    },
+    {
+      "date": "2026-09-25T01:02:26.382435+00:00",
+      "message": "thyroid--there's a lot",
+      "note_count": 349
     }
   ],
   "notes": [
@@ -982,6 +993,13 @@
       "tags": [
         "JerryShen_AnKing_Tags::POM-3::Clinical-Reasoning::Advanced-CV-Exam",
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::18-Heart-Sounds-&-Clinical-Exam"
+      ]
+    },
+    {
+      "first_field_hash": "4f3959f9a1bc8478bef3b3ab85c7f768140bb754c9d16d6cfe1b97f537186d61",
+      "tags": [
+        "JerryShen_AnKing_Tags::POM-4::Clinical-Reasoning::Shortness-of-Breath-(Hyperthyroidism)",
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::16-Thyroid-Physiology-&-Pathophysiology"
       ]
     },
     {
@@ -1556,6 +1574,24 @@
       ]
     },
     {
+      "first_field_hash": "c1883e1c4d9ea53c23f35bd0165b443df0a5044ea727ba5e4c4900934d81b864",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::16-Thyroid-Physiology-&-Pathophysiology"
+      ]
+    },
+    {
+      "first_field_hash": "7794ed5665d82b471e4899249638431eb9416db5216631067be4b897c74ce3a3",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::16-Thyroid-Physiology-&-Pathophysiology"
+      ]
+    },
+    {
+      "first_field_hash": "099a7fe3b936ac5a8924269771d6f6b96cb9624a24b2d5e2eb6956d2fe6af028",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::16-Thyroid-Physiology-&-Pathophysiology::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "d7a2c8d287d09d3275cf4dc248d83266819a63d9c1594795699c153a9e6f43b5",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::10-Neuroendocrinology"
@@ -1964,15 +2000,193 @@
       ]
     },
     {
+      "first_field_hash": "eed870b5a77bf59d7200959e227aeb0029d9c450b32376f365fe6267124d5a57",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::16-Thyroid-Physiology-&-Pathophysiology"
+      ]
+    },
+    {
+      "first_field_hash": "808ceda40eac8b99a6d54402a037604e57a4669d2a8713614185c92eee4d45ee",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::16-Thyroid-Physiology-&-Pathophysiology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "d6a78dc944518f369d9830a2f8b2d03ce39fcc44fbdfd8d86bb18ae79853fdc9",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::16-Thyroid-Physiology-&-Pathophysiology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "ffbc5ffdfb4b6801cdd31ceb6b0d237a922dcddbc63cd9d38825a13d0ad29652",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::16-Thyroid-Physiology-&-Pathophysiology::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "639228f8bc25a659c570e54c5aef2eb9659eee66d682eb1def7e3098a46465ee",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::12-Normal-Endocrine-Histology::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::12-Normal-Endocrine-Histology::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::16-Thyroid-Physiology-&-Pathophysiology::Class-Content"
       ]
     },
     {
       "first_field_hash": "48c943080d4ed2e314cb1fd75445bfdad78f98c4c6562a92bbdc0ded56fad220",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::12-Normal-Endocrine-Histology"
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::12-Normal-Endocrine-Histology",
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::16-Thyroid-Physiology-&-Pathophysiology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "5d98a73047d4c12928e284c25c2eb514931c7c6a4b351f7a077cf8e79b95fb7a",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::16-Thyroid-Physiology-&-Pathophysiology"
+      ]
+    },
+    {
+      "first_field_hash": "7babe9d328651ed69bb2efaa6f1690939c60cea6c49edb8b10d38d168ab15aa2",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::16-Thyroid-Physiology-&-Pathophysiology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "0f5c049bd3596ed761c22efc29c5bd16520ea7e8326b02b216155e48e2c5ecc2",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::16-Thyroid-Physiology-&-Pathophysiology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "78a4c08b5524954195057fe6bb5751c1d1dd61640823e3c1d3dda494711c3722",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::16-Thyroid-Physiology-&-Pathophysiology"
+      ]
+    },
+    {
+      "first_field_hash": "45f301f5fe751906b8c6a0cc4a558b6251518dacf11e28b192bca48e77e0f2ea",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::16-Thyroid-Physiology-&-Pathophysiology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "afe22710b2047a48831bd0ff850aaa80cf09674ebbcf96335b857c9d6f7ebb6b",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::16-Thyroid-Physiology-&-Pathophysiology",
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::16-Thyroid-Physiology-&-Pathophysiology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "e9142a2106a5fb0aff4345256dd4cff45a85ce1eade909cdd5416111410559cf",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::16-Thyroid-Physiology-&-Pathophysiology"
+      ]
+    },
+    {
+      "first_field_hash": "5d974d58c06f102cd437e0854ffd5de3f97fece7e077aa00085136fee467757d",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::16-Thyroid-Physiology-&-Pathophysiology"
+      ]
+    },
+    {
+      "first_field_hash": "bdf3c17b7e0fff5021eb2092142807c854f197f16b288f133c887f888b13c48f",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::16-Thyroid-Physiology-&-Pathophysiology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "fe160867b80773faf7115a501a61498f6efb30477664d1abe7db29e624e307e6",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::16-Thyroid-Physiology-&-Pathophysiology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "e4bb1f35cef766e0bc18ae0bb63883d8733add4e6d32aaf19eaa80c2ec111c03",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::16-Thyroid-Physiology-&-Pathophysiology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "45978c13f579be365bdfbb9a2dc06b30656407f5d6318faea7832787ae83a12b",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::16-Thyroid-Physiology-&-Pathophysiology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "e7b35de9c1896dbf78c367cc8e58478822c97d8d5a31d8eca115965af61ece4a",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::16-Thyroid-Physiology-&-Pathophysiology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "08d616fa268a5ac765d0c6e5abe4e9686ca4b20266b79baee0df8c093b99a2f2",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::16-Thyroid-Physiology-&-Pathophysiology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "816be6103028a3f19ebd87ee00a50b8ddd670d76d7a8dfb784e0b32eae202818",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::16-Thyroid-Physiology-&-Pathophysiology"
+      ]
+    },
+    {
+      "first_field_hash": "56e9487b06d9ad3d0be356e970e1af78e2ee4ac7f27755d8b4d21528d889a9e1",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::16-Thyroid-Physiology-&-Pathophysiology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "103e29293d23d8d35a9baafe122c7e49db24bf765bba0ca47bd9a8b88c9e5d7e",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::16-Thyroid-Physiology-&-Pathophysiology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "9d053814a7d342c7ead465d7b3e79c842764b7386865eab0dfdb0bf2c1143ce2",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::16-Thyroid-Physiology-&-Pathophysiology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "610f055836f8c6852ae7f6907eab6d6ca328565d9d45c31674051dff70bc0933",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::16-Thyroid-Physiology-&-Pathophysiology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "fa4f8b5876e172059f6ac5fbeffa7d26a339f0a55dbed77c59ac395513bca020",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::16-Thyroid-Physiology-&-Pathophysiology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "111be758820cc33c1fe5093df4bf92e697baf8ac0c58cce97408aba12fa2eacb",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::16-Thyroid-Physiology-&-Pathophysiology"
+      ]
+    },
+    {
+      "first_field_hash": "b5d116415c537a73b2f858f961d2040179b2634b72b2591ce92011838727df5c",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::16-Thyroid-Physiology-&-Pathophysiology",
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::16-Thyroid-Physiology-&-Pathophysiology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "e587b9dda94061df14acb5cb4458688dd8d6b7c389b546af2443e483191df9d7",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::16-Thyroid-Physiology-&-Pathophysiology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "3dc0909fdfbed41ff3ecbe778de5bf7f4f5d74198c75d43cb3986b9bcac09711",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::16-Thyroid-Physiology-&-Pathophysiology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "4de506c2cc5c9765c3cb367f1fe14a6316f7f4004c165005fa00dd8730574706",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::16-Thyroid-Physiology-&-Pathophysiology"
       ]
     },
     {
@@ -1988,28 +2202,125 @@
       ]
     },
     {
+      "first_field_hash": "93eec62fc0566b30ce296a4946314107d295f83dd42be5eb3e3f7239d17ac0fe",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::16-Thyroid-Physiology-&-Pathophysiology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "6ecb95295561bfb5ae6c8b516e7c9e7978c95684112b342412ce0994b7981bac",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::16-Thyroid-Physiology-&-Pathophysiology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "50d0dd87c80e04e76b0bdc0ac396c2c400c40e26db01ad8ce93dba184d6ecd0c",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::16-Thyroid-Physiology-&-Pathophysiology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "8da7116372e71bae83e8ef8d302d5a1df31d30d0ce0cb89f181fc64f4cc1d45f",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::16-Thyroid-Physiology-&-Pathophysiology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "22c96b3de38ade5968bb9c5fa2660e36060a8a96544b395b6240f89fe5671a52",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::16-Thyroid-Physiology-&-Pathophysiology::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "bfc29887fd09077731b02ae11501a2f185f0df31d4c0295ad9d342db132dfba4",
       "tags": [
-        "JerryShen_AnKing_Tags::Immunology::Final::Antibody-Mediated-Autoimmunity::Class-Content"
+        "JerryShen_AnKing_Tags::Immunology::Final::Antibody-Mediated-Autoimmunity::Class-Content",
+        "JerryShen_AnKing_Tags::POM-4::Clinical-Reasoning::Shortness-of-Breath-(Hyperthyroidism)::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "5c12e716f9db536ce4bd4fd99ae1a0ae2480498710d614cbc2973dfcfd7d215f",
+      "tags": [
+        "JerryShen_AnKing_Tags::POM-4::Clinical-Reasoning::Shortness-of-Breath-(Hyperthyroidism)"
       ]
     },
     {
       "first_field_hash": "158ec1e9218af9a873fe183b0b82a4a61168feddd54b623ab2f6f074bdbf07ca",
       "tags": [
-        "JerryShen_AnKing_Tags::Immunology::Final::Hypersensitivity-and-Allergy"
+        "JerryShen_AnKing_Tags::Immunology::Final::Hypersensitivity-and-Allergy",
+        "JerryShen_AnKing_Tags::POM-4::Clinical-Reasoning::Shortness-of-Breath-(Hyperthyroidism)::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::16-Thyroid-Physiology-&-Pathophysiology",
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::16-Thyroid-Physiology-&-Pathophysiology::Class-Content"
       ]
     },
     {
       "first_field_hash": "bf04a6051bc39f47dd5c9d845914258e93ddc8d9bffa335c6a94de3e59012889",
       "tags": [
         "JerryShen_AnKing_Tags::Immunology::Final::Antibody-Mediated-Autoimmunity",
-        "JerryShen_AnKing_Tags::Immunology::Final::Antibody-Mediated-Autoimmunity::Class-Content"
+        "JerryShen_AnKing_Tags::Immunology::Final::Antibody-Mediated-Autoimmunity::Class-Content",
+        "JerryShen_AnKing_Tags::POM-4::Clinical-Reasoning::Shortness-of-Breath-(Hyperthyroidism)::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::16-Thyroid-Physiology-&-Pathophysiology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "a03556cca1bf48513dc0904b9940f393489bce900f668271fb6a2f73650aa796",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::16-Thyroid-Physiology-&-Pathophysiology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "52e414338fc7bc7f15963c13dc4c6dcb868d5fa356860e06887d35054c1d81cc",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::16-Thyroid-Physiology-&-Pathophysiology::Class-Content"
       ]
     },
     {
       "first_field_hash": "05c5bf532460ac7ece5f3be86606f5e91d4782e422153d7263af8cd8a7af22fc",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::13-Obesity"
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::13-Obesity",
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::16-Thyroid-Physiology-&-Pathophysiology"
+      ]
+    },
+    {
+      "first_field_hash": "d3b27891190217ab93e20df53145477c279c66dab960534bf1e842de5febfb02",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::16-Thyroid-Physiology-&-Pathophysiology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "bed6100ae5ca0dc14d3ac32186b7baff5b69bbb033328fd406c21c4ba625dc07",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::16-Thyroid-Physiology-&-Pathophysiology"
+      ]
+    },
+    {
+      "first_field_hash": "152e528f39382c5a649251ef621556aaa4ac545c8b2e4de1882220c84ab31967",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::16-Thyroid-Physiology-&-Pathophysiology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "dea3a471bea61987b44e37cb9fd58977c16990309c3a3e2277064e61b5a5f7c3",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::16-Thyroid-Physiology-&-Pathophysiology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "0a93bcfd158a4077b336365c540461551b91cb03399baff29938b31f8193bea5",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::16-Thyroid-Physiology-&-Pathophysiology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "36679538a8437f4cad7bc5bfa8e819f84c365d02bdc81287dd55f0c57dda7e64",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::16-Thyroid-Physiology-&-Pathophysiology"
+      ]
+    },
+    {
+      "first_field_hash": "37a871a8cdc0a0c0b77d960ce71b69d195045629b222d4ee5d126bc05857a81e",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::16-Thyroid-Physiology-&-Pathophysiology"
       ]
     },
     {
@@ -2021,7 +2332,20 @@
     {
       "first_field_hash": "c3632eefd5ce25709083a378ae9c322938d0b8847aa183e2b24711ff51105f1f",
       "tags": [
-        "JerryShen_AnKing_Tags::POM-3::Clinical-Reasoning::Advanced-CV-Exam::Class-Content"
+        "JerryShen_AnKing_Tags::POM-3::Clinical-Reasoning::Advanced-CV-Exam::Class-Content",
+        "JerryShen_AnKing_Tags::POM-4::Clinical-Reasoning::Shortness-of-Breath-(Hyperthyroidism)::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "7442e4a287d610dc255a905f50cf565f33eeee1ed35c30cc265e229539966027",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::16-Thyroid-Physiology-&-Pathophysiology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "77c50f3d48038298344f237ff994c85e4fe6da596d71e440696448a449e51cb6",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::16-Thyroid-Physiology-&-Pathophysiology::Class-Content"
       ]
     },
     {
@@ -2031,9 +2355,83 @@
       ]
     },
     {
+      "first_field_hash": "40fef2d53a54e5fe93c1d7c4ea0447e086834088e2717f2127ef14f70544ac32",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::16-Thyroid-Physiology-&-Pathophysiology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "fc40ca410c82ad2cc46d2e80b14c8118df3b543d7d9177da85c2cd6c0f262d25",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::16-Thyroid-Physiology-&-Pathophysiology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "5ac3571403db98999958fcfe54057525a71bdaed55da24d1269b8597fe67097e",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::16-Thyroid-Physiology-&-Pathophysiology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "9c9749c7ade480ef0d874d9f69339b8ad8cfe2c1458a0743dbe08c1d93e52fda",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::16-Thyroid-Physiology-&-Pathophysiology",
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::16-Thyroid-Physiology-&-Pathophysiology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "fae26ecc7d8a0bed6edd1d88a384050188eff2204e07ec5b62452bcd59781b5b",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::16-Thyroid-Physiology-&-Pathophysiology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "ea0b7830cac4c3fa702d9235842e6cfe734e3fbdafbf1809b9e776721f450209",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::16-Thyroid-Physiology-&-Pathophysiology::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "2b2a0eaad579017117eb0dfae96ac8a202fc69e41398176a0edb9ca40311d337",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::01-Intro-to-Endocrine-Block"
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::01-Intro-to-Endocrine-Block",
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::16-Thyroid-Physiology-&-Pathophysiology"
+      ]
+    },
+    {
+      "first_field_hash": "792ca2c09439fe33fd132c388a33bcc793aebef4607d323750ab8f667d560bf2",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::16-Thyroid-Physiology-&-Pathophysiology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "dcb8c7c5045452e1fb72e264d5c95ce213e22c4285af64eb7a28591faebea8ac",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::16-Thyroid-Physiology-&-Pathophysiology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "ea72b2ff85a36f46fdf47fb626f0e9f4a5672618356613ae3b161f67d64f110b",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::16-Thyroid-Physiology-&-Pathophysiology"
+      ]
+    },
+    {
+      "first_field_hash": "0d4dd50ec0c7d60e3a7dd4be33d4b5348dfc13704b87352db5d1d13782aa907b",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::16-Thyroid-Physiology-&-Pathophysiology"
+      ]
+    },
+    {
+      "first_field_hash": "f233d65638d71dd6ff027d43fffcd7a74f380b2305fa9ee6026e59aa487d1beb",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::16-Thyroid-Physiology-&-Pathophysiology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "831131f561d3ccebc072207204791fbf55878ab03bccb84026ced1d1e736ecae",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::16-Thyroid-Physiology-&-Pathophysiology::Class-Content"
       ]
     },
     {
@@ -2773,7 +3171,8 @@
       "first_field_hash": "d9d4fe513d630912c610611b852e13cc66121efb1496f38cda10a3ac1b3b635e",
       "tags": [
         "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-6-Head-&-Neck-1::Histology::Class-Content",
-        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::12-Normal-Endocrine-Histology::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::12-Normal-Endocrine-Histology::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::16-Thyroid-Physiology-&-Pathophysiology::Class-Content"
       ]
     },
     {
@@ -2948,7 +3347,8 @@
     {
       "first_field_hash": "36384f1e788d6f704b27306a3b06b43a94a1433cd07b00a5b329d062411d3eb2",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::14-Bone-Physiology::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::14-Bone-Physiology::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::16-Thyroid-Physiology-&-Pathophysiology"
       ]
     },
     {
@@ -3032,7 +3432,8 @@
       "first_field_hash": "fa72fe80760a302b97fa19fa2eac54d2a574998f573a2fbe230499f21ecce89c",
       "tags": [
         "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-6-Head-&-Neck-1::Histology::Class-Content",
-        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::12-Normal-Endocrine-Histology::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::12-Normal-Endocrine-Histology::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::16-Thyroid-Physiology-&-Pathophysiology::Class-Content"
       ]
     },
     {
@@ -3404,9 +3805,496 @@
       ]
     },
     {
+      "first_field_hash": "596a71548bd23e7bad56c1d8ee9d094853df86eb5dfade957a2e926dc8acc215",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::16-Thyroid-Physiology-&-Pathophysiology"
+      ]
+    },
+    {
+      "first_field_hash": "97d987727941051dadaf92684a748a6565b17ea0ba55eb08d7cabf151500e07e",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::16-Thyroid-Physiology-&-Pathophysiology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "ca7ba85628500f7d0bdea055400dbc6edc290c2a5dd6adbeae4bed2182b39ec6",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::16-Thyroid-Physiology-&-Pathophysiology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "c85985a3f473311ca598aaa168a97aa387a83cfea00703b31be14bf3f622c6cd",
+      "tags": [
+        "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-7-Head-&-Neck-2::Embryology",
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::16-Thyroid-Physiology-&-Pathophysiology",
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::16-Thyroid-Physiology-&-Pathophysiology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "b8c439ec6073c8ba0a117dd65bcba7076193663b1baf6c71a9be00d45fb3be14",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::16-Thyroid-Physiology-&-Pathophysiology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "5f272effd7875ceb240351bb80c7b54f5e5fc402c199c27566011399238f8d16",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::16-Thyroid-Physiology-&-Pathophysiology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "1be3032d71fb3803e886939619b1f64d7f5fac05911586dc47e241cf84ce46b7",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::16-Thyroid-Physiology-&-Pathophysiology"
+      ]
+    },
+    {
+      "first_field_hash": "0e5ef58c23b5faa0e0126e279342cdd6cc95e84a41675e9d5a6ca33fc28c965d",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::16-Thyroid-Physiology-&-Pathophysiology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "ddda83393c0b911b0a93a709318a9780f085ef557e2cc2fb6fdbac465188f7d2",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::16-Thyroid-Physiology-&-Pathophysiology",
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::16-Thyroid-Physiology-&-Pathophysiology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "53def1bcd8293225c7b2f67e54a13598a0ebc98a9a0091e14118fa8762dc1b8f",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::16-Thyroid-Physiology-&-Pathophysiology"
+      ]
+    },
+    {
+      "first_field_hash": "665784a4ab687c8305d79c71e3565032c8a958ba36f2959d00009a66cd9e4141",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::16-Thyroid-Physiology-&-Pathophysiology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "ec101af75940c621e7fad889740e49ee3e09e2de0d5a1f149ebca11ea0018703",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::16-Thyroid-Physiology-&-Pathophysiology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "2536753f51b4f3a57af8aee742164745ca5af72aec8bdd9bbb6a6284ffbd3a63",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::16-Thyroid-Physiology-&-Pathophysiology",
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::16-Thyroid-Physiology-&-Pathophysiology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "74459bfcdfbb4a32cd4c411e743fc54ea8fb9e4e78f29387caffe968e111a6eb",
+      "tags": [
+        "JerryShen_AnKing_Tags::POM-4::Clinical-Reasoning::Shortness-of-Breath-(Hyperthyroidism)::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::16-Thyroid-Physiology-&-Pathophysiology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "0992581a289a27376c2ec0986d4f42904f87f6563a8e13d379ef1306c8ef0ddc",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::16-Thyroid-Physiology-&-Pathophysiology"
+      ]
+    },
+    {
+      "first_field_hash": "3890ecb749faf91e3b47053bab3e193a1fbf8a5107e2047285a3c999608a2a63",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::16-Thyroid-Physiology-&-Pathophysiology"
+      ]
+    },
+    {
+      "first_field_hash": "c1332d0573bd94840e2284d6bccdacb24adb7aea0a7dfb00a1ccbe5d909daba1",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::16-Thyroid-Physiology-&-Pathophysiology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "dcbdcf3b6a4a44c24b41373dcd3460b8381889f95de33c85a46eb6ff451b3ffc",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::16-Thyroid-Physiology-&-Pathophysiology"
+      ]
+    },
+    {
+      "first_field_hash": "0c3a3cd45ec0d05116b079e69657102236dd2f20276cef9baf727464472ed2a5",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::16-Thyroid-Physiology-&-Pathophysiology"
+      ]
+    },
+    {
+      "first_field_hash": "2bcf4b6b162d40dc647ec8f645c7d42a0cebdd8a6fb5562739b4e8f60299a108",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::16-Thyroid-Physiology-&-Pathophysiology"
+      ]
+    },
+    {
       "first_field_hash": "ca70c39ecba6e3be671878ac4cccd6a27157ae285278320a7a9f70286e0d2e82",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::01-Intro-to-Endocrine-Block"
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::01-Intro-to-Endocrine-Block",
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::16-Thyroid-Physiology-&-Pathophysiology"
+      ]
+    },
+    {
+      "first_field_hash": "3f480e957e685154f016f2f0be28935b3db3d8f10333ccd7c07a109795659930",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::16-Thyroid-Physiology-&-Pathophysiology",
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::17-Thyroid-Pathology"
+      ]
+    },
+    {
+      "first_field_hash": "1eae49ef3bfe0ad49abdaadd2db3982209afd87b6508a82ce5fd69774e1435f5",
+      "tags": [
+        "JerryShen_AnKing_Tags::POM-4::Clinical-Reasoning::Shortness-of-Breath-(Hyperthyroidism)::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::16-Thyroid-Physiology-&-Pathophysiology"
+      ]
+    },
+    {
+      "first_field_hash": "d6a375559ae49f684e2184189f1de526c2ea2e1dfbdb0264cb7f464889a7c230",
+      "tags": [
+        "JerryShen_AnKing_Tags::POM-4::Clinical-Reasoning::Shortness-of-Breath-(Hyperthyroidism)::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "fc736a2de296f43bc079b225fa4f785d3d46001f1a49cb92c415bf7921b3a1e4",
+      "tags": [
+        "JerryShen_AnKing_Tags::POM-4::Clinical-Reasoning::Shortness-of-Breath-(Hyperthyroidism)"
+      ]
+    },
+    {
+      "first_field_hash": "649789d514f596f376f95ec83a430828acc7bec78c8997baa07ef0475eb545fc",
+      "tags": [
+        "JerryShen_AnKing_Tags::POM-4::Clinical-Reasoning::Shortness-of-Breath-(Hyperthyroidism)::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "46fda368bf7b786013c3912bdbe32fbe9e8db5c7254851d21e59c395f54ba0e1",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::16-Thyroid-Physiology-&-Pathophysiology",
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::17-Thyroid-Pathology",
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::17-Thyroid-Pathology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "df714572551b87a1b15c4bb3f02510ce6bd61703b9b548df04f3e11ae2e312d4",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::16-Thyroid-Physiology-&-Pathophysiology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "619d96ec991e094dcdf19ccb0b55ecd6dfb064cf02d0373c776d28f579c658f6",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::17-Thyroid-Pathology"
+      ]
+    },
+    {
+      "first_field_hash": "8a63d522bcece621da9b2d2ecfb0c96677eae32daae4a1856b6e299ef913278f",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::16-Thyroid-Physiology-&-Pathophysiology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "fe1c985f71ecb6c952119d498a95f6a6d1f97059e4a1274c874bef1894bef938",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::16-Thyroid-Physiology-&-Pathophysiology"
+      ]
+    },
+    {
+      "first_field_hash": "e213208638a27e0043ccf22d123fb70edd02d04632d6a090dfaed8f87e05fcea",
+      "tags": [
+        "JerryShen_AnKing_Tags::POM-4::Clinical-Reasoning::Shortness-of-Breath-(Hyperthyroidism)"
+      ]
+    },
+    {
+      "first_field_hash": "fddbc4db52d0763700337c8aacd76f09f2c7a3c1af47a592c0971f4d6041596c",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::16-Thyroid-Physiology-&-Pathophysiology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "95ab604bcc530361d06d76f954f630060f804d8949a7a913d9f8b7029fd6e0ee",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::16-Thyroid-Physiology-&-Pathophysiology",
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::16-Thyroid-Physiology-&-Pathophysiology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "cb1556b3cc0e64f3feaf8b95d78f43e5ec3b9e51bf95a3ece6bad8554a589be6",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::16-Thyroid-Physiology-&-Pathophysiology"
+      ]
+    },
+    {
+      "first_field_hash": "bf7fc40211e10b11909fdbbffb5c218588b424bb8e0bf0cf35e7566a352dc8e9",
+      "tags": [
+        "JerryShen_AnKing_Tags::POM-4::Clinical-Reasoning::Shortness-of-Breath-(Hyperthyroidism)",
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::16-Thyroid-Physiology-&-Pathophysiology"
+      ]
+    },
+    {
+      "first_field_hash": "17f9075ed281fa1f724961040d65de4d9ab1ba8d4b6b438bd3eb16294de3abc2",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::16-Thyroid-Physiology-&-Pathophysiology"
+      ]
+    },
+    {
+      "first_field_hash": "6700debd5483bd38de2d210a54f4c9bb1ea3af8b7a1970e0b77198f84c5258ea",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::16-Thyroid-Physiology-&-Pathophysiology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "f6a7b021225f92c4a14404353cf81464c1a7904a86ecbdca1c9232df4e2bda40",
+      "tags": [
+        "JerryShen_AnKing_Tags::POM-4::Clinical-Reasoning::Shortness-of-Breath-(Hyperthyroidism)"
+      ]
+    },
+    {
+      "first_field_hash": "fbe0940a2ae374231caebb2a5408606ac229a9991d3f2ca92fff94be3c4ea5e2",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::16-Thyroid-Physiology-&-Pathophysiology",
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::16-Thyroid-Physiology-&-Pathophysiology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "25494c6166801e49fd27c2601629ba43a6b335fab26d7c9153b347785e3b5f6e",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::16-Thyroid-Physiology-&-Pathophysiology"
+      ]
+    },
+    {
+      "first_field_hash": "8b9f0138a9a6b13b40c5bc8e8aef0bfd2533c820b433a6df24e74f43f87b52b3",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::16-Thyroid-Physiology-&-Pathophysiology"
+      ]
+    },
+    {
+      "first_field_hash": "6b93c50f42d270d55761f0e6695cbc8dbb105dee35f69cc123c7025cf60f32ac",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::16-Thyroid-Physiology-&-Pathophysiology"
+      ]
+    },
+    {
+      "first_field_hash": "cd280e13448402fa0990bc74159e60b81e16a68911c691c8b92b8a5666d0eba9",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::17-Thyroid-Pathology"
+      ]
+    },
+    {
+      "first_field_hash": "298b6ba5bb99a63a8e8e9f3b8da417e455b42de41d31f57e2112374bc816621f",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::17-Thyroid-Pathology"
+      ]
+    },
+    {
+      "first_field_hash": "f0e796990df6e56511173a702ee61ca5e11fec237a2c090cda79e63e10b2f2d2",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::16-Thyroid-Physiology-&-Pathophysiology",
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::16-Thyroid-Physiology-&-Pathophysiology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "a3c586b145c6250eafa80373904a938487049ad7b4d2bb383839324e22b8f699",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::16-Thyroid-Physiology-&-Pathophysiology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "9c8b6fb7e67b2cb9895298e87e114c7dece97497e40b1c08cd7daf8c380e4463",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::16-Thyroid-Physiology-&-Pathophysiology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "3ee4313edd2c187cd056c94011f94fd312ad9dc7656794faf1eb08515589e73f",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::16-Thyroid-Physiology-&-Pathophysiology",
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::16-Thyroid-Physiology-&-Pathophysiology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "8e3af20572b8577aefa5f3d2ac00532a254956a10e4b80d085bc5aae23d8fc04",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::16-Thyroid-Physiology-&-Pathophysiology"
+      ]
+    },
+    {
+      "first_field_hash": "4e17bd482455accbb924e0ba21f6be1c56bbf2849b49388392be77560b3040e7",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::16-Thyroid-Physiology-&-Pathophysiology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "259cff6ae483151c6f0337ddf81138f0724dee9e3d3a84a6e4ae641f1e7cbdd7",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::16-Thyroid-Physiology-&-Pathophysiology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "5136103a1b10e819858ed997f2b45b3dad430677858101ba3ff4a8ca55391564",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::16-Thyroid-Physiology-&-Pathophysiology"
+      ]
+    },
+    {
+      "first_field_hash": "044eff39322b523f326effd815e7c21dfec2004512c5ecdfe3ea164b2a950bad",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::17-Thyroid-Pathology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "14aa23a1630e2a054f523c28d511dbd37b4e52e4a5e0cdfec1079d4117f547e2",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::17-Thyroid-Pathology",
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::17-Thyroid-Pathology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "bef5dfe09f651aa936234ef993cf704f18900f66e7b530c0d95baf70d3b88182",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::17-Thyroid-Pathology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "9ada50d6f70ccef2952ee18dcc3e0e95263440bb90232f61e382a6706b1211e0",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::16-Thyroid-Physiology-&-Pathophysiology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "b3cfa7324d8a13cf520c3098e0a916bb7f822a3cca5cfcd96a71f573957eb308",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::17-Thyroid-Pathology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "7ee15b9a0a9099c60d4e49654cb6b782f8f3acac7bc803d7a034062dc1cc5857",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::17-Thyroid-Pathology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "c58c0a2d55794fbcb509c3934515600f476a8210b6612082c2d224de13c90db6",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::17-Thyroid-Pathology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "79ee9dd7ef238a26b4144a0cf14fe92ab3bc8bdb797fff34b90fb084bd61959b",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::17-Thyroid-Pathology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "bd6d0b570696ef5042cb72d61f6a54a0a7ae877b347f1502d3ed289013b33820",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::17-Thyroid-Pathology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "ca905fe56d62b989acb80f9e35f8ef5ac999549d52ac08825cffd3287b43e66a",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::17-Thyroid-Pathology",
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::17-Thyroid-Pathology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "835d008a622b2235c337a6126267a51829a04bb487f88048657f12574182de48",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::17-Thyroid-Pathology",
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::17-Thyroid-Pathology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "a9e1179667f4e9e6516642915f3bd83d6e5566817d2603f094700bf044ee2ff8",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::17-Thyroid-Pathology",
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::17-Thyroid-Pathology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "eaa6794bf57bdbf759cdf1b8c984e4243241ec5932dfdb0cec24062ef98988aa",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::17-Thyroid-Pathology",
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::17-Thyroid-Pathology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "8b71c92308a7fa3d63cfbefa6e0e98ca230057a4f23964dcaf0bdc6b0d8d30ab",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::17-Thyroid-Pathology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "107d1673017f4d0fc351dbc35f04f03f409e4f0e7e77cfbbe390d098d9415c20",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::17-Thyroid-Pathology",
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::17-Thyroid-Pathology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "f2498668885ee562babcbdc6c2139a0247c75f92d86f0d8ba0abb2079e3b459e",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::16-Thyroid-Physiology-&-Pathophysiology::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::17-Thyroid-Pathology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "0cb4a447ed5dd8771c8fa579d0d2ef0f9922a37ce7f3a4a5adaa78de956a2243",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::17-Thyroid-Pathology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "21ad812c1faf1dbb1725707396dc8ef64c51f603b17a9f423618561f34808584",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::17-Thyroid-Pathology"
+      ]
+    },
+    {
+      "first_field_hash": "318f3e1046c8398998a379318f25a613e01127167d8006d27cf5ac14dbf199d2",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::17-Thyroid-Pathology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "232fd14e6194d9cb8abb3b58894cb470c37328f358edf19f9e2cfba09f72dc3c",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::17-Thyroid-Pathology"
+      ]
+    },
+    {
+      "first_field_hash": "55b0f2e3aeacf691d2a99c2787e4fae5602335cac6bc578d0ac4f70d6aac21d6",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::16-Thyroid-Physiology-&-Pathophysiology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "7229fda8de601d28050b55eeac1080927cd3494ccef83927853cdac0eb64b9f4",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::17-Thyroid-Pathology"
+      ]
+    },
+    {
+      "first_field_hash": "2fc99f8501931ad215cb6c651042ef001e89a247bcad6063ccd2972995e3d205",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::16-Thyroid-Physiology-&-Pathophysiology",
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::17-Thyroid-Pathology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "23082684a4d634cd1ce24fd25116998ddb578c1e427432f8a60593010d4516ee",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::16-Thyroid-Physiology-&-Pathophysiology::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::17-Thyroid-Pathology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "167f255716643b187a7e57e203beeb6a198bf5df5841caaff5dad44b829b13f1",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::17-Thyroid-Pathology",
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::17-Thyroid-Pathology::Class-Content"
       ]
     },
     {
@@ -4007,9 +4895,16 @@
       ]
     },
     {
+      "first_field_hash": "50d5ae8a2115a7c1094a7f1d8a24610bf38d6d1c6433a288c437e720b0837e83",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::16-Thyroid-Physiology-&-Pathophysiology"
+      ]
+    },
+    {
       "first_field_hash": "1dbb2f2ee5535fbb63e57d4d84a6d03005506ed90929f0c511da512e56a78ea0",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::12-Normal-Endocrine-Histology"
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::12-Normal-Endocrine-Histology",
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::16-Thyroid-Physiology-&-Pathophysiology::Class-Content"
       ]
     },
     {
@@ -4128,6 +5023,12 @@
       ]
     },
     {
+      "first_field_hash": "14fee98b0ab06caa9ad96806e34fc42242e522d39db09a33e4982c66c4b0c652",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::17-Thyroid-Pathology"
+      ]
+    },
+    {
       "first_field_hash": "e359ec94a9f854630e4169f2878b7afe1e69295bbea8bc37fbd9b2efc3ef7725",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::14-Bone-Physiology::Class-Content",
@@ -4163,6 +5064,37 @@
       "first_field_hash": "ae8d3e37dc267a2c16450a378f58586180592b2590a799949f6a462527f6ebcb",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::11-GH-IGF1-&-Prolactin"
+      ]
+    },
+    {
+      "first_field_hash": "c8aa05d9c2e9106e2a7f4e10a5c677297bb354a79db1beaa4db5ec158b6b8237",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::17-Thyroid-Pathology"
+      ]
+    },
+    {
+      "first_field_hash": "b824cc34510617340b2f6bb9feba3119ec0b65dbcf2c92b5c05d6eae44bd87e2",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::17-Thyroid-Pathology"
+      ]
+    },
+    {
+      "first_field_hash": "90e307f45cdf28bd54d2bc2e55768a6218cb194b0c546ce7f5144406443a2b84",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::16-Thyroid-Physiology-&-Pathophysiology",
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::16-Thyroid-Physiology-&-Pathophysiology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "68b2ce6611638f911e53f9075b5715c1e5a543961baa7a3e77d404919fc9ad2d",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::17-Thyroid-Pathology"
+      ]
+    },
+    {
+      "first_field_hash": "9ecf6bdc2353b240425dedc3dd6a8943db56925079f5ca3690ce99888da429f5",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::17-Thyroid-Pathology"
       ]
     },
     {
@@ -5111,6 +6043,12 @@
       ]
     },
     {
+      "first_field_hash": "2a38b517b7f2e8dd1756871613c8fba81e77e742c1900296f904b26844442da3",
+      "tags": [
+        "JerryShen_AnKing_Tags::POM-4::Clinical-Reasoning::Shortness-of-Breath-(Hyperthyroidism)::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "3b6206acc578d90857a9f479e9d17d7c8137fde644667c5383cccbe177b9ae0f",
       "tags": [
         "JerryShen_AnKing_Tags::Molecular-Foundations-&-Genetics::02-Genetics::08.3-Prenatal-Genetics"
@@ -5754,6 +6692,18 @@
       "first_field_hash": "4587b963de90f20f4b39dcdf0c34ad637593c19318e5bb22571ab934d578542d",
       "tags": [
         "JerryShen_AnKing_Tags::Immunology::Final::Antibody-Mediated-Autoimmunity"
+      ]
+    },
+    {
+      "first_field_hash": "780408fa9daa68a292c7fba63208c3cd2398d2ca9669469dc175bec845aa0d6f",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::16-Thyroid-Physiology-&-Pathophysiology"
+      ]
+    },
+    {
+      "first_field_hash": "b71cae3900d4a67017d66846298abc1339f79a6a11d0d92667a6016a09a17596",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::16-Thyroid-Physiology-&-Pathophysiology"
       ]
     },
     {
@@ -9491,6 +10441,12 @@
       ]
     },
     {
+      "first_field_hash": "8c2e5c5add7b8997c4590b02ab9b928daa4b5d964400f40be92927521399945c",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::16-Thyroid-Physiology-&-Pathophysiology"
+      ]
+    },
+    {
       "first_field_hash": "89762ad74702ce6e87e49e4eabdd2eb767e4f565fa67ca00ce0bafba10d29864",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::19-Central-&-Peripheral-Control-of-Circulation::Class-Content",
@@ -10820,6 +11776,7 @@
     {
       "first_field_hash": "4ac4659be42c7133e58a2013c4f222604f53d654e12ad5828323708d945b4f8a",
       "tags": [
+        "JerryShen_AnKing_Tags::POM-4::Clinical-Reasoning::Shortness-of-Breath-(Hyperthyroidism)::Class-Content",
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::15-Pathophysiology-&-Treatment-of-Heart-Failure"
       ]
     },
@@ -12123,7 +13080,8 @@
     {
       "first_field_hash": "cc1d28a8005fed56f9bbd3365960fab30f3df5718558e0965542e059e8d6ea17",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::09-Supraventricular-Tachycardia-&-Antiarrhythmics"
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::09-Supraventricular-Tachycardia-&-Antiarrhythmics",
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::16-Thyroid-Physiology-&-Pathophysiology::Class-Content"
       ]
     },
     {
@@ -15113,6 +16071,18 @@
       "first_field_hash": "4414dd264ee20dcb18f2154f5a5e2d9e59d70db37ebc48fb40beca092833d01d",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::26-Pulmonary-Cases-&-Miscellaneous-Diseases::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "ef2582ec5abd23b2a1a4d8072853d74f432bc4f7e6492e76de477a0aa715885d",
+      "tags": [
+        "JerryShen_AnKing_Tags::POM-4::Clinical-Reasoning::Shortness-of-Breath-(Hyperthyroidism)"
+      ]
+    },
+    {
+      "first_field_hash": "0f0cadc44787c27e951d1da48c35a904b9d01a840f9f7c4076919acb4c123dd9",
+      "tags": [
+        "JerryShen_AnKing_Tags::POM-4::Clinical-Reasoning::Shortness-of-Breath-(Hyperthyroidism)"
       ]
     },
     {
@@ -22801,6 +23771,7 @@
     {
       "first_field_hash": "3f35ed9adfb5360766c2e31918e8128ea78d8e86b9be4633593513b775910d74",
       "tags": [
+        "JerryShen_AnKing_Tags::POM-4::Clinical-Reasoning::Shortness-of-Breath-(Hyperthyroidism)::Class-Content",
         "JerryShen_AnKing_Tags::SOM-2::Renal-Block::16-Acute-Kidney-Injury::Class-Content"
       ]
     },
@@ -24474,7 +25445,7 @@
       ]
     },
     {
-      "first_field_hash": "3f002ed426bf20bfdd1fa2b6d2c7d04021c1af2975dd6c1fb455a6006813c3ba",
+      "first_field_hash": "e802033dba19566865bc372492ec21374ec2fc8d591f98faa4bcc5475156dde8",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Renal-Block::15-Renal-&-Bladder-Tumor-Pathology::Class-Content"
       ]
@@ -27066,7 +28037,7 @@
       ]
     },
     {
-      "first_field_hash": "c60e933f528563adf73e3150e1ec65af0204766581da222df897e69221594714",
+      "first_field_hash": "c1cebdf7564b22250ed83b1a277b506c5094590a02c3ba28e4e22ce0e60d046d",
       "tags": [
         "JerryShen_AnKing_Tags::Biochemistry::Final::05-Nitrogen-Metabolism::Class-Content"
       ]
@@ -29059,6 +30030,13 @@
       ]
     },
     {
+      "first_field_hash": "392336c5617454c3b9cfe45bebf5982e19b54be4201438d333d8f29016c29e68",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::16-Thyroid-Physiology-&-Pathophysiology",
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::16-Thyroid-Physiology-&-Pathophysiology::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "cd4199764c6a1aeb36b645ad00c8c44d57b3b9f6cfc8f700da1d6a933ee07045",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::10-Autonomic-Physiology-and-Pharmacology"
@@ -29353,6 +30331,30 @@
       "first_field_hash": "29dd56f7bc4ae50347f313acac5514e486fca8304c0006fd9cc67508a578c6a0",
       "tags": [
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-2::07-β-Lactam-Antibiotics-&-Parasites::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "23b3f370aff160f7462d7712d38061ff9a54238988678180209a8c6c87fe7e5e",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::16-Thyroid-Physiology-&-Pathophysiology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "10ff8911c4067e7a825c499867337544c0d69653f7531522020ccb691c8a3927",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::16-Thyroid-Physiology-&-Pathophysiology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "cb8cba663ce1f430df74c67f12af6650fe57024373fc3edb36e23e81714bd1ed",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::16-Thyroid-Physiology-&-Pathophysiology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "46e45bec173a69598a03fa12c8aa20095d7de023809504aff1f0b15e32c4f104",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::16-Thyroid-Physiology-&-Pathophysiology::Class-Content"
       ]
     },
     {
@@ -35454,7 +36456,7 @@
       ]
     },
     {
-      "first_field_hash": "4e15fa4aa8bb7b07a13646b5ad9d306699cb25ac6b53fdcc17666116344b7e6c",
+      "first_field_hash": "4bfb3d68f40471f7d6841eea8f2556fb7a5b622d8dedb7308f8873423b2d86b3",
       "tags": [
         "JerryShen_AnKing_Tags::Biochemistry::Final::05-Nitrogen-Metabolism::Class-Content"
       ]
@@ -36070,6 +37072,12 @@
       "first_field_hash": "9408b999a9640fa6828b5a76bcc1800cc79141bd30571a2f88c7d1402a16e901",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Renal-Block::15-Renal-&-Bladder-Tumor-Pathology"
+      ]
+    },
+    {
+      "first_field_hash": "4b8e4cd617763510ce559e53972d5e0a0770ec7896dee3e8d23e7be8c3756894",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::10-Neuroendocrinology"
       ]
     },
     {
@@ -41884,7 +42892,8 @@
     {
       "first_field_hash": "15a9f82ee29e2855b205c038250ecc7f92f3f034c5e33b2ff0e8c4d743994d08",
       "tags": [
-        "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-7-Head-&-Neck-2::Embryology::Class-Content"
+        "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-7-Head-&-Neck-2::Embryology::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::16-Thyroid-Physiology-&-Pathophysiology"
       ]
     },
     {
@@ -42874,6 +43883,156 @@
       "first_field_hash": "e774a7ae8fec3e6502ee3433066a5dd9479ce621b23e42422f279f6f7956ddc1",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::MSK-Block::04-Upper-Limb-Pathology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "dbbd4cbd1c17e11a35f43a3f4f9539ca865103c5c9b13b19d9710d1225587fce",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::16-Thyroid-Physiology-&-Pathophysiology"
+      ]
+    },
+    {
+      "first_field_hash": "a4c62af3a081e4c4b113818c63de541315b85863db424f2b18c7b902840f1fa6",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::16-Thyroid-Physiology-&-Pathophysiology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "f132dbb43e894d8f5786c17168ef379342e2f9fe630602539e5f77b9d50bdad9",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::16-Thyroid-Physiology-&-Pathophysiology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "b8ea2ee39195aecca791b6cf2d9330183bc3262df7c0a1b92e42c05f2b9ca492",
+      "tags": [
+        "JerryShen_AnKing_Tags::POM-4::Clinical-Reasoning::Shortness-of-Breath-(Hyperthyroidism)"
+      ]
+    },
+    {
+      "first_field_hash": "90f4a199693b6021e238d8c895653bcb06f1d52eee3bbdc4b30d618a8927e6b6",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::16-Thyroid-Physiology-&-Pathophysiology"
+      ]
+    },
+    {
+      "first_field_hash": "b6a9b9025cca63c4a48968fad718abd53b45d9e3f677cc604be679512fda7aee",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::16-Thyroid-Physiology-&-Pathophysiology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "5c0be151a11e9bf9b9910ad04bc7379b880072603aaa4ab2f636f70647260a6f",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::16-Thyroid-Physiology-&-Pathophysiology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "9464a428864fb67f52311f8e45d3bc8beb092feb555d2d1e27f82109bb651655",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::16-Thyroid-Physiology-&-Pathophysiology"
+      ]
+    },
+    {
+      "first_field_hash": "3028687f0eb1cdbabc5538d06272f6784ca03e106e1359f4b15786d39c98f2c1",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::16-Thyroid-Physiology-&-Pathophysiology"
+      ]
+    },
+    {
+      "first_field_hash": "2b24c99713f05f777ea088ef38f18087a5ef3273976eaedb4ade521b32c64935",
+      "tags": [
+        "JerryShen_AnKing_Tags::POM-4::Clinical-Reasoning::Shortness-of-Breath-(Hyperthyroidism)::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::16-Thyroid-Physiology-&-Pathophysiology"
+      ]
+    },
+    {
+      "first_field_hash": "3c338101d3b6772780f46875bea0489e25f4d74064d273231060476caa343415",
+      "tags": [
+        "JerryShen_AnKing_Tags::POM-4::Clinical-Reasoning::Shortness-of-Breath-(Hyperthyroidism)",
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::16-Thyroid-Physiology-&-Pathophysiology"
+      ]
+    },
+    {
+      "first_field_hash": "4924795bd4e183e54b1a1ad7bf396861320a242bc246cc0f2c54f6b193a3ff9d",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::16-Thyroid-Physiology-&-Pathophysiology"
+      ]
+    },
+    {
+      "first_field_hash": "84d6fcf93d229c7a1328d76d4667a5f392c35a729f07df21dbeda3244c4f9552",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::16-Thyroid-Physiology-&-Pathophysiology",
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::16-Thyroid-Physiology-&-Pathophysiology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "24d428b5cbe7d035f086b767ccebee169206b45504efea31ae8803d76c92e9dc",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::16-Thyroid-Physiology-&-Pathophysiology"
+      ]
+    },
+    {
+      "first_field_hash": "48493feabc5cc0bcd27e3a73e68db3d91807d452ffe60998600c0263043770f6",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::16-Thyroid-Physiology-&-Pathophysiology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "0b56e62916b3f30930ed99edf16247be479fdd55ec5f3dc652c4419f44778570",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::16-Thyroid-Physiology-&-Pathophysiology"
+      ]
+    },
+    {
+      "first_field_hash": "4756c029b7b8b91876f6b029044e295e5658a64764b67aeaab03d54da589558e",
+      "tags": [
+        "JerryShen_AnKing_Tags::POM-4::Clinical-Reasoning::Shortness-of-Breath-(Hyperthyroidism)::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "a13ed472144ea82826d0ff4c164e05dbf33d6f38bb2715eea9ed8229cfdefabe",
+      "tags": [
+        "JerryShen_AnKing_Tags::POM-4::Clinical-Reasoning::Shortness-of-Breath-(Hyperthyroidism)::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::16-Thyroid-Physiology-&-Pathophysiology"
+      ]
+    },
+    {
+      "first_field_hash": "6babfa14fe6712eb28d5d9711ebf280d58cabf01def52600d1e1eaf02820bb41",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::16-Thyroid-Physiology-&-Pathophysiology",
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::16-Thyroid-Physiology-&-Pathophysiology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "75fecf04f4ee2cb1cdbb8c35220d8f4abcf7bb9b0b6eade9e843bdc86bdbc81a",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::16-Thyroid-Physiology-&-Pathophysiology"
+      ]
+    },
+    {
+      "first_field_hash": "b7e1fe8255fdc1ba02505c4e80e1e031ef2015dc4525e1a24e8fbd039e8499eb",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::16-Thyroid-Physiology-&-Pathophysiology"
+      ]
+    },
+    {
+      "first_field_hash": "10f149ce24097ebe1d0341e7caff7f67f0286d9f12117d10ea24bf70eb074fae",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::16-Thyroid-Physiology-&-Pathophysiology"
+      ]
+    },
+    {
+      "first_field_hash": "590a758b1bf3411e06a9fe930cf4a0729090c8365d9a7565efbde9f39190b30a",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::16-Thyroid-Physiology-&-Pathophysiology",
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::16-Thyroid-Physiology-&-Pathophysiology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "0a5cba836c95876cb0ec3e4c2037a029e7380424e535a93439dbeea7964fa973",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::16-Thyroid-Physiology-&-Pathophysiology"
       ]
     },
     {
@@ -44033,6 +45192,12 @@
       "first_field_hash": "3de61f3e85a7200df02fbfb8c7fc7ab9d6b5d99575ace6285c7fb1eb6b61cd1f",
       "tags": [
         "JerryShen_AnKing_Tags::Cancer-Biology::Final::06-Role-of-Pathology-in-Cancer-Diagnosis::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "5d911a96f7109fde31cbb33e7d0dacbd785872cd5a2a360ad22dc1c77d3291eb",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::16-Thyroid-Physiology-&-Pathophysiology"
       ]
     },
     {
@@ -47479,6 +48644,19 @@
       ]
     },
     {
+      "first_field_hash": "307645f72af5fc5a1e38a4966cd8ff07c448acebd015f6078129b48375959f53",
+      "tags": [
+        "JerryShen_AnKing_Tags::POM-4::Clinical-Reasoning::Shortness-of-Breath-(Hyperthyroidism)::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "5d21c9981ad282f6062f7735ad6a24718435bc20abf8603de021be6be5d6fc03",
+      "tags": [
+        "JerryShen_AnKing_Tags::POM-4::Clinical-Reasoning::Shortness-of-Breath-(Hyperthyroidism)",
+        "JerryShen_AnKing_Tags::POM-4::Clinical-Reasoning::Shortness-of-Breath-(Hyperthyroidism)::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "cb09fd9f4d96ce0385d4ca8adaaf4b247e2b6a776eb3e762008a7d2070051d58",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Renal-Block::06-Disorders-of-Water-Balance"
@@ -47862,7 +49040,7 @@
       ]
     },
     {
-      "first_field_hash": "d96c3293ca964443c63973fbba9c4f4bdcb91118f817857bf6cc078e3490d7f0",
+      "first_field_hash": "cffbd3e0f6892f568135cdaf9639ad28214af260c616d1c3ec9515dc1aa3f77f",
       "tags": [
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-1::05-Intro-to-Fungi"
       ]
@@ -47999,15 +49177,52 @@
       ]
     },
     {
+      "first_field_hash": "d5cb1ab3d135e539db567743b8b114cbfb488913d63a9e69ca86b050fd072a43",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::16-Thyroid-Physiology-&-Pathophysiology"
+      ]
+    },
+    {
       "first_field_hash": "00be7099cc9e129ae35f24203cb8e913d8f79af04f787b68323b01af501b922a",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::10-Neuroendocrinology"
       ]
     },
     {
+      "first_field_hash": "bee6ad65c05d9db9bf93480672bc8b18ca68bc2070bbc39a51917cd285acab3e",
+      "tags": [
+        "JerryShen_AnKing_Tags::POM-4::Clinical-Reasoning::Shortness-of-Breath-(Hyperthyroidism)::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "3f8f3925ffa8ad315d5136437aad15042a1dfeec3acda98372a222c3b44fe9b1",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::16-Thyroid-Physiology-&-Pathophysiology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "7f89cf1b93d705662bb9ceb96bf5bf3fc4159ecdf6aff3e10b2d9a9090a55207",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::16-Thyroid-Physiology-&-Pathophysiology"
+      ]
+    },
+    {
       "first_field_hash": "9563cfd9e8161256e6f84adeaaa8bc76850ad978ec3ed099b69e6fa3b93fbf7f",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::14-Bone-Physiology"
+      ]
+    },
+    {
+      "first_field_hash": "ac86df58682cc87ff210c76a779bbc44bbb8077cd882b3249d69d7c9ff77fce3",
+      "tags": [
+        "JerryShen_AnKing_Tags::POM-4::Clinical-Reasoning::Shortness-of-Breath-(Hyperthyroidism)"
+      ]
+    },
+    {
+      "first_field_hash": "1c2d728027fe07bbcd4c4c80765562c6ff3c8e1c89160a3a7ad2c0992b408608",
+      "tags": [
+        "JerryShen_AnKing_Tags::POM-4::Clinical-Reasoning::Shortness-of-Breath-(Hyperthyroidism)::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::16-Thyroid-Physiology-&-Pathophysiology"
       ]
     },
     {
@@ -48072,6 +49287,12 @@
       ]
     },
     {
+      "first_field_hash": "c37cd56a26d9f89009862f735794cb76355dd5d5564d5f09b24c10d7dcda1a8f",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::16-Thyroid-Physiology-&-Pathophysiology"
+      ]
+    },
+    {
       "first_field_hash": "cc1e437bbd62fe12a5c036a780e57358a7126944cbaea47115a023d724fdf801",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Renal-Block::06-Disorders-of-Water-Balance::Class-Content"
@@ -48098,6 +49319,12 @@
       ]
     },
     {
+      "first_field_hash": "a1caec5eea65616e9e7b4bf37e5bb28c2315714d10dfd15ce5afb384d8bbc041",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::16-Thyroid-Physiology-&-Pathophysiology::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "2339e5bd4ef6d71cf6a3f899863d4f7e44643a8363ce9550bc325875b88d8c8e",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Renal-Block::12-Calcium-Magnesium-&-Phosphate-Regulation::Class-Content"
@@ -48119,6 +49346,12 @@
       "first_field_hash": "e834ddb943ae616a67301fec2dbd14b38e22244bc3c08c813e590c542d0905f9",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Renal-Block::12-Calcium-Magnesium-&-Phosphate-Regulation::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "4ac7337a836767fbd4444b70bcd93ccb037f14fabfac9717d947272aa3151685",
+      "tags": [
+        "JerryShen_AnKing_Tags::POM-4::Clinical-Reasoning::Shortness-of-Breath-(Hyperthyroidism)"
       ]
     },
     {
@@ -53965,7 +55198,7 @@
       ]
     },
     {
-      "first_field_hash": "b0f5389a9cd60abb2d1d7791ae749886df77d477332a594b8d7d769913c46cb5",
+      "first_field_hash": "cd6a308cf384c101fa7a3cce86f03596989ff9e9a3d09c0e3229e3226c50b97f",
       "tags": [
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-2::07-β-Lactam-Antibiotics-&-Parasites"
       ]
@@ -55340,6 +56573,25 @@
       "first_field_hash": "f0948f53273b221130dad531fb9a86bc10e26a6268e63f2ee53a7c22b2743afe",
       "tags": [
         "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-1-Thorax::Embryology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "0ebb7017ee41f52e73588c7e5cb2528ea584ec68b74077c9b8863b37443447ec",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::16-Thyroid-Physiology-&-Pathophysiology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "89da2a1e8bc9bd5e6204ea599690155ddbd18a1c1dd7cb0bfa84af8ada008ccb",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::16-Thyroid-Physiology-&-Pathophysiology::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::17-Thyroid-Pathology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "f01869f04bee7102980787da6d69d739a294c302ffdcc9df5b193d7b4d4b9c3d",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::16-Thyroid-Physiology-&-Pathophysiology::Class-Content"
       ]
     },
     {
@@ -57663,6 +58915,13 @@
       ]
     },
     {
+      "first_field_hash": "e81c8ce3ee1868703f7b89e1094e8e04cf7acb51efeb640220e0b5c95716a2f7",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::17-Thyroid-Pathology",
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::17-Thyroid-Pathology::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "5f63cca9c23319a3967104ea96558493ee649ee84e0a3f96f6a5edebdd6563ac",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::27-Lung-Cancer"
@@ -57950,7 +59209,8 @@
     {
       "first_field_hash": "c8525d4e8fb4c1fee63e6b3d5dc2470d6854f35d06c1255907549b7e81d59a3d",
       "tags": [
-        "JerryShen_AnKing_Tags::Cancer-Biology::Final::07-Diagnosis-of-Cancer"
+        "JerryShen_AnKing_Tags::Cancer-Biology::Final::07-Diagnosis-of-Cancer",
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::17-Thyroid-Pathology::Class-Content"
       ]
     },
     {
@@ -58135,10 +59395,111 @@
       ]
     },
     {
+      "first_field_hash": "0f441d1bffb40555a9e8230a205b67dbb832ea3809b3e5727711fd355a4e032e",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::16-Thyroid-Physiology-&-Pathophysiology",
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::16-Thyroid-Physiology-&-Pathophysiology::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "de96f408831b2154c1c55dcf1f5dbf5f4b4e0a508fb0a67c486024c7e8859c5c",
       "tags": [
         "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-6-Head-&-Neck-1::Anatomy",
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::16-Thyroid-Physiology-&-Pathophysiology",
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::16-Thyroid-Physiology-&-Pathophysiology::Class-Content",
         "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::Tutorial-1-Bone"
+      ]
+    },
+    {
+      "first_field_hash": "baecf9778f7a73a7a3cd29e1b6d1625f32ef50033a4a54ce0250f54cd7b5ed7d",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::16-Thyroid-Physiology-&-Pathophysiology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "c7fea2386a2a08a9467a57f3706ecb55553bfac5ea4a1673e71a74c9bbcb1306",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::16-Thyroid-Physiology-&-Pathophysiology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "3403484b82152cccbbc307fdafe40bcd544aa5daacee5856daa8ce5e9752a9d6",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::16-Thyroid-Physiology-&-Pathophysiology"
+      ]
+    },
+    {
+      "first_field_hash": "20d6dca7a7d8ae13b6c45f8c24851784d97f1e3742b60019309900a7697ef1de",
+      "tags": [
+        "JerryShen_AnKing_Tags::POM-4::Clinical-Reasoning::Shortness-of-Breath-(Hyperthyroidism)"
+      ]
+    },
+    {
+      "first_field_hash": "3cc5742f70373505293f9f96142e145f15105497e13de42d01bae5bf3632a930",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::16-Thyroid-Physiology-&-Pathophysiology"
+      ]
+    },
+    {
+      "first_field_hash": "799d8bf2078eee5bb9641b0a46023af4094b260f5617c1414c7c122e537f3d62",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::16-Thyroid-Physiology-&-Pathophysiology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "2cb36fbd03096a709b050d33f18ff644a452c4a945bd2e9ebdf8168111640515",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::16-Thyroid-Physiology-&-Pathophysiology"
+      ]
+    },
+    {
+      "first_field_hash": "7946e1fb2621b3a2d5c3a934078ab04f34b84b98b15b0daae9f12e62f3d17590",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::16-Thyroid-Physiology-&-Pathophysiology",
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::16-Thyroid-Physiology-&-Pathophysiology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "5c51a66b75d783eb2d141ff5fcf49bf010eaf0242801e2d8e75682cc9ef717b7",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::16-Thyroid-Physiology-&-Pathophysiology"
+      ]
+    },
+    {
+      "first_field_hash": "34b185937beae353963c41264f09b2bcd1c9bfcb6cfeb393083e2146a902eb2c",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::16-Thyroid-Physiology-&-Pathophysiology"
+      ]
+    },
+    {
+      "first_field_hash": "9867b44bdcdad26f4cfa18348385a9d6d847ca4b68725b3e489c9d5a31f29997",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::16-Thyroid-Physiology-&-Pathophysiology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "7a6b55e9c59d15f94b2b90f567d9bdb0234cfe081de3e1b583b97f2d2f2b941a",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::16-Thyroid-Physiology-&-Pathophysiology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "3689cd2cd820d04e5eb4bdbddd0b34ef525444590e790ae8317dcfb8c8611a24",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::16-Thyroid-Physiology-&-Pathophysiology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "cb11d5da3426eff2b04fa6c6078ed28636651ac3ac75ac313b077c6a206628ea",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::16-Thyroid-Physiology-&-Pathophysiology",
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::16-Thyroid-Physiology-&-Pathophysiology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "bf6247e5ee7c535e7889126d493b5bb5c3deb448d0b21c43226bc9e36873c800",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::16-Thyroid-Physiology-&-Pathophysiology::Class-Content"
       ]
     },
     {
@@ -58148,9 +59509,40 @@
       ]
     },
     {
+      "first_field_hash": "5291bbb127225062f2017ae0f2929d16a80b28cc723c23996c966067aa3fbd45",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::16-Thyroid-Physiology-&-Pathophysiology::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "7250af2a73d6aba3d9b49768d5dcbecd04e89fc9fb2a7317a2976683cb313983",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::MSK-Block::09-Geriatric-Orthopedics::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "a0762c96a3b077433c00e68e506f87c0e109219214c0ea44c286feff4a955090",
+      "tags": [
+        "JerryShen_AnKing_Tags::POM-4::Clinical-Reasoning::Shortness-of-Breath-(Hyperthyroidism)::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::16-Thyroid-Physiology-&-Pathophysiology"
+      ]
+    },
+    {
+      "first_field_hash": "8e7deff6aa6a3df33c0da05346a355fb62cd9a55b9496f723112c8353680896e",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::16-Thyroid-Physiology-&-Pathophysiology"
+      ]
+    },
+    {
+      "first_field_hash": "f01c19b4e860f34f40914f5381d8d6d7fd81050dcb2d6967b075f375f755d993",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::16-Thyroid-Physiology-&-Pathophysiology"
+      ]
+    },
+    {
+      "first_field_hash": "ba1f9dbc667677cae28d2928dfa13492fcd169693d34dafce263a5d6dfda371d",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::16-Thyroid-Physiology-&-Pathophysiology"
       ]
     },
     {
@@ -58165,6 +59557,32 @@
       "first_field_hash": "ab30c3819ac0fefbf1af35002fcd8d53c70c99f2d056ad66c6cdf1135838c388",
       "tags": [
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-1::02-S.pyogenes-&-E.coli"
+      ]
+    },
+    {
+      "first_field_hash": "4d655c7a9015c0bcae2ffe457d69b624a9621b0e928d9ee37c76f21b9b5bb52f",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::16-Thyroid-Physiology-&-Pathophysiology",
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::16-Thyroid-Physiology-&-Pathophysiology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "15bf299972da631bd2b8ed1cd5c131b867be279e5ff9a3fcd0eaaa220ab69098",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::16-Thyroid-Physiology-&-Pathophysiology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "2733a606a8faf16fafe5cddeab5867a2a9c487f7dd5ad6ae94e52df2eeb13738",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::16-Thyroid-Physiology-&-Pathophysiology",
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::16-Thyroid-Physiology-&-Pathophysiology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "3a2af0574eb550cc49775ab697a8fe9c920affa33fbc29dbf1902102f6f67a1c",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::16-Thyroid-Physiology-&-Pathophysiology"
       ]
     },
     {
@@ -58201,6 +59619,12 @@
       "first_field_hash": "785c4f95962cbe96ea47682f1877ff46e4a8cd3ca703e71c537358c14ca0b3de",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Renal-Block::12-Calcium-Magnesium-&-Phosphate-Regulation::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "2d9e00bb858b3912967f0377b3b49b1eb6183dd53279c660e49c4f7b4862cda1",
+      "tags": [
+        "JerryShen_AnKing_Tags::POM-4::Clinical-Reasoning::Shortness-of-Breath-(Hyperthyroidism)"
       ]
     },
     {
@@ -58462,9 +59886,27 @@
       ]
     },
     {
+      "first_field_hash": "48aa8e88f4ce4a38e9d913b34cf15fc0f0cc95574b79af80e9f7d538a13f87e3",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::16-Thyroid-Physiology-&-Pathophysiology"
+      ]
+    },
+    {
+      "first_field_hash": "7e3def87f253e68b6540c27a3ffe22a4ac2a0c64231dc804bbbeb98b75814ca6",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::16-Thyroid-Physiology-&-Pathophysiology::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "8b5cb413e048abafe9ff4cc13a829827007a2555e63cba5ebb2a04cb698079f8",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::09-Endocrinology-of-Growth"
+      ]
+    },
+    {
+      "first_field_hash": "6b771458097158ef1c5b051766166cd4f72463772c5b609e6d11a2d39bfeccde",
+      "tags": [
+        "JerryShen_AnKing_Tags::POM-4::Clinical-Reasoning::Shortness-of-Breath-(Hyperthyroidism)"
       ]
     },
     {
@@ -59472,6 +60914,12 @@
       ]
     },
     {
+      "first_field_hash": "d32f8d98b2f62a6261f2f9f08094c987d6fe4fe6637093f1f92da5ef8ed5d670",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::16-Thyroid-Physiology-&-Pathophysiology"
+      ]
+    },
+    {
       "first_field_hash": "d2b52af7d7b5b98bb5164f765d4ffd793da0d3573b828440698644d85b01821e",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::15-Pathophysiology-&-Treatment-of-Heart-Failure",
@@ -60441,6 +61889,18 @@
       ]
     },
     {
+      "first_field_hash": "abbd3ea5f854130c98fd58f1e83f99a4909af3376aae347d04d24625dec8214a",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::17-Thyroid-Pathology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "b41bd8c9be6abe240cc210d61d84a50ccb4cd6e4ace641d8bf04b429d9e1b739",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::17-Thyroid-Pathology"
+      ]
+    },
+    {
       "first_field_hash": "1e2ebef872d322dd70afb50a266dd64d41ab0b4fbefe56d66f7294885e9abda7",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Renal-Block::16-Acute-Kidney-Injury::Class-Content"
@@ -60474,6 +61934,12 @@
       "first_field_hash": "5e86a8335ee158687d7929c6c9106dc069144891d08009bd61f0a1af88fd181f",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::MSK-Block::Extra-Upper-Limb-Pathology"
+      ]
+    },
+    {
+      "first_field_hash": "7e90826fb0507e46a685d2ef1110ff94ec1251fbde55f1a8ea16d29a0733d474",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::16-Thyroid-Physiology-&-Pathophysiology"
       ]
     },
     {
@@ -61009,10 +62475,23 @@
       ]
     },
     {
+      "first_field_hash": "52188323a358a202b9f8c13400d027bede703fbabe4ec2277c966a5d08485d9b",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::16-Thyroid-Physiology-&-Pathophysiology::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::17-Thyroid-Pathology::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "864f4723acff0680bb4777270d086206e09d6bca72277b4dc1044bd1feb10e91",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Renal-Block::11-Potassium-Disorders",
         "JerryShen_AnKing_Tags::SOM-2::Renal-Block::11-Potassium-Disorders::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "fa5e02cf752068f181acbd73d8913edc6b01c7eaafb290654f6ff35e9760dc06",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::16-Thyroid-Physiology-&-Pathophysiology"
       ]
     },
     {
@@ -61088,6 +62567,26 @@
       "first_field_hash": "ecb148447e4f01403371171b9f44bd488ede56679b856fe0aa8fcf1f8ea01588",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::11-GH-IGF1-&-Prolactin"
+      ]
+    },
+    {
+      "first_field_hash": "fe076e468d216411c7ce88e18bbe70c27340ec85509924d5f019001e54863902",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::17-Thyroid-Pathology"
+      ]
+    },
+    {
+      "first_field_hash": "3e8e56bc2940cdf2017bc81c232ba37a5203721a28b33ce45b1f486d533d0f21",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::17-Thyroid-Pathology",
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::17-Thyroid-Pathology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "598f86ac7a21884e88f90d7af9bad32913c4bf00881b57fd4139fb2c50a57670",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::17-Thyroid-Pathology",
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::17-Thyroid-Pathology::Class-Content"
       ]
     },
     {
@@ -61343,7 +62842,7 @@
       ]
     },
     {
-      "first_field_hash": "5110973145135b6d6db5ceea9cc4309d10f1574cb355837a5328124ecb2faf12",
+      "first_field_hash": "7cdc48ea9a65183135f417e56786d7811f262a8061b4e03f6219c0383d96533d",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::19-ARDS-&-Ventilators::Class-Content"
       ]
@@ -61352,6 +62851,18 @@
       "first_field_hash": "39b81ba64c23f4a0e76a011b2d73d901dfdb348b9176d4398599986069ef5315",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::18-Heart-Sounds-&-Clinical-Exam"
+      ]
+    },
+    {
+      "first_field_hash": "82d6312add963d92176b8e0ab927f894abe77d2f0076f93eae93a4a13ca6b6c4",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::16-Thyroid-Physiology-&-Pathophysiology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "9cb1fe0a9b3d753e5b883f48bad1468d44dabd1d5f724beb7d1c88d749ec53ee",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::16-Thyroid-Physiology-&-Pathophysiology::Class-Content"
       ]
     },
     {
@@ -61425,6 +62936,13 @@
       "first_field_hash": "95d6da5f407e8f114c96d0a265e659e6e5aec6bc4ba1de21783503a747abf26b",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Renal-Block::02-Body-Fluid-Compartments"
+      ]
+    },
+    {
+      "first_field_hash": "9748b1ad4085fc5b3dccf55617312a990ba06f75076d9482e8c17a4023e4d6ac",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::17-Thyroid-Pathology",
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::17-Thyroid-Pathology::Class-Content"
       ]
     },
     {
@@ -61521,6 +63039,13 @@
       ]
     },
     {
+      "first_field_hash": "a66cf0dba01060bc2d1e69b0f685344027f96ccb22586a66cc185fb960838b51",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::17-Thyroid-Pathology",
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::17-Thyroid-Pathology::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "3f6cfddab609939042cb6c97469f753a165e5fd08cd187251cb01620de568c6b",
       "tags": [
         "JerryShen_AnKing_Tags::POM-2::Final::Nutrition"
@@ -61556,6 +63081,12 @@
       "first_field_hash": "9d71356c77fc1c70326e2f2ec78185cb9e827a855fabd6cced7c7bd0fcceeca3",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::05-Ventilation-Perfusion-Relationships"
+      ]
+    },
+    {
+      "first_field_hash": "161386edea10571497125507db5f3711afb08029d702368ac21cd20e50f6d9fe",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::17-Thyroid-Pathology::Class-Content"
       ]
     },
     {
@@ -62561,6 +64092,18 @@
       ]
     },
     {
+      "first_field_hash": "50b67eeeb66c2fa08a3931f02249cee83f350aab69a362a3b6c3f9f4cdbd92dc",
+      "tags": [
+        "JerryShen_AnKing_Tags::POM-4::Clinical-Reasoning::Shortness-of-Breath-(Hyperthyroidism)::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "4f6e87cb579128a2a55677df85c5ebad5a9596e7afc51daf36269381c761fcb1",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::16-Thyroid-Physiology-&-Pathophysiology::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "4da3d002dcd7f439ee6b52412cdf92217059ad28a4b5d69735a8ec91704122fa",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Renal-Block::13-Urinalysis"
@@ -62739,6 +64282,18 @@
       ]
     },
     {
+      "first_field_hash": "6ea43a5fd75e425f6aaeeddc5b72087fe2db11f6152c49ddf9f6186c9a445965",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::16-Thyroid-Physiology-&-Pathophysiology"
+      ]
+    },
+    {
+      "first_field_hash": "2623fccf87dc95ffbb5ffed4b065141f257f46691df2b709e365546d2e104e3e",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::16-Thyroid-Physiology-&-Pathophysiology"
+      ]
+    },
+    {
       "first_field_hash": "b4323a25fb4b17ca356ff1685153584082a13f69800a4c9e7e0677a64b77717b",
       "tags": [
         "JerryShen_AnKing_Tags::Neurobiology::Exam-2::Tutorial-1-Cerebrum::Class-Content"
@@ -62755,6 +64310,12 @@
       "first_field_hash": "481536fe8989dde80e7b22dce67cdab581c39597407857a3bbca41137256a31d",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Renal-Block::16-Acute-Kidney-Injury::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "9211d592bb5166303075d8597080ed5f0925bc73856d0087ec128769ec0dc23a",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::16-Thyroid-Physiology-&-Pathophysiology"
       ]
     },
     {
@@ -62860,6 +64421,12 @@
       ]
     },
     {
+      "first_field_hash": "030ab93cd96ea5ae8e9bbb20ab54bf0c015390e5f3f80404be7ad4fc1d440b44",
+      "tags": [
+        "JerryShen_AnKing_Tags::POM-4::Clinical-Reasoning::Shortness-of-Breath-(Hyperthyroidism)"
+      ]
+    },
+    {
       "first_field_hash": "9b6215bd7e655a201eefb871624864dac2ab09eda1de48fdd8bf2989dcd5ec41",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Renal-Block::17-Urinary-Tract-Infections::Class-Content"
@@ -62887,6 +64454,12 @@
       "first_field_hash": "b66232119516cf28744f498bdb6f5949f437f8fd1e76d69ffa0048f95f6f8ef3",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::31-Treatment-of-Hypertension::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "1bb407886d5ab6a49739ffde381a690b9fde83437fbd72464b92fb24e2a9495d",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::16-Thyroid-Physiology-&-Pathophysiology::Class-Content"
       ]
     },
     {
@@ -62927,6 +64500,12 @@
       ]
     },
     {
+      "first_field_hash": "7b5cd4a141f6d9b4276ad22d88113ed4b878b864d5977c742ff95fc0f370ebf6",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::16-Thyroid-Physiology-&-Pathophysiology"
+      ]
+    },
+    {
       "first_field_hash": "df67ff412014be9e737e59f47d756c3320a4acca3bd11883c11865159967c2a0",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::10-Neuroendocrinology"
@@ -62942,6 +64521,12 @@
       "first_field_hash": "b6a47f8fcfaa260f94c037d6f3585204a037f67f9357f83abc313c210a9a434c",
       "tags": [
         "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-4-Pelvis::Histology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "d547655a2185947db984808c5bdb3a3b9b442fbac95070ae3da1de0df2a0c885",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::16-Thyroid-Physiology-&-Pathophysiology"
       ]
     },
     {
@@ -63304,19 +64889,28 @@
     {
       "first_field_hash": "3554e8079782f68a09bb113fe0b8b53546e6b60eda301815167980820fd3295a",
       "tags": [
-        "JerryShen_AnKing_Tags::POM-2::Final::Clinical-Skills::Class-Content"
+        "JerryShen_AnKing_Tags::POM-2::Final::Clinical-Skills::Class-Content",
+        "JerryShen_AnKing_Tags::POM-4::Clinical-Reasoning::Shortness-of-Breath-(Hyperthyroidism)::Class-Content"
       ]
     },
     {
       "first_field_hash": "8144483e5fe633b45e1023ea50a9ed7cfc7be3434fbe07858633d0f3e134800b",
       "tags": [
-        "JerryShen_AnKing_Tags::POM-2::Final::Clinical-Skills::Class-Content"
+        "JerryShen_AnKing_Tags::POM-2::Final::Clinical-Skills::Class-Content",
+        "JerryShen_AnKing_Tags::POM-4::Clinical-Reasoning::Shortness-of-Breath-(Hyperthyroidism)::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "343b9b643aafb1aff30e2ad1702b0a57217566e53ccf775aaec84a6f3f3e617f",
+      "tags": [
+        "JerryShen_AnKing_Tags::POM-4::Clinical-Reasoning::Shortness-of-Breath-(Hyperthyroidism)::Class-Content"
       ]
     },
     {
       "first_field_hash": "f5030027ff22685a7665302c69ca63fb087d73b663e3623f941ebbb97dc6b73b",
       "tags": [
-        "JerryShen_AnKing_Tags::POM-2::Final::Clinical-Skills::Class-Content"
+        "JerryShen_AnKing_Tags::POM-2::Final::Clinical-Skills::Class-Content",
+        "JerryShen_AnKing_Tags::POM-4::Clinical-Reasoning::Shortness-of-Breath-(Hyperthyroidism)::Class-Content"
       ]
     },
     {
@@ -64041,6 +65635,12 @@
       ]
     },
     {
+      "first_field_hash": "4da80b34fa4b47c0ee3d0ccda6e313931d9899b22ce9a5b819620319b336ae97",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::16-Thyroid-Physiology-&-Pathophysiology"
+      ]
+    },
+    {
       "first_field_hash": "7232de76d40ceea40d99a1e1ef225899878b9758f2a32a070f57d1f1078fad62",
       "tags": [
         "JerryShen_AnKing_Tags::POM-3::Clinical-Reasoning::Approach-to-Syncope::Class-Content"
@@ -64090,6 +65690,12 @@
       ]
     },
     {
+      "first_field_hash": "4563d666489dcf075faee2c937fa42c15aeb6f309fa3485a8ca14ba257937687",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::16-Thyroid-Physiology-&-Pathophysiology::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "e72c08fc9330ba57c318a8850f3f06896b0b6e87e3e8d84fef9bde5958a65949",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Renal-Block::12-Calcium-Magnesium-&-Phosphate-Regulation::Class-Content"
@@ -64108,9 +65714,29 @@
       ]
     },
     {
+      "first_field_hash": "02236df2bb7c55ea4395061bb73609073f29a98e6beedf13f0161fd5911268fe",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::16-Thyroid-Physiology-&-Pathophysiology",
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::16-Thyroid-Physiology-&-Pathophysiology::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "dbac8342fe2235f41f32cb2d38991c9a15c8231a8664862479e5232cdb5c1608",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Renal-Block::06-Disorders-of-Water-Balance::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "0ba4a49391ecb2cd695421e1abb6c39368f4cf2ebfca56c2ab77260b702c5128",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::16-Thyroid-Physiology-&-Pathophysiology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "e9697bb5bf26b6cfa8a7e2b3ea77d9cb8dc8f847674f8eb8882f1fc94fa8e972",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::16-Thyroid-Physiology-&-Pathophysiology",
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::16-Thyroid-Physiology-&-Pathophysiology::Class-Content"
       ]
     },
     {
@@ -65127,6 +66753,25 @@
       ]
     },
     {
+      "first_field_hash": "8ee8c54e5228fbb452ae6213c72d773745af311a71bbca841b40ab9972a914ba",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::16-Thyroid-Physiology-&-Pathophysiology"
+      ]
+    },
+    {
+      "first_field_hash": "ad0fa9e2f9bcc124d7d750e6c8ba6b6fd7e5fb1fae01df6933076da568175552",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::16-Thyroid-Physiology-&-Pathophysiology::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::17-Thyroid-Pathology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "af5799a13c7ea7a33a4e9064b363201b49b6c0bc4b92cdc6a35d5088d405411c",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::16-Thyroid-Physiology-&-Pathophysiology"
+      ]
+    },
+    {
       "first_field_hash": "a98186b8a8db064041009023f5e4c985b8f3f553f873a22cdc2079131fdc121b",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::10-Neuroendocrinology::Class-Content"
@@ -65240,6 +66885,12 @@
       "first_field_hash": "fc85d41755dc3be357f43542101a0b3eee75d67fbddbeeba819768e482e537e2",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Renal-Block::06-Disorders-of-Water-Balance"
+      ]
+    },
+    {
+      "first_field_hash": "c40867f9a2e122d02cce129ba4ba56fc8bb0300552c04e463dc5bccc9d37182d",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::16-Thyroid-Physiology-&-Pathophysiology::Class-Content"
       ]
     },
     {
@@ -65539,6 +67190,13 @@
       ]
     },
     {
+      "first_field_hash": "38507309f4136a844a30c8b8e5afda5dae182ed22aaa750782e2325a2b4658b7",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::16-Thyroid-Physiology-&-Pathophysiology::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::17-Thyroid-Pathology::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "f50fff005dce7e1670accda9d5428e055fcf248700f4807dd4339a5ff5d60432",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::18-Cystic-Fibrosis::Class-Content"
@@ -65631,6 +67289,12 @@
       ]
     },
     {
+      "first_field_hash": "33ecbe6ea264919e92f3f5e51848492fd2987e3fbcc02553df667c0cb4686207",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::16-Thyroid-Physiology-&-Pathophysiology"
+      ]
+    },
+    {
       "first_field_hash": "04d25141f5c6b8f4fdd0c0fd798abd941d7c51eaaf2e03e804dfc29e71f4dba8",
       "tags": [
         "JerryShen_AnKing_Tags::POM-3::Clinical-Reasoning::Approach-to-Cough"
@@ -65700,6 +67364,18 @@
       "first_field_hash": "c4f5f8bad855b11c697221dc6ece29e7da2e433110cf8381d560d92b7fc24cf1",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::MSK-Block::09-Geriatric-Orthopedics::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "a8a47ed67a5a22a94302b23b335574ca88d3e2035365497f39c9028fd0c1d229",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::16-Thyroid-Physiology-&-Pathophysiology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "cfa04bd67ea984255c7001c201a7ea63a1289f4a813856ab7ef240cda70ceea5",
+      "tags": [
+        "JerryShen_AnKing_Tags::POM-4::Clinical-Reasoning::Shortness-of-Breath-(Hyperthyroidism)"
       ]
     },
     {
@@ -65795,6 +67471,12 @@
       ]
     },
     {
+      "first_field_hash": "7c68a595c6cebc178bc52d2682a5e623b0828a463151d689c03cfdf9723dd8f5",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::16-Thyroid-Physiology-&-Pathophysiology::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "d93e9014ef0222d6630413754d7b5721f5a9885a70290b08018f883062134481",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::MSK-Block::04-Upper-Limb-Pathology::Class-Content"
@@ -65882,6 +67564,12 @@
       "first_field_hash": "4d1d8dc12cd2b5be6249161ae7393d90717846940cd1d8725b32498138c5198a",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::MSK-Block::05-Lower-Limb-Pathology"
+      ]
+    },
+    {
+      "first_field_hash": "7f246c2ab1776eae2c642fd7d10491e073b908df74fb8d93fb2e62f1a2fabebd",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::17-Thyroid-Pathology"
       ]
     },
     {
@@ -66198,6 +67886,19 @@
       "first_field_hash": "5a401be04354f71b7be9d620f777ab8a87524beb2a5307997bb08167e215a42d",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::06-Pathogenesis-&-Treatment-of-Type-1-Diabetes"
+      ]
+    },
+    {
+      "first_field_hash": "ba7c7fae337631707a4dcd5996ede7c7fe8b42ebf544d194211e1bfc7778349b",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::16-Thyroid-Physiology-&-Pathophysiology"
+      ]
+    },
+    {
+      "first_field_hash": "6755d894c0b8daaa976dc77bcee6f29ebfa86dbb1082564243d100e5080374a2",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::16-Thyroid-Physiology-&-Pathophysiology",
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::17-Thyroid-Pathology::Class-Content"
       ]
     },
     {
@@ -66639,6 +68340,12 @@
       "first_field_hash": "06351bf72cbfc39db07fa7413139a49bc89363073f2e391207097d815c65ffc4",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Renal-Block::18-Kidney-Stones"
+      ]
+    },
+    {
+      "first_field_hash": "7f7e16a977a8597037823ab6b93b4d951fa7df53c3f85bd3987c57d922affe6b",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::16-Thyroid-Physiology-&-Pathophysiology::Class-Content"
       ]
     },
     {
@@ -67825,6 +69532,19 @@
       ]
     },
     {
+      "first_field_hash": "1d13c095f804b7414c892dda06dfc7d7af241d87e83cb8a7e9819eeaca983353",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::17-Thyroid-Pathology"
+      ]
+    },
+    {
+      "first_field_hash": "20f3c601de763d2b512e1d2d6aa06f67e62fd12906da30da23ed38d83c65f0c2",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::17-Thyroid-Pathology",
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::17-Thyroid-Pathology::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "30bd2939845c19edb9afbacb108fab4999bba56f0e016ee053c84ec2540520df",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::14-Bone-Physiology::Class-Content"
@@ -67860,6 +69580,25 @@
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::10-Autonomic-Physiology-and-Pharmacology",
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::10-Autonomic-Physiology-and-Pharmacology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "9a97e409d4348c05ddc5ada97300ae463c592627894f130371b5f8318f6ee0a1",
+      "tags": [
+        "JerryShen_AnKing_Tags::POM-4::Clinical-Reasoning::Shortness-of-Breath-(Hyperthyroidism)::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::16-Thyroid-Physiology-&-Pathophysiology"
+      ]
+    },
+    {
+      "first_field_hash": "d10bfdc369c5e7959ff3f36de76f4676e0c130ce3a72824fd4e9b257708ab848",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::17-Thyroid-Pathology"
+      ]
+    },
+    {
+      "first_field_hash": "8c1d294e090da21d0a8e13e650ac7b4c584a4c92e75fc491127184ed5f007ae5",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::17-Thyroid-Pathology"
       ]
     },
     {
@@ -68189,11 +69928,36 @@
       ]
     },
     {
+      "first_field_hash": "702e0370e683d9064527ec468e3bf3a57ce66605c4f40f8b6bcf901e304954cd",
+      "tags": [
+        "JerryShen_AnKing_Tags::POM-4::Clinical-Reasoning::Shortness-of-Breath-(Hyperthyroidism)",
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::16-Thyroid-Physiology-&-Pathophysiology"
+      ]
+    },
+    {
+      "first_field_hash": "adedeffb9c52b9de2717e9e1d25b87f8f4c25c5f8e751d74c03d544b511255d0",
+      "tags": [
+        "JerryShen_AnKing_Tags::POM-4::Clinical-Reasoning::Shortness-of-Breath-(Hyperthyroidism)::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "4c6a6ad1ae0139547ae1f48744191a96e69766da82776b018140c7b1c6371724",
+      "tags": [
+        "JerryShen_AnKing_Tags::POM-4::Clinical-Reasoning::Shortness-of-Breath-(Hyperthyroidism)::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "37948036d0a195f7fdb1fb3aa9733861b1f1215f68e3289283a669e707b4a8b8",
       "tags": [
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-2::08-Other-Antibiotics-&-Mycobacteria",
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-2::08-Other-Antibiotics-&-Mycobacteria::Class-Content",
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-2::09-Misc-Antimicrobials-&-Skin-Infections::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "3176ac179d349104b651f26926eb71aa7fe4e099ddda4722d5c70dbe6229c8bc",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::16-Thyroid-Physiology-&-Pathophysiology"
       ]
     },
     {
@@ -68637,6 +70401,12 @@
       "first_field_hash": "4f237ee3ae348b7ef9ad29ec54bccf9b03fe7650db0d5b880db13b546745f391",
       "tags": [
         "JerryShen_AnKing_Tags::Molecular-Foundations-&-Genetics::02-Genetics::08.4-Cancer-Genetics"
+      ]
+    },
+    {
+      "first_field_hash": "dee0cafc732ccb39803c3821c8a1d14fca5f295f0d930f49b618359581440368",
+      "tags": [
+        "JerryShen_AnKing_Tags::POM-4::Clinical-Reasoning::Shortness-of-Breath-(Hyperthyroidism)"
       ]
     },
     {
@@ -69391,6 +71161,12 @@
       ]
     },
     {
+      "first_field_hash": "9d45842d95e6534f30ca95c94d3fc254f4b6d890518048cb52d88f186971e91f",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::10-Neuroendocrinology"
+      ]
+    },
+    {
       "first_field_hash": "1d5f14225ccf0b1ca57ac56590cd2573fddda19b70136735d32f508c0c13868a",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::11-GH-IGF1-&-Prolactin"
@@ -69401,6 +71177,12 @@
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Renal-Block::11-Potassium-Disorders::Class-Content",
         "JerryShen_AnKing_Tags::SOM-2::Renal-Block::12-Calcium-Magnesium-&-Phosphate-Regulation::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "603aada05be2f70c5c7b17e9304c6b8769ce51e66ae65140a56f203793928eb7",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::16-Thyroid-Physiology-&-Pathophysiology::Class-Content"
       ]
     },
     {
@@ -69477,6 +71259,30 @@
       ]
     },
     {
+      "first_field_hash": "5672cd9ce7eae3bdba05947a2162a7f4c778fb8face0fbd00e19d45580e8589e",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::16-Thyroid-Physiology-&-Pathophysiology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "fd8f8619556235fa920d1a104318ded319db2a3d87ec3dd2232b66c6139bf66e",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::17-Thyroid-Pathology"
+      ]
+    },
+    {
+      "first_field_hash": "912b48f688d781b645a1e892c7cb4a73ee02a42e8c078424482b526b75a092a3",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::16-Thyroid-Physiology-&-Pathophysiology"
+      ]
+    },
+    {
+      "first_field_hash": "636b2dcb7dcf22df8dfc881341b6cd11f86d26b6c2fccc9fb0ee2e1feaa61936",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::16-Thyroid-Physiology-&-Pathophysiology"
+      ]
+    },
+    {
       "first_field_hash": "25eb7226c62cba9df23a8aa111d66821d276e14e8fb67f609bfdf74654fffbca",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::10-Neuroendocrinology"
@@ -69489,15 +71295,35 @@
       ]
     },
     {
+      "first_field_hash": "a8c83382c607bfa84ed76f19f73c9c65c05e7df9a5f6b2361837125054ce4b4b",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::16-Thyroid-Physiology-&-Pathophysiology"
+      ]
+    },
+    {
       "first_field_hash": "6a7096dcc85299f51e14f7410932d3d12447225f55205168368c3042045fef1d",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::07-Slow-Rhythm-Arrhythmias::Class-Content"
       ]
     },
     {
+      "first_field_hash": "49fc0e6d3cb5ae7b2cfac78ea576d26f61a066feb79da339f2bb967518c06240",
+      "tags": [
+        "JerryShen_AnKing_Tags::POM-4::Clinical-Reasoning::Shortness-of-Breath-(Hyperthyroidism)",
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::16-Thyroid-Physiology-&-Pathophysiology"
+      ]
+    },
+    {
       "first_field_hash": "85378218f70701b674e4d500a1159c2d244ef66542d0d729ec2ec95e112b78e7",
       "tags": [
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-2::07-β-Lactam-Antibiotics-&-Parasites"
+      ]
+    },
+    {
+      "first_field_hash": "149ba506394e33a68f441ada371158803812965ad392c014e537c1cd35e58d7d",
+      "tags": [
+        "JerryShen_AnKing_Tags::POM-4::Clinical-Reasoning::Shortness-of-Breath-(Hyperthyroidism)",
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::16-Thyroid-Physiology-&-Pathophysiology"
       ]
     },
     {
@@ -69581,6 +71407,94 @@
       ]
     },
     {
+      "first_field_hash": "6978c9bc5e62263650d3750e96e5b0e62173b435a40cf5da6047236a42e44229",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::17-Thyroid-Pathology",
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::17-Thyroid-Pathology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "ff7cea95e638e78d5adbff434e4341fcf351dc67c6495fbac5248bb3f1c7fc8e",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::17-Thyroid-Pathology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "6e5e833cd841216882eb386ad5de14212010b38fff910dcf31c20dd82f84d8f3",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::16-Thyroid-Physiology-&-Pathophysiology"
+      ]
+    },
+    {
+      "first_field_hash": "a99917aa5deee22025ad8fde426a256f54be72fcfd5ddafef54fd649dd9a3632",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::17-Thyroid-Pathology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "3f2ec6f30fc2c3ddfd83e89b8393fb715bb2a878b3b86faa55e869c53935b0c8",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::17-Thyroid-Pathology"
+      ]
+    },
+    {
+      "first_field_hash": "ca9ae7bc990bff381d21eb7ab90a60d3f6365a64b7fc168b2e73c2af040d4998",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::17-Thyroid-Pathology",
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::17-Thyroid-Pathology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "d1b4b75dfea2adfc4355a344f1fe317e499907ab927589abf4a536b9318cdc73",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::17-Thyroid-Pathology"
+      ]
+    },
+    {
+      "first_field_hash": "e97e6895f416611dd87824d9458ecfd0242ed4eea0d9b6f087e945f86b28333c",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::17-Thyroid-Pathology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "745748666dc6898403a1222be86d1af1238c3329b6cda42e40e2a90bb6b7d3ef",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::17-Thyroid-Pathology"
+      ]
+    },
+    {
+      "first_field_hash": "97e0ffc4c3aabfec1bce0a33ef8784a94088d3e0584d85bf105ed54faaebae0d",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::16-Thyroid-Physiology-&-Pathophysiology",
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::17-Thyroid-Pathology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "dc6874545058bfd4606a993694518ba1d9bf8b4f7d4ced6feb6fc82dd29f81dc",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::17-Thyroid-Pathology",
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::17-Thyroid-Pathology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "10a6e9be90a66096a3cc318a9714bae0e565a06cf484b0d4641ed76429feefe4",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::17-Thyroid-Pathology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "3f731caaf38fc98dcf2c4b224acbf94bafa6ec64e602977195b424a6d278113d",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::17-Thyroid-Pathology"
+      ]
+    },
+    {
+      "first_field_hash": "b6fae7ed6fbbc2b7d1139b7544b83720548db9d260db3508e871640d8eca9803",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::16-Thyroid-Physiology-&-Pathophysiology::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "6544bf7ffc199140f59e092c3400ca660b3ba5cc8d8d4c5b76dc254aa9a9ad5d",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::05-Treatment-of-Hyperlipidemia"
@@ -69590,6 +71504,42 @@
       "first_field_hash": "fae524af10eac07942fb91660e91bc553bd2a2360cbdbffd468874233ad330a5",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::22-Peripheral-Arterial-&-Aortic-Disease"
+      ]
+    },
+    {
+      "first_field_hash": "327b374e97b3cd2b956ef3998ecb8d6340c00552424096e98f8c63b1438a86c0",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::16-Thyroid-Physiology-&-Pathophysiology"
+      ]
+    },
+    {
+      "first_field_hash": "f92d79bf9edbfc88eebcf53f153e6805679f7b9a4caddd8f6d74422c717a292a",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::16-Thyroid-Physiology-&-Pathophysiology"
+      ]
+    },
+    {
+      "first_field_hash": "61a187bc91edfb1942268d6020e9714415de7a4087464f90b0db657e380e310d",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::16-Thyroid-Physiology-&-Pathophysiology"
+      ]
+    },
+    {
+      "first_field_hash": "fcb961093017bfe1fcdaf39405b0635fc5cbdc9675dabd8c7da40edb4718102e",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::16-Thyroid-Physiology-&-Pathophysiology"
+      ]
+    },
+    {
+      "first_field_hash": "e091a50933ef1c07ab45876d4dce7a722a980e44ae0ebd23ed9649b0834ba306",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::16-Thyroid-Physiology-&-Pathophysiology"
+      ]
+    },
+    {
+      "first_field_hash": "0dce270e9894eb791771b1522d1223dcf1952fb87a6f58cdd9d8bba7137a5a10",
+      "tags": [
+        "JerryShen_AnKing_Tags::POM-4::Clinical-Reasoning::Shortness-of-Breath-(Hyperthyroidism)"
       ]
     },
     {
@@ -69727,6 +71677,12 @@
       ]
     },
     {
+      "first_field_hash": "74eb23acab2f5774ae00381c10e724172ed9329778ecd595263a3d8c35e8091b",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::16-Thyroid-Physiology-&-Pathophysiology::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "a892c73fa2ba623da52b304b6c64daee39b379986b2ba166a88a6fb4b1f7c798",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::09-Supraventricular-Tachycardia-&-Antiarrhythmics::Class-Content"
@@ -69826,7 +71782,7 @@
       ]
     },
     {
-      "first_field_hash": "9074c5c2f7903188289e77c5d7c1c12e653a6cc44648d793240f2faeb08fcae4",
+      "first_field_hash": "f2089907e7f909bf38395d4d1991a3dba635747d0da6460a31e3278c75e4d95c",
       "tags": [
         "JerryShen_AnKing_Tags::Immunology::Final::Immune-Deficiencies::Class-Content"
       ]
@@ -69885,6 +71841,18 @@
       "first_field_hash": "a88f095ba9e13aeb8cac6b128cf5ba0e48af733f697fa72203ab5de3735fdc39",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::30-Hypertension::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "1e50f0bfb7cf34865e65d32535d1601c445289325ca4031ced2ab8bb9755a54b",
+      "tags": [
+        "JerryShen_AnKing_Tags::POM-4::Clinical-Reasoning::Shortness-of-Breath-(Hyperthyroidism)"
+      ]
+    },
+    {
+      "first_field_hash": "8db61ebdc926a6986cc51b79a773806fcc793b2111dff2c3aa4ecc4944f30f48",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::17-Thyroid-Pathology"
       ]
     },
     {
@@ -70323,6 +72291,18 @@
       "first_field_hash": "53dfab37064354d226d3456b38b1ef7cf81c91c420dab70a4057b0f1e1e92425",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::25-Pulmonary-Hypertension"
+      ]
+    },
+    {
+      "first_field_hash": "713141708f2aa83d1e73fbdaba3e97a56ffefb2e207310fb2292a431033b4735",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::16-Thyroid-Physiology-&-Pathophysiology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "2d0f88c0dc8db84b0651fa907e3953540084645519d674c59a89c74dbe306221",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::16-Thyroid-Physiology-&-Pathophysiology"
       ]
     },
     {
