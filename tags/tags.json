@@ -1,14 +1,14 @@
 {
   "schema_version": 1,
   "author": "JerryShen",
-  "description": "ckd",
-  "created": "2026-10-01T05:03:57.691837+00:00",
-  "updated": "2026-10-01T05:03:57.691837+00:00",
+  "description": "adrenal",
+  "created": "2026-10-04T21:01:22.358386+00:00",
+  "updated": "2026-10-04T21:01:22.358386+00:00",
   "tag_prefix": "JerryShen_AnKing_Tags",
   "tag_hierarchy": [
     "JerryShen_AnKing_Tags",
     "JerryShen_AnKing_Tags::(✏️)-Tagged-by-Jerry-Shen",
-    "JerryShen_AnKing_Tags::(🛠️)-Last-Updated-09284026",
+    "JerryShen_AnKing_Tags::(🛠️)-Last-Updated-100326",
     "JerryShen_AnKing_Tags::(🧋)-buymeacoffee.com/ger1atric",
     "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology",
     "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-1-Thorax",
@@ -496,10 +496,18 @@
     "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::16-Thyroid-Physiology-&-Pathophysiology::Class-Content",
     "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::17-Thyroid-Pathology",
     "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::17-Thyroid-Pathology::Class-Content",
+    "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::18-Adrenal-Physiology",
+    "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::18-Adrenal-Physiology::Class-Content",
+    "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::19-Adrenal-Pathophysiology",
+    "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::19-Adrenal-Pathophysiology::Class-Content",
+    "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::20-Endocrine-Pathology",
+    "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::20-Endocrine-Pathology::Class-Content",
     "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::Tutorial-1-Bone",
     "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::Tutorial-1-Bone::Class-Content",
     "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::Tutorial-2-Thyroid-Disease",
     "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::Tutorial-2-Thyroid-Disease::Class-Content",
+    "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::Tutorial-3-Endocrine-Pathology",
+    "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::Tutorial-3-Endocrine-Pathology::Class-Content",
     "JerryShen_AnKing_Tags::SOM-2::Renal-Block",
     "JerryShen_AnKing_Tags::SOM-2::Renal-Block::01-Introduction-to-Renal-Physiology",
     "JerryShen_AnKing_Tags::SOM-2::Renal-Block::01-Introduction-to-Renal-Physiology::Class-Content",
@@ -850,6 +858,11 @@
       "date": "2026-10-01T05:03:57.691837+00:00",
       "message": "ckd",
       "note_count": 179
+    },
+    {
+      "date": "2026-10-04T21:01:22.358386+00:00",
+      "message": "adrenal",
+      "note_count": 321
     }
   ],
   "notes": [
@@ -1609,19 +1622,22 @@
     {
       "first_field_hash": "d7a2c8d287d09d3275cf4dc248d83266819a63d9c1594795699c153a9e6f43b5",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::10-Neuroendocrinology"
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::10-Neuroendocrinology",
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::18-Adrenal-Physiology::Class-Content"
       ]
     },
     {
       "first_field_hash": "f7a2ff715656d583148ba185f514be35273aeb047ad7641a8385d542f36c0313",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::10-Neuroendocrinology"
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::10-Neuroendocrinology",
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::18-Adrenal-Physiology::Class-Content"
       ]
     },
     {
       "first_field_hash": "b1b92358526e873630b5da1948bbec886f1c609ed1ff92e13c440ee8eb96fd07",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::10-Neuroendocrinology"
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::10-Neuroendocrinology",
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::18-Adrenal-Physiology::Class-Content"
       ]
     },
     {
@@ -2474,28 +2490,104 @@
     {
       "first_field_hash": "c0a87e3816473b55ec9a422f7594c4076b7d5f0e25f15d6c8c0cffffb449a77f",
       "tags": [
-        "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-4-Pelvis::Histology::Class-Content"
+        "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-4-Pelvis::Histology::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::18-Adrenal-Physiology::Class-Content"
       ]
     },
     {
       "first_field_hash": "400163b5c43f289bf671fafd483701ec7545306a7d11dda70951c41a1c147513",
       "tags": [
         "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-4-Pelvis::Histology::Class-Content",
-        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::12-Normal-Endocrine-Histology::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::12-Normal-Endocrine-Histology::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::18-Adrenal-Physiology::Class-Content"
       ]
     },
     {
       "first_field_hash": "5a1230efd44ef339728acdf2e1228105b3a9ed98ed8e10021b27fab55e869ced",
       "tags": [
         "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-4-Pelvis::Embryology::Class-Content",
-        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::12-Normal-Endocrine-Histology::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::12-Normal-Endocrine-Histology::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::18-Adrenal-Physiology::Class-Content"
       ]
     },
     {
       "first_field_hash": "df7b6c2ad051830ce3b6f7d1c2d8f53ab2be9348ea7eee39b31476bfdda4340d",
       "tags": [
         "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-4-Pelvis::Histology::Class-Content",
-        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::12-Normal-Endocrine-Histology::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::12-Normal-Endocrine-Histology::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::18-Adrenal-Physiology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "03f6befb2039b665db651cf2af866c4925df1478e48ba849e2c8c8ecefd0e2e5",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::18-Adrenal-Physiology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "78210328009da23ae9553facb8d1dbea884bbd727237d79e3abc2a3ab3fd602e",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::18-Adrenal-Physiology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "7f5d03dce4a6efec98257e79c34d7a8d4c54b26addd5cf3e4e4c0149f3d0e47b",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::18-Adrenal-Physiology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "5046eb69dbf4be27d2c812364ff35dac3d172943dee57110ff3e6d686254a90f",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::18-Adrenal-Physiology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "fdda645b8bc30fc0d90a6fda72c675f68ca297bb5aa9a3e8a271d299150e1783",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::18-Adrenal-Physiology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "2e87de7febaa326fcdebd8638d9fb4bdf2a23524e4021018e10541bb47ac174d",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::18-Adrenal-Physiology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "bdf4daa5090ab3944aaa05cebc0e7c78ee580167a3895f3829a65eb9ec1266ec",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::18-Adrenal-Physiology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "f3550c282bacd44e5c4f5b6d568f1d104faad2ad1af999be94f09935b60e6df0",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::18-Adrenal-Physiology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "b9ee61151bf4e4c92cdb7608d3fad85883459bbc5f9ddcc9171520d5242fdf7f",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::18-Adrenal-Physiology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "7a4b51a2ff9f6828f953132f7bc1ab36a6458ff5aa08b99ad9baf9d5e3ff523c",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::18-Adrenal-Physiology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "098bbb15311f8d493502d62115bbf3a942b9677c885adf0143d13bf4d94ccea2",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::18-Adrenal-Physiology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "e62ef90a1eb470b27b63647b9498831579d9db572706aaa8ad75e1b96c8a01d2",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::18-Adrenal-Physiology::Class-Content"
       ]
     },
     {
@@ -2505,9 +2597,70 @@
       ]
     },
     {
+      "first_field_hash": "1064ae2da56d572a8c7218f5be02fe00cd368053bf3ce2a8d4d0bd1633ad27e7",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::18-Adrenal-Physiology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "6a819b4bcdc4d951caed38861335114cb0e356365e2043d1534853d6d9e994d1",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::18-Adrenal-Physiology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "2b2e749d132f1e46e587c8d1b6eb293db14bcf6fdb5ff30a401915d810b9e01c",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::18-Adrenal-Physiology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "f70b1ebe037f2dd45cbf8340077dbb50fb532eac3d54f09093a9b2ae77b21f14",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::18-Adrenal-Physiology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "0398311f4c3675c8147e96d936790daf588ef9b5d1da194365af0e464a96094b",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::18-Adrenal-Physiology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "b5ebaa29a70c0734cb8ede161e2a14312a671d6492ea31ee0442d74bfea3792b",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::18-Adrenal-Physiology"
+      ]
+    },
+    {
       "first_field_hash": "591ca46a707c126212dd25feffff5865091352e0a131bb84b01c44a0b55f167a",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::12-Normal-Endocrine-Histology"
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::12-Normal-Endocrine-Histology",
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::18-Adrenal-Physiology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "1eeb347b92f16998f4a856b8cbee0e14970ee62e6c405d9528eea6b0fc5bcced",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::18-Adrenal-Physiology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "9ffe6bae0e6e173d16d14b61f5e8a85103f74b674e4abaf92dfa4d0efea5ba65",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::18-Adrenal-Physiology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "7d3b4125cd03193aef9ec31e15b7e7ed42a923670d12606546186eb21e73dbe9",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::18-Adrenal-Physiology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "f72d7629d40ffebaed955c0e5ffea043ff557ba79f8254224ca7e110779e8260",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::18-Adrenal-Physiology"
       ]
     },
     {
@@ -2519,7 +2672,8 @@
     {
       "first_field_hash": "6994428cfccc9e78b50c3cbf21db57698080ae2fb0b22361b3cb87f60f055848",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::10-Neuroendocrinology::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::10-Neuroendocrinology::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::18-Adrenal-Physiology::Class-Content"
       ]
     },
     {
@@ -2535,15 +2689,35 @@
       ]
     },
     {
+      "first_field_hash": "d409d7e5592bb9251f53bc17dda096d90d1f586053a5a7783589ddb6ba961f08",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::18-Adrenal-Physiology::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "39eef76188fdd9984851a6e9a1b1508122908db29caa67b52b6724b603459012",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::10-Neuroendocrinology::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::10-Neuroendocrinology::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::18-Adrenal-Physiology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "41e2bcc20d94ee1f4bab408ef185211a5394865eb167f446cc1c390e5406b2b4",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::18-Adrenal-Physiology::Class-Content"
       ]
     },
     {
       "first_field_hash": "a707e11b175622ca82be50f71c8c63767c95ef6ec8b52c2651bc6aabe8094d94",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::10-Neuroendocrinology"
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::10-Neuroendocrinology",
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::18-Adrenal-Physiology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "53609877d0631757528faf0d1c473a8f206c8e9b94a5b37fd0328ba9f974832d",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::18-Adrenal-Physiology"
       ]
     },
     {
@@ -2553,21 +2727,43 @@
       ]
     },
     {
+      "first_field_hash": "3d4ace64890f4f8e107a820232c0b27d377eb2be841c3c4458b2e41bba8c29b1",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::18-Adrenal-Physiology",
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::18-Adrenal-Physiology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "f9544787878a39f7cb1ac34c91ef0b49e46ae35a65c8450a41455dc60f0c2a0b",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::18-Adrenal-Physiology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "b3332ffa61cd93d18cdb179192dbfe91e124f2e491b6df2c2ac1a7fc50a4478f",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::18-Adrenal-Physiology::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "9025051ef5f86e08a3aef0a4714b0854707ffc0fb298431ea1fe321786b116c9",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::10-Neuroendocrinology::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::10-Neuroendocrinology::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::18-Adrenal-Physiology::Class-Content"
       ]
     },
     {
       "first_field_hash": "f7370dbbf4a01705096eac0a3a29c1885fb55179032a9b45a14bc7c6f15adaf4",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::10-Neuroendocrinology::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::10-Neuroendocrinology::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::19-Adrenal-Pathophysiology::Class-Content"
       ]
     },
     {
       "first_field_hash": "6ac88808b42a8f67607498d5055a72c12edbb11b77fbaf4b8bef942125368794",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::10-Neuroendocrinology::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::10-Neuroendocrinology::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::19-Adrenal-Pathophysiology::Class-Content"
       ]
     },
     {
@@ -2591,7 +2787,8 @@
     {
       "first_field_hash": "a819abced3158d0fe920013fdaf7785f8cf103881f5c730fcca823f65c2a0be5",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::12-Normal-Endocrine-Histology"
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::12-Normal-Endocrine-Histology",
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::18-Adrenal-Physiology"
       ]
     },
     {
@@ -2613,6 +2810,12 @@
       ]
     },
     {
+      "first_field_hash": "600c9a2074270c3baf1376f9d27e4ea0104a8c6977c7f12d3319babd0b7fe809",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::18-Adrenal-Physiology::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "01646a6197b90993359d2bb9e648251491d1ac119a7f218cf0880a1984601432",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Renal-Block::04-Sodium-Balance::Class-Content"
@@ -2622,6 +2825,66 @@
       "first_field_hash": "10e63caba38bffe39ec8e49bd656531398cd41b027a9012b2a1d071b9376994c",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Renal-Block::10-Potassium-Balance::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "450b1d44a051768fc498f947fcee87c6cc8d050308153e645414ff4d38dbeaeb",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::18-Adrenal-Physiology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "01cb027a9a0acdd881a5f76b232ac41be39e56f6763a3d44eb4d08aeb8dcb8d7",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::18-Adrenal-Physiology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "cc3705e67bbba25ee592c1815021709ed76535d32e6243fd79570dc363bdcbc1",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::18-Adrenal-Physiology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "de0f7b8ec7ede6653df2c0142540f95b1d512482a3af4fc6c5945354fa97d2c0",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::18-Adrenal-Physiology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "849df353fefd5a765d5d421bbdae1949c5addb9ede4be637b97983e48410a0ca",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::18-Adrenal-Physiology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "3765831a309266caa98e15c3d2b8a9540b96f6f925bf41dc65ae09335a08da0f",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::18-Adrenal-Physiology"
+      ]
+    },
+    {
+      "first_field_hash": "3c667cc7811473793183481ac0d4d4c60be1eb2621faf49cddff15b1ae807384",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::18-Adrenal-Physiology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "4e35eef714886e4ffab4acc71164121e875ff5a4d13dd0431f788a8a979e3596",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::18-Adrenal-Physiology"
+      ]
+    },
+    {
+      "first_field_hash": "d5c8f09ea7431fa5c408819f5d931a51e8afac4ff52d46173650afa3a14c461d",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::18-Adrenal-Physiology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "30823e70e1fc7a79cad0cb28f46b48640e0f58220d9a48cabc39dc3574f74627",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::18-Adrenal-Physiology::Class-Content"
       ]
     },
     {
@@ -2640,6 +2903,12 @@
       "first_field_hash": "8f0fefcf518bc4b96d6d4b8316881e8a1e998172512410b97d2f50669381e324",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::10-Neuroendocrinology"
+      ]
+    },
+    {
+      "first_field_hash": "1858f844ddfe820a94c114eb6192eacbf245d792fbde8252d21ffa2fb49afc9e",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::18-Adrenal-Physiology::Class-Content"
       ]
     },
     {
@@ -2663,7 +2932,9 @@
     {
       "first_field_hash": "a7bce0db8c5739889a0a7bdb2333ad2bf1d16123a9de250f84db414e542ab80f",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::10-Neuroendocrinology::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::10-Neuroendocrinology::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::19-Adrenal-Pathophysiology::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::20-Endocrine-Pathology::Class-Content"
       ]
     },
     {
@@ -2688,13 +2959,15 @@
       "first_field_hash": "5bb4b1492ee78a7b5483c96373033979c13f7478aa33075b3b96f2b2098a4fea",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::10-Neuroendocrinology",
-        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::10-Neuroendocrinology::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::10-Neuroendocrinology::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::19-Adrenal-Pathophysiology::Class-Content"
       ]
     },
     {
       "first_field_hash": "7caa30ce2e6334c65895e6ad76993a7b7fc08fc15eed6d7d7e0ec57eb278aa1e",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::10-Neuroendocrinology::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::10-Neuroendocrinology::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::19-Adrenal-Pathophysiology::Class-Content"
       ]
     },
     {
@@ -2719,26 +2992,31 @@
       "first_field_hash": "e862d30539ac7da17a5b7472fefea2f08eb8e075a58ce8d192f68ea2cf2a180d",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::10-Neuroendocrinology",
-        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::10-Neuroendocrinology::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::10-Neuroendocrinology::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::19-Adrenal-Pathophysiology::Class-Content"
       ]
     },
     {
       "first_field_hash": "2137e0b0803809c88f631e0c17e6a41d707212133af4c47358ccce33a939a69f",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::10-Neuroendocrinology::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::10-Neuroendocrinology::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::19-Adrenal-Pathophysiology"
       ]
     },
     {
       "first_field_hash": "5ed799934a30a764b3eae128d39d61126bfadc37d11e636893f5de27beedab5b",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::09-Endocrinology-of-Growth",
-        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::10-Neuroendocrinology"
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::10-Neuroendocrinology",
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::18-Adrenal-Physiology::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::19-Adrenal-Pathophysiology::Class-Content"
       ]
     },
     {
       "first_field_hash": "7f1d8cc8dd92ceee89614c2969e97a03222e626b821b2c9274723a128ec03a66",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::10-Neuroendocrinology::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::10-Neuroendocrinology::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::18-Adrenal-Physiology::Class-Content"
       ]
     },
     {
@@ -2750,7 +3028,14 @@
     {
       "first_field_hash": "41d04b076d728aee7cb9d6f87b09b52e553aecc8f8a759566d4b29b7bd661eec",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::10-Neuroendocrinology::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::10-Neuroendocrinology::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::18-Adrenal-Physiology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "8d2377d8e506ff0632722e5e465216b51cf62e72a7d2c18ce465c9520cf4e4b2",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::18-Adrenal-Physiology"
       ]
     },
     {
@@ -2762,7 +3047,50 @@
     {
       "first_field_hash": "f42224dac0cfee36958c99d3bbbb68bdf537543abdb46ff0913423660ceb2451",
       "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::19-Adrenal-Pathophysiology::Class-Content",
         "JerryShen_AnKing_Tags::SOM-2::Renal-Block::11-Potassium-Disorders::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "165d128f0ac3b47a89eb2399f2711f9b657f2ebc10cca436854d791fc5fd97f9",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::19-Adrenal-Pathophysiology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "57b3581166fb503eb33593382fffabed1f326e5d3820c79fc64ba342fe5dcd9f",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::19-Adrenal-Pathophysiology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "a6627ec9f5de1e55568c1a12df95b0fd93ff73fe132c1ef3bd629d050992dcb1",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::18-Adrenal-Physiology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "cf22a21f6793843893523d7f3745ef1d215534170e7b8e7f1a868cdec91f236d",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::18-Adrenal-Physiology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "4e27d63dc5e8485753c84500af8a1570f7c18304a988e4e70f069273d1b66f47",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::18-Adrenal-Physiology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "d8b1e9234994876dadd104b947b33b509216411b46502c42711aa398a4822864",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::18-Adrenal-Physiology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "46d459c1336208d4d28005b53b7382ab2c5bdbea1c87450323ec013ac734aaf8",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::18-Adrenal-Physiology"
       ]
     },
     {
@@ -2772,9 +3100,33 @@
       ]
     },
     {
+      "first_field_hash": "0ab2c35bad6c42bae1835529652e9eb13254b38cf4c55e7f49cf1361107cbbf3",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::18-Adrenal-Physiology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "acdccc05ad2c845b91b00be13cd8af29882bc358b313ec1288481f60b16673a0",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::18-Adrenal-Physiology"
+      ]
+    },
+    {
       "first_field_hash": "ccd547e9675d6971d122004e382cf05b46c205472adca9e815b850f29b5199ee",
       "tags": [
         "JerryShen_AnKing_Tags::Biochemistry::Final::05-Nitrogen-Metabolism::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "4adaeac7c49212844a60c72a508c473c60fecbd4797fe933a2827e5f596eee84",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::18-Adrenal-Physiology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "88582a14c01fffd6aa22b6a7825ccb2e6bb612c7a4b0af45f42a312b3fde7a6b",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::18-Adrenal-Physiology::Class-Content"
       ]
     },
     {
@@ -3554,7 +3906,8 @@
     {
       "first_field_hash": "7e775acade39e75d3c53999aa68a5337178eb81981a9ae88df2763db8b8dcacb",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::10-Neuroendocrinology::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::10-Neuroendocrinology::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::20-Endocrine-Pathology::Class-Content"
       ]
     },
     {
@@ -3565,16 +3918,35 @@
       ]
     },
     {
+      "first_field_hash": "4e2e5f9996bb2c5eccfec72ba7e4c0702a38f3b96744c71aab61938246ee13ba",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::20-Endocrine-Pathology::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "d850aa1bf47c7059adfc7941a3a148fceef089542fba44f9e097ce65bf38db11",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::10-Neuroendocrinology::Class-Content"
       ]
     },
     {
+      "first_field_hash": "4321de99f004b29c25aec993fdcff94ab9771a03a12f1b74aded900cd0f8880e",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::20-Endocrine-Pathology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "0d3007a829d065f28ab0a5e43924957c31ed37125c0dc688e51fe0abde67dab9",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::20-Endocrine-Pathology"
+      ]
+    },
+    {
       "first_field_hash": "4fd1f5f97774a102e227e9a9f3b7c7ca2ad0f8329a31744b256e21d07da13dd6",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::11-GH-IGF1-&-Prolactin",
-        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::11-GH-IGF1-&-Prolactin::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::11-GH-IGF1-&-Prolactin::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::20-Endocrine-Pathology::Class-Content"
       ]
     },
     {
@@ -3677,25 +4049,35 @@
     {
       "first_field_hash": "9609f1e4707c5e6ba54c50def3211c8d6379c1b097e777ff91ca8c0d3a35ff86",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::10-Neuroendocrinology"
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::10-Neuroendocrinology",
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::20-Endocrine-Pathology::Class-Content"
       ]
     },
     {
       "first_field_hash": "4b2383a818093f610a1859620a2c8d4dab2e38fbf49d4bbca5e7fe218e2ccccd",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::09-Endocrinology-of-Growth"
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::09-Endocrinology-of-Growth",
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::20-Endocrine-Pathology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "ce1091ee58ea4dac26998e049c02bd447e353c39ec1ca6d1587bc7367feaaf58",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::20-Endocrine-Pathology::Class-Content"
       ]
     },
     {
       "first_field_hash": "0dcf46fa5443b00c008331667861114fb2384b4dda5a2d0b19c995b2c5c94473",
       "tags": [
         "JerryShen_AnKing_Tags::Neurobiology::Exam-3::Tutorial-7-Affective-and-Cognitive-Systems::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::20-Endocrine-Pathology::Class-Content",
         "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::Tutorial-2-Thyroid-Disease::Class-Content"
       ]
     },
     {
       "first_field_hash": "da3c96f707a73dc380a529e37df95f8d3a32c706faf595da3fc4b2d85835a5c0",
       "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::20-Endocrine-Pathology",
         "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::Tutorial-2-Thyroid-Disease"
       ]
     },
@@ -3703,6 +4085,7 @@
       "first_field_hash": "598d6c10c279325c348fd41b898a957db5e498f887918a7295fedae6cc00c0ca",
       "tags": [
         "JerryShen_AnKing_Tags::Neurobiology::Exam-3::Tutorial-7-Affective-and-Cognitive-Systems::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::20-Endocrine-Pathology::Class-Content",
         "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::Tutorial-2-Thyroid-Disease::Class-Content"
       ]
     },
@@ -3710,7 +4093,20 @@
       "first_field_hash": "bc3428a9563ca921779f9d80ed50a53b52f0b7c44da41d1cda7ac4a8f46064a0",
       "tags": [
         "JerryShen_AnKing_Tags::Neurobiology::Exam-3::Tutorial-7-Affective-and-Cognitive-Systems::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::20-Endocrine-Pathology",
         "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::Tutorial-2-Thyroid-Disease::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "5cd0e7ba14c6ff76df18781e9ee24b39e44a869275a6c2c428cba88c389b4aad",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::20-Endocrine-Pathology"
+      ]
+    },
+    {
+      "first_field_hash": "bf251f8d1c5d3a049c6e552506e3b4553c67316b5de95e159761aab091cb2592",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::20-Endocrine-Pathology"
       ]
     },
     {
@@ -3871,6 +4267,12 @@
       "first_field_hash": "b8c439ec6073c8ba0a117dd65bcba7076193663b1baf6c71a9be00d45fb3be14",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::16-Thyroid-Physiology-&-Pathophysiology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "9894a312855a8dda6c5735fbdd41cf31a9c604fc5fb67db72e608ce7b211a395",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::16-Thyroid-Physiology-&-Pathophysiology"
       ]
     },
     {
@@ -4047,6 +4449,18 @@
       ]
     },
     {
+      "first_field_hash": "46b8237872c61c469f44b4525809ab5a2ce0f21bf29351c6733c32e11dff12f5",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::16-Thyroid-Physiology-&-Pathophysiology"
+      ]
+    },
+    {
+      "first_field_hash": "4e8ca2cbdacbd2a6498db40e41fdf41aff5b831f381bde89adf37d701f4b903f",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::16-Thyroid-Physiology-&-Pathophysiology"
+      ]
+    },
+    {
       "first_field_hash": "fddbc4db52d0763700337c8aacd76f09f2c7a3c1af47a592c0971f4d6041596c",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::16-Thyroid-Physiology-&-Pathophysiology::Class-Content"
@@ -4069,7 +4483,8 @@
       "first_field_hash": "bf7fc40211e10b11909fdbbffb5c218588b424bb8e0bf0cf35e7566a352dc8e9",
       "tags": [
         "JerryShen_AnKing_Tags::POM-4::Clinical-Reasoning::Shortness-of-Breath-(Hyperthyroidism)",
-        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::16-Thyroid-Physiology-&-Pathophysiology"
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::16-Thyroid-Physiology-&-Pathophysiology",
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::16-Thyroid-Physiology-&-Pathophysiology::Class-Content"
       ]
     },
     {
@@ -4720,7 +5135,8 @@
     {
       "first_field_hash": "452a76fb710cf85f33a84a7cc907a16f8b4a7bc2c3aab459ae817b1d01aea7ec",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::10-Neuroendocrinology::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::10-Neuroendocrinology::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::19-Adrenal-Pathophysiology::Class-Content"
       ]
     },
     {
@@ -4732,43 +5148,51 @@
     {
       "first_field_hash": "f3b6f9615b4cac871d7cc879c9d7c78c0ac1ef115fcf382c0c41c27448a7e894",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::09-Endocrinology-of-Growth"
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::09-Endocrinology-of-Growth",
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::19-Adrenal-Pathophysiology::Class-Content"
       ]
     },
     {
       "first_field_hash": "e44ea03da5289da07c4b2291a43663067f71d714b9b1e73eb621f6ac4ca05e7a",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::10-Neuroendocrinology"
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::10-Neuroendocrinology",
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::19-Adrenal-Pathophysiology::Class-Content"
       ]
     },
     {
       "first_field_hash": "998c01b37aba27a2a07ad24abb045062a18e5ab71fcde561a1ec6e06cd8c48ec",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::10-Neuroendocrinology"
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::10-Neuroendocrinology",
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::18-Adrenal-Physiology::Class-Content"
       ]
     },
     {
       "first_field_hash": "157847abf703793ff6c2a9e19e11486c6f6b46153145e30051738867c5efe189",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::10-Neuroendocrinology"
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::10-Neuroendocrinology",
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::18-Adrenal-Physiology::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::19-Adrenal-Pathophysiology::Class-Content"
       ]
     },
     {
       "first_field_hash": "996541a42291e02d0e5c5ef4e2d4a438a644b1d29d2b978d9fe73c4194aa5813",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::01-Intro-to-Endocrine-Block"
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::01-Intro-to-Endocrine-Block",
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::18-Adrenal-Physiology::Class-Content"
       ]
     },
     {
       "first_field_hash": "d822e6c4be88eb63edd4977033eb9a6ec7680a334b51ffe360ce1671c8dbc011",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::10-Neuroendocrinology"
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::10-Neuroendocrinology",
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::18-Adrenal-Physiology::Class-Content"
       ]
     },
     {
       "first_field_hash": "5304c50b2494fe0d4dbd39ecb142fed3ffa2365a8ff68a3ee4b554f8e4d57d37",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-1::MSK-Block::09-Geriatric-Orthopedics::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-1::MSK-Block::09-Geriatric-Orthopedics::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::18-Adrenal-Physiology"
       ]
     },
     {
@@ -4780,19 +5204,34 @@
     {
       "first_field_hash": "9ef7cfa8b7855e251b0cdfe26b0397bf5f335bd7a0d569b5618708bae9b2ec41",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::10-Neuroendocrinology::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::10-Neuroendocrinology::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::19-Adrenal-Pathophysiology::Class-Content"
       ]
     },
     {
       "first_field_hash": "93b755acb4cbef0b021ea3c45f2061720d28744ac0d0bbc3032e8ab9c1242720",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::10-Neuroendocrinology"
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::10-Neuroendocrinology",
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::19-Adrenal-Pathophysiology::Class-Content"
       ]
     },
     {
       "first_field_hash": "2036b78bd0754a4f4b3d4faaa875da83de7e6dd2c7d4ced37ae71b71247884f1",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::10-Neuroendocrinology::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::10-Neuroendocrinology::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::19-Adrenal-Pathophysiology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "b3ac858a3e2778cdc7750b4c17a906307891b71c04d263e02a7e35cb329f19d5",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::18-Adrenal-Physiology"
+      ]
+    },
+    {
+      "first_field_hash": "385455d26d487e9421d2a1249ddd86f6424438b162f57ff69c16de5723219348",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::19-Adrenal-Pathophysiology"
       ]
     },
     {
@@ -4818,19 +5257,35 @@
     {
       "first_field_hash": "a4b4a653ab6899c2e848f83438bb1c3a7013e9f2f5f859b54166f3c3721356bf",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::10-Neuroendocrinology"
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::10-Neuroendocrinology",
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::19-Adrenal-Pathophysiology::Class-Content"
       ]
     },
     {
       "first_field_hash": "84143ba8e3c3b8a7397d59fbf944ac82eff9d30b01605fa749560ea48350bd93",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::10-Neuroendocrinology::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::10-Neuroendocrinology::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::19-Adrenal-Pathophysiology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "de49a3d5073c6356752d1e5e2f0834f6464ff9fdf53095c51e1c6545bfdf41be",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::18-Adrenal-Physiology"
+      ]
+    },
+    {
+      "first_field_hash": "4878be976f1d281c7259d458d062d49a133e6676e26ff5891bee400b534491b6",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::18-Adrenal-Physiology::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::19-Adrenal-Pathophysiology::Class-Content"
       ]
     },
     {
       "first_field_hash": "b6a510067245c6dfebcfcf937c6f70ec5ee1bb5172c7712e9ee222bee1c2f740",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::10-Neuroendocrinology"
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::10-Neuroendocrinology",
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::19-Adrenal-Pathophysiology::Class-Content"
       ]
     },
     {
@@ -4842,6 +5297,8 @@
     {
       "first_field_hash": "f2edd0b5c8a71d8a6e4018185077f617cfcce5b71166196d80bc7a8320d599e5",
       "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::19-Adrenal-Pathophysiology::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::Tutorial-3-Endocrine-Pathology::Class-Content",
         "JerryShen_AnKing_Tags::SOM-2::Renal-Block::11-Potassium-Disorders",
         "JerryShen_AnKing_Tags::SOM-2::Renal-Block::11-Potassium-Disorders::Class-Content"
       ]
@@ -4855,12 +5312,14 @@
     {
       "first_field_hash": "4ea5486b35a45a3fcb1bc569ecd8e41cf66516d4c75efe04573dcaa646fbfb9a",
       "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::19-Adrenal-Pathophysiology::Class-Content",
         "JerryShen_AnKing_Tags::SOM-2::Renal-Block::11-Potassium-Disorders"
       ]
     },
     {
       "first_field_hash": "f4784d7f51ba54963bae9cf4a1a6caa151b569bdf73cb232dde438f0ea165d7b",
       "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::19-Adrenal-Pathophysiology::Class-Content",
         "JerryShen_AnKing_Tags::SOM-2::Renal-Block::11-Potassium-Disorders",
         "JerryShen_AnKing_Tags::SOM-2::Renal-Block::11-Potassium-Disorders::Class-Content"
       ]
@@ -4868,6 +5327,8 @@
     {
       "first_field_hash": "f0692ac9242961db2a95a6ac07578b30210fa14366b77c5b708e413885f59c43",
       "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::19-Adrenal-Pathophysiology::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::Tutorial-3-Endocrine-Pathology::Class-Content",
         "JerryShen_AnKing_Tags::SOM-2::Renal-Block::16-Acute-Kidney-Injury",
         "JerryShen_AnKing_Tags::SOM-2::Renal-Block::16-Acute-Kidney-Injury::Class-Content"
       ]
@@ -4875,13 +5336,33 @@
     {
       "first_field_hash": "be42c1f08560de8c3f25d74ce54d2e0f196ef310935c0a74830ced660682ca8e",
       "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::19-Adrenal-Pathophysiology::Class-Content",
         "JerryShen_AnKing_Tags::SOM-2::Renal-Block::16-Acute-Kidney-Injury::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "b9bd1cf77a24feaf7e17f219a430d5bda33c7e25fe57f38c8dae50768646081f",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::18-Adrenal-Physiology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "58c0923b58a3d154ffbfc8df2c2d9eb20f0f72a80c5c8546b1ae242d81f59e05",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::18-Adrenal-Physiology::Class-Content"
       ]
     },
     {
       "first_field_hash": "167f65839105565ea86b5e4828467e95f75922669090f22f4aec0d4802d1aaff",
       "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::18-Adrenal-Physiology::Class-Content",
         "JerryShen_AnKing_Tags::SOM-2::Renal-Block::11-Potassium-Disorders"
+      ]
+    },
+    {
+      "first_field_hash": "2cb848c1f87d685f2ed870c02ab67479dac50139d64e8d8dd58b0f08b26e401f",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::18-Adrenal-Physiology::Class-Content"
       ]
     },
     {
@@ -4893,31 +5374,50 @@
     {
       "first_field_hash": "58eea41b245d5a31de53f5547df106f63f7d8f1865c8873a09b08fd084cbdb1e",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::10-Neuroendocrinology::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::10-Neuroendocrinology::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::19-Adrenal-Pathophysiology::Class-Content"
       ]
     },
     {
       "first_field_hash": "3d87278f9f3d690785fcfe6a3098aff99731968baa5f58eb795ef00ae4252c3a",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::10-Neuroendocrinology::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::10-Neuroendocrinology::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::19-Adrenal-Pathophysiology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "5bff84604a0904a96fa6c469cff66ef1f6435f184167f773a5e95b924e9e0fcc",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::20-Endocrine-Pathology",
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::20-Endocrine-Pathology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "e31aa449b5b178e8372ab2bb3d9760ff9f3c5bcc3f8b89bc85d6faaac7b24fbf",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::20-Endocrine-Pathology::Class-Content"
       ]
     },
     {
       "first_field_hash": "c82c72fb6543aa8aca18a73df548341188c866a59617379c51c2ba62bd1e0e49",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::10-Neuroendocrinology::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::10-Neuroendocrinology::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::19-Adrenal-Pathophysiology::Class-Content"
       ]
     },
     {
       "first_field_hash": "9ba6d5ca09bc32a930f6a6fab4fd8a3ebd5738f30fad02e2c5308510c7050137",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::10-Neuroendocrinology"
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::10-Neuroendocrinology",
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::19-Adrenal-Pathophysiology",
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::20-Endocrine-Pathology::Class-Content"
       ]
     },
     {
       "first_field_hash": "220c0dc33b5e6c3926f1c6d418ecf3a361fdf5a050704830ed36c7ba9f1223c1",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::10-Neuroendocrinology::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::10-Neuroendocrinology::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::19-Adrenal-Pathophysiology::Class-Content"
       ]
     },
     {
@@ -4933,9 +5433,16 @@
       ]
     },
     {
+      "first_field_hash": "6beff6e7d6fb62e6ceecd6e49fa66f2e6e1637d6f620486bad3e17c50059e839",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::19-Adrenal-Pathophysiology"
+      ]
+    },
+    {
       "first_field_hash": "6522a0ed52a58afc75df1475908810b683f0bda7553dbd8a61f22d1ecab87eca",
       "tags": [
-        "JerryShen_AnKing_Tags::POM-4::Clinical-Reasoning::Approach-to-Palpitations"
+        "JerryShen_AnKing_Tags::POM-4::Clinical-Reasoning::Approach-to-Palpitations",
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::19-Adrenal-Pathophysiology"
       ]
     },
     {
@@ -4944,6 +5451,24 @@
         "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-4-Pelvis::Embryology::Class-Content",
         "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-4-Pelvis::Histology::Class-Content",
         "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::12-Normal-Endocrine-Histology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "136cc4f5bb4082c9bb3a1ec91f4925075a24c6242bd8389830256cd3826417a6",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::19-Adrenal-Pathophysiology"
+      ]
+    },
+    {
+      "first_field_hash": "f95ac04d05a47ab3cf739d3494e654f5582648774dbce6841cf2695084a3341e",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::19-Adrenal-Pathophysiology"
+      ]
+    },
+    {
+      "first_field_hash": "09fc9447e0dfc43685818edc37b605b33d6e9f0178ddd9f3bc63ee93fe214ee9",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::19-Adrenal-Pathophysiology"
       ]
     },
     {
@@ -5044,6 +5569,18 @@
       ]
     },
     {
+      "first_field_hash": "5f452cb2ef99c8c122e33ec1e69890957221d6a1072dddec198b2b88da985129",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::18-Adrenal-Physiology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "1a18d9857d2359e0c476cb4b7aef75d280e34ebd702b8c643a27c16adaf93ab6",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::18-Adrenal-Physiology::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "7cf27e335f8120b620d2aa8d8b1e82658e1586fbbfcb9facaed8d8d0f9e74971",
       "tags": [
         "JerryShen_AnKing_Tags::Biochemistry::Final::04-Regulation",
@@ -5094,6 +5631,12 @@
       ]
     },
     {
+      "first_field_hash": "5ed8424dc14ab4eebd1a29b411384e015a8e97148067395160158655fa0b81d3",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::20-Endocrine-Pathology::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "7d168f062847e77685cd5ec9c994d8a25c2a16110843bf41a5111a7fde1859d8",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::09-Endocrinology-of-Growth",
@@ -5113,6 +5656,18 @@
       ]
     },
     {
+      "first_field_hash": "32ae3a0d201f842db4b1f3e26084e1a5518936a996182736c85a9f1b8505c840",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::20-Endocrine-Pathology"
+      ]
+    },
+    {
+      "first_field_hash": "87c720d27f0b9a64167a616237b06c6df13ffdbbf51a3f0bf883953ea9e6f7ae",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::Tutorial-3-Endocrine-Pathology::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "ae8d3e37dc267a2c16450a378f58586180592b2590a799949f6a462527f6ebcb",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::11-GH-IGF1-&-Prolactin"
@@ -5121,7 +5676,8 @@
     {
       "first_field_hash": "c8aa05d9c2e9106e2a7f4e10a5c677297bb354a79db1beaa4db5ec158b6b8237",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::17-Thyroid-Pathology"
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::17-Thyroid-Pathology",
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::Tutorial-3-Endocrine-Pathology::Class-Content"
       ]
     },
     {
@@ -5133,7 +5689,8 @@
     {
       "first_field_hash": "5d6b4b319dbdcf6550fe99776fc04dff3819691f980916477b3c6db19ba6c382",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::17-Thyroid-Pathology"
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::17-Thyroid-Pathology",
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::Tutorial-3-Endocrine-Pathology::Class-Content"
       ]
     },
     {
@@ -5146,7 +5703,8 @@
     {
       "first_field_hash": "68b2ce6611638f911e53f9075b5715c1e5a543961baa7a3e77d404919fc9ad2d",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::17-Thyroid-Pathology"
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::17-Thyroid-Pathology",
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::19-Adrenal-Pathophysiology::Class-Content"
       ]
     },
     {
@@ -5388,6 +5946,18 @@
       "first_field_hash": "641206f0610bf90aba24939c23cf257529e18622094d5e84d3e0c82b7ff178bd",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::07-Type-2-Diabetes"
+      ]
+    },
+    {
+      "first_field_hash": "021e930ca0bc97387311f9a1eb6b179c188f7e224ecd408fed98a7210f85cb6e",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::18-Adrenal-Physiology"
+      ]
+    },
+    {
+      "first_field_hash": "57d853d39f5c200d1ae90ce0e85e49fc8558eaae82c780f7d28258c8f8d4f140",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::18-Adrenal-Physiology"
       ]
     },
     {
@@ -5778,6 +6348,18 @@
       "first_field_hash": "a9623fa6c34346426d2cc0ba9dd7e49c8d924798b0fa60daa6abf9a00e7de912",
       "tags": [
         "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-4-Pelvis::Anatomy::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "de8c0a4ed40f9545c867368528f6e751ea130e71e674477e0f679f8553d5ebec",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::18-Adrenal-Physiology"
+      ]
+    },
+    {
+      "first_field_hash": "e6258f4c2a02df3888b4517cdbf4e2ee6c3a8e995b80294986831447b1202ae2",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::18-Adrenal-Physiology::Class-Content"
       ]
     },
     {
@@ -6281,7 +6863,8 @@
     {
       "first_field_hash": "fb116072455f5c052d8104f809b8308b41f471a92b09d090107f34dd6935bbe7",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::10-Neuroendocrinology"
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::10-Neuroendocrinology",
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::20-Endocrine-Pathology::Class-Content"
       ]
     },
     {
@@ -6657,21 +7240,107 @@
       ]
     },
     {
+      "first_field_hash": "185ada5e66429bb5760eefe5b93dcfde0dc245480711a088fb7eb8aba7790bc3",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::18-Adrenal-Physiology"
+      ]
+    },
+    {
+      "first_field_hash": "9421345e257986c51de4a03e7c369e63748407ffffe5c63627dc9a9239a59fd5",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::18-Adrenal-Physiology"
+      ]
+    },
+    {
+      "first_field_hash": "e30a26e133f01e2d24b406a731a9a9804426180bc52012ca7b5260e15cc64467",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::18-Adrenal-Physiology"
+      ]
+    },
+    {
+      "first_field_hash": "98435ae4f71cfaa529611e64705242e87817ac4eafc58a1859b4f3222c9bf757",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::18-Adrenal-Physiology"
+      ]
+    },
+    {
+      "first_field_hash": "fc1be471f042bb4e87134b016b1c95b6c3e14e8dcaae215bcfb3eb5575000ee7",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::18-Adrenal-Physiology"
+      ]
+    },
+    {
+      "first_field_hash": "53b7ee115876345f953aa6fccd4fe55c41432d9cf50aac29f3d2aa97fa5c74c2",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::18-Adrenal-Physiology"
+      ]
+    },
+    {
+      "first_field_hash": "eb9d152d062aa81dcebab2fa4978b0a72cd227e765968f81d8e14476630d5206",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::18-Adrenal-Physiology"
+      ]
+    },
+    {
       "first_field_hash": "9cefdfc7e9b5dc6af49c9a22966910276c39b4983077028b3183c01ef03d077c",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::Lung-Lab-1-Pneumonia::Class-Content"
       ]
     },
     {
+      "first_field_hash": "8a8006b1287f7de60651e273f8c2676a983c9e824f037d2d4297db64f046e842",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::18-Adrenal-Physiology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "3885073fd0a1c0d45c981b743620f93261ea2c0abf22b67cc190b945b6dc89f1",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::18-Adrenal-Physiology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "a1ce9d959a6806b672b521726731a141a4ca5e7ce117194cad2cb311d303f130",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::18-Adrenal-Physiology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "d483370afa49efcc3a1fcd72e68f984a6be3e71560ad7f30c8b674bfd86e56b2",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::18-Adrenal-Physiology::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "bc4560159ba0c58d6d64073bc0b5624ab5ca662146b317ea498441e7c6bc2e7e",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::10-Neuroendocrinology::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::10-Neuroendocrinology::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::19-Adrenal-Pathophysiology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "45a9ebf7dc0c6423eb1d1a40490c63a6747d54ba3ae705ea1cda6d1cad2af921",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::18-Adrenal-Physiology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "022ca7d55f5b28ce49a8aff42e9ac898eabba0a8207448ae462b4dc825ad7c07",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::18-Adrenal-Physiology::Class-Content"
       ]
     },
     {
       "first_field_hash": "d42cc48233a8177de089f3785d8a6974c17ff3f83aeed2dc049e123cd2223fd6",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::10-Neuroendocrinology"
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::10-Neuroendocrinology",
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::19-Adrenal-Pathophysiology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "f393df04b9d30e53183596ae5cdef3cf4ee41e0acbb7e4d709d255dcc2637f00",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::18-Adrenal-Physiology::Class-Content"
       ]
     },
     {
@@ -6680,6 +7349,18 @@
         "JerryShen_AnKing_Tags::SOM-1::MSK-Block::09-Geriatric-Orthopedics",
         "JerryShen_AnKing_Tags::SOM-1::MSK-Block::09-Geriatric-Orthopedics::Class-Content",
         "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::15-Bone-Pathophysiology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "8400d6ebc17369acd6edb630818d898aa7ec24b9e35ded9b619cf18a5130e731",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::18-Adrenal-Physiology"
+      ]
+    },
+    {
+      "first_field_hash": "71edc0f087b01e31c32abab01ca9867d5c2e91728221dbf55f46df035ce0e55d",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::18-Adrenal-Physiology::Class-Content"
       ]
     },
     {
@@ -6780,9 +7461,21 @@
       ]
     },
     {
+      "first_field_hash": "358dbc668c4ed7c9917190cfeead3e3cfeba43b7ed360969dac423561dd283e5",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::18-Adrenal-Physiology::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "4ab652c40e084b931159b09087ffe26b50a0088faacdadc4b8942e78b543f7c0",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::10-Neuroendocrinology"
+      ]
+    },
+    {
+      "first_field_hash": "5bcc22b6ef4cff9a300e99f135e3dc3b49e049f5fce36d3debb569c5927eee85",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::19-Adrenal-Pathophysiology"
       ]
     },
     {
@@ -7391,6 +8084,12 @@
       "first_field_hash": "3805b53bbc23bf7286fe6079752816815dea062c90fc04d76e480ca41578eacd",
       "tags": [
         "JerryShen_AnKing_Tags::Immunology::Final::Innate-Sensing::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "46ebb85f01400b08836385cb55892a4edcf3c75b14e3746db1ce95ba22662acc",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::18-Adrenal-Physiology"
       ]
     },
     {
@@ -10285,7 +10984,8 @@
     {
       "first_field_hash": "ae3dab1c067dc1e288678bd4fa855895e93d0ce810fe52ade043ae2ea0f16b51",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::15-Pathophysiology-&-Treatment-of-Heart-Failure"
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::15-Pathophysiology-&-Treatment-of-Heart-Failure",
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::18-Adrenal-Physiology::Class-Content"
       ]
     },
     {
@@ -11009,13 +11709,15 @@
       "first_field_hash": "9a6a64bfb5caec3f5a771191a36c252bf7c2561790921402b96adefc066aa8ff",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::30-Hypertension",
-        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::30-Hypertension::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::30-Hypertension::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::Tutorial-3-Endocrine-Pathology::Class-Content"
       ]
     },
     {
       "first_field_hash": "e0ef5c38e33ff2af477d67a274746c4bbd31feb9885e3d6153d9d53b08cb3fef",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::30-Hypertension"
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::30-Hypertension",
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::Tutorial-3-Endocrine-Pathology"
       ]
     },
     {
@@ -11055,7 +11757,8 @@
       "first_field_hash": "5cbd1b0334139d222ac0a694a57d4ca13696c8adcd8dc1c27ab3b8402c982946",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::30-Hypertension",
-        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::30-Hypertension::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::30-Hypertension::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::Tutorial-3-Endocrine-Pathology::Class-Content"
       ]
     },
     {
@@ -12051,7 +12754,7 @@
       ]
     },
     {
-      "first_field_hash": "240a1d08b988550e3d37643b6d568208c9729b6daa67970df6543cd9e405fc65",
+      "first_field_hash": "010bc469851cfa0eaded843c50c7e2e15ab37280dfaee0c857367389ca5b3949",
       "tags": [
         "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-1-Thorax::Anatomy",
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::35-Congenital-Heart-Disease::Class-Content"
@@ -14635,6 +15338,12 @@
     },
     {
       "first_field_hash": "b14b8867655d07a1bdd886463e26481cb2c9f5d4821a233465b86aad8adc512e",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::31-Treatment-of-Hypertension"
+      ]
+    },
+    {
+      "first_field_hash": "4a5a5d505da7749762c2ce0d79687383cd08e158ea362422b6e6ea5f4037f05d",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::31-Treatment-of-Hypertension"
       ]
@@ -18512,7 +19221,8 @@
       "first_field_hash": "a8e234736d673c5fca8309781e18463ff9c46088584640f07932a272b6312a8d",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::27-Lung-Cancer",
-        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::10-Neuroendocrinology"
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::10-Neuroendocrinology",
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::19-Adrenal-Pathophysiology"
       ]
     },
     {
@@ -19429,9 +20139,21 @@
       ]
     },
     {
+      "first_field_hash": "6a1e7ec4b5513c0626437c07a060f2fef9286624e0e9f7c462f0f90c4ae7d7c0",
+      "tags": [
+        "JerryShen_AnKing_Tags::Biochemistry::Final::01-Carbohydrate-Metabolism"
+      ]
+    },
+    {
       "first_field_hash": "a3a9b6d94429cf376f4bfdbde9b9b1bcf41d050021e00be6e431de331d248ef5",
       "tags": [
         "JerryShen_AnKing_Tags::Biochemistry::Final::01-Carbohydrate-Metabolism::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "90e593faf73802ba538c9c54e5cd2da90596287d514f6b558894b34cb41b96e7",
+      "tags": [
+        "JerryShen_AnKing_Tags::Biochemistry::Final::01-Carbohydrate-Metabolism"
       ]
     },
     {
@@ -20178,6 +20900,12 @@
       "first_field_hash": "0e0f6e8d2959ea031d62249a870f9d77642784f164942f3370dd2dec34803f21",
       "tags": [
         "JerryShen_AnKing_Tags::Biochemistry::Final::02-Oxidative-Phosphorylation::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "7e3df939b63620a705108bcef42651e0300b3f99579fb733135bcb22bf75e499",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::18-Adrenal-Physiology"
       ]
     },
     {
@@ -22008,6 +22736,12 @@
       ]
     },
     {
+      "first_field_hash": "b5e15acf823aa439b01369b16aea61c9025246d427b3504d3229649ae728daa9",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::19-Adrenal-Pathophysiology::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "3d7872be67f4afcfaa95c4e6847e136c833e5ab9efd494c2af93b5d8ab41f5a3",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Renal-Block::02-Body-Fluid-Compartments::Class-Content"
@@ -22175,6 +22909,12 @@
       "first_field_hash": "a7f3efb7be7a8a30801c18afe00f8cf6d3c9b120ec5edf19352961f45f42faa0",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Renal-Block::04-Sodium-Balance"
+      ]
+    },
+    {
+      "first_field_hash": "b1107aab296b8c83fa4ca6d29ef0d27a067ae083ceb59b6f4d5f8820efb5ca85",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::03-GFR-Clearance-&-Steady-State"
       ]
     },
     {
@@ -24675,6 +25415,12 @@
       ]
     },
     {
+      "first_field_hash": "9a448c52435da91071d3a79e970c6c65cc6b9ed8dbef3f79669ac08fe0a42cca",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::20-Nephritic-Syndrome"
+      ]
+    },
+    {
       "first_field_hash": "244521bd738334daa6c9a7965fbc4d56c9dcd14333711134794afb58bcee19cd",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Renal-Block::20-Nephritic-Syndrome"
@@ -24859,6 +25605,36 @@
     },
     {
       "first_field_hash": "ee296c8ebb1eac98dd9ec74c0abf946b0a515ed41bd2ebce8e4159185e5a205b",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::20-Nephritic-Syndrome"
+      ]
+    },
+    {
+      "first_field_hash": "07c371e518ce7237e36d77e7cdabe47beee293d26259f3ed28ca6d90fbbacbab",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::20-Nephritic-Syndrome"
+      ]
+    },
+    {
+      "first_field_hash": "596cb84b7457f678b8db5de666bb45519dccd383bf8b6ea381744d715148e3cd",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::20-Nephritic-Syndrome"
+      ]
+    },
+    {
+      "first_field_hash": "26af42b7a197e81cf82c221db10e3ff1a07ad093843c40a366785d65448eb49b",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::20-Nephritic-Syndrome"
+      ]
+    },
+    {
+      "first_field_hash": "8a43d34e8c0d94305a63d8c782e0dd6ee6f7f4aa7b05936654c1be079e9ca752",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::20-Nephritic-Syndrome"
+      ]
+    },
+    {
+      "first_field_hash": "5532415ad17695cb81ff05c44bedfbca1c125cb5b45b8c349701ea21897bf220",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Renal-Block::20-Nephritic-Syndrome"
       ]
@@ -26128,12 +26904,14 @@
     {
       "first_field_hash": "6cb3492088e9bcd3435c90e254a4442539e90edbda680d53c899c388802595fa",
       "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::19-Adrenal-Pathophysiology::Class-Content",
         "JerryShen_AnKing_Tags::SOM-2::Renal-Block::11-Potassium-Disorders::Class-Content"
       ]
     },
     {
       "first_field_hash": "dbae9c1c0374b41afc25ef211185294fecfb2bbd45ff23dc13c73c2bbb0ccad4",
       "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::19-Adrenal-Pathophysiology::Class-Content",
         "JerryShen_AnKing_Tags::SOM-2::Renal-Block::11-Potassium-Disorders::Class-Content"
       ]
     },
@@ -26172,8 +26950,21 @@
     {
       "first_field_hash": "563bc70a78cf48f40f826032ffbd05fdfb6f501af93a16ea752d1b0375476381",
       "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::19-Adrenal-Pathophysiology",
         "JerryShen_AnKing_Tags::SOM-2::Renal-Block::11-Potassium-Disorders",
         "JerryShen_AnKing_Tags::SOM-2::Renal-Block::11-Potassium-Disorders::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "8bf71306baaa6292a68da18878381309e30d160f0b09c393df73657e1e6b22de",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::18-Adrenal-Physiology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "07c4dcb0c21de0e66da7259fa1a30030f2bf1cde0c442777f1474ce3ea875c8f",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::19-Adrenal-Pathophysiology::Class-Content"
       ]
     },
     {
@@ -26183,20 +26974,36 @@
       ]
     },
     {
+      "first_field_hash": "c00753b8f262b971ee445a45951e1cdcee97fa63fd6e74b13820d937f1cbfe53",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::19-Adrenal-Pathophysiology::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::11-Potassium-Disorders"
+      ]
+    },
+    {
+      "first_field_hash": "d5b68260f970755519cdefd418f93243293aba496e7ff2f00e2e482bf693d3cb",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::11-Potassium-Disorders"
+      ]
+    },
+    {
       "first_field_hash": "4f4e07c68cd88490ca69e185576a713b97b8ffb4c7d923c6c63c5d12e3306204",
       "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::19-Adrenal-Pathophysiology::Class-Content",
         "JerryShen_AnKing_Tags::SOM-2::Renal-Block::11-Potassium-Disorders"
       ]
     },
     {
       "first_field_hash": "9dd24bdbe3e3079f9c014aeb7f1656769fcaea31d4e591163f777e5d5723be96",
       "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::19-Adrenal-Pathophysiology::Class-Content",
         "JerryShen_AnKing_Tags::SOM-2::Renal-Block::11-Potassium-Disorders::Class-Content"
       ]
     },
     {
       "first_field_hash": "357b82ab8b56a76a66ce7ac0b0c7784b815426d0c57281c1e742680d3a9f8255",
       "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::19-Adrenal-Pathophysiology::Class-Content",
         "JerryShen_AnKing_Tags::SOM-2::Renal-Block::11-Potassium-Disorders",
         "JerryShen_AnKing_Tags::SOM-2::Renal-Block::11-Potassium-Disorders::Class-Content"
       ]
@@ -26210,6 +27017,7 @@
     {
       "first_field_hash": "91c047a636cbcb4fa5e7049f4eea1b63f8508cefecafb09ba0fe73d97ab24d0c",
       "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::19-Adrenal-Pathophysiology::Class-Content",
         "JerryShen_AnKing_Tags::SOM-2::Renal-Block::14-Kidney-Histology::Class-Content"
       ]
     },
@@ -26222,6 +27030,7 @@
     {
       "first_field_hash": "00a8c2333d835fd6f3e9a9d990b988489196213ca6f0df6a8008d928d50a0634",
       "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::19-Adrenal-Pathophysiology::Class-Content",
         "JerryShen_AnKing_Tags::SOM-2::Renal-Block::04-Sodium-Balance::Class-Content"
       ]
     },
@@ -26625,12 +27434,14 @@
     {
       "first_field_hash": "ef56a204eca8d057e49a5a7f63589698d281ef1a53d54fbd32390a99753b50a4",
       "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::19-Adrenal-Pathophysiology::Class-Content",
         "JerryShen_AnKing_Tags::SOM-2::Renal-Block::16-Acute-Kidney-Injury"
       ]
     },
     {
       "first_field_hash": "b1ec8849cda0ca7c0a43f10d46e625ce19fad90dd5c4b3a9d85c63dbbf165730",
       "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::19-Adrenal-Pathophysiology",
         "JerryShen_AnKing_Tags::SOM-2::Renal-Block::16-Acute-Kidney-Injury::Class-Content"
       ]
     },
@@ -26733,6 +27544,12 @@
       "first_field_hash": "6cc5df489421e9756b16114f2d3f1e37bbbd9b1c5a7ce6207baa534daebd51d0",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Renal-Block::08-Diuretics"
+      ]
+    },
+    {
+      "first_field_hash": "ef2084df2abd35343debe5ce1e8bf943f826633082f3c5d9cf747cc5ae49fab7",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::05-Water-Balance"
       ]
     },
     {
@@ -26867,6 +27684,12 @@
       ]
     },
     {
+      "first_field_hash": "569eed1e5a83eeb34ba4fb95794814364c49fff333ab19c99562539b7024460e",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::19-Adrenal-Pathophysiology::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "fd12fc6af7336f75b1c3434c88e04f243361074b2217730c209c3a8814c363c7",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::15-Pathophysiology-&-Treatment-of-Heart-Failure",
@@ -26910,9 +27733,27 @@
       ]
     },
     {
+      "first_field_hash": "747bb575c6a47e5b0e0d9fd1ad7a9f77dc09f8e6fc62964003d503f7cafd1ec4",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::09-Metabolic-Acidosis-&-Alkalosis"
+      ]
+    },
+    {
       "first_field_hash": "0fbb62f106c3192e59facc06cef4918f0e4b10e7059b80bde3d6bced47443aca",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Renal-Block::09-Metabolic-Acidosis-&-Alkalosis::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "68ffc7447ac0ca3c8f513bd00e233bb922ccc60b1397157d7264a100220c963e",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::19-Adrenal-Pathophysiology"
+      ]
+    },
+    {
+      "first_field_hash": "16f0755cd46d9193e8041934353ba200b435442bb0e39e7ee83a1f18992a65da",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::19-Adrenal-Pathophysiology"
       ]
     },
     {
@@ -27500,6 +28341,12 @@
       ]
     },
     {
+      "first_field_hash": "075ae89a3154297ce2fac25b926a0fc449950046d32826b10e323aa53f1d0fbc",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::04-Lipoproteins"
+      ]
+    },
+    {
       "first_field_hash": "b95bdaf2653b12ebea90aab51fd941aa49b0ad4e67af088859c79ef6ad437f36",
       "tags": [
         "JerryShen_AnKing_Tags::Biochemistry::Final::03-Lipid-Metabolism"
@@ -27534,6 +28381,12 @@
       "first_field_hash": "db1912ca5db9c3930a0b698546d45772c3d262a1eec2340b2bd7255c9b358170",
       "tags": [
         "JerryShen_AnKing_Tags::Biochemistry::Final::03-Lipid-Metabolism"
+      ]
+    },
+    {
+      "first_field_hash": "fb1d2c738a32cf373f743114bfa91a16811cc84575b222163a848d47c30b58f3",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::04-Lipoproteins"
       ]
     },
     {
@@ -27580,6 +28433,12 @@
     },
     {
       "first_field_hash": "66886cab6aab9bb6498aeeed9197241e5ddfdf3a11a975364e5634fbe749d079",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::04-Lipoproteins"
+      ]
+    },
+    {
+      "first_field_hash": "5a85f5a2352e15bc277a6f2ebfec71cd8fdbf695a6ab8df1d7ec84da2c88a883",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::04-Lipoproteins"
       ]
@@ -28604,6 +29463,12 @@
     },
     {
       "first_field_hash": "9385875a152c5a5db172a2574f6fedc44c43392e055f782aa96ad6745dc91712",
+      "tags": [
+        "JerryShen_AnKing_Tags::Biochemistry::Final::05-Nitrogen-Metabolism::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "56c48f5c8e1fdf2d9b2ab1cd37e9fb985683d03f2a0fb7f3320791599ae65178",
       "tags": [
         "JerryShen_AnKing_Tags::Biochemistry::Final::05-Nitrogen-Metabolism::Class-Content"
       ]
@@ -30371,7 +31236,7 @@
       "first_field_hash": "2a031d845d81d8519144d4178eb3dd043b6971de8122ecb98beca67bf6153b2a",
       "tags": [
         "JerryShen_AnKing_Tags::(✏️)-Tagged-by-Jerry-Shen",
-        "JerryShen_AnKing_Tags::(🛠️)-Last-Updated-09284026",
+        "JerryShen_AnKing_Tags::(🛠️)-Last-Updated-100326",
         "JerryShen_AnKing_Tags::(🧋)-buymeacoffee.com/ger1atric",
         "JerryShen_AnKing_Tags::Biochemistry::Final::02-Oxidative-Phosphorylation::Class-Content"
       ]
@@ -32646,7 +33511,7 @@
       ]
     },
     {
-      "first_field_hash": "c720105d8b02f34c6aace262b2fac78b7167427b7b6075e3dbefadebb93b8909",
+      "first_field_hash": "353ea6c97ef07365e375c20fc162df498fd8e0fd2e51831dd79939a18b59e633",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::10-Autonomic-Physiology-and-Pharmacology"
       ]
@@ -35979,19 +36844,46 @@
     {
       "first_field_hash": "1d1024dced3f3d222a0578c5550f6b74de8bcb569451a48ce166578d9dd833a3",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::10-Neuroendocrinology"
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::10-Neuroendocrinology",
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::20-Endocrine-Pathology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "3dbffb3618d15656bfda1d976bda2a9cdad307831e550a51cdcc4b9f8850e8a3",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::20-Endocrine-Pathology"
       ]
     },
     {
       "first_field_hash": "3cdd910d097c52a889f74f8897f2241943c9fec9a144a88d3ea3165b8b2e0ca2",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::10-Neuroendocrinology"
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::10-Neuroendocrinology",
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::20-Endocrine-Pathology"
+      ]
+    },
+    {
+      "first_field_hash": "1853a00d1b4fb66800634c404e045ea388d913f609feede8557141ad5f07d939",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::20-Endocrine-Pathology::Class-Content"
       ]
     },
     {
       "first_field_hash": "d4a056a16e7af8daf3b4d050f5d0146a2eac1948cc15161fb2fb6130ae236359",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::10-Neuroendocrinology"
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::10-Neuroendocrinology",
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::20-Endocrine-Pathology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "d716f6525e09eb3b3ac978f6a6ac436a7e52e21cb4f5cc1cd57fc2b4d31544ee",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::20-Endocrine-Pathology"
+      ]
+    },
+    {
+      "first_field_hash": "89042d0a6a5a971373d17849e2bfaa92a2a6e2caa1bf5215ae84c765a2a1c816",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::20-Endocrine-Pathology"
       ]
     },
     {
@@ -37338,6 +38230,12 @@
       ]
     },
     {
+      "first_field_hash": "cbbb85fd761cd75fe115cc950b9c2de214fa3e6c78dfada0e5f0f888cefd20d5",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::19-Adrenal-Pathophysiology::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "feece2ab7e537cc444a69404aa48f20fc2bb1e6b01397612060f83360aa5854a",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Renal-Block::15-Renal-&-Bladder-Tumor-Pathology"
@@ -37358,19 +38256,28 @@
     {
       "first_field_hash": "4b8e4cd617763510ce559e53972d5e0a0770ec7896dee3e8d23e7be8c3756894",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::10-Neuroendocrinology"
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::10-Neuroendocrinology",
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::20-Endocrine-Pathology"
       ]
     },
     {
       "first_field_hash": "ae4a162e1b49f4f97f49099ffd3cde88f289652abdb6c9b018a1dee7853bd6d3",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::11-GH-IGF1-&-Prolactin"
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::11-GH-IGF1-&-Prolactin",
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::20-Endocrine-Pathology"
+      ]
+    },
+    {
+      "first_field_hash": "e28020af5191e7e81199edccc120fbb31222e241ca8ada22b4da79affb901656",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::20-Endocrine-Pathology::Class-Content"
       ]
     },
     {
       "first_field_hash": "f780d9717829fcda2c3072d0a60984e9e8a4651cd02fdf9c349b54551a8174d6",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::10-Neuroendocrinology"
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::10-Neuroendocrinology",
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::20-Endocrine-Pathology::Class-Content"
       ]
     },
     {
@@ -38750,7 +39657,7 @@
       ]
     },
     {
-      "first_field_hash": "6aec80803c1502ef0929449c3c7cf85640a9a7de8c3a47bcbd6f2e400e12512c",
+      "first_field_hash": "8d785b07e044d82bf883b94d5753498e05d7c20ee714efab73403aab8d382e0a",
       "tags": [
         "JerryShen_AnKing_Tags::POM-1::Final::Psychiatry::Class-Content"
       ]
@@ -43758,6 +44665,12 @@
       ]
     },
     {
+      "first_field_hash": "5795b08ba6748e757c9c8cdb13c1fb16abe0c2d1bd0617a00bd91e442bd29982",
+      "tags": [
+        "JerryShen_AnKing_Tags::Biochemistry::Final::02-Oxidative-Phosphorylation"
+      ]
+    },
+    {
       "first_field_hash": "c3af92b6073bcbd0cdf23988d74a98da9aa4ec1438403dac28a8cea94461b8a2",
       "tags": [
         "JerryShen_AnKing_Tags::Biochemistry::Final::02-Oxidative-Phosphorylation"
@@ -44242,6 +45155,12 @@
       "first_field_hash": "2b24c99713f05f777ea088ef38f18087a5ef3273976eaedb4ade521b32c64935",
       "tags": [
         "JerryShen_AnKing_Tags::POM-4::Clinical-Reasoning::Shortness-of-Breath-(Hyperthyroidism)::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::16-Thyroid-Physiology-&-Pathophysiology"
+      ]
+    },
+    {
+      "first_field_hash": "c5b40617c0105f3f542e0d7ad03cfa90363e995e39003682225a4752502c42dc",
+      "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::16-Thyroid-Physiology-&-Pathophysiology"
       ]
     },
@@ -45363,19 +46282,19 @@
       ]
     },
     {
-      "first_field_hash": "7714ce86908fa65e3e2ba02ec0f486ee09b8000484469d7efb8ead280e6f56df",
+      "first_field_hash": "b64acfb324063ba8f10a65465999ab4389ff72492df8b0237d016526a79c93ec",
       "tags": [
         "JerryShen_AnKing_Tags::Cancer-Biology::Final::05-Cancer-Genes-&-Pathways::Class-Content"
       ]
     },
     {
-      "first_field_hash": "de60ed0757ad5a6683b7f284822c3184ce79817a7de0093dce87e37f3ac903c1",
+      "first_field_hash": "8aeae057fe4610ec403f56aa34b12fc474c9da2fa12dd6d0707b15b49ec177fc",
       "tags": [
         "JerryShen_AnKing_Tags::Cancer-Biology::Final::05-Cancer-Genes-&-Pathways::Class-Content"
       ]
     },
     {
-      "first_field_hash": "a99837f9e5ea7b6dc2ca76b4e132ad621b873139c352a7eba138c17e62f30bee",
+      "first_field_hash": "6e109f4eeb0b7917380b3023f38fee67d690029712ac6a83aaf9cdccab1aabfa",
       "tags": [
         "JerryShen_AnKing_Tags::Cancer-Biology::Final::05-Cancer-Genes-&-Pathways::Class-Content"
       ]
@@ -45916,7 +46835,7 @@
       ]
     },
     {
-      "first_field_hash": "43d35eb4f60e1ce8c793a074348f6d12e0ac8d91c9985d1d05b75d9fb3900842",
+      "first_field_hash": "75320c83cfd4ab5bddba745925ef659ff481f2303fae15d337397e06e874a541",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::10-Autonomic-Physiology-and-Pharmacology::Class-Content"
       ]
@@ -46342,6 +47261,12 @@
       ]
     },
     {
+      "first_field_hash": "b5fe72504618f215bc4e41c7694496dcfac0f125a92c997f867f2ccd497e3455",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::19-Adrenal-Pathophysiology"
+      ]
+    },
+    {
       "first_field_hash": "4a1ae379f100a811f21ecf829c514722cc8e4a60ab91d7ddd42738d4a9767568",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Renal-Block::13-Urinalysis",
@@ -46618,6 +47543,12 @@
       "first_field_hash": "dd11ca84b49af619ebecd1d218c2b4413e6bf5cbdfecba397065af64e8eab0bd",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Renal-Block::17-Urinary-Tract-Infections::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "195b23bc4a37f8326b1b9dbe810fb25713c607af326212e57c5fea010cc64da4",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::17-Urinary-Tract-Infections"
       ]
     },
     {
@@ -47354,6 +48285,12 @@
       "first_field_hash": "7dc6b49ab5143f746eefa7787e5d05edb8fb8821dddee6aa646cfca614caaa1f",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::15-Pathophysiology-&-Treatment-of-Heart-Failure"
+      ]
+    },
+    {
+      "first_field_hash": "be5c729eee51a5de4dbcbc9cc481e632d9a6aeb22f2766c153cd2102493e1611",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::22-CKD-Complications-&-Treatment"
       ]
     },
     {
@@ -49039,6 +49976,12 @@
       ]
     },
     {
+      "first_field_hash": "cdd04ca7f2e533d3f718c6a82e8d6ac71154280faaf2bedece8ce08fd74f2fcc",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::20-Endocrine-Pathology::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "b0a43740062f57047589740f85566ce891147d002a359f84c488f33e6ec5287c",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::16-Lower-Respiratory-Infections::Class-Content"
@@ -49398,9 +50341,22 @@
       ]
     },
     {
+      "first_field_hash": "361a1bd75de260425ebc09e4bab7b9dfc1e574a06ddbf719e5c199c5279a4a4e",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::19-Adrenal-Pathophysiology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "455eca9f633843f70fb242a5f447aeec09cafa7c0276dbbceda9815a0906e168",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::19-Adrenal-Pathophysiology::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "d8f69c60dc5dd07cee3b3498ce483f251ec0247e017ce2ba2182083721e8b16a",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::10-Neuroendocrinology"
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::10-Neuroendocrinology",
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::19-Adrenal-Pathophysiology::Class-Content"
       ]
     },
     {
@@ -49524,7 +50480,8 @@
     {
       "first_field_hash": "00be7099cc9e129ae35f24203cb8e913d8f79af04f787b68323b01af501b922a",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::10-Neuroendocrinology"
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::10-Neuroendocrinology",
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::20-Endocrine-Pathology::Class-Content"
       ]
     },
     {
@@ -50849,6 +51806,12 @@
       ]
     },
     {
+      "first_field_hash": "bba2f05f4f2869f420ad0cc50f7acfa43e072c3e17dcdc5c561323f8cd9bbe33",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::18-Adrenal-Physiology"
+      ]
+    },
+    {
       "first_field_hash": "f6a015eb7a91c8fbc7522323acd5d156df00cb69e719e026c3f9f6453be28917",
       "tags": [
         "JerryShen_AnKing_Tags::Biochemistry::Final::06-Nucleic-Acid-Metabolism"
@@ -51834,6 +52797,12 @@
       ]
     },
     {
+      "first_field_hash": "9ebc8f9825c395f64d54696c0e05a325d97baff5f5423d98754f7fa291e5a804",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::17-Urinary-Tract-Infections"
+      ]
+    },
+    {
       "first_field_hash": "291421566b85a75aa6350b3d439b2acf9072455672348ed3bc52bfca7af2dd37",
       "tags": [
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-2::10-Biologics-Ectoparasites-&-Clinical-Cases"
@@ -52753,7 +53722,7 @@
       ]
     },
     {
-      "first_field_hash": "2f8650a1639605aad4adcc93fcaaad79624ad8e471dabc306a7c62b4e7d642c1",
+      "first_field_hash": "d78e7107e400ac6c804781d0a913bc91014ecef69805e606496040ed9999adf0",
       "tags": [
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-1::04-Intro-to-Viruses"
       ]
@@ -57347,6 +58316,12 @@
       ]
     },
     {
+      "first_field_hash": "2404e4bf31476c835e770e85f19a5f527ae29d5b6efdc27a3f44af3a76b6b18c",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::04-Lipoproteins"
+      ]
+    },
+    {
       "first_field_hash": "72d0d72caf170639abd294c877fdf0dc3fdb05d06a78f94298c16cd1dd010d65",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::MSK-Block::02-Bone-&-Joint-Infections"
@@ -58674,6 +59649,18 @@
       ]
     },
     {
+      "first_field_hash": "2ba9263ae4b8a3c56e8cc5931cba0faddc71de2bf4c1708540ff43b2e4601b55",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::18-Adrenal-Physiology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "ef10cf51d61dce2a51e4e048769559df04335446208ea81bf3dff0f05188d114",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::18-Adrenal-Physiology::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "f8eb40f043cb895dea3527cc65622bc0a01c05d7b0f157e5c2af65406417f308",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Renal-Block::17-Urinary-Tract-Infections"
@@ -59239,7 +60226,7 @@
       ]
     },
     {
-      "first_field_hash": "efbceef4ec7ce46d2abf368ac4ff131c0c6cbca81f5f5cd930c5817b93c2b5d3",
+      "first_field_hash": "90ac668ae18ec0c5c06c0f8160881949dfda80d7bd71855b6b9eaf408728875a",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::27-Lung-Cancer::Class-Content"
       ]
@@ -59514,7 +60501,7 @@
       ]
     },
     {
-      "first_field_hash": "3af7209df59c9cb41001e82e762cc109f56369a9eb72a7918fbca458aa8b5776",
+      "first_field_hash": "8ded96d09fd693740a0b1d5424c7cc4ac5067635a46cb238c30e9dda50092f7c",
       "tags": [
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-1::03-C.diff-&-Pseudomonas"
       ]
@@ -59664,6 +60651,12 @@
       "first_field_hash": "7b8d74a19182ef23d87e46b16c92607d872953f3ea673a71cc1f9415670b8260",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::09-Endocrinology-of-Growth::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "f4ea0ec0d476a9031a12738f9226d44a6059cfec7aa070c6b137dd56f73a8a68",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::18-Adrenal-Physiology"
       ]
     },
     {
@@ -61236,6 +62229,7 @@
     {
       "first_field_hash": "dc2b7ea02297f2a3c2b080f10845ed69bdc1ce14e1da15ae409bce7281e36d79",
       "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::19-Adrenal-Pathophysiology",
         "JerryShen_AnKing_Tags::SOM-2::Renal-Block::11-Potassium-Disorders"
       ]
     },
@@ -61333,6 +62327,12 @@
       "first_field_hash": "121c6343191a92477be64c1ced3670b14fd7964ad3ea2a3db9d283feaefec1cf",
       "tags": [
         "JerryShen_AnKing_Tags::POM-2::Final::Nutrition"
+      ]
+    },
+    {
+      "first_field_hash": "f3220701bbeefeb87e3269c4a19bc80fc2f82aef487387839a9b5f8b0cc35f19",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::15-Bone-Pathophysiology"
       ]
     },
     {
@@ -62224,6 +63224,12 @@
       ]
     },
     {
+      "first_field_hash": "ca03a6281804fe77383f19fe8db17ebab0744fba2b8a644585f42728373e9fa1",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::18-Adrenal-Physiology"
+      ]
+    },
+    {
       "first_field_hash": "0ed09f8ec0d44701ecf495221447345a7db0a8dd757f9faa0d1fe8b1f71428cf",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Renal-Block::09-Metabolic-Acidosis-&-Alkalosis::Class-Content"
@@ -62907,6 +63913,8 @@
     {
       "first_field_hash": "a61da260f5204471b1abab598238140f85a522925047a360c7b1685d9652f978",
       "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::19-Adrenal-Pathophysiology::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::Tutorial-3-Endocrine-Pathology::Class-Content",
         "JerryShen_AnKing_Tags::SOM-2::Renal-Block::11-Potassium-Disorders"
       ]
     },
@@ -62929,6 +63937,18 @@
       ]
     },
     {
+      "first_field_hash": "ed38d2f35e0aa754cfef2fcca1ec5245e2938e4029c14a3c6b2585d4c19d47b0",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::19-Adrenal-Pathophysiology"
+      ]
+    },
+    {
+      "first_field_hash": "f56bd1bbc8047be8ea77b157d2ee2c5a85d8831e80d3976e93d33cd9531a54b2",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::19-Adrenal-Pathophysiology"
+      ]
+    },
+    {
       "first_field_hash": "52188323a358a202b9f8c13400d027bede703fbabe4ec2277c966a5d08485d9b",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::16-Thyroid-Physiology-&-Pathophysiology::Class-Content",
@@ -62938,8 +63958,16 @@
     {
       "first_field_hash": "864f4723acff0680bb4777270d086206e09d6bca72277b4dc1044bd1feb10e91",
       "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::19-Adrenal-Pathophysiology::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::Tutorial-3-Endocrine-Pathology",
         "JerryShen_AnKing_Tags::SOM-2::Renal-Block::11-Potassium-Disorders",
         "JerryShen_AnKing_Tags::SOM-2::Renal-Block::11-Potassium-Disorders::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "24b112687fc3a8d2cf0bfef620b66299a94a93612e4712da7e7326f3295ed3e7",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::19-Adrenal-Pathophysiology::Class-Content"
       ]
     },
     {
@@ -62952,7 +63980,9 @@
       "first_field_hash": "d58facb86e52a1ab9927c32256c0bf86548e3bba6742562ccaf6d98711bb21df",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::31-Treatment-of-Hypertension",
-        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::31-Treatment-of-Hypertension::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::31-Treatment-of-Hypertension::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::19-Adrenal-Pathophysiology::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::Tutorial-3-Endocrine-Pathology::Class-Content"
       ]
     },
     {
@@ -63021,6 +64051,13 @@
       "first_field_hash": "ecb148447e4f01403371171b9f44bd488ede56679b856fe0aa8fcf1f8ea01588",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::11-GH-IGF1-&-Prolactin"
+      ]
+    },
+    {
+      "first_field_hash": "917b63910131e767e04242bc6f7e0948905c252d9d4ec35da84026d16bddb0b6",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::19-Adrenal-Pathophysiology",
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::Tutorial-3-Endocrine-Pathology"
       ]
     },
     {
@@ -63518,6 +64555,12 @@
       ]
     },
     {
+      "first_field_hash": "ba8417a5fe140d195d618800f5302af4a2324a84665bcb57dc4cf5bc034b65d8",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::19-Adrenal-Pathophysiology"
+      ]
+    },
+    {
       "first_field_hash": "c7bd34a941d99f857f18fbc5a5a9cbe673aff39593f7006a7329aec90c86c870",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::14-Bone-Physiology",
@@ -63763,6 +64806,12 @@
       ]
     },
     {
+      "first_field_hash": "3abf68803ade48cc540c544a69c0eae7ab53ca70ae8f64420577b1d2c24a1c90",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::18-Adrenal-Physiology::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "dfa4f40131926b71c7ae572554f9eaaf496077a400d4c8df08c2f767b8a04d56",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::35-Congenital-Heart-Disease::Class-Content"
@@ -63964,7 +65013,8 @@
     {
       "first_field_hash": "f7ddcf5a021a1ce52aae6a7da54ca123d59b59363fe4a808bf52f2230126c3f9",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::10-Neuroendocrinology"
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::10-Neuroendocrinology",
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::20-Endocrine-Pathology"
       ]
     },
     {
@@ -64909,6 +65959,7 @@
       "first_field_hash": "560beba4e0b44115ae3ef13fe89c756515ceacad37ff99e4d01ba4776d9a9082",
       "tags": [
         "JerryShen_AnKing_Tags::Neurobiology::Exam-3::Tutorial-7-Affective-and-Cognitive-Systems",
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::20-Endocrine-Pathology",
         "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::Tutorial-2-Thyroid-Disease::Class-Content"
       ]
     },
@@ -65019,7 +66070,8 @@
     {
       "first_field_hash": "df67ff412014be9e737e59f47d756c3320a4acca3bd11883c11865159967c2a0",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::10-Neuroendocrinology"
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::10-Neuroendocrinology",
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::19-Adrenal-Pathophysiology::Class-Content"
       ]
     },
     {
@@ -65689,7 +66741,8 @@
     {
       "first_field_hash": "9379f304241ececa7cf54f0305e2746fd914bb863fafe6c11ceeee404e193ab8",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::10-Neuroendocrinology"
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::10-Neuroendocrinology",
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::20-Endocrine-Pathology"
       ]
     },
     {
@@ -66222,6 +67275,7 @@
     {
       "first_field_hash": "aeaa6ad31a4b8f4eb8c7c60e7feef544aefcbd15b5564a6e72135bb5a754741d",
       "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::20-Endocrine-Pathology::Class-Content",
         "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::Tutorial-2-Thyroid-Disease::Class-Content"
       ]
     },
@@ -66238,6 +67292,13 @@
       ]
     },
     {
+      "first_field_hash": "c4f1eb8ea4ba03415dc20d58df18cf3cd7d09b08c3c26c0d6740836578e28095",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::19-Adrenal-Pathophysiology",
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::Tutorial-3-Endocrine-Pathology::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "a2a10aa71ee2116fdf8a6870e9b91ec966a73f43cf7dde25f3cc92f76199a5f3",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::30-Hypertension"
@@ -66246,7 +67307,8 @@
     {
       "first_field_hash": "d602e9802d16b95360b22736dcd528a989f3c4900a469718e0647aa5ce3e9def",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::10-Neuroendocrinology"
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::10-Neuroendocrinology",
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::19-Adrenal-Pathophysiology::Class-Content"
       ]
     },
     {
@@ -66280,6 +67342,13 @@
       "first_field_hash": "854e76eccedee1572b3df4a2560ded92f14ea9fb3b032da44cd69323b3f0052b",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::10-Neuroendocrinology"
+      ]
+    },
+    {
+      "first_field_hash": "20257601a45816483e0c1001307359ae782f65148db3097994c5865b69869e30",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::19-Adrenal-Pathophysiology",
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::Tutorial-3-Endocrine-Pathology"
       ]
     },
     {
@@ -66709,6 +67778,12 @@
       "first_field_hash": "407b75969644c47e3d934f66cd1a34566e847189d0ec449ac87cab3c6e9ba457",
       "tags": [
         "JerryShen_AnKing_Tags::POM-3::Psychiatry::Mood-Disorders"
+      ]
+    },
+    {
+      "first_field_hash": "df82f786faf51711253f8b28e698d7c9e6b254c95fb1e0fdfbb81291e0ddeb44",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::19-Adrenal-Pathophysiology"
       ]
     },
     {
@@ -67238,6 +68313,12 @@
       ]
     },
     {
+      "first_field_hash": "a078b7cdc95223db9cde08ac0d8df13122c6525883f1a196dfc78de147cfa8e4",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::19-Adrenal-Pathophysiology"
+      ]
+    },
+    {
       "first_field_hash": "55e8a75a880e6a762eb0ee1ef215bfb304e022de263f4e2c7146240f4a899a94",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Renal-Block::16-Acute-Kidney-Injury"
@@ -67330,6 +68411,12 @@
       "first_field_hash": "a98186b8a8db064041009023f5e4c985b8f3f553f873a22cdc2079131fdc121b",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::10-Neuroendocrinology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "bbf332ad00a82614366782b6bafa3924c12948e6f25b0f8f4ba355426df0d42b",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::18-Adrenal-Physiology::Class-Content"
       ]
     },
     {
@@ -67952,6 +69039,12 @@
       ]
     },
     {
+      "first_field_hash": "3a784a34467e4b85a0cea51c310a732a17823a5c047296394840f134d9a65ebe",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::13-Urinalysis"
+      ]
+    },
+    {
       "first_field_hash": "f31aed2685332aeca3c991e4e0a0dfe2ba0ef7f23accb0df6428ffe2402423a8",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::MSK-Block::06-Backache"
@@ -68362,7 +69455,14 @@
     {
       "first_field_hash": "0103f527c9ab9f069195fc4aed8e3e2bf2479919e0ee133f897abd1fb656a1eb",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::10-Neuroendocrinology"
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::10-Neuroendocrinology",
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::18-Adrenal-Physiology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "60118b3f3d01e8272759def5799d0b5267d2b031fcc45f73ce5f563ad6096f7d",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::18-Adrenal-Physiology::Class-Content"
       ]
     },
     {
@@ -68384,9 +69484,21 @@
       ]
     },
     {
+      "first_field_hash": "c152a9fcc4eb3cbfbca47da082e008f5fd76974b388ead56ab1dbd69420f4aaf",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::Tutorial-3-Endocrine-Pathology"
+      ]
+    },
+    {
       "first_field_hash": "0733859abd219f4c22861017421c77c25c3c8d7bdc6e4fcd455ebabb447bf999",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Renal-Block::12-Calcium-Magnesium-&-Phosphate-Regulation"
+      ]
+    },
+    {
+      "first_field_hash": "7df067bc3295dc53a610c2061d58dd71fb3ad363b670b885587e4379e1402d63",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::22-CKD-Complications-&-Treatment"
       ]
     },
     {
@@ -68543,6 +69655,12 @@
       "first_field_hash": "80c37a7c7bfcc7f58875dafe748a5129a74bb796f07ec5ddc951e3858f9213b7",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Renal-Block::17-Urinary-Tract-Infections"
+      ]
+    },
+    {
+      "first_field_hash": "5a7647df2617f11245477681c9c93fe75beb9eb0d4e146ec714899b047b2b602",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::18-Adrenal-Physiology"
       ]
     },
     {
@@ -70255,6 +71373,20 @@
       ]
     },
     {
+      "first_field_hash": "3a037186354c8cd468d7ac917bb702d72527a9363f3830884317abd7af470fcf",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::18-Adrenal-Physiology",
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::18-Adrenal-Physiology::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::19-Adrenal-Pathophysiology"
+      ]
+    },
+    {
+      "first_field_hash": "f356f633d5e80d6353b4075716ffee0c576501fe607e40ffb5fc2631af54e9c9",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::19-Adrenal-Pathophysiology::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "e4a1412c1ffb65fbf0efbce467be9393aff3f8cd3059ce3ccf4a1a7a1d773982",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::11-Pathology-of-Cardiomyopathy-and-Myocarditis::Class-Content"
@@ -70818,7 +71950,8 @@
     {
       "first_field_hash": "9233a8d67acee3531cd3b079e5501a0e341093252814af8cf3cf78252699b8ed",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::10-Neuroendocrinology"
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::10-Neuroendocrinology",
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::19-Adrenal-Pathophysiology"
       ]
     },
     {
@@ -71143,6 +72276,12 @@
       "first_field_hash": "bf82755bf621e93c9fb6997881f1bd3226e9f14a0577351b4449e018b660da37",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::MSK-Block::04-Upper-Limb-Pathology"
+      ]
+    },
+    {
+      "first_field_hash": "eedfd9de32d704a7f8321a2c533de211b4f6a18653132785f9279c465abb3608",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::20-Endocrine-Pathology"
       ]
     },
     {
@@ -71637,12 +72776,14 @@
     {
       "first_field_hash": "3ebb80f453f34ea07b2e1d682b196b277d71ae4136e2239c528956eae30183ee",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::09-Endocrinology-of-Growth"
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::09-Endocrinology-of-Growth",
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::20-Endocrine-Pathology::Class-Content"
       ]
     },
     {
       "first_field_hash": "b8656f9d95c1227a094556a575542c3bfda11552b21f8259f5da2b6fd889b40d",
       "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::20-Endocrine-Pathology::Class-Content",
         "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::Tutorial-2-Thyroid-Disease::Class-Content"
       ]
     },
@@ -71650,13 +72791,15 @@
       "first_field_hash": "1af84e34ff7340d52e6d6abcf7f390329db6b1ba52a3794862d0b03b14761a2b",
       "tags": [
         "JerryShen_AnKing_Tags::Neurobiology::Exam-3::Tutorial-7-Affective-and-Cognitive-Systems",
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::20-Endocrine-Pathology",
         "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::Tutorial-2-Thyroid-Disease::Class-Content"
       ]
     },
     {
       "first_field_hash": "c125cca2433849243ea75d48984bb40843821da9fc25a1a6aa722509601e001a",
       "tags": [
-        "JerryShen_AnKing_Tags::Neurobiology::Exam-3::Tutorial-7-Affective-and-Cognitive-Systems"
+        "JerryShen_AnKing_Tags::Neurobiology::Exam-3::Tutorial-7-Affective-and-Cognitive-Systems",
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::20-Endocrine-Pathology"
       ]
     },
     {
@@ -71710,13 +72853,15 @@
     {
       "first_field_hash": "c93784909c6d79496a6f49de12508bd254cb389be9c8d7780e175b6cca51a448",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::10-Neuroendocrinology::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::10-Neuroendocrinology::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::19-Adrenal-Pathophysiology::Class-Content"
       ]
     },
     {
       "first_field_hash": "083f6dcbbacab03635fc403f48fc06761e14fabff01037ff7c78b0e5ec5dc041",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::10-Neuroendocrinology::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::10-Neuroendocrinology::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::19-Adrenal-Pathophysiology"
       ]
     },
     {
@@ -71965,6 +73110,7 @@
     {
       "first_field_hash": "24f00c323cc63bc10f1d5be0532a648292743e81675bad62f9de769282fc0760",
       "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::19-Adrenal-Pathophysiology",
         "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::Tutorial-2-Thyroid-Disease::Class-Content"
       ]
     },
@@ -71990,6 +73136,12 @@
       "first_field_hash": "49fc0e6d3cb5ae7b2cfac78ea576d26f61a066feb79da339f2bb967518c06240",
       "tags": [
         "JerryShen_AnKing_Tags::POM-4::Clinical-Reasoning::Shortness-of-Breath-(Hyperthyroidism)",
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::16-Thyroid-Physiology-&-Pathophysiology"
+      ]
+    },
+    {
+      "first_field_hash": "4142596dde6454d34143ce8186dda23954b4e549a949e13df6d097c88c8c2c0b",
+      "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::16-Thyroid-Physiology-&-Pathophysiology"
       ]
     },
@@ -72229,6 +73381,12 @@
       ]
     },
     {
+      "first_field_hash": "36f30bbfb2b9f8175632dbfc1404ae01839dcfdc15da1c932552a1de400c4920",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::13-Urinalysis"
+      ]
+    },
+    {
       "first_field_hash": "a6f545e3b95745c1591ba104f6646ed267baa2b99a792faa917d4ad58c1ade91",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::14-Bone-Physiology"
@@ -72321,13 +73479,38 @@
     {
       "first_field_hash": "073984f323353c71ef41a1f42629959ced4345c21443b9aabea4c2a102b1709e",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::10-Neuroendocrinology"
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::10-Neuroendocrinology",
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::18-Adrenal-Physiology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "db8b974eb24382d472a11ecb37fbf508f8fd47b7353495a28fccae72e6e0cc2c",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::18-Adrenal-Physiology"
       ]
     },
     {
       "first_field_hash": "ba637f3ec423da8da4be8a369410c6235754332975f72b169740a4420c39683b",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::31-Treatment-of-Hypertension"
+      ]
+    },
+    {
+      "first_field_hash": "2a635d1d07639b73203ce0b1a5651babbc4689a9aef8d4975837e77d76edc7c1",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::19-Adrenal-Pathophysiology"
+      ]
+    },
+    {
+      "first_field_hash": "6a55e3bda5f3f8d1b7c99adc6026a5726b7dc067c3f1414f36df7588ca736510",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::19-Adrenal-Pathophysiology"
+      ]
+    },
+    {
+      "first_field_hash": "16ed7df304d1ab69162419a1a7e34cda1bb7da122568a27d2098305dcad6863d",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::19-Adrenal-Pathophysiology::Class-Content"
       ]
     },
     {
@@ -72425,8 +73608,69 @@
       ]
     },
     {
+      "first_field_hash": "35f1470676838318557730d2cd83a56b64028487fbf2e02238b5c2332ee898fe",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::18-Adrenal-Physiology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "9696db7684cb8339d35754dab33fbe123d08262e589f91447082698842fc3b64",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::18-Adrenal-Physiology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "c30ee5f81d850a0a54ccd82523da11d0429ff553055968b1e12bcbe288da6913",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::18-Adrenal-Physiology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "4fdacfdc86e6cde3e903cdaeac973feb4e9726baf7d9a2f206b9020d987fb5fe",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::18-Adrenal-Physiology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "f4c0d7a23800f77a060f2707500332b1881ded87deb544bcfaf2a7255e4d4af7",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::18-Adrenal-Physiology"
+      ]
+    },
+    {
+      "first_field_hash": "4f47c180987262142315d809a44d72327d9b4168d1e7c4c4f6ea13bc34676d86",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::18-Adrenal-Physiology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "4ad56cf835c91e202a5d405ca8a74665d08245c92c43090fc47d4896774f0889",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::18-Adrenal-Physiology"
+      ]
+    },
+    {
+      "first_field_hash": "730db95f7b4a60f5b5594e9cf6a4a0ce0bb498aa620ea321af343df4cff175c3",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::18-Adrenal-Physiology"
+      ]
+    },
+    {
+      "first_field_hash": "d2f05eb4f13b87ab1ece1dc61658add588af77cfec6eec6407619a207947a0cb",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::18-Adrenal-Physiology"
+      ]
+    },
+    {
+      "first_field_hash": "15cd6e2b8835ef8c9d3b37438ec8d12413e28412193cbc8737e94f1a60e19a23",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::18-Adrenal-Physiology::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "b4a6a363778910c27cea9dd20894fcaf6293f0acb5b8d49512d20b881d194293",
       "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::Tutorial-3-Endocrine-Pathology::Class-Content",
         "JerryShen_AnKing_Tags::SOM-2::Renal-Block::11-Potassium-Disorders::Class-Content"
       ]
     },
@@ -72439,6 +73683,7 @@
     {
       "first_field_hash": "4c976ea2057b840bc70880c2a4b97b8e746d58079963f2a78351f7f55607c16e",
       "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::19-Adrenal-Pathophysiology::Class-Content",
         "JerryShen_AnKing_Tags::SOM-2::Renal-Block::11-Potassium-Disorders::Class-Content"
       ]
     },
@@ -72449,9 +73694,35 @@
       ]
     },
     {
+      "first_field_hash": "12e3e1a63be5f09272b358bea8bf9345ec43e43ee1e7b972637b25d99aa562e2",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::19-Adrenal-Pathophysiology"
+      ]
+    },
+    {
+      "first_field_hash": "c15b7c1b5764b8ea6e088e9c31f072b25e1715455db2ea3b3ac5f8af4828de2f",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::19-Adrenal-Pathophysiology",
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::Tutorial-3-Endocrine-Pathology"
+      ]
+    },
+    {
       "first_field_hash": "d1a9b6edbbebef68ef1482ead02a85ed736171d3d1d3454590d1a9c928ce397d",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Renal-Block::16-Acute-Kidney-Injury"
+      ]
+    },
+    {
+      "first_field_hash": "e86a32b3babe5e4f8e94f22d59ab1c5137294d8e05243b1b7608918d425f635e",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::18-Adrenal-Physiology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "b30372cea9d82589821adac9061df0ecff9a2d11b7edab9f3d5687ef8fef6424",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::18-Adrenal-Physiology",
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::18-Adrenal-Physiology::Class-Content"
       ]
     },
     {
@@ -72538,7 +73809,8 @@
     {
       "first_field_hash": "8db61ebdc926a6986cc51b79a773806fcc793b2111dff2c3aa4ecc4944f30f48",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::17-Thyroid-Pathology"
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::17-Thyroid-Pathology",
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::Tutorial-3-Endocrine-Pathology::Class-Content"
       ]
     },
     {
@@ -72880,6 +74152,12 @@
       "first_field_hash": "950745f90524c6be179eb361a69a59bb53414beba326b3ce42098ed5cea33a1f",
       "tags": [
         "JerryShen_AnKing_Tags::POM-1::Final::Epidemiology"
+      ]
+    },
+    {
+      "first_field_hash": "f0f88e5520d845a9a4dab33abd5acd6049802f9c415d75a8610691f482eed820",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::22-CKD-Complications-&-Treatment"
       ]
     },
     {
