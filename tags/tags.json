@@ -1,14 +1,14 @@
 {
   "schema_version": 1,
   "author": "JerryShen",
-  "description": "adrenal",
-  "created": "2026-10-04T21:01:22.358386+00:00",
-  "updated": "2026-10-04T21:01:22.358386+00:00",
+  "description": "monday lecture",
+  "created": "2026-10-06T20:03:01.333150+00:00",
+  "updated": "2026-10-06T20:03:01.333150+00:00",
   "tag_prefix": "JerryShen_AnKing_Tags",
   "tag_hierarchy": [
     "JerryShen_AnKing_Tags",
     "JerryShen_AnKing_Tags::(✏️)-Tagged-by-Jerry-Shen",
-    "JerryShen_AnKing_Tags::(🛠️)-Last-Updated-100326",
+    "JerryShen_AnKing_Tags::(🛠️)-Last-Updated-100626",
     "JerryShen_AnKing_Tags::(🧋)-buymeacoffee.com/ger1atric",
     "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology",
     "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-1-Thorax",
@@ -554,7 +554,9 @@
     "JerryShen_AnKing_Tags::SOM-2::Renal-Block::22-CKD-Complications-&-Treatment",
     "JerryShen_AnKing_Tags::SOM-2::Renal-Block::22-CKD-Complications-&-Treatment::Class-Content",
     "JerryShen_AnKing_Tags::SOM-2::Renal-Block::23-End-Stage-Renal-Disease",
-    "JerryShen_AnKing_Tags::SOM-2::Renal-Block::23-End-Stage-Renal-Disease::Class-Content"
+    "JerryShen_AnKing_Tags::SOM-2::Renal-Block::23-End-Stage-Renal-Disease::Class-Content",
+    "JerryShen_AnKing_Tags::SOM-2::Renal-Block::24-Genetic-Kidney-Diseases",
+    "JerryShen_AnKing_Tags::SOM-2::Renal-Block::24-Genetic-Kidney-Diseases::Class-Content"
   ],
   "changelog": [
     {
@@ -863,6 +865,11 @@
       "date": "2026-10-04T21:01:22.358386+00:00",
       "message": "adrenal",
       "note_count": 321
+    },
+    {
+      "date": "2026-10-06T20:03:01.333150+00:00",
+      "message": "monday lecture",
+      "note_count": 168
     }
   ],
   "notes": [
@@ -1102,6 +1109,18 @@
       "first_field_hash": "0210b5602c091a076b2332ca72b76c10ddf5dddfc6bf01303d6e536567e5a98a",
       "tags": [
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-2::08-Other-Antibiotics-&-Mycobacteria"
+      ]
+    },
+    {
+      "first_field_hash": "26b3f4633b9d30a15b43908fd7e8407566772d6bca581d163f26e57b532b8539",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::24-Genetic-Kidney-Diseases"
+      ]
+    },
+    {
+      "first_field_hash": "ddb2a8696da6e12e93c6788752267c33da378258e1fec5e68fabd62b6d82d7ec",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::24-Genetic-Kidney-Diseases"
       ]
     },
     {
@@ -1986,6 +2005,12 @@
       "first_field_hash": "700a17e957d8d7c1a35ef7bff64e8a8a8720f7d8c963d06b6d927b3d53679ef9",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Renal-Block::05-Water-Balance::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "27fc42aab6c9f0698bc8c0477b9ea068f524b14d6dd9b70ec2a70451238f3fee",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::24-Genetic-Kidney-Diseases::Class-Content"
       ]
     },
     {
@@ -4443,9 +4468,21 @@
       ]
     },
     {
+      "first_field_hash": "caf9f3f3eb5273189b49d18236f3e298243202bc8310a82bc8ac44d53569bada",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::16-Thyroid-Physiology-&-Pathophysiology"
+      ]
+    },
+    {
       "first_field_hash": "e213208638a27e0043ccf22d123fb70edd02d04632d6a090dfaed8f87e05fcea",
       "tags": [
         "JerryShen_AnKing_Tags::POM-4::Clinical-Reasoning::Shortness-of-Breath-(Hyperthyroidism)"
+      ]
+    },
+    {
+      "first_field_hash": "aa6ca21d176b2865fee9bf476410387ed2dc1f89e82433f746c30a00a5a8d7e4",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::16-Thyroid-Physiology-&-Pathophysiology"
       ]
     },
     {
@@ -7143,7 +7180,8 @@
       "first_field_hash": "11b2ee342bd746f4e38edc8d746eaac3f3a907f1bceeffecb009cc5bcfb6d3c7",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::15-Pathophysiology-&-Treatment-of-Heart-Failure::Class-Content",
-        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::08-Diuretics"
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::08-Diuretics",
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::24-Genetic-Kidney-Diseases::Class-Content"
       ]
     },
     {
@@ -7415,6 +7453,12 @@
       "first_field_hash": "e6d326cce3f41810607a6ac2bd9bf4d73cb2f28b15db00ee7903dd5ff1770fa3",
       "tags": [
         "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-4-Pelvis::Embryology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "2c9982e8b73c1fa99d2010dc797c9b3a1017a570dfce9f5d513d1d8dfb549305",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::24-Genetic-Kidney-Diseases::Class-Content"
       ]
     },
     {
@@ -8488,9 +8532,21 @@
       ]
     },
     {
+      "first_field_hash": "26df78f1df2e3a9856614738c0a2631cfa1155d522db94092e20ca94e21843f5",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::24-Genetic-Kidney-Diseases::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "f11273e11b7a5542c8ba8777ffc7a1201c176965058b9db8c69791521db69d64",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::14-Bone-Physiology"
+      ]
+    },
+    {
+      "first_field_hash": "cfef5463933206abfb70c5a633f9cb8799e0188e31ac16d9d3957221192ad2ba",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::20-Nephritic-Syndrome"
       ]
     },
     {
@@ -14040,6 +14096,12 @@
       ]
     },
     {
+      "first_field_hash": "50b78abe56fcaf53867535c4834f8e20719233b09e07374a8b4d474cbedf875d",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::18-Heart-Sounds-&-Clinical-Exam"
+      ]
+    },
+    {
       "first_field_hash": "66d8dc688083b3334e73a56f3e2e91c38eded5aeba2e0263b5e745e6cf1f53cf",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::10-Autonomic-Physiology-and-Pharmacology::Class-Content"
@@ -14052,7 +14114,19 @@
       ]
     },
     {
+      "first_field_hash": "32b39be72256bcf18138bea798cb997997a78970f09752156f3a987a28d8ec06",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::18-Heart-Sounds-&-Clinical-Exam"
+      ]
+    },
+    {
       "first_field_hash": "b66cbbdcf22c5aae5d1f915d28eb73bd77eec86c991e070df18f7edf8340402b",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::18-Heart-Sounds-&-Clinical-Exam"
+      ]
+    },
+    {
+      "first_field_hash": "797fc6c299264fd3d5fcd74a2f023d2c6ecae6bacde816d9c12fad10e259bdac",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::18-Heart-Sounds-&-Clinical-Exam"
       ]
@@ -21533,7 +21607,9 @@
     {
       "first_field_hash": "c5c062f3878ece2fe842bfc249d23216969645d320509685e08d3f30730bf66e",
       "tags": [
-        "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-1-Thorax::Embryology"
+        "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-1-Thorax::Embryology",
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::24-Genetic-Kidney-Diseases",
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::24-Genetic-Kidney-Diseases::Class-Content"
       ]
     },
     {
@@ -23112,6 +23188,18 @@
       ]
     },
     {
+      "first_field_hash": "9d1aa6d2b14e6967d91f4b6cc397a7f2aa830b3a26539a4543fa2f86e958465a",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::16-Acute-Kidney-Injury"
+      ]
+    },
+    {
+      "first_field_hash": "7e0b98ca0fc70e5e56ece20953c5899c73b5356f130dd442a98bfde2aebd712c",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::16-Acute-Kidney-Injury"
+      ]
+    },
+    {
       "first_field_hash": "f4b861f1863f877f9e394cad75ac1493e185adf36f0829da72fa1da12a071fb5",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Renal-Block::01-Introduction-to-Renal-Physiology::Class-Content"
@@ -23218,6 +23306,12 @@
       "first_field_hash": "91ca3e97664cd978e81e1918a6e8f2a1ad6f930990d8ce3b5a54d2f6cf99e38c",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::02-Glucose-Homeostasis-1::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "c94805c75cdc6fae44b9f604abf5be74be7525d67e8cba509d4b4f411c035147",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::06-Pathogenesis-&-Treatment-of-Type-1-Diabetes"
       ]
     },
     {
@@ -24532,39 +24626,294 @@
       ]
     },
     {
+      "first_field_hash": "67d7c07c73c9eb75874efc17b5671b4f9399156b34c9d9b0bac3ab57a8c6c1f6",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::24-Genetic-Kidney-Diseases::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "b677498f52b01ba85525ae530a80a7fefa2a1f845a534398795f6cf273c7e417",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::24-Genetic-Kidney-Diseases::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "f8f14f782e6ce0bcde401ec7cfdfd3f3ae6715a878ad456e1437e4494b5eba9a",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::24-Genetic-Kidney-Diseases::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "7e8edf4541ae08f5f64e03b235e25d425f3b27cb70f4596699c684191fef1037",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::24-Genetic-Kidney-Diseases::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "476d883b4d43394abb586f8cc0066db242c0ca6eb9b6866abadd12f82c2bc3a4",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::24-Genetic-Kidney-Diseases",
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::24-Genetic-Kidney-Diseases::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "34cfeae04e9f192686ede96863b88dcd72e839071e8519772f25915477533e08",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::24-Genetic-Kidney-Diseases::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "f56fa3b64ac3bf3df676d7859e694165ce9cf3bb0ec1599385d01b9b0c8ed6b8",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::24-Genetic-Kidney-Diseases"
+      ]
+    },
+    {
       "first_field_hash": "cef985bba676a5db7b0ce3905c78c78bacb0b62943fc5213bd11b99c6d9805d7",
       "tags": [
-        "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-1-Thorax::Embryology::Class-Content"
+        "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-1-Thorax::Embryology::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::24-Genetic-Kidney-Diseases::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "310c4098114aeb61ee49b8d0a97e9fa912531e0fd9ec5f98c3a19404ef815fa1",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::24-Genetic-Kidney-Diseases::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "808f1c94c79b617e81a4d21fc816e34988f3313456d60fa51ef890454831a132",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::24-Genetic-Kidney-Diseases"
+      ]
+    },
+    {
+      "first_field_hash": "6d812ae2fb712749fbcc2dfb77c98309cf74a11188a770f6c0da89807f8dcb5f",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::24-Genetic-Kidney-Diseases"
+      ]
+    },
+    {
+      "first_field_hash": "549151bc564d2a05a2a0d8111ec6b5bbb5b2458acb398916c4e857b4fdbcb76d",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::24-Genetic-Kidney-Diseases"
+      ]
+    },
+    {
+      "first_field_hash": "7cb6490b25a33de56f7f7d57a647143bc80c85460deda2cc55aaad9b59a1001b",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::24-Genetic-Kidney-Diseases"
+      ]
+    },
+    {
+      "first_field_hash": "b1675c0b7bf215957cb70206e8b80bb5560a807af1aff3549088e91c38839545",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::24-Genetic-Kidney-Diseases"
+      ]
+    },
+    {
+      "first_field_hash": "562bc62d5910aab6d40dac9b51377dea3f0742d46f8479a7099964be02038faf",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::24-Genetic-Kidney-Diseases"
+      ]
+    },
+    {
+      "first_field_hash": "e16b057dde5793b621d8137317c6fcb55ca257f0372fa7e71541834448efdb7a",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::24-Genetic-Kidney-Diseases"
+      ]
+    },
+    {
+      "first_field_hash": "e43d4c17e5939127140da6594d6b10b6ed48b6335d812aa33fcc6eb5bc4bad03",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::24-Genetic-Kidney-Diseases"
+      ]
+    },
+    {
+      "first_field_hash": "db3ac1c58b1ea1f5a738cc8d59c0162c6ff79bb6fa9493a6f9fc1d6e14eb927d",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::24-Genetic-Kidney-Diseases::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "f3f7f83a6df54fb6f7b35fec4457d6e1cca91bc8f9406a59df723e71170127dd",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::24-Genetic-Kidney-Diseases::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "26f841f7e5aefc4cec621d355cee4eb57239d67905968fb0d98817f5d5153e46",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::24-Genetic-Kidney-Diseases::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "1a758f7e3a6333d9fc924ff30fc70ba68529d3093f6db3196254b0788106ea4a",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::24-Genetic-Kidney-Diseases"
+      ]
+    },
+    {
+      "first_field_hash": "8ba532f0aebe811be9e246b4300a922f982588548babeec64ebfb5d9d9f2d30b",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::24-Genetic-Kidney-Diseases::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "d99f8260e433c075c4fc004082a4c61f48233b70f676043975d8f0aa11af94c3",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::24-Genetic-Kidney-Diseases::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "c4d79f6a600ce6f098f65165fae936f88ec2c85d7722f4145ab51632eb62dc5b",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::24-Genetic-Kidney-Diseases::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "346bd79cd0dd7f521ed0ea809b7bff2639b06906afb50a1401f72bfe5e358995",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::24-Genetic-Kidney-Diseases"
+      ]
+    },
+    {
+      "first_field_hash": "045a42601bf94d7307e8a468f0ece56888b88efeaedefab89645598e8aad87bb",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::24-Genetic-Kidney-Diseases::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "772f3a494e7a60637dab79e656948fb9eabbbc0f689ae66b3f675d4ba90b68e7",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::24-Genetic-Kidney-Diseases",
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::24-Genetic-Kidney-Diseases::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "3c992b2bc059e31d3b26e84c4f9fe6d95f5e37d4a0772d2f2eee693286a84f71",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::24-Genetic-Kidney-Diseases::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "bf29a9c4a294cb828fc91281d3d2d47f77419b56b19cc7954a65a9de3f8d7515",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::24-Genetic-Kidney-Diseases::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "fa660138e9f585d041f1f8d5f164789d222288e2be0cfd2f6ef13faa6bf8050b",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::24-Genetic-Kidney-Diseases::Class-Content"
       ]
     },
     {
       "first_field_hash": "9660976fb8ee9775abdb78d44c037af426be38d046ca36aa5b7c6565de44b53f",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::21-Chronic-Kidney-Disease"
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::21-Chronic-Kidney-Disease",
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::24-Genetic-Kidney-Diseases"
+      ]
+    },
+    {
+      "first_field_hash": "d8512f83f986d51532843bf5d2094750b2423326bd6c8dbf8389cc47fe0e5719",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::24-Genetic-Kidney-Diseases::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "99e6ba7ba65f170311fe114dbb81514f78e3544674dada187ea739dfa78a317e",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::24-Genetic-Kidney-Diseases::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "f93b3a0a4daff62a0b6f5cc1d6e343c37c2c18e0d2f50f662157da9320c41315",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::24-Genetic-Kidney-Diseases::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "b136b134ddd0212b9162aa17c8d350dd1b0c574bbfb364264582a5298d973dc0",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::24-Genetic-Kidney-Diseases::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "607268027115c36552d786c8a949a4e15db1798a19d7f31bedfad33708d3f8fd",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::24-Genetic-Kidney-Diseases::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "b5e4a1da92146fd9294ba7e20d25fa3d29b92a7b742d2e101ed65500b805fba6",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::24-Genetic-Kidney-Diseases::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "f00e4f1eadf06c354509db3e3ec2d18b1cd8c23864fb698b9d236506ac050448",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::24-Genetic-Kidney-Diseases::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "85bbf7b3ddb0704eea0404a867fdf5d4b60a794a40554813ac9ca133fc63b2bc",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::24-Genetic-Kidney-Diseases"
+      ]
+    },
+    {
+      "first_field_hash": "e93b2e27f4491e50eb51fc885e06a6b85dcb8c23e58fdc904c600d0cc859070a",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::24-Genetic-Kidney-Diseases",
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::24-Genetic-Kidney-Diseases::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "e493e480148366919ed747e5d04c14dca7994e2775e78759f4068f78463a4a9a",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::24-Genetic-Kidney-Diseases::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "03712a1ac927212748c8c0394d5ee76314832c0f1ca63fd61b57114bd0e9b76c",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::24-Genetic-Kidney-Diseases"
+      ]
+    },
+    {
+      "first_field_hash": "839e9cbdd5eb52fceb964df2d2f22ab9c205396b195be7cb9b28be92c38355c4",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::24-Genetic-Kidney-Diseases"
       ]
     },
     {
       "first_field_hash": "60fd1cdeb1f291db625ebca7214892acc0f9a51391b6c7b8be38d27b40eaf4db",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::15-Renal-&-Bladder-Tumor-Pathology"
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::15-Renal-&-Bladder-Tumor-Pathology",
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::24-Genetic-Kidney-Diseases"
       ]
     },
     {
       "first_field_hash": "0b95e1513a1c10992d5fb54fea78eab2d206c319da699c495dbb0de594ecf455",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::15-Renal-&-Bladder-Tumor-Pathology::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::15-Renal-&-Bladder-Tumor-Pathology::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::24-Genetic-Kidney-Diseases"
       ]
     },
     {
       "first_field_hash": "a89efae77fd6b4e0b4a275c7fadafcdb16d6e71e82e8735e61700c80484ef46e",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::15-Renal-&-Bladder-Tumor-Pathology::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::15-Renal-&-Bladder-Tumor-Pathology::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::24-Genetic-Kidney-Diseases"
       ]
     },
     {
       "first_field_hash": "8c481d1452b268b65e9e1a927f44c779988828ac86788db73e9cc0eb25c67dfd",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::15-Renal-&-Bladder-Tumor-Pathology::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::15-Renal-&-Bladder-Tumor-Pathology::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::24-Genetic-Kidney-Diseases"
       ]
     },
     {
@@ -24691,6 +25040,12 @@
       ]
     },
     {
+      "first_field_hash": "85341e0f770cdb7c7dee1b2a7335c1cbd88a216799d2a64d03ab226272fee37b",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::16-Acute-Kidney-Injury"
+      ]
+    },
+    {
       "first_field_hash": "bfcbaf58dc6ae62f4b3280b14da4cd1ff0ab5e9316018c91227b8ac026e5b962",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Renal-Block::16-Acute-Kidney-Injury"
@@ -24698,6 +25053,12 @@
     },
     {
       "first_field_hash": "9f5e84655f86224175f67ae659dd8778eb478cdf31bea71caee565fa62ccc01b",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::16-Acute-Kidney-Injury"
+      ]
+    },
+    {
+      "first_field_hash": "555927644e58ecb5eb9363df57e681de06f7e05cafc33ce59c924d1c57712d9a",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Renal-Block::16-Acute-Kidney-Injury"
       ]
@@ -25076,7 +25437,8 @@
     {
       "first_field_hash": "45710507118ef8b4cdda9dee05b503beb82e222651bf256ae24a8a0b9f3cadd6",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::19-Nephrotic-Syndrome"
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::19-Nephrotic-Syndrome",
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::24-Genetic-Kidney-Diseases"
       ]
     },
     {
@@ -25222,13 +25584,67 @@
       ]
     },
     {
+      "first_field_hash": "d12548b3dff1a51b0b3829c8fb265b568cefd325f36dddc53d030b1b77e38816",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::20-Nephritic-Syndrome"
+      ]
+    },
+    {
       "first_field_hash": "81c5276bb5f22f3fae6da9c1ffc5d4d7c3ae7a24b7b218895fc092a9695fb614",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Renal-Block::14-Kidney-Histology"
       ]
     },
     {
+      "first_field_hash": "bf91c4ca50e4abc8abd6c6d5952694c3cacf69663ddbf908739aa0e6e61e935d",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::20-Nephritic-Syndrome"
+      ]
+    },
+    {
+      "first_field_hash": "ae4b05e2a8350353a2db880b98b52fde55715cfbc5f50c4a52808c8f6bb736b6",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::20-Nephritic-Syndrome"
+      ]
+    },
+    {
+      "first_field_hash": "6ac7b64f8771c6a1e62c267c4b2edde89ffb2312962c7b0de9ffd59bb9403dd4",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::20-Nephritic-Syndrome"
+      ]
+    },
+    {
+      "first_field_hash": "4ff17ceaf1421654a3ea9b45c7fe4ddab1d0c345ee6fff6b6ec8af7e312ba328",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::20-Nephritic-Syndrome"
+      ]
+    },
+    {
+      "first_field_hash": "ac2bf8e2ed6d73423fccc00db4f23bd5b1d5cb9a3ecac62a3bc0c3456fe73aab",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::20-Nephritic-Syndrome"
+      ]
+    },
+    {
+      "first_field_hash": "d3b95c3e388b14e2d899709b0009ede4902b61b078c4e9352aff47883b568fc1",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::20-Nephritic-Syndrome"
+      ]
+    },
+    {
+      "first_field_hash": "a2ee7d5e2c3f786b8229ca55f0ca3a8cefe28cad4488b6665d2b4b14d1b5bac0",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::20-Nephritic-Syndrome"
+      ]
+    },
+    {
       "first_field_hash": "fb58e425c80d771f4c9ee0c60f6471c4b5b7f6f662a3879c9d83937cff9ccb91",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::20-Nephritic-Syndrome"
+      ]
+    },
+    {
+      "first_field_hash": "c2d733eea9e16c875996934089e581ae2d067817f9300c4dcdf09e5bed201af3",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Renal-Block::20-Nephritic-Syndrome"
       ]
@@ -25421,6 +25837,12 @@
       ]
     },
     {
+      "first_field_hash": "68e8b24ba717ee53905e37b3f241781d226e2871fb6c7150e71036cec752b228",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::20-Nephritic-Syndrome"
+      ]
+    },
+    {
       "first_field_hash": "244521bd738334daa6c9a7965fbc4d56c9dcd14333711134794afb58bcee19cd",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Renal-Block::20-Nephritic-Syndrome"
@@ -25453,7 +25875,8 @@
     {
       "first_field_hash": "50715ee4fa37e5fb1f5192410b55f934fa864223ff0f7c4da821c8ab281f372f",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::20-Nephritic-Syndrome"
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::20-Nephritic-Syndrome",
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::20-Nephritic-Syndrome::Class-Content"
       ]
     },
     {
@@ -25479,13 +25902,15 @@
     {
       "first_field_hash": "9757eef050f9a0d17411ba553bd210c471cc40a8fb7199553eaa9ffafb707708",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::20-Nephritic-Syndrome"
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::20-Nephritic-Syndrome",
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::20-Nephritic-Syndrome::Class-Content"
       ]
     },
     {
       "first_field_hash": "0f4fbcab642e894ad88a65b93e1ddbc6ec77476e242021d7fae2abb0ec932b28",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::20-Nephritic-Syndrome"
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::20-Nephritic-Syndrome",
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::20-Nephritic-Syndrome::Class-Content"
       ]
     },
     {
@@ -25612,31 +26037,36 @@
     {
       "first_field_hash": "07c371e518ce7237e36d77e7cdabe47beee293d26259f3ed28ca6d90fbbacbab",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::20-Nephritic-Syndrome"
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::20-Nephritic-Syndrome",
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::24-Genetic-Kidney-Diseases::Class-Content"
       ]
     },
     {
       "first_field_hash": "596cb84b7457f678b8db5de666bb45519dccd383bf8b6ea381744d715148e3cd",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::20-Nephritic-Syndrome"
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::20-Nephritic-Syndrome",
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::24-Genetic-Kidney-Diseases::Class-Content"
       ]
     },
     {
       "first_field_hash": "26af42b7a197e81cf82c221db10e3ff1a07ad093843c40a366785d65448eb49b",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::20-Nephritic-Syndrome"
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::20-Nephritic-Syndrome",
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::24-Genetic-Kidney-Diseases::Class-Content"
       ]
     },
     {
       "first_field_hash": "8a43d34e8c0d94305a63d8c782e0dd6ee6f7f4aa7b05936654c1be079e9ca752",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::20-Nephritic-Syndrome"
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::20-Nephritic-Syndrome",
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::24-Genetic-Kidney-Diseases::Class-Content"
       ]
     },
     {
       "first_field_hash": "5532415ad17695cb81ff05c44bedfbca1c125cb5b45b8c349701ea21897bf220",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::20-Nephritic-Syndrome"
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::20-Nephritic-Syndrome",
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::24-Genetic-Kidney-Diseases::Class-Content"
       ]
     },
     {
@@ -25875,6 +26305,12 @@
       "first_field_hash": "f5aada7cd5592a44b9a86927dc883c10a89d99200adadc6147a1abdbb6a272a4",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Renal-Block::16-Acute-Kidney-Injury::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "47534c50bc751f6055f39b5cd55b0f6a1c0e7072c61576b5308b60c8637fdf59",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::17-Urinary-Tract-Infections"
       ]
     },
     {
@@ -26176,7 +26612,8 @@
       "first_field_hash": "49c1ccf159db9ff0406438d85ed5a1f69fe1748129d43e4ef999c0555b64767c",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Renal-Block::21-Chronic-Kidney-Disease",
-        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::21-Chronic-Kidney-Disease::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::21-Chronic-Kidney-Disease::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::24-Genetic-Kidney-Diseases"
       ]
     },
     {
@@ -26317,13 +26754,15 @@
     {
       "first_field_hash": "51783845c990a38ab25dbcb6641fa863faf853c93486eca82aeb2bd6fe37a70d",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::23-End-Stage-Renal-Disease"
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::23-End-Stage-Renal-Disease",
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::24-Genetic-Kidney-Diseases"
       ]
     },
     {
       "first_field_hash": "dafc3b4924f816efe140eb080b4ce2f66d1e943ae3f3f5e7a89296d5574ce607",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::15-Renal-&-Bladder-Tumor-Pathology"
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::15-Renal-&-Bladder-Tumor-Pathology",
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::24-Genetic-Kidney-Diseases"
       ]
     },
     {
@@ -27389,6 +27828,12 @@
       ]
     },
     {
+      "first_field_hash": "19a01cfd87a0453017916bb38f4b34ce5c4dee8ce132459e87f0684d4968553e",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::20-Nephritic-Syndrome"
+      ]
+    },
+    {
       "first_field_hash": "40c52ce3cd1e2cd6ac34448c0019572a5c6e66344ed6fe3ea2b174e90e17e536",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Renal-Block::16-Acute-Kidney-Injury"
@@ -27797,7 +28242,8 @@
       "first_field_hash": "2d1a12e0b1f84d2dc2b2cc2d00050ff2847b4fa11d0eb68a57e6b3330cabd913",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Renal-Block::19-Nephrotic-Syndrome",
-        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::19-Nephrotic-Syndrome::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::19-Nephrotic-Syndrome::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::24-Genetic-Kidney-Diseases"
       ]
     },
     {
@@ -31233,10 +31679,16 @@
       ]
     },
     {
+      "first_field_hash": "29459c71a303c6a5369e9dee945e1197ae83912d12493e92e2603d3474553c72",
+      "tags": [
+        "JerryShen_AnKing_Tags::POM-4::Clinical-Reasoning::Approach-to-Palpitations"
+      ]
+    },
+    {
       "first_field_hash": "2a031d845d81d8519144d4178eb3dd043b6971de8122ecb98beca67bf6153b2a",
       "tags": [
         "JerryShen_AnKing_Tags::(✏️)-Tagged-by-Jerry-Shen",
-        "JerryShen_AnKing_Tags::(🛠️)-Last-Updated-100326",
+        "JerryShen_AnKing_Tags::(🛠️)-Last-Updated-100626",
         "JerryShen_AnKing_Tags::(🧋)-buymeacoffee.com/ger1atric",
         "JerryShen_AnKing_Tags::Biochemistry::Final::02-Oxidative-Phosphorylation::Class-Content"
       ]
@@ -36531,6 +36983,12 @@
       ]
     },
     {
+      "first_field_hash": "6f3b220e5f44e79bd452f2809847d1ee2e0d2fbf665786a8e29f80331711910e",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::24-Genetic-Kidney-Diseases::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "27a3f5e3f31a9499d6abea655323e034063b711e1d1e2d080826d1847f1193ff",
       "tags": [
         "JerryShen_AnKing_Tags::Neurobiology::Exam-3::Tutorial-4-Thalamus-and-Sensory-Systems::Class-Content"
@@ -40117,6 +40575,12 @@
       ]
     },
     {
+      "first_field_hash": "86f3cc54f16abb56d047b55f51e4b7ba76c2063fbd2fa912a33cc972a5818f0a",
+      "tags": [
+        "JerryShen_AnKing_Tags::POM-1::Final::Epidemiology"
+      ]
+    },
+    {
       "first_field_hash": "181db334d68fd95870fe314caf449fe1bb799206a4309d9ade95112171a5a3c1",
       "tags": [
         "JerryShen_AnKing_Tags::POM-1::Final::Epidemiology::Class-Content"
@@ -42226,6 +42690,18 @@
       ]
     },
     {
+      "first_field_hash": "146b81fe192faf43c56c230d435dabf3c104f0e5d654609ae64228b00c8c8a62",
+      "tags": [
+        "JerryShen_AnKing_Tags::Immunology::Final::Immune-Deficiencies"
+      ]
+    },
+    {
+      "first_field_hash": "c7b9b3766aed3b314c53ff532c8658f2497e6c2729b89a6bdda6adad6fb86188",
+      "tags": [
+        "JerryShen_AnKing_Tags::Immunology::Final::Immune-Deficiencies"
+      ]
+    },
+    {
       "first_field_hash": "2bb17d55f0423326aab008a16570b530904f749559951a94296b62dc6d8f6192",
       "tags": [
         "JerryShen_AnKing_Tags::Immunology::Final::B-cells"
@@ -43145,6 +43621,12 @@
       ]
     },
     {
+      "first_field_hash": "736244c454036f36896b4bd1d7c764a093337e50fffecc3f150da03f92e38241",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::19-Nephrotic-Syndrome"
+      ]
+    },
+    {
       "first_field_hash": "6af35943148d3c3fe41b71cab0b114bb4d3f3042af057e209d52a48cd68d83c3",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::MSK-Block::09-Geriatric-Orthopedics::Class-Content"
@@ -43988,7 +44470,7 @@
       ]
     },
     {
-      "first_field_hash": "aae4e630ef095ee9bd17ff3d6ab2fb575263391e3f7694511a4367e72b119ab8",
+      "first_field_hash": "79c234387880b26a2a506e12432540db3d7b2ca75772f3fd06f22d26f8bf8b60",
       "tags": [
         "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-7-Head-&-Neck-2::Embryology"
       ]
@@ -44054,7 +44536,7 @@
       ]
     },
     {
-      "first_field_hash": "cc167c1b9623ef6a6d00b8f4f53a6d760e4792e838136e42253bc2ef2083b5e2",
+      "first_field_hash": "e7ab70e561a2b914a02a48cf3a165f5ce080fe1c432d06ba6e574d8df0835b67",
       "tags": [
         "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-7-Head-&-Neck-2::Embryology"
       ]
@@ -45375,6 +45857,12 @@
       ]
     },
     {
+      "first_field_hash": "b1e7e16df21fbf50d57d05fe6c5e2ca63b1609cfa658847d01078b26ed1003c5",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::14-Bone-Physiology"
+      ]
+    },
+    {
       "first_field_hash": "f8df294f7e8cfa9970f1ffc4d98e792354a2cb0171f32fdbf8e6860afb8cc1fe",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::14-Bone-Physiology"
@@ -45403,6 +45891,12 @@
       "first_field_hash": "0b3788e9bbba68b54d07174e5285d7ccfa767573bb9aa8cb927b81ead8b06b26",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Renal-Block::12-Calcium-Magnesium-&-Phosphate-Regulation::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "b0b4d5275c63ef7a0eb12b14c8eccb504513f8909649e1e2a805aed27356dab8",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::14-Bone-Physiology"
       ]
     },
     {
@@ -45789,7 +46283,7 @@
       ]
     },
     {
-      "first_field_hash": "54722114f6d3528c1cb75d4b8c4c02b3e3ac0ca51e45a6324d5c288b7e2ed365",
+      "first_field_hash": "307852c60f92e6f3b592727d8a3f2070f71255f6e9a70a476539ed61cbfbd6bd",
       "tags": [
         "JerryShen_AnKing_Tags::Cancer-Biology::Final::Cancer-Pharmacology",
         "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::30-Lung-Cancer-Treatment"
@@ -46227,7 +46721,7 @@
       ]
     },
     {
-      "first_field_hash": "2eda0460f73714c07f83a9d9a4c3fe5b04e6340b45e1daf309b1b3d260504e2c",
+      "first_field_hash": "9ae7cef53460898cbef33c1f1284d4121463a065d8c20ab0606c9bb530a0d6c2",
       "tags": [
         "JerryShen_AnKing_Tags::Cancer-Biology::Final::05-Cancer-Genes-&-Pathways"
       ]
@@ -46245,13 +46739,13 @@
       ]
     },
     {
-      "first_field_hash": "977f8addb5319884fdd11040500b748eac0eaf6e68a19a37610423f8e499f7d3",
+      "first_field_hash": "a6305de9d3bce480c3cd30f0e86b2c1dd9061694f21c6a615880c4f75fabed8f",
       "tags": [
         "JerryShen_AnKing_Tags::Cancer-Biology::Final::05-Cancer-Genes-&-Pathways"
       ]
     },
     {
-      "first_field_hash": "894189f01071a84db475fb105feb3451ee92553cc01da36632fee2482f9f2966",
+      "first_field_hash": "6b6307e6b747a7ea3eb85ff40b9e48d4ce8249b29178657bcf659f3abd0a85b0",
       "tags": [
         "JerryShen_AnKing_Tags::Cancer-Biology::Final::05-Cancer-Genes-&-Pathways",
         "JerryShen_AnKing_Tags::Molecular-Foundations-&-Genetics::02-Genetics::08.4-Cancer-Genetics"
@@ -46264,7 +46758,7 @@
       ]
     },
     {
-      "first_field_hash": "459132fa3c24ab13ee029f47a60bc6c3b9be209333b830c979c1f50954ebcda0",
+      "first_field_hash": "2944b8ea2d62ca37816e3a57f50c5d3011274c83d6f3563c8b66ebd590ab474e",
       "tags": [
         "JerryShen_AnKing_Tags::Cancer-Biology::Final::05-Cancer-Genes-&-Pathways"
       ]
@@ -47061,6 +47555,12 @@
       ]
     },
     {
+      "first_field_hash": "34d7395ec7ab42f711e944d579d20ca68fb72c886dc644f96b396b714af05e01",
+      "tags": [
+        "JerryShen_AnKing_Tags::POM-4::Clinical-Reasoning::Approach-to-AKI"
+      ]
+    },
+    {
       "first_field_hash": "51a8156a7475d68bf649fed45020cbdf1cbcbd7c11bd023bf22c62ac54bc14f8",
       "tags": [
         "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-2-Upper-Limb::Anatomy"
@@ -47115,6 +47615,13 @@
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::MSK-Block::Extra-Upper-Limb-Pathology",
         "JerryShen_AnKing_Tags::SOM-1::MSK-Block::Lab-01-MSK-Cases"
+      ]
+    },
+    {
+      "first_field_hash": "ef66133cb1b3366bac8d7f84f88b136e2e555c2b456c8b00119c77ee0328f612",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::24-Genetic-Kidney-Diseases",
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::24-Genetic-Kidney-Diseases::Class-Content"
       ]
     },
     {
@@ -47710,6 +48217,12 @@
       ]
     },
     {
+      "first_field_hash": "708085511b56dc08caea403db442b99d524c03036cec11e337b7c350a211aac5",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::24-Genetic-Kidney-Diseases::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "d1f68c1e6acb7d4ac4586ae7b9607c65e6c26b284254ce9d6c271ca37b21eef8",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::35-Congenital-Heart-Disease"
@@ -47756,6 +48269,12 @@
       "first_field_hash": "8bf7e09ac91b1b64b7c3955e47306788ee015fdf175c13a4032bfe3a166612cf",
       "tags": [
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-2::10-Biologics-Ectoparasites-&-Clinical-Cases"
+      ]
+    },
+    {
+      "first_field_hash": "24c812da3ed4fb7bbabb150e79fa97eea6e549490838328b7574b8b9eb9c6bfd",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::22-CKD-Complications-&-Treatment"
       ]
     },
     {
@@ -47831,6 +48350,12 @@
       "first_field_hash": "f26f084050619fc4ae5c88af12e0c263eb4c739991b1503415516928e3db6a83",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::09-Supraventricular-Tachycardia-&-Antiarrhythmics::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "25055a02d44281418049b450e8518faf2e632ccc360239c6cd3b1c9c87b13375",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::17-Valvular-Disease"
       ]
     },
     {
@@ -55261,6 +55786,12 @@
       ]
     },
     {
+      "first_field_hash": "dd3fcb311d5d390289b1c525455d2f49a1000534ce4842da80f35ebd69005075",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::16-Acute-Kidney-Injury"
+      ]
+    },
+    {
       "first_field_hash": "caffc8b33873a427cb4cab8a806767a84c33e1b1f2873ca0fc690962efd27753",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Renal-Block::16-Acute-Kidney-Injury",
@@ -55744,7 +56275,7 @@
       ]
     },
     {
-      "first_field_hash": "ce00cf8748fef66f157c28880411d592cd14de20e6c4d4672526e1afeadbb3bc",
+      "first_field_hash": "d0c3f5fa57a9b1ee40f21cc68f56a0cdf0ca23207d8f4e6e1db0a5996b0d54c9",
       "tags": [
         "JerryShen_AnKing_Tags::Cancer-Biology::Final::03-Intro-to-Cancer-Biology::Class-Content",
         "JerryShen_AnKing_Tags::Cancer-Biology::Final::Lab-02-Cancer-Tumor-Board",
@@ -56310,6 +56841,18 @@
       "first_field_hash": "448e2566dd1011cc59e29db81e7a664f5bcb8ded797665165a3be88bc461f78f",
       "tags": [
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-2::09-Misc-Antimicrobials-&-Skin-Infections"
+      ]
+    },
+    {
+      "first_field_hash": "4e34364b95ce275b30cd3114d1c2f4f3d5a24c6d824c7780415c50ce17506f38",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::24-Genetic-Kidney-Diseases"
+      ]
+    },
+    {
+      "first_field_hash": "ef16e2babd25fb1a70be4b042e76938f80442b111c12556334ca5f779bc20bf8",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::24-Genetic-Kidney-Diseases"
       ]
     },
     {
@@ -58160,6 +58703,12 @@
     },
     {
       "first_field_hash": "d7151556d1f7b228fe3a07243e934c90eb18b1c38ed951a1c1e992be45fa4a0b",
+      "tags": [
+        "JerryShen_AnKing_Tags::Micro-Pharm::Exam-2::08-Other-Antibiotics-&-Mycobacteria"
+      ]
+    },
+    {
+      "first_field_hash": "6428895c8ebc6717955fb5f936106398a4aac64685bfdedbd60c7dbe7fa2ffaa",
       "tags": [
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-2::08-Other-Antibiotics-&-Mycobacteria"
       ]
@@ -60123,6 +60672,12 @@
       ]
     },
     {
+      "first_field_hash": "7a0abcee165bef675cc2cc9bd8ddf90d97c79452c154a71d115a467eec4a473e",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::18-Heart-Sounds-&-Clinical-Exam"
+      ]
+    },
+    {
       "first_field_hash": "e1edeadefbb5ad57ad780d1609d916cc68265a32f9dccfe317ae7846a811d1b3",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::37-Inflammatory-Heart-Disease::Class-Content"
@@ -60208,7 +60763,7 @@
       ]
     },
     {
-      "first_field_hash": "c002ac61783410051fead86b816c1eda5718132d021ba71b409353a440b18116",
+      "first_field_hash": "d7609db416bf82c5a8ab34904845bc979b59427363df47b36474659718710511",
       "tags": [
         "JerryShen_AnKing_Tags::Cancer-Biology::Final::02-Cell-Injury-&-Death"
       ]
@@ -60300,7 +60855,7 @@
       ]
     },
     {
-      "first_field_hash": "dcb82208488a1bf989b4a4d44c664e267f45c3be277b789aaa1e38c5dfd3b72e",
+      "first_field_hash": "dd9970842dfe519ae8aadcce7803eb6a08135c37f5f86189afc255e9ab4aab90",
       "tags": [
         "JerryShen_AnKing_Tags::Cancer-Biology::Final::05-Cancer-Genes-&-Pathways::Class-Content"
       ]
@@ -60337,7 +60892,7 @@
       ]
     },
     {
-      "first_field_hash": "0665dbb88a3ac22b7d8492a1a408659ff8e454c011b8773227532cb2b42e35fe",
+      "first_field_hash": "c4323e1d462fc64ee5aebb91c7fe32484a03de57f0002743284750f2bacda01e",
       "tags": [
         "JerryShen_AnKing_Tags::Cancer-Biology::Final::05-Cancer-Genes-&-Pathways"
       ]
@@ -60349,7 +60904,7 @@
       ]
     },
     {
-      "first_field_hash": "2396420124a80ae7fdc2e154c190633a4c30c996a3490974ab24bca18ba39c20",
+      "first_field_hash": "97c1034744c820e143a9576c771b48d9feb7e9eae272a7df70a4cfa602251c47",
       "tags": [
         "JerryShen_AnKing_Tags::Cancer-Biology::Final::05-Cancer-Genes-&-Pathways"
       ]
@@ -60429,7 +60984,7 @@
       ]
     },
     {
-      "first_field_hash": "ca558a81ddbd6cf52a45ecce9275162c5d9983c4b208a3ca399c9072ebd9b3e7",
+      "first_field_hash": "36a2835e25b653605e0c654c50b38746b70a660d306eec9d80f4b3a1a5763067",
       "tags": [
         "JerryShen_AnKing_Tags::Biochemistry::Final::01-Carbohydrate-Metabolism"
       ]
@@ -60944,6 +61499,12 @@
     },
     {
       "first_field_hash": "ba1f9dbc667677cae28d2928dfa13492fcd169693d34dafce263a5d6dfda371d",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::16-Thyroid-Physiology-&-Pathophysiology"
+      ]
+    },
+    {
+      "first_field_hash": "f00649de1481dbdbd9b105abb167c7e67f9c05004696f16588e2c4fce52cbc27",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::16-Thyroid-Physiology-&-Pathophysiology"
       ]
@@ -62482,6 +63043,12 @@
       "first_field_hash": "a707f41a1a76b04519261e77747b6746e71ebe469b746b50e8aa65d29e1b1e2b",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Renal-Block::16-Acute-Kidney-Injury::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "b647c498996829c5e3343cbf8cf67966ff25ee2409a8fccca5aa44c604fff279",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::16-Acute-Kidney-Injury"
       ]
     },
     {
@@ -64187,6 +64754,12 @@
       ]
     },
     {
+      "first_field_hash": "5e2cef8f46bad892002ee6bec5dc88c2d76636bd17992dd4ba63d08a92a9dc21",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::24-Genetic-Kidney-Diseases::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "8ab74805a13f35b48671ae9bfa9b5314244223235e4929554fca8a7425f51b74",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Renal-Block::23-End-Stage-Renal-Disease::Class-Content"
@@ -64245,6 +64818,12 @@
       "first_field_hash": "a9d256ee39b1a3116efab981cbd28e096c18b3ae7e4f16f2e0b06b7130e04d05",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::19-ARDS-&-Ventilators"
+      ]
+    },
+    {
+      "first_field_hash": "14a49aae82c352c8135d972e84fa52e81e999c90339f61e771c4b91bd892e5b6",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::09-Metabolic-Acidosis-&-Alkalosis"
       ]
     },
     {
@@ -64605,7 +65184,7 @@
       ]
     },
     {
-      "first_field_hash": "c3322fb9791bda54e26d9192ac845c8bf57f0d431aa2358bd91c549c42ab0fc8",
+      "first_field_hash": "27ba4c332c36f30f135c2976982e2f741aceec3395701c4dfa4b9d9d2c18d5c8",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::10-Neuroendocrinology",
         "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::10-Neuroendocrinology::Class-Content"
@@ -64891,6 +65470,12 @@
       "first_field_hash": "4984cde64bf9bb98d208a18a890d6c40bd3a4ae8611614c472d7655cb405309c",
       "tags": [
         "JerryShen_AnKing_Tags::Molecular-Foundations-&-Genetics::02-Genetics::08.2-Dysmorphology"
+      ]
+    },
+    {
+      "first_field_hash": "28aad172b28e8fe7753fc6c57271b8d5ccfeb88f78b71c22017ad78427676c7e",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::16-Thyroid-Physiology-&-Pathophysiology"
       ]
     },
     {
@@ -65717,6 +66302,12 @@
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::MSK-Block::05-Lower-Limb-Pathology",
         "JerryShen_AnKing_Tags::SOM-1::MSK-Block::09-Geriatric-Orthopedics::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "3c6b215d2a78f6ad11f2ebadfa38492a9b65303c4780b6c0aea5786ddfee8d22",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::24-Genetic-Kidney-Diseases::Class-Content"
       ]
     },
     {
@@ -67446,7 +68037,7 @@
       ]
     },
     {
-      "first_field_hash": "36c5eade21820c831bead3bf67b73d48b9dbbad4bacd5a6a2ec3094bef3fb0b9",
+      "first_field_hash": "e21deecf8fc4db51cfc6a97a7c3b23d89ac8f79591ce7ee258030d027c222b67",
       "tags": [
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-2::09-Misc-Antimicrobials-&-Skin-Infections::Class-Content",
         "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::24-Sepsis-&-Septic-Shock::Class-Content"
@@ -69402,6 +69993,12 @@
       ]
     },
     {
+      "first_field_hash": "f29d1b1fa97e899556e2a5373d69f443b926e49bc24a8a3b23146cac3a6d5df7",
+      "tags": [
+        "JerryShen_AnKing_Tags::POM-4::Clinical-Reasoning::Approach-to-AKI"
+      ]
+    },
+    {
       "first_field_hash": "eb2c821c85edb608ef6f1d2cd15c8a92b1045c1140ae4d037bad2c945d45145d",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::17-Chest-Imaging-II"
@@ -69502,7 +70099,7 @@
       ]
     },
     {
-      "first_field_hash": "c4aa8ab936af53095eecdd6959c4695f2936d28ee95922e377b71da37997b0b6",
+      "first_field_hash": "7ee6b1ee7e4f75c92534a1818f6867c894f692763fc0fad88c14e61d3be466aa",
       "tags": [
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-2::08-Other-Antibiotics-&-Mycobacteria::Class-Content"
       ]
@@ -69882,6 +70479,12 @@
       ]
     },
     {
+      "first_field_hash": "6a5ebedc08c1eee15a1389cfcd551160eddf5c6947a12816fd1e5bfad3b4ebda",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::18-Heart-Sounds-&-Clinical-Exam"
+      ]
+    },
+    {
       "first_field_hash": "ca2c8d22da3833839f7eab338f2e143e45fffca7f46a3775e82144bd08fb1e5c",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::22-Peripheral-Arterial-&-Aortic-Disease"
@@ -69995,6 +70598,12 @@
       "first_field_hash": "8af043bb779c1750fdcc6106a5d8e807e07529f510106e113f5224c812d12507",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::MSK-Block::06-Backache::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "938d79486038fef83e4976916b345ee8f2b5d5a444a27bf4f9dde76f62475d74",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::24-Genetic-Kidney-Diseases::Class-Content"
       ]
     },
     {
@@ -70196,6 +70805,18 @@
       ]
     },
     {
+      "first_field_hash": "36a30acb56a60f0900ce7d087caa9077edbc997f21dbca9ad4819a9fe26d971c",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::20-Nephritic-Syndrome"
+      ]
+    },
+    {
+      "first_field_hash": "9006910974291e51f3f7e3cc2c331995c8d2a5ef18e0c745e4ff9c3d11da6ece",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::20-Nephritic-Syndrome"
+      ]
+    },
+    {
       "first_field_hash": "3f128ba7c77a0de259d4125e78e9a1b7ec0be20f0029ff3bd445533e959c097f",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Renal-Block::20-Nephritic-Syndrome"
@@ -70302,6 +70923,42 @@
       ]
     },
     {
+      "first_field_hash": "4205d6135a78093ca01a4e438936026d140c4d8e4729a43534749e68832f3892",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::24-Genetic-Kidney-Diseases::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "c16268d2e3142d9cf208f5b5703c71b35f4655f77f83cdd6e54f4a99bbcb46bc",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::24-Genetic-Kidney-Diseases::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "a86f03cbe429ff0717343e0e665c79849c8498f0e61a94837168334e5e643832",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::24-Genetic-Kidney-Diseases"
+      ]
+    },
+    {
+      "first_field_hash": "ae969a5516bcae6d14faf8ef1ef8e3d34c9dbef5acbe357d3793c810887a779c",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::24-Genetic-Kidney-Diseases"
+      ]
+    },
+    {
+      "first_field_hash": "bca94cced38f3b7238b914739239f82d9795c1c0e107f912d4958c9be4bce25c",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::24-Genetic-Kidney-Diseases"
+      ]
+    },
+    {
+      "first_field_hash": "4e33501ee263ccde1962e7448d35f11e6688f418210197ae8796137f710a0132",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::24-Genetic-Kidney-Diseases::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "fa6274dceb88f1893f70888d72aae9f649a000ebcfb8ec7ead881954db18a613",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::19-ARDS-&-Ventilators::Class-Content"
@@ -70366,7 +71023,8 @@
     {
       "first_field_hash": "d36d6f4fa67ddffe310c379aae3a425a3585e0bbac762cd29dc8978dcf3a2ed4",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::21-Chronic-Kidney-Disease::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::21-Chronic-Kidney-Disease::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::24-Genetic-Kidney-Diseases::Class-Content"
       ]
     },
     {
@@ -71411,6 +72069,13 @@
       ]
     },
     {
+      "first_field_hash": "6cbb911de5b25509bc4b6b36e9370fd8da30663f9213b3c73e8def6e5234382e",
+      "tags": [
+        "JerryShen_AnKing_Tags::POM-4::Clinical-Reasoning::Approach-to-AKI::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::16-Acute-Kidney-Injury"
+      ]
+    },
+    {
       "first_field_hash": "ea7bc21100c611ee9ef12f8c0faf301e84d652eb81d4cff48fac918e3a448b2e",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Renal-Block::16-Acute-Kidney-Injury::Class-Content"
@@ -71854,6 +72519,12 @@
       ]
     },
     {
+      "first_field_hash": "d0a3bcf3880607692ef9aa97ec0b385a4d91bf1e0a923549d4523e9f5d51dfd0",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::24-Genetic-Kidney-Diseases::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "65c918b052ed2c6a08cf3544ce76a963531469df948ced19f3c5f8231e7ca01a",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::MSK-Block::05-Lower-Limb-Pathology::Class-Content"
@@ -72041,6 +72712,12 @@
       "tags": [
         "JerryShen_AnKing_Tags::POM-3::Clinical-Reasoning::Approach-to-Acute-Dyspnea::Class-Content",
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::16-Clotting-&-Thromboembolic-Disease"
+      ]
+    },
+    {
+      "first_field_hash": "da1026dad6754f121640d7f9b3f32e3206cc484f9498a2e70c08f62a89a4fa9f",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::19-Nephrotic-Syndrome"
       ]
     },
     {
@@ -72240,6 +72917,12 @@
       "first_field_hash": "01f349a8ebd6c1e4fde8be68cd8db91e5dc72cf7fb0b188e5ff6ffddfdc90b9a",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Renal-Block::19-Nephrotic-Syndrome"
+      ]
+    },
+    {
+      "first_field_hash": "aaec8688bf83c166759c11cacde3860473f21db0f6f64dd12345d777eea7412d",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::21-Chronic-Kidney-Disease"
       ]
     },
     {
@@ -73834,7 +74517,8 @@
     {
       "first_field_hash": "50bd5c4513621c7d4d2e6e98cfa9103c32461a43b533d870ab60a84685fcaab5",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::31-Treatment-of-Hypertension"
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::31-Treatment-of-Hypertension",
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::24-Genetic-Kidney-Diseases"
       ]
     },
     {
@@ -74057,6 +74741,12 @@
       ]
     },
     {
+      "first_field_hash": "792f49b00ac221996cdcdbb4b06b15e5952923db1ff09f6c0192a9229d0a09dc",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::24-Genetic-Kidney-Diseases"
+      ]
+    },
+    {
       "first_field_hash": "564bd255b04f4a18365f876d016cdfebb958c6ee9b1652a6199668b548cf50d1",
       "tags": [
         "JerryShen_AnKing_Tags::POM-1::Final::Epidemiology::Class-Content"
@@ -74077,7 +74767,8 @@
     {
       "first_field_hash": "19a849f90d25e265717588f5f195b1f071a33b0d386359b38cb6a237abd8c065",
       "tags": [
-        "JerryShen_AnKing_Tags::Molecular-Foundations-&-Genetics::02-Genetics::08.2-Dysmorphology::Class-Content"
+        "JerryShen_AnKing_Tags::Molecular-Foundations-&-Genetics::02-Genetics::08.2-Dysmorphology::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::24-Genetic-Kidney-Diseases"
       ]
     },
     {
@@ -74499,6 +75190,18 @@
       "first_field_hash": "766d13c50151566bd2bcaf97bc2bd6858c4b4005ba73e010c9cddf6755eec847",
       "tags": [
         "JerryShen_AnKing_Tags::Immunology::Final::Hypersensitivity-and-Allergy"
+      ]
+    },
+    {
+      "first_field_hash": "91c85645587b9e54cc41e471d9dc3f7448946a1e00818af0a9f873e18eb16c2f",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::24-Genetic-Kidney-Diseases::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "484d29d33aac75ea4f073c542bbd00afa4e7ace9e2b1edb8d513c05a2c8d806f",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::24-Genetic-Kidney-Diseases"
       ]
     }
   ]
