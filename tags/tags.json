@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
   "author": "JerryShen",
-  "description": "gi 1",
-  "created": "2026-10-12T17:19:22.421544+00:00",
-  "updated": "2026-10-12T17:19:22.421544+00:00",
+  "description": "gi 1012",
+  "created": "2026-10-12T19:15:07.587818+00:00",
+  "updated": "2026-10-12T19:15:07.587818+00:00",
   "tag_prefix": "JerryShen_AnKing_Tags",
   "tag_hierarchy": [
     "JerryShen_AnKing_Tags",
@@ -512,6 +512,10 @@
     "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block",
     "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::01-Intro-to-GI-Physiology",
     "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::01-Intro-to-GI-Physiology::Class-Content",
+    "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::02-GI-Hormones",
+    "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::02-GI-Hormones::Class-Content",
+    "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::03-Fat-&-Micronutrient-Nutrition",
+    "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::03-Fat-&-Micronutrient-Nutrition::Class-Content",
     "JerryShen_AnKing_Tags::SOM-2::Renal-Block",
     "JerryShen_AnKing_Tags::SOM-2::Renal-Block::01-Introduction-to-Renal-Physiology",
     "JerryShen_AnKing_Tags::SOM-2::Renal-Block::01-Introduction-to-Renal-Physiology::Class-Content",
@@ -884,6 +888,11 @@
       "date": "2026-10-12T17:19:22.421544+00:00",
       "message": "gi 1",
       "note_count": 290
+    },
+    {
+      "date": "2026-10-12T19:15:07.587818+00:00",
+      "message": "gi 1012",
+      "note_count": 248
     }
   ],
   "notes": [
@@ -1407,7 +1416,8 @@
     {
       "first_field_hash": "80a4544fc3b968baab3671376d1317401afb6588408f66782ce3bf6fb2784095",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::01-Intro-to-GI-Physiology::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::01-Intro-to-GI-Physiology::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::02-GI-Hormones::Class-Content"
       ]
     },
     {
@@ -1476,6 +1486,12 @@
       "tags": [
         "JerryShen_AnKing_Tags::Biochemistry::Final::05-Nitrogen-Metabolism",
         "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::01-Intro-to-Endocrine-Block::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "3687144463d9fec09979414ebec958ebb4aa78cacb0d4b25d1698c8adcd5cd52",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::01-Intro-to-Endocrine-Block"
       ]
     },
     {
@@ -1760,7 +1776,8 @@
     {
       "first_field_hash": "1ab1d9e309214b39845a567d6d3de68079d593570d890d9d4b3e5c371018a218",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::10-Neuroendocrinology::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::10-Neuroendocrinology::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::02-GI-Hormones::Class-Content"
       ]
     },
     {
@@ -1852,7 +1869,8 @@
     {
       "first_field_hash": "3bf49a1b9f71ea3334403a934aaa7016a398e4725f6eb86e3681faa98aef8dbf",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::11-GH-IGF1-&-Prolactin::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::11-GH-IGF1-&-Prolactin::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::02-GI-Hormones::Class-Content"
       ]
     },
     {
@@ -2833,7 +2851,8 @@
     {
       "first_field_hash": "d738eef2c7eb459146df9894bfde83d4e7eb84c989a89dca2bd62157afa9615c",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::10-Neuroendocrinology"
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::10-Neuroendocrinology",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::02-GI-Hormones::Class-Content"
       ]
     },
     {
@@ -3356,6 +3375,12 @@
       "first_field_hash": "4a3b3c64235b2714358d8ef31bb44b248222ec9e85171df9a8a9890d0e5aae6c",
       "tags": [
         "JerryShen_AnKing_Tags::Biochemistry::Final::04-Regulation::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "edc815c228a6fca6848bdfb3e76d8f144edc0cbb1ce44c10135010fa9b22b978",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::02-GI-Hormones::Class-Content"
       ]
     },
     {
@@ -3889,13 +3914,15 @@
     {
       "first_field_hash": "f9cfac447a28941f58a3b6e4e596211f6ba0897a8036676525d0b7cac01bceb2",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::14-Bone-Physiology::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::14-Bone-Physiology::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::03-Fat-&-Micronutrient-Nutrition::Class-Content"
       ]
     },
     {
       "first_field_hash": "320cd18025bfd516ac5e596bf463a64c47ef22fe61a2addba3aaa48098cc64ba",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::14-Bone-Physiology::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::14-Bone-Physiology::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::03-Fat-&-Micronutrient-Nutrition::Class-Content"
       ]
     },
     {
@@ -4089,7 +4116,8 @@
     {
       "first_field_hash": "786ef34136518a2b19dca839036d2989fe280c8efb8c0c43a92bb3a2e9d756cc",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::11-GH-IGF1-&-Prolactin::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::11-GH-IGF1-&-Prolactin::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::02-GI-Hormones::Class-Content"
       ]
     },
     {
@@ -5203,6 +5231,18 @@
       ]
     },
     {
+      "first_field_hash": "f875b5d619ef95353ef7e84bc6fc90e22255d50cfe9bb55594cef269b528d252",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::02-GI-Hormones::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "cb71103763a5e2d898fbd139d9b9d08c34566ea78a4198116968ddc2191d74e3",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::02-GI-Hormones::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "67948f87f784b0c38e3a29efadff816825ebbb6adbc03edf04acc53fe7aa0700",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::01-Intro-to-GI-Physiology"
@@ -5665,7 +5705,14 @@
     {
       "first_field_hash": "35d77508ba268e3fd2f463afd00d664d8f638bcbd336bc258a6b948ea28cd57c",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::13-Obesity"
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::13-Obesity",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::02-GI-Hormones"
+      ]
+    },
+    {
+      "first_field_hash": "9c9c95e22f10f21066cb5f5bac305db779b9ae781e393de40b3a5c18bbfa8075",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::02-GI-Hormones"
       ]
     },
     {
@@ -5984,14 +6031,16 @@
       "first_field_hash": "502b6391c80a28e1fedaef08672faa043b3580bfdb8d4a3668a0bcec1d0e1d2c",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::03-Glucose-Homeostasis-2::Class-Content",
-        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::08-Insulin-&-Antidiabetic-Pharmacology::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::08-Insulin-&-Antidiabetic-Pharmacology::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::02-GI-Hormones::Class-Content"
       ]
     },
     {
       "first_field_hash": "92f9df42e294e2818d7cda08a5e2b16bfb0db69e1259cfd1d85859537ebbedc1",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::03-Glucose-Homeostasis-2",
-        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::08-Insulin-&-Antidiabetic-Pharmacology::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::08-Insulin-&-Antidiabetic-Pharmacology::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::02-GI-Hormones::Class-Content"
       ]
     },
     {
@@ -6015,13 +6064,15 @@
     {
       "first_field_hash": "886ec1602dadb8f51514a56a6c82482e9983ceee7342db3c9da6d9bf96d349b8",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::03-Glucose-Homeostasis-2"
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::03-Glucose-Homeostasis-2",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::02-GI-Hormones::Class-Content"
       ]
     },
     {
       "first_field_hash": "98c94f39c2e8c683aad1c412daff12896d52e46718b69c90e17ff6ebbd642b63",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::07-Type-2-Diabetes::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::07-Type-2-Diabetes::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::02-GI-Hormones::Class-Content"
       ]
     },
     {
@@ -7534,13 +7585,15 @@
     {
       "first_field_hash": "1beee4831234406bd505ba27dcc7987e781a78ae18269d600ce17e72bd8e05bc",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::11-GH-IGF1-&-Prolactin"
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::11-GH-IGF1-&-Prolactin",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::02-GI-Hormones"
       ]
     },
     {
       "first_field_hash": "a28b71193c2010f1590fcea67086cddf5abef49dc36dbceb35c1824c1e852903",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::11-GH-IGF1-&-Prolactin"
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::11-GH-IGF1-&-Prolactin",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::02-GI-Hormones::Class-Content"
       ]
     },
     {
@@ -7671,6 +7724,12 @@
       "first_field_hash": "71edc0f087b01e31c32abab01ca9867d5c2e91728221dbf55f46df035ce0e55d",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::18-Adrenal-Physiology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "e9f5d0dd982575ada931094f500078997009069721c875baef680de063a05c72",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::02-GI-Hormones"
       ]
     },
     {
@@ -8837,6 +8896,12 @@
       "first_field_hash": "f88ad43f51fb1fd13a0379de99f0b55ee4d6629b1cdb9cb07b001af487be1205",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::14-Bone-Physiology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "6e5ee96e502e7d049a2cfedf08450da81c227eb944dfcdf7d3f242505263df84",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::03-Fat-&-Micronutrient-Nutrition"
       ]
     },
     {
@@ -15804,7 +15869,8 @@
     {
       "first_field_hash": "d93dd6d63c6565da73f7b7e00344a9945ea61c248456da948498dfaf7e12679b",
       "tags": [
-        "JerryShen_AnKing_Tags::Biochemistry::Final::03-Lipid-Metabolism::Class-Content"
+        "JerryShen_AnKing_Tags::Biochemistry::Final::03-Lipid-Metabolism::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::03-Fat-&-Micronutrient-Nutrition::Class-Content"
       ]
     },
     {
@@ -16148,6 +16214,12 @@
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::05-Treatment-of-Hyperlipidemia",
         "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::05-Treatment-of-Hyperlipidemia::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "fa831eec4a4c813982ed70a9e17c65da889ef5c057f5cb1f4d892f051c1fe029",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::03-Fat-&-Micronutrient-Nutrition"
       ]
     },
     {
@@ -20108,6 +20180,18 @@
       ]
     },
     {
+      "first_field_hash": "ef8043f277aef3fde490a207e4a033f085e7f34cd665eb5216f3ceea3034ce0f",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::03-Fat-&-Micronutrient-Nutrition::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "cc55702821a377c7a53f41af751611bdeea7b0be693e1790eec63a13970997d2",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::03-Fat-&-Micronutrient-Nutrition::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "3af25917af002ea7062d52aff34d1c2101f4ff90ce159d0b464363cad8d0a3be",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::19-Central-&-Peripheral-Control-of-Circulation",
@@ -22562,7 +22646,8 @@
     {
       "first_field_hash": "647f43b50a699452c6ad71f99acee8df9d9b300ed434f8892e152ba18ada0f05",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::18-Cystic-Fibrosis::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::18-Cystic-Fibrosis::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::02-GI-Hormones::Class-Content"
       ]
     },
     {
@@ -22598,7 +22683,8 @@
     {
       "first_field_hash": "172bcc737b2f078e6c4e74f2d64c4ef0db390c14c80e38ca6b517d010dd57ed7",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::18-Cystic-Fibrosis::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::18-Cystic-Fibrosis::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::02-GI-Hormones"
       ]
     },
     {
@@ -28771,7 +28857,8 @@
     {
       "first_field_hash": "4a06f12cb6dd006e118de07daddf3dbf55424ef981983d9b2cc687d49e398ed9",
       "tags": [
-        "JerryShen_AnKing_Tags::Biochemistry::Final::03-Lipid-Metabolism::Class-Content"
+        "JerryShen_AnKing_Tags::Biochemistry::Final::03-Lipid-Metabolism::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::03-Fat-&-Micronutrient-Nutrition::Class-Content"
       ]
     },
     {
@@ -28922,7 +29009,8 @@
     {
       "first_field_hash": "418bf50e85aef0649815895e9e055f798769ccdb133b997155b4f853bf3a8d4f",
       "tags": [
-        "JerryShen_AnKing_Tags::Biochemistry::Final::03-Lipid-Metabolism"
+        "JerryShen_AnKing_Tags::Biochemistry::Final::03-Lipid-Metabolism",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::03-Fat-&-Micronutrient-Nutrition::Class-Content"
       ]
     },
     {
@@ -29030,7 +29118,8 @@
     {
       "first_field_hash": "908cfa30533c362cf04bad39ba4ee8c5af28ae805c94ba46dd54c4576a630bd9",
       "tags": [
-        "JerryShen_AnKing_Tags::Biochemistry::Final::03-Lipid-Metabolism::Class-Content"
+        "JerryShen_AnKing_Tags::Biochemistry::Final::03-Lipid-Metabolism::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::03-Fat-&-Micronutrient-Nutrition::Class-Content"
       ]
     },
     {
@@ -30573,7 +30662,8 @@
     {
       "first_field_hash": "6d3263a998b1790ce1618944e93256d93d578f8ee2b49c6cd018ab9ef8178a91",
       "tags": [
-        "JerryShen_AnKing_Tags::Biochemistry::Final::03-Lipid-Metabolism"
+        "JerryShen_AnKing_Tags::Biochemistry::Final::03-Lipid-Metabolism",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::03-Fat-&-Micronutrient-Nutrition::Class-Content"
       ]
     },
     {
@@ -30632,15 +30722,83 @@
       ]
     },
     {
+      "first_field_hash": "f2f2c25e66c7165cdd47731fb6808d554830d1391c4f9474ba25a31d70b06a21",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::03-Fat-&-Micronutrient-Nutrition::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "09bc38b5a6dd480fcf5c38dd5fef6dbc3e485f714fb7ce306f7bf9234b60938b",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::03-Fat-&-Micronutrient-Nutrition"
+      ]
+    },
+    {
+      "first_field_hash": "6fc07adcbc425f53924082e98ef43ecff4826ff5eba31df5755007c32abafb20",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::03-Fat-&-Micronutrient-Nutrition::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "97b5627bffb3521e71521e3fc17abd8630a48def461e2ecf742019fd038b0f46",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::03-Fat-&-Micronutrient-Nutrition"
+      ]
+    },
+    {
+      "first_field_hash": "d08e5de6e5fa961ff8c0dc7f380365bc9718492d9927317ca7ebb1dc4d9006e9",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::03-Fat-&-Micronutrient-Nutrition"
+      ]
+    },
+    {
+      "first_field_hash": "ce4aa053c96367d6bd4098856b7be4a3dfb732373c91c0a8e530e61e2b289c43",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::03-Fat-&-Micronutrient-Nutrition::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "10ffa9041f4211a1e46ffe98a363e8cf35252005d0e8d9ecc228741cada5115d",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::03-Fat-&-Micronutrient-Nutrition::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "beaf19922d991394dfe369a44db46828d3313a6daada78c3974e5f09cea7f6e5",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::03-Fat-&-Micronutrient-Nutrition::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "50c7a361fc1fdf334ecfd73772cb02a2c50d7351556bf8db5e2b09654943d18e",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::03-Fat-&-Micronutrient-Nutrition::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "685e76e04dcf446b557558d3a06de632721cce390c7506086f1da38193a1c187",
       "tags": [
-        "JerryShen_AnKing_Tags::Biochemistry::Final::02-Oxidative-Phosphorylation::Class-Content"
+        "JerryShen_AnKing_Tags::Biochemistry::Final::02-Oxidative-Phosphorylation::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::03-Fat-&-Micronutrient-Nutrition::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "e556448c08aea4fbe4e05890f92dcc696978fb7ff7b850a7cc713f8b8f01a28b",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::03-Fat-&-Micronutrient-Nutrition"
+      ]
+    },
+    {
+      "first_field_hash": "f56910eb6ad94fa391396237be1d334f662ca60497af8addd390f2b6369a2f27",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::03-Fat-&-Micronutrient-Nutrition"
       ]
     },
     {
       "first_field_hash": "922c83835c918f9362b5885832d766c95581f82f8948683460e8eb09c7bf5d32",
       "tags": [
-        "JerryShen_AnKing_Tags::Biochemistry::Final::02-Oxidative-Phosphorylation::Class-Content"
+        "JerryShen_AnKing_Tags::Biochemistry::Final::02-Oxidative-Phosphorylation::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::03-Fat-&-Micronutrient-Nutrition"
       ]
     },
     {
@@ -30658,7 +30816,8 @@
     {
       "first_field_hash": "5b626566c5a172975c3c32d1ae9df8ec1ae28558aa17f306d37bcc663ddc6a8d",
       "tags": [
-        "JerryShen_AnKing_Tags::Biochemistry::Final::02-Oxidative-Phosphorylation::Class-Content"
+        "JerryShen_AnKing_Tags::Biochemistry::Final::02-Oxidative-Phosphorylation::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::03-Fat-&-Micronutrient-Nutrition"
       ]
     },
     {
@@ -30668,9 +30827,24 @@
       ]
     },
     {
+      "first_field_hash": "38db1fe8ba5b251b29eb31a190cc3b71d0176192d93e39025cc403b42667db05",
+      "tags": [
+        "JerryShen_AnKing_Tags::Biochemistry::Final::01-Carbohydrate-Metabolism",
+        "JerryShen_AnKing_Tags::Biochemistry::Final::02-Oxidative-Phosphorylation",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::03-Fat-&-Micronutrient-Nutrition"
+      ]
+    },
+    {
+      "first_field_hash": "734baf8b2b5e5722da43b245f5b934c03c4be25fd456f41519cfbb773ac34484",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::03-Fat-&-Micronutrient-Nutrition::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "6420156b4e0961737b26e0c732c01492013a1f80389ccf781427dddc3fa93fbe",
       "tags": [
-        "JerryShen_AnKing_Tags::Neurobiology::Exam-3::Tutorial-7-Affective-and-Cognitive-Systems"
+        "JerryShen_AnKing_Tags::Neurobiology::Exam-3::Tutorial-7-Affective-and-Cognitive-Systems",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::03-Fat-&-Micronutrient-Nutrition::Class-Content"
       ]
     },
     {
@@ -30682,13 +30856,44 @@
     {
       "first_field_hash": "9acdb748b2382faa165fec8da956dc0757b7083ca88d0735e5739e981aab622b",
       "tags": [
-        "JerryShen_AnKing_Tags::Neurobiology::Exam-3::Tutorial-7-Affective-and-Cognitive-Systems"
+        "JerryShen_AnKing_Tags::Neurobiology::Exam-3::Tutorial-7-Affective-and-Cognitive-Systems",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::03-Fat-&-Micronutrient-Nutrition"
       ]
     },
     {
       "first_field_hash": "27ba23ddcbd634991ff7582518feb9d6d821ff2933b608ae19b9cf388e75739e",
       "tags": [
         "JerryShen_AnKing_Tags::Neurobiology::Exam-3::Tutorial-7-Affective-and-Cognitive-Systems"
+      ]
+    },
+    {
+      "first_field_hash": "4085573cd2724937b328034e9e9d5c90365a160e51442e9ffe972d7b7ae231d9",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::03-Fat-&-Micronutrient-Nutrition::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "8976103e27f21d4941a2a7eb7c36e4f7f13232f97965a471286e61695270d236",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::03-Fat-&-Micronutrient-Nutrition::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "01ec295e68586f535e9064c18a89788d83a30c50e3ead186b2574f72fbd5357c",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::03-Fat-&-Micronutrient-Nutrition::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "c496095984c233b9acae9774fa5ed1b21434dd852bdfddde5eee2d1be3e1d4d8",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::03-Fat-&-Micronutrient-Nutrition"
+      ]
+    },
+    {
+      "first_field_hash": "aaf3f89934dc016d3b3f243e0ade8a1eb9a8ffd5bfef1fcc2a615addf70ee476",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::03-Fat-&-Micronutrient-Nutrition::Class-Content"
       ]
     },
     {
@@ -30700,25 +30905,95 @@
     {
       "first_field_hash": "644c4063fe2487849d55e062178031f66c95eae57fd36700095354c3511930bd",
       "tags": [
-        "JerryShen_AnKing_Tags::Biochemistry::Final::02-Oxidative-Phosphorylation::Class-Content"
+        "JerryShen_AnKing_Tags::Biochemistry::Final::02-Oxidative-Phosphorylation::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::03-Fat-&-Micronutrient-Nutrition::Class-Content"
       ]
     },
     {
       "first_field_hash": "f1de47756db0bc2c7f09e5e771204892ae0ebca49f16d2e7747ed0f797e33815",
       "tags": [
-        "JerryShen_AnKing_Tags::Biochemistry::Final::02-Oxidative-Phosphorylation::Class-Content"
+        "JerryShen_AnKing_Tags::Biochemistry::Final::02-Oxidative-Phosphorylation::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::03-Fat-&-Micronutrient-Nutrition::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "159030ccf0bba5db64103915d05c75cb52b37d9a7eea50ce841a07bafd2459da",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::03-Fat-&-Micronutrient-Nutrition"
+      ]
+    },
+    {
+      "first_field_hash": "20b3b1b0447e6d40937c27c364d11566e694af012cb61d6e8b6542aae812067f",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::03-Fat-&-Micronutrient-Nutrition::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "cd2a5d9ee4caab32e1cbdb13a5c21f03be10236850c27527cce5dbe58036ae96",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::03-Fat-&-Micronutrient-Nutrition"
+      ]
+    },
+    {
+      "first_field_hash": "9f5ff06594dc61dbb0801240df693bc075944b34d34bc4c5e1318318a58e60bf",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::03-Fat-&-Micronutrient-Nutrition::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "3f72334ca02e80926500d453c82370a5fb2e2f8de073089e30083f9c125da823",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::03-Fat-&-Micronutrient-Nutrition::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "865eccf1bca0ce332bd6a451cfd2bce0e6e732587d95e6f8938a355d2a7f18bb",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::03-Fat-&-Micronutrient-Nutrition"
       ]
     },
     {
       "first_field_hash": "34643d7e4e664540c71b91c50930db843190051af94a74ba7bd3d28fcab24826",
       "tags": [
-        "JerryShen_AnKing_Tags::Micro-Pharm::Exam-2::09-Misc-Antimicrobials-&-Skin-Infections"
+        "JerryShen_AnKing_Tags::Micro-Pharm::Exam-2::09-Misc-Antimicrobials-&-Skin-Infections",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::03-Fat-&-Micronutrient-Nutrition"
+      ]
+    },
+    {
+      "first_field_hash": "06569843b564edcd8e8bb2048cad4426cefb55056fc1bccd6eed1f41ba3ab63b",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::03-Fat-&-Micronutrient-Nutrition::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "c3b8e435ee9c89c8764044fd5425573339933723dc47355d6f286ec982b86035",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::03-Fat-&-Micronutrient-Nutrition::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "4c9572ba5e64bafc4e189dd1d3051074f1a575ee720ad1437c2b789bc1e4fbb6",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::03-Fat-&-Micronutrient-Nutrition"
+      ]
+    },
+    {
+      "first_field_hash": "6b2468f438e6c961a6912ad690abdf8fffe5128b1c9b213b66ffaf64c21795c3",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::03-Fat-&-Micronutrient-Nutrition::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "ff4b4ccd277c1bde3ecc3f492c888a51770f44b61236d778d044522808d60cf6",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::03-Fat-&-Micronutrient-Nutrition"
       ]
     },
     {
       "first_field_hash": "afd434994beae6658f0aa868b3cc42d5bae0d2ea62c97ebcdb80aa890e24db78",
       "tags": [
-        "JerryShen_AnKing_Tags::Biochemistry::Final::02-Oxidative-Phosphorylation::Class-Content"
+        "JerryShen_AnKing_Tags::Biochemistry::Final::02-Oxidative-Phosphorylation::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::03-Fat-&-Micronutrient-Nutrition::Class-Content"
       ]
     },
     {
@@ -30730,13 +31005,26 @@
     {
       "first_field_hash": "5bdf6d842f4f6e20493e9609ef909f54cf2ce46dd49fd4ea93a4180fa0c6b83e",
       "tags": [
-        "JerryShen_AnKing_Tags::Biochemistry::Final::05-Nitrogen-Metabolism::Class-Content"
+        "JerryShen_AnKing_Tags::Biochemistry::Final::05-Nitrogen-Metabolism::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::03-Fat-&-Micronutrient-Nutrition::Class-Content"
       ]
     },
     {
       "first_field_hash": "4902aa7cb516e45277c4fa45a970eadf3c14a2684182cc1ff9c81957b21de270",
       "tags": [
         "JerryShen_AnKing_Tags::Biochemistry::Final::05-Nitrogen-Metabolism::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "fe34db514dd10069839e3adcbcbb3ae911c6b483613ed83fa872d20d20d0648b",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::03-Fat-&-Micronutrient-Nutrition"
+      ]
+    },
+    {
+      "first_field_hash": "f12cc8cd3a99b157114e5333d6ca2966722024f3d9dfcb4dfe168d0052e0f25a",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::03-Fat-&-Micronutrient-Nutrition::Class-Content"
       ]
     },
     {
@@ -30760,7 +31048,8 @@
     {
       "first_field_hash": "f304694f2c24630afd52d9b33f5311a579603d2992867363b158619c2a51724b",
       "tags": [
-        "JerryShen_AnKing_Tags::Biochemistry::Final::05-Nitrogen-Metabolism::Class-Content"
+        "JerryShen_AnKing_Tags::Biochemistry::Final::05-Nitrogen-Metabolism::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::03-Fat-&-Micronutrient-Nutrition::Class-Content"
       ]
     },
     {
@@ -30772,7 +31061,50 @@
     {
       "first_field_hash": "b68cf0a323a99a430e6a1360f256bf0f8e9147c72c3c01b5b1e5e2e6ebacb6a7",
       "tags": [
-        "JerryShen_AnKing_Tags::Biochemistry::Final::06-Nucleic-Acid-Metabolism::Class-Content"
+        "JerryShen_AnKing_Tags::Biochemistry::Final::06-Nucleic-Acid-Metabolism::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::03-Fat-&-Micronutrient-Nutrition::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "27b1c97202caeb00397d8f5e329599ea6a81f35f173079c516891e4b0b2347b9",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::03-Fat-&-Micronutrient-Nutrition::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "f613600eb507370077e1aa19679d7a0cd4d624b3bf5625f61a906fcd2a957ac9",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::03-Fat-&-Micronutrient-Nutrition"
+      ]
+    },
+    {
+      "first_field_hash": "efdcdf88b80cea6a0e0f153024c3ba2103f7cba7db17ddea0eac6a81c65c3fba",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::03-Fat-&-Micronutrient-Nutrition"
+      ]
+    },
+    {
+      "first_field_hash": "d7c25ed3c9ece39c920453f524f581542016426f658b996c4971e18db801036f",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::03-Fat-&-Micronutrient-Nutrition::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "6cd719466159e71ac1dd59c086da5f78c2aea748dd53a01d2dad1aa3bb4e5945",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::03-Fat-&-Micronutrient-Nutrition::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "d13984e4981a7da9cbd4567e10b30f6349a412c45fd86270a0557a84f07f3b79",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::03-Fat-&-Micronutrient-Nutrition::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "2aa7fcfca5af0d4e35ce5601db60ba2072f5c84b1132b213fa26fbf764129004",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::03-Fat-&-Micronutrient-Nutrition"
       ]
     },
     {
@@ -30782,27 +31114,79 @@
       ]
     },
     {
+      "first_field_hash": "1c42e15ff7063dc943ba501b84b3b6b886c8fd3bc93956128b2cba408700a558",
+      "tags": [
+        "JerryShen_AnKing_Tags::Biochemistry::Final::05-Nitrogen-Metabolism",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::03-Fat-&-Micronutrient-Nutrition"
+      ]
+    },
+    {
+      "first_field_hash": "c2bfcea6f019fd57d6ff5abb6c6ad21e3732ef6ca5ddde53724e26ba90246d7c",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::03-Fat-&-Micronutrient-Nutrition::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "866265085098bead06042984fcd7868b972b9baf83910601c443cd0b356e6ca7",
       "tags": [
-        "JerryShen_AnKing_Tags::Biochemistry::Final::03-Lipid-Metabolism::Class-Content"
+        "JerryShen_AnKing_Tags::Biochemistry::Final::03-Lipid-Metabolism::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::03-Fat-&-Micronutrient-Nutrition::Class-Content"
       ]
     },
     {
       "first_field_hash": "cd9fc3d4d550df00e7a20f78a8069cad73047d0a0b33f0285217e4e8f0158dde",
       "tags": [
-        "JerryShen_AnKing_Tags::Biochemistry::Final::05-Nitrogen-Metabolism::Class-Content"
+        "JerryShen_AnKing_Tags::Biochemistry::Final::05-Nitrogen-Metabolism::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::03-Fat-&-Micronutrient-Nutrition"
+      ]
+    },
+    {
+      "first_field_hash": "cf9d7f7ba8bce2cd55fad32bf7eb92b11a6529087ca4301a01234790d1cca52f",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::03-Fat-&-Micronutrient-Nutrition"
       ]
     },
     {
       "first_field_hash": "e4482a87f3a8477075fe72a10f382048fb269f64201141a97a2f3d47e37b05e9",
       "tags": [
-        "JerryShen_AnKing_Tags::Biochemistry::Final::05-Nitrogen-Metabolism::Class-Content"
+        "JerryShen_AnKing_Tags::Biochemistry::Final::05-Nitrogen-Metabolism::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::03-Fat-&-Micronutrient-Nutrition::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "375daf70e2230d6e8bdde820bf96e23d4c5f42266e7644f97d6ea5f31c9c659a",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::03-Fat-&-Micronutrient-Nutrition"
+      ]
+    },
+    {
+      "first_field_hash": "818db28b30450f524f36059689317f7974d727d17ef440674ec95345cf8beefc",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::03-Fat-&-Micronutrient-Nutrition::Class-Content"
       ]
     },
     {
       "first_field_hash": "4da424d1c7bd508bfa11f6d5632835d8f9e10e801c974daa0be59daef69dca23",
       "tags": [
         "JerryShen_AnKing_Tags::Biochemistry::Final::05-Nitrogen-Metabolism"
+      ]
+    },
+    {
+      "first_field_hash": "81aef833dfc8bc0ace07d00e3bacaa84128fe93e35464307886dfe79aa396c73",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::03-Fat-&-Micronutrient-Nutrition::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "a53f83dd5aef92a68a2f42734357f87cfe16c3bac34d3b55196eb92f3258039f",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::03-Fat-&-Micronutrient-Nutrition::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "f5a3feee6c90ae3c49dec3db3be34d12478d9d93fc201d6b40870c5ef5c20fe9",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::03-Fat-&-Micronutrient-Nutrition"
       ]
     },
     {
@@ -30814,7 +31198,38 @@
     {
       "first_field_hash": "1486685f84489f35e9ba3f55fd344c2dd0814430cfcf660c73bd5be342d53d71",
       "tags": [
-        "JerryShen_AnKing_Tags::POM-2::Final::Nutrition"
+        "JerryShen_AnKing_Tags::POM-2::Final::Nutrition",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::03-Fat-&-Micronutrient-Nutrition::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "c736baedac78bfd8f9e3f52a35e2826203bfac2f9576b46d14f5f9cd682a3546",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::03-Fat-&-Micronutrient-Nutrition::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "10d891404f4cf797e8ba7bfd1189dd3ace3c1391ee1de213eea40b06bad4ea9b",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::03-Fat-&-Micronutrient-Nutrition::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "2a81e2ab8a566a0079b766fbe5579ff412fa59644e92811ab7d902f3a6d0ac76",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::03-Fat-&-Micronutrient-Nutrition::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "0665f36a54ef9be2162c20072952da062de3dba7914f38e7b16f00a4025b1c2f",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::03-Fat-&-Micronutrient-Nutrition"
+      ]
+    },
+    {
+      "first_field_hash": "c79086c08f762fd0f769c9995f392466dfd1171f1bfb81596807e9ffa7c24c55",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::03-Fat-&-Micronutrient-Nutrition::Class-Content"
       ]
     },
     {
@@ -30877,7 +31292,8 @@
       "first_field_hash": "31b8df7d1ec9446036b08c8c5319fe7b1d306879ddde39b6d3dcf846fe2d8dc9",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::14-Bone-Physiology",
-        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::15-Bone-Pathophysiology::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::15-Bone-Pathophysiology::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::03-Fat-&-Micronutrient-Nutrition::Class-Content"
       ]
     },
     {
@@ -30912,9 +31328,75 @@
       ]
     },
     {
+      "first_field_hash": "0fd4c3966747485a25d7095c8ef52f40fd0f774f31bc3d35e374f3869c4897e8",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::03-Fat-&-Micronutrient-Nutrition::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "fd7462d95ba47272456796cbe6c97891c7c7462f9f834cf35f1f6613cb91e283",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::03-Fat-&-Micronutrient-Nutrition::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "4a4fb3b47b6b1187f390c6fd566ac85ae35aecf5b5327a8669d71fcfe6535c9a",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::03-Fat-&-Micronutrient-Nutrition"
+      ]
+    },
+    {
       "first_field_hash": "578889563de2624fc2c4cd8086979156cb8d980af7c10b89600dff2702c09a52",
       "tags": [
         "JerryShen_AnKing_Tags::POM-2::Final::Nutrition"
+      ]
+    },
+    {
+      "first_field_hash": "1f5270fa408fd7fc92c081e99a0752bdb5fdb1b22d65b4b88bbb451d4ed61ca3",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::03-Fat-&-Micronutrient-Nutrition::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "963fd495336a77b6da73f85330b1b5beaf67c558f87df5a2ec19159c21bab09e",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::03-Fat-&-Micronutrient-Nutrition"
+      ]
+    },
+    {
+      "first_field_hash": "543066e3546bdb342752094fe50da91ec13d6f127a485db65eefd7f4edd2ea82",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::03-Fat-&-Micronutrient-Nutrition"
+      ]
+    },
+    {
+      "first_field_hash": "39a160bdeeb08296e38a39b461056c20f7c28d790014dd7c3650f78668617b26",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::03-Fat-&-Micronutrient-Nutrition::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "4b95eaef0ffb3779bf768255e2569a348b95a75c293367cd171de1d1d50ab5ab",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::03-Fat-&-Micronutrient-Nutrition"
+      ]
+    },
+    {
+      "first_field_hash": "df0e328b915208aff58bb762f6989cba87fdf257c2e134b1b6d4d0f15e4c3b43",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::03-Fat-&-Micronutrient-Nutrition::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "49160970164b852783ecfb9dd34aa30d7f05eab91d13203eaad2235d562139af",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::03-Fat-&-Micronutrient-Nutrition::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "6be14ae368663d528e624145bc8042daea5940115275d5d9d6ae8b5459084bd8",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::03-Fat-&-Micronutrient-Nutrition::Class-Content"
       ]
     },
     {
@@ -30926,7 +31408,8 @@
     {
       "first_field_hash": "66b033323af8421d5a5e38b0e554dd1b7cce8c3ba7e0cfaa39852e423f902a84",
       "tags": [
-        "JerryShen_AnKing_Tags::Neurobiology::Exam-2::Tutorial-2-Spinal-Cord"
+        "JerryShen_AnKing_Tags::Neurobiology::Exam-2::Tutorial-2-Spinal-Cord",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::03-Fat-&-Micronutrient-Nutrition::Class-Content"
       ]
     },
     {
@@ -31035,6 +31518,42 @@
       "first_field_hash": "de35813ead6a5df87c5fe554dc5d2e070b8b7068077c1507e9f74ee884c1096c",
       "tags": [
         "JerryShen_AnKing_Tags::Biochemistry::Final::Extra"
+      ]
+    },
+    {
+      "first_field_hash": "8198f68fa3aa54ffeaba7b38253315d28f98cb9118e5c4920fa1832c93ea9f58",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::03-Fat-&-Micronutrient-Nutrition::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "a9fbff58f9dd222bb38323d9881d5df17194479bb8dd9a0365b4e160f1a934a7",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::03-Fat-&-Micronutrient-Nutrition"
+      ]
+    },
+    {
+      "first_field_hash": "f39ba5e07c462e230c4ae9e9b206199aca02786875b7d9cc16250bc6fafc3c9b",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::03-Fat-&-Micronutrient-Nutrition::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "3b3b9b906cf842f067d8fb065c22598859fd07b625159c206367cdd62b11b806",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::03-Fat-&-Micronutrient-Nutrition::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "ae04dc83a478696bb26db5f1d60e60b74af130a95a9709d1db479c0f9d555099",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::03-Fat-&-Micronutrient-Nutrition::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "0ae441d4000a9ecc4f49472d701d479757b09e5eb7889d764d30dc7ab98695a9",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::03-Fat-&-Micronutrient-Nutrition::Class-Content"
       ]
     },
     {
@@ -32103,9 +32622,99 @@
       ]
     },
     {
+      "first_field_hash": "f3adc7d1581ac8299d1f3b6383aa70c3dbffe4a8df1391529b476185ba3f2321",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::03-Fat-&-Micronutrient-Nutrition"
+      ]
+    },
+    {
+      "first_field_hash": "dad1993bd8c1fd0d134eaf1371aa7323ad3e7df0ab93fa5437c1e0e2d586c874",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::03-Fat-&-Micronutrient-Nutrition"
+      ]
+    },
+    {
+      "first_field_hash": "02c6164e64fe32cb241c2d978e61e74aba04b29799eae678c3717b906473a87a",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::03-Fat-&-Micronutrient-Nutrition::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "2ec81529cc294fb0c78f5a3eb12f67c9647a597ed2c33fa9e6078edb75007fb3",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::03-Fat-&-Micronutrient-Nutrition::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "eb60461d849d705ffa7363f6a9a26c6b3f2d53b943c453fd262b07c196a150eb",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::03-Fat-&-Micronutrient-Nutrition::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "a653dcd8086e0bb65f915463b2bf2d4f16e69cb171fb51980b5f1db4514c4d03",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::03-Fat-&-Micronutrient-Nutrition"
+      ]
+    },
+    {
+      "first_field_hash": "c6537800a9322004bcc4307e77c9e52367a8d8a72a9aa5dd0b43362d61ed1378",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::03-Fat-&-Micronutrient-Nutrition::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "f7060fd51b5f5f2a7bcd0ec4fb4c411c1726453f7f9824f254a90a69c4b7b8ab",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::03-Fat-&-Micronutrient-Nutrition::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "e789fc2dbf8b21e7f7495a00f9af36a0d51be677a7491b1756fc6b509f39798b",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::03-Fat-&-Micronutrient-Nutrition"
+      ]
+    },
+    {
+      "first_field_hash": "0834c4dcf1a4a01bf9013cf55fcd837bf6605b45b65179a47b95f2cfe981443a",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::03-Fat-&-Micronutrient-Nutrition"
+      ]
+    },
+    {
+      "first_field_hash": "8b212259e122aeb570e6e6397e66df16c6c317392fffb738efc4e9df00bfee3f",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::03-Fat-&-Micronutrient-Nutrition"
+      ]
+    },
+    {
+      "first_field_hash": "177f150240b7b8856cb902c753b5c1e40cc3da006a4c77025262937d68174959",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::03-Fat-&-Micronutrient-Nutrition::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "151365fa07ce97bbffb3e9347359ab38b218bc239239247a813f14078fb8d501",
       "tags": [
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-2::07-β-Lactam-Antibiotics-&-Parasites"
+      ]
+    },
+    {
+      "first_field_hash": "a76c560907799bf4d323e9a593e8f4d324a6007457bc4db36400252b35e5688c",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::03-Fat-&-Micronutrient-Nutrition"
+      ]
+    },
+    {
+      "first_field_hash": "5bf8ea7a21b5756966c0ee66dc0b3cc7fcc9516c1edfeb722e66c169ff836153",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::03-Fat-&-Micronutrient-Nutrition::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "4587c678a9eca3260d09fb89649d05318fcf5503b3f92bcdd6a2b3753feb6732",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::03-Fat-&-Micronutrient-Nutrition::Class-Content"
       ]
     },
     {
@@ -32141,20 +32750,41 @@
     {
       "first_field_hash": "f2d741d0afbbb0d3fe8067c2734b9cb673f9c86cebc80137a9244e8c44056a1e",
       "tags": [
-        "JerryShen_AnKing_Tags::Biochemistry::Final::02-Oxidative-Phosphorylation::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::03-Fat-&-Micronutrient-Nutrition"
       ]
     },
     {
       "first_field_hash": "76e60d7df2c2701abe4abc36b26fa45a3499f876efd2cb70255391cf5cbc7c64",
       "tags": [
-        "JerryShen_AnKing_Tags::Biochemistry::Final::02-Oxidative-Phosphorylation::Class-Content"
+        "JerryShen_AnKing_Tags::Biochemistry::Final::02-Oxidative-Phosphorylation::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::03-Fat-&-Micronutrient-Nutrition"
+      ]
+    },
+    {
+      "first_field_hash": "5392451089f071849b15daf07192c85ad35cbd5bd60753d228ab1b1c399588f6",
+      "tags": [
+        "JerryShen_AnKing_Tags::Biochemistry::Final::06-Nucleic-Acid-Metabolism::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::03-Fat-&-Micronutrient-Nutrition::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "506259d6e75ca58264fe648029f7bbb408ba8049134dac084ede3a8288e3b39a",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::03-Fat-&-Micronutrient-Nutrition"
+      ]
+    },
+    {
+      "first_field_hash": "f35693f3e3e52cc80005bace7370bf946259fce884ab5bf5053d0aaba21adf34",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::03-Fat-&-Micronutrient-Nutrition"
       ]
     },
     {
       "first_field_hash": "4e2cdb9f7b85e9361c73611332f0a75d9cb17383c00548afb5c4f7f36adca9d3",
       "tags": [
         "JerryShen_AnKing_Tags::Neurobiology::Exam-2::Tutorial-2-Spinal-Cord",
-        "JerryShen_AnKing_Tags::Neurobiology::Exam-2::Tutorial-2-Spinal-Cord::Class-Content"
+        "JerryShen_AnKing_Tags::Neurobiology::Exam-2::Tutorial-2-Spinal-Cord::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::03-Fat-&-Micronutrient-Nutrition::Class-Content"
       ]
     },
     {
@@ -36563,7 +37193,8 @@
     {
       "first_field_hash": "257a69c624bd4f92bded83d1e00cc684e569cdeac4252de6b58b92df733d68ac",
       "tags": [
-        "JerryShen_AnKing_Tags::Neurobiology::Exam-3::Tutorial-7-Affective-and-Cognitive-Systems::Class-Content"
+        "JerryShen_AnKing_Tags::Neurobiology::Exam-3::Tutorial-7-Affective-and-Cognitive-Systems::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::02-GI-Hormones"
       ]
     },
     {
@@ -37132,13 +37763,26 @@
     {
       "first_field_hash": "c0079dfc6ede81508e66c16b9be1f9a5e6518a4615804ca894c5519a03597b00",
       "tags": [
-        "JerryShen_AnKing_Tags::Neurobiology::Exam-3::Tutorial-7-Affective-and-Cognitive-Systems::Class-Content"
+        "JerryShen_AnKing_Tags::Neurobiology::Exam-3::Tutorial-7-Affective-and-Cognitive-Systems::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::03-Fat-&-Micronutrient-Nutrition"
       ]
     },
     {
       "first_field_hash": "113499dc7ad90e8823954e7d8adac75dddf4d69f2626b5805b209fcea816d0c2",
       "tags": [
         "JerryShen_AnKing_Tags::Neurobiology::Exam-3::Tutorial-7-Affective-and-Cognitive-Systems"
+      ]
+    },
+    {
+      "first_field_hash": "2d9aee159d72928f12af6f19eaae0a8b101c17d42849ea0ecb3c0992947b3439",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::03-Fat-&-Micronutrient-Nutrition::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "196db8ed6235d8a8035d92c15a4b791dd5c8e47a02036c7124895ccf5b39b025",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::03-Fat-&-Micronutrient-Nutrition"
       ]
     },
     {
@@ -37890,9 +38534,172 @@
       ]
     },
     {
+      "first_field_hash": "07319b84b989f1b16ca37e121c33e97b48d1db8d6140a59a75102d4e9be8f9b6",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::02-GI-Hormones::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "cbeb2ec2dbb18a64fa0e57a2fde21aecb48c411387a8a06bfe3ad5bc6c4684c5",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::02-GI-Hormones::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "0c1f718fdb567120cc7ded4d1d2201877109c6de1949e472fef4a3783ae7630d",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::02-GI-Hormones::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "e6ad147e6c76f5384947b6acfab93bbb8706087274b4fdabd75e7f8a5ad71708",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::02-GI-Hormones::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "3cf84e82f316c5b451f9998768a98ddc06c45209a139b5aba959a79930b2e052",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::02-GI-Hormones::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "3ab242be2f4ef7a00a01bf855ace2124aca9091817adc6b5180e1af4db560627",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::02-GI-Hormones::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "0133540f13140bba3b46a1c0c76e8cb5f97d24f296fafeab5ce71aea62fd55eb",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::02-GI-Hormones::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "087b8ecafc133d95ff96dff8ab0a359c907fd73f466598ddae7fd6a83f8daaf0",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::02-GI-Hormones::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "290d0d39539c1238d6b75adaf46c14d9fce9aa8964e65212827ac5053d7d4ffa",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::02-GI-Hormones"
+      ]
+    },
+    {
+      "first_field_hash": "e0203bda988e567e5ee2c42727ee12770d416d9612262cd32914e1b2fe67923a",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::02-GI-Hormones::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "c5e5387a64019934adb1159f558078ec87f28c4b5f16fa87d90a323c82f777be",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::02-GI-Hormones::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "db4714a8ef947e13df294fe4e8278deb384ff467f50f3654da291d77b59f721d",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::02-GI-Hormones::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "82a61099a3f21967673eabbdc4b3a6d0c079d337b3db35711bbb282f024537ac",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::02-GI-Hormones::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "057c187dbda49406abe8086d9410c07f465f88b9b11f3e24f561f20cd5e4e63a",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::02-GI-Hormones"
+      ]
+    },
+    {
+      "first_field_hash": "1b5d9a20c1a6d18b3f62fe7b314cec6df0d4b39804807f055f7a4f868f23ee5f",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::02-GI-Hormones::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "8df56a2281bb2a7a092d6930ad17a5e011fbb38f07c753ac707485b784e3ded0",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::02-GI-Hormones::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "72b6ce8783d542bed5f5c3c6f1af6bbe614d7ad873b33938f9843e4ba1e97121",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::02-GI-Hormones::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "1f22d641e61aa87c098d8bc57e114ec57ea7da6e5a9d1a9163879f6970ada3d8",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::02-GI-Hormones::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "9a980aa06b2bc5c16c013881bda2dbae7dd44b3c81ae902031935c40d440c437",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::02-GI-Hormones::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "3bf788c7353dcd6a2ab9cc4711f312e5b7e8a27afa800dc398b3cbc34d4bcd3f",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::02-GI-Hormones::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "fcd34fb98680dc5d9b2ecaebfccdbf826269fbfb63b2aaa368e0c31657c9cc31",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::02-GI-Hormones::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "106d219e53fae80ad9ce064976d79ee87b9efd843037218f6359d13fd234037b",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::02-GI-Hormones::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "4f67615da16c6b5c0237da8877fd9a5c29fc04f924012b3387965e6f9cf30d95",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::02-GI-Hormones"
+      ]
+    },
+    {
+      "first_field_hash": "0ea8e113cc44d4761bfef0758a2f455fe7f5533a25e5d727fa854dc09353f16d",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::02-GI-Hormones::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "fd3dcfaef0843812d846b5e22a2c1557955f248360a6b491873313c3d76746e7",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::02-GI-Hormones::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "e467799b5a801a3937d26ffde070c1c45b1db375f343f7c468574cc432f1fbd1",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::02-GI-Hormones::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "5c35ad7891bb18b0e71f87f4d657a48ff37a3ffb6030e120746cdd7cbf29cbb7",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::01-Intro-to-GI-Physiology"
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::01-Intro-to-GI-Physiology",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::02-GI-Hormones::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "d675f813550a0fac1c7e4f884f3fbc6c7868750dce79d9e5b2537d94ad2bb532",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::02-GI-Hormones::Class-Content"
       ]
     },
     {
@@ -37900,13 +38707,21 @@
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::03-Glucose-Homeostasis-2",
         "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::03-Glucose-Homeostasis-2::Class-Content",
-        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::07-Type-2-Diabetes::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::07-Type-2-Diabetes::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::02-GI-Hormones::Class-Content"
       ]
     },
     {
       "first_field_hash": "cec1ff02594a575cfac0156e82e7abea905599ceea202919a722e0584bbba596",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::07-Type-2-Diabetes"
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::07-Type-2-Diabetes",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::02-GI-Hormones::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "646a3f244092c316b1f70bd09b9b0162ec4616650a587a64980a9d22f2229761",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::02-GI-Hormones::Class-Content"
       ]
     },
     {
@@ -37916,41 +38731,113 @@
       ]
     },
     {
+      "first_field_hash": "09fa7b1fe0263069ee17d4b5eac34315f4255d67acbec397d88aff4ec4eef2f9",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::02-GI-Hormones::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "f1a3238d71abae956ecdc31840df78225ca242f6ca8c00dac11461f9f766cfe6",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::02-GI-Hormones::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "1a3efd8f775d9737bd042e27e30ab0249e49a271cd9086d9422d2e29450905e2",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::02-GI-Hormones"
+      ]
+    },
+    {
+      "first_field_hash": "765dfe6c82ac09e715ebe7fbef35d962fa9cbdea879a8b454b8d4c80d1de7c5b",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::02-GI-Hormones::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "adb0ae4e36d8288ff6724c36409b7c0e0f1a7c3fb80a59e952d66293c5e9f8e7",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::03-Glucose-Homeostasis-2"
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::03-Glucose-Homeostasis-2",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::02-GI-Hormones::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "bd069ed0381cf8e8c9112532104880f6e34e2708ecceed2c0c1a6e8189a566fe",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::02-GI-Hormones::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "783a1dde1d70c0b1dbf516179ead8ec49adcf7b1deaaf1d3903c0817b32daee2",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::02-GI-Hormones::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "c21efcde9f3383be3e619285131040352f915f165855e14da0e8aeb68deb8d98",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::02-GI-Hormones"
+      ]
+    },
+    {
+      "first_field_hash": "77bcbb7f834e1f4d101064c8ef6354f7c9f428a0c96eff2bff36f808e1b3d06d",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::02-GI-Hormones::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "a9696caac985c8ef75346e7fbbb2e008c306beeac12595061c37c79fcb45c7ba",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::02-GI-Hormones::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "3c7102bc60f6589e9e17b789816df98bad0b194e2eb0105094da33e50177f839",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::02-GI-Hormones::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "aee4e493c7561fa3cddcd85bb9b74e93a2053674e38d8b5d1e6c058534a2b6f1",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::02-GI-Hormones::Class-Content"
       ]
     },
     {
       "first_field_hash": "a3fc48eed2c933a02ae3ee84328d1ee9f08ce5ff3ea7adb7095d36507942c203",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::13-Obesity",
-        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::13-Obesity::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::13-Obesity::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::02-GI-Hormones::Class-Content"
       ]
     },
     {
       "first_field_hash": "d2441e57ad01eac918f5ef6efbf68abbbcc37ce26ad7e40c0424d50bb8e9e2f4",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::13-Obesity"
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::13-Obesity",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::02-GI-Hormones::Class-Content"
       ]
     },
     {
       "first_field_hash": "980c499039217784412b56436a12f2899be71f1929e19af05307f74a82493a69",
       "tags": [
-        "JerryShen_AnKing_Tags::Molecular-Foundations-&-Genetics::02-Genetics::06-Complex-Inheritance-Patterns"
+        "JerryShen_AnKing_Tags::Molecular-Foundations-&-Genetics::02-Genetics::06-Complex-Inheritance-Patterns",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::02-GI-Hormones::Class-Content"
       ]
     },
     {
       "first_field_hash": "145cb2c781111578a76d2d9e2c75f481eb4048e3849f9a97babf99177581ffa8",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::13-Obesity"
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::13-Obesity",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::02-GI-Hormones"
       ]
     },
     {
       "first_field_hash": "75f9c30737f722b1800bbe61c4fcac6312b279d409bb887e31a13ba0ba56afb6",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::13-Obesity",
-        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::13-Obesity::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::13-Obesity::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::02-GI-Hormones::Class-Content"
       ]
     },
     {
@@ -38085,6 +38972,18 @@
       ]
     },
     {
+      "first_field_hash": "6cf84b6486db66426c4a88d5594bf4930fd9e1e18191caff3e8392e79d452340",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::01-Intro-to-GI-Physiology"
+      ]
+    },
+    {
+      "first_field_hash": "8b355a73324fbb54d86c3153f99daf7626967c451edf4ecea67024517545a22c",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::02-GI-Hormones::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "bae77c696db262064fc58a2b52b4243aab1b4fc948aee7546170b39277814c62",
       "tags": [
         "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-7-Head-&-Neck-2::Anatomy"
@@ -38099,7 +38998,8 @@
     {
       "first_field_hash": "532343f54e39e3800bbbe975e1e90a654a640d1b6a6dc82093c39ad1b0dd9423",
       "tags": [
-        "JerryShen_AnKing_Tags::Biochemistry::Final::03-Lipid-Metabolism"
+        "JerryShen_AnKing_Tags::Biochemistry::Final::03-Lipid-Metabolism",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::03-Fat-&-Micronutrient-Nutrition::Class-Content"
       ]
     },
     {
@@ -38121,9 +39021,45 @@
       ]
     },
     {
+      "first_field_hash": "ca3ea4a56e2991fa71cf40bb1caa309522e36c37b15d5dd50ad00e6be54e0342",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::02-GI-Hormones::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "611d5866826292c534e439444d9819efa42577f7a91f6c602acd2adf22158156",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::02-GI-Hormones::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "38761181c58fee274b742b2e52e8e79b23b7a5a379e2627f8163f4199ba408e4",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::02-GI-Hormones::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "83eb0635c84228a0fdb9d9a3940234e45038e576dea771e20d9bedc670222bea",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::02-GI-Hormones::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "7dfb07ce31b6dee9bf81ec27cb32d6b4a86d54514fec124b20653c476c5373da",
       "tags": [
         "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-3-Abdomen::Histology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "949d2ac0fab2731a4e50a7cf8185d961ce5338f969ced1f5237004ef0cd141ee",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::02-GI-Hormones::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "116d1f2ced618134d6d865f27335bff1b06b13ac2d3ebf7e462fa5e835c99af4",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::02-GI-Hormones::Class-Content"
       ]
     },
     {
@@ -38136,6 +39072,12 @@
       "first_field_hash": "1089a7ac375a2d1b6619fff58a0820dcb1997bedd975f42ac57d703a8e171f32",
       "tags": [
         "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-3-Abdomen::Anatomy::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "41930977343936d8d444179498056367191a17fc640303dd158f3cee60624502",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::02-GI-Hormones::Class-Content"
       ]
     },
     {
@@ -38172,7 +39114,8 @@
     {
       "first_field_hash": "116c9130bbca77780f35b3febd560c617376037a8a6b29921737d26f6eef92c9",
       "tags": [
-        "JerryShen_AnKing_Tags::Biochemistry::Final::01-Carbohydrate-Metabolism"
+        "JerryShen_AnKing_Tags::Biochemistry::Final::01-Carbohydrate-Metabolism",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::02-GI-Hormones::Class-Content"
       ]
     },
     {
@@ -38184,7 +39127,14 @@
     {
       "first_field_hash": "7c373731b0d5a62a99dd124e48528366bb3b698ed5d18ea09ff1cfdcad745bf3",
       "tags": [
-        "JerryShen_AnKing_Tags::Biochemistry::Final::03-Lipid-Metabolism"
+        "JerryShen_AnKing_Tags::Biochemistry::Final::03-Lipid-Metabolism",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::03-Fat-&-Micronutrient-Nutrition::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "0f89dc14a07c5a179e49632fdbd76fe1df4e31215856be8df1c112529425a266",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::03-Fat-&-Micronutrient-Nutrition"
       ]
     },
     {
@@ -38200,9 +39150,16 @@
       ]
     },
     {
+      "first_field_hash": "d8f5da2ee062eccb6f9aa280f8b9d5d80bb4b39c93ea4bd7b1f5d266322d6430",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::03-Fat-&-Micronutrient-Nutrition::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "c369603a765bf2cac4d09afa4c15634d8e8c04560110ee67b9f4b4d79c38f5e0",
       "tags": [
-        "JerryShen_AnKing_Tags::POM-2::Final::Nutrition"
+        "JerryShen_AnKing_Tags::POM-2::Final::Nutrition",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::03-Fat-&-Micronutrient-Nutrition::Class-Content"
       ]
     },
     {
@@ -38374,6 +39331,12 @@
       ]
     },
     {
+      "first_field_hash": "945bd125021cfce4a7d603c6111af6f1e36be3de42c2437bff52aff7f173b37b",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::03-Fat-&-Micronutrient-Nutrition"
+      ]
+    },
+    {
       "first_field_hash": "5369f0ead150e1e10fdf5a8374aeb03e3b2423d13a61e70b7a20043570518262",
       "tags": [
         "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-3-Abdomen::Embryology::Class-Content"
@@ -38432,6 +39395,31 @@
       "first_field_hash": "761567339c59669fff734257f6f3b8c6c97668b6bb75df2c5aa0ee75d9752a49",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::MSK-Block::09-Geriatric-Orthopedics::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "e96f68a32d77c173d23acd79e786810cfa6185d9a95fb0d139fd3a19d5517664",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::03-Fat-&-Micronutrient-Nutrition",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::03-Fat-&-Micronutrient-Nutrition::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "5a78fce0c172fd686684bd07c384af7eef8769ce188c3ad24c9c511061027fed",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::03-Fat-&-Micronutrient-Nutrition::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "80b5350b021edaf63814efaeea5358b7df6b5c7c646f89748539b61078ca51f4",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::03-Fat-&-Micronutrient-Nutrition::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "a305280f2557aa0d2d2c827fd5f856bd58479e0d66c47abe18c7bc87d315d94d",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::03-Fat-&-Micronutrient-Nutrition"
       ]
     },
     {
@@ -38494,6 +39482,12 @@
       "first_field_hash": "cb6e25f1f55617163921f81b5810560b78f44cd154598690c105e53febc8cff9",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::01-Intro-to-GI-Physiology"
+      ]
+    },
+    {
+      "first_field_hash": "f115fa81e9633d300a81df50eea9b361196d1659c1400ae0400be10b3524472a",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::03-Fat-&-Micronutrient-Nutrition"
       ]
     },
     {
@@ -38752,6 +39746,12 @@
       ]
     },
     {
+      "first_field_hash": "80539fe271fd7089e13229b0ee038cb81cfd7122725d6022277c195b50077355",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::03-Fat-&-Micronutrient-Nutrition"
+      ]
+    },
+    {
       "first_field_hash": "121bb818a2736bab5a26dc67fbbc9c6ba89a675ba9498a357f5edf9a9ffcc2de",
       "tags": [
         "JerryShen_AnKing_Tags::Cancer-Biology::Final::Lab-01-Cancer-Case-Studies"
@@ -38876,6 +39876,12 @@
       "first_field_hash": "f278dd476fe64a42ab905360642cfce9c92986f11ac18082c3489d52f2d39659",
       "tags": [
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-2::07-β-Lactam-Antibiotics-&-Parasites"
+      ]
+    },
+    {
+      "first_field_hash": "38431f5ae622ea9f7a0bf129a26b9e872ebf10a8d2f913c5cda8b7ea9e75c850",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::03-Fat-&-Micronutrient-Nutrition::Class-Content"
       ]
     },
     {
@@ -40907,8 +41913,15 @@
       ]
     },
     {
+      "first_field_hash": "3a621756b3a8bab9bd8761464c95b6aa97ce0a295d551b54c631d7d9ca669c3d",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::03-Fat-&-Micronutrient-Nutrition"
+      ]
+    },
+    {
       "first_field_hash": "e3be1a66c9cafe12c1c19dcf00e0729eec630b399e28f2a52673305080ea4dd7",
       "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::03-Fat-&-Micronutrient-Nutrition::Class-Content",
         "JerryShen_AnKing_Tags::SOM-2::Renal-Block::12-Calcium-Magnesium-&-Phosphate-Regulation"
       ]
     },
@@ -42795,6 +43808,12 @@
       ]
     },
     {
+      "first_field_hash": "396602a0b9584e845e75427b97c44f8ebce17a1a27618fb2de3ed1c05855eaa3",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::03-Fat-&-Micronutrient-Nutrition::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "8223dc99caf1c692006cbf3ceacde310f2c3eaadbaa2d3527267a8035fe7e27e",
       "tags": [
         "JerryShen_AnKing_Tags::Biochemistry::Final::02-Oxidative-Phosphorylation::Class-Content"
@@ -43694,6 +44713,12 @@
       ]
     },
     {
+      "first_field_hash": "35bf74f6f273416c4131771362767f55d0c4537e40fc007b5cc77f96a3930217",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::03-Fat-&-Micronutrient-Nutrition::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "b634b9dedaa97ce1a2457475dfcb01d806fb850e6a254a937f7d5f8b4ec319d0",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::23-Pleural-Disease::Class-Content"
@@ -43790,7 +44815,8 @@
     {
       "first_field_hash": "647015a92702b229079412a123fa0316fe500d2d8957083422dfff356d3add01",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::15-Bone-Pathophysiology::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::15-Bone-Pathophysiology::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::03-Fat-&-Micronutrient-Nutrition::Class-Content"
       ]
     },
     {
@@ -44886,6 +45912,24 @@
       "first_field_hash": "cd6af06c35ac18ee3d1bb83b30241362027c9c868429722caed959cdc3630767",
       "tags": [
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-1::05-Intro-to-Fungi"
+      ]
+    },
+    {
+      "first_field_hash": "683ff38e961e06b591a53944dcc66cfad10effa08270c4403f734e6691169fdb",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::03-Fat-&-Micronutrient-Nutrition::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "cf7052380ca799bbc7848d69e1dd1fa3ba0d8461f122431362d4f3bac22af785",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::03-Fat-&-Micronutrient-Nutrition"
+      ]
+    },
+    {
+      "first_field_hash": "0fba29d64709f6e99b48cd18126b36d820edb148fdb033426d3893048fb0c47e",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::03-Fat-&-Micronutrient-Nutrition"
       ]
     },
     {
@@ -46716,19 +47760,22 @@
     {
       "first_field_hash": "ca36fc7b86e2e9f55af8d7db2b5f02aca465422209606bce7e9bb50164a66ea5",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::14-Bone-Physiology::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::14-Bone-Physiology::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::03-Fat-&-Micronutrient-Nutrition::Class-Content"
       ]
     },
     {
       "first_field_hash": "2c7ad9809525ce34a5bbcc3abb481ef36c930b277c8a4a3e55d730c7f1a88bb2",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::14-Bone-Physiology::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::14-Bone-Physiology::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::03-Fat-&-Micronutrient-Nutrition::Class-Content"
       ]
     },
     {
       "first_field_hash": "3b0da697715adafff0990cdc2fe1db7d523b38e7385bce2812f078af58d9dce5",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::14-Bone-Physiology::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::14-Bone-Physiology::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::03-Fat-&-Micronutrient-Nutrition::Class-Content"
       ]
     },
     {
@@ -46777,7 +47824,8 @@
       "first_field_hash": "ab65271d8927fca65ca43a48185c31535bbdc59241996f136c0d93f681dd67a2",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::14-Bone-Physiology",
-        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::15-Bone-Pathophysiology::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::15-Bone-Pathophysiology::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::03-Fat-&-Micronutrient-Nutrition::Class-Content"
       ]
     },
     {
@@ -46879,9 +47927,21 @@
       ]
     },
     {
+      "first_field_hash": "207048991786a72c6cba1f121b976635311b5a7042edb7a928bc2e8ee9ebefa4",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::02-GI-Hormones"
+      ]
+    },
+    {
       "first_field_hash": "35e6e76821d4d0c91788d636e680a8a2628d671da69121e71763e0e21af2e97f",
       "tags": [
         "JerryShen_AnKing_Tags::Molecular-Foundations-&-Genetics::02-Genetics::08.4-Cancer-Genetics"
+      ]
+    },
+    {
+      "first_field_hash": "fe8f9c6c40a8b196dcb1f3b168fb0721cc0b3406b7e4acee5e7c0346b6c94b8d",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::03-Fat-&-Micronutrient-Nutrition::Class-Content"
       ]
     },
     {
@@ -52682,7 +53742,8 @@
     {
       "first_field_hash": "d2c21201fe0bc1256d1e2336053e934c22634c4eefe2ad57b34f76179ed2541a",
       "tags": [
-        "JerryShen_AnKing_Tags::Micro-Pharm::Exam-2::09-Misc-Antimicrobials-&-Skin-Infections"
+        "JerryShen_AnKing_Tags::Micro-Pharm::Exam-2::09-Misc-Antimicrobials-&-Skin-Infections",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::03-Fat-&-Micronutrient-Nutrition"
       ]
     },
     {
@@ -52758,7 +53819,8 @@
       "first_field_hash": "75cb0facdb697c066b710aa52c00c16ebf1ce9e1b3a16d1d5eae57d8f442f6a8",
       "tags": [
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-2::09-Misc-Antimicrobials-&-Skin-Infections",
-        "JerryShen_AnKing_Tags::Micro-Pharm::Exam-2::09-Misc-Antimicrobials-&-Skin-Infections::Class-Content"
+        "JerryShen_AnKing_Tags::Micro-Pharm::Exam-2::09-Misc-Antimicrobials-&-Skin-Infections::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::03-Fat-&-Micronutrient-Nutrition::Class-Content"
       ]
     },
     {
@@ -52885,6 +53947,12 @@
       ]
     },
     {
+      "first_field_hash": "4882e86641260ea3af6434db809496fedd3f5b1ea2347930f515886f70707c30",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::03-Fat-&-Micronutrient-Nutrition"
+      ]
+    },
+    {
       "first_field_hash": "1e6993078392ffa96647964b9d0d7b65e85ddbf1a37cc26f4f86d414c5cc4543",
       "tags": [
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-2::08-Other-Antibiotics-&-Mycobacteria::Class-Content"
@@ -52907,6 +53975,12 @@
       "first_field_hash": "56047657c49c9d194a26aab5f97787dd2cb23a988cc3fd0a348177851bccac7e",
       "tags": [
         "JerryShen_AnKing_Tags::POM-4::Clinical-Reasoning::Approach-to-Palpitations"
+      ]
+    },
+    {
+      "first_field_hash": "191af10ba44734f6ecbd300cd88c811c07227b5ff6c55648e56ffa1b405aeb3a",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::03-Fat-&-Micronutrient-Nutrition"
       ]
     },
     {
@@ -54107,7 +55181,14 @@
     {
       "first_field_hash": "be06bb4ed27b476e25551dd1b0a14410b60cf252e689d9237cb2ab70cba1aced",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::16-Lower-Respiratory-Infections"
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::16-Lower-Respiratory-Infections",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::02-GI-Hormones::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "19a324139dbcc8188ebf22d82d6fe8ea4d74ba2e28ed3e38fe8d84f4513f87fe",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::02-GI-Hormones::Class-Content"
       ]
     },
     {
@@ -58720,7 +59801,8 @@
     {
       "first_field_hash": "a4de28b909117e2dfb279a05f2894b896f52cda1e19edae3953343d70ab548c0",
       "tags": [
-        "JerryShen_AnKing_Tags::Micro-Pharm::Exam-2::07-β-Lactam-Antibiotics-&-Parasites"
+        "JerryShen_AnKing_Tags::Micro-Pharm::Exam-2::07-β-Lactam-Antibiotics-&-Parasites",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::03-Fat-&-Micronutrient-Nutrition::Class-Content"
       ]
     },
     {
@@ -59694,7 +60776,8 @@
     {
       "first_field_hash": "d7151556d1f7b228fe3a07243e934c90eb18b1c38ed951a1c1e992be45fa4a0b",
       "tags": [
-        "JerryShen_AnKing_Tags::Micro-Pharm::Exam-2::08-Other-Antibiotics-&-Mycobacteria"
+        "JerryShen_AnKing_Tags::Micro-Pharm::Exam-2::08-Other-Antibiotics-&-Mycobacteria",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::02-GI-Hormones::Class-Content"
       ]
     },
     {
@@ -60841,6 +61924,12 @@
       "tags": [
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-1::04-Intro-to-Viruses",
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-1::04-Intro-to-Viruses::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "fe022f066ad9d54a164ec67db6e2bd852f3195cfd7ec6ae94dbe247b95d33bc8",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::03-Fat-&-Micronutrient-Nutrition::Class-Content"
       ]
     },
     {
@@ -62255,6 +63344,18 @@
       ]
     },
     {
+      "first_field_hash": "d87b02cbcaf1bbe195395d997a67e89ab5641153f23fdf41bf7b006a81a88d78",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::02-GI-Hormones::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "71033acddf5f17f1c568f4c812e2e4525f913a356c2f7b3e8521d98ca087d79f",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::02-GI-Hormones::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "fc321c7242077d502adf7d1fa6aa05fcc6d75a24dca7ed7bbaff5b0b99e02c5c",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Renal-Block::18-Kidney-Stones::Class-Content"
@@ -62327,6 +63428,12 @@
       ]
     },
     {
+      "first_field_hash": "aa0d3d8091ede6d93c857737c64b70cd4b9fb28e021e127f4948caa4c00d70ae",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::03-Fat-&-Micronutrient-Nutrition::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "83f27d895b1e62421c553b88b1cfe83794bd781ef552639b7052555bdd070042",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::MSK-Block::04-Upper-Limb-Pathology"
@@ -62364,6 +63471,12 @@
       "first_field_hash": "3403484b82152cccbbc307fdafe40bcd544aa5daacee5856daa8ce5e9752a9d6",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::16-Thyroid-Physiology-&-Pathophysiology"
+      ]
+    },
+    {
+      "first_field_hash": "2549c83883252710690486d7db22d9304dc120e2233eedff605832da24e2c8d0",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::03-Fat-&-Micronutrient-Nutrition::Class-Content"
       ]
     },
     {
@@ -63285,6 +64398,12 @@
       "first_field_hash": "3cad684885613df7fe51a7c79e6602234e791bb033636c468ec2fb4a69b08ade",
       "tags": [
         "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-3-Abdomen::Anatomy"
+      ]
+    },
+    {
+      "first_field_hash": "a4d60ca541f486d0489d26edad5ad68662ccfb09ad53fed3bb77ec787e215e75",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::03-Fat-&-Micronutrient-Nutrition"
       ]
     },
     {
@@ -66232,6 +67351,12 @@
       ]
     },
     {
+      "first_field_hash": "a4032c974a80560630407224544f2ae147454e2edb231a35627d1b3136cf3284",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::02-GI-Hormones"
+      ]
+    },
+    {
       "first_field_hash": "2c6261467f7d08db809ba73b8478c3b7dcf07d1abeed7b52681a108243c7d659",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Repro-Block::02-Hormone-Replacement-&-Suppression-Therapy::Class-Content"
@@ -68456,6 +69581,12 @@
       "first_field_hash": "e1b1d82e269b2a040babb993981a79f131ca871dc9f49dc9194a0be64c13e2cc",
       "tags": [
         "JerryShen_AnKing_Tags::Neurobiology::Exam-3::Tutorial-6-Motor-Systems"
+      ]
+    },
+    {
+      "first_field_hash": "e6059414da8264088478585ff5bfa9dd02796a7acd502a7e48573fb9986a44e9",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::03-Fat-&-Micronutrient-Nutrition"
       ]
     },
     {
@@ -71191,7 +72322,8 @@
     {
       "first_field_hash": "6e7bf95a8f557e5da172b730bf6445f78781fca66adaee21d7356a96c7fb798a",
       "tags": [
-        "JerryShen_AnKing_Tags::POM-2::Final::Nutrition::Class-Content"
+        "JerryShen_AnKing_Tags::POM-2::Final::Nutrition::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::03-Fat-&-Micronutrient-Nutrition::Class-Content"
       ]
     },
     {
@@ -73149,7 +74281,8 @@
       "first_field_hash": "3940d1e588ca7a77b39ab05f979339fd23d0d8bc6fa56fcb8667f3ccb59b24ad",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::13-Obesity",
-        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::13-Obesity::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::13-Obesity::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::02-GI-Hormones"
       ]
     },
     {
@@ -73814,6 +74947,12 @@
       ]
     },
     {
+      "first_field_hash": "76c13564f87314452ceff35788b45bf569e23dd00fc263b1d149246d96fdb989",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::03-Fat-&-Micronutrient-Nutrition"
+      ]
+    },
+    {
       "first_field_hash": "d56fcbc43041739e7e4641972fcd17a2a905f0dbe1c8ad35acd4616e18a139ea",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::14-Lung-Pharmacology"
@@ -73875,6 +75014,12 @@
       "first_field_hash": "889d4278b3ba0fc067d5f7f53a91215949419c1852220d4e21e117b0f8cf0d25",
       "tags": [
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-1::05-Intro-to-Fungi"
+      ]
+    },
+    {
+      "first_field_hash": "8a88d91340d0138fe93994c6c266b6209c6ff8d7fe35f8dcdeff1ffe121c66c7",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::03-Fat-&-Micronutrient-Nutrition"
       ]
     },
     {
@@ -76050,7 +77195,8 @@
     {
       "first_field_hash": "52c4e998e266fc5a7c7702be9a049a42d0d10079f26c15e795b18decd6abb059",
       "tags": [
-        "JerryShen_AnKing_Tags::POM-2::Final::Nutrition::Class-Content"
+        "JerryShen_AnKing_Tags::POM-2::Final::Nutrition::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::03-Fat-&-Micronutrient-Nutrition::Class-Content"
       ]
     },
     {
