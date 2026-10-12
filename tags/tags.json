@@ -1,14 +1,14 @@
 {
   "schema_version": 1,
   "author": "JerryShen",
-  "description": "monday lecture",
-  "created": "2026-10-06T20:03:01.333150+00:00",
-  "updated": "2026-10-06T20:03:01.333150+00:00",
+  "description": "gi 1",
+  "created": "2026-10-12T17:19:22.421544+00:00",
+  "updated": "2026-10-12T17:19:22.421544+00:00",
   "tag_prefix": "JerryShen_AnKing_Tags",
   "tag_hierarchy": [
     "JerryShen_AnKing_Tags",
     "JerryShen_AnKing_Tags::(✏️)-Tagged-by-Jerry-Shen",
-    "JerryShen_AnKing_Tags::(🛠️)-Last-Updated-100626",
+    "JerryShen_AnKing_Tags::(🛠️)-Last-Updated-100826",
     "JerryShen_AnKing_Tags::(🧋)-buymeacoffee.com/ger1atric",
     "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology",
     "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-1-Thorax",
@@ -452,6 +452,7 @@
     "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::27-Lung-Cancer::Class-Content",
     "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::28-Lung-Transplantation",
     "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::29-Frontiers-in-Lung-Biology-&-Lung-Development",
+    "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::29-Frontiers-in-Lung-Biology-&-Lung-Development::Class-Content",
     "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::30-Lung-Cancer-Treatment",
     "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::30-Lung-Cancer-Treatment::Class-Content",
     "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::Lung-Lab-1-Pneumonia",
@@ -508,6 +509,9 @@
     "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::Tutorial-2-Thyroid-Disease::Class-Content",
     "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::Tutorial-3-Endocrine-Pathology",
     "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::Tutorial-3-Endocrine-Pathology::Class-Content",
+    "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block",
+    "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::01-Intro-to-GI-Physiology",
+    "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::01-Intro-to-GI-Physiology::Class-Content",
     "JerryShen_AnKing_Tags::SOM-2::Renal-Block",
     "JerryShen_AnKing_Tags::SOM-2::Renal-Block::01-Introduction-to-Renal-Physiology",
     "JerryShen_AnKing_Tags::SOM-2::Renal-Block::01-Introduction-to-Renal-Physiology::Class-Content",
@@ -556,7 +560,12 @@
     "JerryShen_AnKing_Tags::SOM-2::Renal-Block::23-End-Stage-Renal-Disease",
     "JerryShen_AnKing_Tags::SOM-2::Renal-Block::23-End-Stage-Renal-Disease::Class-Content",
     "JerryShen_AnKing_Tags::SOM-2::Renal-Block::24-Genetic-Kidney-Diseases",
-    "JerryShen_AnKing_Tags::SOM-2::Renal-Block::24-Genetic-Kidney-Diseases::Class-Content"
+    "JerryShen_AnKing_Tags::SOM-2::Renal-Block::24-Genetic-Kidney-Diseases::Class-Content",
+    "JerryShen_AnKing_Tags::SOM-2::Repro-Block",
+    "JerryShen_AnKing_Tags::SOM-2::Repro-Block::01-Testicular-Physiology",
+    "JerryShen_AnKing_Tags::SOM-2::Repro-Block::01-Testicular-Physiology::Class-Content",
+    "JerryShen_AnKing_Tags::SOM-2::Repro-Block::02-Hormone-Replacement-&-Suppression-Therapy",
+    "JerryShen_AnKing_Tags::SOM-2::Repro-Block::02-Hormone-Replacement-&-Suppression-Therapy::Class-Content"
   ],
   "changelog": [
     {
@@ -870,6 +879,11 @@
       "date": "2026-10-06T20:03:01.333150+00:00",
       "message": "monday lecture",
       "note_count": 168
+    },
+    {
+      "date": "2026-10-12T17:19:22.421544+00:00",
+      "message": "gi 1",
+      "note_count": 290
     }
   ],
   "notes": [
@@ -1337,7 +1351,8 @@
     {
       "first_field_hash": "0240382ce42e4c57bab2f246ee3d4053eeb2a8e257ca757c016b3a4c29c7337e",
       "tags": [
-        "JerryShen_AnKing_Tags::Neurobiology::Exam-2::Tutorial-3-Brainstem::Class-Content"
+        "JerryShen_AnKing_Tags::Neurobiology::Exam-2::Tutorial-3-Brainstem::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::01-Intro-to-GI-Physiology"
       ]
     },
     {
@@ -1381,6 +1396,18 @@
       "first_field_hash": "5741ab640c4c687e12a6b813fef996e24d8e75c33a86a6026425c7fb016c1c7b",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Renal-Block::12-Calcium-Magnesium-&-Phosphate-Regulation::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "29ea4f5a2b1a38cfb1ba4db1926c4b0ce03f22f339f3633dbb1a68a5080cec76",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::01-Intro-to-GI-Physiology"
+      ]
+    },
+    {
+      "first_field_hash": "80a4544fc3b968baab3671376d1317401afb6588408f66782ce3bf6fb2784095",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::01-Intro-to-GI-Physiology::Class-Content"
       ]
     },
     {
@@ -2456,7 +2483,7 @@
       ]
     },
     {
-      "first_field_hash": "792ca2c09439fe33fd132c388a33bcc793aebef4607d323750ab8f667d560bf2",
+      "first_field_hash": "0b204933cc74f087ae8378e418cb4b0a15f51d42d9191bb324da4805fe0da941",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::16-Thyroid-Physiology-&-Pathophysiology::Class-Content"
       ]
@@ -2955,6 +2982,12 @@
       ]
     },
     {
+      "first_field_hash": "9167122be94081ecb0efa4f797550d2f46122cb31acaf259e0a726671b3d42ba",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::01-Testicular-Physiology"
+      ]
+    },
+    {
       "first_field_hash": "a7bce0db8c5739889a0a7bdb2333ad2bf1d16123a9de250f84db414e542ab80f",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::10-Neuroendocrinology::Class-Content",
@@ -3131,7 +3164,7 @@
       ]
     },
     {
-      "first_field_hash": "acdccc05ad2c845b91b00be13cd8af29882bc358b313ec1288481f60b16673a0",
+      "first_field_hash": "704790c7e88cde9d303ef40589461fd008f500f9190deb865455d14b44821359",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::18-Adrenal-Physiology"
       ]
@@ -5170,6 +5203,30 @@
       ]
     },
     {
+      "first_field_hash": "67948f87f784b0c38e3a29efadff816825ebbb6adbc03edf04acc53fe7aa0700",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::01-Intro-to-GI-Physiology"
+      ]
+    },
+    {
+      "first_field_hash": "e2f1035b1bc4312a564fb44d5d1da83e4587ae80284c66566761af631825fec9",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::01-Intro-to-GI-Physiology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "18ce46f2934d6362bd8ccb88dc540109c3ad41f79d110e8f02e31995ad6269ed",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::01-Intro-to-GI-Physiology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "7f1d96f8304bdd86d10e54040d5f765675f69b47f0f8d6da7c417b434783e984",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::01-Intro-to-GI-Physiology::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "452a76fb710cf85f33a84a7cc907a16f8b4a7bc2c3aab459ae817b1d01aea7ec",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::10-Neuroendocrinology::Class-Content",
@@ -5375,6 +5432,12 @@
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::19-Adrenal-Pathophysiology::Class-Content",
         "JerryShen_AnKing_Tags::SOM-2::Renal-Block::16-Acute-Kidney-Injury::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "6ac2531c7621ae25a5776dffedf025c2261b69d9c836549c585a4495fafa8e2f",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::18-Adrenal-Physiology"
       ]
     },
     {
@@ -6256,7 +6319,8 @@
       "first_field_hash": "54e98b24598ce7bc7b66b5bea288b7320d5067615d857f6fa3a13b1f45bd3fc0",
       "tags": [
         "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-4-Pelvis::Histology::Class-Content",
-        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::12-Normal-Endocrine-Histology::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::12-Normal-Endocrine-Histology::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::01-Testicular-Physiology::Class-Content"
       ]
     },
     {
@@ -6317,19 +6381,28 @@
     {
       "first_field_hash": "6adfebb9a0881853a2a712d9fba3ab3854f0fec26c156889757d1efd6c660885",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::12-Normal-Endocrine-Histology"
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::12-Normal-Endocrine-Histology",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::01-Testicular-Physiology::Class-Content"
       ]
     },
     {
       "first_field_hash": "cacef465b04a3dcda7a941d1f0709e843d895203a1d9ad2a6124c16be6bdace1",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::12-Normal-Endocrine-Histology::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::12-Normal-Endocrine-Histology::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::01-Testicular-Physiology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "991ae06bc9fe57d6dbf548886977235fce565a7816ccdcc9232ee6b22d16a243",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::01-Testicular-Physiology::Class-Content"
       ]
     },
     {
       "first_field_hash": "c7cb27d85898961ed613b98021ba7cc165ab797e6a0a37ffe06db06f6c758194",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::01-Intro-to-Endocrine-Block::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::01-Intro-to-Endocrine-Block::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::01-Testicular-Physiology::Class-Content"
       ]
     },
     {
@@ -6342,7 +6415,8 @@
     {
       "first_field_hash": "ab02bae1126bbc221248d31b2c30960c90eb72e236f5b283b264f7054ba22006",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::12-Normal-Endocrine-Histology::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::12-Normal-Endocrine-Histology::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::01-Testicular-Physiology::Class-Content"
       ]
     },
     {
@@ -6354,7 +6428,8 @@
     {
       "first_field_hash": "69c1af9e03d22f6d978fedcb830c7069a6cb6efd6a30bbd6565ff6d20981e9f5",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::12-Normal-Endocrine-Histology::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::12-Normal-Endocrine-Histology::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::01-Testicular-Physiology::Class-Content"
       ]
     },
     {
@@ -6366,13 +6441,15 @@
     {
       "first_field_hash": "876d0bcb680880db226ee21bc256a2cb48a6c7f72e3d2d9de7eef4e84f9dd57a",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::12-Normal-Endocrine-Histology::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::12-Normal-Endocrine-Histology::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::01-Testicular-Physiology::Class-Content"
       ]
     },
     {
       "first_field_hash": "50dde71785d4d25e296f85638dcb7ff3a510555025184542e1822d7186165975",
       "tags": [
-        "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-4-Pelvis::Embryology::Class-Content"
+        "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-4-Pelvis::Embryology::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::01-Testicular-Physiology::Class-Content"
       ]
     },
     {
@@ -6394,9 +6471,41 @@
       ]
     },
     {
+      "first_field_hash": "0445b016d51b105672dd69c51d9eb04302095f2f40a6c1bdc4861bcbaffbe422",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::01-Testicular-Physiology"
+      ]
+    },
+    {
       "first_field_hash": "e6258f4c2a02df3888b4517cdbf4e2ee6c3a8e995b80294986831447b1202ae2",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::18-Adrenal-Physiology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "782aa6d003cbb11cb4c12cd53d23f272416c4482850e6df1cf3e398dee2f23f0",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::01-Testicular-Physiology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "2a1fe8978f35435947136128ba86225c81193d39be0a1b86c386e22af50d7739",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::01-Testicular-Physiology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "ae1bb00b953d7f68ea71f7c57ae780c25ab05952861daa4565651f291bc3bead",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::01-Testicular-Physiology::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::02-Hormone-Replacement-&-Suppression-Therapy::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "70f90ce3649e13866fd03d0e3114f0305fb1a77f25e0aaafae43b28146164753",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::01-Testicular-Physiology",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::01-Testicular-Physiology::Class-Content"
       ]
     },
     {
@@ -6408,7 +6517,8 @@
     {
       "first_field_hash": "acadb74c9097071ff8a20114feb5100cd757cde89dc6c789725f960df907b1ba",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::10-Neuroendocrinology"
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::10-Neuroendocrinology",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::01-Testicular-Physiology::Class-Content"
       ]
     },
     {
@@ -6418,9 +6528,23 @@
       ]
     },
     {
+      "first_field_hash": "b804f56728c7f416b22c2b63a8a28c255a6e4b94207605235d0659f127ae40e8",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::01-Testicular-Physiology",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::01-Testicular-Physiology::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "636ceced626675b37e6be8a98049ecbc9853ee596c8919061dcb3d7fcbdae557",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::12-Normal-Endocrine-Histology::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::12-Normal-Endocrine-Histology::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::01-Testicular-Physiology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "d22c26ff4241b2b455fc564e71abca9445c862faaa8c024a7949d5cb4125468d",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::01-Testicular-Physiology::Class-Content"
       ]
     },
     {
@@ -6436,15 +6560,120 @@
       ]
     },
     {
+      "first_field_hash": "01710672fb929dcf8ad93d1bf048b2f902b66f23c31ec4fb4c4d68f9f56fc5cb",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::01-Testicular-Physiology",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::01-Testicular-Physiology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "1e7fb04c74e0f75adec4f332a3362b69e7a5feaec16873c3c6ea1919dcdb39af",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::01-Testicular-Physiology",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::01-Testicular-Physiology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "fb37519c86db8845e0e9ed34763bcf13c1015c1f143c5ee98f69d8f4d20ce240",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::01-Testicular-Physiology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "4368e3e744b414206189694e8ad13fdcc9916453570de0a3efc9ea1e24932914",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::01-Testicular-Physiology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "b7af2c0ee29bc0bcf5baf84ccc01ce484cc0454b3f8937ae69b5f5a93f26b425",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::01-Testicular-Physiology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "bba11c6e36e73cd84476668e8bb1c437adf209da857915bba00097e92adb4e1d",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::01-Testicular-Physiology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "80ca59d8e6bf4e4227c40820fba807705378c4612ab2706d5648860adde90d8e",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::01-Testicular-Physiology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "aad1cd52cf5f5a0e6068bdfe015fe21d9a74a4997b3b84bd836b79bd595f8039",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::01-Testicular-Physiology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "63d3f880094a7a0896c1a4be6d152c9bce048551b3eacdbf204551093ec0d32c",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::01-Testicular-Physiology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "e62def834139d20956572ad9a381a0a32fb44c128907749109e45b9447b8990f",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::01-Testicular-Physiology"
+      ]
+    },
+    {
+      "first_field_hash": "d80afe9343ae0dfe376098663fb238ff3f37207fec7f3b96793a4a815ebc381e",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::01-Testicular-Physiology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "11eab7ef8de17976988b213b8e9bdf33590bda09b511b5cc235e52fec2ed071f",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::01-Testicular-Physiology"
+      ]
+    },
+    {
+      "first_field_hash": "b0343409f26c1cd4804f9cca47f5bafc9995e982dea2f5b8191ee71ab9652742",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::01-Testicular-Physiology",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::01-Testicular-Physiology::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "07ca0dc0b27177f4af27f3afb39873a3fc8c67a8ca39a5d4de9ed4e6186be436",
       "tags": [
         "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-4-Pelvis::Embryology"
       ]
     },
     {
+      "first_field_hash": "83da6af7122800b61da25b8718a4590df0434dc0d70e1e56f35dea790536b828",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::01-Testicular-Physiology"
+      ]
+    },
+    {
       "first_field_hash": "d15092df12ba6b33e919d19e909ab5b8c7baeff0f06b325156121d0f0ea7d491",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::10-Neuroendocrinology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "62b3173e2058f51fa670a6f2581fd491008946f889b41938f9703572b442fa1c",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::02-Hormone-Replacement-&-Suppression-Therapy::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "ab0e37fba2fdbc53708363a46f80607b6a4c044b2da3a58a4c634c8939fac537",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::02-Hormone-Replacement-&-Suppression-Therapy::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "95e4518f646aaedd3eace4fa944c9dab32fd1e47c2dc52a51d11998e2d4d09b9",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::02-Hormone-Replacement-&-Suppression-Therapy::Class-Content"
       ]
     },
     {
@@ -6530,6 +6759,12 @@
       "first_field_hash": "9d7268d9251588b125e73049f0307a4a1e3a9da17589a29306d68d806c6e2c5f",
       "tags": [
         "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-4-Pelvis::Embryology"
+      ]
+    },
+    {
+      "first_field_hash": "d6e090ee93070cd7c7dc2292d9b234f7e3b9fdaa780f6131237fe850c7d146ec",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::01-Testicular-Physiology"
       ]
     },
     {
@@ -6765,6 +7000,18 @@
       ]
     },
     {
+      "first_field_hash": "f6202e4143183c20e4412170be86ae607b3a772a7005b8322d81fecf1e2b387b",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::02-Hormone-Replacement-&-Suppression-Therapy::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "6127cb56f4f1914e1856d2d3c7d2565a9d4d9ebc60c79b4c428caf355a205ea9",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::02-Hormone-Replacement-&-Suppression-Therapy::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "96650a4c7ee1a0fe1c988288ad729918d0717864f46993f8f3484264fa1851f9",
       "tags": [
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-1::04-Intro-to-Viruses"
@@ -6843,7 +7090,7 @@
       ]
     },
     {
-      "first_field_hash": "74f078daad4c9af1dbac8b62d64ac3ec76e6f41d84f82558764da41714df73a1",
+      "first_field_hash": "6039cdc4c247e138c324a8a20f035f894bf91200d423c91995cc6f5e2f0197c9",
       "tags": [
         "JerryShen_AnKing_Tags::Cancer-Biology::Final::Lab-01-Cancer-Case-Studies"
       ]
@@ -6869,7 +7116,15 @@
     {
       "first_field_hash": "026365e2a74f5533dc1e1f7b11ee2b39f68a1ea91f8e75ff03c342d9e78bf7ca",
       "tags": [
-        "JerryShen_AnKing_Tags::Cancer-Biology::Final::06-Role-of-Pathology-in-Cancer-Diagnosis::Class-Content"
+        "JerryShen_AnKing_Tags::Cancer-Biology::Final::06-Role-of-Pathology-in-Cancer-Diagnosis::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::02-Hormone-Replacement-&-Suppression-Therapy"
+      ]
+    },
+    {
+      "first_field_hash": "56f0bb0eda55f0270ba9b8239a5712806a63926079259a71464347ed2f2a6ad5",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::02-Hormone-Replacement-&-Suppression-Therapy",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::02-Hormone-Replacement-&-Suppression-Therapy::Class-Content"
       ]
     },
     {
@@ -6944,7 +7199,8 @@
     {
       "first_field_hash": "51d43e03ac4d66a61eba70d210ba5278f977590f3025ee56124886c376f0302d",
       "tags": [
-        "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-4-Pelvis::Embryology::Class-Content"
+        "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-4-Pelvis::Embryology::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::01-Testicular-Physiology"
       ]
     },
     {
@@ -7013,22 +7269,31 @@
       ]
     },
     {
+      "first_field_hash": "e33e4657c7afd3999bc42cd6777b6fedff96e970fb5ccc16597844990e0a50b3",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::01-Testicular-Physiology"
+      ]
+    },
+    {
       "first_field_hash": "cff22cb5a16c9a63e0363cae0e2dd1a0506eece22b79291c276efc89ec7cb231",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::09-Endocrinology-of-Growth",
-        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::10-Neuroendocrinology"
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::10-Neuroendocrinology",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::02-Hormone-Replacement-&-Suppression-Therapy::Class-Content"
       ]
     },
     {
       "first_field_hash": "a62641ac94f9d1e62ed6e141306711f99afbb5c4e810edf5e1542792a48ceac0",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::10-Neuroendocrinology::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::10-Neuroendocrinology::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::02-Hormone-Replacement-&-Suppression-Therapy::Class-Content"
       ]
     },
     {
       "first_field_hash": "88542635c03db16167db435dabc7de4a3c3fa6650b2f231d97a0e8192b940ca6",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::10-Neuroendocrinology::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::10-Neuroendocrinology::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::02-Hormone-Replacement-&-Suppression-Therapy::Class-Content"
       ]
     },
     {
@@ -7036,6 +7301,12 @@
       "tags": [
         "JerryShen_AnKing_Tags::Molecular-Foundations-&-Genetics::02-Genetics::03-Chromosomes::Class-Content",
         "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::09-Endocrinology-of-Growth::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "eca6721df8468a41cb471e32b85ab9cccb17e8b9740371d720a375fc40e82b83",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::01-Testicular-Physiology"
       ]
     },
     {
@@ -7112,7 +7383,8 @@
       "first_field_hash": "2f5ab3d491d6c1fe163b7674eafcd5f54623e8924660e5a5e76b97e87fa5602f",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::01-Intro-to-Endocrine-Block",
-        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::15-Bone-Pathophysiology::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::15-Bone-Pathophysiology::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::02-Hormone-Replacement-&-Suppression-Therapy::Class-Content"
       ]
     },
     {
@@ -7477,6 +7749,12 @@
       "first_field_hash": "903d7dde14d8440978a6e949904fed73c5b3c3c1814e9e117bdd1c72f0a92308",
       "tags": [
         "JerryShen_AnKing_Tags::Molecular-Foundations-&-Genetics::02-Genetics::03-Chromosomes::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "d76ea8227461683536fa89502963f66fd8c0a5552c07bf23995ba91f89410763",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::01-Testicular-Physiology::Class-Content"
       ]
     },
     {
@@ -8257,7 +8535,7 @@
       ]
     },
     {
-      "first_field_hash": "6f90fb9154bcae9840ec81daef4e3da3cfcff5d6adabaf83ca8b0c4034ee7d54",
+      "first_field_hash": "88454ed3f3373ad8f7a8c97a4b6d0eb2049090bae2cc72e564b86085439610d2",
       "tags": [
         "JerryShen_AnKing_Tags::Molecular-Foundations-&-Genetics::01-Molecular-Foundations::04-Transcription::Class-Content"
       ]
@@ -10231,6 +10509,12 @@
       ]
     },
     {
+      "first_field_hash": "82fa42ebf48b6dd96f725e9352c51a3f9c88c031903748073646dbba0c4d9603",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::03-The-Cardiac-Action-Potential"
+      ]
+    },
+    {
       "first_field_hash": "c3533fde19910685cecb2d6827f18068c76d02607c3a71e0c06e3a86340f1754",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::14-The-Cardiac-Cycle::Class-Content"
@@ -11967,6 +12251,12 @@
       "first_field_hash": "7f7fcc69d2419752a264b569a606eb20a08bae2ffa5038f4569b5cca3b1dac71",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::22-Peripheral-Arterial-&-Aortic-Disease::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "8d94d54cff93f877cc17f7bb288a15e835d2d27af3c64fb09b8dc0fc9090412e",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::17-Valvular-Disease"
       ]
     },
     {
@@ -18262,6 +18552,12 @@
       ]
     },
     {
+      "first_field_hash": "5cbfa72c04801fd404db3172898c55a49511c7ce0d3255e9e6b6ab5e73766356",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::21-Pathology-of-ILD"
+      ]
+    },
+    {
       "first_field_hash": "815f82cbdd5ef0c4854ca4674f4021044dc98bf27c2eb79c8a88ca8f2cc71229",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::10-Airway-Obstruction::Class-Content",
@@ -18334,6 +18630,12 @@
     },
     {
       "first_field_hash": "49e619638e4da3c82718e9783ac07f990c6f4aa3a29e3005814a77947a5d98aa",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::12-Pathology-of-Asthma-and-COPD"
+      ]
+    },
+    {
+      "first_field_hash": "6a8eba096a9f6aac7104c739b060f95e91d389c467320d247c0ee556f5a46ee8",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::12-Pathology-of-Asthma-and-COPD"
       ]
@@ -18750,6 +19052,18 @@
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::06-Intro-to-Lung-Histology",
         "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::21-Pathology-of-ILD"
+      ]
+    },
+    {
+      "first_field_hash": "f54244aa174665dd6e08dbe6401863606a2eec5459865462283ad5e9227cfaa5",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::21-Pathology-of-ILD"
+      ]
+    },
+    {
+      "first_field_hash": "be653c6d5eb6782a948aa812f28146dd4d400d935e77625eba6eb87f7b27e9df",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::27-Lung-Cancer"
       ]
     },
     {
@@ -19320,7 +19634,7 @@
       ]
     },
     {
-      "first_field_hash": "642aa3eeb3d52c42570af09575d7983a53acb4e890ca86ecf448b3ba44aee9d6",
+      "first_field_hash": "278840e01555b36e5b9bf4377afaa905d720bbef83010b653236cd8b7deb17ba",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::27-Lung-Cancer"
       ]
@@ -19459,7 +19773,19 @@
       ]
     },
     {
+      "first_field_hash": "7cd2072055bd83b109213ead8498bcb8133fbacdf165c027bf7ebed061cc4c35",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::27-Lung-Cancer"
+      ]
+    },
+    {
       "first_field_hash": "efa0b135138d7d0153b6d8a69fb88cf3303ca46d45165ee424bd021b734156e1",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::27-Lung-Cancer"
+      ]
+    },
+    {
+      "first_field_hash": "c5d773d81b7305b47192a2426c9911ab05119b44addf51492257283cc8de15cd",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::27-Lung-Cancer"
       ]
@@ -19635,6 +19961,30 @@
       "first_field_hash": "d349b09e3b8a2b318b58dc43812c268349f93a01e05779a0d0b3906ba3648f1a",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::23-Pleural-Disease::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "04f9309997c7adc66be95c9ef5964872716d2ae77be59f0f56c293f1fafc340d",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::23-Pleural-Disease"
+      ]
+    },
+    {
+      "first_field_hash": "1284e814d93c177da59c304b95a0270c11329e488a8dc88d4faa765df20cd470",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::23-Pleural-Disease"
+      ]
+    },
+    {
+      "first_field_hash": "b728088d68f5931c4a5faaa305b3da911cc909f50bbfb4a913c68a0149cfa57f",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::27-Lung-Cancer"
+      ]
+    },
+    {
+      "first_field_hash": "3ddfb7f961820b1d160dd32c0abf6b541efe4dc3cb039009e4fde52d18941136",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::27-Lung-Cancer"
       ]
     },
     {
@@ -21201,7 +21551,7 @@
       ]
     },
     {
-      "first_field_hash": "ae704059d65c27805b82e7ff5a9af9d2d9d9cd0acb6927f054d3c664742205d1",
+      "first_field_hash": "78d6cedee735010f5854132f8e927bccb30c555ffac29cf2e680337cc0f9d9ad",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::25-Pulmonary-Hypertension",
         "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::25-Pulmonary-Hypertension::Class-Content"
@@ -21481,7 +21831,8 @@
     {
       "first_field_hash": "b6e2e020cae0b4ba5cd4a1111bf3c6f0cdad7636f7041a95facf15e17ebc999c",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::29-Frontiers-in-Lung-Biology-&-Lung-Development"
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::29-Frontiers-in-Lung-Biology-&-Lung-Development",
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::29-Frontiers-in-Lung-Biology-&-Lung-Development::Class-Content"
       ]
     },
     {
@@ -21493,7 +21844,8 @@
     {
       "first_field_hash": "d0edc5ffe34f19ca2fd4a89152dc43e784375e59023fb692f6cc7b9f94b88eee",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::29-Frontiers-in-Lung-Biology-&-Lung-Development"
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::29-Frontiers-in-Lung-Biology-&-Lung-Development",
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::29-Frontiers-in-Lung-Biology-&-Lung-Development::Class-Content"
       ]
     },
     {
@@ -21505,13 +21857,15 @@
     {
       "first_field_hash": "13fb415ad5f2d912967cdc4bc978c7f1d5d28f08c66cddb117ed3efb1fc99887",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::29-Frontiers-in-Lung-Biology-&-Lung-Development"
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::29-Frontiers-in-Lung-Biology-&-Lung-Development",
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::29-Frontiers-in-Lung-Biology-&-Lung-Development::Class-Content"
       ]
     },
     {
       "first_field_hash": "76f13bd31ab52d165386838957cd4b95d2a2510734779c5162f9794cba5382b0",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::29-Frontiers-in-Lung-Biology-&-Lung-Development"
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::29-Frontiers-in-Lung-Biology-&-Lung-Development",
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::29-Frontiers-in-Lung-Biology-&-Lung-Development::Class-Content"
       ]
     },
     {
@@ -21529,13 +21883,15 @@
     {
       "first_field_hash": "969736b4f427d74269514da19ea627b5bf077f3a8aa986b0a1c5104eaf4b3147",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::29-Frontiers-in-Lung-Biology-&-Lung-Development"
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::29-Frontiers-in-Lung-Biology-&-Lung-Development",
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::29-Frontiers-in-Lung-Biology-&-Lung-Development::Class-Content"
       ]
     },
     {
       "first_field_hash": "ed6061055a15bf0bf60d5bd113a3a51eeba2ca2d3746de0223d7e582831b1eaf",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::29-Frontiers-in-Lung-Biology-&-Lung-Development"
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::29-Frontiers-in-Lung-Biology-&-Lung-Development",
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::29-Frontiers-in-Lung-Biology-&-Lung-Development::Class-Content"
       ]
     },
     {
@@ -21559,13 +21915,15 @@
     {
       "first_field_hash": "7e24706af35ba65f315e85cad3d4bea855b4beec0532cbe5c42eb671b3cf50d3",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::29-Frontiers-in-Lung-Biology-&-Lung-Development"
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::29-Frontiers-in-Lung-Biology-&-Lung-Development",
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::29-Frontiers-in-Lung-Biology-&-Lung-Development::Class-Content"
       ]
     },
     {
       "first_field_hash": "c6b5f0c14b01fc0982e5104a5c3ed1572f3594ab39844c10e1c3c024a28f436b",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::29-Frontiers-in-Lung-Biology-&-Lung-Development"
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::29-Frontiers-in-Lung-Biology-&-Lung-Development",
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::29-Frontiers-in-Lung-Biology-&-Lung-Development::Class-Content"
       ]
     },
     {
@@ -21583,13 +21941,15 @@
     {
       "first_field_hash": "d7821690c29203d35dfa0d2a9b6947dc3ed0e3832a8367fa6f8471ecc5c8876f",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::29-Frontiers-in-Lung-Biology-&-Lung-Development"
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::29-Frontiers-in-Lung-Biology-&-Lung-Development",
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::29-Frontiers-in-Lung-Biology-&-Lung-Development::Class-Content"
       ]
     },
     {
       "first_field_hash": "70717e952c9fb2c7c8b04f48f90ea5ec4464c6baaff4d816b412e4022d3b792a",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::29-Frontiers-in-Lung-Biology-&-Lung-Development"
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::29-Frontiers-in-Lung-Biology-&-Lung-Development",
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::29-Frontiers-in-Lung-Biology-&-Lung-Development::Class-Content"
       ]
     },
     {
@@ -24153,7 +24513,8 @@
       "first_field_hash": "2242a14de59f064802b02ac8b15a22cf929690999665504d3859f3509746c57b",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::10-Autonomic-Physiology-and-Pharmacology",
-        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::10-Autonomic-Physiology-and-Pharmacology::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::10-Autonomic-Physiology-and-Pharmacology::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::01-Intro-to-GI-Physiology"
       ]
     },
     {
@@ -28192,19 +28553,24 @@
     {
       "first_field_hash": "68ffc7447ac0ca3c8f513bd00e233bb922ccc60b1397157d7264a100220c963e",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::19-Adrenal-Pathophysiology"
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::19-Adrenal-Pathophysiology",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::01-Testicular-Physiology::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::02-Hormone-Replacement-&-Suppression-Therapy::Class-Content"
       ]
     },
     {
       "first_field_hash": "16f0755cd46d9193e8041934353ba200b435442bb0e39e7ee83a1f18992a65da",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::19-Adrenal-Pathophysiology"
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::19-Adrenal-Pathophysiology",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::01-Testicular-Physiology::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::02-Hormone-Replacement-&-Suppression-Therapy::Class-Content"
       ]
     },
     {
       "first_field_hash": "0ae9d96a616316dcfc5f487e6a134cc5256533fb6c80d182447095c57ca0485f",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::31-Treatment-of-Hypertension::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::31-Treatment-of-Hypertension::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::01-Testicular-Physiology"
       ]
     },
     {
@@ -28566,6 +28932,12 @@
       ]
     },
     {
+      "first_field_hash": "06e8b12c1b33072049205d4fcbbe141a3d9a3eadec9e4264d41522904878456f",
+      "tags": [
+        "JerryShen_AnKing_Tags::Biochemistry::Final::03-Lipid-Metabolism"
+      ]
+    },
+    {
       "first_field_hash": "d4cf4581a59947cf666c41f3bf78ac777b9cc643d06085136c7a9fdf9220fca3",
       "tags": [
         "JerryShen_AnKing_Tags::Biochemistry::Final::03-Lipid-Metabolism",
@@ -28575,6 +28947,12 @@
     },
     {
       "first_field_hash": "7fc336abbdf1d9e72e8ae91d155644b8c7f7e54eab09c92afe3ff93489de283f",
+      "tags": [
+        "JerryShen_AnKing_Tags::Biochemistry::Final::03-Lipid-Metabolism"
+      ]
+    },
+    {
+      "first_field_hash": "58cd62b941a5bc1e94d98b178ed6bf76a7e5acca07dec5b2621e8754576c89c5",
       "tags": [
         "JerryShen_AnKing_Tags::Biochemistry::Final::03-Lipid-Metabolism"
       ]
@@ -28933,6 +29311,12 @@
       "tags": [
         "JerryShen_AnKing_Tags::Biochemistry::Final::03-Lipid-Metabolism::Class-Content",
         "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::04-Lipoproteins::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "d2f7a4a2a90908a201c0d9d45bdaee94cf42a3ed8515235708c18d7544adb598",
+      "tags": [
+        "JerryShen_AnKing_Tags::Biochemistry::Final::04-Regulation"
       ]
     },
     {
@@ -30684,6 +31068,25 @@
       ]
     },
     {
+      "first_field_hash": "485a78dc3a3924bc4f83991d1da3e5e8af73c80fe77b35a26437502353acface",
+      "tags": [
+        "JerryShen_AnKing_Tags::Biochemistry::Final::02-Oxidative-Phosphorylation",
+        "JerryShen_AnKing_Tags::Biochemistry::Final::02-Oxidative-Phosphorylation::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "88b2777ddfa3f9bdeaa815d4afc96aec1abea46edd7378e40d26acc4f38a07ba",
+      "tags": [
+        "JerryShen_AnKing_Tags::Biochemistry::Final::02-Oxidative-Phosphorylation"
+      ]
+    },
+    {
+      "first_field_hash": "79cc6629977a4139d86d6db94abbd34de0234489d58ba150c1b4a59257c6f176",
+      "tags": [
+        "JerryShen_AnKing_Tags::Biochemistry::Final::02-Oxidative-Phosphorylation"
+      ]
+    },
+    {
       "first_field_hash": "c9854ee9834e452dcfec271c7fea07a30214e7d4901527ec17be1d62dc21ea79",
       "tags": [
         "JerryShen_AnKing_Tags::Biochemistry::Final::02-Oxidative-Phosphorylation::Class-Content"
@@ -31688,7 +32091,7 @@
       "first_field_hash": "2a031d845d81d8519144d4178eb3dd043b6971de8122ecb98beca67bf6153b2a",
       "tags": [
         "JerryShen_AnKing_Tags::(✏️)-Tagged-by-Jerry-Shen",
-        "JerryShen_AnKing_Tags::(🛠️)-Last-Updated-100626",
+        "JerryShen_AnKing_Tags::(🛠️)-Last-Updated-100826",
         "JerryShen_AnKing_Tags::(🧋)-buymeacoffee.com/ger1atric",
         "JerryShen_AnKing_Tags::Biochemistry::Final::02-Oxidative-Phosphorylation::Class-Content"
       ]
@@ -31712,7 +32115,19 @@
       ]
     },
     {
+      "first_field_hash": "98b21fec4948787d9dce723e272963ed160c87a687d00391af2a40aeab708881",
+      "tags": [
+        "JerryShen_AnKing_Tags::Biochemistry::Final::02-Oxidative-Phosphorylation"
+      ]
+    },
+    {
       "first_field_hash": "97856865b3f40abdedfe12f50887630d72fa28c20c44618a26003bad6bf9443e",
+      "tags": [
+        "JerryShen_AnKing_Tags::Biochemistry::Final::02-Oxidative-Phosphorylation"
+      ]
+    },
+    {
+      "first_field_hash": "bf3b9e09eeba271fb232c8538d73a9fb152204f1389b96fb7135581d34b31420",
       "tags": [
         "JerryShen_AnKing_Tags::Biochemistry::Final::02-Oxidative-Phosphorylation"
       ]
@@ -31721,6 +32136,18 @@
       "first_field_hash": "b405bae74cafb3039461c1d667554dc78a4a33be15553dbc1fe77e95bcbe2272",
       "tags": [
         "JerryShen_AnKing_Tags::POM-4::Clinical-Reasoning::Approach-to-Palpitations"
+      ]
+    },
+    {
+      "first_field_hash": "f2d741d0afbbb0d3fe8067c2734b9cb673f9c86cebc80137a9244e8c44056a1e",
+      "tags": [
+        "JerryShen_AnKing_Tags::Biochemistry::Final::02-Oxidative-Phosphorylation::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "76e60d7df2c2701abe4abc36b26fa45a3499f876efd2cb70255391cf5cbc7c64",
+      "tags": [
+        "JerryShen_AnKing_Tags::Biochemistry::Final::02-Oxidative-Phosphorylation::Class-Content"
       ]
     },
     {
@@ -31950,6 +32377,12 @@
       ]
     },
     {
+      "first_field_hash": "20d972071d65bc7809bf3faacdf37e41cbd62228b7a8658623f54c22110201e8",
+      "tags": [
+        "JerryShen_AnKing_Tags::Biochemistry::Final::01-Carbohydrate-Metabolism::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "68ef48488f27f4ece21e520c37579b18920ae4ec69e86bd59d2e0f3d2d06d87a",
       "tags": [
         "JerryShen_AnKing_Tags::Biochemistry::Final::01-Carbohydrate-Metabolism::Class-Content"
@@ -32131,7 +32564,8 @@
     {
       "first_field_hash": "cf7803a72bad89727198194fcd1cfba550c7896d089e2f084b39f7484f79373f",
       "tags": [
-        "JerryShen_AnKing_Tags::Neurobiology::Exam-2::Lec-Autonomic-Nervous-System::Class-Content"
+        "JerryShen_AnKing_Tags::Neurobiology::Exam-2::Lec-Autonomic-Nervous-System::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::01-Intro-to-GI-Physiology"
       ]
     },
     {
@@ -32199,6 +32633,12 @@
       "first_field_hash": "8cdefdf319bb178e8ec0ba484cf933cb140b70559fa1dfeca085f5aeae2388d3",
       "tags": [
         "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-1-Thorax::Anatomy"
+      ]
+    },
+    {
+      "first_field_hash": "131818d4eb5fecd4726bebbec23ad4098f9d074ebfadfccf3a5c111b887116d0",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::01-Intro-to-GI-Physiology"
       ]
     },
     {
@@ -34296,7 +34736,8 @@
     {
       "first_field_hash": "3d60575611e4a6fbf821ec93ea7423d049ecd1d707a00fee3201f2e744430397",
       "tags": [
-        "JerryShen_AnKing_Tags::Neurobiology::Exam-2::Tutorial-3-Brainstem::Class-Content"
+        "JerryShen_AnKing_Tags::Neurobiology::Exam-2::Tutorial-3-Brainstem::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::01-Intro-to-GI-Physiology"
       ]
     },
     {
@@ -36169,7 +36610,7 @@
       ]
     },
     {
-      "first_field_hash": "535f888ee74fa544acb978144b068e3c148d267814c532473ae0abe37469ecd8",
+      "first_field_hash": "2b315ac5880dbb0c7bd19e84bb8f33cdf8fa06d975d802ba43651f731f0cf431",
       "tags": [
         "JerryShen_AnKing_Tags::Cancer-Biology::Final::Cancer-Pharmacology",
         "JerryShen_AnKing_Tags::Molecular-Foundations-&-Genetics::02-Genetics::08.4-Cancer-Genetics"
@@ -37347,43 +37788,111 @@
     {
       "first_field_hash": "d2cd3769563c29788681759f453203aa09a7ad683d0934af77f0b7bfdbba7a5c",
       "tags": [
-        "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-3-Abdomen::Histology::Class-Content"
+        "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-3-Abdomen::Histology::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::01-Intro-to-GI-Physiology::Class-Content"
       ]
     },
     {
       "first_field_hash": "334ce0b376829a74e47e0f01731aa11918858a8aa4896cb8944ad83f4456da84",
       "tags": [
-        "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-3-Abdomen::Histology::Class-Content"
+        "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-3-Abdomen::Histology::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::01-Intro-to-GI-Physiology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "cfb9733f11325b1dbcc128242e427ecad294873424fe2a9edaed9bbc874b38da",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::01-Intro-to-GI-Physiology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "efffae902b0a1cc503b7b0be880e4a1a4fd46fcbd81e20ce8a84eea4cf3ee858",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::01-Intro-to-GI-Physiology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "a0c561cadcd1d22499d1ade924178f94b3fe2c39ab8c63c14becc47155cf6a48",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::01-Intro-to-GI-Physiology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "dc38c6a189453d9881e622d5018fbc79a9753a271d33142ee9b510ff9dc610b3",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::01-Intro-to-GI-Physiology::Class-Content"
       ]
     },
     {
       "first_field_hash": "349efb7fd92643f1adc551aa948183278def09f35aa70f4801c817ef20a657ca",
       "tags": [
-        "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-3-Abdomen::Histology::Class-Content"
+        "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-3-Abdomen::Histology::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::01-Intro-to-GI-Physiology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "fd20009fd1ac221b557b404699768fab9c3705fa2850389140fa5e644ec57a4b",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::01-Intro-to-GI-Physiology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "bc39e98a6a8c55845febb88ca18850d075d7c750a3e92e98699ecaf2e83f235f",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::01-Intro-to-GI-Physiology",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::01-Intro-to-GI-Physiology::Class-Content"
       ]
     },
     {
       "first_field_hash": "f93cb2d416efb0da8412cfee3c913670ac8c10dc31dcf4985a66150edf3f58eb",
       "tags": [
-        "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-3-Abdomen::Histology::Class-Content"
+        "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-3-Abdomen::Histology::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::01-Intro-to-GI-Physiology::Class-Content"
       ]
     },
     {
       "first_field_hash": "07b3f6c73a78e11b9c525f454b65c8d042b1652c366020e27d1c9d985a604eda",
       "tags": [
-        "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-3-Abdomen::Histology::Class-Content"
+        "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-3-Abdomen::Histology::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::01-Intro-to-GI-Physiology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "d4294c61c0b573904f01956d83a4ea98ad7b8ecbab888a8293e723842f3a38d0",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::01-Intro-to-GI-Physiology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "fec3002814cb226e8e9ef12a728f3c352beebec14b4962934688d78248fb15fd",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::01-Intro-to-GI-Physiology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "75bdcc827e6568176e662550eed55d96dd67d3d3c9ab9a16a47ceb0eb9124ec5",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::01-Intro-to-GI-Physiology::Class-Content"
       ]
     },
     {
       "first_field_hash": "7e6c9f8fa2520d2e30b89f72bef01a9dbb6e2df102e417ee54ea58c7594a1ebb",
       "tags": [
-        "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-3-Abdomen::Histology"
+        "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-3-Abdomen::Histology",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::01-Intro-to-GI-Physiology::Class-Content"
       ]
     },
     {
       "first_field_hash": "88b40bb21d86bead3e9d0213986e9cf3c9c84f63934f6e359a7f11bd82717099",
       "tags": [
-        "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-3-Abdomen::Histology"
+        "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-3-Abdomen::Histology",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::01-Intro-to-GI-Physiology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "5c35ad7891bb18b0e71f87f4d657a48ff37a3ffb6030e120746cdd7cbf29cbb7",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::01-Intro-to-GI-Physiology"
       ]
     },
     {
@@ -37448,6 +37957,124 @@
       "first_field_hash": "22a2c7eaf6a88b80e6a49937be6388bab530d2bb5662b89c743d5232b7a7ae5e",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::13-Obesity::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "ada07ae1101354f1be2b7c69c3ade90e4d7a2b3a10d48fb99c489b7a56a19f54",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::01-Intro-to-GI-Physiology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "38082ceed35b5790523ad1b41b9152b3a8729a16727d9c9abc570215046d1d36",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::01-Intro-to-GI-Physiology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "d28e5577c82d4c8057aaefb3b6bf2112d90ee2dc6bf5db8950d18dcf6f4a009b",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::01-Intro-to-GI-Physiology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "7a59be6310604629361c4ea6843e9d38cd120bc82d1efc1a99b9cc17b36e841c",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::01-Intro-to-GI-Physiology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "ab2bbf55d6d0a9e03069f3bb94880d4f6f7c4bab2d2c27c7149e3f10010636c6",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::01-Intro-to-GI-Physiology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "add217c87913816e3492431832f85c7417d394cd258d07f4910ce54f874059aa",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::01-Intro-to-GI-Physiology",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::01-Intro-to-GI-Physiology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "aca2ea9d5f5d294ddd7d6f1235b74d92fef3a9a481e69af178174c085dea9936",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::01-Intro-to-GI-Physiology",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::01-Intro-to-GI-Physiology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "bd4a26bac933bd36c306e3504ed8de30620b62c7c5ff7cd72fa7956662dcc77e",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::01-Intro-to-GI-Physiology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "d2a797adb05fbd87d8cbb54f36973af9db19040c76cb44f322dd061c10d5d1cf",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::01-Intro-to-GI-Physiology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "81c62cdeddaf8fbea24a8d0191c599ddd43a86eb1086d199055ea7d79c5e8f76",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::01-Intro-to-GI-Physiology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "f051654b768498dc5509684cc45e799a2670ab28a6aca7ac21da553cc2459e1f",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::01-Intro-to-GI-Physiology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "2d25a0d0666b4ed5fc466ef27fab5d637c5f4ff43d79735c76f47513060f0710",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::01-Intro-to-GI-Physiology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "478b9bf4f2e6d8a8e830c8d12fd93e992a4917bc88dfe7589aae68d5bb9690b9",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::01-Intro-to-GI-Physiology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "bee925962343c7bd55446ee15bc8264e41bd6ab2bf42b88aa21bd683c958bc2a",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::01-Intro-to-GI-Physiology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "7ad742b0d72e28759fb0a934c04473d5bf8f4a4cf795a3124da23b3c57f99777",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::01-Intro-to-GI-Physiology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "b784e1a17164d186a2f9d12e9b5d9d3cbd5ac54cfd08f2e07cf7fa3e7624436d",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::01-Intro-to-GI-Physiology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "f90d2ffe511ee2cedd347c81ff00a9286774c71e85ff0e18a1e6e6652324bc2d",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::01-Intro-to-GI-Physiology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "efb26426eee3415859057fd4f342a50cbe78c039f551c83f57b028f33e04cac2",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::01-Intro-to-GI-Physiology",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::01-Intro-to-GI-Physiology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "572697fe24df0a9972a31b93df28a89f52985c9b632c8c1ba752776ddaea6900",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::01-Intro-to-GI-Physiology",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::01-Intro-to-GI-Physiology::Class-Content"
       ]
     },
     {
@@ -37633,9 +38260,33 @@
       ]
     },
     {
+      "first_field_hash": "519eff3cfcdb3388df0381a0cafd44d5959a35924aafda12cfaf9653501bb79c",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::01-Intro-to-GI-Physiology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "944cfdc4aa107e9d2bfa9da497403565ca140918a36b6f9bc1d3ce6c35c6cc35",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::01-Intro-to-GI-Physiology"
+      ]
+    },
+    {
       "first_field_hash": "8db4afecf629d368480a27c235bd6d1687bff0626faec2d3bc2ea3fef95ab78d",
       "tags": [
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-2::07-β-Lactam-Antibiotics-&-Parasites"
+      ]
+    },
+    {
+      "first_field_hash": "303ddacbb841d9ae245810b7986874f658a927ca3d89efe91a530ae0035adc56",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::01-Intro-to-GI-Physiology"
+      ]
+    },
+    {
+      "first_field_hash": "07a7d948a4a226ce4fdbcd8c7c6d051bbc8f0fc978ca830fff01c0d6fbb6679e",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::01-Intro-to-GI-Physiology::Class-Content"
       ]
     },
     {
@@ -37786,7 +38437,8 @@
     {
       "first_field_hash": "b19f693845a647481f9f87b208708a7f1340f162ad4ad2cd41eea01fd926a336",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::27-Lung-Cancer::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::27-Lung-Cancer::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::01-Intro-to-GI-Physiology::Class-Content"
       ]
     },
     {
@@ -37794,6 +38446,60 @@
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::27-Lung-Cancer",
         "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::Lung-Lab-3-Cancer-&-ILD::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "55222ca55c02c23cce012c63b91a2f6b87ba9f788c66eba4045d054612bec96d",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::01-Intro-to-GI-Physiology"
+      ]
+    },
+    {
+      "first_field_hash": "7cc4b7404e1155a6c4e7f87ce3f1f976efb4a59cb2e86e14c944653266a4b65c",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::01-Intro-to-GI-Physiology"
+      ]
+    },
+    {
+      "first_field_hash": "3a78171ea938a2dfc9370767296bdb275bb9326e8917cc82e19833c289808bc3",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::01-Intro-to-GI-Physiology"
+      ]
+    },
+    {
+      "first_field_hash": "ab6b9de0e2717352a2797a29bab8d9d92b44e7c16d90f51e77aa6b8a4b479681",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::01-Intro-to-GI-Physiology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "c7d19c02918b821bb07c24985b807232e088f4c1691bc571905533d5752421ad",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::01-Intro-to-GI-Physiology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "5b3dcc5361c946a9ed76814e71e79faaec8a600da05ad92329634039f9245ca8",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::01-Intro-to-GI-Physiology"
+      ]
+    },
+    {
+      "first_field_hash": "011f42ab4ecdac4c2b7360dad607f16efae9a1469ee5a28dbf03d0c96a173b40",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::01-Intro-to-GI-Physiology"
+      ]
+    },
+    {
+      "first_field_hash": "cb6e25f1f55617163921f81b5810560b78f44cd154598690c105e53febc8cff9",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::01-Intro-to-GI-Physiology"
+      ]
+    },
+    {
+      "first_field_hash": "ce92852a3d3fdb22eb06a8789cc20d263d4a36a6455f336b0835d01442c904c9",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::01-Intro-to-GI-Physiology"
       ]
     },
     {
@@ -37818,6 +38524,73 @@
       "first_field_hash": "83b4610f13714edadb5adc09695ff3d60e5f9b17fa6bf05f8604978563ce205a",
       "tags": [
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-2::10-Biologics-Ectoparasites-&-Clinical-Cases::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "e5d847850c9626915e9231746f2096dbc7ffa5f3f33a81572d80c222e2879284",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::01-Intro-to-GI-Physiology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "595f1ec1cb3866592c139bcdd57431330fc6bc9b29bc28fb6088f779ee128d02",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::01-Intro-to-GI-Physiology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "356fb0512eb91d9ae0de6b4e105ad7a6ed31df8c80356cf52c7dd7434a809492",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::01-Intro-to-GI-Physiology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "0f151753452517a254b0d48a769a10cea4e2646bdaa2c6c143d1e8585c147e50",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::01-Intro-to-GI-Physiology"
+      ]
+    },
+    {
+      "first_field_hash": "60780ebbff240aed4d5990eb4497ece66b86b72b3d1ab8a3be5b11909ddb4715",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::01-Intro-to-GI-Physiology"
+      ]
+    },
+    {
+      "first_field_hash": "8d694848011eb1c1569386c92a0ce22800c25a9dcbd8f84687096f7aa7dd1639",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::01-Intro-to-GI-Physiology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "b2a80994555077d4a28e9d405bf4eb8eaa0942fa2a9285346947158af0cd972b",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::01-Intro-to-GI-Physiology"
+      ]
+    },
+    {
+      "first_field_hash": "79ce4d98af9edf8822cb746625847be1b0b362373df72fa90d251dd56e980d2b",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::01-Intro-to-GI-Physiology"
+      ]
+    },
+    {
+      "first_field_hash": "62dcf6b4d3811d4185a43d5267c7b82619a49a160fbe5bed1d8b2d8771693a54",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::01-Intro-to-GI-Physiology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "c24f7b3a380e7c9366144254d3f896c7170f0e72b263ab962e3a8e5bd347c307",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::01-Intro-to-GI-Physiology",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::01-Intro-to-GI-Physiology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "f51d79618c3695a8a07996a439dc2cd753d542eca38c5f1de00a15bd69b01259",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::01-Intro-to-GI-Physiology::Class-Content"
       ]
     },
     {
@@ -38450,7 +39223,8 @@
     {
       "first_field_hash": "55ca640ccec33a01e9d14099639b0961216b712c1f0c422ffb672acb936a5db9",
       "tags": [
-        "JerryShen_AnKing_Tags::Neurobiology::Exam-3::Tutorial-7-Affective-and-Cognitive-Systems"
+        "JerryShen_AnKing_Tags::Neurobiology::Exam-3::Tutorial-7-Affective-and-Cognitive-Systems",
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::10-Neuroendocrinology"
       ]
     },
     {
@@ -39868,6 +40642,18 @@
       ]
     },
     {
+      "first_field_hash": "c02c435c786d4c4c02cf94eca455a4636e44cde674345a8157ba34f6bfd1681a",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::01-Intro-to-GI-Physiology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "49200ae0484bd2330db88c68f0794c6bab75549d9d74d255e5cc5ab7e0336ec8",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::01-Intro-to-GI-Physiology"
+      ]
+    },
+    {
       "first_field_hash": "2432ba081f224ac0b16e4140ff615405883e97a3f3eae1e61e49961c9184db41",
       "tags": [
         "JerryShen_AnKing_Tags::POM-3::Psychiatry::Psychiatric-Interview"
@@ -40124,6 +40910,12 @@
       "first_field_hash": "e3be1a66c9cafe12c1c19dcf00e0729eec630b399e28f2a52673305080ea4dd7",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Renal-Block::12-Calcium-Magnesium-&-Phosphate-Regulation"
+      ]
+    },
+    {
+      "first_field_hash": "e1723f81e7fd04d124143e880c288b300aa0df4550f3830ba1ca028ae0f3ede4",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::02-Hormone-Replacement-&-Suppression-Therapy::Class-Content"
       ]
     },
     {
@@ -40752,7 +41544,14 @@
     {
       "first_field_hash": "2dc6fd0106d62745dd9a7f69f45a3c01964d109d598ecba9f050cfdde8bbad7a",
       "tags": [
-        "JerryShen_AnKing_Tags::Neurobiology::Exam-2::Tutorial-3-Brainstem"
+        "JerryShen_AnKing_Tags::Neurobiology::Exam-2::Tutorial-3-Brainstem",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::01-Intro-to-GI-Physiology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "da4349f2fe5cedaddc56ec5d2617e680ccc1a005bbc07d6af1cb59e9d172df3c",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::01-Intro-to-GI-Physiology::Class-Content"
       ]
     },
     {
@@ -41055,6 +41854,12 @@
       "first_field_hash": "e36f42c26f1b1b13071f5bc61d1d71571c2ebfeed00bead65d88d024f0fc1238",
       "tags": [
         "JerryShen_AnKing_Tags::Immunology::Final::B-cells::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "bd78f1ddcb858daa7a908a639f6f591604ef717fbe0919cf3a372b0732283536",
+      "tags": [
+        "JerryShen_AnKing_Tags::Immunology::Final::B-cells"
       ]
     },
     {
@@ -43909,7 +44714,8 @@
     {
       "first_field_hash": "4ee57e58051f1922997a99405580aab21a0be434d1b359bfec92703b4c39aea8",
       "tags": [
-        "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-2-Upper-Limb::Histology::Class-Content"
+        "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-2-Upper-Limb::Histology::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::01-Intro-to-GI-Physiology::Class-Content"
       ]
     },
     {
@@ -43970,6 +44776,12 @@
       "first_field_hash": "85b2d5f6bc353db12259391c37f9855bdc7b0b7ecf76fab79b8491a78386c914",
       "tags": [
         "JerryShen_AnKing_Tags::Immunology::Final::Hypersensitivity-and-Allergy"
+      ]
+    },
+    {
+      "first_field_hash": "cfe322df1bc180355157afdedf48845c7959e3b449c99b7a8311b0e33c4cb064",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::01-Testicular-Physiology"
       ]
     },
     {
@@ -44915,15 +45727,17 @@
       ]
     },
     {
-      "first_field_hash": "daade31e55602181690f0684c9d2299fb5b74f9328d34d59c44e480b75ae35ed",
+      "first_field_hash": "86f28ba7397cd146578f02a21d0157d0f545b81703cf41d5fafa797c6f197174",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::10-Neuroendocrinology"
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::10-Neuroendocrinology",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::02-Hormone-Replacement-&-Suppression-Therapy::Class-Content"
       ]
     },
     {
-      "first_field_hash": "1cff0144804873a6ad77d50738031dfb2a7d7273e4cd1eedc19ca969299ba9e4",
+      "first_field_hash": "4c1c3ebad644019c8a0e30cd55d4046927e979242b7c13a6d6ce4d5b693b4233",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::10-Neuroendocrinology::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::10-Neuroendocrinology::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::02-Hormone-Replacement-&-Suppression-Therapy::Class-Content"
       ]
     },
     {
@@ -44931,6 +45745,18 @@
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::10-Neuroendocrinology",
         "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::10-Neuroendocrinology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "8d6d92145d68d8090223565930b4214c80ac75134211742de8859b4808428c3c",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::02-Hormone-Replacement-&-Suppression-Therapy"
+      ]
+    },
+    {
+      "first_field_hash": "d9d5eb2881d7ce0813ae9ef71991e269a0fc0756551c10234c4eac012af23780",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::02-Hormone-Replacement-&-Suppression-Therapy"
       ]
     },
     {
@@ -44950,6 +45776,43 @@
       "first_field_hash": "77cc37922f8d9ed36538a2576d56ffbbac3f3ab076fcd378f760d987a3844e46",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::15-Bone-Pathophysiology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "a608cc455f5477d171e5a1cbd64753b30bfa67a8d0a24355374425cc7eae3790",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::02-Hormone-Replacement-&-Suppression-Therapy::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "7e04ecdbdc9c5e4e3a145ed929688d237fe4addeb380a58b0577e09312df3e07",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::02-Hormone-Replacement-&-Suppression-Therapy"
+      ]
+    },
+    {
+      "first_field_hash": "60c553f6c201e1b99844c4db61920c18718ba7464b88ff128ff4d99a9c21533d",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::01-Testicular-Physiology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "56d89c9d85826fe22d2b095af00dda7196ed9a28cca5df821351a2911ece0074",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::01-Testicular-Physiology",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::01-Testicular-Physiology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "4a010d19362ae1236d3eb0b05ab81a80a2e3ddddeab47fd423edc714df0b2b02",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::02-Hormone-Replacement-&-Suppression-Therapy"
+      ]
+    },
+    {
+      "first_field_hash": "283dab62bf2dc4a5c9929490d8d018b6cb40c72e06e37b6c72e7f4ad13103d2a",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::01-Testicular-Physiology::Class-Content"
       ]
     },
     {
@@ -45141,6 +46004,30 @@
       ]
     },
     {
+      "first_field_hash": "a1893d48d46b8e7332b8c8d973759a720487cb67731edec36e9f376bef8b75af",
+      "tags": [
+        "JerryShen_AnKing_Tags::Biochemistry::Final::02-Oxidative-Phosphorylation"
+      ]
+    },
+    {
+      "first_field_hash": "b22940224d350c594d37e33341f22cf34dc0fecc70999d7104e241ffffcf9b78",
+      "tags": [
+        "JerryShen_AnKing_Tags::Biochemistry::Final::02-Oxidative-Phosphorylation"
+      ]
+    },
+    {
+      "first_field_hash": "7e590112c47e5f543ffcc20cc5cc6ba35c6ac27a1e959ace62b3910b1a50696c",
+      "tags": [
+        "JerryShen_AnKing_Tags::Biochemistry::Final::02-Oxidative-Phosphorylation"
+      ]
+    },
+    {
+      "first_field_hash": "c737c2f2b027539beb765025571f946e75916bddc7467eec5b5411173656c58b",
+      "tags": [
+        "JerryShen_AnKing_Tags::Biochemistry::Final::02-Oxidative-Phosphorylation"
+      ]
+    },
+    {
       "first_field_hash": "9d7dc6780ff7efd3bc68924d8dd90beb6bb23c8903e5874ebc9684d96eacd87c",
       "tags": [
         "JerryShen_AnKing_Tags::Biochemistry::Final::02-Oxidative-Phosphorylation::Class-Content"
@@ -45154,6 +46041,12 @@
     },
     {
       "first_field_hash": "c3af92b6073bcbd0cdf23988d74a98da9aa4ec1438403dac28a8cea94461b8a2",
+      "tags": [
+        "JerryShen_AnKing_Tags::Biochemistry::Final::02-Oxidative-Phosphorylation"
+      ]
+    },
+    {
+      "first_field_hash": "9c85cb48a012b784eaf5f6ddb5e38fa94d7ac296481aff51ca03d1f667b1ee46",
       "tags": [
         "JerryShen_AnKing_Tags::Biochemistry::Final::02-Oxidative-Phosphorylation"
       ]
@@ -46492,6 +47385,12 @@
       ]
     },
     {
+      "first_field_hash": "2bb17b486ba212bfa541a5d8d0a62129b59b7e350c170e995d6e6b05ec18236f",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::23-End-Stage-Renal-Disease"
+      ]
+    },
+    {
       "first_field_hash": "5a9d07835530e2270d718a782dde651f0d426eda09f6aa1c53fe6e7271211c12",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::14-Lung-Pharmacology"
@@ -46673,6 +47572,18 @@
       ]
     },
     {
+      "first_field_hash": "85b0bc9229043147d18a2c3309a1513d819e272846a02bb30dfbfb8f0b0d47a3",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::27-Lung-Cancer"
+      ]
+    },
+    {
+      "first_field_hash": "4672c7ccfbb300f9d999df661148ba9dc7310dd52116bdcb7547e9b35e2f77b8",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::27-Lung-Cancer"
+      ]
+    },
+    {
       "first_field_hash": "e2b25cef32bc39ddae943749f3612e101cffffd2bc9de64ac01394360a4d9966",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Renal-Block::15-Renal-&-Bladder-Tumor-Pathology::Class-Content"
@@ -46739,7 +47650,7 @@
       ]
     },
     {
-      "first_field_hash": "a6305de9d3bce480c3cd30f0e86b2c1dd9061694f21c6a615880c4f75fabed8f",
+      "first_field_hash": "f685baf6c21b3b7634129f6f1e945b7b862008804bcd4543a2020bbe13464c97",
       "tags": [
         "JerryShen_AnKing_Tags::Cancer-Biology::Final::05-Cancer-Genes-&-Pathways"
       ]
@@ -46800,7 +47711,7 @@
       ]
     },
     {
-      "first_field_hash": "c26beda0012527af5f59bce9d25ad8298ef1496e7e98d81addaecde682915fcc",
+      "first_field_hash": "ce886e582cfd6fd2ffd456dc71fc65b3266d771ee92f91c0c88e47d3e9b6e5be",
       "tags": [
         "JerryShen_AnKing_Tags::Cancer-Biology::Final::05-Cancer-Genes-&-Pathways"
       ]
@@ -46907,13 +47818,13 @@
       ]
     },
     {
-      "first_field_hash": "ddb4b678a6210d8dea8e31b06b73226022f9bde6afdc126fc89f3d6d0a5a2a33",
+      "first_field_hash": "c7ed6206b273d9e53a517f6f4a86ea7d91dc2628af6f3d9d2b6a1384e3b73646",
       "tags": [
         "JerryShen_AnKing_Tags::Cancer-Biology::Final::06-Role-of-Pathology-in-Cancer-Diagnosis::Class-Content"
       ]
     },
     {
-      "first_field_hash": "3de61f3e85a7200df02fbfb8c7fc7ab9d6b5d99575ace6285c7fb1eb6b61cd1f",
+      "first_field_hash": "87dba94e921ea6ec6c6573180084b6107ff346621e4be0d1f5b146109e269ffd",
       "tags": [
         "JerryShen_AnKing_Tags::Cancer-Biology::Final::06-Role-of-Pathology-in-Cancer-Diagnosis::Class-Content"
       ]
@@ -47260,6 +48171,12 @@
       ]
     },
     {
+      "first_field_hash": "f3f250fe891ff59a040fc89c9fd02e973adb3fc5c1a565d376ca128e7bc8d735",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::21-Pathology-of-ILD"
+      ]
+    },
+    {
       "first_field_hash": "915dc893bcb9cca32dcfa18f258b3b28563998087198b583f5ff425f888f6a36",
       "tags": [
         "JerryShen_AnKing_Tags::POM-3::Clinical-Reasoning::Advanced-Pulmonary-Exam",
@@ -47524,6 +48441,18 @@
       ]
     },
     {
+      "first_field_hash": "3e71204b1a63ccff93c13034a073d1037fa6460f650e78f547e0f8d207fc8cd5",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::22-CKD-Complications-&-Treatment"
+      ]
+    },
+    {
+      "first_field_hash": "4c0221ee1df996d0611feb194a3d7493427363b48e0ac8959263b1c600df3a8c",
+      "tags": [
+        "JerryShen_AnKing_Tags::POM-4::Clinical-Reasoning::Approach-to-AKI"
+      ]
+    },
+    {
       "first_field_hash": "23b8348f34e062750982dda6e488eb7ff3fa55184437a0e3d18cbaca5ceac1f0",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Renal-Block::20-Nephritic-Syndrome"
@@ -47661,6 +48590,12 @@
       "first_field_hash": "2fd0ce1d38151f9fe546b201f45fa8e3431198c0fac239f3de5082542fb1ac76",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Renal-Block::10-Potassium-Balance::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "10ed0cc30ce13d7a1fa9bf41e11e7a91788e81a8a45dbec2e618323165e8db98",
+      "tags": [
+        "JerryShen_AnKing_Tags::POM-4::Clinical-Reasoning::Approach-to-Polyuria"
       ]
     },
     {
@@ -47886,6 +48821,12 @@
       ]
     },
     {
+      "first_field_hash": "ce1ad3fea076f6219a5a45b11e69b671520582a03f47ce865a3ebae73d30eb4a",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::04-Sodium-Balance"
+      ]
+    },
+    {
       "first_field_hash": "0f071cb89dbca543eabcaf7628195145357263ab95a21bae9fbd570e3dc6df0b",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Renal-Block::16-Acute-Kidney-Injury::Class-Content"
@@ -48074,6 +49015,12 @@
       "first_field_hash": "6f5bba36cad5563bfa2861f2e05dea446d3ffac22b789c5ba1ca38e2247b0b99",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Renal-Block::11-Potassium-Disorders"
+      ]
+    },
+    {
+      "first_field_hash": "97428e3871ec817b20ac9ebefbe53abc84b534b715296f5d8cde00b0cebd1b49",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::05-Water-Balance::Class-Content"
       ]
     },
     {
@@ -48786,6 +49733,12 @@
       "first_field_hash": "8ad0b90da551304bb8cd8c52557408207efd47f57c06ff16eaea24d0e825b1d1",
       "tags": [
         "JerryShen_AnKing_Tags::POM-3::Clinical-Reasoning::Approach-to-Cough::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "65047660d8ce38d47490147d9e1ae20004531c105e265f26f9d7e67b14e432b3",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::23-End-Stage-Renal-Disease"
       ]
     },
     {
@@ -50448,6 +51401,12 @@
       "first_field_hash": "307645f72af5fc5a1e38a4966cd8ff07c448acebd015f6078129b48375959f53",
       "tags": [
         "JerryShen_AnKing_Tags::POM-4::Clinical-Reasoning::Shortness-of-Breath-(Hyperthyroidism)::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "09ee55529bde404db713aef1bf3b31a7383b465c056b515fb8eaa58680885c00",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::01-Intro-to-GI-Physiology"
       ]
     },
     {
@@ -52148,6 +53107,12 @@
       ]
     },
     {
+      "first_field_hash": "58a795c473996203b71ad7229a092c1991ce5edc1162c6e5263096e3a9c54d40",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::01-Testicular-Physiology"
+      ]
+    },
+    {
       "first_field_hash": "d266d22acbc67717cd3144aac2ef36210b1712327aae6c8df2fff9216b03ad1e",
       "tags": [
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-2::07-β-Lactam-Antibiotics-&-Parasites::Class-Content"
@@ -53325,6 +54290,12 @@
       "first_field_hash": "9ebc8f9825c395f64d54696c0e05a325d97baff5f5423d98754f7fa291e5a804",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Renal-Block::17-Urinary-Tract-Infections"
+      ]
+    },
+    {
+      "first_field_hash": "d8764242314c836357239779768ec5d2927f01a8d459342cc24cd2a955879cda",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::02-Hormone-Replacement-&-Suppression-Therapy"
       ]
     },
     {
@@ -55551,6 +56522,18 @@
       ]
     },
     {
+      "first_field_hash": "0b428a647aca708f8881ea565ab4f2b1e9dc5c9285018458a82a79b4bb2dd91e",
+      "tags": [
+        "JerryShen_AnKing_Tags::Biochemistry::Final::02-Oxidative-Phosphorylation"
+      ]
+    },
+    {
+      "first_field_hash": "19e1bc2830299bb02bb26bf8eb0321a4ffc38e853de98ace991642fba7fd0efb",
+      "tags": [
+        "JerryShen_AnKing_Tags::Biochemistry::Final::02-Oxidative-Phosphorylation"
+      ]
+    },
+    {
       "first_field_hash": "e5411ef8082d1a615644b7becb068e07e7fa4cee7444685c95983cef9dd08bf0",
       "tags": [
         "JerryShen_AnKing_Tags::Biochemistry::Final::06-Nucleic-Acid-Metabolism"
@@ -55708,7 +56691,8 @@
     {
       "first_field_hash": "1f756805b28852af5c18e827855b4396612d9929f8397304f96be78b4aa7d0d1",
       "tags": [
-        "JerryShen_AnKing_Tags::Cancer-Biology::Final::Cancer-Pharmacology::Class-Content"
+        "JerryShen_AnKing_Tags::Cancer-Biology::Final::Cancer-Pharmacology::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::01-Testicular-Physiology"
       ]
     },
     {
@@ -55764,6 +56748,12 @@
       "first_field_hash": "9347a014afb036c643c39a9e44d46ddf137bbc22496632f6a2365d404205f0d2",
       "tags": [
         "JerryShen_AnKing_Tags::Cancer-Biology::Final::Cancer-Pharmacology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "2ed3e4205fecdddecb848445dd435f4770625d3833d3b92d2deee8bf235ecbcd",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::01-Testicular-Physiology::Class-Content"
       ]
     },
     {
@@ -60668,7 +61658,8 @@
     {
       "first_field_hash": "4f3d51f007ca0ff4b6224c5770c825516631a49c051f5dbde766aab1890ce9fd",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::10-Neuroendocrinology"
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::10-Neuroendocrinology",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::02-Hormone-Replacement-&-Suppression-Therapy"
       ]
     },
     {
@@ -60805,6 +61796,12 @@
       ]
     },
     {
+      "first_field_hash": "317b301add7c4394da3dfaf4bf40460ed46d76bd64cfe0a84215bc5bf227735c",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::27-Lung-Cancer"
+      ]
+    },
+    {
       "first_field_hash": "0e462b5fdc4af252140d71c247efdc94bf9eb9bbd37c66bb731cea470c9a8361",
       "tags": [
         "JerryShen_AnKing_Tags::Immunology::Final::Fetal-Immunity"
@@ -60821,6 +61818,13 @@
       "first_field_hash": "0472bb7cf7c2ae761e476997ec05298596a5ee9d94c8a2dcce529e946e8d3dcf",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Renal-Block::15-Renal-&-Bladder-Tumor-Pathology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "a6aa367b6a4389afbb7877c9948045c062377bcc11d98df3b9dc3e3dbda1a7cf",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::21-Pathology-of-ILD",
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::27-Lung-Cancer"
       ]
     },
     {
@@ -61068,7 +62072,7 @@
       ]
     },
     {
-      "first_field_hash": "0dd17377e0d0dd59028f11b864c71dccf01af8073a1e08dcbba5fce997b781db",
+      "first_field_hash": "d37898c32c10c82be7053a9230dd6365e89dcf72a4363f8ae9e1d586524ff018",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::Tutorial-1-Bone::Class-Content"
       ]
@@ -61098,7 +62102,7 @@
       ]
     },
     {
-      "first_field_hash": "486b9ead8ec46dbea1b60bcdac98058dde15b4f439a90cfffb17c6ed5e0a0110",
+      "first_field_hash": "bc67bf9ca74b43e2f9c72a58562b5ff9fa6b651913db2fca1fb81f6312c04696",
       "tags": [
         "JerryShen_AnKing_Tags::Cancer-Biology::Final::06-Role-of-Pathology-in-Cancer-Diagnosis"
       ]
@@ -61178,7 +62182,7 @@
       ]
     },
     {
-      "first_field_hash": "1272276548ac9a6df571354be2b58899ff3119893a7dc3e7f1d92187c0af42ae",
+      "first_field_hash": "43e8af1c76958270ffa6efaf3ffcfae1d85a9841d986f05c4f1bec4e06747fbf",
       "tags": [
         "JerryShen_AnKing_Tags::Cancer-Biology::Final::Lab-02-Cancer-Tumor-Board::Class-Content",
         "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::27-Lung-Cancer::Class-Content"
@@ -61311,7 +62315,8 @@
     {
       "first_field_hash": "d70bcce1c2d9ff02713ac6b44bf6b1f8a064d1d8df77ee21864d3e4372398cc1",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::10-Neuroendocrinology"
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::10-Neuroendocrinology",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::02-Hormone-Replacement-&-Suppression-Therapy"
       ]
     },
     {
@@ -61729,6 +62734,12 @@
       ]
     },
     {
+      "first_field_hash": "5ae7b50ca3f10238a5f2892d9324ef725b3a655ca6216beb71df68ff8861d242",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::01-Intro-to-GI-Physiology"
+      ]
+    },
+    {
       "first_field_hash": "b6256cd685a0eb201eb0668ceb42c6f74c3a8c3c650465877cfdd580734bd86e",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::09-Endocrinology-of-Growth::Class-Content"
@@ -61787,6 +62798,12 @@
       "first_field_hash": "e68870aa4ab542590452fa8347f555b1cb4a8242b5697f6812c6d20a20cb7fe1",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Renal-Block::18-Kidney-Stones"
+      ]
+    },
+    {
+      "first_field_hash": "b2f2b73550131aa0c2615a8fbd544d36ab0e73f492ffebfc3f10cf943c78063f",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::02-Hormone-Replacement-&-Suppression-Therapy::Class-Content"
       ]
     },
     {
@@ -62745,6 +63762,12 @@
       ]
     },
     {
+      "first_field_hash": "10576cec946413fb5329ed8960bf7db0df3d270a0196d831309b98364263e3bd",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::01-Testicular-Physiology"
+      ]
+    },
+    {
       "first_field_hash": "6cc44422450674f72b2d1ac797d337864fe5156643a6bc2bbda712a81d2fe1d2",
       "tags": [
         "JerryShen_AnKing_Tags::Molecular-Foundations-&-Genetics::01-Molecular-Foundations::02-DNA-Replication-and-Repair"
@@ -62761,6 +63784,12 @@
       "first_field_hash": "35775d3a904e603fcfb202cf1424c92767828221aaa1c14887af07f1134c28c3",
       "tags": [
         "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-2-Upper-Limb::Anatomy"
+      ]
+    },
+    {
+      "first_field_hash": "d2a8b1ceedb6a3f9bcb584ee4ba874abd052eb4d034a8c0d5dc1e57c29ec1c6f",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::27-Lung-Cancer"
       ]
     },
     {
@@ -62903,6 +63932,12 @@
       ]
     },
     {
+      "first_field_hash": "5031d744e2c5b948cd9d651c728bfaf2ff2995eae313e120bca4aec3925d7618",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::01-Testicular-Physiology"
+      ]
+    },
+    {
       "first_field_hash": "dcd3e5e4bc5c0ebbd34e328d660aabe825964d89bce14a0df8dbae698cbb1943",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Renal-Block::16-Acute-Kidney-Injury"
@@ -63018,6 +64053,12 @@
       "first_field_hash": "bdec2700a0e72555a27d264c833e65637b7532a7774a47c50480ffd3aa673fc1",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::08-Pulmonary-Mechanics"
+      ]
+    },
+    {
+      "first_field_hash": "8542e309b837b66d9fdb76fe2b98909eb9ab1dd57b25dc1a8cea8d2046d43332",
+      "tags": [
+        "JerryShen_AnKing_Tags::POM-1::Final::Clinical-Skills::Class-Content"
       ]
     },
     {
@@ -63445,6 +64486,18 @@
       ]
     },
     {
+      "first_field_hash": "2103e9502c96813181cd1de1079371469ebfbc6ff9e72a594e2bf1c43845d1b3",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::12-Pathology-of-Asthma-and-COPD"
+      ]
+    },
+    {
+      "first_field_hash": "be697f79fda274a8624f472cbc3eb35b234943e8b5226c2faf6dbfe67e9a31f7",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::12-Pathology-of-Asthma-and-COPD"
+      ]
+    },
+    {
       "first_field_hash": "788da033760829944fd753a452596f1c690379ac63d12fddfa38c1e94fbea50c",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::03-Ventilation-and-Diffusion",
@@ -63480,6 +64533,12 @@
       "first_field_hash": "9fbaa0cb4294b60c93210813fe6807efbb21ee6d18fdf27a1a92ed31b94a7f2b",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::07-Pulmonary-Function-Testing"
+      ]
+    },
+    {
+      "first_field_hash": "d18f797f77daf41ec5bad9dbea6bbbde38c16237fa7bb925931b444223be9363",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::21-Pathology-of-ILD"
       ]
     },
     {
@@ -63553,6 +64612,18 @@
       "first_field_hash": "4b92cd18657f31375180ef95ab343d21f1bb67403c96c968585080fde4f574b4",
       "tags": [
         "JerryShen_AnKing_Tags::POM-3::Psychiatry::Mood-Disorders"
+      ]
+    },
+    {
+      "first_field_hash": "49425d3207df61fea9315dcbe66ab5a47afb6170835fe3c7b427b2320567c586",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::01-Testicular-Physiology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "50507967a8b03bf581ac03b6ad6909998fd8c3f740cf9431e3006ba88ff56258",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::01-Testicular-Physiology"
       ]
     },
     {
@@ -63756,7 +64827,8 @@
     {
       "first_field_hash": "d7b74c62aad3154ef7a3b899adadb2a6aac920603cc09ddc1b3e23c4aa5723ed",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::10-Neuroendocrinology"
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::10-Neuroendocrinology",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::02-Hormone-Replacement-&-Suppression-Therapy"
       ]
     },
     {
@@ -64068,7 +65140,7 @@
       ]
     },
     {
-      "first_field_hash": "0bd6a8e905cde9e465a40c6eb893be1a441026198338109d526a85a31bc68f79",
+      "first_field_hash": "3d5d14d4110d49eaf6931bc477ad2afeed6194ba9ca0936b560aa95a3152483e",
       "tags": [
         "JerryShen_AnKing_Tags::Molecular-Foundations-&-Genetics::02-Genetics::08.4-Cancer-Genetics::Class-Content"
       ]
@@ -65128,6 +66200,12 @@
       ]
     },
     {
+      "first_field_hash": "033aebc6ae6df60ce9727aa47e046247f14366a232db98752c74ae0955deb1ad",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::23-End-Stage-Renal-Disease"
+      ]
+    },
+    {
       "first_field_hash": "3f6cfddab609939042cb6c97469f753a165e5fd08cd187251cb01620de568c6b",
       "tags": [
         "JerryShen_AnKing_Tags::POM-2::Final::Nutrition"
@@ -65154,9 +66232,28 @@
       ]
     },
     {
+      "first_field_hash": "2c6261467f7d08db809ba73b8478c3b7dcf07d1abeed7b52681a108243c7d659",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::02-Hormone-Replacement-&-Suppression-Therapy::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "089f1382208d365d2c852ee6892e3c590ff3535a7066a334d70b6e95d4dafa3c",
       "tags": [
         "JerryShen_AnKing_Tags::Cancer-Biology::Final::Cancer-Screening"
+      ]
+    },
+    {
+      "first_field_hash": "a3965ec3075adb99e148fed578b8d2b33cc7311bddb0cc25a49cdadcf3740865",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::02-Hormone-Replacement-&-Suppression-Therapy"
+      ]
+    },
+    {
+      "first_field_hash": "24e022a532939f2ae1591720e80648bc288accdc19f29c2949d0494b43be31f0",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::02-Hormone-Replacement-&-Suppression-Therapy",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::02-Hormone-Replacement-&-Suppression-Therapy::Class-Content"
       ]
     },
     {
@@ -65212,6 +66309,18 @@
       "first_field_hash": "f71861ac95695bc9764118097c9bbdbede88524348972b5463269330768e440b",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::19-ARDS-&-Ventilators"
+      ]
+    },
+    {
+      "first_field_hash": "ac4cb13afd9847ecf518d4e28b73173aec1d106cc320d77a66b62d04de292b6d",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::01-Intro-to-GI-Physiology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "39c76760bbf6db235822d4711d154686c6a1d627f153d2abc243ca3e321dd9eb",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::01-Intro-to-GI-Physiology::Class-Content"
       ]
     },
     {
@@ -65305,7 +66414,7 @@
       ]
     },
     {
-      "first_field_hash": "857d049f00626d43c2713a8066374b720cd483f9244dea95b4941369cc0356c9",
+      "first_field_hash": "539ff44432703aaaa8ba042dd7f1c3a158a1b3f8c7ec6a3771a66bb8deedc9d0",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::07-Pulmonary-Function-Testing"
       ]
@@ -65476,6 +66585,12 @@
       "first_field_hash": "28aad172b28e8fe7753fc6c57271b8d5ccfeb88f78b71c22017ad78427676c7e",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::16-Thyroid-Physiology-&-Pathophysiology"
+      ]
+    },
+    {
+      "first_field_hash": "e20df1ea2acb52c804a383bd8f185bacd7818db57467c147f88280c5a652e06a",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::01-Intro-to-GI-Physiology"
       ]
     },
     {
@@ -65979,6 +67094,12 @@
       "first_field_hash": "398a56ac63498283e491d26223a4ccbfaab71dcc26088e147049beaf42316027",
       "tags": [
         "JerryShen_AnKing_Tags::POM-3::Psychiatry::Mood-Disorders"
+      ]
+    },
+    {
+      "first_field_hash": "db54566699fa039aa0f88ebecb5f17542620976ced6745f4caf436fc93566e4d",
+      "tags": [
+        "JerryShen_AnKing_Tags::Biochemistry::Final::02-Oxidative-Phosphorylation"
       ]
     },
     {
@@ -66640,6 +67761,12 @@
       ]
     },
     {
+      "first_field_hash": "fc488a1e9dfb758d15a9548d69ee18bc326ead7c3f4dd52aeac4dfe9daac2153",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::01-Testicular-Physiology"
+      ]
+    },
+    {
       "first_field_hash": "ea8f6d5bde49394400d685dd6e1bbb4f4e0f0aa64810632f64bed151895a0557",
       "tags": [
         "JerryShen_AnKing_Tags::Molecular-Foundations-&-Genetics::02-Genetics::03-Chromosomes",
@@ -66649,7 +67776,8 @@
     {
       "first_field_hash": "6b31c9c186e08408fa473b15843641c8fb7c1914b2cb36606b923e3b30ba1326",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::10-Neuroendocrinology"
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::10-Neuroendocrinology",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::02-Hormone-Replacement-&-Suppression-Therapy::Class-Content"
       ]
     },
     {
@@ -67218,6 +68346,13 @@
       "tags": [
         "JerryShen_AnKing_Tags::POM-3::Clinical-Reasoning::Advanced-Pulmonary-Exam",
         "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::14-Lung-Pharmacology"
+      ]
+    },
+    {
+      "first_field_hash": "85f0e57f27e685d3e7f317414f56c235f8c6779b02782b4f87b4af396bc05697",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::07-Pulmonary-Function-Testing::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::12-Pathology-of-Asthma-and-COPD::Class-Content"
       ]
     },
     {
@@ -68487,6 +69622,12 @@
       ]
     },
     {
+      "first_field_hash": "eb4e5d0d53b53f0bfa15dce2bc05cd5366264c2b8e87ebf1aadddb3e24dc4c73",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::12-Pathology-of-Asthma-and-COPD"
+      ]
+    },
+    {
       "first_field_hash": "6d5f28cb118a73b764729ce899e745ed4951ccdacafbc98a9944caed4c178ba9",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::27-The-Abnormal-ECG-Ischemia-&-Infarction::Class-Content"
@@ -68774,6 +69915,13 @@
       ]
     },
     {
+      "first_field_hash": "32e958a2e98b800c4354bf0fd4ac5f93c9d3d096219df507d2a374a0ac8e18bb",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::07-Pulmonary-Function-Testing",
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::12-Pathology-of-Asthma-and-COPD"
+      ]
+    },
+    {
       "first_field_hash": "f5bf8bd0ed7b698efeb1a14dbcd8aacc80e66134518f8cd6f679435a176c59d6",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::12-Pathology-of-Asthma-and-COPD"
@@ -68783,6 +69931,12 @@
       "first_field_hash": "decbe85edfa621153ed017917554deaa7d327d58cdccf0a5e11c7f48b91ddd0b",
       "tags": [
         "JerryShen_AnKing_Tags::POM-3::Clinical-Reasoning::Approach-to-Chronic-Dyspnea"
+      ]
+    },
+    {
+      "first_field_hash": "0e140b8689bfc923da7d23c86f09932f3f9c94b8d89966edfb93a66da8c1f42f",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::12-Pathology-of-Asthma-and-COPD"
       ]
     },
     {
@@ -69059,6 +70213,12 @@
       ]
     },
     {
+      "first_field_hash": "737727fbcf1008766b3fe52cc92f99d0a0260966c2666eb503090137dad81966",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::12-Pathology-of-Asthma-and-COPD"
+      ]
+    },
+    {
       "first_field_hash": "39c3ad9d5e9a7f24af7a11b16e4ae016165defa9583899ad041d2b0e4a71f115",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Renal-Block::13-Urinalysis",
@@ -69233,6 +70393,12 @@
       "first_field_hash": "2ad20f2bb57046d4606ffe8bcc082c9f8dff6e35faafc9a4a7047746b7fe3711",
       "tags": [
         "JerryShen_AnKing_Tags::Immunology::Final::Immune-Deficiencies::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "063f5cc0b7ce3468d05a11c36ba8e92815df4208f25df0ac938c354a6868cb07",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::01-Testicular-Physiology::Class-Content"
       ]
     },
     {
@@ -69910,6 +71076,12 @@
       ]
     },
     {
+      "first_field_hash": "383b877b51a009e83864e1443adb56cfafec58023ace99265b139b281ac3d73a",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::17-Urinary-Tract-Infections"
+      ]
+    },
+    {
       "first_field_hash": "85adddaadf01749adff1a92a12884c702e15e91b719b5c5f8ff78c61918230c2",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::14-Bone-Physiology::Class-Content",
@@ -70185,6 +71357,12 @@
       ]
     },
     {
+      "first_field_hash": "4e3f15acf71a09dbaeb81aa372739fc9356667a17fe5232b795339d0d909b71c",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::02-Hormone-Replacement-&-Suppression-Therapy::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "55763afcf49bc0f6e6f3f91f4baf3cee89887453a57e9414885afb1848c55b73",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::11-GH-IGF1-&-Prolactin"
@@ -70390,7 +71568,7 @@
       ]
     },
     {
-      "first_field_hash": "61b70288e693095fab12ddcc66f433c20972d0694070c9e3e3cbc1e972dbf16d",
+      "first_field_hash": "7c1c290cb1fced7606704dfbad259868d1db79735ccbb5280460985e89a6f4dc",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::25-Pulmonary-Hypertension",
         "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::25-Pulmonary-Hypertension::Class-Content"
@@ -70583,6 +71761,12 @@
       ]
     },
     {
+      "first_field_hash": "aa48643e17d46f5a078b7a8d9e9ba5be41181b79d28e894fb0c48ab1950f04d8",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::01-Intro-to-GI-Physiology"
+      ]
+    },
+    {
       "first_field_hash": "c7acdcf5b2e6c9a3ed4860edc958b16cea8aa288228baf2d8b712666bd6d844a",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Renal-Block::18-Kidney-Stones::Class-Content"
@@ -70665,6 +71849,12 @@
       "first_field_hash": "dde81923de8efcda05d3b58a43b6290536a8ac940bb13445c49ed5c65177dab7",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::20-Interstitial-Lung-Disease"
+      ]
+    },
+    {
+      "first_field_hash": "015ea44c814e8c9e519973ddec274524b48afe6973324b37168fe902a5fba5b3",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::23-End-Stage-Renal-Disease"
       ]
     },
     {
@@ -70923,6 +72113,12 @@
       ]
     },
     {
+      "first_field_hash": "df637b6881657727e19fdfc9562423815b5c67137dcf45df3ac33f03f7128dd3",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::01-Intro-to-GI-Physiology::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "4205d6135a78093ca01a4e438936026d140c4d8e4729a43534749e68832f3892",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Renal-Block::24-Genetic-Kidney-Diseases::Class-Content"
@@ -71030,7 +72226,8 @@
     {
       "first_field_hash": "2fc56eb657506bc65cdb115dbd9ef1ba8576a581c26fd868d2d18b2f3cb21178",
       "tags": [
-        "JerryShen_AnKing_Tags::POM-4::Clinical-Reasoning::Approach-to-AKI::Class-Content"
+        "JerryShen_AnKing_Tags::POM-4::Clinical-Reasoning::Approach-to-AKI::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::21-Chronic-Kidney-Disease::Class-Content"
       ]
     },
     {
@@ -71380,6 +72577,12 @@
       "first_field_hash": "d6c9f37deaeed54c2bc4e1d6d16790a7b9bd4161a1613afb975ec8ba96a1cd6a",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::14-Bone-Physiology"
+      ]
+    },
+    {
+      "first_field_hash": "8afa1a60d6e7897f4719f82da69762702e33076ca22c74cd800a7e62ba6d0937",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::01-Testicular-Physiology"
       ]
     },
     {
@@ -71750,6 +72953,12 @@
       ]
     },
     {
+      "first_field_hash": "d474b63bcac8816cf8032a52ae98ac908bccb4ac5b001569fe2de115477f7fb6",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::17-Urinary-Tract-Infections"
+      ]
+    },
+    {
       "first_field_hash": "8298edbef3207f238668efe1f5c6a4ddeaae1ac792c0ab3385861a36740dd52b",
       "tags": [
         "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-7-Head-&-Neck-2::Embryology",
@@ -71779,6 +72988,12 @@
       "first_field_hash": "c1344cc5be8b29efcf3df90b83bb61c1a53434f1f55c686e7f516d1040b56e5e",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::13-Obesity"
+      ]
+    },
+    {
+      "first_field_hash": "6876471b6a7d7236bd8332665d3a6d4ca799910e3e97595986861bdb7b50d139",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::01-Testicular-Physiology"
       ]
     },
     {
@@ -71864,6 +73079,13 @@
       ]
     },
     {
+      "first_field_hash": "7892dec3dbc626eb73dbe5f00332693d1f86670ba5f9a30850c13e066fee7ed2",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::02-Hormone-Replacement-&-Suppression-Therapy",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::02-Hormone-Replacement-&-Suppression-Therapy::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "391bffc9255041495a6a78cd8d24afe8a9463cadea821851ff86753e18faa31e",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::13-Obesity::Class-Content"
@@ -71885,6 +73107,12 @@
       "first_field_hash": "46c292290913b0625d329deee08701975b9d814cfcff3f38b5357e26b6639559",
       "tags": [
         "JerryShen_AnKing_Tags::Immunology::Final::Complement"
+      ]
+    },
+    {
+      "first_field_hash": "a133213028035607494bd8c9a690c9d97618a54c5649b8e90dfc78950f02b023",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::01-Testicular-Physiology"
       ]
     },
     {
@@ -71975,6 +73203,12 @@
       ]
     },
     {
+      "first_field_hash": "3ac7ab2784f8191b79b68427b600c880fc3424b970688f952968745b3fcac544",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::02-Hormone-Replacement-&-Suppression-Therapy::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "a589eb0eeaa1d36a9f9d91eeb97b2107bf87cee6812928d52add08e68d7149c0",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::10-Autonomic-Physiology-and-Pharmacology",
@@ -72025,6 +73259,12 @@
       ]
     },
     {
+      "first_field_hash": "60add38ec79174cdb738dc7770493dd621ef890c4a16be3ee4c91d455dbae9cd",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::01-Testicular-Physiology::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "64f5ac144548164167bc5155cf7acbe52934a2aa7e5c62aab5b5edf6df97ddae",
       "tags": [
         "JerryShen_AnKing_Tags::POM-3::Clinical-Reasoning::Advanced-Pulmonary-Exam"
@@ -72060,6 +73300,12 @@
       "first_field_hash": "8fbc73fe1c84c6d55aca485415b62b7583aa5a261d5465b8f29defa991c829b4",
       "tags": [
         "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-1-Thorax::Embryology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "46fc6a7b60c6bbba7ed9dd1c893d74ffed888f36ee97a6fa9de18080b6218520",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::01-Intro-to-GI-Physiology::Class-Content"
       ]
     },
     {
@@ -73026,6 +74272,12 @@
       "first_field_hash": "e1d494fdbd34dc5d94b25f1b18957ccbf737f98c5ae06b556a85a90375c188ab",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::25-Pulmonary-Hypertension"
+      ]
+    },
+    {
+      "first_field_hash": "b62e3db14569ed6f6f41db19b0ff72957dc4717e071b46460be88f4b9124ab22",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::20-Interstitial-Lung-Disease"
       ]
     },
     {
@@ -74130,7 +75382,7 @@
       ]
     },
     {
-      "first_field_hash": "132aef789881b31d57e85a6cc18035921c227bd8ed102e5e2bf28d7e04e5164b",
+      "first_field_hash": "f9f892cb534a0ca19fce4ebf4a8c5820191b4c5838bd61da0ba58cc6bebceded",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::MSK-Block::08-Pediatric-Orthopaedics"
       ]
@@ -74468,6 +75720,24 @@
       "first_field_hash": "0a60873ba610deee5ca56c75e79f098611e74f2d6235ccb0d678d1b5ac5bcd90",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::09-Endocrinology-of-Growth"
+      ]
+    },
+    {
+      "first_field_hash": "871bc195599a05624575bd6850633dfdeb6ae29467147ebe074acda897e94cc9",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::02-Hormone-Replacement-&-Suppression-Therapy::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "00a0ab85b8e1eb61b5f80776b1250892ac24a04b6107ac2430a20da8b740f767",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::02-Hormone-Replacement-&-Suppression-Therapy"
+      ]
+    },
+    {
+      "first_field_hash": "a012b98a79364f7863e90835908a1139a3f96df0a7263908512909204ba63639",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::10-Neuroendocrinology"
       ]
     },
     {
@@ -75126,7 +76396,7 @@
       ]
     },
     {
-      "first_field_hash": "51f6bae096ebfce17db1d716cdbdfff2bdf962750a85b2fe4b7fa79535d622af",
+      "first_field_hash": "bc0e9683c3dc3ddeb23ec0e53d6f2ff74d8595d7d0bce7a78ad3e0ce21c76b4c",
       "tags": [
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-1::03-C.diff-&-Pseudomonas"
       ]
