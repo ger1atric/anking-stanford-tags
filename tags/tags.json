@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
   "author": "JerryShen",
-  "description": "gi 1012",
-  "created": "2026-10-12T19:15:07.587818+00:00",
-  "updated": "2026-10-12T19:15:07.587818+00:00",
+  "description": "esophagus",
+  "created": "2026-10-13T18:09:50.396815+00:00",
+  "updated": "2026-10-13T18:09:50.396815+00:00",
   "tag_prefix": "JerryShen_AnKing_Tags",
   "tag_hierarchy": [
     "JerryShen_AnKing_Tags",
@@ -282,6 +282,8 @@
     "JerryShen_AnKing_Tags::POM-4::Clinical-Reasoning",
     "JerryShen_AnKing_Tags::POM-4::Clinical-Reasoning::Approach-to-AKI",
     "JerryShen_AnKing_Tags::POM-4::Clinical-Reasoning::Approach-to-AKI::Class-Content",
+    "JerryShen_AnKing_Tags::POM-4::Clinical-Reasoning::Approach-to-Edema",
+    "JerryShen_AnKing_Tags::POM-4::Clinical-Reasoning::Approach-to-Edema::Class-Content",
     "JerryShen_AnKing_Tags::POM-4::Clinical-Reasoning::Approach-to-Palpitations",
     "JerryShen_AnKing_Tags::POM-4::Clinical-Reasoning::Approach-to-Palpitations::Class-Content",
     "JerryShen_AnKing_Tags::POM-4::Clinical-Reasoning::Approach-to-Polyuria",
@@ -516,6 +518,8 @@
     "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::02-GI-Hormones::Class-Content",
     "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::03-Fat-&-Micronutrient-Nutrition",
     "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::03-Fat-&-Micronutrient-Nutrition::Class-Content",
+    "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::04-Salivary-Gland-&-Esophagus",
+    "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::04-Salivary-Gland-&-Esophagus::Class-Content",
     "JerryShen_AnKing_Tags::SOM-2::Renal-Block",
     "JerryShen_AnKing_Tags::SOM-2::Renal-Block::01-Introduction-to-Renal-Physiology",
     "JerryShen_AnKing_Tags::SOM-2::Renal-Block::01-Introduction-to-Renal-Physiology::Class-Content",
@@ -893,6 +897,11 @@
       "date": "2026-10-12T19:15:07.587818+00:00",
       "message": "gi 1012",
       "note_count": 248
+    },
+    {
+      "date": "2026-10-13T18:09:50.396815+00:00",
+      "message": "esophagus",
+      "note_count": 251
     }
   ],
   "notes": [
@@ -1162,14 +1171,16 @@
     {
       "first_field_hash": "efb1597fbfcf5f34c04c053308986789bd37a0eb5d6e20c46dd59306bbeb2a45",
       "tags": [
-        "JerryShen_AnKing_Tags::Micro-Pharm::Exam-2::07-β-Lactam-Antibiotics-&-Parasites::Class-Content"
+        "JerryShen_AnKing_Tags::Micro-Pharm::Exam-2::07-β-Lactam-Antibiotics-&-Parasites::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::04-Salivary-Gland-&-Esophagus::Class-Content"
       ]
     },
     {
       "first_field_hash": "c564ecb92b7eace18b7d3fef58f2bad1e3a5050c59790cd11ed0e71d362f03ab",
       "tags": [
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-2::07-β-Lactam-Antibiotics-&-Parasites::Class-Content",
-        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::11-Pathology-of-Cardiomyopathy-and-Myocarditis::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::11-Pathology-of-Cardiomyopathy-and-Myocarditis::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::04-Salivary-Gland-&-Esophagus::Class-Content"
       ]
     },
     {
@@ -1189,6 +1200,12 @@
       "first_field_hash": "98f539d3aa52da5c07ea7757e32d32974d90caabe2ba355f04f62783625483e1",
       "tags": [
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-2::06-Antivirals::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "e2bd8dd89bb465c05329936427a183d039bf6d882fe6973d3899ebda0322f0fd",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::04-Salivary-Gland-&-Esophagus"
       ]
     },
     {
@@ -1386,6 +1403,12 @@
       "first_field_hash": "cb2d75a6dffbf6c344459e3f024139ef2bc219ec1e9120a2ff95f00fbbf716d4",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::10-Autonomic-Physiology-and-Pharmacology"
+      ]
+    },
+    {
+      "first_field_hash": "591376ee73f40298d3df4165db95ed018998f3404966c29d51e05c47c3467f10",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::04-Salivary-Gland-&-Esophagus::Class-Content"
       ]
     },
     {
@@ -15109,7 +15132,7 @@
       ]
     },
     {
-      "first_field_hash": "a1b4ba1dd2d9259d93c164a15fc2e178d59ef596e44cb444ff7155893563c641",
+      "first_field_hash": "367260d1f4fef27c53212a8b882dd26721c7b818a701715d564d0bb43a25e46d",
       "tags": [
         "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-1-Thorax::Embryology::Class-Content"
       ]
@@ -24526,6 +24549,12 @@
       ]
     },
     {
+      "first_field_hash": "da6f9c6f34b5898c2044ca771bd53c8ac6c0f1daa581a88dd0b9803e90ece663",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::05-Water-Balance"
+      ]
+    },
+    {
       "first_field_hash": "09ce11c3b5b78474b5aea3c46a9b91efacebbb5920cdaacd576bdd46def91487",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Renal-Block::02-Body-Fluid-Compartments"
@@ -32718,6 +32747,12 @@
       ]
     },
     {
+      "first_field_hash": "b04b9f834e630dcb5e42baee8443945cfbbb501373dcd47a9aa8c3bd97cc82c3",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::04-Salivary-Gland-&-Esophagus::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "e88d68946dad26f3900d5e7ac7adf883648cdf4e0ca02e2372f526664f2336fb",
       "tags": [
         "JerryShen_AnKing_Tags::Biochemistry::Final::02-Oxidative-Phosphorylation"
@@ -32765,6 +32800,12 @@
       "tags": [
         "JerryShen_AnKing_Tags::Biochemistry::Final::06-Nucleic-Acid-Metabolism::Class-Content",
         "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::03-Fat-&-Micronutrient-Nutrition::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "149f1b0d56588b1a38efda227beb4e3177c768905bbde7eb13975ef9d8a6a6c8",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::04-Salivary-Gland-&-Esophagus"
       ]
     },
     {
@@ -34926,6 +34967,12 @@
       ]
     },
     {
+      "first_field_hash": "bc6dfbadb4ec9957629652435b1df9b45e68424c40b4a772e3335577a7345fa1",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::04-Salivary-Gland-&-Esophagus"
+      ]
+    },
+    {
       "first_field_hash": "ac45ffbcddbb0d6ec6e27dc100a8a5e393b94b9bdc82f80caa3c1c1e1997a6b5",
       "tags": [
         "JerryShen_AnKing_Tags::Neurobiology::Exam-2::Tutorial-3-Brainstem"
@@ -35002,7 +35049,8 @@
     {
       "first_field_hash": "24536441ac8011497c9bdae1aaa3ad8252b0925cf58710f18d6052b1afc545af",
       "tags": [
-        "JerryShen_AnKing_Tags::Neurobiology::Exam-2::Tutorial-3-Brainstem::Class-Content"
+        "JerryShen_AnKing_Tags::Neurobiology::Exam-2::Tutorial-3-Brainstem::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::04-Salivary-Gland-&-Esophagus::Class-Content"
       ]
     },
     {
@@ -35406,7 +35454,8 @@
       "first_field_hash": "9cee37d67e3cd45346b38d0d2193b52ae991c233afd6b0ba71e32d05cd120cef",
       "tags": [
         "JerryShen_AnKing_Tags::Neurobiology::Exam-2::Tutorial-3-Brainstem",
-        "JerryShen_AnKing_Tags::Neurobiology::Exam-2::Tutorial-3-Brainstem::Class-Content"
+        "JerryShen_AnKing_Tags::Neurobiology::Exam-2::Tutorial-3-Brainstem::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::04-Salivary-Gland-&-Esophagus"
       ]
     },
     {
@@ -38464,7 +38513,8 @@
     {
       "first_field_hash": "dc38c6a189453d9881e622d5018fbc79a9753a271d33142ee9b510ff9dc610b3",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::01-Intro-to-GI-Physiology::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::01-Intro-to-GI-Physiology::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::04-Salivary-Gland-&-Esophagus::Class-Content"
       ]
     },
     {
@@ -38491,14 +38541,16 @@
       "first_field_hash": "f93cb2d416efb0da8412cfee3c913670ac8c10dc31dcf4985a66150edf3f58eb",
       "tags": [
         "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-3-Abdomen::Histology::Class-Content",
-        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::01-Intro-to-GI-Physiology::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::01-Intro-to-GI-Physiology::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::04-Salivary-Gland-&-Esophagus::Class-Content"
       ]
     },
     {
       "first_field_hash": "07b3f6c73a78e11b9c525f454b65c8d042b1652c366020e27d1c9d985a604eda",
       "tags": [
         "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-3-Abdomen::Histology::Class-Content",
-        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::01-Intro-to-GI-Physiology::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::01-Intro-to-GI-Physiology::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::04-Salivary-Gland-&-Esophagus::Class-Content"
       ]
     },
     {
@@ -38530,7 +38582,8 @@
       "first_field_hash": "88b40bb21d86bead3e9d0213986e9cf3c9c84f63934f6e359a7f11bd82717099",
       "tags": [
         "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-3-Abdomen::Histology",
-        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::01-Intro-to-GI-Physiology::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::01-Intro-to-GI-Physiology::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::04-Salivary-Gland-&-Esophagus"
       ]
     },
     {
@@ -38951,24 +39004,45 @@
       ]
     },
     {
+      "first_field_hash": "cd01d3a0fde1b020219678483b94e27194c5927849e4790dd47e1d92f37db717",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::04-Salivary-Gland-&-Esophagus"
+      ]
+    },
+    {
+      "first_field_hash": "c32fdadd744d88d6e66d502481da1a2b312c00d2a086de03c2b9bbe3d7d60455",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::04-Salivary-Gland-&-Esophagus::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "efb26426eee3415859057fd4f342a50cbe78c039f551c83f57b028f33e04cac2",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::01-Intro-to-GI-Physiology",
-        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::01-Intro-to-GI-Physiology::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::01-Intro-to-GI-Physiology::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::04-Salivary-Gland-&-Esophagus::Class-Content"
       ]
     },
     {
       "first_field_hash": "572697fe24df0a9972a31b93df28a89f52985c9b632c8c1ba752776ddaea6900",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::01-Intro-to-GI-Physiology",
-        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::01-Intro-to-GI-Physiology::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::01-Intro-to-GI-Physiology::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::04-Salivary-Gland-&-Esophagus::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "040eec25d45b445c2026c7c15d6b94e83683f34a206442fc643cd1cd077c89fa",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::04-Salivary-Gland-&-Esophagus::Class-Content"
       ]
     },
     {
       "first_field_hash": "9e0741364360af9f2e956a6ada43a240d708825f2f03522742abd3c29ace7707",
       "tags": [
         "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-3-Abdomen::Anatomy",
-        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::26-Pulmonary-Cases-&-Miscellaneous-Diseases"
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::26-Pulmonary-Cases-&-Miscellaneous-Diseases",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::04-Salivary-Gland-&-Esophagus::Class-Content"
       ]
     },
     {
@@ -38986,26 +39060,91 @@
     {
       "first_field_hash": "bae77c696db262064fc58a2b52b4243aab1b4fc948aee7546170b39277814c62",
       "tags": [
-        "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-7-Head-&-Neck-2::Anatomy"
+        "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-7-Head-&-Neck-2::Anatomy",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::04-Salivary-Gland-&-Esophagus::Class-Content"
       ]
     },
     {
       "first_field_hash": "3870b84ccfd5b469fcfab59a823bdf8ee259238ef8d446b5ea34f86732c63ec0",
       "tags": [
-        "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-6-Head-&-Neck-1::Histology::Class-Content"
+        "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-6-Head-&-Neck-1::Histology::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::04-Salivary-Gland-&-Esophagus::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "1083f0f0deb98def771cf928dd14e27386b54f841d9eb5b9de27c962bf60439d",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::04-Salivary-Gland-&-Esophagus",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::04-Salivary-Gland-&-Esophagus::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "eed5f9aabd318e72a0d6d46c406a580c256c358a669efe3a72e9d861f2ac6050",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::04-Salivary-Gland-&-Esophagus::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "e338ab5b8619468a49cf8855529849ec3f988230fc33eaa959e0557f2852452e",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::04-Salivary-Gland-&-Esophagus::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "6c6c045f64139319b8406bd6a4b725361a696f69e05f6bbb6e15be7bb295b8b5",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::04-Salivary-Gland-&-Esophagus::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "5e1bd8121059354c7e6fa0adfa3372011153e73d1a1c82d0b22b6042096d43bf",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::04-Salivary-Gland-&-Esophagus::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "264bcc1e000a6707313f6854869781fb9a03383be20fd46a3709f56ab8ce6b17",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::04-Salivary-Gland-&-Esophagus::Class-Content"
       ]
     },
     {
       "first_field_hash": "532343f54e39e3800bbbe975e1e90a654a640d1b6a6dc82093c39ad1b0dd9423",
       "tags": [
         "JerryShen_AnKing_Tags::Biochemistry::Final::03-Lipid-Metabolism",
-        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::03-Fat-&-Micronutrient-Nutrition::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::03-Fat-&-Micronutrient-Nutrition::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::04-Salivary-Gland-&-Esophagus::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "7773fcfb07caeb203270896683106e4897430bcfd92e4531feed0de7be373d6f",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::04-Salivary-Gland-&-Esophagus::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "f0e52dd39d1fe58695d94336e62361bba60178dbe71b476453167a6c884f3b02",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::04-Salivary-Gland-&-Esophagus::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "14a1df5b331874ca79e0e28be5fcc177563518ee3ecb0205c0097076969a4027",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::04-Salivary-Gland-&-Esophagus::Class-Content"
       ]
     },
     {
       "first_field_hash": "cb00e4fd98fa835bb928f31a1e9c5c538baab49ac28db48b44618ad696f759b9",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::10-Autonomic-Physiology-and-Pharmacology"
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::10-Autonomic-Physiology-and-Pharmacology",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::04-Salivary-Gland-&-Esophagus::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "4e6021013cba62fec9aaf0a96291816e51d314485eb5cf46ee0d7d0fcd470973",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::04-Salivary-Gland-&-Esophagus::Class-Content"
       ]
     },
     {
@@ -39169,6 +39308,12 @@
       ]
     },
     {
+      "first_field_hash": "dba2c1ada3b545fabcb09c507092666795d5b8775ab26850636c15f62fe77f70",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::04-Salivary-Gland-&-Esophagus"
+      ]
+    },
+    {
       "first_field_hash": "14cf23df4d80f1322dded4f4d90c60fe1f082973ba7f18eba3cf3d1c24f89cdd",
       "tags": [
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-1::05-Intro-to-Fungi"
@@ -39187,15 +39332,124 @@
       ]
     },
     {
+      "first_field_hash": "d851d4e4406bf12fb490b2965f473c65120c9eab3a03dd06c81bc568e746cdc6",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::04-Salivary-Gland-&-Esophagus"
+      ]
+    },
+    {
       "first_field_hash": "f61195ddaec15b613010a39029353033fe0efe320c6d3b353d8e3e5a5f7bab0e",
       "tags": [
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-1::04-Intro-to-Viruses"
       ]
     },
     {
+      "first_field_hash": "2d6db7bf2638ca44234e6cf1dc22d813fc60cb7982cd4c946ebac4fbdde85eeb",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::04-Salivary-Gland-&-Esophagus::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "ebbf13d43c50a34f9e9d85fc3bb3eacaf3b4cec4af6d36ced7b3aac598055497",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::04-Salivary-Gland-&-Esophagus::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "c427962629472fca41a7c7773c70cfcebe30d0034cd4f523083895e6f0c06d7d",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::04-Salivary-Gland-&-Esophagus::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "80261af031741fbac39d8c34ad484f1c69f740b2eb19e5c8dd4ece02550be1d3",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::04-Salivary-Gland-&-Esophagus::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "f9e40596e797d9890a4815689afa956aabd482ff2dbcd4e803abc52241ba690f",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::04-Salivary-Gland-&-Esophagus::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "9ac7174a3a9172b85ceb8d405656612804c1b1dd8b054062c6003e45800d4ebb",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::04-Salivary-Gland-&-Esophagus::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "8a035d790f49ace5003f9e4fc89439380bcd6eaf62be7a7bcfa413af2eae64bd",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::04-Salivary-Gland-&-Esophagus::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "448dda90521fde8d2835ed3c9a757e23c17ccb19a6efaf3a508b652612657507",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::04-Salivary-Gland-&-Esophagus::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "f69ed163cf27211b67f836874272d21b0cde903081b5170dd4a2df14dfef56c6",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::04-Salivary-Gland-&-Esophagus::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "962ef5a9d79b822517afd51e15106746ab95baf5b334a72e0a586ea03c0f5fe1",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::04-Salivary-Gland-&-Esophagus::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "3dfa5261931a8dae52e894bb2b739ea5b077c1a48533f9c109601653b3ec5425",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::04-Salivary-Gland-&-Esophagus::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "5005d3b1b186b065e6d42169db847fa4c768c0b52cf21bf35246fac6dd2e6976",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::04-Salivary-Gland-&-Esophagus::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "7c85b28dc5fd9d90b31aa36f7c437f60508292d43f9b3059dc9d414360f2a788",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::04-Salivary-Gland-&-Esophagus::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "3b27cb6a465d100cfaf3daa558d2909775db9deadde442bc4f0b88490a2746e3",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::04-Salivary-Gland-&-Esophagus::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "5151f1b8f5d6ae618d647c581ccf7b610d5f596a5154f45c0cf717e922a06082",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::04-Salivary-Gland-&-Esophagus::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "e26fb91c7f785c367d6ff2a220543d96e4a102a3367fd4a3e61f779036ee1968",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::04-Salivary-Gland-&-Esophagus::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "8f10c72df54fc8b6b0bcfc973ffd0b4b6861a1ef9d219240927b650dfd26cea6",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::04-Salivary-Gland-&-Esophagus"
+      ]
+    },
+    {
       "first_field_hash": "c827c1c4c32b253bfb91223ccf44d90339debc69df266085bdbd5d4da214d17b",
       "tags": [
-        "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-1-Thorax::Embryology::Class-Content"
+        "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-1-Thorax::Embryology::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::04-Salivary-Gland-&-Esophagus::Class-Content"
       ]
     },
     {
@@ -39207,103 +39461,448 @@
     {
       "first_field_hash": "d766080da1d3b6aee15572250dff4abd4bd0ef73eda257ee8e2e92b718832ac2",
       "tags": [
-        "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-1-Thorax::Embryology"
+        "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-1-Thorax::Embryology",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::04-Salivary-Gland-&-Esophagus::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "46952b1a566d6d30bc57a6204f56cdee751104d38bb274d8bc3d787f76329e32",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::04-Salivary-Gland-&-Esophagus"
+      ]
+    },
+    {
+      "first_field_hash": "b53706752f7b20b8b492230e608a56f7f226a5f0afcfbf06169a5f7bd75dd374",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::04-Salivary-Gland-&-Esophagus"
+      ]
+    },
+    {
+      "first_field_hash": "b01b8563903016136624d5cf65f9356578cfdf5504cf8d25ed7fa37ec5511eb1",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::04-Salivary-Gland-&-Esophagus"
       ]
     },
     {
       "first_field_hash": "4dec24035347d00cfee0391dc66cb1add0def057e698d68019fe5071ecc3dd10",
       "tags": [
-        "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-1-Thorax::Embryology"
+        "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-1-Thorax::Embryology",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::04-Salivary-Gland-&-Esophagus"
+      ]
+    },
+    {
+      "first_field_hash": "569c4fadca51dae0f7c360a5e09b9fbb514e8b3095f3c897069c28865a7a94b7",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::04-Salivary-Gland-&-Esophagus"
+      ]
+    },
+    {
+      "first_field_hash": "6c46d91b7247fc4d5ea7b3243563ab8e54238826bb45881794ce41bd950c80e6",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::04-Salivary-Gland-&-Esophagus::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "593fd2239a6f9080d2864dd4a537998f71bde6e9c7336bfa1f8fef6d19c171b0",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::04-Salivary-Gland-&-Esophagus"
+      ]
+    },
+    {
+      "first_field_hash": "b05520d673c0ab166e8591b02e381efce512e6edf4f4846de6a9d0d5ecfccfa5",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::04-Salivary-Gland-&-Esophagus",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::04-Salivary-Gland-&-Esophagus::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "42cab6224c55a892de07a1be14a1e43ba02831dd34b051f439374cc0cbeb27d2",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::04-Salivary-Gland-&-Esophagus::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "daa5f575e9f31302b8cd4043bba501a13a641a85ad231be4c45fb07a4a16f601",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::04-Salivary-Gland-&-Esophagus",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::04-Salivary-Gland-&-Esophagus::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "fe297145db84c6481a935c1552036d24bf5355ca6ee2a27abfa9aa91d0ffefd3",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::04-Salivary-Gland-&-Esophagus",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::04-Salivary-Gland-&-Esophagus::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "cefa3280893a1a4afbbd6a6f5a19aa2eb6ae72e0ac996365ad559e50773eaad5",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::04-Salivary-Gland-&-Esophagus::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "74f92d046a926c32e063a37b897094a1c22312c45056c6d3b423a192409bbb42",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::04-Salivary-Gland-&-Esophagus::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "0bb003daf674d6e9bd2a42cb8ed58ff2c3d4895a174f75490d9662cefe67b877",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::04-Salivary-Gland-&-Esophagus::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "99b86962b31e2bcfdb6909123af6039db1db55a2776a35d55c67965bc1df0731",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::04-Salivary-Gland-&-Esophagus::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "49aee280ed45e354b27f3555fc30065e74958cd9ca4f30b43ae69cc18e08669d",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::04-Salivary-Gland-&-Esophagus::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "6bf87c892f8bf273cd85a586edda9a772d34532e59ac00495f2ae8a44885edeb",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::04-Salivary-Gland-&-Esophagus::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "78704bee1e91661ddd816c73abf22f15e7e04e3e2b33f8059c6057a1db6d6eac",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::04-Salivary-Gland-&-Esophagus::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "40f33f857f35e3c168904d3a9e27c47b375fcdcb7153f24fd3474a4e439caf12",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::04-Salivary-Gland-&-Esophagus::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "1bfe72fdf8985187b6b4182213293a8f613d963d7467baab528d571f173cc4ae",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::04-Salivary-Gland-&-Esophagus"
+      ]
+    },
+    {
+      "first_field_hash": "1f91b98a6af4750aaaa37013a25ce8b31a86ec80bd7a692efbb11e0f1c110a59",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::04-Salivary-Gland-&-Esophagus"
       ]
     },
     {
       "first_field_hash": "519eff3cfcdb3388df0381a0cafd44d5959a35924aafda12cfaf9653501bb79c",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::01-Intro-to-GI-Physiology::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::01-Intro-to-GI-Physiology::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::04-Salivary-Gland-&-Esophagus::Class-Content"
       ]
     },
     {
       "first_field_hash": "944cfdc4aa107e9d2bfa9da497403565ca140918a36b6f9bc1d3ce6c35c6cc35",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::01-Intro-to-GI-Physiology"
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::01-Intro-to-GI-Physiology",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::04-Salivary-Gland-&-Esophagus::Class-Content"
       ]
     },
     {
       "first_field_hash": "8db4afecf629d368480a27c235bd6d1687bff0626faec2d3bc2ea3fef95ab78d",
       "tags": [
-        "JerryShen_AnKing_Tags::Micro-Pharm::Exam-2::07-β-Lactam-Antibiotics-&-Parasites"
+        "JerryShen_AnKing_Tags::Micro-Pharm::Exam-2::07-β-Lactam-Antibiotics-&-Parasites",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::04-Salivary-Gland-&-Esophagus"
       ]
     },
     {
       "first_field_hash": "303ddacbb841d9ae245810b7986874f658a927ca3d89efe91a530ae0035adc56",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::01-Intro-to-GI-Physiology"
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::01-Intro-to-GI-Physiology",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::04-Salivary-Gland-&-Esophagus::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "d6ae272fad8023837a1c72b9c4cc1f8a050748aaaa39a845be7981195a648361",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::01-Intro-to-GI-Physiology",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::04-Salivary-Gland-&-Esophagus::Class-Content"
       ]
     },
     {
       "first_field_hash": "07a7d948a4a226ce4fdbcd8c7c6d051bbc8f0fc978ca830fff01c0d6fbb6679e",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::01-Intro-to-GI-Physiology::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::01-Intro-to-GI-Physiology::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::04-Salivary-Gland-&-Esophagus::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "d874396ba3f17d18ba2ae429afd3aa6b207c1ff39f798c9de7d05ab211ca6e1c",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::04-Salivary-Gland-&-Esophagus::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "17871c3814bd7840d59c6082cc6fbcf40cb2d6e0ee1f878989a2cb84522be1a3",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::04-Salivary-Gland-&-Esophagus::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "34272ec96fc166467b15a72e21e894a0917a1e056cf0085df37865be3e682aaa",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::04-Salivary-Gland-&-Esophagus::Class-Content"
       ]
     },
     {
       "first_field_hash": "cb55b8a83f5fc4ff4b388af5c99737a93c60e1373f677b7c19ddd544c1d78d47",
       "tags": [
-        "JerryShen_AnKing_Tags::POM-3::Clinical-Reasoning::Approach-to-Cough"
+        "JerryShen_AnKing_Tags::POM-3::Clinical-Reasoning::Approach-to-Cough",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::04-Salivary-Gland-&-Esophagus::Class-Content"
       ]
     },
     {
       "first_field_hash": "1df89fe4b35ee9a97b64c98c5ee3b90c6f1a6ab1b82ddd9b6a19b8909404915e",
       "tags": [
-        "JerryShen_AnKing_Tags::POM-3::Clinical-Reasoning::Approach-to-Cough"
+        "JerryShen_AnKing_Tags::POM-3::Clinical-Reasoning::Approach-to-Cough",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::04-Salivary-Gland-&-Esophagus"
+      ]
+    },
+    {
+      "first_field_hash": "f668400429565ac0c858b742fe204e8e983bd165d8319bc3142094ac3b80b6d9",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::04-Salivary-Gland-&-Esophagus::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "7fae8733bd4416d05bbaced5693ff426d6ee48f778aaac92578529486faa52a2",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::04-Salivary-Gland-&-Esophagus::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "52b8e82007cccf8b3d20e668d204ee89376c191a4045563ff1ed19666b20b95a",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::04-Salivary-Gland-&-Esophagus"
+      ]
+    },
+    {
+      "first_field_hash": "b125f97ea103879d98414eaeb6062f3d32974c093e2dab22b3e77c758b4eff97",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::04-Salivary-Gland-&-Esophagus"
       ]
     },
     {
       "first_field_hash": "6f0341afc1a01dfff4a45cb9d0241fa1560ce9f745b7be90782f49ab2df7135f",
       "tags": [
-        "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-3-Abdomen::Histology::Class-Content"
+        "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-3-Abdomen::Histology::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::04-Salivary-Gland-&-Esophagus::Class-Content"
       ]
     },
     {
       "first_field_hash": "550fba04ab0ec08364afff7b1cab56de6deb71a176479798a1be66591f3395a8",
       "tags": [
-        "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-3-Abdomen::Histology::Class-Content"
+        "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-3-Abdomen::Histology::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::04-Salivary-Gland-&-Esophagus::Class-Content"
       ]
     },
     {
       "first_field_hash": "dbaba16537245eb0f5d80aace12eb8376ba418dde40ce2208b9d10f9e06298e4",
       "tags": [
-        "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-3-Abdomen::Histology::Class-Content"
+        "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-3-Abdomen::Histology::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::04-Salivary-Gland-&-Esophagus::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "a6194e3f3101636d9480d755a7bf7f3b304feac03408f53622d415928654775e",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::04-Salivary-Gland-&-Esophagus::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "69ec73e82fe4219dbdeb6045995748ec69a67cef4c210470aea85bbd791874d9",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::04-Salivary-Gland-&-Esophagus",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::04-Salivary-Gland-&-Esophagus::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "bfccf8b483557eddbe62efe0ec4d429344f0b42cd91e9a02e673a49f17c19362",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::04-Salivary-Gland-&-Esophagus",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::04-Salivary-Gland-&-Esophagus::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "14470a29f53967d8c1fa38248d6670cf9ffa7288a63e0a4f460e6758f2b6a5d3",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::04-Salivary-Gland-&-Esophagus",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::04-Salivary-Gland-&-Esophagus::Class-Content"
       ]
     },
     {
       "first_field_hash": "7280e3968d8dee8ea8e8d497c46debba8781175be925df5330175ee308009268",
       "tags": [
-        "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-3-Abdomen::Embryology"
+        "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-3-Abdomen::Embryology",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::04-Salivary-Gland-&-Esophagus::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "ee47efc22a1f7d032c1e43d7f7740a6461710d7e8af20a1c6f8f73f528913857",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::04-Salivary-Gland-&-Esophagus",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::04-Salivary-Gland-&-Esophagus::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "c6292be827bd1b000b99ec06a601e53ea0df2d3674da934d374286e62252226f",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::04-Salivary-Gland-&-Esophagus::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "4456c22d28d533647f00651a4fc38e1e8d229e0bbcb7f85a6f6c14316fda5b0a",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::04-Salivary-Gland-&-Esophagus::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "96a6a0fa6157f14eff15e6ed216f6f43ef98c6d4a1cac34729da4eff02ecd1d2",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::04-Salivary-Gland-&-Esophagus::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "d177320ff5273cb74b0ef0b2f45f1425e211cce3c63af9e91ea5cd6454961cb4",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::04-Salivary-Gland-&-Esophagus::Class-Content"
       ]
     },
     {
       "first_field_hash": "f5b0e191f99e66020e87d201ed5a9271210cc24f47b7a5d69c41cd00ba7d7827",
       "tags": [
-        "JerryShen_AnKing_Tags::Cancer-Biology::Final::Lab-02-Cancer-Tumor-Board"
+        "JerryShen_AnKing_Tags::Cancer-Biology::Final::Lab-02-Cancer-Tumor-Board",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::04-Salivary-Gland-&-Esophagus::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "1e16ebbb058aa504c72df5bb421e93504c6c0149543602f748b8fd6c6e02e16c",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::04-Salivary-Gland-&-Esophagus"
       ]
     },
     {
       "first_field_hash": "30886ab270d16ec242efc2e6408a4f7d06d36e09bc0cd5966ebedea062e68197",
       "tags": [
-        "JerryShen_AnKing_Tags::Cancer-Biology::Final::Lab-02-Cancer-Tumor-Board::Class-Content"
+        "JerryShen_AnKing_Tags::Cancer-Biology::Final::Lab-02-Cancer-Tumor-Board::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::04-Salivary-Gland-&-Esophagus",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::04-Salivary-Gland-&-Esophagus::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "860090cf499741fb28fcb56142e1b307bdee594a6d398f812cfa7a20cdc30cfc",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::04-Salivary-Gland-&-Esophagus::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "424eb586675155f5cd06a59489f8625911374f56faa2cf15caeb732dd932ca91",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::04-Salivary-Gland-&-Esophagus",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::04-Salivary-Gland-&-Esophagus::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "f7004d5fb43fc7340602ff88591ec44fec36619f55479cd288ab41c4c8c88ed7",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::04-Salivary-Gland-&-Esophagus"
       ]
     },
     {
       "first_field_hash": "0ec09732330445252d50eaa6ece786bc15acf29478fb94092797f962b85d7f0d",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::27-Lung-Cancer"
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::27-Lung-Cancer",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::04-Salivary-Gland-&-Esophagus"
+      ]
+    },
+    {
+      "first_field_hash": "a164aa09ef40fb2d3bbd41987b99a653bdfd84d79b1a1e0a2cce8b04b61a610f",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::04-Salivary-Gland-&-Esophagus"
+      ]
+    },
+    {
+      "first_field_hash": "f899e8730112e137b506004ede9f75d1a91e2421c7be0742467a89e6a2d9bb2d",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::04-Salivary-Gland-&-Esophagus"
+      ]
+    },
+    {
+      "first_field_hash": "ba182dafb61e75a043aa8e2861757b69bb20e337570706a716ea3703f448936e",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::04-Salivary-Gland-&-Esophagus"
+      ]
+    },
+    {
+      "first_field_hash": "0f2213b19a230add5f6fa3d837e61dab8b6d4c926099daaa740141afcad395e6",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::04-Salivary-Gland-&-Esophagus"
+      ]
+    },
+    {
+      "first_field_hash": "41245bcad02f63e822cc1ff163918476457f93b956c82277782761cb6b9ff0fc",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::04-Salivary-Gland-&-Esophagus::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "24fdc72c00beaf7d75b08be81eff62341c433d8049861154248592746d02241b",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::04-Salivary-Gland-&-Esophagus::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "24f8d26010f8ee37d75cd98ae9f32706b6931b7e12b8e2b325dab9662da56aa7",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::04-Salivary-Gland-&-Esophagus::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "490ee61acd11bb3fef20dca7a6add6c874cb22c22f55665ea8ab16568327866a",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::04-Salivary-Gland-&-Esophagus"
+      ]
+    },
+    {
+      "first_field_hash": "93be167c27cb91cb10c8d13c313d41cee6ac5317a83e5c80033f08285aa12a40",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::04-Salivary-Gland-&-Esophagus"
       ]
     },
     {
       "first_field_hash": "bd65ffc2c86e1b8e342c8cfc063f17f639b1d6f518d579a21c96b5e98020e946",
       "tags": [
-        "JerryShen_AnKing_Tags::Micro-Pharm::Exam-1::05-Intro-to-Fungi::Class-Content"
+        "JerryShen_AnKing_Tags::Micro-Pharm::Exam-1::05-Intro-to-Fungi::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::04-Salivary-Gland-&-Esophagus::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "a708e0562dcab570fcb88e037803739dc41c9b71a6440b9e0a87dfbd2cde0bbc",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::04-Salivary-Gland-&-Esophagus::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "307183e0332edeea93c989717fa8a9e15943c106b51d58db450f538a64f540da",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::04-Salivary-Gland-&-Esophagus"
+      ]
+    },
+    {
+      "first_field_hash": "293c72bb5e193fa37fad000d80822f5cdd2e7e107a5a17a2db328094817c0a98",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::04-Salivary-Gland-&-Esophagus::Class-Content"
       ]
     },
     {
@@ -39389,6 +39988,24 @@
       "first_field_hash": "6307b2fd8bb53b0c6681b2f8c2a82aa5a0dcea96eaf979f2d9429828221d05f9",
       "tags": [
         "JerryShen_AnKing_Tags::POM-3::Clinical-Reasoning::Approach-to-Cough"
+      ]
+    },
+    {
+      "first_field_hash": "1c1782f9ebafbef261ae22fc81430de0c3f4b2732c1278c205adc2f51942cf72",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::04-Salivary-Gland-&-Esophagus::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "46e592e55c21a610bdfc533630853347fb76d7e5c91b43a21adea50f572eca9b",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::04-Salivary-Gland-&-Esophagus::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "29c9e57aa234e59cd8a5d4b3b4892fdbdea4b32393b6733f8204ae7cbb5d6f22",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::04-Salivary-Gland-&-Esophagus"
       ]
     },
     {
@@ -42410,6 +43027,12 @@
       ]
     },
     {
+      "first_field_hash": "65ddb8458f2d9604a786cb70bdb397bf3f84487c35d4816edc5a8a93cfa3d296",
+      "tags": [
+        "JerryShen_AnKing_Tags::POM-4::Clinical-Reasoning::Approach-to-Edema::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "c3331daf7509c7298c1261741bc3d87ebe6059f4f6ad741b9b7bc549175bb923",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::13-Obesity::Class-Content"
@@ -42516,6 +43139,12 @@
       "first_field_hash": "771312bb4bc139b6b8594a47466c0d1cb62c9e91bf59398725755db88482be40",
       "tags": [
         "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-3-Abdomen::Anatomy::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "67ec1bea6b72d82f9aa5b66e04dc805569c2b0ee6b144f13bb14d4933fadff21",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::04-Salivary-Gland-&-Esophagus::Class-Content"
       ]
     },
     {
@@ -42824,6 +43453,36 @@
       "first_field_hash": "0dcde42159bf8aa8868808f56bed9d971ad240e2e14f2f603c5258a70e831008",
       "tags": [
         "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-1-Thorax::Embryology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "187a0b086c5e4f84e01d51e2a7afca4e4368aaf4e75e52951e8c1746a8d622fd",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::04-Salivary-Gland-&-Esophagus::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "e6bf6a72c5ba16cbe130a0841c40e67cd988503441a76098b938e39428ee0ae1",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::04-Salivary-Gland-&-Esophagus::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "45eb4d31140184356ffebc731856ce645871caf29716ba6ba904a53370654724",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::04-Salivary-Gland-&-Esophagus::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "992456702d2784a2c0fab93739c9aadd464bedadaf933f5ab52c145c55181dfa",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::04-Salivary-Gland-&-Esophagus::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "650d4a81c1db34da3450ff9ac942bc70ba9a798663506c61a037749d1b947fa5",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::04-Salivary-Gland-&-Esophagus::Class-Content"
       ]
     },
     {
@@ -43808,9 +44467,40 @@
       ]
     },
     {
+      "first_field_hash": "bb93980c9998810328dfc6fa202351c921398c72bb5f23cc2d9e32620f36e9bb",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::04-Salivary-Gland-&-Esophagus",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::04-Salivary-Gland-&-Esophagus::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "4b38006c0b328bf8ce7a81fc9924d461e9a7cede90bcf0c0c95a3fd290251879",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::04-Salivary-Gland-&-Esophagus"
+      ]
+    },
+    {
       "first_field_hash": "396602a0b9584e845e75427b97c44f8ebce17a1a27618fb2de3ed1c05855eaa3",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::03-Fat-&-Micronutrient-Nutrition::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "d1b85fde43ed5746e726388d4fc6d665da98970cd0027b361cff4897411eee92",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::04-Salivary-Gland-&-Esophagus::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "8186e877a4c14dba7ca2c864eb3da68c66aff45a45b55630b9974490f572df8e",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::04-Salivary-Gland-&-Esophagus"
+      ]
+    },
+    {
+      "first_field_hash": "0f9fd35fad0e021384cc204bf9f06c6920c0018531a2a1e2a33cc1c435053416",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::04-Salivary-Gland-&-Esophagus"
       ]
     },
     {
@@ -44288,6 +44978,13 @@
       ]
     },
     {
+      "first_field_hash": "c5e28c2adbf3b372752f53586c90618d39607a52c816371c8ebb0a6c122df150",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::04-Salivary-Gland-&-Esophagus",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::04-Salivary-Gland-&-Esophagus::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "3911e453138364c920135aef63db704865af31158c49f9013fd180aa8bf0b6af",
       "tags": [
         "JerryShen_AnKing_Tags::Cancer-Biology::Final::02-Cell-Injury-&-Death"
@@ -44655,6 +45352,36 @@
         "JerryShen_AnKing_Tags::Immunology::Final::Complement",
         "JerryShen_AnKing_Tags::Immunology::Final::Complement::Class-Content",
         "JerryShen_AnKing_Tags::Immunology::Final::Immune-Deficiencies::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "3234f51d7dfa974ac7aee37f069d4d8890e34ae12888ab6e744a9c3f6a28e4e4",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::04-Salivary-Gland-&-Esophagus::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "5db23eb3ad2bf120519875b8436bb41822d9e053a3091a0f296cbacf90115702",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::04-Salivary-Gland-&-Esophagus::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "41e7b3ab169ab9f5aa648d5f927f61e82433208e2f80cdef3ab964e8c34183da",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::04-Salivary-Gland-&-Esophagus"
+      ]
+    },
+    {
+      "first_field_hash": "aed5de76dd9965442f5358abd11799c7019b730691cce692100604d96770eee1",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::04-Salivary-Gland-&-Esophagus"
+      ]
+    },
+    {
+      "first_field_hash": "5c29f1e249b1a118c7448cdd89ac5f4f1653349174881390519abd72f144025f",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::04-Salivary-Gland-&-Esophagus"
       ]
     },
     {
@@ -46222,6 +46949,12 @@
       "first_field_hash": "9067306c8bfff671f17f98b0618bbd10e4dbf959c7cb254cfd2eb04d3650f699",
       "tags": [
         "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-3-Abdomen::Embryology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "91312a0e577748018657d6db2974dfaf640b77bb557d21878bb3552aff29e769",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::04-Salivary-Gland-&-Esophagus"
       ]
     },
     {
@@ -47939,6 +48672,24 @@
       ]
     },
     {
+      "first_field_hash": "a3e395c861498d07a74aff601a0f2827ca473496370f23cce9362409267c98f4",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::04-Salivary-Gland-&-Esophagus"
+      ]
+    },
+    {
+      "first_field_hash": "f6bfc375cd2342d763edb0ab48c143683933a2476538fa932969ffcac2aaad29",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::04-Salivary-Gland-&-Esophagus::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "516d1e9ff7ff8ede98b34137bf6fc8a41af36e0ef08ba7904017cf799b10edfa",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::04-Salivary-Gland-&-Esophagus"
+      ]
+    },
+    {
       "first_field_hash": "fe8f9c6c40a8b196dcb1f3b168fb0721cc0b3406b7e4acee5e7c0346b6c94b8d",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::03-Fat-&-Micronutrient-Nutrition::Class-Content"
@@ -47954,6 +48705,12 @@
       "first_field_hash": "80517301b5fe4ddd34a6f2edfb79cc2937bc56f0352bb62982bc065c8fd6355e",
       "tags": [
         "JerryShen_AnKing_Tags::Cancer-Biology::Final::Cancer-Screening::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "17cdff798fd1d060296f932675e2cbfa39f7803d96c1e21c4ee543ef03875183",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::04-Salivary-Gland-&-Esophagus"
       ]
     },
     {
@@ -48166,6 +48923,18 @@
       ]
     },
     {
+      "first_field_hash": "93077e37a51fb64384acc7374c0c4ab0111eba91e7c97990f4fa5eb4c5a07b65",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::04-Salivary-Gland-&-Esophagus::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "0a525d59b16cac1a2ea9fc1270acca6235421ca00629be86052f2945f421ed8e",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::04-Salivary-Gland-&-Esophagus::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "b437d965738cbe55483453fdf164d63d38edf1c3f9f8d44ec23d88e68f1031e5",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::15-Bone-Pathophysiology",
@@ -48227,6 +48996,12 @@
       "first_field_hash": "5cebaa38f112e215104096d5a524f58807e9fd85e57674c91477eaf5ea301208",
       "tags": [
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-2::07-β-Lactam-Antibiotics-&-Parasites"
+      ]
+    },
+    {
+      "first_field_hash": "365542cfc236993b1f23f944a77a30cb1c5633c53a4606231198189d228ffceb",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::04-Salivary-Gland-&-Esophagus::Class-Content"
       ]
     },
     {
@@ -48622,6 +49397,12 @@
       "first_field_hash": "61a156da1937fa6ed4096b0c0e7b3662f11d852203898180e0cd983b45a54435",
       "tags": [
         "JerryShen_AnKing_Tags::Cancer-Biology::Final::03-Intro-to-Cancer-Biology"
+      ]
+    },
+    {
+      "first_field_hash": "52e2a33a0537e51c5b8b54dcc51d9c90aa15931e40a394e9eb08e2668e36c3ea",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::04-Salivary-Gland-&-Esophagus"
       ]
     },
     {
@@ -49896,6 +50677,12 @@
       "first_field_hash": "08a2a51bf24e2d3c7782dd34d7ff9be50534cadc5b696862eeb7e67d355640b6",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Renal-Block::06-Disorders-of-Water-Balance"
+      ]
+    },
+    {
+      "first_field_hash": "180a37b181c0a4277261cc0523ed4652eaf9f885d2ee698fa72e2f948db2b22b",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::22-CKD-Complications-&-Treatment"
       ]
     },
     {
@@ -51698,7 +52485,8 @@
     {
       "first_field_hash": "4810203d6010bf089b5a822c484d914c1b949cf70ea29fb025cf39362cdf4879",
       "tags": [
-        "JerryShen_AnKing_Tags::Micro-Pharm::Exam-1::05-Intro-to-Fungi"
+        "JerryShen_AnKing_Tags::Micro-Pharm::Exam-1::05-Intro-to-Fungi",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::04-Salivary-Gland-&-Esophagus::Class-Content"
       ]
     },
     {
@@ -52860,7 +53648,7 @@
       ]
     },
     {
-      "first_field_hash": "257c2a2839cacba7e554a440a9c9ded965899c79625ee5ccf32a0b94bf69cebc",
+      "first_field_hash": "ff753167c7d60f8886b146ca842cdfab3ad306d90f5b0e2070189153dd91f166",
       "tags": [
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-1::05-Intro-to-Fungi"
       ]
@@ -52926,6 +53714,12 @@
       "first_field_hash": "0c3535429b12ae2383938c183d435ba1d234e51164285364a9bdbfeb088ae9b0",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::26-Pulmonary-Cases-&-Miscellaneous-Diseases::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "dbc3799d438f4f50cb6cb6b973786e08565deb5708f0e17bf8e06776a0bb9c60",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::04-Salivary-Gland-&-Esophagus"
       ]
     },
     {
@@ -54247,6 +55041,18 @@
       ]
     },
     {
+      "first_field_hash": "01f1938585ded2b06a3ccac6f02f583d142caaac97792a4f66cb8cd58081ba84",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::04-Salivary-Gland-&-Esophagus::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "f9fb0beb260413c4b8d63dadda633161d9b41a85671c65e52efa6525cfec8587",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::04-Salivary-Gland-&-Esophagus"
+      ]
+    },
+    {
       "first_field_hash": "06aac9e3a63d386bd6d10225bca3356c193974b8ec13119315f3a60f5c75935b",
       "tags": [
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-2::06-Antivirals::Class-Content"
@@ -54459,6 +55265,12 @@
       "first_field_hash": "5bbc31f2c399c47b8e19f8ab47af26ae6155cc6087006d9af0f86789dc900396",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::MSK-Block::02-Bone-&-Joint-Infections"
+      ]
+    },
+    {
+      "first_field_hash": "8ab8b33df95b65bdd2dddf2e3d614288168b41a0d5b755884ff21286277b40c8",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::04-Salivary-Gland-&-Esophagus"
       ]
     },
     {
@@ -55402,6 +56214,12 @@
       "first_field_hash": "dc181316e651392d48c782f819101606796d0d07f08c98d9c91f70b0ba6323c7",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::19-Central-&-Peripheral-Control-of-Circulation"
+      ]
+    },
+    {
+      "first_field_hash": "456ba942f27565def5be1653a244adee10b4f7e5acd8ac3d4e44aaf1e90a7f77",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::04-Salivary-Gland-&-Esophagus"
       ]
     },
     {
@@ -56527,7 +57345,8 @@
     {
       "first_field_hash": "2c2ac3d2e338343b39ff7a90214e3de09729e0412b450a92dffea1e8b0a7eb23",
       "tags": [
-        "JerryShen_AnKing_Tags::Micro-Pharm::Exam-1::04-Intro-to-Viruses"
+        "JerryShen_AnKing_Tags::Micro-Pharm::Exam-1::04-Intro-to-Viruses",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::04-Salivary-Gland-&-Esophagus"
       ]
     },
     {
@@ -58941,7 +59760,8 @@
     {
       "first_field_hash": "f18a74205ddcf133274f8e575a13a4bca6771dd54402bfac5603f397afe1016e",
       "tags": [
-        "JerryShen_AnKing_Tags::Micro-Pharm::Exam-2::07-β-Lactam-Antibiotics-&-Parasites"
+        "JerryShen_AnKing_Tags::Micro-Pharm::Exam-2::07-β-Lactam-Antibiotics-&-Parasites",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::04-Salivary-Gland-&-Esophagus"
       ]
     },
     {
@@ -58954,7 +59774,8 @@
       "first_field_hash": "dfc265c70a7b7c966e4ad22202972942c6aadba0c6d990d96002956b0092086e",
       "tags": [
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-2::07-β-Lactam-Antibiotics-&-Parasites::Class-Content",
-        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::11-Pathology-of-Cardiomyopathy-and-Myocarditis::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::11-Pathology-of-Cardiomyopathy-and-Myocarditis::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::04-Salivary-Gland-&-Esophagus"
       ]
     },
     {
@@ -58962,7 +59783,8 @@
       "tags": [
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-2::07-β-Lactam-Antibiotics-&-Parasites",
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-2::07-β-Lactam-Antibiotics-&-Parasites::Class-Content",
-        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::11-Pathology-of-Cardiomyopathy-and-Myocarditis::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::11-Pathology-of-Cardiomyopathy-and-Myocarditis::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::04-Salivary-Gland-&-Esophagus"
       ]
     },
     {
@@ -60527,6 +61349,60 @@
       ]
     },
     {
+      "first_field_hash": "9537008e003cd795a319ad7ce9221468fd3c68d2a740eb0667f8d94c279920ba",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::04-Salivary-Gland-&-Esophagus::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "de453bf57d7d29dabbf1a38c841cd2bd0fe9a3c97f84d9b054559a2d33bd5c65",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::04-Salivary-Gland-&-Esophagus"
+      ]
+    },
+    {
+      "first_field_hash": "cdae737f2df3b81acca507dbd396dbe87819565b513f936f9da26ac9a29ad6a8",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::04-Salivary-Gland-&-Esophagus::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "6287f0b1e8b6b4d7e813bc7a4ad7e880da81b951521e955361cba13f00bf537b",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::04-Salivary-Gland-&-Esophagus::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "e7bf209c95306dea8b0ce7e281cf7d4b133ebf4e8fa43ef93c6623b8bb6e5f0b",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::04-Salivary-Gland-&-Esophagus::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "11a0b9ecd4afd77eaec78cebedfd01c64b7867ac4811b3c69fab0b952eca877f",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::04-Salivary-Gland-&-Esophagus"
+      ]
+    },
+    {
+      "first_field_hash": "1e65aeb1d542cc6da2b57cf27dca8a83611e33b622cbc594966d6fe4211e1319",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::04-Salivary-Gland-&-Esophagus::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "a29c703bbe04a347a2041c0d2f28a360adc8193826f22845ce884121d5749f51",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::04-Salivary-Gland-&-Esophagus"
+      ]
+    },
+    {
+      "first_field_hash": "8addab78445dd30f3e06117f14c973879e7ad9d8597e5de1ed0baa740dbd134b",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::04-Salivary-Gland-&-Esophagus::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "81b0d8b2e9020fcc201ed51d98a00d5b58de918f4c6f2513e9bc39987294f877",
       "tags": [
         "JerryShen_AnKing_Tags::Cancer-Biology::Final::Cancer-Screening::Class-Content"
@@ -60536,6 +61412,12 @@
       "first_field_hash": "b6d6a41791997e073eb9773903fe48ab63268673986525734f47fa39508900e5",
       "tags": [
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-1::03-C.diff-&-Pseudomonas"
+      ]
+    },
+    {
+      "first_field_hash": "980a515141eba39673aaf82174d5e8a312d96ba38fcfd09000436b56aa4c2747",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::04-Salivary-Gland-&-Esophagus"
       ]
     },
     {
@@ -61316,7 +62198,27 @@
     {
       "first_field_hash": "e250cda6920ba394eb3492bc47f907eb5b7102534aa51ee767c45ea017bbf2c4",
       "tags": [
-        "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-6-Head-&-Neck-1::Histology::Class-Content"
+        "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-6-Head-&-Neck-1::Histology::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::04-Salivary-Gland-&-Esophagus::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "60f157f440b601098e985ef95df27b2e31fd02039246efec7ee35d9ecc08241b",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::04-Salivary-Gland-&-Esophagus"
+      ]
+    },
+    {
+      "first_field_hash": "2c3bb2d5b37988404fedf20da8fe965183f26e9bcddb454b7d27ef7bf0baca41",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::04-Salivary-Gland-&-Esophagus::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "5c0f75e41cfe59878b4761659dc12406024485809e0e5b9d531c1f72a03ae156",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::04-Salivary-Gland-&-Esophagus",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::04-Salivary-Gland-&-Esophagus::Class-Content"
       ]
     },
     {
@@ -62010,6 +62912,12 @@
       "first_field_hash": "e57e00f1d3b6a697587d10f863a40123d458c1e96e830937939a5938622036e3",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::MSK-Block::Extra-Lower-Limb-Pathology"
+      ]
+    },
+    {
+      "first_field_hash": "bbb5719c8ee916f1aecc6a000c46eef717e5fcaa1ee2517c53523d62a172da32",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::04-Salivary-Gland-&-Esophagus"
       ]
     },
     {
@@ -64034,6 +64942,30 @@
       ]
     },
     {
+      "first_field_hash": "78596b6fca6f9e0c6fa1d78bb4c0b5d23516d1a894aea77cf2e0f68b6aa26ad8",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::04-Salivary-Gland-&-Esophagus"
+      ]
+    },
+    {
+      "first_field_hash": "cd511b27ea49697151ef17373aad22e59ef460816d4475e5912c34b0aee7d10c",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::04-Salivary-Gland-&-Esophagus"
+      ]
+    },
+    {
+      "first_field_hash": "182188ee994419b2c360d9969c6f2202578820c9055b80af8a7e61fcd402c4bf",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::04-Salivary-Gland-&-Esophagus"
+      ]
+    },
+    {
+      "first_field_hash": "ff1c0752f864639abea5a112410c29c334f005365fcc8b4c49123e41b56bdb37",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::04-Salivary-Gland-&-Esophagus"
+      ]
+    },
+    {
       "first_field_hash": "1fc2dede8d037072749ac327a58a4024462987c78827b225e0afd2915143fae7",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::10-Autonomic-Physiology-and-Pharmacology"
@@ -64277,6 +65209,12 @@
       "first_field_hash": "9313875145b76a2e9fb1630199fd5a45e252bd170e8f93b42a752f1ad07b08ef",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::09-Supraventricular-Tachycardia-&-Antiarrhythmics"
+      ]
+    },
+    {
+      "first_field_hash": "b5b5ecdc7b0199bd1d528806fee40b288e6fe2edd7c729f291b723a1fcd4f61b",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::04-Salivary-Gland-&-Esophagus::Class-Content"
       ]
     },
     {
@@ -64568,6 +65506,12 @@
       ]
     },
     {
+      "first_field_hash": "6a11438912d2d763b54aa6ab6c697bae3ec71e7e84b21de653134ed04569e763",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::04-Salivary-Gland-&-Esophagus"
+      ]
+    },
+    {
       "first_field_hash": "14d3e41299824f8ef575dbe50673f8c1d8e83eafd15f0e42075d2d418d0407cc",
       "tags": [
         "JerryShen_AnKing_Tags::POM-3::Clinical-Reasoning::Approach-to-Syncope",
@@ -64642,6 +65586,12 @@
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::25-Coronary-Circulation",
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::25-Coronary-Circulation::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "60569d92de46595989bcc7412836efab6a1c799d05535e534ebbe03f221362b0",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::04-Salivary-Gland-&-Esophagus::Class-Content"
       ]
     },
     {
@@ -64722,6 +65672,12 @@
       ]
     },
     {
+      "first_field_hash": "f207aef2090b522ce3f9160840218cf68f3f03a25bf11d37b823221cdad5fe30",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::04-Salivary-Gland-&-Esophagus"
+      ]
+    },
+    {
       "first_field_hash": "340bfd75bf51754475abfd4201a744501499f59575f9ac786cf68e7671bd9dc2",
       "tags": [
         "JerryShen_AnKing_Tags::POM-3::Clinical-Reasoning::Approach-to-Chronic-Dyspnea",
@@ -64781,6 +65737,12 @@
       "first_field_hash": "c7df1658e536353964b318c6185d67c1f27f91a85c8779f15e7801a0e05c7fa7",
       "tags": [
         "JerryShen_AnKing_Tags::POM-4::EMED-Procedures::Foley-NGTube-&-I&D::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "5bf5fc3830728e9340aceb9c4a9d4307faa3e8da7af782287458de5e5eb8c037",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::04-Salivary-Gland-&-Esophagus::Class-Content"
       ]
     },
     {
@@ -65982,6 +66944,12 @@
       ]
     },
     {
+      "first_field_hash": "118c49698fa465bf2bb6a8f8b7b36602dd86820896947c71c97b1327399ff6e9",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::04-Salivary-Gland-&-Esophagus"
+      ]
+    },
+    {
       "first_field_hash": "ca03a6281804fe77383f19fe8db17ebab0744fba2b8a644585f42728373e9fa1",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::18-Adrenal-Physiology"
@@ -66377,6 +67345,12 @@
       ]
     },
     {
+      "first_field_hash": "6699413649fd5a9146de228943308c4f03ff4e10441ffd340fedcdc79be4e042",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::04-Salivary-Gland-&-Esophagus"
+      ]
+    },
+    {
       "first_field_hash": "f7337d5b834c6ab8940585d9ef5472e309e1e55876d5438af25ba50f5dce4a68",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Renal-Block::18-Kidney-Stones"
@@ -66437,9 +67411,27 @@
       ]
     },
     {
+      "first_field_hash": "f22fc6e2184c7b3d7db08e12e94d1d86d515083c81d5b11784d4c070b25c4ec1",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::04-Salivary-Gland-&-Esophagus"
+      ]
+    },
+    {
       "first_field_hash": "89bfb22aa4983f0e52e319ebd8cac18273b1d5596b56bbe1e5d381e8d2b5a970",
       "tags": [
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-1::03-C.diff-&-Pseudomonas"
+      ]
+    },
+    {
+      "first_field_hash": "96878556d19156b4e7da131c0b621fb3b6fffd353ebb3dc9a7bfdcbf62facd21",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::04-Salivary-Gland-&-Esophagus"
+      ]
+    },
+    {
+      "first_field_hash": "fad12cbe6decb3861d1bda533f39ae92f2a3f0d4524a7e068c75e73b75dcf00d",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::04-Salivary-Gland-&-Esophagus"
       ]
     },
     {
@@ -66458,6 +67450,12 @@
       "first_field_hash": "d9f9848d1421ef66a2e56389a6006337aa07acd6d9b82a27325882e470bd9ba1",
       "tags": [
         "JerryShen_AnKing_Tags::Molecular-Foundations-&-Genetics::02-Genetics::08.4-Cancer-Genetics"
+      ]
+    },
+    {
+      "first_field_hash": "f87ac772b3fe23dc125f7fc062f1a430e3fc5f1be56e3ec20c7c760ddd7430c7",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::04-Salivary-Gland-&-Esophagus"
       ]
     },
     {
@@ -67127,6 +68125,24 @@
       ]
     },
     {
+      "first_field_hash": "ac03e01fe2a23b6e91c9836935d2d4329c26ade3ba5fceff282583f032b27378",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::04-Salivary-Gland-&-Esophagus::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "5b6f14a6724d8f988eda14854720705db25eee096c03b761f247d94e786cf370",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::04-Salivary-Gland-&-Esophagus::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "16eee1905e0db3ba7f148ae6bedb294f2dc913a7c8b9be0592d42a04cb046919",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::04-Salivary-Gland-&-Esophagus"
+      ]
+    },
+    {
       "first_field_hash": "82d6312add963d92176b8e0ab927f894abe77d2f0076f93eae93a4a13ca6b6c4",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::16-Thyroid-Physiology-&-Pathophysiology::Class-Content"
@@ -67136,6 +68152,24 @@
       "first_field_hash": "9cb1fe0a9b3d753e5b883f48bad1468d44dabd1d5f724beb7d1c88d749ec53ee",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::16-Thyroid-Physiology-&-Pathophysiology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "12877b4e8beff053ae53089b193e133dd81c443b62557e1c987af9afa72e2ab3",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::04-Salivary-Gland-&-Esophagus::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "ac1065addb7fd7e184d6c142f17b6030921059cd6149f8f746a0f4e28f44a6c8",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::04-Salivary-Gland-&-Esophagus"
+      ]
+    },
+    {
+      "first_field_hash": "20ae74b07d4295aa606a823af487c38674b2fca5f4b1d1a4092611eb851e9fbd",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::04-Salivary-Gland-&-Esophagus"
       ]
     },
     {
@@ -67328,6 +68362,12 @@
       "first_field_hash": "3f6cfddab609939042cb6c97469f753a165e5fd08cd187251cb01620de568c6b",
       "tags": [
         "JerryShen_AnKing_Tags::POM-2::Final::Nutrition"
+      ]
+    },
+    {
+      "first_field_hash": "11e41f46893b7cacbf8f7267f99a2bae3fa54194b4684f4705650d6dff7aa395",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::04-Salivary-Gland-&-Esophagus::Class-Content"
       ]
     },
     {
@@ -67633,7 +68673,8 @@
     {
       "first_field_hash": "23b982dafb150a2fc2d3cfc9b7531590d16e6a6a78b7cd43356c4cc27661963a",
       "tags": [
-        "JerryShen_AnKing_Tags::Micro-Pharm::Exam-1::04-Intro-to-Viruses"
+        "JerryShen_AnKing_Tags::Micro-Pharm::Exam-1::04-Intro-to-Viruses",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::04-Salivary-Gland-&-Esophagus::Class-Content"
       ]
     },
     {
@@ -67703,7 +68744,8 @@
     {
       "first_field_hash": "4984cde64bf9bb98d208a18a890d6c40bd3a4ae8611614c472d7655cb405309c",
       "tags": [
-        "JerryShen_AnKing_Tags::Molecular-Foundations-&-Genetics::02-Genetics::08.2-Dysmorphology"
+        "JerryShen_AnKing_Tags::Molecular-Foundations-&-Genetics::02-Genetics::08.2-Dysmorphology",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::04-Salivary-Gland-&-Esophagus::Class-Content"
       ]
     },
     {
@@ -67970,6 +69012,12 @@
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Renal-Block::20-Nephritic-Syndrome",
         "JerryShen_AnKing_Tags::SOM-2::Renal-Block::20-Nephritic-Syndrome::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "148e2dbbd1a537191ea7fa2aa339b2f07ebb75e349c2d5b24963d3172bb8ca8d",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::04-Salivary-Gland-&-Esophagus::Class-Content"
       ]
     },
     {
@@ -68265,6 +69313,18 @@
       ]
     },
     {
+      "first_field_hash": "42eff042db181a4bd02e70a68385a943cac01b3754466df8080912f6a11120a7",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::04-Salivary-Gland-&-Esophagus::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "27dabfb6ceafd9a04c5b9b769c80d22c6894f360251effc837dd9ef064bc2615",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::04-Salivary-Gland-&-Esophagus"
+      ]
+    },
+    {
       "first_field_hash": "6e8012f979cf01a4d516ea3b3c010758728718b1395be3e17b3bfb676613e65c",
       "tags": [
         "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-3-Abdomen::Anatomy::Class-Content"
@@ -68503,7 +69563,8 @@
       "first_field_hash": "575e791c2375846f066bbd34cb720c3b09ae8619931a170aedc16c24e0f1b194",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::MSK-Block::09-Geriatric-Orthopedics",
-        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::15-Bone-Pathophysiology"
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::15-Bone-Pathophysiology",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::04-Salivary-Gland-&-Esophagus::Class-Content"
       ]
     },
     {
@@ -68644,6 +69705,12 @@
       "first_field_hash": "e3dacf63695b9b33e17a8f3b155056e38e034c2608458f259289bb8dd911636e",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::15-Upper-Respiratory-Infections"
+      ]
+    },
+    {
+      "first_field_hash": "e6b414da55c23bd7857b285d9cde25767215c5d6fb471deb4c24c1ecea3cdecf",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::04-Salivary-Gland-&-Esophagus::Class-Content"
       ]
     },
     {
@@ -69936,6 +71003,12 @@
       ]
     },
     {
+      "first_field_hash": "2ca2da3d16d3120f35c66d6f95eeddfd879b1f90ebc0bdd43ab8c795ae0e2d20",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::04-Salivary-Gland-&-Esophagus"
+      ]
+    },
+    {
       "first_field_hash": "d75ee6eb67dc04961d3ea712137f7d041bb22fe21bd760863687e0dec23566d9",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::25-Coronary-Circulation::Class-Content"
@@ -70717,6 +71790,18 @@
       ]
     },
     {
+      "first_field_hash": "ae836ce01985149cba59e92ad3ff60e766f6fdfcc0fb8bb5631da9613d3859b4",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::04-Salivary-Gland-&-Esophagus"
+      ]
+    },
+    {
+      "first_field_hash": "07a5e2f568a21615079f0982959d2b9d361329a79eddf5a8a926a367575846b5",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::04-Salivary-Gland-&-Esophagus"
+      ]
+    },
+    {
       "first_field_hash": "9c91bf54d4af6c93bfa3ac5b120062db5480b1904ac687e327d45319ef3b1c6d",
       "tags": [
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-2::08-Other-Antibiotics-&-Mycobacteria"
@@ -71139,7 +72224,7 @@
       ]
     },
     {
-      "first_field_hash": "c794b569af65b58c1934a7ea1676a8ca77548058ba33d73fc9b35ad9c516e538",
+      "first_field_hash": "c1ff8c615d95d9f305386cb58ec0a5a602ff1b09a0bab7e551d13163fef4cfd9",
       "tags": [
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-1::05-Intro-to-Fungi"
       ]
@@ -71314,6 +72399,30 @@
       ]
     },
     {
+      "first_field_hash": "49468e58710d81ee1b62c3f6468c4d323c960f540ea329bb98558c9d843ccf01",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::04-Salivary-Gland-&-Esophagus"
+      ]
+    },
+    {
+      "first_field_hash": "5dd0c5a40933bbb18fd9613048727ef9d4618f376e963dfa9ec084282d296bcb",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::04-Salivary-Gland-&-Esophagus"
+      ]
+    },
+    {
+      "first_field_hash": "bf4723146eee6e622aaf94aceeb8770874ea6e378cbb78472621ff2d36e0ebb4",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::04-Salivary-Gland-&-Esophagus::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "09028e924bd8d95643e6393c0b195e7ac10424a6db1509c9838e561e624d9300",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::04-Salivary-Gland-&-Esophagus::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "a8e52ddcdc6e1cec4d0c8d1cf2e6e97dcd97e462d5680133883778fe667576f0",
       "tags": [
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-1::03-C.diff-&-Pseudomonas"
@@ -71427,6 +72536,19 @@
       "first_field_hash": "287f266408c17c1551eaff63108468d8d49d70e8e9920fc41db4129e382539c0",
       "tags": [
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-2::07-β-Lactam-Antibiotics-&-Parasites::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "c87a54cb047ec7ed700d577cf23501127ac1651da9491e26f2a17301d201a90f",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::04-Salivary-Gland-&-Esophagus",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::04-Salivary-Gland-&-Esophagus::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "285286a0d55dd6b376a4cf7bc29383fe85af2510b94c611833e6055d88c621f7",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::04-Salivary-Gland-&-Esophagus"
       ]
     },
     {
@@ -71861,6 +72983,12 @@
       ]
     },
     {
+      "first_field_hash": "6d35e5237ebb54d284bbfff1d0ae7990fe5e2b02e8ce33dfe57ee25ef434153d",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::04-Salivary-Gland-&-Esophagus::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "49c491bd1213785e5241ec43b5c595fd4a219b8c133b3025b9627b3102cd929f",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::19-Central-&-Peripheral-Control-of-Circulation"
@@ -72016,6 +73144,18 @@
       "first_field_hash": "abbe8cfcb8b65cbd4e491f2af51645fc3389b300a6e990cb8cc3e065015f7f5a",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::26-Pulmonary-Cases-&-Miscellaneous-Diseases"
+      ]
+    },
+    {
+      "first_field_hash": "1d4fb608b63d06daf66355e04846bbe8d57bcaecf86349511a79b6244123d1ff",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::04-Salivary-Gland-&-Esophagus"
+      ]
+    },
+    {
+      "first_field_hash": "4bd89cd5520a23202cb789475092eba3206923f49d2adef4b94f78c8c4a9780f",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::04-Salivary-Gland-&-Esophagus"
       ]
     },
     {
@@ -72267,6 +73407,12 @@
       "first_field_hash": "472422b504a3e2463cb2929b0a07d5f264991abbaf8b66637b9f9444a18932c2",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::MSK-Block::04-Upper-Limb-Pathology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "6f422a02dc54721953915cd95ea9ddf3316c0223e838ea6a52104aa2935c9ac0",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::04-Salivary-Gland-&-Esophagus"
       ]
     },
     {
@@ -72895,7 +74041,8 @@
     {
       "first_field_hash": "aa48643e17d46f5a078b7a8d9e9ba5be41181b79d28e894fb0c48ab1950f04d8",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::01-Intro-to-GI-Physiology"
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::01-Intro-to-GI-Physiology",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::04-Salivary-Gland-&-Esophagus::Class-Content"
       ]
     },
     {
@@ -73027,6 +74174,12 @@
       ]
     },
     {
+      "first_field_hash": "0ecfa5d6c11a4657e7243a9c184a882990b0fcf50e15253ac21596fbcfdf3486",
+      "tags": [
+        "JerryShen_AnKing_Tags::POM-4::Clinical-Reasoning::Approach-to-Edema::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "2d648a765a44fcc14c8e224acaab2f4dcaa2ef2ad10a7d6e575c6817f0c22d97",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Renal-Block::19-Nephrotic-Syndrome",
@@ -73079,6 +74232,12 @@
       "first_field_hash": "9b8bf080ace13b96f3269b2cc243ec2aa2cd8f285953a90aa522c3898ca4fd03",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::MSK-Block::Extra-Upper-Limb-Pathology"
+      ]
+    },
+    {
+      "first_field_hash": "68de6e528f38021518b6d984e23b5ed86d84f274be246af6d1bf6b867ff81ba4",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::04-Salivary-Gland-&-Esophagus"
       ]
     },
     {
@@ -73247,7 +74406,8 @@
     {
       "first_field_hash": "df637b6881657727e19fdfc9562423815b5c67137dcf45df3ac33f03f7128dd3",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::01-Intro-to-GI-Physiology::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::01-Intro-to-GI-Physiology::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::04-Salivary-Gland-&-Esophagus::Class-Content"
       ]
     },
     {
@@ -74278,6 +75438,12 @@
       ]
     },
     {
+      "first_field_hash": "66fe659ebfa39ef628c15122dc9784de0d90b7297742b01f9076765a7d821976",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::04-Salivary-Gland-&-Esophagus::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "3940d1e588ca7a77b39ab05f979339fd23d0d8bc6fa56fcb8667f3ccb59b24ad",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::13-Obesity",
@@ -74308,6 +75474,42 @@
       "first_field_hash": "30bd2939845c19edb9afbacb108fab4999bba56f0e016ee053c84ec2540520df",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::14-Bone-Physiology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "f65fe1f19d5c333a49352fca86725eb8759d8d09b02757c8f62ba0b1634e7e16",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::04-Salivary-Gland-&-Esophagus::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "68b1c2540261e4dfa7b0b3a16ec1f7e08d11cc34a23e8f6f03da5957b0f2b44f",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::04-Salivary-Gland-&-Esophagus::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "13e9f21939e8bafb48b67f7989b77cce8d62d0a0b3c1b67cd6383dc8e3ad8f0b",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::04-Salivary-Gland-&-Esophagus::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "1ded4eb0dfac59d858a041172efb4d2e4f40d30fcdadf3b227b575e4c8369edc",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::04-Salivary-Gland-&-Esophagus"
+      ]
+    },
+    {
+      "first_field_hash": "f9b6c9cee54c3d5eb688f5cfb2cbc2dbe99e877ffcd2291d0e133c072022787b",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::04-Salivary-Gland-&-Esophagus::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "f66ebf989006a7e2c0c94c5319810381b08c4821dea0ec607ae1c99f39c6efe8",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::04-Salivary-Gland-&-Esophagus"
       ]
     },
     {
@@ -74432,7 +75634,8 @@
     {
       "first_field_hash": "8fbc73fe1c84c6d55aca485415b62b7583aa5a261d5465b8f29defa991c829b4",
       "tags": [
-        "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-1-Thorax::Embryology::Class-Content"
+        "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-1-Thorax::Embryology::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::04-Salivary-Gland-&-Esophagus::Class-Content"
       ]
     },
     {
@@ -74727,6 +75930,12 @@
       ]
     },
     {
+      "first_field_hash": "1d3d8cdbc1a9e4292f231f235c3bf6d6bffb56613021761b09375633f3e00ca6",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::04-Salivary-Gland-&-Esophagus::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "0baf04ff1aea2de30be0612916c6e59ba1e676eaa26d35f4867329bd1540941d",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::21-The-Arterial-System::Class-Content",
@@ -74953,6 +76162,13 @@
       ]
     },
     {
+      "first_field_hash": "336e37510354fad6ac190aeb5a5a384a6ca630f18d9a2d9ca997f49f9fcfae6d",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::04-Salivary-Gland-&-Esophagus",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::04-Salivary-Gland-&-Esophagus::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "d56fcbc43041739e7e4641972fcd17a2a905f0dbe1c8ad35acd4616e18a139ea",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::14-Lung-Pharmacology"
@@ -75106,6 +76322,18 @@
       ]
     },
     {
+      "first_field_hash": "ab07f728b9a19788bfb6437b98920d2231a189eb310f34b829678d6fc4b0bd7e",
+      "tags": [
+        "JerryShen_AnKing_Tags::POM-4::Clinical-Reasoning::Approach-to-Edema"
+      ]
+    },
+    {
+      "first_field_hash": "46a4857408afd765a86a85c72b1816c09067db8ebe3b1f9319e7d41e2884b8ce",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::04-Salivary-Gland-&-Esophagus"
+      ]
+    },
+    {
       "first_field_hash": "da1026dad6754f121640d7f9b3f32e3206cc484f9498a2e70c08f62a89a4fa9f",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Renal-Block::19-Nephrotic-Syndrome"
@@ -75167,6 +76395,12 @@
       ]
     },
     {
+      "first_field_hash": "d049ba88e6dafb6edca511e2fd39267057550e40cfb4d61509b3a0b9981329f1",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::04-Salivary-Gland-&-Esophagus"
+      ]
+    },
+    {
       "first_field_hash": "307352da089df7ed0376ea835285a79c803728f85c3d82393510102234fef3b8",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::MSK-Block::05-Lower-Limb-Pathology"
@@ -75191,9 +76425,21 @@
       ]
     },
     {
+      "first_field_hash": "9ce32a7c50cccd3f0dee5709d807a40c440bb22784f60ef734cef58c2953f5aa",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::04-Salivary-Gland-&-Esophagus"
+      ]
+    },
+    {
       "first_field_hash": "14bf2261d0d292edefa6e615d3983d14235551fdad59a3a7045d7fee59260e4c",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::MSK-Block::03-Bone-&-Soft-Tissue-Neoplasms"
+      ]
+    },
+    {
+      "first_field_hash": "5b3260ed7a8d05bcd3995f8b3e332391d3950c7d86a9e172a1fa7b12aa052063",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::04-Salivary-Gland-&-Esophagus"
       ]
     },
     {
@@ -75387,6 +76633,18 @@
       "first_field_hash": "fe2946bbcff85916fe86ad8aedd17e9dafdc2e13535b3fb25fd6fed8e100a882",
       "tags": [
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-2::08-Other-Antibiotics-&-Mycobacteria"
+      ]
+    },
+    {
+      "first_field_hash": "73ce918210afdd3064080ade44a1004731155405d4eebd64103b6b962af7f70e",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::04-Salivary-Gland-&-Esophagus::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "c72f6249b278bbd11765270ea335ad923292231846ec6b330a87df9da655fa19",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::04-Salivary-Gland-&-Esophagus"
       ]
     },
     {
@@ -76076,6 +77334,12 @@
       "first_field_hash": "43ff2c79605ac6caba2f95f3309cf9a2b8718c4c92dfa8c27510b35dbc56fa2b",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::15-Bone-Pathophysiology"
+      ]
+    },
+    {
+      "first_field_hash": "db579d7a71ad98d406ac0ebab78f10496f86930a0b024ce01891187ab445ad70",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::04-Salivary-Gland-&-Esophagus"
       ]
     },
     {
@@ -77351,6 +78615,13 @@
       "first_field_hash": "65001b1686c294004f9fcb2b3e6549eb2d5ed928c6f99a89b48be584e98cc4c5",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::35-Congenital-Heart-Disease::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "e06ae9fc94f87927f796887b6f9ec3cf91f884febad37e4a913b0644ed11a0af",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::04-Salivary-Gland-&-Esophagus",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::04-Salivary-Gland-&-Esophagus::Class-Content"
       ]
     },
     {
