@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
   "author": "JerryShen",
-  "description": "esophagus",
-  "created": "2026-10-13T18:09:50.396815+00:00",
-  "updated": "2026-10-13T18:09:50.396815+00:00",
+  "description": "gi",
+  "created": "2026-10-14T04:06:00.244193+00:00",
+  "updated": "2026-10-14T04:06:00.244193+00:00",
   "tag_prefix": "JerryShen_AnKing_Tags",
   "tag_hierarchy": [
     "JerryShen_AnKing_Tags",
@@ -520,6 +520,8 @@
     "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::03-Fat-&-Micronutrient-Nutrition::Class-Content",
     "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::04-Salivary-Gland-&-Esophagus",
     "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::04-Salivary-Gland-&-Esophagus::Class-Content",
+    "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::05-Stomach",
+    "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::05-Stomach::Class-Content",
     "JerryShen_AnKing_Tags::SOM-2::Renal-Block",
     "JerryShen_AnKing_Tags::SOM-2::Renal-Block::01-Introduction-to-Renal-Physiology",
     "JerryShen_AnKing_Tags::SOM-2::Renal-Block::01-Introduction-to-Renal-Physiology::Class-Content",
@@ -902,6 +904,11 @@
       "date": "2026-10-13T18:09:50.396815+00:00",
       "message": "esophagus",
       "note_count": 251
+    },
+    {
+      "date": "2026-10-14T04:06:00.244193+00:00",
+      "message": "gi",
+      "note_count": 224
     }
   ],
   "notes": [
@@ -1406,9 +1413,75 @@
       ]
     },
     {
+      "first_field_hash": "b72058b5dd651cf596de8886debd788aad021ccc97e0436a0d284d064dc0d574",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::05-Stomach"
+      ]
+    },
+    {
+      "first_field_hash": "0552362298d8043c78f6572632b5445b23ef581f281cabffdc8f6cab6590b0ef",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::05-Stomach"
+      ]
+    },
+    {
+      "first_field_hash": "00fbf42d88828be2e0c964db098220e84a479cc5d7a4f0aeffbd3733b6ba6f89",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::05-Stomach"
+      ]
+    },
+    {
+      "first_field_hash": "7cce9f03e06ddb47f43b10dbe02828c6e6dafeb7819837b0a53f6152e24602ef",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::05-Stomach::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "43352b7b8de987baf0193cee821746bc990b001d7be9327fd00c99aa710b64e3",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::05-Stomach"
+      ]
+    },
+    {
+      "first_field_hash": "3c1cb3b5cffd5d39165956934a7a209a814db5872856fd390fbafd0b67965baa",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::05-Stomach::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "e1939644b0d9b62e5e73021a96993bfdcb4d7570ef6227e55f6203157dfa338a",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::05-Stomach"
+      ]
+    },
+    {
+      "first_field_hash": "7519c3261d63289498ef59b62e6a15ad977449a0a444dd301ba07c3e8f944668",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::05-Stomach"
+      ]
+    },
+    {
       "first_field_hash": "591376ee73f40298d3df4165db95ed018998f3404966c29d51e05c47c3467f10",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::04-Salivary-Gland-&-Esophagus::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "c66c0bebf801af8151b8371e32439b0be5fbf7f11fa03bef0d76a265b289fa70",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::05-Stomach::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "a2fbd2f2a8834dff7f426ebfd2dd4fb12c56bf5542e813ef8c8ae251c0ac6b4f",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::05-Stomach"
+      ]
+    },
+    {
+      "first_field_hash": "83935fc141e57780cdd09b80f97e190ea490abf7d3df6dd6b6cb3db8d597c4c3",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::05-Stomach"
       ]
     },
     {
@@ -1431,6 +1504,12 @@
       ]
     },
     {
+      "first_field_hash": "ae133f87b2f3384b5ab8fa296493bb1496f2bb5c3833de7f1e34cb2d7f2bc2b1",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::05-Stomach"
+      ]
+    },
+    {
       "first_field_hash": "29ea4f5a2b1a38cfb1ba4db1926c4b0ce03f22f339f3633dbb1a68a5080cec76",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::01-Intro-to-GI-Physiology"
@@ -1441,6 +1520,12 @@
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::01-Intro-to-GI-Physiology::Class-Content",
         "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::02-GI-Hormones::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "d5aeef2c3056ea569f0d970d6ceb0777c7874578ba31993ba361f5a6088ea7b5",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::05-Stomach"
       ]
     },
     {
@@ -1477,6 +1562,12 @@
       "first_field_hash": "338c59ae41bce352280c23692f0488bb12fd91ccb945dbbea7fb27df92cf0dfe",
       "tags": [
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-2::06-Antivirals::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "584ff8b377520acdccb3d88138025861254329c2151c26dae98f64f5675d4002",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::05-Stomach"
       ]
     },
     {
@@ -6063,7 +6154,8 @@
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::03-Glucose-Homeostasis-2",
         "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::08-Insulin-&-Antidiabetic-Pharmacology::Class-Content",
-        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::02-GI-Hormones::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::02-GI-Hormones::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::05-Stomach::Class-Content"
       ]
     },
     {
@@ -7035,6 +7127,12 @@
       ]
     },
     {
+      "first_field_hash": "76300b32491b0a47d7d19af409c6bca101489b3083e63ef2af611ac5fdfefb60",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::05-Stomach::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "3b6206acc578d90857a9f479e9d17d7c8137fde644667c5383cccbe177b9ae0f",
       "tags": [
         "JerryShen_AnKing_Tags::Molecular-Foundations-&-Genetics::02-Genetics::08.3-Prenatal-Genetics"
@@ -7523,6 +7621,12 @@
       ]
     },
     {
+      "first_field_hash": "78f01c52d1482cf9af68f3c9e44bef9c178b04b033653cd063e290077aa5689d",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::06-Disorders-of-Water-Balance"
+      ]
+    },
+    {
       "first_field_hash": "11b2ee342bd746f4e38edc8d746eaac3f3a907f1bceeffecb009cc5bcfb6d3c7",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::15-Pathophysiology-&-Treatment-of-Heart-Failure::Class-Content",
@@ -7898,6 +8002,12 @@
       "first_field_hash": "ba8dcf2db36541456ef6d5a5a38f07260ff039f21ff4b0f2683f7b948483ca65",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::13-Obesity::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "e40856a5b9aa43497a81658d0a12afe38e99fe57d643ee87dd10ab5c5a1703bd",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::05-Stomach"
       ]
     },
     {
@@ -8516,6 +8626,12 @@
     },
     {
       "first_field_hash": "d5e2e2dd7e1c0bcf95e0dc5458091684ae99b778c65c61937e8992b531230703",
+      "tags": [
+        "JerryShen_AnKing_Tags::Molecular-Foundations-&-Genetics::01-Molecular-Foundations::04-Transcription::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "5443f99e6f63240721266181d0ddb7bef9fd71f812e49de8d314a5b682f4cc2f",
       "tags": [
         "JerryShen_AnKing_Tags::Molecular-Foundations-&-Genetics::01-Molecular-Foundations::04-Transcription::Class-Content"
       ]
@@ -11520,18 +11636,21 @@
     {
       "first_field_hash": "56bc0fa4d5248f7841979e6a88b653ab84e28d322b16547bce5d23f3746b1b9a",
       "tags": [
+        "JerryShen_AnKing_Tags::POM-4::Clinical-Reasoning::Approach-to-Edema::Class-Content",
         "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::02-Pulmonary-Circulation"
       ]
     },
     {
       "first_field_hash": "cf3ed4b6f3783bd2711c6675d14bf02963bef0cb89cdcde3cdad6fd0fdbbcdc2",
       "tags": [
+        "JerryShen_AnKing_Tags::POM-4::Clinical-Reasoning::Approach-to-Edema::Class-Content",
         "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::02-Pulmonary-Circulation"
       ]
     },
     {
       "first_field_hash": "38b429d2eed8181243836eac01c9c8df1fb16d611d75c265dafbbf939e631f90",
       "tags": [
+        "JerryShen_AnKing_Tags::POM-4::Clinical-Reasoning::Approach-to-Edema::Class-Content",
         "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::02-Pulmonary-Circulation"
       ]
     },
@@ -11652,6 +11771,12 @@
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::19-Central-&-Peripheral-Control-of-Circulation::Class-Content",
         "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::02-Pulmonary-Circulation::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "0d4d3cb9092dad3c17fa5d03ca75794b4d1ca0cabbe4931cc982de5e73f057a5",
+      "tags": [
+        "JerryShen_AnKing_Tags::POM-4::Clinical-Reasoning::Approach-to-Edema::Class-Content"
       ]
     },
     {
@@ -19751,7 +19876,8 @@
     {
       "first_field_hash": "f3dcf5ed7110bc0e35d46211acca9952a022f2c78aa10c8985686e5e6e11f8a3",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::27-Lung-Cancer::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::27-Lung-Cancer::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::04-Salivary-Gland-&-Esophagus"
       ]
     },
     {
@@ -21518,6 +21644,12 @@
       ]
     },
     {
+      "first_field_hash": "99270853f5693272b789d0c97fb383ed322830dbe8df276a83e22841fb94e0c0",
+      "tags": [
+        "JerryShen_AnKing_Tags::POM-4::Clinical-Reasoning::Approach-to-Edema"
+      ]
+    },
+    {
       "first_field_hash": "5354d33fa7496ab57947ad401cf5ad84b0dfd3cacc42247210328650598b650e",
       "tags": [
         "JerryShen_AnKing_Tags::POM-3::Clinical-Reasoning::Approach-to-Acute-Dyspnea",
@@ -22212,6 +22344,12 @@
       "first_field_hash": "269beb80df09f9298041cbd9e83f314a014b24e9fcb7252fd23081ea560c3078",
       "tags": [
         "JerryShen_AnKing_Tags::Immunology::Final::Hypersensitivity-and-Allergy"
+      ]
+    },
+    {
+      "first_field_hash": "0878c078af28b4d2161c21a48404774ebd0b2fa43916d32638b7f3d517998327",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::05-Stomach"
       ]
     },
     {
@@ -25826,6 +25964,7 @@
     {
       "first_field_hash": "fae3ab45dcf2335936a68a45bfc7c2c9983ccfd2a2bd8b58efb54b94b7797b5d",
       "tags": [
+        "JerryShen_AnKing_Tags::POM-4::Clinical-Reasoning::Approach-to-Edema::Class-Content",
         "JerryShen_AnKing_Tags::SOM-2::Renal-Block::19-Nephrotic-Syndrome",
         "JerryShen_AnKing_Tags::SOM-2::Renal-Block::19-Nephrotic-Syndrome::Class-Content"
       ]
@@ -37088,6 +37227,19 @@
       ]
     },
     {
+      "first_field_hash": "64d099136d8a2794085fe059ca7e5a733eec0f15fdecd68ccf5b8d33def10c86",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::05-Stomach",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::05-Stomach::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "9e4359b9abe432bdb7fad674f053a62dd337813405d4fefb48ac7b5546a8bc5f",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::05-Stomach"
+      ]
+    },
+    {
       "first_field_hash": "77b23c25f49f7a7db6f880cb0185fe033cb1e68bd41c3d5f29e11c931ba0628e",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Renal-Block::13-Urinalysis"
@@ -38671,6 +38823,12 @@
       ]
     },
     {
+      "first_field_hash": "9c844643782998203c3ddd0faef765b91736ca309fe62b962bbd36e906d223c2",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::05-Stomach::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "1b5d9a20c1a6d18b3f62fe7b314cec6df0d4b39804807f055f7a4f868f23ee5f",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::02-GI-Hormones::Class-Content"
@@ -38703,7 +38861,8 @@
     {
       "first_field_hash": "3bf788c7353dcd6a2ab9cc4711f312e5b7e8a27afa800dc398b3cbc34d4bcd3f",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::02-GI-Hormones::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::02-GI-Hormones::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::05-Stomach::Class-Content"
       ]
     },
     {
@@ -39052,6 +39211,30 @@
       ]
     },
     {
+      "first_field_hash": "0e2f0b59e605714d1ecda9eb54bbcd98ec09f17e77ac27dc587e95254cf12209",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::05-Stomach::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "483a62d3d15f660336a3230dc97c6a03ee0de698ede05db16db50db639443da6",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::05-Stomach"
+      ]
+    },
+    {
+      "first_field_hash": "ae416474c5c728f4b89e3683b1efeaa380d22109507e61d700144e6eed356cf7",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::05-Stomach"
+      ]
+    },
+    {
+      "first_field_hash": "cf0a0bf1fe3432ed3d5eb317d44cfbad6f06004fa54f66521b17fcd83560d044",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::05-Stomach"
+      ]
+    },
+    {
       "first_field_hash": "8b355a73324fbb54d86c3153f99daf7626967c451edf4ecea67024517545a22c",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::02-GI-Hormones::Class-Content"
@@ -39150,13 +39333,75 @@
     {
       "first_field_hash": "fd620f8659c109c8dd1b3ec7783e0b7f34833b2abda7b077ee9b9b7ebcd2ad70",
       "tags": [
-        "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-3-Abdomen::Histology::Class-Content"
+        "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-3-Abdomen::Histology::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::05-Stomach::Class-Content"
       ]
     },
     {
       "first_field_hash": "0728cfc83025cf5cf761651517cf60a909edc3cb25f754d9fac505375047cc54",
       "tags": [
-        "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-3-Abdomen::Histology::Class-Content"
+        "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-3-Abdomen::Histology::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::05-Stomach::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "764eb92c4e34b8870b5e03cbe0a99b3f8d95e83ad64cb710e9c6831fd9bf1f68",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::05-Stomach::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "98bbf39c801d595655fe3531f6ee80a98c973d567253774717f81fcc3700bc7c",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::05-Stomach::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "b7ebcc3ab954afacfe5a6e5fa54b27cf3273c68e42640f53817f6544c17bf4b7",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::05-Stomach::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "eceb708c3adabe9a6264443d4ba73d9ede28e1b8c722f047b779b799747001c2",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::05-Stomach::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "4a722ef2fbcb2170d8b89c571da23e1202f81c8782884a0b17c93cd31935cfa0",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::05-Stomach::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "65aa3ecedbd2241db967949f1c2fe85d058287c848eac9c521a57c55a4584483",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::05-Stomach"
+      ]
+    },
+    {
+      "first_field_hash": "a8820ddf7e3251d42bb4b0c4b479d296eece9921ec02ad407aa3657a75ee0447",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::05-Stomach::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "510b3a552a566afcdb089d5c1dcbf3430ce425433c05a2005d2f74aeaaa7389e",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::05-Stomach::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "c08fdab5eb2e19b8dac25267929f81f9e948d4e8652cb54bfd364c2cdb0ca197",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::05-Stomach::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "967aa44f8cf782e50d84cf5cf91650e7766c220c10db41ff69322837c790818b",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::05-Stomach"
       ]
     },
     {
@@ -39178,15 +39423,94 @@
       ]
     },
     {
+      "first_field_hash": "b7195c75b8181926c164e5485e22ffe13afe1617dbef65498ce1d1ed63b2e4d3",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::05-Stomach"
+      ]
+    },
+    {
+      "first_field_hash": "bbe9aed5bcc5b843578ed0ed1be18e9b837f918808913f7be87c961a8239aefd",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::05-Stomach"
+      ]
+    },
+    {
+      "first_field_hash": "28aaba30b1419c29a4e3899e6c0ba1bfee0f04414281d3c70f5380b70fa70d18",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::02-GI-Hormones"
+      ]
+    },
+    {
+      "first_field_hash": "563cecfc3dc2768145e8ac38f09af44ab4e475ccf77c6d7ac7ff0969e65442ad",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::05-Stomach"
+      ]
+    },
+    {
+      "first_field_hash": "dab9852e19d4fefb2bbaa2c7db1838765009618e162df3e70ac62c955cf7c9d9",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::05-Stomach::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "c74b2d486f99a846eb214766008727b967f3978e476b2002152d267b15fd205a",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::05-Stomach::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "6954337d7775271efc0f65b24129667fb18e0e852c41ae4a0ae4766521d0b5ef",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::05-Stomach::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "bca32f42f08a802a320e486e897c0b9ef514c6131c3edfc5e15a14378edd1e6f",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::05-Stomach::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "315ef9aaf236a58470ca37725d204f82d12ec8ecd4fa5e27bfc72ecfa83995aa",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::05-Stomach"
+      ]
+    },
+    {
       "first_field_hash": "83eb0635c84228a0fdb9d9a3940234e45038e576dea771e20d9bedc670222bea",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::02-GI-Hormones::Class-Content"
       ]
     },
     {
+      "first_field_hash": "af53a8d51339033f464deb122a2314f09a39f58a6a010db3539cef8b24e3e238",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::05-Stomach"
+      ]
+    },
+    {
+      "first_field_hash": "5a6ed8046a463a7a27d6ae44a99c39a6ab830b74a91d50f0f787baee0d66aae3",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::05-Stomach"
+      ]
+    },
+    {
+      "first_field_hash": "7f049ea17e3a250914915703cd6a4bb49cc9f1e017af362188ee18282028e1e1",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::05-Stomach::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "7dfb07ce31b6dee9bf81ec27cb32d6b4a86d54514fec124b20653c476c5373da",
       "tags": [
-        "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-3-Abdomen::Histology::Class-Content"
+        "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-3-Abdomen::Histology::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::05-Stomach::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "979aa0d0131fdb8dff096482c9a0995a53155f70f7fe22438eec59b01b21a66d",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::05-Stomach"
       ]
     },
     {
@@ -39199,6 +39523,12 @@
       "first_field_hash": "116d1f2ced618134d6d865f27335bff1b06b13ac2d3ebf7e462fa5e835c99af4",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::02-GI-Hormones::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "8c5795e6d191c7b78d5e7acea91d3a58fb7b1cffd68dd0d039ee0fca1b03c5bf",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::02-GI-Hormones"
       ]
     },
     {
@@ -39264,6 +39594,12 @@
       ]
     },
     {
+      "first_field_hash": "6d4933c95a4201cd8caaac6604530d6d30600abbac087cb6f7615f05b62a278c",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::05-Stomach::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "7c373731b0d5a62a99dd124e48528366bb3b698ed5d18ea09ff1cfdcad745bf3",
       "tags": [
         "JerryShen_AnKing_Tags::Biochemistry::Final::03-Lipid-Metabolism",
@@ -39274,6 +39610,24 @@
       "first_field_hash": "0f89dc14a07c5a179e49632fdbd76fe1df4e31215856be8df1c112529425a266",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::03-Fat-&-Micronutrient-Nutrition"
+      ]
+    },
+    {
+      "first_field_hash": "bca3f06e647d6278b9dc5dcfea291c66fab9e978481ce7694f0787c1968e70df",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::03-Fat-&-Micronutrient-Nutrition::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "197ef6c9b7733151862f75be36d3f00ab12170d663581f29929f30cd8b60916d",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::03-Fat-&-Micronutrient-Nutrition::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "9c8963d801f1b853691c3d23acf0a65955ca079217c4126a6463537459cee45e",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::03-Fat-&-Micronutrient-Nutrition::Class-Content"
       ]
     },
     {
@@ -39309,6 +39663,12 @@
     },
     {
       "first_field_hash": "dba2c1ada3b545fabcb09c507092666795d5b8775ab26850636c15f62fe77f70",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::04-Salivary-Gland-&-Esophagus"
+      ]
+    },
+    {
+      "first_field_hash": "4773ef144fc2ba424e522f038ca1d31d152a0f93d7ab03c90b4b1c1116794812",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::04-Salivary-Gland-&-Esophagus"
       ]
@@ -39930,9 +40290,380 @@
       ]
     },
     {
+      "first_field_hash": "08cc5748abfcefb0390657b37bda5de9e47ae928c7abab8b9d377b0fc6ee90c9",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::05-Stomach::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "299016847ebfd50c1d8f952b292558a687ad38e78e2432b3b5446087537cb455",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::05-Stomach::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "8cb57bf4839b056f856dca4f1d86656943e379b41de8c9cfaf0a0ea0088d2d49",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::05-Stomach"
+      ]
+    },
+    {
+      "first_field_hash": "869745519364675178c88dd3dd4b647014fe0c8360b7f11d6fba3fd838c9978c",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::05-Stomach"
+      ]
+    },
+    {
+      "first_field_hash": "0d42a574f56fd4cf7a2abccfa7a04ce62fd57510c87e3ccce57309123e6d78a2",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::05-Stomach"
+      ]
+    },
+    {
+      "first_field_hash": "cea9a1320f499ffd98d405dacc1ba614a0a49d073b954f5648f20968405e969a",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::05-Stomach"
+      ]
+    },
+    {
+      "first_field_hash": "3c5c9040d316ae7710f45805c5968e390190f5f1c873b0b467cee21e4f8981e1",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::05-Stomach"
+      ]
+    },
+    {
+      "first_field_hash": "24e92c66724a0f6860bf9d200e79a600405339f2a67c57355b9207c8fd8355d5",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::05-Stomach"
+      ]
+    },
+    {
+      "first_field_hash": "f9154db2be3166132ee0d3089089fa108986b9be9b9006e5c911bbb821913e7d",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::05-Stomach"
+      ]
+    },
+    {
+      "first_field_hash": "5ebc115f78b6d0055fa9c05db2c2b213846b143ed2b286592514cf42a5e13c9d",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::05-Stomach"
+      ]
+    },
+    {
+      "first_field_hash": "8abda413180e7fc2e71fef40224dbee2c972e4c4edf4d1bf927ce22c009adf21",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::05-Stomach"
+      ]
+    },
+    {
+      "first_field_hash": "a20a327205367b5f13576f81d87dac53c0fbeb36dc6754dda3525cae78bfa3ea",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::05-Stomach::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "20e0c632a343621337c22e4f15f136a3fda3e2aff16f949909daa52da3ef2987",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::05-Stomach::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "a48f40e89aedb4fb70ba89bc106068f2784d8ea97c445ff6b1246bf8f2565342",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::05-Stomach"
+      ]
+    },
+    {
+      "first_field_hash": "7b03b2fb62f887e3ac05c27913df7422dce2ca008038481267098c9a615154c2",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::05-Stomach"
+      ]
+    },
+    {
+      "first_field_hash": "f2eb94623b6889d061c6d033da27d4561ead5b1660edbfbb2d39f73a9ce53303",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::05-Stomach::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "dd6e82a209cd2623ccf9e1ad26a5d8f80a6d780a700e66690a1cda375445962b",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::05-Stomach"
+      ]
+    },
+    {
+      "first_field_hash": "b7823e6554ad405caea8fe8a6a15dd8337f784b6067d996c7ab12a29ef3acc3d",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::05-Stomach"
+      ]
+    },
+    {
+      "first_field_hash": "c612a4ff350a44edc6002fefc94087f05e3c34873ec912b82d4492ae63fe3d80",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::05-Stomach"
+      ]
+    },
+    {
+      "first_field_hash": "d5dc44e3651782e15658e4db746fdea5b941d5cc0abec7898b79a976811157ea",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::05-Stomach::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "d1aca4f89b502c3ec4673caf6c7f50743c49f1eb832098f98ca2c3cfa5b6ceeb",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::05-Stomach"
+      ]
+    },
+    {
+      "first_field_hash": "2d27d5062acc1bf71c14339c5db3fdeb9bfcb18351f1ef51796236bad79a89ff",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::05-Stomach::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "e99b8aa9452a4449fe6dcade0f7ef7e4bc533c9f56f71af41e44dd1de5c0611c",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::05-Stomach"
+      ]
+    },
+    {
       "first_field_hash": "945bd125021cfce4a7d603c6111af6f1e36be3de42c2437bff52aff7f173b37b",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::03-Fat-&-Micronutrient-Nutrition"
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::03-Fat-&-Micronutrient-Nutrition",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::05-Stomach::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "bc89408673d18955d6fb18ed2105b271db0235446d7cdb0514161b20d3bb3313",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::05-Stomach::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "4d54d522076771c92515c8a898006d1f683a47c7ae09b15c863651fe86d15da0",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::05-Stomach::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "b742541b3e1e3d099d5160eef417f3e2ed9ee558469041079bc53de1d9cec516",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::05-Stomach"
+      ]
+    },
+    {
+      "first_field_hash": "7141596643bf79f1ba346ae62c5c1df9a2033d6c0d5fc508f7d965a32c065b65",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::05-Stomach",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::05-Stomach::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "29270d9914b94cd476a6067c5427d4f777c5946af74207614ccd56f2a7007bd0",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::05-Stomach::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "5aaf06db8143235102524b2e726adbc9af6cec2f93b4cb5819bc6ae009646744",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::05-Stomach"
+      ]
+    },
+    {
+      "first_field_hash": "5b82f64c63e96786860d59af0549958d070d4f8eb118359cb54fe92fe7982cf1",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::05-Stomach::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "996bf1f203a1f2b4e987a6c1a274f613fec13faa7327b9fc62e923754881d4ab",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::05-Stomach"
+      ]
+    },
+    {
+      "first_field_hash": "3ece506f3c3a2ab319f4db20337fd3d783ccfcd7d53f5f19ace537511ffcd479",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::05-Stomach::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "d6a5938d338e7a4ae061c90afb5805c15c7e58a9c94e4bf4e80c97062efe09ac",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::05-Stomach"
+      ]
+    },
+    {
+      "first_field_hash": "b33c705fba1e4ea9e185307772faeacce554cae0a3558d2f9c68b57123f8e5c2",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::05-Stomach"
+      ]
+    },
+    {
+      "first_field_hash": "f5f09a40690ebee729634fe7208f04c12d0265c76f67dbf11ef8f76adc36c203",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::05-Stomach"
+      ]
+    },
+    {
+      "first_field_hash": "d0d2c999993e495ed722a651a639405ff4f32bb3d919949448ed765da126f00e",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::05-Stomach"
+      ]
+    },
+    {
+      "first_field_hash": "25da25a76fb59726e543e2e2e8bdbb9cdd6282d666b75527b594ff7bef765883",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::05-Stomach"
+      ]
+    },
+    {
+      "first_field_hash": "c320541c1f7592c30f9c2158c7957b9bfe32c1839146ffe0d021ff07bf6cdcea",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::05-Stomach"
+      ]
+    },
+    {
+      "first_field_hash": "264f74e51a937fee3dd3f53d291ff85377196e0dc0053ae9f323dcc270f1bf67",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::05-Stomach"
+      ]
+    },
+    {
+      "first_field_hash": "765fd61e965fa9694aec76b4943e929c8863f0b0118aa7a78f188eab1745c65d",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::05-Stomach"
+      ]
+    },
+    {
+      "first_field_hash": "75b8527feab2127867fba3aa2c41bb618e23a3c536d835468b9fc6d5d3ef3e7b",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::05-Stomach::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "f70caa03f23a547d73b239e29b0f3af5687bb5f9e04cc4cd973c15073b67d893",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::05-Stomach::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "2b656c8da7f530154208f3a9d18d3808582776213bbefb856639edb4cc6d9ae2",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::05-Stomach",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::05-Stomach::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "4ccf3b735eec794dbdc009928b5ea6ac129d7862ff4a1e44d43dc8e931ff5a0f",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::05-Stomach"
+      ]
+    },
+    {
+      "first_field_hash": "560379ebb1ced2f73059b79600230099000824b0c2866a1c2617f55c6f973bf1",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::05-Stomach",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::05-Stomach::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "5fafddc9425f4b8e9202d11ed9a8603a262115867f49c169e4e584942b69a85d",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::05-Stomach"
+      ]
+    },
+    {
+      "first_field_hash": "69b470f7770fddccd23ac6c6c4d639eccd774f17a989477c63c658da914fbc72",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::05-Stomach"
+      ]
+    },
+    {
+      "first_field_hash": "84d973f85129739fb513ddc1091ed88d3b6b9ebe025f8e5134dd3a1ecb15d70d",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::05-Stomach"
+      ]
+    },
+    {
+      "first_field_hash": "7092575d8687304ae6815198bcae0c04cd863b50755e813dfebf20bfcd1de352",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::05-Stomach",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::05-Stomach::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "ce3808cc9de30c5cb3107ed98cf86d925b8a58c07405f9145482edb9aa09269b",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::05-Stomach::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "4c81f317eaa7e641549d3a407ff677dd6f24626ce96673a8cb392ae58a3b2b28",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::05-Stomach"
+      ]
+    },
+    {
+      "first_field_hash": "a1a1d6d36bc183f89a46ba9aa4838747b791c4d17ba66d52e2b3a5474e519290",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::05-Stomach"
+      ]
+    },
+    {
+      "first_field_hash": "2981e0db3b830d3d709a41cffd6a6183cfa5db6eb9434deb41d8936dc062a887",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::05-Stomach"
+      ]
+    },
+    {
+      "first_field_hash": "84ab3cc9640301c599bb8ef8303461049aa22ecde2659e6f80ab1bf7dce35432",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::05-Stomach::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "6616969fd5d3f61979586a81b527cbb0bd33fe975fac75bb07b3e1f87af5c9c6",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::05-Stomach"
+      ]
+    },
+    {
+      "first_field_hash": "fcba2ee114d7a14c2d579e62d44c9328d4e8b42a1030e4d5d79e3d19a03905b0",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::05-Stomach::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "0edbea00208466ccd2200bc63663fc8f33d8ce05b6df0ec4113e4e916ab4f4e2",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::05-Stomach::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "98db1f4b62460151877abb40246781008f32678728da659b5e7adf383be44809",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::05-Stomach"
+      ]
+    },
+    {
+      "first_field_hash": "3d3f6a7c29f3aab8d502ce8553cd6ba65c7912588ddbd52640cc7d897ecc064d",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::05-Stomach"
+      ]
+    },
+    {
+      "first_field_hash": "de7b9578747978e72d29564fc0ea26ae16e50376f403ac4f4b220d36e4afeb1e",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::05-Stomach"
+      ]
+    },
+    {
+      "first_field_hash": "b723dbb21d027e6ed18a0a271819ca91de382d2ab8a7e1b5f720bd562ad05828",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::05-Stomach"
       ]
     },
     {
@@ -40050,7 +40781,8 @@
       "first_field_hash": "07c2f7118a9d9b3c9ab02fc92434759603bdc8afa484cf91add217b31a89c0d0",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::27-Lung-Cancer",
-        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::Lung-Lab-3-Cancer-&-ILD::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::Lung-Lab-3-Cancer-&-ILD::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::05-Stomach"
       ]
     },
     {
@@ -43017,6 +43749,7 @@
     {
       "first_field_hash": "e5f122da849ad73acfe9ee2b31666c155860e80b521d337e3d9be278417513b6",
       "tags": [
+        "JerryShen_AnKing_Tags::POM-4::Clinical-Reasoning::Approach-to-Edema",
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::36-Lymphatics"
       ]
     },
@@ -43027,7 +43760,25 @@
       ]
     },
     {
+      "first_field_hash": "aa7db038ea03fcb82a83a8811baa10b70e9f1560b8f361f8b10c11e9065c0443",
+      "tags": [
+        "JerryShen_AnKing_Tags::POM-4::Clinical-Reasoning::Approach-to-Edema::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "21f6716b236056c03c65054390ff0fbff778a5f7c2cfdb8064f9654c26f9e0fd",
+      "tags": [
+        "JerryShen_AnKing_Tags::POM-4::Clinical-Reasoning::Approach-to-Edema"
+      ]
+    },
+    {
       "first_field_hash": "65ddb8458f2d9604a786cb70bdb397bf3f84487c35d4816edc5a8a93cfa3d296",
+      "tags": [
+        "JerryShen_AnKing_Tags::POM-4::Clinical-Reasoning::Approach-to-Edema::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "c5739a2ef6c5e18432e98ca21232adb382f8f5e928fdceae4d1275116d1633c7",
       "tags": [
         "JerryShen_AnKing_Tags::POM-4::Clinical-Reasoning::Approach-to-Edema::Class-Content"
       ]
@@ -43124,6 +43875,18 @@
       ]
     },
     {
+      "first_field_hash": "1f61ba8953cfb46566e7f702ea3b21a9ca43e4419c8759e0e57a25619498678e",
+      "tags": [
+        "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-3-Abdomen::Anatomy::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "b51dae73a2ae3e0ac65c780843818f8a42e850d3e5b903ddc470ecb6a1d06592",
+      "tags": [
+        "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-3-Abdomen::Anatomy::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "b41c6c186b6ae56eb140f862c2889dc7573ba43679358a947b059b1f96fbb021",
       "tags": [
         "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-3-Abdomen::Anatomy::Class-Content"
@@ -43145,6 +43908,31 @@
       "first_field_hash": "67ec1bea6b72d82f9aa5b66e04dc805569c2b0ee6b144f13bb14d4933fadff21",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::04-Salivary-Gland-&-Esophagus::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "2bf63d401c5c620aa5d9181fabe73766bc39770a950f3a9beb751fbbae47b1c9",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::05-Stomach"
+      ]
+    },
+    {
+      "first_field_hash": "4a72afc817d299f4a3c7d7c546356d586ef99e876bce8fd2ae3ade8af87a71fa",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::05-Stomach",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::05-Stomach::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "783e72ea048e36d97d935e524ead3430bf85dee15c615bc0f7a82fd71428bbc9",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::05-Stomach"
+      ]
+    },
+    {
+      "first_field_hash": "1b5cbf50dd2c1c88288ac244498d7c4d37b0080b39e04b9845ee22977b3bfdd2",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::05-Stomach"
       ]
     },
     {
@@ -43259,7 +44047,14 @@
     {
       "first_field_hash": "0cd4735a1f27974c8e6107f5e605d27a3f04e7220ee2dfe0c4b111fdfab012f4",
       "tags": [
-        "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-3-Abdomen::Anatomy::Class-Content"
+        "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-3-Abdomen::Anatomy::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::05-Stomach"
+      ]
+    },
+    {
+      "first_field_hash": "293834ddc8daa4d8400cf731d72263dafc9893d9169d7bb8e2058b31eaeb0d97",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::05-Stomach"
       ]
     },
     {
@@ -43271,25 +44066,29 @@
     {
       "first_field_hash": "ee2f8658b889697696c7e84a5d8d4b21ea0f82da813aae0a02c8fdda15774736",
       "tags": [
-        "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-3-Abdomen::Anatomy::Class-Content"
+        "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-3-Abdomen::Anatomy::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::05-Stomach"
       ]
     },
     {
       "first_field_hash": "4518963320177552600de16d1ff12ea58abca30190f436e0ecbc2ca7c84881dc",
       "tags": [
-        "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-3-Abdomen::Anatomy::Class-Content"
+        "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-3-Abdomen::Anatomy::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::05-Stomach"
       ]
     },
     {
       "first_field_hash": "d4b8773a5512f5d97fcfe69a96bb47d1fea6914feb7f3d07c7bfc8824b9c271c",
       "tags": [
-        "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-3-Abdomen::Anatomy::Class-Content"
+        "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-3-Abdomen::Anatomy::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::05-Stomach"
       ]
     },
     {
       "first_field_hash": "cbc9234cd2c5539f47793943cd4e701075a55d5220d9d55e023d4dc12512438b",
       "tags": [
-        "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-3-Abdomen::Anatomy::Class-Content"
+        "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-3-Abdomen::Anatomy::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::05-Stomach"
       ]
     },
     {
@@ -43301,7 +44100,8 @@
     {
       "first_field_hash": "82f0c0b989840f312a8121807f899d98bc7d86a9b0f49403bb8bf09c61e300f3",
       "tags": [
-        "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-3-Abdomen::Anatomy::Class-Content"
+        "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-3-Abdomen::Anatomy::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::05-Stomach"
       ]
     },
     {
@@ -46560,7 +47360,8 @@
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::06-Intro-to-Lung-Histology",
         "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::06-Intro-to-Lung-Histology::Class-Content",
-        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::27-Lung-Cancer::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::27-Lung-Cancer::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::04-Salivary-Gland-&-Esophagus"
       ]
     },
     {
@@ -46774,6 +47575,12 @@
       "first_field_hash": "064127903790cb1059c40e5f2c30e132a7297d772b61c7ac8d799c75210ed067",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::29-Therapies-for-IHD::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "e9a8e260cadddf4e169357b009208abdb755fa2a781134cbf7ab3a9cf5e08264",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::05-Stomach"
       ]
     },
     {
@@ -48642,6 +49449,12 @@
       ]
     },
     {
+      "first_field_hash": "f82bd349627687b335c4eb8ba0d6be28243c519df89c2360a9d504a9ff894574",
+      "tags": [
+        "JerryShen_AnKing_Tags::POM-4::Clinical-Reasoning::Approach-to-Edema::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "7c68fa371ad6d9103a334804ce3fd3836e7e058f69792310e87cbb2bebfb6f98",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::23-Endocarditis"
@@ -48711,6 +49524,13 @@
       "first_field_hash": "17cdff798fd1d060296f932675e2cbfa39f7803d96c1e21c4ee543ef03875183",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::04-Salivary-Gland-&-Esophagus"
+      ]
+    },
+    {
+      "first_field_hash": "bb4b6a928a33d1fe2bf876a43449ae17240416de456eddb32d8c62c5afda3e16",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::05-Stomach",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::05-Stomach::Class-Content"
       ]
     },
     {
@@ -49680,7 +50500,8 @@
       "first_field_hash": "e20ee5ad8ab93069e7c343be5ed79fc77fe93ad64189e4f1eccb4b86273dd6c4",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::27-Lung-Cancer",
-        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::Lung-Lab-3-Cancer-&-ILD::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::Lung-Lab-3-Cancer-&-ILD::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::05-Stomach"
       ]
     },
     {
@@ -53228,6 +54049,12 @@
       ]
     },
     {
+      "first_field_hash": "0202fa8d9823676dd980b3054b9895da2870d9b405a1a35075fd065914ebadb8",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::05-Stomach"
+      ]
+    },
+    {
       "first_field_hash": "e72f0679e4be69d1390b33f75d37fcc3e6332efb2122c506fc4af5bf73bf2a3c",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::22-Peripheral-Arterial-&-Aortic-Disease"
@@ -53490,7 +54317,7 @@
       ]
     },
     {
-      "first_field_hash": "c157bc90a608168acb2158ddc06fc47a39e075f24914c4c96c59be961fff32d0",
+      "first_field_hash": "23b1f0be81ff248cab53382c857303e486dca386d01fe60e8ee45a1c77cecbae",
       "tags": [
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-1::04-Intro-to-Viruses"
       ]
@@ -53919,6 +54746,12 @@
       "first_field_hash": "e8fa38a5a599d74c75190ddec0444acc1ec2ac39f554ac33c81179cce5a00ab6",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::11-GH-IGF1-&-Prolactin"
+      ]
+    },
+    {
+      "first_field_hash": "f3e743f1325b0149849d96569ce7045823bbf5184dcc066a2f8a2ffc77e4c791",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::05-Stomach"
       ]
     },
     {
@@ -55155,6 +55988,12 @@
       "first_field_hash": "7b1810518b637ac8d7289302a74ac0ff98bdaa74e16d2b4107894bceeda0c10a",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::MSK-Block::Lab-01-MSK-Cases"
+      ]
+    },
+    {
+      "first_field_hash": "dd3e4b22fe112bd8492d4aae84f7df51c928436bc220cb44d9f4090f514d4833",
+      "tags": [
+        "JerryShen_AnKing_Tags::POM-4::Clinical-Reasoning::Approach-to-Edema"
       ]
     },
     {
@@ -58361,6 +59200,12 @@
       ]
     },
     {
+      "first_field_hash": "da1e1398dcc0a4e440698aaa9d40e583b5bf7e039b98da033bb4a40b18adbbf9",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::05-Stomach"
+      ]
+    },
+    {
       "first_field_hash": "42616dd9d513109a707e135855d35d8c39a98d8989bef83a3e0ad6f6dee7ee11",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Renal-Block::16-Acute-Kidney-Injury"
@@ -59026,6 +59871,18 @@
       "first_field_hash": "73b13205d8ce91c025ee54bb87d901e6fb66c25e1114aa2df4c6b044cfcfd50e",
       "tags": [
         "JerryShen_AnKing_Tags::Cancer-Biology::Final::Cancer-Pharmacology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "653ca2f0dcd2bc204478aa80532517cc7f0ff91034acc35a2003cbb70023ee28",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::05-Stomach"
+      ]
+    },
+    {
+      "first_field_hash": "ee092f7883985985b24776f03efaa3f3c47c060f49ca7dfe3679af49b5d95663",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::05-Stomach"
       ]
     },
     {
@@ -61244,9 +62101,96 @@
       ]
     },
     {
+      "first_field_hash": "fad301263db245d0e933a2cb33b0e318560b9527af726cc4c28b32253aea4a17",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::05-Stomach::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "6a4cac4a92bd17fc0ca263f695e6681102194afe48ba587c5725029ddcebaef7",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::05-Stomach"
+      ]
+    },
+    {
+      "first_field_hash": "7e15b0a95e140330fe92b51b9464054344c32704d9123b6a724a42caafd05635",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::05-Stomach::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "3c4cb1a20abe0801ebf3377e90802c2d7edfc72798359df1951efd2c9fc68f29",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::05-Stomach::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "ea4be7d766d4e59040baf78d18400195f8b9d6c79a348f810306aff2da603e06",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::05-Stomach",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::05-Stomach::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "3328d63faba2dda467009ab17a089bbd510d38ff0eb9ddf847761beca3307f40",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::05-Stomach::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "946eaeb3b20bf36be50ae062179c56f7baa96ba0bd354905a62370856675bc4e",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::05-Stomach::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "31f2b4daf027f6127af386c7dc66439a64e71ca9de7c34a8b406ab70dabb6ea1",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::05-Stomach::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "82641a2500b5999ac8ffebdee2bd8f45148920d80f7026f8a46f7deab9806fcb",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::05-Stomach"
+      ]
+    },
+    {
+      "first_field_hash": "4450bfb71a6b5ae15049efd1b170a993e7ca3905afc902469ffc3022d4ca564c",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::05-Stomach"
+      ]
+    },
+    {
+      "first_field_hash": "15c7211d3dcf26875614f66ee9a07fde74c10ea56f4c4ced630a5ae4c3073840",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::05-Stomach"
+      ]
+    },
+    {
       "first_field_hash": "5eb50604bf82fbd524768382b58387eb034b152c27ad3c3bb4dd7db78c19a30e",
       "tags": [
-        "JerryShen_AnKing_Tags::Micro-Pharm::Exam-2::08-Other-Antibiotics-&-Mycobacteria"
+        "JerryShen_AnKing_Tags::Micro-Pharm::Exam-2::08-Other-Antibiotics-&-Mycobacteria",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::05-Stomach"
+      ]
+    },
+    {
+      "first_field_hash": "572c3b08c32e770eba0e00cd562771b121d330b42dff36cbb618c4650a359a77",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::05-Stomach",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::05-Stomach::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "d7aead82401986b1461e13a69ca767746b0960e3e7c49f9bc7e6897c47bbbd75",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::05-Stomach"
+      ]
+    },
+    {
+      "first_field_hash": "48c9d4474c4c4af86ff0b853b714f7a5d4d0c90adcf6471a2202e23f5d6b9e84",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::05-Stomach::Class-Content"
       ]
     },
     {
@@ -62146,6 +63090,13 @@
       "first_field_hash": "6789a3580ab17c910cdbc42db0338b0dfa5342a4b13130e9bc54da5a811a6ead",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::MSK-Block::05-Lower-Limb-Pathology"
+      ]
+    },
+    {
+      "first_field_hash": "62edaa5b8e7dd97798193e2c18c727f180240ebd1f6b46a798f47d91e89e9af8",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::05-Stomach",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::05-Stomach::Class-Content"
       ]
     },
     {
@@ -63787,6 +64738,12 @@
       ]
     },
     {
+      "first_field_hash": "262ab9bbb03cdc01e60b05264fa6d6a7648717e7f26563b5336c8a096a27ea26",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::05-Stomach::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "96a5bd14c3b5e538a4b959c4661a3c38883442673a7ad40342e5b079956c1771",
       "tags": [
         "JerryShen_AnKing_Tags::Molecular-Foundations-&-Genetics::01-Molecular-Foundations::04-Transcription"
@@ -63908,6 +64865,12 @@
       "first_field_hash": "97c1034744c820e143a9576c771b48d9feb7e9eae272a7df70a4cfa602251c47",
       "tags": [
         "JerryShen_AnKing_Tags::Cancer-Biology::Final::05-Cancer-Genes-&-Pathways"
+      ]
+    },
+    {
+      "first_field_hash": "ab94d5e53defcd5ee0d2ac4999801ac695419f5cd790e3493e2fe45e22b14e93",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::05-Stomach"
       ]
     },
     {
@@ -64113,7 +65076,8 @@
     {
       "first_field_hash": "7396c9d9122fc2a943e7ee2b92ebab31b8144e019d204123a6f82c206605f360",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::Lung-Lab-3-Cancer-&-ILD::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::Lung-Lab-3-Cancer-&-ILD::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::05-Stomach::Class-Content"
       ]
     },
     {
@@ -65512,6 +66476,30 @@
       ]
     },
     {
+      "first_field_hash": "d7d738a4c521090b1318b8530db5e17c8789b157ed3a9ca2bcda11f546eb8859",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::05-Stomach::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "67aa44983a2f16280f9281ff5daa12afba607f1a3f9c294c50ea43654ae9eae7",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::05-Stomach::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "7a6778cdbed7735f49aa835a37f5dc6367505e405003a8ac5a58c3e374a4a717",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::05-Stomach::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "e6c8925ec7d48ad2cace7c74f508693e6f81d9fbd38d8d10d1888da43765905f",
+      "tags": [
+        "JerryShen_AnKing_Tags::POM-4::Clinical-Reasoning::Approach-to-Edema::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "14d3e41299824f8ef575dbe50673f8c1d8e83eafd15f0e42075d2d418d0407cc",
       "tags": [
         "JerryShen_AnKing_Tags::POM-3::Clinical-Reasoning::Approach-to-Syncope",
@@ -66690,6 +67678,12 @@
       ]
     },
     {
+      "first_field_hash": "1e256580e3f6fd9468953d85b1def74bc7d9e0d8f4d78d97d17ce0cd6f3c38d0",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::05-Stomach::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "4b92cd18657f31375180ef95ab343d21f1bb67403c96c968585080fde4f574b4",
       "tags": [
         "JerryShen_AnKing_Tags::POM-3::Psychiatry::Mood-Disorders"
@@ -66947,6 +67941,12 @@
       "first_field_hash": "118c49698fa465bf2bb6a8f8b7b36602dd86820896947c71c97b1327399ff6e9",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::04-Salivary-Gland-&-Esophagus"
+      ]
+    },
+    {
+      "first_field_hash": "528feab685f85ec548cae0e7500959c77af9fe1078bba806560e795e98fda0eb",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::05-Stomach"
       ]
     },
     {
@@ -67411,6 +68411,12 @@
       ]
     },
     {
+      "first_field_hash": "77ca93fa423a2f7e88bd7df18ac349329dfa4c6e4fb767510f47c42fe2bbac0c",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::05-Stomach"
+      ]
+    },
+    {
       "first_field_hash": "f22fc6e2184c7b3d7db08e12e94d1d86d515083c81d5b11784d4c070b25c4ec1",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::04-Salivary-Gland-&-Esophagus"
@@ -67498,6 +68504,12 @@
       "first_field_hash": "7dcdc432f867bb5651815860f9af140b3ccd6d1f3d99700db4fe8e1645c5d887",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::22-Peripheral-Arterial-&-Aortic-Disease"
+      ]
+    },
+    {
+      "first_field_hash": "c82a9258fd1099599d03e9627e6ca6ee36742acb80950b11c54d956c2bba80e6",
+      "tags": [
+        "JerryShen_AnKing_Tags::POM-4::Clinical-Reasoning::Approach-to-Edema::Class-Content"
       ]
     },
     {
@@ -67748,6 +68760,13 @@
       ]
     },
     {
+      "first_field_hash": "0772c06090779d8306fc0f682e6651f62af2a63c81abf934695f6ea888842d13",
+      "tags": [
+        "JerryShen_AnKing_Tags::POM-4::Clinical-Reasoning::Approach-to-Edema::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::22-CKD-Complications-&-Treatment"
+      ]
+    },
+    {
       "first_field_hash": "2eec9370bea8788e21a9b708193a43946ea574f12e9d4ad45021b7b330090b04",
       "tags": [
         "JerryShen_AnKing_Tags::Immunology::Final::Immune-Deficiencies::Class-Content"
@@ -67974,6 +68993,12 @@
       ]
     },
     {
+      "first_field_hash": "912c2b07f5071df1171c938d10bb2251ebe96a8e5a32312cad91f9e3ddca7a02",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::22-CKD-Complications-&-Treatment"
+      ]
+    },
+    {
       "first_field_hash": "4474e5d78503b304401bbe647fd99ec5f45f7bc10f9d7dbc0462b7ca0e413170",
       "tags": [
         "JerryShen_AnKing_Tags::POM-4::Clinical-Reasoning::Approach-to-AKI::Class-Content"
@@ -68013,6 +69038,12 @@
       "first_field_hash": "14a49aae82c352c8135d972e84fa52e81e999c90339f61e771c4b91bd892e5b6",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Renal-Block::09-Metabolic-Acidosis-&-Alkalosis"
+      ]
+    },
+    {
+      "first_field_hash": "f9cf99df615f41422031102d27d93183f69286a9cdac2b15551af9996fdcffc7",
+      "tags": [
+        "JerryShen_AnKing_Tags::POM-4::Clinical-Reasoning::Approach-to-Edema::Class-Content"
       ]
     },
     {
@@ -68143,6 +69174,12 @@
       ]
     },
     {
+      "first_field_hash": "69c254509046572307fe921068eed3846f1d80e42e7e20629158c2354bc103da",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::05-Stomach::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "82d6312add963d92176b8e0ab927f894abe77d2f0076f93eae93a4a13ca6b6c4",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::16-Thyroid-Physiology-&-Pathophysiology::Class-Content"
@@ -68152,6 +69189,12 @@
       "first_field_hash": "9cb1fe0a9b3d753e5b883f48bad1468d44dabd1d5f724beb7d1c88d749ec53ee",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::16-Thyroid-Physiology-&-Pathophysiology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "a7fbdac06c75fc9cb4f41a7904971e8afa67606a5f5132f6672b314cf8b3eecc",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::04-Salivary-Gland-&-Esophagus"
       ]
     },
     {
@@ -68337,6 +69380,12 @@
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Renal-Block::16-Acute-Kidney-Injury",
         "JerryShen_AnKing_Tags::SOM-2::Renal-Block::16-Acute-Kidney-Injury::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "85eb91d9fe59dda265981a9516142439815f5bd71a5fa521c7ca8b7211deb977",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::05-Stomach::Class-Content"
       ]
     },
     {
@@ -69325,6 +70374,24 @@
       ]
     },
     {
+      "first_field_hash": "f4a4ad0e995ed9b58930adf4bc4f441837eda0ef8a783178df5dcb16d1a51845",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::05-Stomach"
+      ]
+    },
+    {
+      "first_field_hash": "992feddcf018c871ae624fe6b6eb800ae6b8026c667af26d5536ca486c54f58c",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::05-Stomach"
+      ]
+    },
+    {
+      "first_field_hash": "3a5e0c6087310078718e1311bdc0dd495ef38dba6b970c6c8fd963e1800583ce",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::05-Stomach"
+      ]
+    },
+    {
       "first_field_hash": "6e8012f979cf01a4d516ea3b3c010758728718b1395be3e17b3bfb676613e65c",
       "tags": [
         "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-3-Abdomen::Anatomy::Class-Content"
@@ -69378,6 +70445,12 @@
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::31-Treatment-of-Hypertension",
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::31-Treatment-of-Hypertension::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "c006012e9cc0606e9eceed2f8eb8f5509e3c2ad0a1e69f8c08fdf1a9c4408fb4",
+      "tags": [
+        "JerryShen_AnKing_Tags::POM-4::Clinical-Reasoning::Approach-to-Edema::Class-Content"
       ]
     },
     {
@@ -69571,6 +70644,12 @@
       "first_field_hash": "84a23f521170d2b76c8fc982f42a58fa2b4ba995f71686aa058476ecf7c4c2df",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::15-Bone-Pathophysiology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "cf14ccfa8e509d1c9ac6dfd3870815da9963782156ac21a63cc602359ae89cf7",
+      "tags": [
+        "JerryShen_AnKing_Tags::POM-4::Clinical-Reasoning::Approach-to-Edema"
       ]
     },
     {
@@ -72977,6 +74056,12 @@
       ]
     },
     {
+      "first_field_hash": "20ae782a94da5e496efe0444f46e9bba5e9e9ec306f9fbfb3bb1527b89fc8499",
+      "tags": [
+        "JerryShen_AnKing_Tags::POM-4::Clinical-Reasoning::Approach-to-Edema::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "fdac8faf237be80fee2140f4f18ddbc4fa3ededb5c368e910370c6cb03b4b0b9",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::MSK-Block::Lab-01-MSK-Cases"
@@ -73231,6 +74316,12 @@
       ]
     },
     {
+      "first_field_hash": "2f07d4413fd5007a833c6a15cebee3d1f71b479615a313c3c1e15bb9cd90bfa9",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::05-Stomach"
+      ]
+    },
+    {
       "first_field_hash": "3b884fc9d6d4c1999acd00fa0a6d939db1e821902e91d32a4f615136b376e683",
       "tags": [
         "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-5-Lower-Limb::Anatomy::Class-Content"
@@ -73433,6 +74524,24 @@
         "JerryShen_AnKing_Tags::POM-2::Final::Clinical-Skills",
         "JerryShen_AnKing_Tags::POM-2::Final::Clinical-Skills::Class-Content",
         "JerryShen_AnKing_Tags::SOM-1::MSK-Block::04-Upper-Limb-Pathology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "97b6e6f190697ab4584a21c2c4772b62b40b702f80424c82101bb6aef02b7912",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::05-Stomach::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "2e8c676bd397d26c1ce6d731e9b15462330f2f96e27be5ddc0e01a457aff40f0",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::05-Stomach::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "683c5945b8f98a82b9c2df23b068495cbac9acb3bd0cf0e33d6ccf5a18e2b9bb",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::05-Stomach::Class-Content"
       ]
     },
     {
@@ -75639,15 +76748,65 @@
       ]
     },
     {
+      "first_field_hash": "89b8bb075acb476f22966bbd12ea452f02901f62294500e9784d5be36c7e00a9",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::05-Stomach"
+      ]
+    },
+    {
+      "first_field_hash": "e00d6fb5a3b5ed1c013683a3286c9dc11b01d933bcc460cce237675afebbd156",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::05-Stomach::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "654d7542b9955288fc47124398692118eadc73e3d1ab71be583971f177f82551",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::05-Stomach::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "2cad1f48a3d2407e4f3babeb9c4a02625adaf160c01f6fa0c524df075af4e2ba",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::05-Stomach::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "a057e8767359304c4f64a072ec808869f4c0cbfba9cac34780cd0290116b401d",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::05-Stomach",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::05-Stomach::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "05f8af45cfbfe5cf247abd13d2f6eced93baaf588166fe8331f513adf576f77e",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::05-Stomach::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "46fc6a7b60c6bbba7ed9dd1c893d74ffed888f36ee97a6fa9de18080b6218520",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::01-Intro-to-GI-Physiology::Class-Content"
       ]
     },
     {
+      "first_field_hash": "d36472a5690214fb53f43921c685893c2e0a21534ad9b1143d89f713994f3017",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::05-Stomach",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::05-Stomach::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "e7f08463ffacf65a84ceefdec5e7b442623672a303f14d177a2169982d4da946",
       "tags": [
         "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-3-Abdomen::Anatomy"
+      ]
+    },
+    {
+      "first_field_hash": "c26f08c078d1b7c71993bfc0c620fbf2042e99deba981e4222f277abd57afe09",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::05-Stomach::Class-Content"
       ]
     },
     {
@@ -75976,6 +77135,12 @@
       ]
     },
     {
+      "first_field_hash": "dc2cb1a3c2494fbbac7a3e94490290ceeec68c8654d96d26c3ffe7c67b18420b",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::05-Stomach::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "a4785c14e4d396f66be458b6ff70225f3f9807724e5e4ab5602e72ae32e35e3f",
       "tags": [
         "JerryShen_AnKing_Tags::Molecular-Foundations-&-Genetics::02-Genetics::08.3-Prenatal-Genetics"
@@ -76175,6 +77340,12 @@
       ]
     },
     {
+      "first_field_hash": "404143b8ed1560de00d37e329754333468f2adc35e0cef8d9a116d6e71ba1d78",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::05-Stomach::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "b820b17c6beff5f46dc919715ee7a1c504716f4842e90c755a889b54ba3c0ba5",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::27-Lung-Cancer"
@@ -76208,6 +77379,12 @@
       ]
     },
     {
+      "first_field_hash": "249086e09e630cd37c90c9749a28908394d30dfb92c4c6b462ce5076fc0eee72",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::05-Stomach"
+      ]
+    },
+    {
       "first_field_hash": "0f4288b92bcaec20db2c38edfe5cd00e813660b1f7f8281daa7e608814e3adc6",
       "tags": [
         "JerryShen_AnKing_Tags::Molecular-Foundations-&-Genetics::02-Genetics::03-Chromosomes::Class-Content"
@@ -76217,6 +77394,12 @@
       "first_field_hash": "aa781975b5e4c563c98562570f15b2e20fdbdf684cc7d450886c72d98a841993",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Renal-Block::06-Disorders-of-Water-Balance"
+      ]
+    },
+    {
+      "first_field_hash": "8fe01a82f341854884e9cc0a23c4cea2a6615a615ba1c4d8a9a45595a9008196",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::05-Stomach"
       ]
     },
     {
@@ -76264,6 +77447,12 @@
         "JerryShen_AnKing_Tags::Biochemistry::Final::03-Lipid-Metabolism",
         "JerryShen_AnKing_Tags::Biochemistry::Final::05-Nitrogen-Metabolism",
         "JerryShen_AnKing_Tags::POM-4::Clinical-Reasoning::Approach-to-Palpitations"
+      ]
+    },
+    {
+      "first_field_hash": "0c0d30d2631952b47f5958cddd85de20139d0e56daeef04bc0d409c8402f29e6",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::05-Stomach"
       ]
     },
     {
@@ -76319,6 +77508,12 @@
       "tags": [
         "JerryShen_AnKing_Tags::POM-3::Clinical-Reasoning::Approach-to-Acute-Dyspnea::Class-Content",
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::16-Clotting-&-Thromboembolic-Disease"
+      ]
+    },
+    {
+      "first_field_hash": "0af1ff09ecc9703cfc802acf0ddbfe8f09af36396467fd02e5a03a66866142bd",
+      "tags": [
+        "JerryShen_AnKing_Tags::POM-4::Clinical-Reasoning::Approach-to-Edema::Class-Content"
       ]
     },
     {
@@ -76443,6 +77638,13 @@
       ]
     },
     {
+      "first_field_hash": "de3d6a54d786384d0696a65e1d8d062742bd4d9a3b89e5c4fbd1518ef7762c24",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::05-Stomach",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::05-Stomach::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "9d057de54b7e48b9643adbb05fbf478a0fdea1869bea9b4b8c5e3b70e6b992e3",
       "tags": [
         "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-6-Head-&-Neck-1::Embryology::Class-Content"
@@ -76545,6 +77747,12 @@
       ]
     },
     {
+      "first_field_hash": "6e6d02f4658525ed8b3bae1e37bafaff728696180a73c55735800ac22e85b3de",
+      "tags": [
+        "JerryShen_AnKing_Tags::POM-4::Clinical-Reasoning::Approach-to-Edema"
+      ]
+    },
+    {
       "first_field_hash": "68d0bb45464ab41055059ff2af988fd5fb369a201c334121bdc899018468282f",
       "tags": [
         "JerryShen_AnKing_Tags::Molecular-Foundations-&-Genetics::02-Genetics::08.1-Inherited-Metabolic-Disorders"
@@ -76572,6 +77780,12 @@
       "first_field_hash": "0812db8db1861992723eb6e2c2385a5cc714059bb600787ace26da5da8c32531",
       "tags": [
         "JerryShen_AnKing_Tags::POM-3::Clinical-Reasoning::Approach-to-Chest-Pain"
+      ]
+    },
+    {
+      "first_field_hash": "ca94ad345ebd74604723ee5497479b91f156fda8276360e6ba2313351dea4aeb",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::05-Stomach"
       ]
     },
     {
@@ -77785,6 +78999,12 @@
       ]
     },
     {
+      "first_field_hash": "f319f9b9dbc83be0d8e142f8442ee5cd420e184c6f0c4d1762c1d46f8c3b201f",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::05-Stomach"
+      ]
+    },
+    {
       "first_field_hash": "e585da7d00c6b62124ef9f16030679326a2b721ac5abda3ffd9eb1bc9daf16f3",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::MSK-Block::08-Pediatric-Orthopaedics::Class-Content"
@@ -77899,6 +79119,12 @@
       "first_field_hash": "a892c73fa2ba623da52b304b6c64daee39b379986b2ba166a88a6fb4b1f7c798",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::09-Supraventricular-Tachycardia-&-Antiarrhythmics::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "816b2fa0a5ead86c0f7c15b6d72b060159da7d25d84e4383157fab0eac144951",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::05-Stomach::Class-Content"
       ]
     },
     {
@@ -78067,6 +79293,12 @@
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::18-Adrenal-Physiology",
         "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::18-Adrenal-Physiology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "f2ca8d5441733ec06e0e6633b898dfecd9448643606725ce85c900995751f436",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::05-Stomach::Class-Content"
       ]
     },
     {
@@ -78622,6 +79854,12 @@
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::04-Salivary-Gland-&-Esophagus",
         "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::04-Salivary-Gland-&-Esophagus::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "cb4ea663275135cdef74f832c538a42583a02f16147008568d8583d8ea3adf43",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::05-Stomach::Class-Content"
       ]
     },
     {
