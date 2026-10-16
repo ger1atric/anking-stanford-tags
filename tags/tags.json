@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
   "author": "JerryShen",
-  "description": "gi",
-  "created": "2026-10-14T04:06:00.244193+00:00",
-  "updated": "2026-10-14T04:06:00.244193+00:00",
+  "description": "for kenny",
+  "created": "2026-10-16T04:02:34.554840+00:00",
+  "updated": "2026-10-16T04:02:34.554840+00:00",
   "tag_prefix": "JerryShen_AnKing_Tags",
   "tag_hierarchy": [
     "JerryShen_AnKing_Tags",
@@ -575,7 +575,13 @@
     "JerryShen_AnKing_Tags::SOM-2::Repro-Block::01-Testicular-Physiology",
     "JerryShen_AnKing_Tags::SOM-2::Repro-Block::01-Testicular-Physiology::Class-Content",
     "JerryShen_AnKing_Tags::SOM-2::Repro-Block::02-Hormone-Replacement-&-Suppression-Therapy",
-    "JerryShen_AnKing_Tags::SOM-2::Repro-Block::02-Hormone-Replacement-&-Suppression-Therapy::Class-Content"
+    "JerryShen_AnKing_Tags::SOM-2::Repro-Block::02-Hormone-Replacement-&-Suppression-Therapy::Class-Content",
+    "JerryShen_AnKing_Tags::SOM-2::Repro-Block::03-HPO-Axis-&-Menstrual-Cycle",
+    "JerryShen_AnKing_Tags::SOM-2::Repro-Block::03-HPO-Axis-&-Menstrual-Cycle::Class-Content",
+    "JerryShen_AnKing_Tags::SOM-2::Repro-Block::04-Steroid-Hormone-Pharmacology",
+    "JerryShen_AnKing_Tags::SOM-2::Repro-Block::04-Steroid-Hormone-Pharmacology::Class-Content",
+    "JerryShen_AnKing_Tags::SOM-2::Repro-Block::05-Physiology-of-Pregnancy",
+    "JerryShen_AnKing_Tags::SOM-2::Repro-Block::05-Physiology-of-Pregnancy::Class-Content"
   ],
   "changelog": [
     {
@@ -909,6 +915,11 @@
       "date": "2026-10-14T04:06:00.244193+00:00",
       "message": "gi",
       "note_count": 224
+    },
+    {
+      "date": "2026-10-16T04:02:34.554840+00:00",
+      "message": "for kenny",
+      "note_count": 324
     }
   ],
   "notes": [
@@ -1322,6 +1333,12 @@
       ]
     },
     {
+      "first_field_hash": "e7a40ad67b539b7ecada35c054390de7177e8b5590d9ed58716f25754c866505",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::05-Physiology-of-Pregnancy::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "528f9795d002895997148c97ed2018d3881ba82f2935ee11ed2f2dde0d59c0c3",
       "tags": [
         "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-1-Thorax::Embryology"
@@ -1677,13 +1694,15 @@
     {
       "first_field_hash": "d9079a93e18a4f8bf07ad56a3c98faa0797854a70e5d208901d8544cb25261eb",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::01-Intro-to-Endocrine-Block"
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::01-Intro-to-Endocrine-Block",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::04-Steroid-Hormone-Pharmacology::Class-Content"
       ]
     },
     {
       "first_field_hash": "aef1898e2eb83a5d809b19617dfc1bdfb1bd95f0872f01e03a8b515435214b14",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::01-Intro-to-Endocrine-Block"
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::01-Intro-to-Endocrine-Block",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::04-Steroid-Hormone-Pharmacology::Class-Content"
       ]
     },
     {
@@ -2545,6 +2564,12 @@
       ]
     },
     {
+      "first_field_hash": "c103021fb7c6997a942eb726a2b6642aeae142dcff3beda394eb4d3001963919",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::16-Thyroid-Physiology-&-Pathophysiology"
+      ]
+    },
+    {
       "first_field_hash": "c3632eefd5ce25709083a378ae9c322938d0b8847aa183e2b24711ff51105f1f",
       "tags": [
         "JerryShen_AnKing_Tags::POM-3::Clinical-Reasoning::Advanced-CV-Exam::Class-Content",
@@ -3091,6 +3116,12 @@
       ]
     },
     {
+      "first_field_hash": "2e0e892108b236575681eb372fd893a10458c8c760eba66ec7f464482ab31dd2",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::18-Adrenal-Physiology"
+      ]
+    },
+    {
       "first_field_hash": "1858f844ddfe820a94c114eb6192eacbf245d792fbde8252d21ffa2fb49afc9e",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::18-Adrenal-Physiology::Class-Content"
@@ -3117,7 +3148,8 @@
     {
       "first_field_hash": "9167122be94081ecb0efa4f797550d2f46122cb31acaf259e0a726671b3d42ba",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::01-Testicular-Physiology"
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::01-Testicular-Physiology",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::03-HPO-Axis-&-Menstrual-Cycle::Class-Content"
       ]
     },
     {
@@ -5861,6 +5893,12 @@
       ]
     },
     {
+      "first_field_hash": "4cb59f973ab43d40c7c0466dce9a20c70091758017e4e2dc45d5b7a215d9dca8",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::04-Steroid-Hormone-Pharmacology"
+      ]
+    },
+    {
       "first_field_hash": "85741fa0fcb2e19b620aaee79a94f9379072c7f9ecbbf9e8451fc41077712025",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::10-Neuroendocrinology"
@@ -5932,6 +5970,12 @@
       "first_field_hash": "ae8d3e37dc267a2c16450a378f58586180592b2590a799949f6a462527f6ebcb",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::11-GH-IGF1-&-Prolactin"
+      ]
+    },
+    {
+      "first_field_hash": "c13df9b08bb0d27512da214d8024f4747c8677175fb56990e9a00080af1ba8bd",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::05-Stomach"
       ]
     },
     {
@@ -6497,9 +6541,27 @@
       ]
     },
     {
+      "first_field_hash": "f73d448cbff6b3a1892cfdb564ae8cac52a0e246c58b8b22ea031db87d2dc127",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::04-Steroid-Hormone-Pharmacology"
+      ]
+    },
+    {
       "first_field_hash": "950cfcff72cdb2b61de39c90bb7e8eb0208e045fa5701f6e3f899c025e29400f",
       "tags": [
         "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-4-Pelvis::Histology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "6914caca437496537947c7a5384276ba33cc5d72b0b24d2d18270841ae7a88e8",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::03-HPO-Axis-&-Menstrual-Cycle::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "c748ab1ab4ae61b26209cfe6f326f2a4fcd9e85321ae0a37ec306ce7d556804a",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::04-Steroid-Hormone-Pharmacology::Class-Content"
       ]
     },
     {
@@ -6524,6 +6586,12 @@
       "first_field_hash": "b95c034831b944305febdf47a3a2d0999a1f07186a119ea1fb9fe93e5a971b0a",
       "tags": [
         "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-4-Pelvis::Histology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "240091bc7cc5ad2237b4ca32a6aa1d7903ce2a78578d8a38c48cced0b2239c43",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::03-HPO-Axis-&-Menstrual-Cycle"
       ]
     },
     {
@@ -6599,6 +6667,12 @@
       ]
     },
     {
+      "first_field_hash": "893535e4d69fa035eb8c17afca4e7da79e30bdf64732b1314dc3b69db57fca34",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::04-Steroid-Hormone-Pharmacology"
+      ]
+    },
+    {
       "first_field_hash": "a15ccb0d1247c4668123bf7e32b9ccb43facacebd9f776ad6c0f480e0f38db9a",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::12-Normal-Endocrine-Histology::Class-Content"
@@ -6645,7 +6719,8 @@
     {
       "first_field_hash": "e6258f4c2a02df3888b4517cdbf4e2ee6c3a8e995b80294986831447b1202ae2",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::18-Adrenal-Physiology::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::18-Adrenal-Physiology::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::04-Steroid-Hormone-Pharmacology::Class-Content"
       ]
     },
     {
@@ -6664,14 +6739,16 @@
       "first_field_hash": "ae1bb00b953d7f68ea71f7c57ae780c25ab05952861daa4565651f291bc3bead",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Repro-Block::01-Testicular-Physiology::Class-Content",
-        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::02-Hormone-Replacement-&-Suppression-Therapy::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::02-Hormone-Replacement-&-Suppression-Therapy::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::04-Steroid-Hormone-Pharmacology::Class-Content"
       ]
     },
     {
       "first_field_hash": "70f90ce3649e13866fd03d0e3114f0305fb1a77f25e0aaafae43b28146164753",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Repro-Block::01-Testicular-Physiology",
-        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::01-Testicular-Physiology::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::01-Testicular-Physiology::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::04-Steroid-Hormone-Pharmacology::Class-Content"
       ]
     },
     {
@@ -6708,6 +6785,14 @@
       ]
     },
     {
+      "first_field_hash": "25b3d2f7f6fd6af1137a225646b46bd3a6d8d0aafc8d946575cc88773f851877",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::02-Hormone-Replacement-&-Suppression-Therapy::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::04-Steroid-Hormone-Pharmacology",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::04-Steroid-Hormone-Pharmacology::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "d22c26ff4241b2b455fc564e71abca9445c862faaa8c024a7949d5cb4125468d",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Repro-Block::01-Testicular-Physiology::Class-Content"
@@ -6736,7 +6821,8 @@
       "first_field_hash": "1e7fb04c74e0f75adec4f332a3362b69e7a5feaec16873c3c6ea1919dcdb39af",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Repro-Block::01-Testicular-Physiology",
-        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::01-Testicular-Physiology::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::01-Testicular-Physiology::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::03-HPO-Axis-&-Menstrual-Cycle::Class-Content"
       ]
     },
     {
@@ -6807,15 +6893,93 @@
       ]
     },
     {
+      "first_field_hash": "350602fc184c06f2344fc0d258f56f648a2cd19d225386cb4bb45fb63f6fb39e",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::03-HPO-Axis-&-Menstrual-Cycle"
+      ]
+    },
+    {
+      "first_field_hash": "350855e47b688f687c9b306472892695ba06f736fcbcd87a9f4023739f3d5f43",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::04-Steroid-Hormone-Pharmacology::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "07ca0dc0b27177f4af27f3afb39873a3fc8c67a8ca39a5d4de9ed4e6186be436",
       "tags": [
         "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-4-Pelvis::Embryology"
       ]
     },
     {
+      "first_field_hash": "47b808226fc7328ad33f89477227962673172d83c6c7da66d17caeb8c9e5f6cc",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::03-HPO-Axis-&-Menstrual-Cycle"
+      ]
+    },
+    {
+      "first_field_hash": "fa6369c55358cd062a77cc7c2f0aedd5d19792e9637efce0f17785a440a9a7b9",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::03-HPO-Axis-&-Menstrual-Cycle"
+      ]
+    },
+    {
+      "first_field_hash": "1174619f6677f1b9216c2d91c8e318ca09e1622bc73460d51c6c0f9a6eef04c0",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::03-HPO-Axis-&-Menstrual-Cycle"
+      ]
+    },
+    {
+      "first_field_hash": "d4cab82ff8ecb5a112e92fc31b06eb1c3a70dac4a673fc622828938f4a121475",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::03-HPO-Axis-&-Menstrual-Cycle::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "1056db681e5ea7f4e9e16a63b2a0f9c478c04c3952df0150ee0ad00f1382b15d",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::03-HPO-Axis-&-Menstrual-Cycle::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "8cd24c6e41ed72505e6e07e1c18ce0648314dc98b54da3f2e92eb7b6b8e1a9b7",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::04-Steroid-Hormone-Pharmacology"
+      ]
+    },
+    {
+      "first_field_hash": "3a56d8b1ec2c6e5286489d287eeff0f2fb689013967559d99d12c1b680be7bca",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::03-HPO-Axis-&-Menstrual-Cycle"
+      ]
+    },
+    {
+      "first_field_hash": "8194efa18ca2052f26187d97040686ed9b94f9f57f6c7f31c9814606943d827f",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::04-Steroid-Hormone-Pharmacology"
+      ]
+    },
+    {
+      "first_field_hash": "ea1cd3a8abdaa23b7957722d1ff1c55e4527ea591904a539277dda50b59ff6d4",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::04-Steroid-Hormone-Pharmacology"
+      ]
+    },
+    {
+      "first_field_hash": "c552c5fda224458caf4eb4a4ce300f667ca9b645c6046458c78dc8a76f783f79",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::04-Steroid-Hormone-Pharmacology"
+      ]
+    },
+    {
       "first_field_hash": "83da6af7122800b61da25b8718a4590df0434dc0d70e1e56f35dea790536b828",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Repro-Block::01-Testicular-Physiology"
+      ]
+    },
+    {
+      "first_field_hash": "b674242fc3ced3ab284de5919ec8e2e89947c54746a50ec0df3157a3500de312",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::03-HPO-Axis-&-Menstrual-Cycle"
       ]
     },
     {
@@ -6837,57 +7001,279 @@
       ]
     },
     {
+      "first_field_hash": "ebb3c4b76f365fb628ff1000aa5d1af307f633049c5712caf9288ee08fde1984",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::03-HPO-Axis-&-Menstrual-Cycle::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "302e4ef73f4061dfe3a1f4f8b12e3574044f0797ee42aa6652832091f405c328",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::04-Steroid-Hormone-Pharmacology"
+      ]
+    },
+    {
       "first_field_hash": "95e4518f646aaedd3eace4fa944c9dab32fd1e47c2dc52a51d11998e2d4d09b9",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Repro-Block::02-Hormone-Replacement-&-Suppression-Therapy::Class-Content"
       ]
     },
     {
+      "first_field_hash": "32e914b8fc2890304a7a11803f942064809341756efe22dc7c55173eaa9e1654",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::04-Steroid-Hormone-Pharmacology"
+      ]
+    },
+    {
+      "first_field_hash": "01c680e0d0226e551d0544de79c2c13fe00d68f5f914f248406b3614cdd6b584",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::04-Steroid-Hormone-Pharmacology"
+      ]
+    },
+    {
+      "first_field_hash": "688dd82c7e3af5ec6dfa50f618f75c6fa89a3350437c19dcda95875676587495",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::04-Steroid-Hormone-Pharmacology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "2257bdd86956bf9103e6e3b7b613e06e18fc2e13b22d0c644f80889b3fd4ebdc",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::04-Steroid-Hormone-Pharmacology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "10397d781724663ab3df1f82f8e2f0f09fa75467812ef50749354cf4841f40ae",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::04-Steroid-Hormone-Pharmacology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "c5ff5b89fdbe6861ec25a9e31e1476da0fd38b05c0de2b78d54b031deba4a6b0",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::04-Steroid-Hormone-Pharmacology",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::04-Steroid-Hormone-Pharmacology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "db5f688b49e6a72b75d3e457b263fa091b28eee869817864c5dc6fdde520332c",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::04-Steroid-Hormone-Pharmacology",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::04-Steroid-Hormone-Pharmacology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "779dd3b9fbf6ecd5f4cc4376ef63595a8bd0b608a2e969ec2a3ada67f37ef9aa",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::04-Steroid-Hormone-Pharmacology"
+      ]
+    },
+    {
+      "first_field_hash": "aa19e94f09d7411b980b243f7d987f46dae3f5a00a66c77ffd710a0a3e715397",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::04-Steroid-Hormone-Pharmacology"
+      ]
+    },
+    {
+      "first_field_hash": "8d320104fdc9ed15959daf86860d6eaec2839545bad1a6403578a58dc970f5d5",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::03-HPO-Axis-&-Menstrual-Cycle::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "887395fe82510a72dc5b5ae5bb5beb3c93ace91cc03729a8eabf03b7816a3db6",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::03-HPO-Axis-&-Menstrual-Cycle::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "0851ab4a1a3f4a1317df5baf8eaea10d7bac855172b10b59f568d58652186594",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::04-Steroid-Hormone-Pharmacology"
+      ]
+    },
+    {
+      "first_field_hash": "c645a6425e690d0ae5ddb564b3af28811e6beaa3106af4f00d2ffc5739505b7b",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::03-HPO-Axis-&-Menstrual-Cycle",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::04-Steroid-Hormone-Pharmacology",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::04-Steroid-Hormone-Pharmacology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "b2e4167118bfd0278484ea8785bfdc8eebdcdd2473beedf757ccc66e32f74bdd",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::04-Steroid-Hormone-Pharmacology"
+      ]
+    },
+    {
+      "first_field_hash": "c005c37493e228f8913e021aecff218d70691697a5d33dd7584b778069212803",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::03-HPO-Axis-&-Menstrual-Cycle"
+      ]
+    },
+    {
+      "first_field_hash": "09e0448bf0af4969e2525075f21f0cf2b62fdcecd7474578955994d0985bd41f",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::03-HPO-Axis-&-Menstrual-Cycle::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "eec427e57878db9f2637550bde872cb10e2a7143de7c6732b8cb353bec2c5664",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::04-Steroid-Hormone-Pharmacology"
+      ]
+    },
+    {
+      "first_field_hash": "d740d7ae2d93b61f0c593d0db8df232262c16fbe73f8c2cfaaf6ef6ff128927c",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::04-Steroid-Hormone-Pharmacology"
+      ]
+    },
+    {
       "first_field_hash": "3d36e400a38711d1f12f12996685c3d7449c3423a2a0cd5d0f85004d675a454e",
       "tags": [
-        "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-4-Pelvis::Histology"
+        "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-4-Pelvis::Histology",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::03-HPO-Axis-&-Menstrual-Cycle::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "444e761a99f3eddd10f33386c33ab5cf08f4345dfb2c06cf4d3a90a5c7f685bd",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::03-HPO-Axis-&-Menstrual-Cycle::Class-Content"
       ]
     },
     {
       "first_field_hash": "f726aab06d2d5839cb41f8a2e1a9ee322cf62c2d900a925adb13e77babb9f67d",
       "tags": [
-        "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-4-Pelvis::Histology::Class-Content"
+        "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-4-Pelvis::Histology::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::03-HPO-Axis-&-Menstrual-Cycle::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "ed24bae4442fdc676e007eafe37c0cca707236c51af594be8cb1b9b35cc2583a",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::03-HPO-Axis-&-Menstrual-Cycle::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "07701a3b1e6040b1f0bea993389188ed7754a69ffcafafe5e131e4c0fedc606b",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::03-HPO-Axis-&-Menstrual-Cycle::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "5808df145b2ed6996c63d487b68e658c1a857d5a2077092ae378ec966b6d792e",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::03-HPO-Axis-&-Menstrual-Cycle::Class-Content"
       ]
     },
     {
       "first_field_hash": "28ed15f75151f53cb6788c150ed1906328ff9fce08ea524bc83f5d919f6dddea",
       "tags": [
-        "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-4-Pelvis::Histology"
+        "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-4-Pelvis::Histology",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::03-HPO-Axis-&-Menstrual-Cycle::Class-Content"
       ]
     },
     {
       "first_field_hash": "aac5430e8b09c3f566d1ecbc73cd9606061aae6cdb96390c605133e22ab64589",
       "tags": [
-        "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-4-Pelvis::Histology"
+        "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-4-Pelvis::Histology",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::03-HPO-Axis-&-Menstrual-Cycle::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "5f94c490ff0c99e865ee4b70156322386d399b52cbbf6c402360cf16585b20b7",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::03-HPO-Axis-&-Menstrual-Cycle::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "123ceb7872746a9d2c386d6297bbfe160cb9192dc28664f6955917cf2ed913b3",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::03-HPO-Axis-&-Menstrual-Cycle::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "19596dbcc711c9beb9685878b7d1c9f14a86be6bce0db099311b3d5f559cc4c6",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::03-HPO-Axis-&-Menstrual-Cycle::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "4b62820ee96a797e1a274b56abc1b33ec5a5a4b84a1075258c0aee2c047e43a1",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::03-HPO-Axis-&-Menstrual-Cycle"
       ]
     },
     {
       "first_field_hash": "0c28ef04e5e84cb51115ac44b3b7c4b8c262e3c4e470cd81f0e6d1c1a3054b97",
       "tags": [
-        "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-4-Pelvis::Histology::Class-Content"
+        "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-4-Pelvis::Histology::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::03-HPO-Axis-&-Menstrual-Cycle::Class-Content"
       ]
     },
     {
       "first_field_hash": "b2b25e843b1f2afc15e09f8835bb108f27f111910073ed676555520db99469e3",
       "tags": [
-        "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-4-Pelvis::Histology"
+        "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-4-Pelvis::Histology",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::03-HPO-Axis-&-Menstrual-Cycle::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "dd2e4fa70b2c3ea567f02e46c6766ebfdb82c1be6c0c5a15bc87cdf9380fb2c1",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::03-HPO-Axis-&-Menstrual-Cycle::Class-Content"
       ]
     },
     {
       "first_field_hash": "67d4cff3222d26c8587a0d7970472dc325872db98b7e8aa3ad5eb101421da4ed",
       "tags": [
-        "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-4-Pelvis::Histology"
+        "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-4-Pelvis::Histology",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::03-HPO-Axis-&-Menstrual-Cycle::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "0ce46370ec1a0fbd7b7b43128656d634bd0d04a528116b0545fc7a2d887b2244",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::03-HPO-Axis-&-Menstrual-Cycle"
+      ]
+    },
+    {
+      "first_field_hash": "63cdaaf0633250200d2c3b82b7bba49afa376c55df1cfa89aebf6c68e8d81f3f",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::03-HPO-Axis-&-Menstrual-Cycle::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "00da02ce40ac0be8c077515a4b38c2e5c762d8cd54f79517a0d64324b996f595",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::03-HPO-Axis-&-Menstrual-Cycle::Class-Content"
       ]
     },
     {
       "first_field_hash": "1e680acfc5d612a29e7352ff170b2185701e873cbd2a1f7d558963cf41ef5d1c",
       "tags": [
-        "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-1-Thorax::Embryology::Class-Content"
+        "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-1-Thorax::Embryology::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::03-HPO-Axis-&-Menstrual-Cycle::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "ed979aa3800b87f5fc128ba777d6b104c811f76add281be9fa8edbe6d7d133e0",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::03-HPO-Axis-&-Menstrual-Cycle::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "b597eaafdbf2d73890b95983d7073d0d8d4a42278461293307b2ef88605b03e6",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::05-Physiology-of-Pregnancy::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "53dafbaef082bd4cbec5778e266b68e6171c6ed236fc092e851244acc3acf639",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::03-HPO-Axis-&-Menstrual-Cycle::Class-Content"
       ]
     },
     {
@@ -6903,10 +7289,18 @@
       ]
     },
     {
+      "first_field_hash": "0e8fca8a7e509ea63d1a051c8ae86e88521f4731d4435370662af9a56a42316a",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::03-HPO-Axis-&-Menstrual-Cycle"
+      ]
+    },
+    {
       "first_field_hash": "92860dafd00d072055a199a9e84f70e67a346abd871acbf38aa10e50f415beda",
       "tags": [
         "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-1-Thorax",
-        "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-1-Thorax::Embryology"
+        "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-1-Thorax::Embryology",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::03-HPO-Axis-&-Menstrual-Cycle::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::04-Steroid-Hormone-Pharmacology::Class-Content"
       ]
     },
     {
@@ -6916,9 +7310,33 @@
       ]
     },
     {
+      "first_field_hash": "5e3e1ed36777bdb0fdfc82705d62edee3ed5677be125978b3b05886c58aa88ec",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::04-Steroid-Hormone-Pharmacology"
+      ]
+    },
+    {
+      "first_field_hash": "b29e77b1d09c91649d409617588a80b01a018ed5fb70c8f97f129507a65a334e",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::05-Physiology-of-Pregnancy"
+      ]
+    },
+    {
+      "first_field_hash": "9bcc4a0325de1d3ddf60f9c40c549ac1061fd0fad202cb2061043d91a8f31c3d",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::04-Steroid-Hormone-Pharmacology::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "78f13a750bee1604b9e1476254a80307e9175cf59199e7c3b35428e841ffd75e",
       "tags": [
         "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-4-Pelvis::Embryology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "5b8449a05855d716a17a2cc9cc14c98f0509087547bb993b32445b8b56b411de",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::03-HPO-Axis-&-Menstrual-Cycle"
       ]
     },
     {
@@ -7012,39 +7430,105 @@
       ]
     },
     {
+      "first_field_hash": "f0fdc492b6eeb63e084814ffe432e3d592758c94ded1babf17b666062c50bce6",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::03-HPO-Axis-&-Menstrual-Cycle::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "1b1a74c1d492967875b82dd7a50727c24c16ae91c3cfc998b3659aab92460370",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::03-HPO-Axis-&-Menstrual-Cycle::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "c48cf1e72e8c4d63cb690c0e2341b7111f3b184df4ba4d16a52b8311ec925616",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::04-Steroid-Hormone-Pharmacology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "922a65df9873c58396a2ea3d15a0e97f7960b4c43bfab935a9be9762dcf03d7c",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::03-HPO-Axis-&-Menstrual-Cycle::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "9680f5f05200a7944e8d84edb4bbc3abafe47e8ac02c935248bafb92bab4fa57",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::03-HPO-Axis-&-Menstrual-Cycle::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "0e7478ead6af40c4eaa98fe6e2669fd5cdd8396a0f399aa6696cc128fbee6e65",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::04-Steroid-Hormone-Pharmacology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "14cd72c3e7ea33644c382af8dcce5ef76a10a5c1d49749db19a34b8c20b87393",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::03-HPO-Axis-&-Menstrual-Cycle::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "d80e8cf88e5bdc4fc66b326a689f8c99bef40b50a41f405051336f67dcb32cff",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::04-Steroid-Hormone-Pharmacology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "b6eba1a84c3f2d3e5c140329ab620bcc950ad25d5fa61c29d451325bfd803d20",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::03-HPO-Axis-&-Menstrual-Cycle::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "2add295890a098bd5fa15c7f9afdb52eb1cc74e85dba66ad0e109be6a2c8f04b",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::03-HPO-Axis-&-Menstrual-Cycle::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "48c2596e8fa933c70dd9fe5498d21761a3e8a3408feab7253f0eac0327c4c917",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::09-Endocrinology-of-Growth::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::09-Endocrinology-of-Growth::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::03-HPO-Axis-&-Menstrual-Cycle::Class-Content"
       ]
     },
     {
       "first_field_hash": "ae9ba5a773db5ca96998e5d14db1006214a2f1cddf724f905ca252e0bcb0d183",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::09-Endocrinology-of-Growth::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::09-Endocrinology-of-Growth::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::03-HPO-Axis-&-Menstrual-Cycle::Class-Content"
       ]
     },
     {
       "first_field_hash": "74ff7f1f93f971d3328ef6b58f2bf6149682a052adcfa104ed9bbc51a32abcd6",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::09-Endocrinology-of-Growth::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::09-Endocrinology-of-Growth::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::03-HPO-Axis-&-Menstrual-Cycle::Class-Content"
       ]
     },
     {
       "first_field_hash": "35b7c09dc4e207d40e44d967c7f960e49559896a5243289372dfe23c3dfe741a",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::09-Endocrinology-of-Growth::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::09-Endocrinology-of-Growth::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::03-HPO-Axis-&-Menstrual-Cycle::Class-Content"
       ]
     },
     {
       "first_field_hash": "9f697ad8f301b4e782eb37d77a9fd95b8007d868ae21c42c2a21d908f16cb7b8",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::09-Endocrinology-of-Growth::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::09-Endocrinology-of-Growth::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::03-HPO-Axis-&-Menstrual-Cycle::Class-Content"
       ]
     },
     {
       "first_field_hash": "74760df92d132f9e04de5fdbf1803a510ced65adf4a97a85fc2d9e7f7de187bd",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::09-Endocrinology-of-Growth::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::09-Endocrinology-of-Growth::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::03-HPO-Axis-&-Menstrual-Cycle::Class-Content"
       ]
     },
     {
@@ -7097,6 +7581,12 @@
       ]
     },
     {
+      "first_field_hash": "092f8155204a64f1dbf0127d6c166554189b828adddf58756ce1a57fd3380f50",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::03-HPO-Axis-&-Menstrual-Cycle"
+      ]
+    },
+    {
       "first_field_hash": "18e480aaeec23135fb2dff58ba1411280342346c1f8b4356c100682572083da3",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::10-Neuroendocrinology::Class-Content"
@@ -7106,6 +7596,76 @@
       "first_field_hash": "433494ce49f01752b602bb02025eda6cc3402c1b5e42f8bd665c294565ed78cc",
       "tags": [
         "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-4-Pelvis::Histology"
+      ]
+    },
+    {
+      "first_field_hash": "4432927e30b2b0014b3929933338e239b6fe4eb331cc3677e406f35cfb4e6fd2",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::03-HPO-Axis-&-Menstrual-Cycle::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::04-Steroid-Hormone-Pharmacology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "c3ea9bf6e1a4da93a6362aa2432161fc20bf564f6166d16de00a23c418df1cbc",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::04-Steroid-Hormone-Pharmacology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "d83ea4d1e25f43dcff89eaeb60fed0e997202ab63ed1d6dbd0c3567218b76475",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::04-Steroid-Hormone-Pharmacology",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::04-Steroid-Hormone-Pharmacology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "0c7fa7612ba6682b7a06bfef101ba0099e1af3ff6e5937c1dd06a1503abbe4e7",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::04-Steroid-Hormone-Pharmacology"
+      ]
+    },
+    {
+      "first_field_hash": "dab5d99ade2e3b32d958ae2ec35ea337e7c38f099d3fea3eae257bde3ce59e5c",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::04-Steroid-Hormone-Pharmacology",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::04-Steroid-Hormone-Pharmacology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "bb37e4621009c310b1704561c96c015a48a9a1c15228dcecfc924c4a9b525e1e",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::04-Steroid-Hormone-Pharmacology"
+      ]
+    },
+    {
+      "first_field_hash": "938472b7aba24175e20c35684447aedeb0b65bd4151e0e5f1b77d793a1ddb488",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::04-Steroid-Hormone-Pharmacology"
+      ]
+    },
+    {
+      "first_field_hash": "6324a5876b0eef69b2930aa30217b8e33b0a93dcf77a2c4eeb8f9ba192b5332f",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::04-Steroid-Hormone-Pharmacology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "75252c04305e02a37bde0a19481c028f819661692fc6bb714242697dae159558",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::04-Steroid-Hormone-Pharmacology",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::04-Steroid-Hormone-Pharmacology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "7a768f213dd435531f31c4cfafa3964223029f1e8b1670a979620bfe36d5c133",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::04-Steroid-Hormone-Pharmacology"
+      ]
+    },
+    {
+      "first_field_hash": "585dd368b588f0a5f7296e2417e2579c11dacaecd26b2d9fb5e6481cfa69759a",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::04-Steroid-Hormone-Pharmacology::Class-Content"
       ]
     },
     {
@@ -7136,6 +7696,18 @@
       "first_field_hash": "3b6206acc578d90857a9f479e9d17d7c8137fde644667c5383cccbe177b9ae0f",
       "tags": [
         "JerryShen_AnKing_Tags::Molecular-Foundations-&-Genetics::02-Genetics::08.3-Prenatal-Genetics"
+      ]
+    },
+    {
+      "first_field_hash": "98945dcc1e057848337100e0d0a623a3675c3aa9b3cf64973ae83638174b97bb",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::05-Physiology-of-Pregnancy"
+      ]
+    },
+    {
+      "first_field_hash": "eb560944de992f19a8d48beb92f6e76d806ecf48409f98c0de3061b3411f8917",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::05-Physiology-of-Pregnancy"
       ]
     },
     {
@@ -7274,6 +7846,12 @@
       ]
     },
     {
+      "first_field_hash": "9df207bef3c73ef9664bbb9ba93e73efa7a01555d8ac11377e82fb67ecefe67c",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::03-HPO-Axis-&-Menstrual-Cycle"
+      ]
+    },
+    {
       "first_field_hash": "13c3f4c1d582d0bf84354557d567ab0f92f85806392ad92691713c6b40a7ea1d",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::11-GH-IGF1-&-Prolactin::Class-Content"
@@ -7376,6 +7954,12 @@
       ]
     },
     {
+      "first_field_hash": "a156315424d89ee40403bcd7f1b356cec6100d533490ae802289ea8e2f667259",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::04-Steroid-Hormone-Pharmacology::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "f817efd2a7e1cd213b8dd62c5306c56d5ec31f8783b9e3e824126848e57643ee",
       "tags": [
         "JerryShen_AnKing_Tags::Molecular-Foundations-&-Genetics::02-Genetics::03-Chromosomes::Class-Content"
@@ -7410,7 +7994,8 @@
       "first_field_hash": "b3902a29f552e2361d0c6ad3aa9bd8d67315af6a2f0bbfb224d218eaf0d94f42",
       "tags": [
         "JerryShen_AnKing_Tags::Molecular-Foundations-&-Genetics::02-Genetics::03-Chromosomes::Class-Content",
-        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::09-Endocrinology-of-Growth::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::09-Endocrinology-of-Growth::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::03-HPO-Axis-&-Menstrual-Cycle::Class-Content"
       ]
     },
     {
@@ -7431,7 +8016,8 @@
       "first_field_hash": "43223bcd25a3beed52a8b32ac017d631d464463113676052c98e11e5d4f276c1",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::35-Congenital-Heart-Disease",
-        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::09-Endocrinology-of-Growth"
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::09-Endocrinology-of-Growth",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::03-HPO-Axis-&-Menstrual-Cycle::Class-Content"
       ]
     },
     {
@@ -7472,7 +8058,8 @@
       "first_field_hash": "291fe2119288016048855a5ad0e47aac8fabb3674729942085c239df992942fa",
       "tags": [
         "JerryShen_AnKing_Tags::Molecular-Foundations-&-Genetics::02-Genetics::03-Chromosomes::Class-Content",
-        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::09-Endocrinology-of-Growth::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::09-Endocrinology-of-Growth::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::03-HPO-Axis-&-Menstrual-Cycle::Class-Content"
       ]
     },
     {
@@ -7860,15 +8447,82 @@
       ]
     },
     {
+      "first_field_hash": "6a2cea50fdda15e497592ce70eaa35ebacc9f6514636193ed413ef54f64a64e6",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::05-Physiology-of-Pregnancy::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "a2ae08760a54ec99263f94c5f15c63c2cf0a6a6c90f389ce14079f3deefbe890",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::05-Physiology-of-Pregnancy::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "5cc23a3eae0e332e28ce47a1e8ad42d0f1cd0dc2f7430bfbe592edb1e6ed7fad",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::05-Physiology-of-Pregnancy::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "f600727e8b1483a8bbf9dd2341914132fa465dcb834777e210c1f1cea3488638",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::05-Physiology-of-Pregnancy::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "602de5b7287988a744f070c89c669478290a461e3954313420e2e8d411aaaa37",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::05-Physiology-of-Pregnancy::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "c5a95f6ed9f6ee41bc8e4a2997d77c148dd3191abc4bd1c2fcd08a436ab6f3a6",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::05-Physiology-of-Pregnancy::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "e0cdb1375ea2e154d6e1e4e31adcff288f16c07f1b1db118aa51bc173f0146a3",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::05-Physiology-of-Pregnancy::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "7f6e63bbbe72987892e7908c6f89eb93203c57ab64b7105c69fb97d5354ce1bc",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::05-Physiology-of-Pregnancy::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "dac540539473ac533d185781b33132bb7388db1c5fdfc252fba4af7c2425e76f",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::05-Physiology-of-Pregnancy::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "69f23262d5745d5945bcd1bd72e9a398302097fff8bea5e337647375281a1eb4",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::Tutorial-2-Thyroid-Disease::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::Tutorial-2-Thyroid-Disease::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::05-Physiology-of-Pregnancy::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "6873b9001b77a3d3f5bd1158cad0ce2927a25bf0506aa2d9147550eb564e0e4d",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::05-Physiology-of-Pregnancy::Class-Content"
       ]
     },
     {
       "first_field_hash": "dba4a8ec9a4f261e56c4c059e4b06d1aa697f6b7309aa1e9daae029c2d808baf",
       "tags": [
         "JerryShen_AnKing_Tags::Molecular-Foundations-&-Genetics::02-Genetics::03-Chromosomes"
+      ]
+    },
+    {
+      "first_field_hash": "2aa0aed36382663e9d02e5715d7a7fd1764673fdfbdc63eecc3cc085e82d360e",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::05-Physiology-of-Pregnancy::Class-Content"
       ]
     },
     {
@@ -7922,7 +8576,8 @@
     {
       "first_field_hash": "333851efba27cf621bd2b21d76fba978d025015db0f9ab4f1c750037be0600ff",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::07-Type-2-Diabetes"
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::07-Type-2-Diabetes",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::05-Physiology-of-Pregnancy::Class-Content"
       ]
     },
     {
@@ -7953,7 +8608,8 @@
     {
       "first_field_hash": "dc6429fa6f6115eaaf65c5838930564789a708df8f1e02b8fe20e0ada597148b",
       "tags": [
-        "JerryShen_AnKing_Tags::POM-4::Clinical-Reasoning::Shortness-of-Breath-(Hyperthyroidism)"
+        "JerryShen_AnKing_Tags::POM-4::Clinical-Reasoning::Shortness-of-Breath-(Hyperthyroidism)",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::05-Physiology-of-Pregnancy"
       ]
     },
     {
@@ -13230,6 +13886,12 @@
       ]
     },
     {
+      "first_field_hash": "f88a3a62eb875c7708adc3853e8a104ea4daa82bfbf05e2f5b4171c4e3977a70",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::05-Physiology-of-Pregnancy"
+      ]
+    },
+    {
       "first_field_hash": "2fd8721851f5aaf2ffe977b8f04d8f318c6eb2a51f0f30d60f773a631453e272",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::35-Congenital-Heart-Disease::Class-Content"
@@ -16160,6 +16822,12 @@
       "first_field_hash": "205fffe220e3cf5b3787e08f8607d824694acb92ef4d3b16d9de8878be796247",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::07-Type-2-Diabetes::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "e397c2b9b89c2d4dbbf8b6d017280edb598c63bc8c92ecaad3a6b4cb85928269",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::05-Physiology-of-Pregnancy::Class-Content"
       ]
     },
     {
@@ -21598,7 +22266,8 @@
     {
       "first_field_hash": "7083d1b922ad1aae12f98de3c5d83e3118416facf180fb3586123ffa20d185c1",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::16-Clotting-&-Thromboembolic-Disease::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::16-Clotting-&-Thromboembolic-Disease::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::05-Physiology-of-Pregnancy::Class-Content"
       ]
     },
     {
@@ -21629,6 +22298,12 @@
       "first_field_hash": "a06f27fa9f057be4eb5ee3644a29d6d9c41a2140ea333cb3e5195980d05dc0af",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::16-Clotting-&-Thromboembolic-Disease"
+      ]
+    },
+    {
+      "first_field_hash": "8ef5e0e508713a7aa45b85ee94039f76dd968ba760090b6fc31b92c8f5973008",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::04-Steroid-Hormone-Pharmacology"
       ]
     },
     {
@@ -23013,7 +23688,8 @@
       "first_field_hash": "7f2162d9f77c7da004315ea4ee4c39e78423e4ef9613b0e99c11ad9f4d2fdbc1",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::15-Pathophysiology-&-Treatment-of-Heart-Failure::Class-Content",
-        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::31-Treatment-of-Hypertension::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::31-Treatment-of-Hypertension::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::05-Physiology-of-Pregnancy::Class-Content"
       ]
     },
     {
@@ -23931,6 +24607,18 @@
       "first_field_hash": "df3b822c756f2337d1cfa4bd91973f6bca8400b7a52869f01248e2a43662d644",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::02-Glucose-Homeostasis-1::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "b4cbc2e7ba95eba2e20197c2d23a0adbbc98d3bb4ceee5b93bde73c63108b86f",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::05-Physiology-of-Pregnancy"
+      ]
+    },
+    {
+      "first_field_hash": "94a4278871641f3348039295873d97f3d60c0c2e22a7ea669945f6254a421488",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::05-Physiology-of-Pregnancy"
       ]
     },
     {
@@ -25236,7 +25924,8 @@
       "first_field_hash": "8640d2ca54f87e78aa9ead844ca4c97c67399a63c9fe102b62b4dac63cdd5560",
       "tags": [
         "JerryShen_AnKing_Tags::Molecular-Foundations-&-Genetics::02-Genetics::08.2-Dysmorphology::Class-Content",
-        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::09-Endocrinology-of-Growth::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::09-Endocrinology-of-Growth::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::03-HPO-Axis-&-Menstrual-Cycle"
       ]
     },
     {
@@ -26827,7 +27516,8 @@
     {
       "first_field_hash": "3e8faa0d67904896a174f7ca1e8054c41c79d3595d1eb84c05fe10403e284ff9",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::17-Urinary-Tract-Infections::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::17-Urinary-Tract-Infections::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::05-Physiology-of-Pregnancy::Class-Content"
       ]
     },
     {
@@ -28813,24 +29503,39 @@
       ]
     },
     {
+      "first_field_hash": "04a7d7917f7c2662d3aca917e5023dfdf1c82df0c5cbb0059b394adbce5dd2e8",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::04-Steroid-Hormone-Pharmacology"
+      ]
+    },
+    {
+      "first_field_hash": "207447500691d487d7ec35152cb6346e340c01dc3762ec49daa038db675a15c7",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::04-Steroid-Hormone-Pharmacology"
+      ]
+    },
+    {
       "first_field_hash": "16f0755cd46d9193e8041934353ba200b435442bb0e39e7ee83a1f18992a65da",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::19-Adrenal-Pathophysiology",
         "JerryShen_AnKing_Tags::SOM-2::Repro-Block::01-Testicular-Physiology::Class-Content",
-        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::02-Hormone-Replacement-&-Suppression-Therapy::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::02-Hormone-Replacement-&-Suppression-Therapy::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::04-Steroid-Hormone-Pharmacology::Class-Content"
       ]
     },
     {
       "first_field_hash": "0ae9d96a616316dcfc5f487e6a134cc5256533fb6c80d182447095c57ca0485f",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::31-Treatment-of-Hypertension::Class-Content",
-        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::01-Testicular-Physiology"
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::01-Testicular-Physiology",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::04-Steroid-Hormone-Pharmacology"
       ]
     },
     {
       "first_field_hash": "a430899825949c90bad0cac0a41bfd360006cd19323bc838109703f34b9566d0",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::31-Treatment-of-Hypertension::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::31-Treatment-of-Hypertension::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::04-Steroid-Hormone-Pharmacology"
       ]
     },
     {
@@ -30944,6 +31649,31 @@
       ]
     },
     {
+      "first_field_hash": "a77fa8cb7fd598f0d13be507ac00bae938d1a68423074b38d34dd0c2fed2d70f",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::05-Physiology-of-Pregnancy::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "95751ae0d18629d3f3085b3bdf7afa8af304cb0dd60ed9d8570e65e323d0d6e9",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::05-Physiology-of-Pregnancy::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "4d4483f4f1139196482265f87629d587675831fd20704388611ca5926104d687",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::05-Physiology-of-Pregnancy",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::05-Physiology-of-Pregnancy::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "8d56c1a2768660fa55dd2bc64a4c90ff7b58ca78b3261f80f64c206d3a436ef6",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::05-Physiology-of-Pregnancy"
+      ]
+    },
+    {
       "first_field_hash": "685e76e04dcf446b557558d3a06de632721cce390c7506086f1da38193a1c187",
       "tags": [
         "JerryShen_AnKing_Tags::Biochemistry::Final::02-Oxidative-Phosphorylation::Class-Content",
@@ -31116,6 +31846,12 @@
     },
     {
       "first_field_hash": "865eccf1bca0ce332bd6a451cfd2bce0e6e732587d95e6f8938a355d2a7f18bb",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::03-Fat-&-Micronutrient-Nutrition"
+      ]
+    },
+    {
+      "first_field_hash": "c6f9747ae8ca4b68b63dfbdb2cdfdaf18f97a5649fed4403cbc38da890e9772b",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::03-Fat-&-Micronutrient-Nutrition"
       ]
@@ -33177,7 +33913,8 @@
     {
       "first_field_hash": "cb8cba663ce1f430df74c67f12af6650fe57024373fc3edb36e23e81714bd1ed",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::16-Thyroid-Physiology-&-Pathophysiology::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::16-Thyroid-Physiology-&-Pathophysiology::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::05-Physiology-of-Pregnancy::Class-Content"
       ]
     },
     {
@@ -34519,6 +35256,12 @@
       "first_field_hash": "eb3bd872d725a3eddccca8e54167fe055789969578d31cbefc9e1462ec973eee",
       "tags": [
         "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-7-Head-&-Neck-2::Embryology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "2477cd2d34646e623d5c473750015f124730174d46292543e6e18c7beccf06ba",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::05-Physiology-of-Pregnancy"
       ]
     },
     {
@@ -38805,6 +39548,12 @@
       ]
     },
     {
+      "first_field_hash": "3554c6145026f86749c54477caa6f0803c6ff49f7e31727e1086dc5442af4091",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::02-GI-Hormones"
+      ]
+    },
+    {
       "first_field_hash": "db4714a8ef947e13df294fe4e8278deb384ff467f50f3654da291d77b59f721d",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::02-GI-Hormones::Class-Content"
@@ -38832,6 +39581,12 @@
       "first_field_hash": "1b5d9a20c1a6d18b3f62fe7b314cec6df0d4b39804807f055f7a4f868f23ee5f",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::02-GI-Hormones::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "4178fd612a575fc3e8b6aec0e224d7aee0676aed1fb2b82da76ba85e390bb4a8",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::05-Stomach"
       ]
     },
     {
@@ -39802,7 +40557,8 @@
     {
       "first_field_hash": "8f10c72df54fc8b6b0bcfc973ffd0b4b6861a1ef9d219240927b650dfd26cea6",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::04-Salivary-Gland-&-Esophagus"
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::04-Salivary-Gland-&-Esophagus",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::04-Salivary-Gland-&-Esophagus::Class-Content"
       ]
     },
     {
@@ -40479,6 +41235,12 @@
     },
     {
       "first_field_hash": "996bf1f203a1f2b4e987a6c1a274f613fec13faa7327b9fc62e923754881d4ab",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::05-Stomach"
+      ]
+    },
+    {
+      "first_field_hash": "cba3e5b3c8f8185fd10342db160bbcc360ec81d58d8fc25f3b8179065d8530ad",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::05-Stomach"
       ]
@@ -42476,14 +43238,14 @@
       ]
     },
     {
-      "first_field_hash": "a67bbb9eaa8ec401feb3374d4657f77b104461832e11fa338dde233a008cf82a",
+      "first_field_hash": "adbf06c39691d8c41f0f981527cce739298c77513ac1138ff09af2024f363393",
       "tags": [
         "JerryShen_AnKing_Tags::POM-3::Psychiatry::Mood-Disorders",
         "JerryShen_AnKing_Tags::POM-3::Psychiatry::Mood-Disorders::Class-Content"
       ]
     },
     {
-      "first_field_hash": "1bcade5784f89da7bce2a91c2826ab93ea10083041085cb9dc955048e46c464e",
+      "first_field_hash": "2355bd31f860fc346c04c0acd9c2c74e4e75c018746eeec3e06f56a1865ff895",
       "tags": [
         "JerryShen_AnKing_Tags::POM-3::Psychiatry::Mood-Disorders",
         "JerryShen_AnKing_Tags::POM-3::Psychiatry::Mood-Disorders::Class-Content"
@@ -43100,9 +43862,21 @@
       ]
     },
     {
+      "first_field_hash": "4765839536958c01cae173b114481e93dadba07aab52f803a07dc518a81c9f22",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::05-Physiology-of-Pregnancy::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "03bbd63d93b7c5645adae78acb8bb5d1aeda42ddaccab21ea7ef9d99df6bc3ac",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Renal-Block::06-Disorders-of-Water-Balance"
+      ]
+    },
+    {
+      "first_field_hash": "4186b8ad08d1555be6acd0eecf1367a902d3aff16d69841adb01699f18b5ece1",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::05-Physiology-of-Pregnancy::Class-Content"
       ]
     },
     {
@@ -47735,6 +48509,12 @@
       ]
     },
     {
+      "first_field_hash": "7d5db4a0bdf821a002b71af87c2b3a41ed2a8523756ee750024bc910292f49ad",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::05-Physiology-of-Pregnancy"
+      ]
+    },
+    {
       "first_field_hash": "57af540bfaf3f946ab26582d0384e40f5204d3dce5b03de0dc63c44ed58c61da",
       "tags": [
         "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-5-Lower-Limb::Histology"
@@ -47822,6 +48602,30 @@
       "first_field_hash": "5e2717912402195cafcd20e2e17de1e9958694bea865563e80357b0d2f9aa28a",
       "tags": [
         "JerryShen_AnKing_Tags::Molecular-Foundations-&-Genetics::02-Genetics::08.2-Dysmorphology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "b6d80575c6f65428191ef507a3487e9c492faf0bafe0af1461b56eab70e2df89",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::05-Physiology-of-Pregnancy"
+      ]
+    },
+    {
+      "first_field_hash": "7564a2e22eeb985a173dedee027681d627cbb3dbd3936a29ba3336fcebfb8bde",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::05-Physiology-of-Pregnancy"
+      ]
+    },
+    {
+      "first_field_hash": "5eb430e664ef5102dc15b24cb61a32c48f250b963782ea2cbdbec5c68053d4ad",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::05-Physiology-of-Pregnancy"
+      ]
+    },
+    {
+      "first_field_hash": "237240ac174aa8aa3557e5a75de0dd29cdcf3d61f96fbe7d551eb53e32ad2ef6",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::05-Physiology-of-Pregnancy"
       ]
     },
     {
@@ -48314,14 +49118,16 @@
       "first_field_hash": "86f28ba7397cd146578f02a21d0157d0f545b81703cf41d5fafa797c6f197174",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::10-Neuroendocrinology",
-        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::02-Hormone-Replacement-&-Suppression-Therapy::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::02-Hormone-Replacement-&-Suppression-Therapy::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::04-Steroid-Hormone-Pharmacology::Class-Content"
       ]
     },
     {
       "first_field_hash": "4c1c3ebad644019c8a0e30cd55d4046927e979242b7c13a6d6ce4d5b693b4233",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::10-Neuroendocrinology::Class-Content",
-        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::02-Hormone-Replacement-&-Suppression-Therapy::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::02-Hormone-Replacement-&-Suppression-Therapy::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::04-Steroid-Hormone-Pharmacology::Class-Content"
       ]
     },
     {
@@ -48332,28 +49138,57 @@
       ]
     },
     {
+      "first_field_hash": "75f3ca8c20ab120fbca983372f499c1085d587c28b6a8b059525af0628920e8a",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::04-Steroid-Hormone-Pharmacology",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::04-Steroid-Hormone-Pharmacology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "a00981f74e6a37226ddc21463301848f082f958065b7a8aa7ed8f13a3ae9a475",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::04-Steroid-Hormone-Pharmacology"
+      ]
+    },
+    {
+      "first_field_hash": "d036e9cc79123bd27e3b3a5f694e1b79bd4eb7674e40a021e86894ec69aa167c",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::04-Steroid-Hormone-Pharmacology"
+      ]
+    },
+    {
       "first_field_hash": "8d6d92145d68d8090223565930b4214c80ac75134211742de8859b4808428c3c",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::02-Hormone-Replacement-&-Suppression-Therapy"
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::02-Hormone-Replacement-&-Suppression-Therapy",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::04-Steroid-Hormone-Pharmacology::Class-Content"
       ]
     },
     {
       "first_field_hash": "d9d5eb2881d7ce0813ae9ef71991e269a0fc0756551c10234c4eac012af23780",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::02-Hormone-Replacement-&-Suppression-Therapy"
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::02-Hormone-Replacement-&-Suppression-Therapy",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::04-Steroid-Hormone-Pharmacology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "8da158d0248fcc1d9e4558080b437a0f9e7310c313030079a5d8e2f87ed7bfa7",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::04-Steroid-Hormone-Pharmacology"
       ]
     },
     {
       "first_field_hash": "9ef8bc8ae1bbc3f64cc244ded87040ddef0a4cffc778c21304c8db6b122da312",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::01-Intro-to-Endocrine-Block"
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::01-Intro-to-Endocrine-Block",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::04-Steroid-Hormone-Pharmacology"
       ]
     },
     {
       "first_field_hash": "7ef6d9f5a2511732a50e18623b9506be201f545e66c526eafc68a7e670e88f3d",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::01-Intro-to-Endocrine-Block",
-        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::15-Bone-Pathophysiology::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::15-Bone-Pathophysiology::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::04-Steroid-Hormone-Pharmacology"
       ]
     },
     {
@@ -48375,28 +49210,55 @@
       ]
     },
     {
+      "first_field_hash": "9e3a2c2eb43589c557de681ea150910d4eaa057f93df5101e6fa384a07b45b89",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::04-Steroid-Hormone-Pharmacology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "ce99e459d8d05f81f0fa471e294318745f2f2c7d1ad1bd58a56110df96fddd10",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::04-Steroid-Hormone-Pharmacology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "f087964947c30237df5b80275d73845b61613ca34e262ede75f948ed7fe2ee12",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::04-Steroid-Hormone-Pharmacology::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "60c553f6c201e1b99844c4db61920c18718ba7464b88ff128ff4d99a9c21533d",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::01-Testicular-Physiology::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::01-Testicular-Physiology::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::03-HPO-Axis-&-Menstrual-Cycle::Class-Content"
       ]
     },
     {
       "first_field_hash": "56d89c9d85826fe22d2b095af00dda7196ed9a28cca5df821351a2911ece0074",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Repro-Block::01-Testicular-Physiology",
-        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::01-Testicular-Physiology::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::01-Testicular-Physiology::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::04-Steroid-Hormone-Pharmacology::Class-Content"
       ]
     },
     {
       "first_field_hash": "4a010d19362ae1236d3eb0b05ab81a80a2e3ddddeab47fd423edc714df0b2b02",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::02-Hormone-Replacement-&-Suppression-Therapy"
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::02-Hormone-Replacement-&-Suppression-Therapy",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::04-Steroid-Hormone-Pharmacology::Class-Content"
       ]
     },
     {
       "first_field_hash": "283dab62bf2dc4a5c9929490d8d018b6cb40c72e06e37b6c72e7f4ad13103d2a",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Repro-Block::01-Testicular-Physiology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "8cadea218223a3c75b8b4c8e8f03f61a8ea458869a77cb10a2f90929be7d134e",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::04-Steroid-Hormone-Pharmacology"
       ]
     },
     {
@@ -49133,7 +49995,8 @@
     {
       "first_field_hash": "94d04bf997a3bcd3b1eaa48780b7f004b9e86ce3d0d2d880677c8e7407b4b17e",
       "tags": [
-        "JerryShen_AnKing_Tags::POM-4::Clinical-Reasoning::Shortness-of-Breath-(Hyperthyroidism)"
+        "JerryShen_AnKing_Tags::POM-4::Clinical-Reasoning::Shortness-of-Breath-(Hyperthyroidism)",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::05-Physiology-of-Pregnancy::Class-Content"
       ]
     },
     {
@@ -52034,6 +52897,12 @@
       ]
     },
     {
+      "first_field_hash": "949d3a0730b6940f27cf5d6a861e0ec2e386c7cb0aa41fc3f51b9e4aa628868f",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::05-Physiology-of-Pregnancy"
+      ]
+    },
+    {
       "first_field_hash": "3b3f2676b130c1d6fe0570f609880fd44f3e7b35346083cf669a0d10d0986bcc",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::CV-Lab-04-Case-Studies"
@@ -52101,7 +52970,7 @@
       ]
     },
     {
-      "first_field_hash": "55ca5c6b2a1b74bf1bf10484ed3ce35ce8a048ffa7dbb0d3031c77b251614b15",
+      "first_field_hash": "c18f318a3822eb2077de6adc1c0f76912d5435c32b43c0114f4c32895d6037d7",
       "tags": [
         "JerryShen_AnKing_Tags::POM-4::ACS-Skills::Cardiovascular-&-Renal::Class-Content"
       ]
@@ -52348,9 +53217,17 @@
       ]
     },
     {
+      "first_field_hash": "375181e025bbdfc3d2eb062eb3c110298e87543093567a1686c1660ff18840ad",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::14-Bone-Physiology",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::04-Steroid-Hormone-Pharmacology"
+      ]
+    },
+    {
       "first_field_hash": "714155be53c5304452f1cf9e40098ec1b13060c97097adac38fdafadf95b0b8d",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-1::MSK-Block::08-Pediatric-Orthopaedics"
+        "JerryShen_AnKing_Tags::SOM-1::MSK-Block::08-Pediatric-Orthopaedics",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::03-HPO-Axis-&-Menstrual-Cycle::Class-Content"
       ]
     },
     {
@@ -52615,6 +53492,12 @@
       "first_field_hash": "d81d30268239fcb3a825ac139c398e47675f8e235761a773de402e0eb03a7c3f",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::35-Congenital-Heart-Disease"
+      ]
+    },
+    {
+      "first_field_hash": "a08dd623d483bd643fa4f7d2af8dc9816dd7d89ade0d878f0a94de5d602565da",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::04-Steroid-Hormone-Pharmacology::Class-Content"
       ]
     },
     {
@@ -54199,7 +55082,8 @@
     {
       "first_field_hash": "11c95654b93f87552093e1dde5ef8e908daa581bb52083f3db362a77d52dd858",
       "tags": [
-        "JerryShen_AnKing_Tags::Micro-Pharm::Exam-1::04-Intro-to-Viruses"
+        "JerryShen_AnKing_Tags::Micro-Pharm::Exam-1::04-Intro-to-Viruses",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::05-Physiology-of-Pregnancy"
       ]
     },
     {
@@ -54811,6 +55695,12 @@
       ]
     },
     {
+      "first_field_hash": "3f2b0bdd21247f997201614f8cf689b4bbf4cdadd1426146b44d608ef1e801b2",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::04-Steroid-Hormone-Pharmacology"
+      ]
+    },
+    {
       "first_field_hash": "a1410fe7c9916e3b4e794a4e6d3e94d6a15eb593ff450145344dffe10109095c",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Renal-Block::19-Nephrotic-Syndrome"
@@ -54838,6 +55728,12 @@
       "first_field_hash": "4ac7337a836767fbd4444b70bcd93ccb037f14fabfac9717d947272aa3151685",
       "tags": [
         "JerryShen_AnKing_Tags::POM-4::Clinical-Reasoning::Shortness-of-Breath-(Hyperthyroidism)"
+      ]
+    },
+    {
+      "first_field_hash": "428104924e8438618c8241a8aaed00a79b74c7a9c800c1dbc10b0879bdde95e6",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::05-Stomach"
       ]
     },
     {
@@ -56660,14 +57556,16 @@
     {
       "first_field_hash": "533b111f7afd2e0f363ce583e5930d29e309d4f3c7235cf4291fa95ad8591084",
       "tags": [
-        "JerryShen_AnKing_Tags::Micro-Pharm::Exam-2::08-Other-Antibiotics-&-Mycobacteria::Class-Content"
+        "JerryShen_AnKing_Tags::Micro-Pharm::Exam-2::08-Other-Antibiotics-&-Mycobacteria::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::05-Physiology-of-Pregnancy::Class-Content"
       ]
     },
     {
       "first_field_hash": "f4af23bd6eb4479c4de97b4334a9f0d70cb4e6c785dea5cccbcb95d6902ebf96",
       "tags": [
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-2::08-Other-Antibiotics-&-Mycobacteria::Class-Content",
-        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::14-Bone-Physiology"
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::14-Bone-Physiology",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::05-Physiology-of-Pregnancy::Class-Content"
       ]
     },
     {
@@ -57317,14 +58215,16 @@
     {
       "first_field_hash": "bd7b1f05659444476d2bcf28f4703674600a8041187af6e7819222151754efe0",
       "tags": [
-        "JerryShen_AnKing_Tags::Micro-Pharm::Exam-2::08-Other-Antibiotics-&-Mycobacteria"
+        "JerryShen_AnKing_Tags::Micro-Pharm::Exam-2::08-Other-Antibiotics-&-Mycobacteria",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::05-Physiology-of-Pregnancy"
       ]
     },
     {
       "first_field_hash": "2a18bc9f1760676858c63bd28787101dd2c98379354509827b71988ebf8c0b4e",
       "tags": [
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-2::08-Other-Antibiotics-&-Mycobacteria",
-        "JerryShen_AnKing_Tags::Micro-Pharm::Exam-2::08-Other-Antibiotics-&-Mycobacteria::Class-Content"
+        "JerryShen_AnKing_Tags::Micro-Pharm::Exam-2::08-Other-Antibiotics-&-Mycobacteria::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::05-Physiology-of-Pregnancy::Class-Content"
       ]
     },
     {
@@ -59006,7 +59906,8 @@
     {
       "first_field_hash": "f881e56558d6c2c8f36d67f61a125cdec8b3ec2017bae2cb0c8fa9072d42f640",
       "tags": [
-        "JerryShen_AnKing_Tags::Micro-Pharm::Exam-2::08-Other-Antibiotics-&-Mycobacteria"
+        "JerryShen_AnKing_Tags::Micro-Pharm::Exam-2::08-Other-Antibiotics-&-Mycobacteria",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::05-Physiology-of-Pregnancy::Class-Content"
       ]
     },
     {
@@ -59178,7 +60079,8 @@
     {
       "first_field_hash": "f47b309ec05cd49d7a85dfcb1da46520149a043ec0c931333fa9a4182fe1bb7c",
       "tags": [
-        "JerryShen_AnKing_Tags::Micro-Pharm::Exam-2::08-Other-Antibiotics-&-Mycobacteria::Class-Content"
+        "JerryShen_AnKing_Tags::Micro-Pharm::Exam-2::08-Other-Antibiotics-&-Mycobacteria::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::05-Physiology-of-Pregnancy::Class-Content"
       ]
     },
     {
@@ -59306,6 +60208,12 @@
       "first_field_hash": "d0fd841be480f56167800d412356640875bb539b23800aab6bfd69a43e64dddd",
       "tags": [
         "JerryShen_AnKing_Tags::Cancer-Biology::Final::Cancer-Pharmacology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "84e742e48d3c21cf1116ab6d67e7e825d50547387b9f52c60cb52e3518bf2270",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::04-Steroid-Hormone-Pharmacology::Class-Content"
       ]
     },
     {
@@ -60591,13 +61499,31 @@
       ]
     },
     {
+      "first_field_hash": "dad03b2294a3ee4bb176ca4e7228454c98ddfb488fec55a7ea08e24669adc311",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::05-Physiology-of-Pregnancy::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "c39418eb17ad5a3b63d069ac7b5510939a675d3e1b5b6e1898e24fc64793afa4",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::05-Physiology-of-Pregnancy"
+      ]
+    },
+    {
+      "first_field_hash": "fa5341a3231d9c7391a255456d52dbceda919bf2c57d945e29182b5891e7b70f",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::05-Physiology-of-Pregnancy"
+      ]
+    },
+    {
       "first_field_hash": "4e34364b95ce275b30cd3114d1c2f4f3d5a24c6d824c7780415c50ce17506f38",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Renal-Block::24-Genetic-Kidney-Diseases"
       ]
     },
     {
-      "first_field_hash": "ef16e2babd25fb1a70be4b042e76938f80442b111c12556334ca5f779bc20bf8",
+      "first_field_hash": "713594b805ac4a6c2bbef186f9a884d2b8d91772e9529f5a0be1a97217bada6b",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Renal-Block::24-Genetic-Kidney-Diseases"
       ]
@@ -64089,7 +65015,8 @@
     {
       "first_field_hash": "d47c791e357f2d1146856d75fc1ab50f6e77a80074bb5f9f1c092cabbcade1a8",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::09-Endocrinology-of-Growth"
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::09-Endocrinology-of-Growth",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::03-HPO-Axis-&-Menstrual-Cycle::Class-Content"
       ]
     },
     {
@@ -64157,13 +65084,15 @@
       "first_field_hash": "e99854f0e829b88d8839f2d8fac3fd63c58055b02c39ce2c6a770d626ab03066",
       "tags": [
         "JerryShen_AnKing_Tags::Molecular-Foundations-&-Genetics::02-Genetics::03-Chromosomes",
-        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::09-Endocrinology-of-Growth::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::09-Endocrinology-of-Growth::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::03-HPO-Axis-&-Menstrual-Cycle::Class-Content"
       ]
     },
     {
       "first_field_hash": "0cc5812a8e79725d0e2d7eb4bd126d05e7cbb318b9abd17f48b9ed620b1fb5e0",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::09-Endocrinology-of-Growth::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::09-Endocrinology-of-Growth::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::03-HPO-Axis-&-Menstrual-Cycle::Class-Content"
       ]
     },
     {
@@ -65158,7 +66087,8 @@
     {
       "first_field_hash": "385e3d6147b4a58e0a34d480f4a58d64bd622650a925b79f545eba28300d8ba8",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::09-Endocrinology-of-Growth"
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::09-Endocrinology-of-Growth",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::04-Steroid-Hormone-Pharmacology"
       ]
     },
     {
@@ -65289,7 +66219,14 @@
       "first_field_hash": "d70bcce1c2d9ff02713ac6b44bf6b1f8a064d1d8df77ee21864d3e4372398cc1",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::10-Neuroendocrinology",
-        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::02-Hormone-Replacement-&-Suppression-Therapy"
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::02-Hormone-Replacement-&-Suppression-Therapy",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::04-Steroid-Hormone-Pharmacology"
+      ]
+    },
+    {
+      "first_field_hash": "d09947f2dd1e3ef134087c5364781f066fd94035d2c1ae629b06ec41733b8e02",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::04-Steroid-Hormone-Pharmacology"
       ]
     },
     {
@@ -65675,6 +66612,12 @@
       ]
     },
     {
+      "first_field_hash": "20add4d12f691a400aec5e0d394e96128a8f8c0f186f301ce55235da8f924cfd",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::05-Physiology-of-Pregnancy"
+      ]
+    },
+    {
       "first_field_hash": "b5965a875f67f9c4febae6ab1e0ce7457008b3c468f65a817565a891f23ac650",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::37-Inflammatory-Heart-Disease::Class-Content"
@@ -65697,6 +66640,24 @@
       "first_field_hash": "25a1ece9b112bb62539b69dc64b34210353c9844e6a5647c34857b361f8d84e2",
       "tags": [
         "JerryShen_AnKing_Tags::POM-3::Psychiatry::Psychiatric-Interview"
+      ]
+    },
+    {
+      "first_field_hash": "cb4cd0303acbb1a9222e5f65b0a4cbf6dc9c88a7ad66e5fdd3a39423e3cbe8fc",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::05-Physiology-of-Pregnancy::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "9265d03c017b4009513ed0d05b0bb6b875f49ba411478e0c8b4cbac549d433d6",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::05-Physiology-of-Pregnancy::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "cdcddd2f514c80fcef0d2cfeb473e7c64f35911e7489f1c8024c1b2f9236caa2",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::04-Steroid-Hormone-Pharmacology"
       ]
     },
     {
@@ -65728,6 +66689,12 @@
       "first_field_hash": "b6256cd685a0eb201eb0668ceb42c6f74c3a8c3c650465877cfdd580734bd86e",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::09-Endocrinology-of-Growth::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "65c53255a141c4721ff83e80692b8d29b932ba2d20d0be0a127394f71e46277a",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::03-HPO-Axis-&-Menstrual-Cycle::Class-Content"
       ]
     },
     {
@@ -65882,9 +66849,16 @@
       ]
     },
     {
+      "first_field_hash": "8f72f66271d416be7e4edad099fb52fb3c98ef2c4ab9dac53bd398cc8656388a",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::05-Physiology-of-Pregnancy::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "8b5cb413e048abafe9ff4cc13a829827007a2555e63cba5ebb2a04cb698079f8",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::09-Endocrinology-of-Growth"
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::09-Endocrinology-of-Growth",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::03-HPO-Axis-&-Menstrual-Cycle"
       ]
     },
     {
@@ -66160,7 +67134,8 @@
     {
       "first_field_hash": "857a9d6782dc62c137e7630d8e71e68de324af2a57085b9be069a2725be23ef9",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::17-Urinary-Tract-Infections"
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::17-Urinary-Tract-Infections",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::05-Physiology-of-Pregnancy::Class-Content"
       ]
     },
     {
@@ -66225,6 +67200,18 @@
       ]
     },
     {
+      "first_field_hash": "72e3dfb47281166f84498e35df1af70d739b1db7c6cc12010cc1f7bcf498f2a3",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::05-Physiology-of-Pregnancy"
+      ]
+    },
+    {
+      "first_field_hash": "f040a17397b522c77919ed417ee8ef2b16eac0ddc5fb71f5d0de8efc0a94c0f5",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::05-Physiology-of-Pregnancy"
+      ]
+    },
+    {
       "first_field_hash": "883a3adad48f6e42d8b064c9d39e824bb147c36bdeeec1bd82c01992f798843c",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::37-Inflammatory-Heart-Disease::Class-Content"
@@ -66246,6 +67233,12 @@
       "first_field_hash": "7ea99fcac918a9f157713ed1a4bd36cdd885663baf2d11bd92ae2ecad0bb900f",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::37-Inflammatory-Heart-Disease::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "67d13a44ce53a9499a741569dbf49f5795f5668f608472485ed9033b35dbd19c",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::05-Physiology-of-Pregnancy"
       ]
     },
     {
@@ -66590,6 +67583,12 @@
       ]
     },
     {
+      "first_field_hash": "f2de733c00ba7b4ccd06d01139b3150f1c389a70d3a63244b756a5ac7f4f14a7",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::05-Physiology-of-Pregnancy::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "7d27b1fc98f87fa72d9f402b2a21877f2648f647d91766f3752510386463bca9",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::MSK-Block::09-Geriatric-Orthopedics::Class-Content",
@@ -66856,6 +67855,24 @@
       ]
     },
     {
+      "first_field_hash": "83e5cd36098de530335687458a0b4e91c70307e454a023df2d074441981cfea5",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::05-Physiology-of-Pregnancy"
+      ]
+    },
+    {
+      "first_field_hash": "0c42efb9d4e94f31dd11b1b79a3e2c3813082384474f7c1c621c44e4a95ea794",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::05-Physiology-of-Pregnancy"
+      ]
+    },
+    {
+      "first_field_hash": "e1e79f86f9774c5f074d3d9f050a617afe694ae671598060c94033cae65280c9",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::05-Physiology-of-Pregnancy::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "d2a8b1ceedb6a3f9bcb584ee4ba874abd052eb4d034a8c0d5dc1e57c29ec1c6f",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::27-Lung-Cancer"
@@ -66997,13 +68014,33 @@
     {
       "first_field_hash": "b819baaa44e428f0f5a37f27415e5139d70505194085317f67f82c41614f28ae",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::02-Glucose-Homeostasis-1"
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::02-Glucose-Homeostasis-1",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::05-Physiology-of-Pregnancy::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "770e16a20e1a6ab6c202d4af6556b0b16d3627b91320f4e616bcda8ed332b203",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::05-Physiology-of-Pregnancy"
       ]
     },
     {
       "first_field_hash": "5031d744e2c5b948cd9d651c728bfaf2ff2995eae313e120bca4aec3925d7618",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Repro-Block::01-Testicular-Physiology"
+      ]
+    },
+    {
+      "first_field_hash": "41c32dbe0526255d9edd33587ef2101bdb4dba03f505f3196f8b142973ef3612",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::04-Steroid-Hormone-Pharmacology",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::04-Steroid-Hormone-Pharmacology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "946e451a07a3ac0962db464cf8a353809b3765aa2af58978c7499673f33ed29c",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::04-Steroid-Hormone-Pharmacology::Class-Content"
       ]
     },
     {
@@ -67125,7 +68162,7 @@
       ]
     },
     {
-      "first_field_hash": "8542e309b837b66d9fdb76fe2b98909eb9ab1dd57b25dc1a8cea8d2046d43332",
+      "first_field_hash": "85bcaf41dcfe2fe61d77b27da2e22374c421706b32a04794042f3b5153f3a79c",
       "tags": [
         "JerryShen_AnKing_Tags::POM-1::Final::Clinical-Skills::Class-Content"
       ]
@@ -67511,6 +68548,12 @@
       ]
     },
     {
+      "first_field_hash": "ada6fe54a7e813742063205f91896571514a0e930af299085fd9ea9ee23b53bf",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::04-Steroid-Hormone-Pharmacology::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "1105704ce19aa84a7ca2aa6d093017ffbc978e5a453fa0bd7ea855b736e3646b",
       "tags": [
         "JerryShen_AnKing_Tags::POM-3::Clinical-Reasoning::Approach-to-Shock"
@@ -67692,7 +68735,8 @@
     {
       "first_field_hash": "49425d3207df61fea9315dcbe66ab5a47afb6170835fe3c7b427b2320567c586",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::01-Testicular-Physiology::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::01-Testicular-Physiology::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::04-Steroid-Hormone-Pharmacology::Class-Content"
       ]
     },
     {
@@ -68465,6 +69509,12 @@
       ]
     },
     {
+      "first_field_hash": "9ba4308f6489dfe3ef543a44f1b4400c852463d217135eec3f716fe8ef75fa8f",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::02-GI-Hormones"
+      ]
+    },
+    {
       "first_field_hash": "a292b3ad78bb613817e17c5f475426d447b3268aef797a03dbfb826fcd0ad956",
       "tags": [
         "JerryShen_AnKing_Tags::Molecular-Foundations-&-Genetics::02-Genetics::08.1-Inherited-Metabolic-Disorders"
@@ -69177,6 +70227,12 @@
       "first_field_hash": "69c254509046572307fe921068eed3846f1d80e42e7e20629158c2354bc103da",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::05-Stomach::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "580b5e4494ccf158554f56b8aeec9a93a214045d6c4b337fbee9589cc8b1eb9a",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::05-Stomach"
       ]
     },
     {
@@ -70050,10 +71106,22 @@
       ]
     },
     {
+      "first_field_hash": "ea985e8a50a9781216e53c269e188f3437580d6287698330d44556c8634ec772",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::04-Steroid-Hormone-Pharmacology::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "6f6bd707d6aa347a9d091f1d632de820a806172bfcdb892a3ff61c5fb894b93a",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::10-Autonomic-Physiology-and-Pharmacology",
         "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::24-Sepsis-&-Septic-Shock::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "9496fcdc52daa7804f534d4082189ddfa1eee91cf85ab1144c8ba014216388ad",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::03-HPO-Axis-&-Menstrual-Cycle"
       ]
     },
     {
@@ -70319,6 +71387,12 @@
       ]
     },
     {
+      "first_field_hash": "1f88c247c48af3d89ff0c876acff41c9532220bbe441e7c9796651d5d79b1d35",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::05-Physiology-of-Pregnancy"
+      ]
+    },
+    {
       "first_field_hash": "db54566699fa039aa0f88ebecb5f17542620976ced6745f4caf436fc93566e4d",
       "tags": [
         "JerryShen_AnKing_Tags::Biochemistry::Final::02-Oxidative-Phosphorylation"
@@ -70387,6 +71461,12 @@
     },
     {
       "first_field_hash": "3a5e0c6087310078718e1311bdc0dd495ef38dba6b970c6c8fd963e1800583ce",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::05-Stomach"
+      ]
+    },
+    {
+      "first_field_hash": "b914b8bd77d14a64ee4404c1878e4e6b987ffebe9d5b56619c5c4a2ba8dd9350",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::05-Stomach"
       ]
@@ -70526,6 +71606,12 @@
       "first_field_hash": "7871e4f9a02e36d133b14c2fb00d0fb8b29e4f7804fa6f460f451a7938f3b8c0",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Renal-Block::17-Urinary-Tract-Infections"
+      ]
+    },
+    {
+      "first_field_hash": "a6ed25544642f8e210d10c810b7aea9a265a5d62419ce72e68efa2b49bf26906",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::04-Steroid-Hormone-Pharmacology::Class-Content"
       ]
     },
     {
@@ -70867,9 +71953,46 @@
       ]
     },
     {
+      "first_field_hash": "d86e8c340ce8db94d9eb9dbefab3ba46d4ce9c17e3fedb8bf5e966e48207d9e5",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::05-Physiology-of-Pregnancy::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "bbe0a9e319acbbce67a1b78c1ee4c6f8b17d804eae6825f940d84ecb0550509f",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::04-Steroid-Hormone-Pharmacology"
+      ]
+    },
+    {
+      "first_field_hash": "a2b541ceccb5d99e7b797c006d6449f6b205d600a561a8dee46217ab46bbfe18",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::05-Physiology-of-Pregnancy",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::05-Physiology-of-Pregnancy::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "883071394abef5ac079d322e8810aeb8c1a044f44b957adb1bb4eb2797ff872b",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::05-Physiology-of-Pregnancy::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "4c1110b3158b667f08e8b11e85050ccd43d6484bd30bcde6b8f48525d28ad110",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::05-Physiology-of-Pregnancy::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "587f5c1724d36128602dc82e206e5fc6ebf9ad65ad359c80e7c54dbfa02f2951",
       "tags": [
         "JerryShen_AnKing_Tags::POM-3::Clinical-Reasoning::Approach-to-Cough"
+      ]
+    },
+    {
+      "first_field_hash": "54109d646fe32762c339f8001d3a153d642a6207e671a8f75e1a3b0c2e7f3177",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::05-Physiology-of-Pregnancy"
       ]
     },
     {
@@ -70909,6 +72032,12 @@
       ]
     },
     {
+      "first_field_hash": "9de0bba721472ad5660cc417569bfbf3122a2ebac2a5511ee83220fb639ad935",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::05-Physiology-of-Pregnancy::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "5d061695d6887110aff0ca605e547270a2f72949f9bba304e1368b3ebe5be011",
       "tags": [
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-1::04-Intro-to-Viruses"
@@ -70929,13 +72058,39 @@
     {
       "first_field_hash": "611126fd4756f49a42486d12c6a9953e81d74fd1a8b78ebff88a6037f4e19457",
       "tags": [
-        "JerryShen_AnKing_Tags::Micro-Pharm::Exam-1::04-Intro-to-Viruses"
+        "JerryShen_AnKing_Tags::Micro-Pharm::Exam-1::04-Intro-to-Viruses",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::05-Physiology-of-Pregnancy"
       ]
     },
     {
       "first_field_hash": "c1cdcda57658430f590dc61e3a27f2df3a1260005431a43b4ecf706d502879ca",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Renal-Block::12-Calcium-Magnesium-&-Phosphate-Regulation"
+      ]
+    },
+    {
+      "first_field_hash": "b3815863224a28f2ca34d90d33b1c67ddcc8967d706425317abce51ce4fe573e",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::05-Physiology-of-Pregnancy::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "88f952b347a8fe5397820d7dd3bf395df6c896db30a826a9972b4bd98c39a58b",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::05-Physiology-of-Pregnancy",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::05-Physiology-of-Pregnancy::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "07afe515f855f0ca6af77981bafa5eb8d8d77c40e635456c75fd36b61f0551a6",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::05-Physiology-of-Pregnancy"
+      ]
+    },
+    {
+      "first_field_hash": "24bf97ed5bf4b4d138ba96886a4d479cf9f1c5b0ea17900007dffb0c38f9cfba",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::05-Physiology-of-Pregnancy::Class-Content"
       ]
     },
     {
@@ -70950,6 +72105,18 @@
       "first_field_hash": "342a6c6fe37cea2596bacd506732e309f96df4b3296a63663bce4744f521f9ee",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::11-GH-IGF1-&-Prolactin"
+      ]
+    },
+    {
+      "first_field_hash": "6e901bebde1a80035b04679e110f5bcd1e136067ea03412a6d13622c6f386939",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::04-Steroid-Hormone-Pharmacology"
+      ]
+    },
+    {
+      "first_field_hash": "b86db543ae353e2a7e6092c94e52978a49c512d5cbe71e88e9a1d6410a9b8bf5",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::03-HPO-Axis-&-Menstrual-Cycle"
       ]
     },
     {
@@ -70974,7 +72141,14 @@
     {
       "first_field_hash": "9b6215bd7e655a201eefb871624864dac2ab09eda1de48fdd8bf2989dcd5ec41",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::17-Urinary-Tract-Infections::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::17-Urinary-Tract-Infections::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::05-Physiology-of-Pregnancy::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "44557135db573ee111eeb09a6a5e2c3fee87e513e9fc3024b89a3fa4115dd680",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::04-Steroid-Hormone-Pharmacology::Class-Content"
       ]
     },
     {
@@ -70993,6 +72167,13 @@
       "first_field_hash": "7f530c076d804caa86d029a5917e5d80e7d91d3233e1bce2b4e1d81c79559c71",
       "tags": [
         "JerryShen_AnKing_Tags::POM-3::Psychiatry::Mood-Disorders"
+      ]
+    },
+    {
+      "first_field_hash": "b92453ee603842c7f3ee9dc6bf8de5173dcd0fc4658c1abdd6562d16e3bbc8a1",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::05-Physiology-of-Pregnancy",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::05-Physiology-of-Pregnancy::Class-Content"
       ]
     },
     {
@@ -71041,7 +72222,14 @@
       "first_field_hash": "ea8f6d5bde49394400d685dd6e1bbb4f4e0f0aa64810632f64bed151895a0557",
       "tags": [
         "JerryShen_AnKing_Tags::Molecular-Foundations-&-Genetics::02-Genetics::03-Chromosomes",
-        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::09-Endocrinology-of-Growth::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::09-Endocrinology-of-Growth::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::03-HPO-Axis-&-Menstrual-Cycle::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "5cd9b39e564b6b49433c5ac191c6a13e7931f88935943cd992dc6539bc6e99ae",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::03-HPO-Axis-&-Menstrual-Cycle::Class-Content"
       ]
     },
     {
@@ -71055,6 +72243,42 @@
       "first_field_hash": "7b5cd4a141f6d9b4276ad22d88113ed4b878b864d5977c742ff95fc0f370ebf6",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::16-Thyroid-Physiology-&-Pathophysiology"
+      ]
+    },
+    {
+      "first_field_hash": "cc30ad1053919e36babf6d71fedc481ed5312be97ccae6eeb22a17f1e87a14d9",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::04-Steroid-Hormone-Pharmacology"
+      ]
+    },
+    {
+      "first_field_hash": "2a21631dbc1965b44534bc822996db167972a55a5ca8ab73ca337b5cfea7c673",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::04-Steroid-Hormone-Pharmacology"
+      ]
+    },
+    {
+      "first_field_hash": "d6046ed044f3560cab31117f603fdf2e01ec81e4d39b5618659d1aa2132aaba3",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::04-Steroid-Hormone-Pharmacology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "dd2df5974801bb4900ba0cf3e4f3623b946b84ddc6ab9e824b5776d7f1509670",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::04-Steroid-Hormone-Pharmacology"
+      ]
+    },
+    {
+      "first_field_hash": "053f6ee0083e02520081669c0894b977e9088b459e6030eb1fe14d5344e8540b",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::18-Adrenal-Physiology"
+      ]
+    },
+    {
+      "first_field_hash": "6c21acb18c5c7277846140914c8f077238ebe5f5454e2a56b8d6c76256a3630e",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::04-Steroid-Hormone-Pharmacology::Class-Content"
       ]
     },
     {
@@ -71073,13 +72297,27 @@
     {
       "first_field_hash": "b6a47f8fcfaa260f94c037d6f3585204a037f67f9357f83abc313c210a9a434c",
       "tags": [
-        "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-4-Pelvis::Histology::Class-Content"
+        "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-4-Pelvis::Histology::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::03-HPO-Axis-&-Menstrual-Cycle::Class-Content"
       ]
     },
     {
       "first_field_hash": "d547655a2185947db984808c5bdb3a3b9b442fbac95070ae3da1de0df2a0c885",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::16-Thyroid-Physiology-&-Pathophysiology"
+      ]
+    },
+    {
+      "first_field_hash": "8e902639546d1676cd62bacd08bfef9d6a43557bd001687df94de8a9d852655d",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::03-HPO-Axis-&-Menstrual-Cycle",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::03-HPO-Axis-&-Menstrual-Cycle::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "468a2184dded41e39269df8a6f3a8dd86ac43d652f2b39a037357911eda6d72d",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::03-HPO-Axis-&-Menstrual-Cycle"
       ]
     },
     {
@@ -71091,7 +72329,8 @@
     {
       "first_field_hash": "113f50184bf858a690c79751ba57405400a6fe55ac4cf8c75db8bc414bd63ac9",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::09-Endocrinology-of-Growth::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::09-Endocrinology-of-Growth::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::03-HPO-Axis-&-Menstrual-Cycle::Class-Content"
       ]
     },
     {
@@ -71128,13 +72367,32 @@
     {
       "first_field_hash": "ba2e590fe2bb4096441b5891b7bf10018211cee1dbc6d2621c5113e1c7c7696c",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::09-Endocrinology-of-Growth::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::09-Endocrinology-of-Growth::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::03-HPO-Axis-&-Menstrual-Cycle::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "2f770647758b97ee8cf559cd72913a9909f31bdabba45b0714dd1403a3b76160",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::05-Physiology-of-Pregnancy"
       ]
     },
     {
       "first_field_hash": "f8be0acec7731ac58a8886f12fed2a0fd654ae497ea78e5d03eb27f7de7f4c2c",
       "tags": [
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-2::07-β-Lactam-Antibiotics-&-Parasites"
+      ]
+    },
+    {
+      "first_field_hash": "c21339708a6316e28917ab0ec2867a92b72aded4df4d7fa23cc960ccd80fb146",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::05-Physiology-of-Pregnancy"
+      ]
+    },
+    {
+      "first_field_hash": "35f50e182f245e1973673f67a6c542c183d15514b1069d0fd6f496f6b1b70359",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::05-Physiology-of-Pregnancy"
       ]
     },
     {
@@ -73985,7 +75243,8 @@
     {
       "first_field_hash": "86ff548a4b1e0eaa92cb2458ba6d978c58a5fd7f3e0db99861fd7a1f0548844f",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::09-Endocrinology-of-Growth::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::09-Endocrinology-of-Growth::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::03-HPO-Axis-&-Menstrual-Cycle"
       ]
     },
     {
@@ -74092,6 +75351,24 @@
       ]
     },
     {
+      "first_field_hash": "da6ec24a8c3aaf7075a6003519e7e6e662be37017820f67821feac6aafa67b84",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::04-Steroid-Hormone-Pharmacology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "d3a344f3d7af7fdc6815ac79d19a964de853a01fc29b766dc1a13053436e2168",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::04-Steroid-Hormone-Pharmacology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "d9c7cdbb2223951762afced576ddb31e5784f2f19e8d84a1e2db4511b557ab73",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::03-HPO-Axis-&-Menstrual-Cycle::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "9fe82514bc0c99653e2db5d5b0d39015ccfe7f3c053cfc2646f7f56c4972344b",
       "tags": [
         "JerryShen_AnKing_Tags::Cancer-Biology::Final::06-Role-of-Pathology-in-Cancer-Diagnosis"
@@ -74118,13 +75395,32 @@
     {
       "first_field_hash": "a8a47ed67a5a22a94302b23b335574ca88d3e2035365497f39c9028fd0c1d229",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::16-Thyroid-Physiology-&-Pathophysiology::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::16-Thyroid-Physiology-&-Pathophysiology::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::05-Physiology-of-Pregnancy::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "cbdb2b57a9347e2aa7afad9562555ee36573c88e5aab432fb085f727cbea434f",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::04-Steroid-Hormone-Pharmacology"
+      ]
+    },
+    {
+      "first_field_hash": "796f3118c814207f1d7c1bb84083df8efcebd24d6c731f00a61a922ce5eec619",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::05-Physiology-of-Pregnancy::Class-Content"
       ]
     },
     {
       "first_field_hash": "cfa04bd67ea984255c7001c201a7ea63a1289f4a813856ab7ef240cda70ceea5",
       "tags": [
         "JerryShen_AnKing_Tags::POM-4::Clinical-Reasoning::Shortness-of-Breath-(Hyperthyroidism)"
+      ]
+    },
+    {
+      "first_field_hash": "abb674e97c4fad568f9db412970b4b48f8473f450609cd90c67bbba53313da7a",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::04-Steroid-Hormone-Pharmacology"
       ]
     },
     {
@@ -74829,6 +76125,12 @@
       "first_field_hash": "e0d5dba674624865a1d16b429d797b6c6c0cfc0daa3406bcdfd07f215f46dab0",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::19-ARDS-&-Ventilators"
+      ]
+    },
+    {
+      "first_field_hash": "bbfebe020c571c460ad7928d848beed187ab9b5bcb439bec74685a28b684b0fd",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::05-Physiology-of-Pregnancy"
       ]
     },
     {
@@ -75912,6 +77214,12 @@
       ]
     },
     {
+      "first_field_hash": "7a828a14487b7db76ab526880736045b25e421f17e0216de98ebb824075ff4c2",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::03-HPO-Axis-&-Menstrual-Cycle::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "1e68ef57fe8299337df9527d6b8c3b1762413f112c310e0e43377b41cb52ced0",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::14-Lung-Pharmacology"
@@ -75981,15 +77289,34 @@
       ]
     },
     {
+      "first_field_hash": "e433716c804087a7952d08b694931cc82ccee783376450c827d897fb9e4be5f6",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::05-Physiology-of-Pregnancy::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "8afa1a60d6e7897f4719f82da69762702e33076ca22c74cd800a7e62ba6d0937",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::01-Testicular-Physiology"
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::01-Testicular-Physiology",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::03-HPO-Axis-&-Menstrual-Cycle"
       ]
     },
     {
       "first_field_hash": "29d01bc21cfa30a07844d444d375d695e1aff70c4298dd878f9e4b77727a49d9",
       "tags": [
         "JerryShen_AnKing_Tags::POM-3::Clinical-Reasoning::Approach-to-Acute-Dyspnea"
+      ]
+    },
+    {
+      "first_field_hash": "ce62168dbd0cb5f8ae725be185d6bd1598bd8c46ecc72798cd8d60c52884656c",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::03-HPO-Axis-&-Menstrual-Cycle"
+      ]
+    },
+    {
+      "first_field_hash": "5b16201c4b37734d98aeb61a0eca8baaef9a0eb84e3846beb71fc5f9477a44a9",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::05-Physiology-of-Pregnancy"
       ]
     },
     {
@@ -76248,6 +77575,12 @@
       ]
     },
     {
+      "first_field_hash": "c7e7f417347b1337ff735d25ab34fb3c7c6e4f58b692706de7853d3ce0d5e921",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::05-Physiology-of-Pregnancy::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "e18ba61b2c669fd8877e652d2000ec36ba94c857ce82fc56895cb11f1fc47e94",
       "tags": [
         "JerryShen_AnKing_Tags::Neurobiology::Exam-3::Lec-Experience-Dependent-Circuit-Tuning::Class-Content"
@@ -76294,6 +77627,18 @@
       "first_field_hash": "3a6f75c689b1382470fb6d88e015ef3bf8e5f28a3d7112e396d9c3de72f64f0f",
       "tags": [
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-2::07-β-Lactam-Antibiotics-&-Parasites::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "03e525116e842f325bbd7e96c8d26ab52a6d6f800ff890d48eebaa50e78275f7",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::05-Physiology-of-Pregnancy::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "a29bc82dafc689a85a017f3d2a56a8c2cc651dc6bad596bf7ec8edccd3fc6d53",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::03-HPO-Axis-&-Menstrual-Cycle::Class-Content"
       ]
     },
     {
@@ -76348,7 +77693,13 @@
       ]
     },
     {
-      "first_field_hash": "e8261d96bb6c91ccba68e0ea57944529e0415ef45420f31fd6893afb83fa0f9a",
+      "first_field_hash": "3e092263bf52e364b49aa65caf0cf74ae461d36e5828297f93a996d4da8539e7",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::04-Steroid-Hormone-Pharmacology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "fce8d7c5f9a3712711b2742278d6df98856713b29578c73c207b38d0d2704b7e",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::MSK-Block::04-Upper-Limb-Pathology"
       ]
@@ -76356,7 +77707,8 @@
     {
       "first_field_hash": "d474b63bcac8816cf8032a52ae98ac908bccb4ac5b001569fe2de115477f7fb6",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::17-Urinary-Tract-Infections"
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::17-Urinary-Tract-Infections",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::05-Physiology-of-Pregnancy::Class-Content"
       ]
     },
     {
@@ -76367,9 +77719,27 @@
       ]
     },
     {
+      "first_field_hash": "a67bd27bb28881e4925c9e11c530a2c4e75a025234fcda9ed672d45b318bf2de",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::05-Physiology-of-Pregnancy::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "c4650f696d502680fdd507ad9a364243aa8a4328d0f88dff052fb1b96a619f1e",
       "tags": [
         "JerryShen_AnKing_Tags::Molecular-Foundations-&-Genetics::02-Genetics::06-Complex-Inheritance-Patterns"
+      ]
+    },
+    {
+      "first_field_hash": "e8e0bfd27bb57c1b2bc562de41b4d6780c1aa11f787046ebd688638a36201869",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::04-Steroid-Hormone-Pharmacology"
+      ]
+    },
+    {
+      "first_field_hash": "258786f666199ae8a8363fdee0274a293259630ac0a1c178ef8f1d71865ab863",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::04-Steroid-Hormone-Pharmacology"
       ]
     },
     {
@@ -76383,6 +77753,12 @@
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::MSK-Block::09-Geriatric-Orthopedics::Class-Content",
         "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::15-Bone-Pathophysiology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "0e7fef7112003c6ac27a967c9fbaaa34d3ba136197dab3b8d1e363ed8f41294c",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::03-HPO-Axis-&-Menstrual-Cycle::Class-Content"
       ]
     },
     {
@@ -76483,7 +77859,8 @@
       "first_field_hash": "7892dec3dbc626eb73dbe5f00332693d1f86670ba5f9a30850c13e066fee7ed2",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Repro-Block::02-Hormone-Replacement-&-Suppression-Therapy",
-        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::02-Hormone-Replacement-&-Suppression-Therapy::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::02-Hormone-Replacement-&-Suppression-Therapy::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::04-Steroid-Hormone-Pharmacology"
       ]
     },
     {
@@ -76549,7 +77926,8 @@
     {
       "first_field_hash": "66fe659ebfa39ef628c15122dc9784de0d90b7297742b01f9076765a7d821976",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::04-Salivary-Gland-&-Esophagus::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::04-Salivary-Gland-&-Esophagus::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::05-Physiology-of-Pregnancy"
       ]
     },
     {
@@ -76644,6 +78022,12 @@
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::29-Therapies-for-IHD",
         "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::05-Treatment-of-Hyperlipidemia"
+      ]
+    },
+    {
+      "first_field_hash": "1030187ba66f92609c1d8797a4bdc3acfd630727285da010eb89c2af2ae5fc3d",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::04-Steroid-Hormone-Pharmacology::Class-Content"
       ]
     },
     {
@@ -77129,6 +78513,12 @@
       ]
     },
     {
+      "first_field_hash": "45180e931b5a1499b72231e41e75eeb764834c7b38da87b07471f7a2ee720862",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::05-Physiology-of-Pregnancy"
+      ]
+    },
+    {
       "first_field_hash": "3176ac179d349104b651f26926eb71aa7fe4e099ddda4722d5c70dbe6229c8bc",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::16-Thyroid-Physiology-&-Pathophysiology"
@@ -77195,6 +78585,12 @@
       ]
     },
     {
+      "first_field_hash": "4b6d26faf042ebc73e7dc505b579e6ce7b822e7b2928994a71122b623dc0543e",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::05-Physiology-of-Pregnancy"
+      ]
+    },
+    {
       "first_field_hash": "5c9c86ec94cf229c38d7dbeef47ea76bca6e1b15e64d54c7226e21fbdef28f4e",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Renal-Block::19-Nephrotic-Syndrome"
@@ -77242,6 +78638,12 @@
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::MSK-Block::04-Upper-Limb-Pathology",
         "JerryShen_AnKing_Tags::SOM-1::MSK-Block::04-Upper-Limb-Pathology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "9766b5badeeca6f864a0436df10fe1a9b2afff92eb6ad32911e79e537493712f",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::04-Steroid-Hormone-Pharmacology"
       ]
     },
     {
@@ -77363,6 +78765,12 @@
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-1::05-Intro-to-Fungi",
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-1::05-Intro-to-Fungi::Class-Content",
         "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::22-Respiratory-Tract-Case-Studies::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "6dde8afebb2acee1d281fe324b3712708d5478eb9c3a4cdeea21c0ddb72c1114",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::05-Physiology-of-Pregnancy::Class-Content"
       ]
     },
     {
@@ -77544,7 +78952,8 @@
       "first_field_hash": "34d83a2a4ec9a7018d7d3ecad34f2718e3b5e462bab1d35014329bb11119ce92",
       "tags": [
         "JerryShen_AnKing_Tags::Molecular-Foundations-&-Genetics::02-Genetics::03-Chromosomes",
-        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::09-Endocrinology-of-Growth"
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::09-Endocrinology-of-Growth",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::03-HPO-Axis-&-Menstrual-Cycle"
       ]
     },
     {
@@ -77648,6 +79057,18 @@
       "first_field_hash": "9d057de54b7e48b9643adbb05fbf478a0fdea1869bea9b4b8c5e3b70e6b992e3",
       "tags": [
         "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-6-Head-&-Neck-1::Embryology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "61137962237d042817b7b6ded9165ba8386e1f50984538fe267eeb170e43cdbe",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::03-HPO-Axis-&-Menstrual-Cycle"
+      ]
+    },
+    {
+      "first_field_hash": "eed98332f802662b8983b77e4b3d49fcc5981db9e82c636f1fcbeeca2c151c3b",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::04-Steroid-Hormone-Pharmacology"
       ]
     },
     {
@@ -78084,6 +79505,12 @@
       ]
     },
     {
+      "first_field_hash": "4c999648cf6e5d47d801418ea02e589541a61c3d76bc345117d1dcf7ad0dbeb1",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::04-Steroid-Hormone-Pharmacology::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "07c4bc02872c5a2fd8d094136262f4fcb0b1e11909119a56eaae55e1e1bcbb31",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::06-Pathogenesis-&-Treatment-of-Type-1-Diabetes::Class-Content"
@@ -78364,6 +79791,12 @@
       "first_field_hash": "c5a551c5117b685899c16340bed19793a79a053162b484498534b194e9319fa8",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Renal-Block::11-Potassium-Disorders::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "1834e5bace716a17fd1b75a72af06b17ad345e6df139186dea88cd7e3b6960c9",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::04-Steroid-Hormone-Pharmacology"
       ]
     },
     {
@@ -79054,6 +80487,12 @@
       ]
     },
     {
+      "first_field_hash": "663ebd734641554c9dcd6eb107eacdc52ca3b73b099ad4d4828875b1efc5a006",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::03-HPO-Axis-&-Menstrual-Cycle::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "ba637f3ec423da8da4be8a369410c6235754332975f72b169740a4420c39683b",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::31-Treatment-of-Hypertension"
@@ -79110,7 +80549,7 @@
       ]
     },
     {
-      "first_field_hash": "74eb23acab2f5774ae00381c10e724172ed9329778ecd595263a3d8c35e8091b",
+      "first_field_hash": "90caf751773386343d13d5ee02b51669c0f3d6d571c66f082d2023ccfe1463bb",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::16-Thyroid-Physiology-&-Pathophysiology::Class-Content"
       ]
@@ -79351,6 +80790,55 @@
       ]
     },
     {
+      "first_field_hash": "f889b4aab89d61d7cc00332770d6dc1fe5a3196be5aa706ee3e6093b6ef48438",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::04-Steroid-Hormone-Pharmacology"
+      ]
+    },
+    {
+      "first_field_hash": "2adf27861ff5bbacd8ddde45c28c60bda7d4d3bb079050cf770f3f2be8b017b7",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::04-Steroid-Hormone-Pharmacology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "03f1832f34936a2c3fff4f4f8b51c5b384cb9cf57644d6282ab04e3020dd35e6",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::03-HPO-Axis-&-Menstrual-Cycle::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "884587165982aade7735442cdb645486db0518cf93e00bdf8cc41824c02389f5",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::04-Steroid-Hormone-Pharmacology"
+      ]
+    },
+    {
+      "first_field_hash": "c4cee36fff75dfbbd1822126319aac03440aa34a08ea06a2ea1a33ad522150c8",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::04-Steroid-Hormone-Pharmacology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "c340fdde7754466a3bc13b654a2778b5044f20adfbde7982422775af2ff297cb",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::04-Steroid-Hormone-Pharmacology"
+      ]
+    },
+    {
+      "first_field_hash": "3f473f6e213c2bb4a5da30ab6fda6ba1e03ba875ea808c12ad4c7fbefe7b2934",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::04-Steroid-Hormone-Pharmacology"
+      ]
+    },
+    {
+      "first_field_hash": "a91459026aeebcf3f17f5e341f3adcf16c95e0c305ae497f83bf90daa34fa58d",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::04-Steroid-Hormone-Pharmacology",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::04-Steroid-Hormone-Pharmacology::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "6f2caa850f442f7dcc96a4042b6dc7cec652b5686f5f1ea530b6e0f891317d25",
       "tags": [
         "JerryShen_AnKing_Tags::Molecular-Foundations-&-Genetics::02-Genetics::03-Chromosomes",
@@ -79429,7 +80917,8 @@
       "first_field_hash": "50bd5c4513621c7d4d2e6e98cfa9103c32461a43b533d870ab60a84685fcaab5",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::31-Treatment-of-Hypertension",
-        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::24-Genetic-Kidney-Diseases"
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::24-Genetic-Kidney-Diseases",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::05-Physiology-of-Pregnancy::Class-Content"
       ]
     },
     {
@@ -79658,6 +81147,12 @@
       ]
     },
     {
+      "first_field_hash": "be894ac0bce81d59d9a02d0737d2c8ee2623256f3bb7e6873faead421e5bdd08",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::04-Steroid-Hormone-Pharmacology::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "564bd255b04f4a18365f876d016cdfebb958c6ee9b1652a6199668b548cf50d1",
       "tags": [
         "JerryShen_AnKing_Tags::POM-1::Final::Epidemiology::Class-Content"
@@ -79693,6 +81188,12 @@
       "tags": [
         "JerryShen_AnKing_Tags::POM-2::Final::Nutrition::Class-Content",
         "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::03-Fat-&-Micronutrient-Nutrition::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "3fc91e8c54f36171ebf4c049d56838ef3caa5a6de169a2b0266a0e34bc4ca98a",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::05-Physiology-of-Pregnancy"
       ]
     },
     {
