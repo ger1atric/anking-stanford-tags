@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
   "author": "JerryShen",
-  "description": "for kenny",
-  "created": "2026-10-16T04:02:34.554840+00:00",
-  "updated": "2026-10-16T04:02:34.554840+00:00",
+  "description": "friday",
+  "created": "2026-10-19T01:10:36.348462+00:00",
+  "updated": "2026-10-19T01:10:36.348462+00:00",
   "tag_prefix": "JerryShen_AnKing_Tags",
   "tag_hierarchy": [
     "JerryShen_AnKing_Tags",
@@ -581,7 +581,13 @@
     "JerryShen_AnKing_Tags::SOM-2::Repro-Block::04-Steroid-Hormone-Pharmacology",
     "JerryShen_AnKing_Tags::SOM-2::Repro-Block::04-Steroid-Hormone-Pharmacology::Class-Content",
     "JerryShen_AnKing_Tags::SOM-2::Repro-Block::05-Physiology-of-Pregnancy",
-    "JerryShen_AnKing_Tags::SOM-2::Repro-Block::05-Physiology-of-Pregnancy::Class-Content"
+    "JerryShen_AnKing_Tags::SOM-2::Repro-Block::05-Physiology-of-Pregnancy::Class-Content",
+    "JerryShen_AnKing_Tags::SOM-2::Repro-Block::06-Labor-Delivery-&-Postpartum-Physiology",
+    "JerryShen_AnKing_Tags::SOM-2::Repro-Block::06-Labor-Delivery-&-Postpartum-Physiology::Class-Content",
+    "JerryShen_AnKing_Tags::SOM-2::Repro-Block::07-Complications-of-Pregnancy",
+    "JerryShen_AnKing_Tags::SOM-2::Repro-Block::07-Complications-of-Pregnancy::Class-Content",
+    "JerryShen_AnKing_Tags::SOM-2::Repro-Block::08-Labor-&-Birth-Complications",
+    "JerryShen_AnKing_Tags::SOM-2::Repro-Block::08-Labor-&-Birth-Complications::Class-Content"
   ],
   "changelog": [
     {
@@ -920,6 +926,11 @@
       "date": "2026-10-16T04:02:34.554840+00:00",
       "message": "for kenny",
       "note_count": 324
+    },
+    {
+      "date": "2026-10-19T01:10:36.348462+00:00",
+      "message": "friday",
+      "note_count": 344
     }
   ],
   "notes": [
@@ -1090,7 +1101,8 @@
     {
       "first_field_hash": "bea62ae4d8b5da27d6b5f1d233423eeaa62ccf0de2eaa3c8aa132fc6f06ead69",
       "tags": [
-        "JerryShen_AnKing_Tags::Molecular-Foundations-&-Genetics::02-Genetics::03-Chromosomes"
+        "JerryShen_AnKing_Tags::Molecular-Foundations-&-Genetics::02-Genetics::03-Chromosomes",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::05-Physiology-of-Pregnancy"
       ]
     },
     {
@@ -1187,7 +1199,7 @@
       ]
     },
     {
-      "first_field_hash": "efb1597fbfcf5f34c04c053308986789bd37a0eb5d6e20c46dd59306bbeb2a45",
+      "first_field_hash": "44d432e1f7f51cf11d45d6f19e6eeaa41b064a35a5a48949b13a51f3f70589bf",
       "tags": [
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-2::07-β-Lactam-Antibiotics-&-Parasites::Class-Content",
         "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::04-Salivary-Gland-&-Esophagus::Class-Content"
@@ -1215,7 +1227,7 @@
       ]
     },
     {
-      "first_field_hash": "98f539d3aa52da5c07ea7757e32d32974d90caabe2ba355f04f62783625483e1",
+      "first_field_hash": "18e1e8cd57dd2fc22196bc91a02f6520b92c613b21d6dbd296dee5276f9e10dd",
       "tags": [
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-2::06-Antivirals::Class-Content"
       ]
@@ -1249,6 +1261,24 @@
       "first_field_hash": "ed9e6ff9283cbfeccbc3d77146d56df6e71757e843df70d054b5a50265a4df96",
       "tags": [
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-1::02-S.pyogenes-&-E.coli"
+      ]
+    },
+    {
+      "first_field_hash": "d33456a64e4292a523d1915e9b5f7cecd780266fd5c2677f592a5e279ebc6913",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::07-Complications-of-Pregnancy::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "8f9d5959d6e53639f4e12991f38a7bbde12ab2342f4b18ffbb3a42fc40101fc8",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::07-Complications-of-Pregnancy"
+      ]
+    },
+    {
+      "first_field_hash": "4baa44dae4c30d5624d6341961b113e344bfdd453de4313365f75011bf45b3e5",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::07-Complications-of-Pregnancy::Class-Content"
       ]
     },
     {
@@ -1357,6 +1387,12 @@
       ]
     },
     {
+      "first_field_hash": "f1eceb0a0817d1c7065d123f439a85c78270f48c10a414be562925ce41339b9b",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::03-HPO-Axis-&-Menstrual-Cycle"
+      ]
+    },
+    {
       "first_field_hash": "6f89a66af8bca68e41ee9bfbb6e58d1d5a2743607b0869f3d907df41b9002480",
       "tags": [
         "JerryShen_AnKing_Tags::Neurobiology::Exam-2::Tutorial-1-Cerebrum::Class-Content"
@@ -1384,6 +1420,18 @@
       "first_field_hash": "360a0a94599014deadc832158abda75082e5c850542977b01012a406eabc1ec6",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::19-ARDS-&-Ventilators::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "d805ebff287b8ec24b1e70655b3bb56f2b73ca54c652834127e94be83e252bb6",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::06-Labor-Delivery-&-Postpartum-Physiology"
+      ]
+    },
+    {
+      "first_field_hash": "a5a8f968fc6cb0843832e5aa5839321a712a0a39bedcc8e51997e5ab67c518ce",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::06-Labor-Delivery-&-Postpartum-Physiology::Class-Content"
       ]
     },
     {
@@ -2027,7 +2075,8 @@
     {
       "first_field_hash": "4a072015b237d116c73ebc94c88cc6a68af7b0edab6c9da1383ae853e6bd3919",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::11-GH-IGF1-&-Prolactin::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::11-GH-IGF1-&-Prolactin::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::06-Labor-Delivery-&-Postpartum-Physiology::Class-Content"
       ]
     },
     {
@@ -2071,7 +2120,8 @@
     {
       "first_field_hash": "6088ed1379437bfdf5ceaa00dfcc6b78a6e1a29dc8bc30ad84a1a4ed8e1e6e37",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::10-Neuroendocrinology"
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::10-Neuroendocrinology",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::06-Labor-Delivery-&-Postpartum-Physiology::Class-Content"
       ]
     },
     {
@@ -2231,6 +2281,12 @@
       "first_field_hash": "34da726fe9cc189ab503cf2f0cb61f3be5a9e88dbd798ff22493bfdf213271e5",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Renal-Block::06-Disorders-of-Water-Balance"
+      ]
+    },
+    {
+      "first_field_hash": "9e3d8f31e38ec960fcf8096c4fd8449867ce355b37aff97fe71d7f2333518aee",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::06-Labor-Delivery-&-Postpartum-Physiology::Class-Content"
       ]
     },
     {
@@ -3170,6 +3226,13 @@
       "first_field_hash": "07c3e4b2cefc3200ff48b3221e93edc0882339839c844f4cfdf8c8de472ce5d2",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::10-Neuroendocrinology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "c8d50f2c7facac6f2f6f5890e56961917f3e371ab62db4bcc1dd845b18b6c2e6",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::10-Neuroendocrinology",
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::19-Adrenal-Pathophysiology"
       ]
     },
     {
@@ -5521,6 +5584,12 @@
       ]
     },
     {
+      "first_field_hash": "b027f38e95a5aac9055625eaa37481ef40120eaa7f2fb1cf09f676b18edd2c80",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::19-Adrenal-Pathophysiology"
+      ]
+    },
+    {
       "first_field_hash": "367bcd5bcb7acf9f6b05b63daf8e615b2aa46cb9e253fed9b2e55507185fbaa6",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::27-Lung-Cancer",
@@ -5669,6 +5738,18 @@
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::10-Neuroendocrinology::Class-Content",
         "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::19-Adrenal-Pathophysiology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "898efcbb77ecdc3a09d973a247a8ca50baf421fa674770a9042cd9569a630161",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::19-Adrenal-Pathophysiology"
+      ]
+    },
+    {
+      "first_field_hash": "88b3d9f4fec2e615616fe03af6a9111a4cc6d79ecd2fcbde5b5cdfe991c7aab0",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::20-Endocrine-Pathology::Class-Content"
       ]
     },
     {
@@ -6102,7 +6183,8 @@
     {
       "first_field_hash": "f37896949018575a5976fcff4f5faae2e641d3388e2b2f0a92b94ef75fe9e61c",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::06-Pathogenesis-&-Treatment-of-Type-1-Diabetes::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::06-Pathogenesis-&-Treatment-of-Type-1-Diabetes::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::07-Complications-of-Pregnancy"
       ]
     },
     {
@@ -7087,6 +7169,12 @@
       ]
     },
     {
+      "first_field_hash": "6c8f3b04e80c993aa033393de12d15ddce333464dc0eb6749e3b058ceb3dcc47",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::07-Complications-of-Pregnancy"
+      ]
+    },
+    {
       "first_field_hash": "0851ab4a1a3f4a1317df5baf8eaea10d7bac855172b10b59f568d58652186594",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Repro-Block::04-Steroid-Hormone-Pharmacology"
@@ -7310,6 +7398,12 @@
       ]
     },
     {
+      "first_field_hash": "1929906e9794d857ac8f2e49e9c147553baa8398df73ff27ad37bea8044d73ab",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::06-Labor-Delivery-&-Postpartum-Physiology::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "5e3e1ed36777bdb0fdfc82705d62edee3ed5677be125978b3b05886c58aa88ec",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Repro-Block::04-Steroid-Hormone-Pharmacology"
@@ -7319,6 +7413,18 @@
       "first_field_hash": "b29e77b1d09c91649d409617588a80b01a018ed5fb70c8f97f129507a65a334e",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Repro-Block::05-Physiology-of-Pregnancy"
+      ]
+    },
+    {
+      "first_field_hash": "62d9f5015478c8057794cd691541a3d9f483d3b14f46ec53b55c844d0c6b4630",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::06-Labor-Delivery-&-Postpartum-Physiology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "d184af54d7f947a9880034b4a6aba52a7772010ef21bbef5d49a3bf21e6b3a8e",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::06-Labor-Delivery-&-Postpartum-Physiology"
       ]
     },
     {
@@ -7427,6 +7533,18 @@
       "first_field_hash": "3eba561bfbbc01022d0e9409c7580fce16b119c38932e108495fe2bc76807fa2",
       "tags": [
         "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-4-Pelvis::Anatomy"
+      ]
+    },
+    {
+      "first_field_hash": "a38d355125ded205f8d212c326cb97d12129abebe6bc4fbfb3f18740c06fa329",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::08-Labor-&-Birth-Complications"
+      ]
+    },
+    {
+      "first_field_hash": "526d6a4b20d7863760181e71c7f0a1e094ed490f256e965f8f22bd9ebb22af71",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::06-Labor-Delivery-&-Postpartum-Physiology"
       ]
     },
     {
@@ -7711,15 +7829,61 @@
       ]
     },
     {
+      "first_field_hash": "d4ab86efdc2ae58f83611b14c03e86ad92d18a7aca48c203ab76a485fe55a3ec",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::08-Labor-&-Birth-Complications::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "96b3c0c61294121626bd18044f07e2cde639a0a2a5f95483de83c72516a39ccf",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::08-Labor-&-Birth-Complications::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "eacd4824d30082775585007bff7c56c97572a49f78436189d7811e1c6f300425",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::08-Labor-&-Birth-Complications::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "ca32f7f52e12cab61a8dbec02c7cb083e31153a8a806e317dbbae5fe5c2c8ac2",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::08-Labor-&-Birth-Complications::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "1d647c7890dbef643df199603ed91ebedccb838481f3239eeea3477ac56fd204",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::08-Labor-&-Birth-Complications",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::08-Labor-&-Birth-Complications::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "bc28e8d0bbb7e001e51e3f11d7c03f550d46b1cb2b33674b3677ca7ba5829be6",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::08-Labor-&-Birth-Complications",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::08-Labor-&-Birth-Complications::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "2f9a7b578c287a9aa8bc61db285501f14e2a2166ce2bb2f21a7c97f5a067f3a8",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::30-Hypertension::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::30-Hypertension::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::07-Complications-of-Pregnancy::Class-Content"
       ]
     },
     {
       "first_field_hash": "279820b6191df6157e6b0ff46acf27fbe9731abe94b298494c7352b18c6a156e",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::30-Hypertension::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::30-Hypertension::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::07-Complications-of-Pregnancy::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "20c64b0efaab16a9d2e70b65bb25eb34ae1635466fe378e1f1a80dec3af72032",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::07-Complications-of-Pregnancy::Class-Content"
       ]
     },
     {
@@ -7728,13 +7892,33 @@
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::30-Hypertension",
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::30-Hypertension::Class-Content",
         "JerryShen_AnKing_Tags::SOM-2::Renal-Block::21-Chronic-Kidney-Disease",
-        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::21-Chronic-Kidney-Disease::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::21-Chronic-Kidney-Disease::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::07-Complications-of-Pregnancy::Class-Content"
       ]
     },
     {
       "first_field_hash": "b7c16c1f3bb284ba49fabb7b9810275f8685eb227c34dadac71f0f52dac1213b",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::30-Hypertension::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::30-Hypertension::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::07-Complications-of-Pregnancy::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "74b260734bbf0d2653ccd9df546278f3eb2c95bbe110dd9bd99c23cc932731f2",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::07-Complications-of-Pregnancy::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "fb27f619d0322a0ec6e652ccd683926941de18b76ed9877544522b64aaacd1f8",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::07-Complications-of-Pregnancy"
+      ]
+    },
+    {
+      "first_field_hash": "beebb5dfe6c70a485183063dfa29355f1ff61fa662a6d4400d222fa27335f300",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::07-Complications-of-Pregnancy"
       ]
     },
     {
@@ -7846,6 +8030,18 @@
       ]
     },
     {
+      "first_field_hash": "f884b67d70cb5988124d0ce2655b78e99968832c29f05f52ef715da24920019b",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::06-Labor-Delivery-&-Postpartum-Physiology"
+      ]
+    },
+    {
+      "first_field_hash": "339a568eb9b03b7332972f0c55d198c2bcbe29dded83cf0e28f83798b8f97b08",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::06-Labor-Delivery-&-Postpartum-Physiology::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "9df207bef3c73ef9664bbb9ba93e73efa7a01555d8ac11377e82fb67ecefe67c",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Repro-Block::03-HPO-Axis-&-Menstrual-Cycle"
@@ -7858,9 +8054,63 @@
       ]
     },
     {
+      "first_field_hash": "22b4ff5cd9eaf76dc89e71cb5d54c8ba86aa965a080e2ca3d2cf3ac6823dda32",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::06-Labor-Delivery-&-Postpartum-Physiology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "2fd2553a0adf5a6baf59b0732cedc84a179883269381161557f8da5d55222d2a",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::06-Labor-Delivery-&-Postpartum-Physiology"
+      ]
+    },
+    {
+      "first_field_hash": "00082bcbabda8aac898388b931b59885871729fd35093dbd02c915f63833cffc",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::06-Labor-Delivery-&-Postpartum-Physiology"
+      ]
+    },
+    {
+      "first_field_hash": "4215119e501a1adaa6cfe4b65ba7a5aadef350073bcb3d1ef6c704f908582b1e",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::06-Labor-Delivery-&-Postpartum-Physiology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "d88396af8c5156cb348c0cadefeb181404eb85ebfa199fa37af0bc50006711c3",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::06-Labor-Delivery-&-Postpartum-Physiology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "df76ac2e5679238c08a717289bd0b1daede3e5b7ea504e639beffe530b819c3a",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::06-Labor-Delivery-&-Postpartum-Physiology"
+      ]
+    },
+    {
+      "first_field_hash": "2a092178c49a446fb3a1027a9e14fcb72eb47cf6b45f36b8bd1aa8d2dd33264b",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::06-Labor-Delivery-&-Postpartum-Physiology"
+      ]
+    },
+    {
+      "first_field_hash": "9312c16205ed7c3560a90bbe3ffe930592daa06e40dc741b34671558e9ac25ce",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::06-Labor-Delivery-&-Postpartum-Physiology"
+      ]
+    },
+    {
       "first_field_hash": "6e29f74d39021748bbd604a5c88b36342100b712516ec6488ced0506d3cb8fc4",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::13-Obesity"
+      ]
+    },
+    {
+      "first_field_hash": "7ddb3fae01c3c7880af0bdc7e439b64ddf5fd874af6a19c2b6d64976c3e5329e",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::06-Labor-Delivery-&-Postpartum-Physiology"
       ]
     },
     {
@@ -7907,6 +8157,30 @@
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::10-Neuroendocrinology",
         "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::20-Endocrine-Pathology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "ed461f1a118248fdfdf9937219c12ffcd4f85b533e0d9512efb812633abae9bf",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::08-Labor-&-Birth-Complications::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "93caf00b37481ed38c9d2e37c9d9b0cbbdfd44ad47a290c0cd0c75bb92123392",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::08-Labor-&-Birth-Complications::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "591c128acee47caffcf472c527a34e37e3267f0bcd0449b48bd204195b496750",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::08-Labor-&-Birth-Complications::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "f2a6004e1507f78606950b54cff7522e6f06cbe58582a8095410c015d53c2a61",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::08-Labor-&-Birth-Complications::Class-Content"
       ]
     },
     {
@@ -8514,9 +8788,22 @@
       ]
     },
     {
+      "first_field_hash": "18c030d67a26d33e983858ac3edc0368e12afaeabb9ca1918329b6757801c34b",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::05-Physiology-of-Pregnancy"
+      ]
+    },
+    {
+      "first_field_hash": "505a87465129087224fb96c8cb1f0dc1a99cc904f654177d514bebecf1338aec",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::05-Physiology-of-Pregnancy"
+      ]
+    },
+    {
       "first_field_hash": "dba4a8ec9a4f261e56c4c059e4b06d1aa697f6b7309aa1e9daae029c2d808baf",
       "tags": [
-        "JerryShen_AnKing_Tags::Molecular-Foundations-&-Genetics::02-Genetics::03-Chromosomes"
+        "JerryShen_AnKing_Tags::Molecular-Foundations-&-Genetics::02-Genetics::03-Chromosomes",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::05-Physiology-of-Pregnancy"
       ]
     },
     {
@@ -8535,6 +8822,36 @@
       "first_field_hash": "ec8caa7a8d5a25e8066f9aafbdff2b4ed6416f6a193d00421e2a446721fb92e5",
       "tags": [
         "JerryShen_AnKing_Tags::Molecular-Foundations-&-Genetics::02-Genetics::08.3-Prenatal-Genetics"
+      ]
+    },
+    {
+      "first_field_hash": "89e268fd601329d7094f9f807fd34a2bccb364a27f679954f7e641477e3dfe5c",
+      "tags": [
+        "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-1-Thorax::Embryology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "14aa4da719d161284748eef30b5e3ba83fa260b5c78b4ce7dbe4d4f9dd72a612",
+      "tags": [
+        "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-1-Thorax::Embryology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "7cb809bd078abce0e91cd3784ce5c8ef348ad16f50df0e3008f3f2a3b79b347a",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::08-Labor-&-Birth-Complications::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "3273da04681c64c102cc946e86af455c4b27b29ebae91ee16cf69be42fe692f3",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::08-Labor-&-Birth-Complications::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "b6b29fa81f846b4cf469bc99afbc3a0905ad9f2d78dd9e01acd6ac95fad31054",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::08-Labor-&-Birth-Complications"
       ]
     },
     {
@@ -8568,16 +8885,67 @@
       ]
     },
     {
+      "first_field_hash": "c909fceaefaeb6962eca147f41b35a6f173d1c1dcb1c271c4750e5967b7ec8cd",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::08-Labor-&-Birth-Complications",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::08-Labor-&-Birth-Complications::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "81ae16725579ddbb680611f7f3808a8768d165462759bf370ab7d8ce6b0a80d9",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::08-Labor-&-Birth-Complications::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "227d7689b6d5f495daca696b94ff81b685dfcc0b8107920bb4e908096398901f",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::08-Labor-&-Birth-Complications"
+      ]
+    },
+    {
+      "first_field_hash": "dabac928032f111c48b3f6145aa63871a5fc577ac781fa27b62da1c759b02036",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::08-Labor-&-Birth-Complications"
+      ]
+    },
+    {
+      "first_field_hash": "127230e6051ae329f4700444fff48f7eb5394b72d788a730fb52d9f7d67623c6",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::08-Labor-&-Birth-Complications::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "5ef30641b17f1738f49569caf3cadfed76735c7797ea262eb232938e6553cceb",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::08-Labor-&-Birth-Complications"
+      ]
+    },
+    {
       "first_field_hash": "2c9982e8b73c1fa99d2010dc797c9b3a1017a570dfce9f5d513d1d8dfb549305",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Renal-Block::24-Genetic-Kidney-Diseases::Class-Content"
       ]
     },
     {
+      "first_field_hash": "4ed0adc42c53c4f7ed3aa85b4974e42928599f98eca181887ab59e2d39178237",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::07-Complications-of-Pregnancy",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::07-Complications-of-Pregnancy::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "333851efba27cf621bd2b21d76fba978d025015db0f9ab4f1c750037be0600ff",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::07-Type-2-Diabetes",
-        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::05-Physiology-of-Pregnancy::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::05-Physiology-of-Pregnancy::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::07-Complications-of-Pregnancy::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "ca5eaedcba3ffae4afb0f0fe5e93028035c6b8e342f1dd1de84599fb21bdf454",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::07-Complications-of-Pregnancy"
       ]
     },
     {
@@ -10401,21 +10769,54 @@
       ]
     },
     {
+      "first_field_hash": "02ef34dd901fcd574eddde2ce07c63e1e80e7a1ba2536e2245c61fff66f2535f",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::05-Physiology-of-Pregnancy"
+      ]
+    },
+    {
+      "first_field_hash": "f3c8cc896e2840f32d7eaf1b13db3663eae8f93d6139890d8e370ae6dceb93ed",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::05-Physiology-of-Pregnancy"
+      ]
+    },
+    {
+      "first_field_hash": "e54b5e53a97f489e7056bbd2cb92adbc91968f861fa97c5ee67942aaad8386e0",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::05-Physiology-of-Pregnancy"
+      ]
+    },
+    {
+      "first_field_hash": "459517087ef7b109a473094542e7e5fc2c0345cddde363c4d4ed1ecce9ef96d8",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::05-Physiology-of-Pregnancy"
+      ]
+    },
+    {
       "first_field_hash": "ce4981d18b68b40252f90c4842429ff76303b82a904108d26240a2b161121b6d",
       "tags": [
-        "JerryShen_AnKing_Tags::Molecular-Foundations-&-Genetics::02-Genetics::03-Chromosomes::Class-Content"
+        "JerryShen_AnKing_Tags::Molecular-Foundations-&-Genetics::02-Genetics::03-Chromosomes::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::05-Physiology-of-Pregnancy::Class-Content"
       ]
     },
     {
       "first_field_hash": "622f3c384fcb98caedf9ba10b396435c0685585234a87b7032164c6c5f697fce",
       "tags": [
-        "JerryShen_AnKing_Tags::Molecular-Foundations-&-Genetics::02-Genetics::03-Chromosomes::Class-Content"
+        "JerryShen_AnKing_Tags::Molecular-Foundations-&-Genetics::02-Genetics::03-Chromosomes::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::05-Physiology-of-Pregnancy::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "509efced2d1c952ee4b37525be96effc61557ee363ae52571e23b7abb5f69704",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::05-Physiology-of-Pregnancy"
       ]
     },
     {
       "first_field_hash": "704f9714dfdb93e274d281e8a1bf45148f08b77fefaf42c379f67425a99827a7",
       "tags": [
-        "JerryShen_AnKing_Tags::Molecular-Foundations-&-Genetics::02-Genetics::03-Chromosomes"
+        "JerryShen_AnKing_Tags::Molecular-Foundations-&-Genetics::02-Genetics::03-Chromosomes",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::05-Physiology-of-Pregnancy"
       ]
     },
     {
@@ -10425,15 +10826,35 @@
       ]
     },
     {
+      "first_field_hash": "4ee116d13363d7dfed3dded1508f8f3cab567f67793d5bceaa94a25733a1c51d",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::05-Physiology-of-Pregnancy"
+      ]
+    },
+    {
+      "first_field_hash": "45dd80cd80105fe986f0cbe8f32dae3439dd975f03afeccf4482f76a10ede366",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::05-Physiology-of-Pregnancy"
+      ]
+    },
+    {
       "first_field_hash": "d2ec0f5b99eb9fd1fe9d859071ebed36bd59495aa6dd4bbba9722c7ed27985d8",
       "tags": [
-        "JerryShen_AnKing_Tags::Molecular-Foundations-&-Genetics::02-Genetics::03-Chromosomes"
+        "JerryShen_AnKing_Tags::Molecular-Foundations-&-Genetics::02-Genetics::03-Chromosomes",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::05-Physiology-of-Pregnancy"
+      ]
+    },
+    {
+      "first_field_hash": "49f9c2f923754e01cd21032641aebc1f1019625a2902c5bf526416fc3505d0e0",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::05-Physiology-of-Pregnancy"
       ]
     },
     {
       "first_field_hash": "0a88328fa8bcb382d3d74cb2a0d95a1ceff0127253bcc0741c6c4e2a2b1a79f3",
       "tags": [
-        "JerryShen_AnKing_Tags::Molecular-Foundations-&-Genetics::02-Genetics::03-Chromosomes"
+        "JerryShen_AnKing_Tags::Molecular-Foundations-&-Genetics::02-Genetics::03-Chromosomes",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::05-Physiology-of-Pregnancy"
       ]
     },
     {
@@ -13424,7 +13845,7 @@
       ]
     },
     {
-      "first_field_hash": "3ebf65840e685c3b45544985b9ca0ee8fd463f773bcd076caf93796a8e2659c6",
+      "first_field_hash": "89b0f31043d41d54107cde82d7c18e2827686fd53f2508c6fda3aa268c69fd69",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::27-The-Abnormal-ECG-Ischemia-&-Infarction"
       ]
@@ -14026,7 +14447,8 @@
     {
       "first_field_hash": "37de09925a80485debc9f9a77427ce3b1e2859fdadc050a94c93ab69ce7f4892",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::35-Congenital-Heart-Disease"
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::35-Congenital-Heart-Disease",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::07-Complications-of-Pregnancy"
       ]
     },
     {
@@ -14622,7 +15044,7 @@
       ]
     },
     {
-      "first_field_hash": "217b3508883af6fd176f07c351c9f562f2a980e8b060b8c1aae51f7431754535",
+      "first_field_hash": "800f4fdcccf3ec3aaecf9995bb7943e2b92adb52c24c5dc14348cfd53398e063",
       "tags": [
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-2::09-Misc-Antimicrobials-&-Skin-Infections"
       ]
@@ -20344,13 +20766,15 @@
     {
       "first_field_hash": "81ed1c06e8b88b5acd84943861cec7cef7a7176d76876eae3c518471692570d2",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::19-ARDS-&-Ventilators::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::19-ARDS-&-Ventilators::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::07-Complications-of-Pregnancy::Class-Content"
       ]
     },
     {
       "first_field_hash": "9f85006bdff228550db099a1d5a7e7e6312596343df0696f5c52a83b9bf0596d",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::19-ARDS-&-Ventilators"
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::19-ARDS-&-Ventilators",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::07-Complications-of-Pregnancy"
       ]
     },
     {
@@ -24033,7 +24457,7 @@
       ]
     },
     {
-      "first_field_hash": "d88cce1413b2216db24728d9dff4dea8e15d3c0d8121aa5c26a811e8d81166ff",
+      "first_field_hash": "9cc619ca1c43446eb3f477ac858e3023203c7954d12ddea2ff029007624da56a",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Renal-Block::02-Body-Fluid-Compartments",
         "JerryShen_AnKing_Tags::SOM-2::Renal-Block::02-Body-Fluid-Compartments::Class-Content",
@@ -24616,7 +25040,7 @@
       ]
     },
     {
-      "first_field_hash": "94a4278871641f3348039295873d97f3d60c0c2e22a7ea669945f6254a421488",
+      "first_field_hash": "27744b4c68a34ca9c66c00dcea2d4362c78a4c9120cdde103e62e7f2f7c21ee5",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Repro-Block::05-Physiology-of-Pregnancy"
       ]
@@ -25471,7 +25895,7 @@
       ]
     },
     {
-      "first_field_hash": "6ec2f2f458002c47ecd9d8414863a9b3d8fe787185751daf6066e5e8412847cd",
+      "first_field_hash": "eede2c86295c545be888f5138b7f3867d7e61199880607522513225a2db1a831",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::10-Autonomic-Physiology-and-Pharmacology"
       ]
@@ -32250,6 +32674,12 @@
       ]
     },
     {
+      "first_field_hash": "c30ae8e268cad6a609106225c3b42ce174aee9ae0f0863a5db6a898c1134889f",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::06-Labor-Delivery-&-Postpartum-Physiology::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "578889563de2624fc2c4cd8086979156cb8d980af7c10b89600dff2702c09a52",
       "tags": [
         "JerryShen_AnKing_Tags::POM-2::Final::Nutrition"
@@ -32536,7 +32966,8 @@
     {
       "first_field_hash": "6f8d532bf38a549f8085753aca821dd6828226d92f5aff847a2850903be2df7e",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::35-Congenital-Heart-Disease::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::35-Congenital-Heart-Disease::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::05-Physiology-of-Pregnancy"
       ]
     },
     {
@@ -39203,6 +39634,12 @@
       ]
     },
     {
+      "first_field_hash": "81468ecb261f1d82d86f3be1a5c3d75d50bb10b2b794a73f8e6b055fa93954ab",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::05-Physiology-of-Pregnancy"
+      ]
+    },
+    {
       "first_field_hash": "b352af1b367cb2c66e2a09b4ecdba7295ea874011a5f12f4c7aa1cb415dc8355",
       "tags": [
         "JerryShen_AnKing_Tags::Neurobiology::Exam-2::Tutorial-1-Cerebrum::Class-Content"
@@ -43171,7 +43608,9 @@
     {
       "first_field_hash": "f89e4c09cefc7fa3ad70a560c712da24c8a78e2c2795ac64eceabca25fb1deb0",
       "tags": [
-        "JerryShen_AnKing_Tags::Micro-Pharm::Exam-1::02-S.pyogenes-&-E.coli"
+        "JerryShen_AnKing_Tags::Micro-Pharm::Exam-1::02-S.pyogenes-&-E.coli",
+        "JerryShen_AnKing_Tags::Micro-Pharm::Exam-1::02-S.pyogenes-&-E.coli::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::07-Complications-of-Pregnancy::Class-Content"
       ]
     },
     {
@@ -43210,6 +43649,12 @@
       "first_field_hash": "189649a83f0e170698c98b74950df4c0309350ecd7f1e8e66d3526e431cfff45",
       "tags": [
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-1::01-Intro-to-Pharmacodynamics"
+      ]
+    },
+    {
+      "first_field_hash": "6775ef84df1aaaa62169f4cf42b278706b75e5f09be2c29f4383eb5c909dc6a8",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::07-Complications-of-Pregnancy"
       ]
     },
     {
@@ -43391,9 +43836,57 @@
       ]
     },
     {
+      "first_field_hash": "6457c64192f290dd16ce149a0795ef8d839ea546758f24e1796ac3992a5fa90d",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::05-Physiology-of-Pregnancy",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::08-Labor-&-Birth-Complications::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "d4cd5bc300e3c6fea7ac3ed3cd907292640a9ae926da1b9fef48cf751fc9539b",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::05-Physiology-of-Pregnancy::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::08-Labor-&-Birth-Complications::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "3e57eaba4491cee00f4dcd04211683411cc1541b4a3c63adf39d456ef10888fa",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::05-Physiology-of-Pregnancy::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::08-Labor-&-Birth-Complications::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "eed4051b8dab6316dbf11e7fb626184b46ada30bb70e74ce5d6814d29ab65e35",
       "tags": [
-        "JerryShen_AnKing_Tags::POM-3::Psychiatry::Mood-Disorders"
+        "JerryShen_AnKing_Tags::POM-3::Psychiatry::Mood-Disorders",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::05-Physiology-of-Pregnancy::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::08-Labor-&-Birth-Complications::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "9b66bb852f413a69a0794952aef0db993472fc0ec60ea48073fbac13d8db2535",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::05-Physiology-of-Pregnancy",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::08-Labor-&-Birth-Complications::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "023c8f549713c03764a277d0bdac874fc9e310a40a1272c55d250ed2acdeab35",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::08-Labor-&-Birth-Complications::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "5d9548f9bf0398ce046ca583b3588420539af2a50b2509491d3c04fdc0ad1af2",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::08-Labor-&-Birth-Complications::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "7a1e5de37740f241c35c278b231d9d47dc7825d0ff2bfa3cbf278df44554a2dd",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::08-Labor-&-Birth-Complications::Class-Content"
       ]
     },
     {
@@ -43543,6 +44036,12 @@
       ]
     },
     {
+      "first_field_hash": "e3bc0705fb3ff4890309f6fd7171ff7bf6e696ab5e972141e6eb32d43e423c1c",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::07-Complications-of-Pregnancy"
+      ]
+    },
+    {
       "first_field_hash": "471ca90e0c2e13eb9c408eae7719f9deced65861895e4d5b8e7b919b21d02767",
       "tags": [
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-1::02-S.pyogenes-&-E.coli"
@@ -43557,7 +44056,9 @@
     {
       "first_field_hash": "93a598687c06139480d4997ce7e44ce23399a12564212363cc441734271fc2f4",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::Lung-Lab-1-Pneumonia"
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::Lung-Lab-1-Pneumonia",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::05-Physiology-of-Pregnancy::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::07-Complications-of-Pregnancy::Class-Content"
       ]
     },
     {
@@ -45681,7 +46182,8 @@
     {
       "first_field_hash": "fc50549c94839a5168b43d2d0c9c1513232c86c44d44039f2cf398abf1f50475",
       "tags": [
-        "JerryShen_AnKing_Tags::Immunology::Final::B-cells"
+        "JerryShen_AnKing_Tags::Immunology::Final::B-cells",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::06-Labor-Delivery-&-Postpartum-Physiology::Class-Content"
       ]
     },
     {
@@ -48608,6 +49110,18 @@
       "first_field_hash": "b6d80575c6f65428191ef507a3487e9c492faf0bafe0af1461b56eab70e2df89",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Repro-Block::05-Physiology-of-Pregnancy"
+      ]
+    },
+    {
+      "first_field_hash": "818600acbdd9db98c29130305db412079b7e01679d7f03cd6ee834e1a0725a43",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::07-Complications-of-Pregnancy"
+      ]
+    },
+    {
+      "first_field_hash": "bd247718ea242d1cf66e2b8b526c36d40d06fc268d2893621ad4205049c3a6f1",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::07-Complications-of-Pregnancy::Class-Content"
       ]
     },
     {
@@ -51881,7 +52395,7 @@
       ]
     },
     {
-      "first_field_hash": "cea8205cd074a6368701e19a1bba3e861fafedff5d06ce6937d98821e72a01b4",
+      "first_field_hash": "545c16324852d6b92bcf03bbc5c1507399aa6549eb6d26ba010783dac650e987",
       "tags": [
         "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-2-Upper-Limb::Anatomy::Class-Content"
       ]
@@ -52222,7 +52736,7 @@
       ]
     },
     {
-      "first_field_hash": "1fcc91d0e06f62d931d2a84409fef58d83bd0b6fd657a19aba93093fa77a1c68",
+      "first_field_hash": "3d87dbd18db669ae14a4d871fcc883280ffe25d73258889d941dd1c4c3cafe15",
       "tags": [
         "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-2-Upper-Limb::Anatomy::Class-Content"
       ]
@@ -53885,7 +54399,7 @@
       ]
     },
     {
-      "first_field_hash": "251d43bf3b34ee893451d14e487d10fdcad1ed9c964893aad3e5bfacedbe38cc",
+      "first_field_hash": "ea7c5e000c43c2c4ea91b7aae04661d1ced1fba9d7d0412c589c57cae1ccf67e",
       "tags": [
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-1::02-S.pyogenes-&-E.coli"
       ]
@@ -54732,7 +55246,7 @@
       ]
     },
     {
-      "first_field_hash": "87321cd79b46638d0bbaef6812fc291686f89e4a0cd7a50da7a73abba8b11c30",
+      "first_field_hash": "08c141df118e1e3e7a496c56a7acee392ad40830c77950a0f4107e9302abe522",
       "tags": [
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-2::08-Other-Antibiotics-&-Mycobacteria"
       ]
@@ -54901,6 +55415,12 @@
       ]
     },
     {
+      "first_field_hash": "9ff083d93ab1989b5c3db7a1b32eb74144bcc19b2c2d64e5bdcfda490bdd8873",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::07-Complications-of-Pregnancy"
+      ]
+    },
+    {
       "first_field_hash": "7137c3e2c69d88a3297d59b23e0ed9d01f2701cc344dae67a057f6c7e30febd9",
       "tags": [
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-1::02-S.pyogenes-&-E.coli::Class-Content"
@@ -55060,6 +55580,42 @@
       ]
     },
     {
+      "first_field_hash": "e037ef5478bb1a291c4b16e6c4d3d3c6bd4e002b2aeaffe6bad49b87fd068294",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::07-Complications-of-Pregnancy::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "7b613de2c0d9073a4417dcfa213fa8972fefafb13fa373959674fe50f257348b",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::07-Complications-of-Pregnancy::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "28e54f58a4879f01aa66be354bc067d6b7142c8153460fe74cdd2b2c5d86bf13",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::07-Complications-of-Pregnancy::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "881e45ec935654a1424958819144ea3d8c84d60cb2139fa62dbc37e58a3f25fb",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::07-Complications-of-Pregnancy::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "5d163f7c73f6276a5e7e5c6928c6bef9fc5aad964b0b0669a060d091c1420540",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::07-Complications-of-Pregnancy::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "c445e7648b1effaa274c9204ceae545f383b6692002ad1215781233e435dd51b",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::07-Complications-of-Pregnancy::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "06f39e0ced71d79b0e38f351219ed2cf2c74dad9cdfd0ce697ec41f4613bd953",
       "tags": [
         "JerryShen_AnKing_Tags::Neurobiology::Exam-2::Tutorial-2-Spinal-Cord",
@@ -55074,22 +55630,73 @@
       ]
     },
     {
+      "first_field_hash": "4d4f0290c492146e74409d10b4ae39b72916e9022ed4deda793f9d557ec19d52",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::07-Complications-of-Pregnancy::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "d4042a9a5f6a120698a8f085977b892d2ede7fa1356ee95224632817e0b6b6da",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::07-Complications-of-Pregnancy::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "cf51bf4e68434be2fa61e82090f9230074c11aad5e5378271018f1c7f662c81e",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::07-Complications-of-Pregnancy::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "e23bfadc7ef1db1d0286dadbc750313bc5e6400ea72fef7b2faa079c2463b84f",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::07-Complications-of-Pregnancy::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "aa5e1f564d1ab456508c00f8e01dfc1de51b4d82faa1850b068e281284bb03a7",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::07-Complications-of-Pregnancy"
+      ]
+    },
+    {
+      "first_field_hash": "540d78835ad06be200691274721dc53149fe6f4bf29b7d9091481baae628afe6",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::07-Complications-of-Pregnancy"
+      ]
+    },
+    {
+      "first_field_hash": "dc90d144f1a0e5f94537f69cc87df9a9f251b1263cd1d044fb3720c435500c26",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::07-Complications-of-Pregnancy"
+      ]
+    },
+    {
       "first_field_hash": "4dc26dee9ac2798e08d2a8e181d86e887091f036d054292d40c9558f1498240f",
       "tags": [
-        "JerryShen_AnKing_Tags::Micro-Pharm::Exam-2::07-β-Lactam-Antibiotics-&-Parasites::Class-Content"
+        "JerryShen_AnKing_Tags::Micro-Pharm::Exam-2::07-β-Lactam-Antibiotics-&-Parasites::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::07-Complications-of-Pregnancy::Class-Content"
       ]
     },
     {
       "first_field_hash": "11c95654b93f87552093e1dde5ef8e908daa581bb52083f3db362a77d52dd858",
       "tags": [
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-1::04-Intro-to-Viruses",
-        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::05-Physiology-of-Pregnancy"
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::05-Physiology-of-Pregnancy",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::07-Complications-of-Pregnancy::Class-Content"
       ]
     },
     {
       "first_field_hash": "2dc3c94aeb65f345a81d055017b4ec037a2c11ecf7c0ae0f49914f77f9068559",
       "tags": [
-        "JerryShen_AnKing_Tags::Micro-Pharm::Exam-1::04-Intro-to-Viruses"
+        "JerryShen_AnKing_Tags::Micro-Pharm::Exam-1::04-Intro-to-Viruses",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::07-Complications-of-Pregnancy::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "34475e85df1144fb9aa21fa2594d82818976b60cd204cc943b2a68fe4ca7b8f1",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::07-Complications-of-Pregnancy::Class-Content"
       ]
     },
     {
@@ -55355,7 +55962,8 @@
     {
       "first_field_hash": "3523e5f80faa28d1bdd86ace289e97b4c0ea95cf50e63f97cbdc81cfcdc292cd",
       "tags": [
-        "JerryShen_AnKing_Tags::Micro-Pharm::Exam-1::04-Intro-to-Viruses"
+        "JerryShen_AnKing_Tags::Micro-Pharm::Exam-1::04-Intro-to-Viruses",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::07-Complications-of-Pregnancy::Class-Content"
       ]
     },
     {
@@ -55788,7 +56396,9 @@
     {
       "first_field_hash": "ae3cad941f06782368f05ff1fe762a66818c20f14a35542d216bc2cb46c7af01",
       "tags": [
-        "JerryShen_AnKing_Tags::Micro-Pharm::Exam-1::02-S.pyogenes-&-E.coli"
+        "JerryShen_AnKing_Tags::Micro-Pharm::Exam-1::02-S.pyogenes-&-E.coli",
+        "JerryShen_AnKing_Tags::Micro-Pharm::Exam-1::02-S.pyogenes-&-E.coli::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::07-Complications-of-Pregnancy::Class-Content"
       ]
     },
     {
@@ -55846,7 +56456,8 @@
       "tags": [
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-1::02-S.pyogenes-&-E.coli",
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-1::02-S.pyogenes-&-E.coli::Class-Content",
-        "JerryShen_AnKing_Tags::Micro-Pharm::Exam-2::09-Misc-Antimicrobials-&-Skin-Infections::Class-Content"
+        "JerryShen_AnKing_Tags::Micro-Pharm::Exam-2::09-Misc-Antimicrobials-&-Skin-Infections::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::07-Complications-of-Pregnancy::Class-Content"
       ]
     },
     {
@@ -55984,15 +56595,38 @@
       ]
     },
     {
+      "first_field_hash": "40fcc1773f1bd86bc6782b42ff24b8100e75e77dca7fa26703e005dddf252cb9",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::05-Physiology-of-Pregnancy",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::05-Physiology-of-Pregnancy::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::07-Complications-of-Pregnancy::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "9174ffbe661e83e8aedf102a6a68e1b216f28615589f1d63d9cdb3a897093889",
       "tags": [
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-1::02-S.pyogenes-&-E.coli"
       ]
     },
     {
+      "first_field_hash": "c09d90dd08c5d7e87faf46bd2ef2b74f5656274089ff6ba4498a153b66f303fc",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::07-Complications-of-Pregnancy"
+      ]
+    },
+    {
       "first_field_hash": "85b5811018b49400f249a3d441bd664702cf0530b83fdcaefd166b4e5ab23a46",
       "tags": [
-        "JerryShen_AnKing_Tags::Micro-Pharm::Exam-1::02-S.pyogenes-&-E.coli"
+        "JerryShen_AnKing_Tags::Micro-Pharm::Exam-1::02-S.pyogenes-&-E.coli",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::07-Complications-of-Pregnancy::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "004a3bce77ff6a9e364396f6d66586c5034b054edfd1b53d6c0eca0912a3e36d",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::05-Physiology-of-Pregnancy",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::05-Physiology-of-Pregnancy::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::07-Complications-of-Pregnancy::Class-Content"
       ]
     },
     {
@@ -56004,7 +56638,9 @@
     {
       "first_field_hash": "299691d3d083d5d5b07af6a3bfd4f00f7ea00490100a83473e2a8216157163fc",
       "tags": [
-        "JerryShen_AnKing_Tags::Micro-Pharm::Exam-1::02-S.pyogenes-&-E.coli"
+        "JerryShen_AnKing_Tags::Micro-Pharm::Exam-1::02-S.pyogenes-&-E.coli",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::05-Physiology-of-Pregnancy::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::07-Complications-of-Pregnancy::Class-Content"
       ]
     },
     {
@@ -56764,9 +57400,90 @@
       ]
     },
     {
+      "first_field_hash": "730bb4b609a77c992f05b691612528273d65801a06d84dec0fb063bd1f501f3d",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::07-Complications-of-Pregnancy"
+      ]
+    },
+    {
       "first_field_hash": "54a084018bb4aaab2bfc7677c946a77fe86c4e0c7876babd0644fec2f3bcb077",
       "tags": [
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-2::06-Antivirals::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "64f67b03fe1c70241f46ed1dc4f88b58a8bfa0a5d6f5f73caaf25db9b75c9ff4",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::07-Complications-of-Pregnancy::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "0c90e3294b3d722079ff9b2a0ca144f3026d224d65900100b86c525ed67a6e34",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::07-Complications-of-Pregnancy::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "5b8af3e38d5825d1275d5fd11762257b56317f60c4dba95ad08fe3474476d23b",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::07-Complications-of-Pregnancy"
+      ]
+    },
+    {
+      "first_field_hash": "8c8ac3bc304d51ee60c5f387a0d7fdc1a367ef9837769bf6f06980a5be80998d",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::07-Complications-of-Pregnancy",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::07-Complications-of-Pregnancy::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "f9e6952286931acacbe35ad74daa89a8fb39739875bd6175a5926eecd97b20f6",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::07-Complications-of-Pregnancy",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::07-Complications-of-Pregnancy::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "4a8c178a12e7c201072e5b91deb22d1a1df0e0f8cade92292927ad1b106e05b4",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::07-Complications-of-Pregnancy::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "ba011bce64075a6fb7f95db255fb6a8b5c1ab54c125de1d51531c4f6dc3d1d9c",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::07-Complications-of-Pregnancy"
+      ]
+    },
+    {
+      "first_field_hash": "56e1e2b998bb805e2848234052b485cdb670ee5e7f0b6583d13617d8d1674d84",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::07-Complications-of-Pregnancy::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "4e1d250d886c5acbb27426983892c7384d3b43fe981198a5cf062bd04c4828c3",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::07-Complications-of-Pregnancy"
+      ]
+    },
+    {
+      "first_field_hash": "d00cb81d4c0ef22e87f33572eab8243440083b883cea42ae6a8c82f928506f16",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::07-Complications-of-Pregnancy"
+      ]
+    },
+    {
+      "first_field_hash": "98396ee2e61e09531ae658224248f3b7299f3ca48a5d9228c8972a79c6b2e05e",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::07-Complications-of-Pregnancy",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::07-Complications-of-Pregnancy::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "09807daab069bb3bd30588350aa0b7757fc6698c027fa96315d6104ec86a2fa7",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::07-Complications-of-Pregnancy::Class-Content"
       ]
     },
     {
@@ -56831,7 +57548,7 @@
       ]
     },
     {
-      "first_field_hash": "65f86bb2b7b713c08184cd397ec777c3e15bb0025fa716a0bee2f0198af3fbd8",
+      "first_field_hash": "adbca9427b3eaddda8c09dcb0c477599cecea83d4870e759265feca2a2db4ffa",
       "tags": [
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-2::09-Misc-Antimicrobials-&-Skin-Infections"
       ]
@@ -57815,7 +58532,8 @@
       "first_field_hash": "157cf7aba910dd97cb7a56ecb0b366479071d4922eb23953def0bcc6c44ab8f5",
       "tags": [
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-2::08-Other-Antibiotics-&-Mycobacteria",
-        "JerryShen_AnKing_Tags::Micro-Pharm::Exam-2::08-Other-Antibiotics-&-Mycobacteria::Class-Content"
+        "JerryShen_AnKing_Tags::Micro-Pharm::Exam-2::08-Other-Antibiotics-&-Mycobacteria::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::07-Complications-of-Pregnancy::Class-Content"
       ]
     },
     {
@@ -64391,6 +65109,12 @@
       ]
     },
     {
+      "first_field_hash": "59ae58961990a9621bb80aa190ef705259c814358cbfa3afe0b00df90fa5b447",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::07-Complications-of-Pregnancy::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "db69e9aab48129bb8b2279e1a305eea08398b04225ff46f154f9f4b562940c44",
       "tags": [
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-1::04-Intro-to-Viruses"
@@ -64712,6 +65436,18 @@
       ]
     },
     {
+      "first_field_hash": "c7126e56a10064177b7b83255162275efd8cfd5297c51da2ee15251d6e3031cf",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::06-Labor-Delivery-&-Postpartum-Physiology"
+      ]
+    },
+    {
+      "first_field_hash": "70032f91a17b2cf9e7e35795ec72275d9f3a7d15d1485b529da6abfb55f38be1",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::06-Labor-Delivery-&-Postpartum-Physiology"
+      ]
+    },
+    {
       "first_field_hash": "1f586f2b0c8f1ff50fee67fec8532f1b5668f7365c6f95bd9119dcf6cd001bc1",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::MSK-Block::Extra-Upper-Limb-Pathology"
@@ -64789,6 +65525,18 @@
       "first_field_hash": "e57e00f1d3b6a697587d10f863a40123d458c1e96e830937939a5938622036e3",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::MSK-Block::Extra-Lower-Limb-Pathology"
+      ]
+    },
+    {
+      "first_field_hash": "c354195e4d943a6cf7c3178ce15b4aceefc6fed02cdd63228a8d5c3f90a33fbb",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::06-Labor-Delivery-&-Postpartum-Physiology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "f6afc629f4bd370b811536d5c92fe6d7a7c0c9382065c609fe67cf5892b9304a",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::06-Labor-Delivery-&-Postpartum-Physiology"
       ]
     },
     {
@@ -65063,6 +65811,12 @@
       ]
     },
     {
+      "first_field_hash": "881bac5faf65a5b175c660c226a49998900ee7eb1db9f09590da2d9713d655fd",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::07-Complications-of-Pregnancy::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "2ba9263ae4b8a3c56e8cc5931cba0faddc71de2bf4c1708540ff43b2e4601b55",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::18-Adrenal-Physiology::Class-Content"
@@ -65231,7 +65985,8 @@
     {
       "first_field_hash": "19f417b6f0904a7687629a08e1ce599ce1a7e6e1fd4bbc194848f1466b8d6695",
       "tags": [
-        "JerryShen_AnKing_Tags::Micro-Pharm::Exam-1::04-Intro-to-Viruses"
+        "JerryShen_AnKing_Tags::Micro-Pharm::Exam-1::04-Intro-to-Viruses",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::07-Complications-of-Pregnancy"
       ]
     },
     {
@@ -65250,6 +66005,12 @@
       "first_field_hash": "007b2bb23a800a04aa3c4c2b1fbdf03482dcda6f0ca890b4062dc099d8238c12",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::15-Upper-Respiratory-Infections::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "d0adb032f346071000a475e5fe4cbee6f1070ee7b0b018d177cb963b33a9f266",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::07-Complications-of-Pregnancy::Class-Content"
       ]
     },
     {
@@ -65362,6 +66123,18 @@
       ]
     },
     {
+      "first_field_hash": "a6dadcfcbb096cb64b038b839fa37e599215a8b0edea2afdcb57c8c78f38d605",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::07-Complications-of-Pregnancy"
+      ]
+    },
+    {
+      "first_field_hash": "e5a4c3899a14cb45f1dbb1182684d3981d0f927af519257bd32aa47cca7b2e0f",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::07-Complications-of-Pregnancy::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "52d11bd7e67e41cd1d9a26e9ecbb9933592bf4992d60add6592e9121cdfaf967",
       "tags": [
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-2::07-β-Lactam-Antibiotics-&-Parasites::Class-Content"
@@ -65402,6 +66175,12 @@
       "first_field_hash": "b29a1e41b0f024aaa0f93e6cb7e53cfefc98372cbe28c499c993b0b9932ba8ae",
       "tags": [
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-1::03-C.diff-&-Pseudomonas"
+      ]
+    },
+    {
+      "first_field_hash": "744f697a0d9a60d1517e7aaa11e4e7df63c1897f457828bbf4771a34dff03588",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::07-Complications-of-Pregnancy::Class-Content"
       ]
     },
     {
@@ -65969,13 +66748,21 @@
     {
       "first_field_hash": "754fe1f01abd8f1dfd9ac3627ea72121cbcbc838024f482e7e1e554ced4f9f98",
       "tags": [
-        "JerryShen_AnKing_Tags::Molecular-Foundations-&-Genetics::02-Genetics::03-Chromosomes"
+        "JerryShen_AnKing_Tags::Molecular-Foundations-&-Genetics::02-Genetics::03-Chromosomes",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::05-Physiology-of-Pregnancy"
       ]
     },
     {
       "first_field_hash": "7c4e3202004de891415cde9ad597b6192613a73aa39d937146be06579fb110d6",
       "tags": [
-        "JerryShen_AnKing_Tags::Molecular-Foundations-&-Genetics::02-Genetics::03-Chromosomes"
+        "JerryShen_AnKing_Tags::Molecular-Foundations-&-Genetics::02-Genetics::03-Chromosomes",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::05-Physiology-of-Pregnancy"
+      ]
+    },
+    {
+      "first_field_hash": "c0d95c6a469e4ec7fc5b52ed08c12acc6a47ca856748003a212960ecc6cb537a",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::08-Labor-&-Birth-Complications"
       ]
     },
     {
@@ -66451,9 +67238,34 @@
       ]
     },
     {
+      "first_field_hash": "bfdf4f4d826faf8b325e44c0e428fcf27242169b811338077dd25f000e0f4219",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::06-Labor-Delivery-&-Postpartum-Physiology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "a770dad031a43075eeb05740b73e82e5458765390b3c5ee52c279c618c75e03b",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::07-Complications-of-Pregnancy"
+      ]
+    },
+    {
       "first_field_hash": "ab30c3819ac0fefbf1af35002fcd8d53c70c99f2d056ad66c6cdf1135838c388",
       "tags": [
-        "JerryShen_AnKing_Tags::Micro-Pharm::Exam-1::02-S.pyogenes-&-E.coli"
+        "JerryShen_AnKing_Tags::Micro-Pharm::Exam-1::02-S.pyogenes-&-E.coli",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::05-Physiology-of-Pregnancy::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "1a2a6cf307ecd0f2bcb5ce04b0379c595b880fad3b950102c05b523b2f92a814",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::06-Labor-Delivery-&-Postpartum-Physiology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "11375405b5a7099fdaba2ad51181314f12a80bd932cbb19908468368152a973a",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::06-Labor-Delivery-&-Postpartum-Physiology::Class-Content"
       ]
     },
     {
@@ -66492,6 +67304,24 @@
       "first_field_hash": "3a2af0574eb550cc49775ab697a8fe9c920affa33fbc29dbf1902102f6f67a1c",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::16-Thyroid-Physiology-&-Pathophysiology"
+      ]
+    },
+    {
+      "first_field_hash": "6dd0d4a3eeefd87a1a3bda18cc8c528fcf58a3aa073c9185a954f175e4ad7e0d",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::07-Complications-of-Pregnancy::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "4b14445fdc3b4f0165199e3fc1bb10303e8186c4429e295fcb5975015fbea0f9",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::06-Labor-Delivery-&-Postpartum-Physiology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "4921c7b3159e68f4cd2d6874d8237802cea2b83f6491113130c2fa2becc5349e",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::05-Physiology-of-Pregnancy"
       ]
     },
     {
@@ -66624,6 +67454,12 @@
       ]
     },
     {
+      "first_field_hash": "37425d524470a80e52379ebc20a7c5e1573fcb2470529fc2cb740ce3f881b089",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::07-Complications-of-Pregnancy"
+      ]
+    },
+    {
       "first_field_hash": "210efdd00c3736bf151a88645724c1817fbe6138f72398dabe1f6fa9d94edd46",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::26-Pulmonary-Cases-&-Miscellaneous-Diseases"
@@ -66640,6 +67476,12 @@
       "first_field_hash": "25a1ece9b112bb62539b69dc64b34210353c9844e6a5647c34857b361f8d84e2",
       "tags": [
         "JerryShen_AnKing_Tags::POM-3::Psychiatry::Psychiatric-Interview"
+      ]
+    },
+    {
+      "first_field_hash": "f8636dd8093b744606b1945f9c81e74b032ed01b0a14960de875451be084b86d",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::06-Labor-Delivery-&-Postpartum-Physiology"
       ]
     },
     {
@@ -66801,6 +67643,12 @@
       ]
     },
     {
+      "first_field_hash": "4fae6df48d6e894b34f41acb0e69741fc57a82ab8360679117574bb0732c92d2",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::06-Labor-Delivery-&-Postpartum-Physiology::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "c5e27e012ffce6dec30af4bc925a22a9a736dfde0a331d24f44d885df807cf47",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::16-Clotting-&-Thromboembolic-Disease::Class-Content"
@@ -66876,7 +67724,8 @@
     {
       "first_field_hash": "3e59d765672d393b46c27a557aff5c1ce5c6461c2945f40af881a6d30ce9e257",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::31-Treatment-of-Hypertension"
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::31-Treatment-of-Hypertension",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::07-Complications-of-Pregnancy"
       ]
     },
     {
@@ -67188,6 +68037,12 @@
       ]
     },
     {
+      "first_field_hash": "eb1ab74b5e00bcfa5fa155c66587bc1cfd4c1627ab006143554ca9839afb2899",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::06-Labor-Delivery-&-Postpartum-Physiology::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "9d0d4c9c1b067d088068cc49232ddbe5dc9d8e5a93c8f23bbf5607e415a1064a",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::25-Pulmonary-Hypertension"
@@ -67209,6 +68064,13 @@
       "first_field_hash": "f040a17397b522c77919ed417ee8ef2b16eac0ddc5fb71f5d0de8efc0a94c0f5",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Repro-Block::05-Physiology-of-Pregnancy"
+      ]
+    },
+    {
+      "first_field_hash": "aa6c7cf80015612e83446f599476eecc1b64670092c44b749972588bb7281394",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::08-Labor-&-Birth-Complications",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::08-Labor-&-Birth-Complications::Class-Content"
       ]
     },
     {
@@ -67506,6 +68368,12 @@
       ]
     },
     {
+      "first_field_hash": "21794f20aa3a2ec8437bfab7ce6e0c97792d08b9e5c9929fbb71991f6fdf712b",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::07-Complications-of-Pregnancy"
+      ]
+    },
+    {
       "first_field_hash": "ee59cfb1a88b71e0838a7ec7721ada4e2b51980592cc02a0920483d652eb4883",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::37-Inflammatory-Heart-Disease::Class-Content"
@@ -67515,6 +68383,12 @@
       "first_field_hash": "93c5cd093ef58efeee0faf2f2dac17da52b75f872ffef0935e4f57312dc9e9e9",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::23-Endocarditis"
+      ]
+    },
+    {
+      "first_field_hash": "c8ef24fc1cccb00e2fdee31ee256fadc0af3611783e2342d237cf049ad0b7ae3",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::07-Complications-of-Pregnancy"
       ]
     },
     {
@@ -67763,9 +68637,21 @@
       ]
     },
     {
-      "first_field_hash": "83fe132fdacb6662010f9f70da7b2ae803b0fd45d05d0858cf1bd214aad125b1",
+      "first_field_hash": "acaa460f7d5d17c020d539e3ba691d866ce18b0edf5bab64ebdb8a42624823b5",
       "tags": [
         "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-5-Lower-Limb::Anatomy::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "3e1c5637785ed9040c480ff0b776317148f485b577299a358a91576d4c4e07ed",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::07-Complications-of-Pregnancy::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "1e960a5f5429cecb6f31a3dd22023912897ea15c3341b394060d5345caf20b1e",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::07-Complications-of-Pregnancy"
       ]
     },
     {
@@ -68012,16 +68898,29 @@
       ]
     },
     {
+      "first_field_hash": "536bb75c6c0f61d1e1cfcc896c9dd4e08551cf11c95fc1b6cfd26a9165af5e13",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::07-Complications-of-Pregnancy::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "b819baaa44e428f0f5a37f27415e5139d70505194085317f67f82c41614f28ae",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::02-Glucose-Homeostasis-1",
-        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::05-Physiology-of-Pregnancy::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::05-Physiology-of-Pregnancy::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::07-Complications-of-Pregnancy::Class-Content"
       ]
     },
     {
       "first_field_hash": "770e16a20e1a6ab6c202d4af6556b0b16d3627b91320f4e616bcda8ed332b203",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Repro-Block::05-Physiology-of-Pregnancy"
+      ]
+    },
+    {
+      "first_field_hash": "1ba76375c5545bc2fb69cd1720399e646cd1f20ecca20ea664b42743932170ea",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::07-Complications-of-Pregnancy::Class-Content"
       ]
     },
     {
@@ -68180,6 +69079,12 @@
       ]
     },
     {
+      "first_field_hash": "068ba91f45d7ae40ea3273c630c0cb3c523d8390067847364be65922c124fcda",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::07-Complications-of-Pregnancy::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "172b8bb1d2c74bebf2428c6a9d941f2c94d11127a67cc535d684288d8ee40e98",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Renal-Block::09-Metabolic-Acidosis-&-Alkalosis",
@@ -68272,6 +69177,12 @@
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::14-Lung-Pharmacology",
         "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::14-Lung-Pharmacology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "19d8ba6445072a7c8bc44e9b9dda81c13ee8f6f2fe4e4fc0e0783fab7c31670c",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::07-Complications-of-Pregnancy::Class-Content"
       ]
     },
     {
@@ -68530,6 +69441,12 @@
       ]
     },
     {
+      "first_field_hash": "46f2cf2668b09a95b4d6c1f24e1475ec273dddaa6090245d6c91f65ad6c4c9ba",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::07-Complications-of-Pregnancy"
+      ]
+    },
+    {
       "first_field_hash": "0a5fb25617f4a26be89fcd6a769261959de0012cf24d9fd8cbafaebd00d39807",
       "tags": [
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-1::05-Intro-to-Fungi"
@@ -68749,6 +69666,12 @@
       "first_field_hash": "599c3073d62c97944efb407fc6fc5a158e38ea05dd821276fa9940a29d36c618",
       "tags": [
         "JerryShen_AnKing_Tags::Neurobiology::Exam-3::Tutorial-6-Motor-Systems"
+      ]
+    },
+    {
+      "first_field_hash": "e5d829f16a957478bb336221447ad920667af47d30500e3e8d5317bbbc7254e7",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::06-Labor-Delivery-&-Postpartum-Physiology"
       ]
     },
     {
@@ -69327,7 +70250,10 @@
     {
       "first_field_hash": "67a5389ceb2d159e810d9d6cc40a414ddf21f24b4693ebd675532ebab6ab1f71",
       "tags": [
-        "JerryShen_AnKing_Tags::POM-3::Psychiatry::Mood-Disorders"
+        "JerryShen_AnKing_Tags::POM-3::Psychiatry::Mood-Disorders",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::05-Physiology-of-Pregnancy",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::05-Physiology-of-Pregnancy::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::08-Labor-&-Birth-Complications::Class-Content"
       ]
     },
     {
@@ -70752,9 +71678,28 @@
       ]
     },
     {
+      "first_field_hash": "833e6712006b56fea483fbb7acf1384b8be9a7bd01b9f5b6eb8473fab30a22a7",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::05-Physiology-of-Pregnancy"
+      ]
+    },
+    {
       "first_field_hash": "c8a5046d6dbd0607513417e512dc9521cdb3f05c29b03cebffc86eb882a89a3b",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::09-Endocrinology-of-Growth"
+      ]
+    },
+    {
+      "first_field_hash": "e8c6f061e7f6a80ac6dfc77cebef7a4e113e54bafcfecce599b1dac9e3ff3d65",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::08-Labor-&-Birth-Complications"
+      ]
+    },
+    {
+      "first_field_hash": "4561f49e1380faa3f08ef9bdae1218f47464b39a3933563b03cc4906076d0d35",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::05-Physiology-of-Pregnancy",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::07-Complications-of-Pregnancy::Class-Content"
       ]
     },
     {
@@ -70868,7 +71813,32 @@
     {
       "first_field_hash": "a2d7de0bb11ad80b9898ec20f0c3d64c06161adac7c5f7460ad430249c500779",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::19-ARDS-&-Ventilators"
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::19-ARDS-&-Ventilators",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::07-Complications-of-Pregnancy"
+      ]
+    },
+    {
+      "first_field_hash": "b20453e4a935ff41264db54380378ec58cd7f677472214d53fe248397976e9b3",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::07-Complications-of-Pregnancy"
+      ]
+    },
+    {
+      "first_field_hash": "1ed5d4ada4b1e2ad21ee0422114df6c52f4af28758c2901cc86273e0687790ee",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::07-Complications-of-Pregnancy"
+      ]
+    },
+    {
+      "first_field_hash": "f5a3ffc369bd88be5238f24c219abb30bb453c2ae64502be3eb9a756952f7287",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::05-Physiology-of-Pregnancy"
+      ]
+    },
+    {
+      "first_field_hash": "268fd808fecf6b549032f3b15759007395c0b3d9ee12a2838f9409fe71a090eb",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::06-Labor-Delivery-&-Postpartum-Physiology::Class-Content"
       ]
     },
     {
@@ -71174,6 +72144,12 @@
       ]
     },
     {
+      "first_field_hash": "d720482121bbf76dcc5c98fe867b21bfe8c8a3a8ffc1514660cb42126c525d0b",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::07-Complications-of-Pregnancy"
+      ]
+    },
+    {
       "first_field_hash": "0a7bff98dba28d3c117cee7a8a08a0b17824b618fbceb65f721d1401ffad909c",
       "tags": [
         "JerryShen_AnKing_Tags::Immunology::Final::B-cells::Class-Content"
@@ -71326,7 +72302,7 @@
       ]
     },
     {
-      "first_field_hash": "6118dd50e9e3ed51735bcfa6863693c922e13249b115d47d1268eb2830d2bf96",
+      "first_field_hash": "dae30b71abacdb49acfff27562bcdca24c1f2827418f78e0f80be317c815945f",
       "tags": [
         "JerryShen_AnKing_Tags::POM-1::Final::Ethics"
       ]
@@ -71777,6 +72753,12 @@
       ]
     },
     {
+      "first_field_hash": "deebe587554e4590025787f5404e545a2a9a2eb7dff217e3507fea66de37ae12",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::07-Complications-of-Pregnancy"
+      ]
+    },
+    {
       "first_field_hash": "3c6b215d2a78f6ad11f2ebadfa38492a9b65303c4780b6c0aea5786ddfee8d22",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Renal-Block::24-Genetic-Kidney-Diseases::Class-Content"
@@ -71820,6 +72802,18 @@
       "first_field_hash": "0fbc20010a62e6d65fb29b8f1138aefd130dcb81f08b7326d22294e0b98aff4d",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::MSK-Block::02-Bone-&-Joint-Infections"
+      ]
+    },
+    {
+      "first_field_hash": "cce69afb73d92d710c39c444d3ba99f7e8ecca75a0ff45e48a62fc78b9592d36",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::06-Labor-Delivery-&-Postpartum-Physiology"
+      ]
+    },
+    {
+      "first_field_hash": "564dbf74ca75eae667991ceb3a4b4785d745de0a60a4cdfa9e884107c2094d50",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::07-Complications-of-Pregnancy"
       ]
     },
     {
@@ -71965,6 +72959,51 @@
       ]
     },
     {
+      "first_field_hash": "5b5d01178e9580204fd0ae47d6b2587726bdb73242040b214b17bc3a29b086a1",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::08-Labor-&-Birth-Complications",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::08-Labor-&-Birth-Complications::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "93f6054ed4de1f17194d55148f36e38730880a1270d55478db9453bec0bb1287",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::08-Labor-&-Birth-Complications::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "ccc2e03ebf8e22ee269244bfeb3edd5055f97b9d31382af0049c5e72f27dea1a",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::07-Complications-of-Pregnancy",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::07-Complications-of-Pregnancy::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "331ab7770fc1e6bf22b49a0c4d0bbd42e3e09c8c9a43071e6e4cad98c3dcb7c0",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::07-Complications-of-Pregnancy",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::07-Complications-of-Pregnancy::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "4f7d2b4a16bf5b328c1e1ad236c0e15d03f31c5e9405d2f58382c9a543408928",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::06-Labor-Delivery-&-Postpartum-Physiology"
+      ]
+    },
+    {
+      "first_field_hash": "8878568cbb6b30638e2000e6b1659eca87b3cac9dcbaa288ba5eb9266fbf6d5b",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::06-Labor-Delivery-&-Postpartum-Physiology"
+      ]
+    },
+    {
+      "first_field_hash": "23e058d3697105e984f61df55af6760e8101817fb2a00f163edbffa101d29c8f",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::08-Labor-&-Birth-Complications"
+      ]
+    },
+    {
       "first_field_hash": "a2b541ceccb5d99e7b797c006d6449f6b205d600a561a8dee46217ab46bbfe18",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Repro-Block::05-Physiology-of-Pregnancy",
@@ -71990,6 +73029,12 @@
       ]
     },
     {
+      "first_field_hash": "cc142ef8a0986690d802dfd947a13d26516e7d6078ad3951729b5dd627391614",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::07-Complications-of-Pregnancy::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "54109d646fe32762c339f8001d3a153d642a6207e671a8f75e1a3b0c2e7f3177",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Repro-Block::05-Physiology-of-Pregnancy"
@@ -71998,7 +73043,8 @@
     {
       "first_field_hash": "c30876f818f1a10fd972ad0572cf334d639e81ea0733637701a84199ed0f4877",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::07-Type-2-Diabetes"
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::07-Type-2-Diabetes",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::07-Complications-of-Pregnancy::Class-Content"
       ]
     },
     {
@@ -72020,15 +73066,119 @@
       ]
     },
     {
+      "first_field_hash": "6feb510ba4cd7930ee5184fb923f1b668c14c7d1abde91423bbb0c015b2a53be",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::07-Complications-of-Pregnancy"
+      ]
+    },
+    {
+      "first_field_hash": "40c13266e04b6b3df04365ad3cad5f58f1596b6cd27f27630d7db1a4de64d27d",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::06-Labor-Delivery-&-Postpartum-Physiology"
+      ]
+    },
+    {
+      "first_field_hash": "ed81c698f8c1201aad3f021791f64356c86326f048a24330c6ffca305f7d9acd",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::06-Labor-Delivery-&-Postpartum-Physiology"
+      ]
+    },
+    {
+      "first_field_hash": "c8cdaec4bb290a302a065812504f932ec9f8d39fe16f910f92c80e031559b1ea",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::06-Labor-Delivery-&-Postpartum-Physiology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "c61575fafb9eaf9673e082264d2d45056b19d2dc0d708bea2fd246779e52cf23",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::06-Labor-Delivery-&-Postpartum-Physiology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "b3455d2af66bd18dff42fd37889b07dd5ba2d2947af80d6aae9ca630d8127b9c",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::06-Labor-Delivery-&-Postpartum-Physiology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "df5ad78aa11a163fdb524057fb3c55f6b52d43fb9ea92e8deef21a3e4bc5799b",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::06-Labor-Delivery-&-Postpartum-Physiology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "b145806c8c9c06f3068150189125d8487aab2eead9553a357f697b084f1b48e7",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::06-Labor-Delivery-&-Postpartum-Physiology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "3f389429950126bb59f0323b13f48b9335428b769deda7fbfcaf5f6d03f11851",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::06-Labor-Delivery-&-Postpartum-Physiology::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "7c573dd6230112ee3807e770a7b7f22db0bb91f7168f0c7cf94049efbf0a7d7a",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::30-Hypertension::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::30-Hypertension::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::07-Complications-of-Pregnancy::Class-Content"
       ]
     },
     {
       "first_field_hash": "c446d02fc0cb8150dd6c202c614d85e8288f967bb08b40520efbe552bffe453b",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::05-Treatment-of-Hyperlipidemia::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "75f4f043819b16b419e779e71e4bf7b741fa4256587d0f0b5ae342a249536a84",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::07-Complications-of-Pregnancy::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "6a43502bae741b2ffbc61f2a1c0ab4035790e213c62c08ad0bc2d8e70b662de7",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::07-Complications-of-Pregnancy::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "c3b4f36d43e708fedd840b38c8c7566de69e5451938f3c13250e131a214debb6",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::08-Labor-&-Birth-Complications::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "ebce817c938bccab84c444ca274fa9b90a5dd023df8572aabc3f836cbebbe893",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::08-Labor-&-Birth-Complications",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::08-Labor-&-Birth-Complications::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "579c9ec8010594594d15ffe2f6ceb2ffb3eea1eefe5b8ef0d72241bf44936f6f",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::08-Labor-&-Birth-Complications::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "48fc25e1cb439a4a56c38ffe8e1aa73b202657184b87d6327dfaf2441c5e45bf",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::08-Labor-&-Birth-Complications::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "193bf03cf7921615928b6484b53123c3eb6ae99ebe6eeba83d7768e50c1e0626",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::08-Labor-&-Birth-Complications"
+      ]
+    },
+    {
+      "first_field_hash": "66f6c375b8d4c6248afe18bb3796ea36cee07343871fef42c1fa4be9b891664f",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::08-Labor-&-Birth-Complications::Class-Content"
       ]
     },
     {
@@ -72050,16 +73200,37 @@
       ]
     },
     {
+      "first_field_hash": "89019c6ab36d0dc6ee6a9604bba31e9a77d6df227d713e3e1e8a677d7ba45521",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::08-Labor-&-Birth-Complications",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::08-Labor-&-Birth-Complications::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "51adb1f69c5dfab0bba97e80168c048515309172ff7a756a776761493eb390c9",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::30-Hypertension::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::30-Hypertension::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::07-Complications-of-Pregnancy::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "1c217a43b71476c914a14112857ff48a1f8de50c9aac1cd4d9de0e560909f2e2",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::07-Complications-of-Pregnancy"
       ]
     },
     {
       "first_field_hash": "611126fd4756f49a42486d12c6a9953e81d74fd1a8b78ebff88a6037f4e19457",
       "tags": [
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-1::04-Intro-to-Viruses",
-        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::05-Physiology-of-Pregnancy"
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::05-Physiology-of-Pregnancy",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::07-Complications-of-Pregnancy::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "08fc68d296c04f03acdf0b036541eed29569a7da00bee12d905b112ae6f18899",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::08-Labor-&-Birth-Complications::Class-Content"
       ]
     },
     {
@@ -72072,6 +73243,18 @@
       "first_field_hash": "b3815863224a28f2ca34d90d33b1c67ddcc8967d706425317abce51ce4fe573e",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Repro-Block::05-Physiology-of-Pregnancy::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "dfad79b89ad69fd1978aef15f6a3d7e020edae39c972e129fcc4ac088a41ad24",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::07-Complications-of-Pregnancy"
+      ]
+    },
+    {
+      "first_field_hash": "f4c3bf21dfe38e1b4003331ba4dc54254c401e8794b3fef009e2321f18a1759e",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::08-Labor-&-Birth-Complications"
       ]
     },
     {
@@ -72099,6 +73282,12 @@
         "JerryShen_AnKing_Tags::Neurobiology::Exam-3::Tutorial-7-Affective-and-Cognitive-Systems",
         "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::20-Endocrine-Pathology",
         "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::Tutorial-2-Thyroid-Disease::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "6b6fedbe38e00a28e11ca34bf85515416b85346a16c8ea440a7703b098355496",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::07-Complications-of-Pregnancy"
       ]
     },
     {
@@ -72158,6 +73347,12 @@
       ]
     },
     {
+      "first_field_hash": "8d5b4533ac4644590eaacc3d50cc60ae88c8362e86e48bb25896c31daf6a467d",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::07-Complications-of-Pregnancy"
+      ]
+    },
+    {
       "first_field_hash": "38949f23891c2e7b74e1ffc6d7534cc4f166069740103372032803854bae9fca",
       "tags": [
         "JerryShen_AnKing_Tags::Biochemistry::Final::06-Nucleic-Acid-Metabolism::Class-Content"
@@ -72166,7 +73361,32 @@
     {
       "first_field_hash": "7f530c076d804caa86d029a5917e5d80e7d91d3233e1bce2b4e1d81c79559c71",
       "tags": [
-        "JerryShen_AnKing_Tags::POM-3::Psychiatry::Mood-Disorders"
+        "JerryShen_AnKing_Tags::POM-3::Psychiatry::Mood-Disorders",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::05-Physiology-of-Pregnancy"
+      ]
+    },
+    {
+      "first_field_hash": "66ddc05b686c4cfa578625f934b95e213e2d64150809e3ffe24ef56b6f5a2d12",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::06-Labor-Delivery-&-Postpartum-Physiology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "8ce54390e88ce388bb34125ce6bfb84156b83a890330ae96afd3010c28de6be7",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::07-Complications-of-Pregnancy"
+      ]
+    },
+    {
+      "first_field_hash": "84130862c685de11cfef66e07616fc23337e43b1a98794f426e78ec7edb0c66a",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::08-Labor-&-Birth-Complications"
+      ]
+    },
+    {
+      "first_field_hash": "c59466ea5f501c7a199f701cdafdc35b4570d89b2a9b06d68edab753e0885ab6",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::07-Complications-of-Pregnancy::Class-Content"
       ]
     },
     {
@@ -72174,6 +73394,24 @@
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Repro-Block::05-Physiology-of-Pregnancy",
         "JerryShen_AnKing_Tags::SOM-2::Repro-Block::05-Physiology-of-Pregnancy::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "623c3c8718fe01cce1993fdf88f2bc1e9f7a4ad79b9c94576299e33ccddf0d5b",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::06-Labor-Delivery-&-Postpartum-Physiology"
+      ]
+    },
+    {
+      "first_field_hash": "582da9f43f90a8228a181410efc16e700634bde66a2459073c00e13d24a42fe6",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::08-Labor-&-Birth-Complications"
+      ]
+    },
+    {
+      "first_field_hash": "40949132c1dc677b0f589e49a9a91a25337fa42bd2f20f00ac8e5dd0399b3079",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::06-Labor-Delivery-&-Postpartum-Physiology::Class-Content"
       ]
     },
     {
@@ -72186,6 +73424,12 @@
       "first_field_hash": "1bb407886d5ab6a49739ffde381a690b9fde83437fbd72464b92fb24e2a9495d",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::16-Thyroid-Physiology-&-Pathophysiology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "583d6a8a4c5348b0231a88157366b205291f132bbdcc4f362f90bfc138558bbc",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::08-Labor-&-Birth-Complications"
       ]
     },
     {
@@ -72308,6 +73552,12 @@
       ]
     },
     {
+      "first_field_hash": "b9f62a54a18cef3410afa223848402bc20f73fe0858a2117f962af28e1adbdaa",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::07-Complications-of-Pregnancy"
+      ]
+    },
+    {
       "first_field_hash": "8e902639546d1676cd62bacd08bfef9d6a43557bd001687df94de8a9d852655d",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Repro-Block::03-HPO-Axis-&-Menstrual-Cycle",
@@ -72327,10 +73577,46 @@
       ]
     },
     {
+      "first_field_hash": "762dbdb0d1f71dc3bfd18e0d42158e8f4b48aaab8fbb10e34ef3f27a52cb9ec3",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::07-Complications-of-Pregnancy"
+      ]
+    },
+    {
+      "first_field_hash": "57e445a756138a59baeee7568806b883014b74b12a31c4e97363cc7b21be3180",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::06-Labor-Delivery-&-Postpartum-Physiology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "5bfc7ca5c39034755d0a89cfd9e26205d21f8099f79ef0e70fe843b6dfae91cc",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::08-Labor-&-Birth-Complications::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "6ca56393b2148a0f78f7a4e99ad06e3fd580edbdf9acfc2f564b7ed1cc34e622",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::08-Labor-&-Birth-Complications::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "5191e43f4feb0bab5be81bb672f66e2d6ceeedf8972f1bfe95a97951e283339e",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::08-Labor-&-Birth-Complications::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "113f50184bf858a690c79751ba57405400a6fe55ac4cf8c75db8bc414bd63ac9",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::09-Endocrinology-of-Growth::Class-Content",
         "JerryShen_AnKing_Tags::SOM-2::Repro-Block::03-HPO-Axis-&-Menstrual-Cycle::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "3e10f12762b77148114c1998f321531ef25a283b8e3b9b63e1627d24c51f6476",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::06-Labor-Delivery-&-Postpartum-Physiology"
       ]
     },
     {
@@ -72372,9 +73658,27 @@
       ]
     },
     {
+      "first_field_hash": "47c753de450fb26f45eff7af5baf7f00cd82674187eca7d73b62bcb8e8078c63",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::06-Labor-Delivery-&-Postpartum-Physiology::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "2f770647758b97ee8cf559cd72913a9909f31bdabba45b0714dd1403a3b76160",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Repro-Block::05-Physiology-of-Pregnancy"
+      ]
+    },
+    {
+      "first_field_hash": "a447d2983b72d5aa1d7dfc62c63fb76dd2394baad9f080b5b0852679fe75e194",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::07-Complications-of-Pregnancy"
+      ]
+    },
+    {
+      "first_field_hash": "5603111c2dff7e52862e37f595f45aacbf224c0b47b9a2c91dc0d277f09ecb6f",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::07-Complications-of-Pregnancy::Class-Content"
       ]
     },
     {
@@ -72390,9 +73694,28 @@
       ]
     },
     {
+      "first_field_hash": "41eedb6cde7bb595f27740cad0a7f22fae2cb7781bf6629e82fb51d9fd727701",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::07-Complications-of-Pregnancy"
+      ]
+    },
+    {
       "first_field_hash": "35f50e182f245e1973673f67a6c542c183d15514b1069d0fd6f496f6b1b70359",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Repro-Block::05-Physiology-of-Pregnancy"
+      ]
+    },
+    {
+      "first_field_hash": "c3e16b2c4e3b917675dee4fe2bfa55e345e26a3bf2e0c88b8a921ec343302a1b",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::07-Complications-of-Pregnancy",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::07-Complications-of-Pregnancy::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "ebcc5e952e5d3225f4fc09f45d1f5e280009542599c61f8f74d1660bb563da36",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::07-Complications-of-Pregnancy::Class-Content"
       ]
     },
     {
@@ -73898,6 +75221,12 @@
       ]
     },
     {
+      "first_field_hash": "e69439419f2d571bc5517ab223cb7236ebef58f93440f36df7f18babf0dc7c23",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::05-Physiology-of-Pregnancy"
+      ]
+    },
+    {
       "first_field_hash": "0d400eda86a4ae1a9d0b215e6ebac3a65b53c35509c48e06fcbc21bff89febd2",
       "tags": [
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-1::04-Intro-to-Viruses"
@@ -75345,6 +76674,19 @@
       ]
     },
     {
+      "first_field_hash": "92867887417f0bf3d7f33c406e591860d849292cc226eb8ae11a2874ef6a9a92",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::07-Complications-of-Pregnancy::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "be0af04895929c61a8e05d6eee598d2e1cb1a757e180d815b9d6d2ce29038ec9",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::07-Complications-of-Pregnancy",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::07-Complications-of-Pregnancy::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "4f48b5329d104ceb15fe5c9076d8b9b40cd5e78738f282bcb77fc81d896170d0",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::09-Endocrinology-of-Growth"
@@ -75363,9 +76705,59 @@
       ]
     },
     {
+      "first_field_hash": "dae9c8701785aec63a33906479bf1ac7d3e2a927658615719cd92642bb0829dc",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::08-Labor-&-Birth-Complications::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "a5779db75d3ca7af21e93fa9dbb4deb2e022c35a6b392c823e125b6167a4a849",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::08-Labor-&-Birth-Complications::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "192e7386ac6e010e71825fced1eff69cdf0b81e784b2e52e702ac5828a28bba0",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::08-Labor-&-Birth-Complications",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::08-Labor-&-Birth-Complications::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "d9c7cdbb2223951762afced576ddb31e5784f2f19e8d84a1e2db4511b557ab73",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Repro-Block::03-HPO-Axis-&-Menstrual-Cycle::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "f2080050aab8926c48bf6f88375555b67a9a51a08d7500fabacb15f7216131e4",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::06-Labor-Delivery-&-Postpartum-Physiology"
+      ]
+    },
+    {
+      "first_field_hash": "c87f51e0a7f77b3ee1485391dadc09ae2f5403647bbc3f3aa622d884a6c81951",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::06-Labor-Delivery-&-Postpartum-Physiology"
+      ]
+    },
+    {
+      "first_field_hash": "0ab6f1d32e6b9bd14a999e9eff0b9e29498b601ce84a4682664c12a7f1278bed",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::07-Complications-of-Pregnancy::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "f75554082f1fe1f151e49478b99265ebc6a4546a5529c6bd7d0f8d4692029d07",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::07-Complications-of-Pregnancy",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::07-Complications-of-Pregnancy::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "35516fbc535937212bdb10acf16791de2a4a7509649a801778764d2df1ecabdc",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::07-Complications-of-Pregnancy"
       ]
     },
     {
@@ -75936,6 +77328,18 @@
       ]
     },
     {
+      "first_field_hash": "8fcbb747ee5f841d102395b790f9a761d8a3b1fdbd468f14e3368d88af4dede1",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::07-Complications-of-Pregnancy::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "8a456f61d01245b645d1541191b3eef1ca572413fc1dc6fa71727c0d13683095",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::07-Complications-of-Pregnancy::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "c152a9fcc4eb3cbfbca47da082e008f5fd76974b388ead56ab1dbd69420f4aaf",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::Tutorial-3-Endocrine-Pathology"
@@ -76131,6 +77535,12 @@
       "first_field_hash": "bbfebe020c571c460ad7928d848beed187ab9b5bcb439bec74685a28b684b0fd",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Repro-Block::05-Physiology-of-Pregnancy"
+      ]
+    },
+    {
+      "first_field_hash": "0c4912e6337b0dcff6bc1df6d618e4e27393171876e1b5e15e4ed3a73ea73c0d",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::07-Complications-of-Pregnancy::Class-Content"
       ]
     },
     {
@@ -76860,7 +78270,8 @@
     {
       "first_field_hash": "fa6274dceb88f1893f70888d72aae9f649a000ebcfb8ec7ead881954db18a613",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::19-ARDS-&-Ventilators::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::19-ARDS-&-Ventilators::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::07-Complications-of-Pregnancy"
       ]
     },
     {
@@ -76988,6 +78399,24 @@
       "first_field_hash": "e3f940e78ba4995cb49ad5a6bda54d7c45a95ff62d0e5cc43a6720692fd8196f",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::01-Structure-and-Function-of-the-Lung"
+      ]
+    },
+    {
+      "first_field_hash": "486bb7da68fe5de721ff192cdb706dde47fd585681d4945f4a6b9953ab7863a2",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::07-Complications-of-Pregnancy"
+      ]
+    },
+    {
+      "first_field_hash": "2a0321104108066fde801219bb37056bc96a98b6d38b8fca179d5179396366c0",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::07-Complications-of-Pregnancy"
+      ]
+    },
+    {
+      "first_field_hash": "b41eabc5a4206469c72e6daee5e1d7c18feec336c689e5e8721498deab5d8488",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::07-Complications-of-Pregnancy"
       ]
     },
     {
@@ -77120,6 +78549,12 @@
       "first_field_hash": "472bacd681dc9345e6c47b2e6cf1bbf63126f65711760f498a93d64a953efce2",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::18-Heart-Sounds-&-Clinical-Exam::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "5e506b2684f549de1ccde8f41c1d80795f7ffd97462899de78d45decd4d4c6d6",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::07-Complications-of-Pregnancy"
       ]
     },
     {
@@ -77599,6 +79034,12 @@
       ]
     },
     {
+      "first_field_hash": "e8cbe1f4aa9ec5f06d89d8edc14d89d10ee457360cf4f26efd07ed2c599847dc",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::07-Complications-of-Pregnancy::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "f51146e9e0d82b620d8c4bae4236421a0b37bbb10c988b671337eba5b1fe6f6e",
       "tags": [
         "JerryShen_AnKing_Tags::Molecular-Foundations-&-Genetics::02-Genetics::08.1-Inherited-Metabolic-Disorders::Class-Content"
@@ -77618,6 +79059,12 @@
       ]
     },
     {
+      "first_field_hash": "28d45661409d521ee5229a0beb7b41ef6b96452766ac1513b901afcd512ef2f4",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::06-Labor-Delivery-&-Postpartum-Physiology"
+      ]
+    },
+    {
       "first_field_hash": "c06f6f2e5854651babe786da4bf40960a88baa52137a006ecf26555e174048ec",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::MSK-Block::09-Geriatric-Orthopedics::Class-Content"
@@ -77627,6 +79074,12 @@
       "first_field_hash": "3a6f75c689b1382470fb6d88e015ef3bf8e5f28a3d7112e396d9c3de72f64f0f",
       "tags": [
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-2::07-β-Lactam-Antibiotics-&-Parasites::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "57e293399f5fb0e65e3e753942797f4cade22606ad2554df42f5f30f5a984a75",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::08-Labor-&-Birth-Complications::Class-Content"
       ]
     },
     {
@@ -77678,6 +79131,12 @@
       ]
     },
     {
+      "first_field_hash": "79a58e81d270a2f39c0104a65ec874dca9edd82d8cef094fc0f4b0f94c1292a3",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::07-Complications-of-Pregnancy"
+      ]
+    },
+    {
       "first_field_hash": "fd66e87588cf3546b9549ec992f29fea4499ed8aed1206fb272a932117d7bd1e",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::06-Intro-to-Lung-Histology",
@@ -77705,6 +79164,18 @@
       ]
     },
     {
+      "first_field_hash": "7d73194015d35711ff5fb0037e030f4e92cf5cea35ab94caf91cdd839c9af14e",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::08-Labor-&-Birth-Complications"
+      ]
+    },
+    {
+      "first_field_hash": "f8b55b08e4d331b0f3aec8e3cf1b23d7b265ce65f837c49a05f624cd7ec62a9a",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::07-Complications-of-Pregnancy::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "d474b63bcac8816cf8032a52ae98ac908bccb4ac5b001569fe2de115477f7fb6",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Renal-Block::17-Urinary-Tract-Infections",
@@ -77728,6 +79199,25 @@
       "first_field_hash": "c4650f696d502680fdd507ad9a364243aa8a4328d0f88dff052fb1b96a619f1e",
       "tags": [
         "JerryShen_AnKing_Tags::Molecular-Foundations-&-Genetics::02-Genetics::06-Complex-Inheritance-Patterns"
+      ]
+    },
+    {
+      "first_field_hash": "b996451236584b43e75020a9034ddbd3d5aba0b8c5bc995d06aad236c50eb369",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::06-Labor-Delivery-&-Postpartum-Physiology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "4a72530cc01b42659211d13363aa5adf1e643a0f0588b337243347313eee03f9",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::08-Labor-&-Birth-Complications"
+      ]
+    },
+    {
+      "first_field_hash": "da121bf0be33367385165bf2c352c4b154e3fe55cb1da02cde63dff3c3bad59e",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::07-Complications-of-Pregnancy",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::07-Complications-of-Pregnancy::Class-Content"
       ]
     },
     {
@@ -77774,9 +79264,27 @@
       ]
     },
     {
+      "first_field_hash": "7b48413e4df6ce15738bc56e2b3c5b2c6823e53fac558361b2fcc3b22ab1ef75",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::06-Labor-Delivery-&-Postpartum-Physiology"
+      ]
+    },
+    {
       "first_field_hash": "887f3fd5e0ce8ac424dde9e53c670047930007401068902bf21cb1e5ccb70d64",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Renal-Block::17-Urinary-Tract-Infections::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "1c032659bc23abefb6c62dccd04db74382581ffae49b5ade70cf46a67a7f2b7b",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::06-Labor-Delivery-&-Postpartum-Physiology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "f474596ce925c50a8690689fc92484b08ef4745ccfbf4fcd3f843a1ff9d62317",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::06-Labor-Delivery-&-Postpartum-Physiology"
       ]
     },
     {
@@ -77879,6 +79387,12 @@
       "first_field_hash": "de3580e62ad425b756b46b7d970e148f06ccae417b793028f6e5e859a63e7efd",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::07-Type-2-Diabetes::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "32926eb3254189a79497c2f7bf5e13b23bbf6e7e64669747bac569dfeac958fc",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::05-Physiology-of-Pregnancy::Class-Content"
       ]
     },
     {
@@ -78060,6 +79574,12 @@
       "first_field_hash": "8c1d294e090da21d0a8e13e650ac7b4c584a4c92e75fc491127184ed5f007ae5",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::17-Thyroid-Pathology"
+      ]
+    },
+    {
+      "first_field_hash": "8b5457927e3598b9cf42d08d796d94c0eebe1e6824e67fe0a007125bb6f099e2",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::08-Labor-&-Birth-Complications::Class-Content"
       ]
     },
     {
@@ -78325,6 +79845,12 @@
       ]
     },
     {
+      "first_field_hash": "79b733fac22ccb03ca05d5f299a2ad33b3bb1100e09d50f13169ce033829bbb3",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::07-Complications-of-Pregnancy::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "c44beb5815713dfc9fead60d85f8621abd343252d3fe5bd5884f276ea035f794",
       "tags": [
         "JerryShen_AnKing_Tags::POM-3::Clinical-Reasoning::Advanced-Pulmonary-Exam::Class-Content",
@@ -78533,7 +80059,8 @@
     {
       "first_field_hash": "a4785c14e4d396f66be458b6ff70225f3f9807724e5e4ab5602e72ae32e35e3f",
       "tags": [
-        "JerryShen_AnKing_Tags::Molecular-Foundations-&-Genetics::02-Genetics::08.3-Prenatal-Genetics"
+        "JerryShen_AnKing_Tags::Molecular-Foundations-&-Genetics::02-Genetics::08.3-Prenatal-Genetics",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::05-Physiology-of-Pregnancy"
       ]
     },
     {
@@ -78987,6 +80514,12 @@
       ]
     },
     {
+      "first_field_hash": "f8ccb7962bf1009e3287e70229dd6377c3ac49a98d341712598d5d7eb1104cbc",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::06-Labor-Delivery-&-Postpartum-Physiology"
+      ]
+    },
+    {
       "first_field_hash": "5f0bd924db60ee5727b7d54d2887ddee1f58d68ba1677f739496cc707e8a2b7e",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Renal-Block::16-Acute-Kidney-Injury"
@@ -79026,6 +80559,12 @@
       "first_field_hash": "80d92efd67b814c0a233b631b0c2c199fbc3bd7d2a025a7cbbe516035cf854ee",
       "tags": [
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-2::09-Misc-Antimicrobials-&-Skin-Infections"
+      ]
+    },
+    {
+      "first_field_hash": "1e7825f89a59614b2b57f050639530778b1abe0e9d154e3a2efc15ca872c1233",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::06-Labor-Delivery-&-Postpartum-Physiology::Class-Content"
       ]
     },
     {
@@ -79093,6 +80632,12 @@
       "first_field_hash": "f1cc295c31e5c27032f61e894a811360356e48e45775748d161b6aead1b9bae1",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::MSK-Block::02-Bone-&-Joint-Infections"
+      ]
+    },
+    {
+      "first_field_hash": "0e6dbbcc4d443c63e470bd6727238cba7005a5a52f7915dc7e1bf850e2ce43dd",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::06-Labor-Delivery-&-Postpartum-Physiology::Class-Content"
       ]
     },
     {
@@ -79177,6 +80722,12 @@
       "first_field_hash": "68d0bb45464ab41055059ff2af988fd5fb369a201c334121bdc899018468282f",
       "tags": [
         "JerryShen_AnKing_Tags::Molecular-Foundations-&-Genetics::02-Genetics::08.1-Inherited-Metabolic-Disorders"
+      ]
+    },
+    {
+      "first_field_hash": "d7cf02e2dd13f7b5e476511c21c337c1a8b028a6fa3f842fea01ae8123c7e8f0",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::05-Physiology-of-Pregnancy"
       ]
     },
     {
@@ -80511,6 +82062,12 @@
       ]
     },
     {
+      "first_field_hash": "32187faf8cb30eaecef6cfb0b363bee48939fe3fa7d8996f0396af282f4515bc",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::19-Adrenal-Pathophysiology"
+      ]
+    },
+    {
       "first_field_hash": "16ed7df304d1ab69162419a1a7e34cda1bb7da122568a27d2098305dcad6863d",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::19-Adrenal-Pathophysiology::Class-Content"
@@ -80527,6 +82084,12 @@
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::MSK-Block::02-Bone-&-Joint-Infections",
         "JerryShen_AnKing_Tags::SOM-1::MSK-Block::02-Bone-&-Joint-Infections::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "9fe0094e56d36c24f90ed6fc487f4dfceeae20a2d294f93a7fe6ff7272d37fba",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::20-Endocrine-Pathology"
       ]
     },
     {
@@ -80914,11 +82477,42 @@
       ]
     },
     {
+      "first_field_hash": "043cbfd823655bc2f07a0518ee877a3287a8437bbf969a9c307a2ddb053cf55f",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::07-Complications-of-Pregnancy::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "824d085a831ac0028baba92e06accc3d67bb5cd9cba4d437a9eb8ab21cdb1c1e",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::07-Complications-of-Pregnancy::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "3aa1423a394f98c3b49289d39de161898ea287646772bbf7c14dd436fc617603",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::07-Complications-of-Pregnancy",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::07-Complications-of-Pregnancy::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "39d8d2575aa1d21bd03c15dab4a0040fdb71a76c0070216e90dce2b8aa578de1",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::07-Complications-of-Pregnancy::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "50bd5c4513621c7d4d2e6e98cfa9103c32461a43b533d870ab60a84685fcaab5",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::31-Treatment-of-Hypertension",
         "JerryShen_AnKing_Tags::SOM-2::Renal-Block::24-Genetic-Kidney-Diseases",
         "JerryShen_AnKing_Tags::SOM-2::Repro-Block::05-Physiology-of-Pregnancy::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "e7273cfdc342f71e73ff00af5af630d9a2a900e18d2d5067ceaf83701289242c",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::06-Labor-Delivery-&-Postpartum-Physiology"
       ]
     },
     {
@@ -81141,6 +82735,86 @@
       ]
     },
     {
+      "first_field_hash": "e60c1baa2b5b96a110bcec3a0342afde77e995a3483dd0d9af4115223e5e7f35",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::07-Complications-of-Pregnancy"
+      ]
+    },
+    {
+      "first_field_hash": "a18b59903bab9252d51847add5e561d52754841f67d0fb83514a80e13ede870a",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::07-Complications-of-Pregnancy",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::07-Complications-of-Pregnancy::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "d90976db7d24f2c8e0b2028178e410f60657175cf97beb74a6eee9f86faa0b8f",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::07-Complications-of-Pregnancy"
+      ]
+    },
+    {
+      "first_field_hash": "35b9c7674b2d35cf4db10d0dee6f66e76d6b6445683c03a4ae24d44ef560f231",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::08-Labor-&-Birth-Complications"
+      ]
+    },
+    {
+      "first_field_hash": "284bc902c7fb6a998a44655e0427ed63ddac14bc4cbe2ed8b0e0e34edbe0da97",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::08-Labor-&-Birth-Complications::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "cd89f946d5f2072105b023f512f6010e199748b99eaf364570d5e7e0accce7b6",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::08-Labor-&-Birth-Complications"
+      ]
+    },
+    {
+      "first_field_hash": "022f2009e1b5baf1e11b47bd3b79396738046e1f53aa8cf1d6925b8b664f6525",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::08-Labor-&-Birth-Complications"
+      ]
+    },
+    {
+      "first_field_hash": "32b72151d6f8608dc52ee84c26ba191dfe6f30e234be1b1410cc174857dc1a84",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::08-Labor-&-Birth-Complications"
+      ]
+    },
+    {
+      "first_field_hash": "cf49995935599a76d48974b291d38289cd12e797d2d392318a7ae423c52974a3",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::06-Labor-Delivery-&-Postpartum-Physiology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "d6cf9e9950379b8245bd5ff88920f3d29ba1d6d11bf76780020c3c5f6fb57c89",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::06-Labor-Delivery-&-Postpartum-Physiology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "dd2534c5402c44d97911500aa7eb6475d8fbe0466ab2a203d4474bc7f2dceda9",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::06-Labor-Delivery-&-Postpartum-Physiology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "9a21536e88a7cac9dea3261606db8b904d60ebd1f01ef1febcc83a5b0461d29b",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::05-Physiology-of-Pregnancy",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::07-Complications-of-Pregnancy"
+      ]
+    },
+    {
+      "first_field_hash": "bef557fbc381a746a8e86d48a4e64ad8008b8e92a6edd0cd7a88496deddee83c",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::08-Labor-&-Birth-Complications::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "792f49b00ac221996cdcdbb4b06b15e5952923db1ff09f6c0192a9229d0a09dc",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Renal-Block::24-Genetic-Kidney-Diseases"
@@ -81156,6 +82830,12 @@
       "first_field_hash": "564bd255b04f4a18365f876d016cdfebb958c6ee9b1652a6199668b548cf50d1",
       "tags": [
         "JerryShen_AnKing_Tags::POM-1::Final::Epidemiology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "92a1f32b60c100a8647a314449dcc944f2cc402c74fd7638a8ac96bfff82717c",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::06-Labor-Delivery-&-Postpartum-Physiology::Class-Content"
       ]
     },
     {
@@ -81296,15 +82976,39 @@
       ]
     },
     {
+      "first_field_hash": "98b05ed98bb433b3dae4660b0559193d5c2dd09cdef952f7560d7a3014ddd07b",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::07-Complications-of-Pregnancy"
+      ]
+    },
+    {
+      "first_field_hash": "77046f81754b7f1461b42bdf56002911ec75487a1e2dc62b8736b224f1cb0b14",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::07-Complications-of-Pregnancy::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "6f2247e14ae50b3cdb9010187f24b67371c4507d19c096b7a3c23fe14bb73c20",
       "tags": [
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-2::08-Other-Antibiotics-&-Mycobacteria"
       ]
     },
     {
+      "first_field_hash": "8bc6f1c08e9ab6ad82f3801516d18efdb70218bb26f1cc204fa33d5702dc4419",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::06-Labor-Delivery-&-Postpartum-Physiology"
+      ]
+    },
+    {
       "first_field_hash": "fec2702244343609e37bfb7d6dbfe11a869d6262a1907c84fc567d0641226af2",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::CV-Lab-03-Autonomic-Drugs-&-Clinical-Correlates::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "702b03bc1f89b07018e719d1f1042ea359dde3489ca6b4782043304883487a69",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::07-Complications-of-Pregnancy::Class-Content"
       ]
     },
     {
@@ -81409,6 +83113,12 @@
       "first_field_hash": "1be62bb5fac7c096c7ee6cc903cbca79f6f72e1d9458c7b79969fa37f403fb76",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::23-Endocarditis::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "e387a98cd00c4352c8089bbe9cef78e018a35446a4c18a71df8584e78426d695",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::06-Labor-Delivery-&-Postpartum-Physiology"
       ]
     },
     {
