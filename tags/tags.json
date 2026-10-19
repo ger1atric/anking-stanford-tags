@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
   "author": "JerryShen",
-  "description": "small intestine + pancreas",
-  "created": "2026-10-19T18:23:28.495538+00:00",
-  "updated": "2026-10-19T18:23:28.495538+00:00",
+  "description": "large intestine",
+  "created": "2026-10-19T19:19:13.196063+00:00",
+  "updated": "2026-10-19T19:19:13.196063+00:00",
   "tag_prefix": "JerryShen_AnKing_Tags",
   "tag_hierarchy": [
     "JerryShen_AnKing_Tags",
@@ -526,6 +526,8 @@
     "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::06-Small-Intestine::Class-Content",
     "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::07-Pancreas",
     "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::07-Pancreas::Class-Content",
+    "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::08-Large-Intestine",
+    "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::08-Large-Intestine::Class-Content",
     "JerryShen_AnKing_Tags::SOM-2::Renal-Block",
     "JerryShen_AnKing_Tags::SOM-2::Renal-Block::01-Introduction-to-Renal-Physiology",
     "JerryShen_AnKing_Tags::SOM-2::Renal-Block::01-Introduction-to-Renal-Physiology::Class-Content",
@@ -940,6 +942,11 @@
       "date": "2026-10-19T18:23:28.495538+00:00",
       "message": "small intestine + pancreas",
       "note_count": 332
+    },
+    {
+      "date": "2026-10-19T19:19:13.196063+00:00",
+      "message": "large intestine",
+      "note_count": 165
     }
   ],
   "notes": [
@@ -7728,6 +7735,12 @@
       ]
     },
     {
+      "first_field_hash": "b66e9f07cfcc8e2473ebb7345d46d8d9026fbb320d0be21be155d80c210cec74",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::08-Large-Intestine::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "092f8155204a64f1dbf0127d6c166554189b828adddf58756ce1a57fd3380f50",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Repro-Block::03-HPO-Axis-&-Menstrual-Cycle"
@@ -9049,6 +9062,24 @@
       "first_field_hash": "92b2d2249725c9de27f6d2282b6df89a0fe1c09ea1031331518627eeb96d3e1a",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::14-Bone-Physiology"
+      ]
+    },
+    {
+      "first_field_hash": "b913945c2cbfce5bab7170048fc7dafb25d36c39ce5a34852a9ab851df433046",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::08-Large-Intestine"
+      ]
+    },
+    {
+      "first_field_hash": "c543a584e49efe1519ead6ba68fed3d389c115992a06bfaf2d4394a64bea4bbc",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::08-Large-Intestine::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "71ef1475462ae4df672b91145b5842d861e0e54d3c6154eafc0e0137e1a5f9cb",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::08-Large-Intestine"
       ]
     },
     {
@@ -40641,6 +40672,18 @@
       ]
     },
     {
+      "first_field_hash": "7a4b893a2cc7a3ecd3a3a1aab0b3c934a5c474377565cd33e6834aa434e16e31",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::08-Large-Intestine::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "3e017a0f478220acdb2477445e652fcaaf83cc9b0bc8bb869ac22d591f6b5637",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::08-Large-Intestine::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "bae77c696db262064fc58a2b52b4243aab1b4fc948aee7546170b39277814c62",
       "tags": [
         "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-7-Head-&-Neck-2::Anatomy",
@@ -42722,6 +42765,12 @@
       ]
     },
     {
+      "first_field_hash": "cdbd6582ecd2acd7bace4d4b73dd99484e496d36905125be9fff82a54b8b27b9",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::08-Large-Intestine::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "c0cb87c847051a9037d1f84c81e60ea5e9ca805b046d4e000b70afeb9ccc802d",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::06-Small-Intestine"
@@ -42732,6 +42781,37 @@
       "tags": [
         "JerryShen_AnKing_Tags::Immunology::Final::GI-&-Mucosal-Immunity",
         "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::06-Small-Intestine"
+      ]
+    },
+    {
+      "first_field_hash": "b196684df3f1855ee505c9c3bbdab69b2474c4bd5932e49262c9fc17784c0ddd",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::08-Large-Intestine",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::08-Large-Intestine::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "eaea976bf56b765be959dd4db8c8f56c0f8db5c912b86aa13ef6c27bc34349e2",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::08-Large-Intestine::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "4da2bbd29cfe67b26d4e5a5cbef9219c1f57fb315103301a9352df67c411f518",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::08-Large-Intestine::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "da03305882859cb0bd27af09c47734f356b09d8e5ba2c063a54dedf71a65594f",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::08-Large-Intestine::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "946985e6e1ce8d91dbc5c414dea517c4b35ff42576c6b0a163dadfb751d9840e",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::08-Large-Intestine"
       ]
     },
     {
@@ -42747,9 +42827,33 @@
       ]
     },
     {
+      "first_field_hash": "dd9092c0f004fed60a43617b51a2502a1c9fe70e04d851124f64e3c61e71fb5e",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::08-Large-Intestine::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "fdb17922705fbe773d72ad24bc62f5653bac749006159a534cd2b4afa6d89820",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::08-Large-Intestine::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "e4359422b286b236ff0cfca7119409169a017a170382bf629f0662a51df7199a",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::08-Large-Intestine::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "150c2f7bd3caf0452525e68872cb5337306126eec58a03f2053c07a42746f4c6",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::06-Small-Intestine"
+      ]
+    },
+    {
+      "first_field_hash": "84d22d0db1d77d08976cac207cbd61cf6097a600f71e65e52e9eafef0c4aebf3",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::08-Large-Intestine::Class-Content"
       ]
     },
     {
@@ -42759,9 +42863,70 @@
       ]
     },
     {
+      "first_field_hash": "8b7ee4244a2f49917aaa64db48f2c7fd259693415488edc9217cd36a36614dcd",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::08-Large-Intestine"
+      ]
+    },
+    {
+      "first_field_hash": "013196d2bd3e33347079537b6906c0534a261eaff65617b54b5eacb1a5734b1b",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::08-Large-Intestine"
+      ]
+    },
+    {
+      "first_field_hash": "6cbb0cf298a614ecad97d5577285c0618d16231c62ce48a5d305499faf71a3ff",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::08-Large-Intestine"
+      ]
+    },
+    {
+      "first_field_hash": "b057ff1e1371e479661a57c6232acef870e9f405785ba4b0d666b894ecf7d2b0",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::08-Large-Intestine"
+      ]
+    },
+    {
       "first_field_hash": "88e120debbfb04f96455baf42362b2cdaeccd50386cdcf5554806eb1891bd1f5",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::06-Small-Intestine::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "55213a19263b2630ca028538ac706468792279a247d8543cc72c4e6c39af1b10",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::08-Large-Intestine",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::08-Large-Intestine::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "f0687b6b6c238c1e5c40cd895ac4bf497e314dd298a908f2dc4595d6d63c22a1",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::08-Large-Intestine"
+      ]
+    },
+    {
+      "first_field_hash": "892a961f82c461e54ab80c065377bcc4c4886f0908245fd41ef83434b16de7b3",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::08-Large-Intestine"
+      ]
+    },
+    {
+      "first_field_hash": "7c4092419b08345ab39b7d58e30d49bc627fdd7fce9b12acd3866ce3384e8a9e",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::08-Large-Intestine"
+      ]
+    },
+    {
+      "first_field_hash": "4895ab93e43ab10a4c8d9ab610432dad5374b8d294c52c6f176875f9b3533683",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::08-Large-Intestine"
+      ]
+    },
+    {
+      "first_field_hash": "0db3bb2040c5911e8856d23b7b1ee48a5fc8287b07d21b1ba686d45fc3e73da9",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::08-Large-Intestine"
       ]
     },
     {
@@ -42771,9 +42936,87 @@
       ]
     },
     {
+      "first_field_hash": "6d82e8d4fa1108bbbb7b4a447d22232347b45c401197c5fd49949e7eb4718f40",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::08-Large-Intestine::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "26d732c12dfa7337c415faec12c59576ff9357614476a7a5ac5b866832f9e178",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::08-Large-Intestine::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "7520b10f97770f49043cf3ac201f671db114ef1e5ff058056b4f1807afc2b8a9",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::08-Large-Intestine"
+      ]
+    },
+    {
+      "first_field_hash": "8df5c08a29055e67d7b59f77ac43da9bf3c6a948182b2b5d062fb9bfbcf11c06",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::08-Large-Intestine::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "cd7532a11c2cf49d9b1c717e2f027c8dd0de8eb015f5fe81d8f0878901c3cff1",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::08-Large-Intestine"
+      ]
+    },
+    {
+      "first_field_hash": "2f787c54d38248f93bd939c37349808f6553081beb5d4429a6689ff52394cbbc",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::08-Large-Intestine::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "64764fd46ccec7c4b712e8815d80f3115349f69c4c1adfd0f385f4857e30050f",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::08-Large-Intestine"
+      ]
+    },
+    {
+      "first_field_hash": "20a92b7f8275d591e0759bf0ad6c556a45e2d2d908086ae61382fc602b0bc2ff",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::08-Large-Intestine"
+      ]
+    },
+    {
+      "first_field_hash": "13ea7166530b2bd3c79957940fa4a8d1d94b19793b0e994598e50683d11e5115",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::08-Large-Intestine"
+      ]
+    },
+    {
       "first_field_hash": "83b4610f13714edadb5adc09695ff3d60e5f9b17fa6bf05f8604978563ce205a",
       "tags": [
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-2::10-Biologics-Ectoparasites-&-Clinical-Cases::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "9cca229e64a0f3bd2c6a0f2ad385b5a1b1f70a6ad2ce6644759c3d3a3753620b",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::08-Large-Intestine::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "a326fac299c71e8bc1cc409580ad44a7842ea533a19685a274149e437e1aa821",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::08-Large-Intestine::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "99ad66b1682c4819d896e2741d3e25d4ab900a299a9586daeca8d7187510c1a1",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::08-Large-Intestine"
+      ]
+    },
+    {
+      "first_field_hash": "e44223693ae14893e05b2f70d5ff059dccde2617814daeb62f74c4cb26470705",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::08-Large-Intestine::Class-Content"
       ]
     },
     {
@@ -42844,9 +43087,154 @@
       ]
     },
     {
+      "first_field_hash": "8aa5ed9f15e60f4b73aa14cfb21eb7ca267577bfa37bfa613ff548f9f31e545a",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::08-Large-Intestine::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "86c9b311e63a661d7b60694e539ff070d13351121f0c4fd17aff97e3c3a868ab",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::08-Large-Intestine::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "6e7cc60f4a94227ea1e502e7c930c2f0356f61deb9435d447d3ac419890f64e7",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::06-Small-Intestine"
+      ]
+    },
+    {
+      "first_field_hash": "8009cbcbccc4a00b4c83dc52af0559ca482bbeca10c4186b5e9687d800ff73a7",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::08-Large-Intestine",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::08-Large-Intestine::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "3dcf7eab2b0f33bfc9c424ca5a0648a4101ec71ae8341a5e88ccb9d6b076c3bf",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::08-Large-Intestine::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "fe1d5d9e3b3cc35f0f68fd65893d0812b18db7cdeab532a55d308e3196b1ad07",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::08-Large-Intestine::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "6599bb7f8f48992fd052cfe3d2cd41fd507177b52b4314eac8609da53d34b7e7",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::08-Large-Intestine::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "b0e0adbbb245c556d0eca1162d870672dd64b3bcaece78885bba2c51c37df857",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::08-Large-Intestine::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "dde31ff8b9195d876953d1f4c454d3c69565ab63a98026c7b5c13e3869cfab1f",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::08-Large-Intestine::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "f0327a146311c3ce1e84343206101f63e070eff53d4e0e6dfdc3172c55012b17",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::08-Large-Intestine::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "cd2376a11a3594500c95f30cc0aa93f60f698981a0e1ebddf1a77f017cc5c9ca",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::08-Large-Intestine::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "2c518ab769f4cad47c04f95e0f30cd794087c41309845f029aac9752580ef4c9",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::08-Large-Intestine::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "2fc4facc0870bb2b49184411c62f8c104bd79d295dd8ad6c3d26450d6a29e306",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::08-Large-Intestine::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "e22cc686a5cb4ef8ebd6d0f1dbd71dadb64e2c055a32868b85d48851488c397c",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::08-Large-Intestine::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "e0bc94e4e57fb3a511a2e56c034843daad21b90e5dbbb822aefd1090da681880",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::08-Large-Intestine::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "5f3aa56a0671771ad5d748cfb0494ab91d88f2027067cafb8d13e91821a427e8",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::08-Large-Intestine::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "28fbcb4560cd36aeba2af79e77de3814ceaf673f111f3d69096ec41dd9fdfab5",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::08-Large-Intestine::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "7c2dae9c21553a326e2ad09643cfa0697a05f6a1f9539b7372fc652aa5f07a77",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::08-Large-Intestine"
+      ]
+    },
+    {
+      "first_field_hash": "6122e76e481f82361e990411a38c6188d8844893c2fb1f97d40d913df97db8d4",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::08-Large-Intestine::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "c5330b0ebc3d0437162497a3730851a0e63e10a8670e4bfc1266ff55c3e83a3b",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::08-Large-Intestine"
+      ]
+    },
+    {
+      "first_field_hash": "d20294d26a06965c3dcbc3799c50d78afe8eb5a72c4feae803971217c16502fc",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::08-Large-Intestine::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "67511f635bd787a6977491da3520174e048a93250b4336603ce1ed5df6a74c14",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::08-Large-Intestine::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "f63d39337a75f14f0b762f8c98ff083f059db3aa23966f2be4df8a652d83ab64",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::08-Large-Intestine::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "e1d1f08231e7440252296cb0324e4ee2a85af4efcdf25f6854c2d9b0596910c6",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::08-Large-Intestine::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "11b9043c93478a059c8594fb3816f226c3f7ac46fddc9a3b97fcca3ea48b08f5",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::08-Large-Intestine::Class-Content"
       ]
     },
     {
@@ -43008,9 +43396,17 @@
       ]
     },
     {
+      "first_field_hash": "642b1279e63865b64e4cfb052978649c182a62d8120c607b18c4f398812ef830",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::08-Large-Intestine",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::08-Large-Intestine::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "80539fe271fd7089e13229b0ee038cb81cfd7122725d6022277c195b50077355",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::03-Fat-&-Micronutrient-Nutrition"
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::03-Fat-&-Micronutrient-Nutrition",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::08-Large-Intestine::Class-Content"
       ]
     },
     {
@@ -43329,6 +43725,12 @@
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::05-Treatment-of-Hyperlipidemia",
         "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::05-Treatment-of-Hyperlipidemia::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "ea5884687464edcfcb0fbd197d35d3cfa5f8022c4eac03219272a7dcbee6526c",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::08-Large-Intestine"
       ]
     },
     {
@@ -46033,13 +46435,15 @@
     {
       "first_field_hash": "4fda74065d8272bea325f2c60d6fa15d6f6cb360b9619392e9c30e9f4362452f",
       "tags": [
-        "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-3-Abdomen::Anatomy::Class-Content"
+        "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-3-Abdomen::Anatomy::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::08-Large-Intestine"
       ]
     },
     {
       "first_field_hash": "1a845c94bba8481b8f8b0cc2637c6fd421a30b172a0c366c6c3de34afc0dd641",
       "tags": [
-        "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-3-Abdomen::Anatomy::Class-Content"
+        "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-3-Abdomen::Anatomy::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::08-Large-Intestine"
       ]
     },
     {
@@ -46184,6 +46588,24 @@
       ]
     },
     {
+      "first_field_hash": "6fe384ad1576fc02e5a5d76c904adad9a53db41b25b4faedb946881ca3a68d64",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::08-Large-Intestine"
+      ]
+    },
+    {
+      "first_field_hash": "c50e388399f6c5976d83d0e677556d0b9dfb5d0604802c4b1a148e5dd5685022",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::08-Large-Intestine::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "97a71411c2db99a0cee76fe918523e5700f4deeafcc72e6a46567e032a910a9e",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::08-Large-Intestine"
+      ]
+    },
+    {
       "first_field_hash": "0b202ce255500693bee674a8180c0b5fd3ff61986e711f7a24d009faaa0ec64f",
       "tags": [
         "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-3-Abdomen::Anatomy::Class-Content",
@@ -46193,14 +46615,16 @@
     {
       "first_field_hash": "c28dcf0f13fb9bab3542f6dd2185e1ba0527cda88e65b5043d9cdfe6cdee15df",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::06-Small-Intestine::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::06-Small-Intestine::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::08-Large-Intestine::Class-Content"
       ]
     },
     {
       "first_field_hash": "9b7c0bac724a915812307d2b1c6428495d09af63b678be2d583d4542ff8316dc",
       "tags": [
         "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-3-Abdomen::Anatomy::Class-Content",
-        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::06-Small-Intestine::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::06-Small-Intestine::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::08-Large-Intestine::Class-Content"
       ]
     },
     {
@@ -46354,19 +46778,28 @@
     {
       "first_field_hash": "1d023768a7f67221a9567b16a58af74d58d5bab605d24338e6c56ca42ccd060c",
       "tags": [
-        "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-3-Abdomen::Anatomy::Class-Content"
+        "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-3-Abdomen::Anatomy::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::08-Large-Intestine::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "b12dff5ec16f9634f8fcf59b17f4b6782f187e4af8061ff3b2cd4d9324276c55",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::08-Large-Intestine::Class-Content"
       ]
     },
     {
       "first_field_hash": "f75e21017e2a410ad60102ba5f4bc9a102baa74c907f2c1f874db434d4be1a6c",
       "tags": [
-        "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-3-Abdomen::Anatomy::Class-Content"
+        "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-3-Abdomen::Anatomy::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::08-Large-Intestine::Class-Content"
       ]
     },
     {
       "first_field_hash": "ae28dcb02ca5b191d1df4aeb332d02a27e5a99829081d5d252b284c789ff5a03",
       "tags": [
-        "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-3-Abdomen::Anatomy::Class-Content"
+        "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-3-Abdomen::Anatomy::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::08-Large-Intestine"
       ]
     },
     {
@@ -46376,9 +46809,28 @@
       ]
     },
     {
+      "first_field_hash": "3523d3356c802b3ed202a87ce8ce695f477346286efb01708f3aa62cb8a481f1",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::08-Large-Intestine"
+      ]
+    },
+    {
+      "first_field_hash": "c16c1bd76624897110c12535e080ce62ec79ecdc1089f223f7c2c1f4ee319652",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::08-Large-Intestine::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "de33914e73f5d1b6ff4c1fa06ef8fb817ab15e46019385b8f09ef0cc903e065c",
       "tags": [
-        "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-3-Abdomen::Anatomy::Class-Content"
+        "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-3-Abdomen::Anatomy::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::08-Large-Intestine::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "56bfb8241283580e861e03cf4ab7d93e782998af6c0b55ff90192858f46031f0",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::08-Large-Intestine::Class-Content"
       ]
     },
     {
@@ -46401,9 +46853,46 @@
       ]
     },
     {
+      "first_field_hash": "83fc4415af17714c573b1d90be780a0505c6d78d8f60da81e11eb2265d835434",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::08-Large-Intestine"
+      ]
+    },
+    {
+      "first_field_hash": "90f6a2a8b7a044db02c6ab2e27a4ebcfbe475c71ae790d7e7fabd13953c478ae",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::08-Large-Intestine::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "7d6c31ab4e0135af2f53828e1d887bf639d54aff416883d4767d1ec8f4a365e2",
       "tags": [
-        "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-3-Abdomen::Anatomy::Class-Content"
+        "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-3-Abdomen::Anatomy::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::08-Large-Intestine"
+      ]
+    },
+    {
+      "first_field_hash": "3956ce0bebc6e2fb8fa96d5972de1a2fdf313be2a79ebfb0b5f3d33227f51088",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::08-Large-Intestine"
+      ]
+    },
+    {
+      "first_field_hash": "b5b7351c39fe28a28dcce2d27a447d50211f5c1f4ff98063f347f23f5708eb28",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::08-Large-Intestine"
+      ]
+    },
+    {
+      "first_field_hash": "b59a333804ccb6388f64f37f04b8fc1b4eeba3fe52a74d924f2154588c847fc3",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::08-Large-Intestine"
+      ]
+    },
+    {
+      "first_field_hash": "f613f25e4631ebba1c1a1694eec1a59d45bffb319440cd519fb415878bb1d93f",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::08-Large-Intestine"
       ]
     },
     {
@@ -49702,7 +50191,8 @@
     {
       "first_field_hash": "cd6af06c35ac18ee3d1bb83b30241362027c9c868429722caed959cdc3630767",
       "tags": [
-        "JerryShen_AnKing_Tags::Micro-Pharm::Exam-1::05-Intro-to-Fungi"
+        "JerryShen_AnKing_Tags::Micro-Pharm::Exam-1::05-Intro-to-Fungi",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::08-Large-Intestine::Class-Content"
       ]
     },
     {
@@ -51628,6 +52118,18 @@
       ]
     },
     {
+      "first_field_hash": "24f65e396ea985b39165a96f46520ee5e08cb52c9d205a6f07b464633bc5bbc6",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::08-Large-Intestine"
+      ]
+    },
+    {
+      "first_field_hash": "6c8f97b5427740ae432ae08651e7658c1f10732e29848bf112264686d59126cd",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::08-Large-Intestine"
+      ]
+    },
+    {
       "first_field_hash": "a61b42132d6a2fdc39d5d9c26a160e10c3f70a84161b86e3f4455804fc0dd38c",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::24-Sepsis-&-Septic-Shock"
@@ -51819,6 +52321,12 @@
       ]
     },
     {
+      "first_field_hash": "34f681a551835ac14552b86e4a490ca8afe25d6c94e3877309644f5814f62b10",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::08-Large-Intestine"
+      ]
+    },
+    {
       "first_field_hash": "9c3889c94afafd4cbe131a103c56db3539f4013c9151d8fc9d0497b7588db875",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::MSK-Block::05-Lower-Limb-Pathology::Class-Content"
@@ -51876,6 +52384,12 @@
       "first_field_hash": "207048991786a72c6cba1f121b976635311b5a7042edb7a928bc2e8ee9ebefa4",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::02-GI-Hormones"
+      ]
+    },
+    {
+      "first_field_hash": "9be93c36b297682287c11ba1cd8f92922b65c5d49ade5235b34346d0bbc39782",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::08-Large-Intestine"
       ]
     },
     {
@@ -52191,6 +52705,12 @@
       ]
     },
     {
+      "first_field_hash": "a77012ce0c1aa81b6a4cd8ae8e98843db48a1adf6a9b6e8b50024d960b9e5364",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::08-Large-Intestine"
+      ]
+    },
+    {
       "first_field_hash": "b437d965738cbe55483453fdf164d63d38edf1c3f9f8d44ec23d88e68f1031e5",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::15-Bone-Pathophysiology",
@@ -52223,6 +52743,19 @@
       ]
     },
     {
+      "first_field_hash": "40b66e503a0343055ca7fefbc9778dbe32bebdbcd985a3c37e7cfc9b9a948367",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::08-Large-Intestine",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::08-Large-Intestine::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "7c46c20e7796906353a0e32d5baa4355c17b8031a7431e83d553c4410b3d392a",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::08-Large-Intestine::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "8bfdd0c8ee39c27a15396567c5683495a768e49e4749d059366d32612b98f499",
       "tags": [
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-2::10-Biologics-Ectoparasites-&-Clinical-Cases::Class-Content"
@@ -52234,6 +52767,12 @@
         "JerryShen_AnKing_Tags::Cancer-Biology::Final::Cancer-Pharmacology",
         "JerryShen_AnKing_Tags::Cancer-Biology::Final::Cancer-Pharmacology::Class-Content",
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-2::10-Biologics-Ectoparasites-&-Clinical-Cases::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "0de4f671cf8f34fb32b60b4cff1f2279152e2a783d94d5177222b2c63f98573e",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::08-Large-Intestine"
       ]
     },
     {
@@ -52301,6 +52840,12 @@
       "first_field_hash": "d798e17d9e4b833ed4adee6b3fce5f876450cd0d2da5af674e83c5521d32df37",
       "tags": [
         "JerryShen_AnKing_Tags::POM-4::Clinical-Reasoning::Approach-to-Palpitations::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "2ef90d79050842e05896087d7ba88214821011f1f70bf4943f59eb3e09b4bd69",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::08-Large-Intestine::Class-Content"
       ]
     },
     {
@@ -54308,6 +54853,36 @@
       "tags": [
         "JerryShen_AnKing_Tags::Cancer-Biology::Final::Cancer-Pharmacology",
         "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::30-Lung-Cancer-Treatment"
+      ]
+    },
+    {
+      "first_field_hash": "95636313e51d8b7c7b3e7397f26a70c1d703d35b10f9c697939e421b83e82b26",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::08-Large-Intestine"
+      ]
+    },
+    {
+      "first_field_hash": "b2d2f87e560cbb1809299f748d99111a1c852e2176f05c0c2d70b370f4915633",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::08-Large-Intestine"
+      ]
+    },
+    {
+      "first_field_hash": "e6dfca8557feeea73f02bc890aa027b0875c0f8f2c1cda6a3084b9737d66ec41",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::08-Large-Intestine"
+      ]
+    },
+    {
+      "first_field_hash": "ec4f70f35f2ac76fe83332038433b34e8c2f3c370facb197582f9b2b4fa71db7",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::08-Large-Intestine::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "f26d7515fabf5c2608fc4dcca1ecfd536435d8f942812b26ac25a8d6b45df7fc",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::08-Large-Intestine"
       ]
     },
     {
@@ -58818,6 +59393,12 @@
       "first_field_hash": "5da6427d4019b8a8c5a9ab5985e407ab9c992d0c5d4df976876b7e33b06c6849",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::MSK-Block::06-Backache"
+      ]
+    },
+    {
+      "first_field_hash": "3cd71f39fc72a763a806e79a5f9c45fef4ab28ad44aafcfa87c1e4d6c8b2a27c",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::08-Large-Intestine::Class-Content"
       ]
     },
     {
@@ -65303,6 +65884,66 @@
       ]
     },
     {
+      "first_field_hash": "596d9622a53473d01e25134b16547f03710ca7d0452a20fd8211445e791984f7",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::08-Large-Intestine"
+      ]
+    },
+    {
+      "first_field_hash": "08d9d0d5c2d196082b10cc1cdb2abe795235678839daf20eeafd815fec094e18",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::08-Large-Intestine::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "74752aec59904ec14dd94a142e38d52a732980b1649001f9a52b023343de829d",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::08-Large-Intestine::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "619f2b8eecf8e55dce9c273f826fbb5027a02cf3c3ab727d3049d610f5703639",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::08-Large-Intestine"
+      ]
+    },
+    {
+      "first_field_hash": "4d1cd272f7888910aee58a57c960808c8a22cd0977d74498a558d92c67251ce1",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::08-Large-Intestine"
+      ]
+    },
+    {
+      "first_field_hash": "2ab065a542bff9b5f171460214cb2c8356a6281f9693549ae25d7f9d638d7dc4",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::08-Large-Intestine"
+      ]
+    },
+    {
+      "first_field_hash": "9eefea8ec925714fc894f3307027002d031e770dd007e9cf87c9ce4078ab8307",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::08-Large-Intestine"
+      ]
+    },
+    {
+      "first_field_hash": "6587593828daca4f346f3f12608daa2aba217c79feff1bd6facd48a5f90233c2",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::08-Large-Intestine"
+      ]
+    },
+    {
+      "first_field_hash": "c5a3f16e88cc7f0c898849076aee42648f555d296cd16e92682035e3d02ed9fe",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::08-Large-Intestine"
+      ]
+    },
+    {
+      "first_field_hash": "f56d6adf094b62a817c87d3a4a0a521e4a73b4242c05416cd863367ca33fb483",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::08-Large-Intestine"
+      ]
+    },
+    {
       "first_field_hash": "da438c71c66be26acc990b0dc7a77947a83874397d247fc1f6ee732649bbf804",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::07-Pancreas"
@@ -69129,6 +69770,12 @@
       ]
     },
     {
+      "first_field_hash": "4b5aeb93e5ed6412e3a7b189d2846bfa50bf2f1c4dcb97ee810c1a361ebabadd",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::08-Large-Intestine::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "48aa8e88f4ce4a38e9d913b34cf15fc0f0cc95574b79af80e9f7d538a13f87e3",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::16-Thyroid-Physiology-&-Pathophysiology"
@@ -69212,6 +69859,12 @@
       "first_field_hash": "45ef83859f379853e70281af2d6dc6ff8f353468440b309f1b6400f3a380c2ef",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::10-Autonomic-Physiology-and-Pharmacology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "ba86675023fff785387d5a6c01fdd0283a74c306bea44ff2c452624b9ad9052f",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::08-Large-Intestine"
       ]
     },
     {
@@ -69378,6 +70031,12 @@
       "first_field_hash": "c5ca35a306c06c75b8dbcc44a4c38a23a2a831df2a5abd82adff489f25f23731",
       "tags": [
         "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-3-Abdomen::Embryology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "6fc0bf56fa45e854815bf313263154b109831f71e30ae085c2570b26e13141e2",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::08-Large-Intestine"
       ]
     },
     {
@@ -69938,6 +70597,12 @@
       ]
     },
     {
+      "first_field_hash": "b9add701086f16de1f70e066e876a0ce8b3bc09a0ea233fe3260b7ec9a95a8c6",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::08-Large-Intestine::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "7d27b1fc98f87fa72d9f402b2a21877f2648f647d91766f3752510386463bca9",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::MSK-Block::09-Geriatric-Orthopedics::Class-Content",
@@ -69960,6 +70625,12 @@
       "first_field_hash": "355288e3e462f972b18d32bd5dbf24a187debc25c693cea143c09805ab572faa",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::08-Insulin-&-Antidiabetic-Pharmacology"
+      ]
+    },
+    {
+      "first_field_hash": "34f6b46abcb28bb376d63c9d22e051782350e37648cd88eccdd804a30b442182",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::08-Large-Intestine::Class-Content"
       ]
     },
     {
@@ -69999,6 +70670,18 @@
       "first_field_hash": "0a6e001d8294ce907d34fc3e7a506fab656c0826d149435a7367343a71dbc90f",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::18-Heart-Sounds-&-Clinical-Exam"
+      ]
+    },
+    {
+      "first_field_hash": "6b9fb76aa79989ff4b8705d9c196f79ba72c42bbd2bc2940176455732e52dfe3",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::08-Large-Intestine"
+      ]
+    },
+    {
+      "first_field_hash": "5d993a8c71cb88d83ee3ae27e19397f1df7c408980fabdcfa5afbd55a1871eb7",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::08-Large-Intestine"
       ]
     },
     {
@@ -71892,6 +72575,18 @@
       ]
     },
     {
+      "first_field_hash": "ef65cfb063b2c3fe8a717f8f75b4bd1c4544caf49b69b1557fffca9246818df8",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::08-Large-Intestine"
+      ]
+    },
+    {
+      "first_field_hash": "d8d1de11c2046bbdfbfeca4017a89affdc7a7ecf8504d91d61684e3a1c36bd95",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::08-Large-Intestine::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "96878556d19156b4e7da131c0b621fb3b6fffd353ebb3dc9a7bfdcbf62facd21",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::04-Salivary-Gland-&-Esophagus"
@@ -71904,6 +72599,18 @@
       ]
     },
     {
+      "first_field_hash": "d8b01359f8e88f253dc26a124efe920f651c9b575437684f2241d4193446d3d6",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::08-Large-Intestine::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "20c21da00499183f4774a0cf2ee97b1d865c11f342e5c4c3ef16448fd1a535e6",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::08-Large-Intestine"
+      ]
+    },
+    {
       "first_field_hash": "34b343ce0d2e6e0a4f59de5b5f858b895a8db807897755be50d42b6a0fcdcb53",
       "tags": [
         "JerryShen_AnKing_Tags::Cancer-Biology::Final::Cancer-Screening"
@@ -71913,6 +72620,13 @@
       "first_field_hash": "f8ad6705b9713dd7cc6db29dc9493e2b4aa756b1944daf2efcd2afddc5d4d76c",
       "tags": [
         "JerryShen_AnKing_Tags::POM-2::Final::Nutrition::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "0303e27c216aa1fc716e74f191766b06a9dcaff1c9a5f8ad0e612c14a8b23d34",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::08-Large-Intestine",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::08-Large-Intestine::Class-Content"
       ]
     },
     {
@@ -72404,6 +73118,18 @@
       ]
     },
     {
+      "first_field_hash": "da39c8afe752d5e879d01ccb5ce3bb103d1e48294ffbc7756f4e845a2f01a307",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::08-Large-Intestine"
+      ]
+    },
+    {
+      "first_field_hash": "a7600836cb0f24e532a56463c695446e0ff9d292156ac0c3289a0604b8e1f8ad",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::08-Large-Intestine::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "abb476ee7c94d8cef61bb63ec26d4877bc348ced969aa82f9c637cd90fddb104",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::30-Hypertension",
@@ -72819,6 +73545,12 @@
       ]
     },
     {
+      "first_field_hash": "2963a4a75169c2cb918f16a7c3a6a24615bf4d610163bc2f191fe92db64011ba",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::08-Large-Intestine"
+      ]
+    },
+    {
       "first_field_hash": "a8e5d5d01c2ce7525addea9a1e650d5160ff5e639281817b3a34bd34b6400e47",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::MSK-Block::05-Lower-Limb-Pathology::Class-Content"
@@ -72915,6 +73647,12 @@
       "first_field_hash": "85eb91d9fe59dda265981a9516142439815f5bd71a5fa521c7ca8b7211deb977",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::05-Stomach::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "47c8c5b1352a917cc0483877a8aee8a64bd1fd0b0f3c4c9caf0037be042e4449",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::08-Large-Intestine"
       ]
     },
     {
@@ -73623,6 +74361,12 @@
       ]
     },
     {
+      "first_field_hash": "a53465b4af49146c694e1ab54bd46ecd84fd72242df4978613ede3b58b213c23",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::08-Large-Intestine::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "30887a7d546018af8f420cb3db51a55ab926dbced3fe3bf758b79155acdd5f77",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::03-Glucose-Homeostasis-2"
@@ -74033,6 +74777,30 @@
       ]
     },
     {
+      "first_field_hash": "dfebcafc937c8c87fd4b03a261f17a800bebd6003cd8afde25d6e557c57d8079",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::08-Large-Intestine::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "9f175d1b5b5bf2fc82b767321095647b8c05bfa1e16bbf842b67afaafcccbfe3",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::08-Large-Intestine"
+      ]
+    },
+    {
+      "first_field_hash": "5b929c1f115fcca6a36bae00cb090299384b1338fc57dc629a5f2002fbd37a78",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::08-Large-Intestine::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "d64661bcbfe3ae0981834dd50b2aa415026b992e5d54a034481db37e6a36ee62",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::08-Large-Intestine::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "488d632248731f901c320166a74aa14bd55dcea6233bbe9274214e742c368799",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::06-Small-Intestine",
@@ -74330,6 +75098,12 @@
       "first_field_hash": "86a4a54ccb6f0dfe4768a80fe7a29c8e5a151e689545a9fcc2085a8b70b50cb1",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::Tutorial-2-Thyroid-Disease"
+      ]
+    },
+    {
+      "first_field_hash": "7246db2a76b04b8249c11dfe63820610c6b0cca841c790728d6e025a3b46ac32",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::08-Large-Intestine"
       ]
     },
     {
@@ -76814,6 +77588,12 @@
       ]
     },
     {
+      "first_field_hash": "553f57b1ab3debf0a109f880704cfc5566e5ce8be13efd5054c96462cd549720",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::08-Large-Intestine"
+      ]
+    },
+    {
       "first_field_hash": "e69439419f2d571bc5517ab223cb7236ebef58f93440f36df7f18babf0dc7c23",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Repro-Block::05-Physiology-of-Pregnancy"
@@ -78080,6 +78860,12 @@
       ]
     },
     {
+      "first_field_hash": "836c5503c437c9174b4d23874eca6a72ea380a2d0ad8ad742385e96ef36708da",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::08-Large-Intestine"
+      ]
+    },
+    {
       "first_field_hash": "facaf24bd34fb184c2aabe4d5b66b2bce4adfb1edcd024d0d979b5744d745119",
       "tags": [
         "JerryShen_AnKing_Tags::POM-1::Final::Epidemiology",
@@ -78627,6 +79413,12 @@
       ]
     },
     {
+      "first_field_hash": "01f4a8cf7a3f87508205ad4fa54fe63920f13d268fcfb23960e77dd6f293700d",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::08-Large-Intestine"
+      ]
+    },
+    {
       "first_field_hash": "3b884fc9d6d4c1999acd00fa0a6d939db1e821902e91d32a4f615136b376e683",
       "tags": [
         "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-5-Lower-Limb::Anatomy::Class-Content"
@@ -78694,6 +79486,12 @@
       ]
     },
     {
+      "first_field_hash": "6012da8beb85d655df5ae67447ba32d7170386be355a798c79984069b9a36026",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::08-Large-Intestine"
+      ]
+    },
+    {
       "first_field_hash": "73d3963db6702962d679652eb78a50eb005c515004323f8cdfdc652a2505c807",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::07-Pancreas::Class-Content"
@@ -78746,6 +79544,12 @@
       "first_field_hash": "59217b83bd8c618ad5ce907cd3bdc0c66eed4032ff9d33ad79f5232d7e1b0e85",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::MSK-Block::04-Upper-Limb-Pathology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "d6ef6692ed9d64c836f477ab7a39fe3d529a74119a1fb34fb707a5ed410c9b96",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::08-Large-Intestine"
       ]
     },
     {
@@ -78848,6 +79652,12 @@
         "JerryShen_AnKing_Tags::POM-2::Final::Clinical-Skills",
         "JerryShen_AnKing_Tags::POM-2::Final::Clinical-Skills::Class-Content",
         "JerryShen_AnKing_Tags::SOM-1::MSK-Block::04-Upper-Limb-Pathology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "cfd5817c0db1d0d6745548be8ce082b06f2493476752f7c64f0bc543f30af07b",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::08-Large-Intestine"
       ]
     },
     {
@@ -79297,6 +80107,12 @@
       ]
     },
     {
+      "first_field_hash": "975c8406e55780f900440b694625accdb49332eb082e728005afc39204beeb6d",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::08-Large-Intestine"
+      ]
+    },
+    {
       "first_field_hash": "255daa870a2a87404ec64b9d2f1a24e5fd10c8384527b020dc29cf09078f3121",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::18-Heart-Sounds-&-Clinical-Exam"
@@ -79533,6 +80349,18 @@
       ]
     },
     {
+      "first_field_hash": "58f516baa41cee4ba7c99dfc52a752b913aa15b9859a35a2663073885d6d0409",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::08-Large-Intestine::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "5b5dfc4fd6a52dac8be26f4f10fafcc9bfda3f7c6e342286143668f162634b3e",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::08-Large-Intestine::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "938d79486038fef83e4976916b345ee8f2b5d5a444a27bf4f9dde76f62475d74",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Renal-Block::24-Genetic-Kidney-Diseases::Class-Content"
@@ -79564,6 +80392,12 @@
       ]
     },
     {
+      "first_field_hash": "0914799eca96eb159702eda0368cac6f2853a26856ccc12cec8d1e591af4ea8d",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::01-Testicular-Physiology"
+      ]
+    },
+    {
       "first_field_hash": "3570b36d67d7d37fa96d490fbc65e0cc5bddb697b51550daa176b42a7d2af1da",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::16-Lower-Respiratory-Infections"
@@ -79579,6 +80413,19 @@
       "first_field_hash": "06351bf72cbfc39db07fa7413139a49bc89363073f2e391207097d815c65ffc4",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Renal-Block::18-Kidney-Stones"
+      ]
+    },
+    {
+      "first_field_hash": "8eff211175f6ec81424949c55bf0b77bee49375f604b34354c605c3877841abc",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::08-Large-Intestine"
+      ]
+    },
+    {
+      "first_field_hash": "63af3505763ed8a9be3d1f65569efb4e05c0f393b8dca0f449fc731223ce926b",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::08-Large-Intestine",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::08-Large-Intestine::Class-Content"
       ]
     },
     {
@@ -79627,6 +80474,12 @@
       "first_field_hash": "c3b0fdb4401453a080983abe5b0a5a49e55007e474518bd4a3ed4b97c56bf99c",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::23-Pleural-Disease::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "f15eec22b2c6f16ff705be8c242d492d513aaf0e34453d0d98d30ee7adf2f233",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::08-Large-Intestine"
       ]
     },
     {
@@ -81380,6 +82233,12 @@
       ]
     },
     {
+      "first_field_hash": "4880ac441bf9e73b18bc1e2dcbf9cc6a2b3fafd0830fb3f55431c6c4d31d526d",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::08-Large-Intestine"
+      ]
+    },
+    {
       "first_field_hash": "c26f08c078d1b7c71993bfc0c620fbf2042e99deba981e4222f277abd57afe09",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::05-Stomach::Class-Content"
@@ -81549,6 +82408,18 @@
       ]
     },
     {
+      "first_field_hash": "763f23130a3d940dc2ae161ba434b4388f2f3a6bf19c0ac3a1603e122cea311d",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::08-Large-Intestine"
+      ]
+    },
+    {
+      "first_field_hash": "27218561770a8c4ac10e35b3af68e6871affe4f02811d4d3bdc37ba2a08e800b",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::08-Large-Intestine::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "820b86bbe4a680ea96aa367aacc0a431f2ba55b637d1d4f955dc9c46ccc10f6a",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::18-Heart-Sounds-&-Clinical-Exam"
@@ -81703,6 +82574,12 @@
       ]
     },
     {
+      "first_field_hash": "882d5a32fac7626114d71cd12482b421dbb010c446ba795609390fa6e01c80cf",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::08-Large-Intestine::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "37948036d0a195f7fdb1fb3aa9733861b1f1215f68e3289283a669e707b4a8b8",
       "tags": [
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-2::08-Other-Antibiotics-&-Mycobacteria",
@@ -81845,6 +82722,12 @@
       ]
     },
     {
+      "first_field_hash": "33d4d1e1ad771c78aea9aba1c4da25684b53662a2a85fb99c5e097d3bd97b25b",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::08-Large-Intestine"
+      ]
+    },
+    {
       "first_field_hash": "0575569b6d004535f6ae1a52a369703bde41321614ca0646acdc248d6753465f",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::18-Heart-Sounds-&-Clinical-Exam::Class-Content"
@@ -81982,6 +82865,36 @@
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-1::05-Intro-to-Fungi",
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-1::05-Intro-to-Fungi::Class-Content",
         "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::22-Respiratory-Tract-Case-Studies::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "bac010b51012b59818bb9f3da2674c7191fe5cc3d2e655986ab509c51d2636b6",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::08-Large-Intestine"
+      ]
+    },
+    {
+      "first_field_hash": "0465c1317a3c12717d50e25c5b52ff55af0ef4b6bc1c13cc317948e1ed898ab1",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::08-Large-Intestine"
+      ]
+    },
+    {
+      "first_field_hash": "1a8a922df07bdaa7434e72fbc7a273819e8be47adfee65fa400c9c0c6c2d4379",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::08-Large-Intestine::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "c6ee074761f6ccec8b190ffad9b48bcfaf6c7add36998f5574cf42ce8a9c6975",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::08-Large-Intestine"
+      ]
+    },
+    {
+      "first_field_hash": "fc49ab2dd9c3a51d4cf3b5074ed8fd62892c3f399443944b868bf375668db33b",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::08-Large-Intestine"
       ]
     },
     {
@@ -82772,6 +83685,18 @@
       "first_field_hash": "694577fbd1626e3db269bca27e4ff9a6a08a02627b2236aa297aa6c6d9d893bd",
       "tags": [
         "JerryShen_AnKing_Tags::Immunology::Final::Antibody-Mediated-Autoimmunity"
+      ]
+    },
+    {
+      "first_field_hash": "4aefc6a75b59fda04e8a846f07b5a3fa0be97f20d332e767517102b6fc281963",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::08-Large-Intestine::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "9ef7fe69ebdf1f589c8175ad49e58ba93e8ce61c0557583debd3d8d9a3a4f094",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::08-Large-Intestine"
       ]
     },
     {
@@ -84011,6 +84936,12 @@
       ]
     },
     {
+      "first_field_hash": "63313da21976653524058cbc464b9d353395017beb03e324c32d8a117a4e073b",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::08-Large-Intestine"
+      ]
+    },
+    {
       "first_field_hash": "e86a32b3babe5e4f8e94f22d59ab1c5137294d8e05243b1b7608918d425f635e",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::18-Adrenal-Physiology::Class-Content"
@@ -84671,6 +85602,12 @@
       ]
     },
     {
+      "first_field_hash": "6669bf90f14465904553cd243e50471229757d53708bc9c7ce11aa0ba6a2e5c5",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::08-Large-Intestine"
+      ]
+    },
+    {
       "first_field_hash": "91754ee275dce7bef28d42bc299bd20aafc5d9dffa8483a4c056d9761d6dfa6b",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Renal-Block::20-Nephritic-Syndrome"
@@ -84689,6 +85626,12 @@
       ]
     },
     {
+      "first_field_hash": "9a9bd9afb6a48a3fc681b5f5d3b8789fee7f61bfafc65a26c0dd5f32e2185c32",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::08-Large-Intestine::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "4e9c3249fab18592ff0c4e069629186e67a12e8c4c4d5954ac0eab7916e1a970",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Renal-Block::12-Calcium-Magnesium-&-Phosphate-Regulation::Class-Content"
@@ -84699,6 +85642,12 @@
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::MSK-Block::05-Lower-Limb-Pathology::Class-Content",
         "JerryShen_AnKing_Tags::SOM-1::MSK-Block::09-Geriatric-Orthopedics::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "6ff25c7ef600e654f194a6404d3fe7fce7a1561aba9ad3f159662bd35cf3b286",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::08-Large-Intestine"
       ]
     },
     {
