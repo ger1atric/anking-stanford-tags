@@ -1,14 +1,14 @@
 {
   "schema_version": 1,
   "author": "JerryShen",
-  "description": "large intestine",
-  "created": "2026-10-19T19:19:13.196063+00:00",
-  "updated": "2026-10-19T19:19:13.196063+00:00",
+  "description": "upper gi infections and cancer",
+  "created": "2026-10-21T02:42:43.945209+00:00",
+  "updated": "2026-10-21T02:42:43.945209+00:00",
   "tag_prefix": "JerryShen_AnKing_Tags",
   "tag_hierarchy": [
     "JerryShen_AnKing_Tags",
     "JerryShen_AnKing_Tags::(✏️)-Tagged-by-Jerry-Shen",
-    "JerryShen_AnKing_Tags::(🛠️)-Last-Updated-101926",
+    "JerryShen_AnKing_Tags::(🛠️)-Last-Updated-102026",
     "JerryShen_AnKing_Tags::(🧋)-buymeacoffee.com/ger1atric",
     "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology",
     "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-1-Thorax",
@@ -277,6 +277,8 @@
     "JerryShen_AnKing_Tags::POM-3::Psychiatry::Psychiatric-Interview::Class-Content",
     "JerryShen_AnKing_Tags::POM-4",
     "JerryShen_AnKing_Tags::POM-4::ACS-Skills",
+    "JerryShen_AnKing_Tags::POM-4::ACS-Skills::Abdomen",
+    "JerryShen_AnKing_Tags::POM-4::ACS-Skills::Abdomen::Class-Content",
     "JerryShen_AnKing_Tags::POM-4::ACS-Skills::Cardiovascular-&-Renal",
     "JerryShen_AnKing_Tags::POM-4::ACS-Skills::Cardiovascular-&-Renal::Class-Content",
     "JerryShen_AnKing_Tags::POM-4::Clinical-Reasoning",
@@ -528,6 +530,10 @@
     "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::07-Pancreas::Class-Content",
     "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::08-Large-Intestine",
     "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::08-Large-Intestine::Class-Content",
+    "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::09-Upper-GI-Infections",
+    "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::09-Upper-GI-Infections::Class-Content",
+    "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::10-Hereditary-GI-Cancers",
+    "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::10-Hereditary-GI-Cancers::Class-Content",
     "JerryShen_AnKing_Tags::SOM-2::Renal-Block",
     "JerryShen_AnKing_Tags::SOM-2::Renal-Block::01-Introduction-to-Renal-Physiology",
     "JerryShen_AnKing_Tags::SOM-2::Renal-Block::01-Introduction-to-Renal-Physiology::Class-Content",
@@ -947,6 +953,11 @@
       "date": "2026-10-19T19:19:13.196063+00:00",
       "message": "large intestine",
       "note_count": 165
+    },
+    {
+      "date": "2026-10-21T02:42:43.945209+00:00",
+      "message": "upper gi infections and cancer",
+      "note_count": 328
     }
   ],
   "notes": [
@@ -1140,9 +1151,22 @@
       ]
     },
     {
+      "first_field_hash": "27d7b9cb620265065e8a842293aabe047ef94783daccd080c80bcc51e7fa8cd0",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::09-Upper-GI-Infections::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "c36df9b23b3cf67292b19ac31fd80ac1d1293ba4e13ec7c0e972f0e37b137bb5",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::23-Endocarditis"
+      ]
+    },
+    {
+      "first_field_hash": "f53dce1dd5f41bd4a3adabb7987dd8f3b20ddb15fee6680904675522d5b14e5e",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::09-Upper-GI-Infections",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::09-Upper-GI-Infections::Class-Content"
       ]
     },
     {
@@ -1269,7 +1293,8 @@
     {
       "first_field_hash": "dfd4c3f480496a268793eca15e7d054747c72a65c1a34ea3e268c72f56e901d8",
       "tags": [
-        "JerryShen_AnKing_Tags::Micro-Pharm::Exam-2::09-Misc-Antimicrobials-&-Skin-Infections"
+        "JerryShen_AnKing_Tags::Micro-Pharm::Exam-2::07-β-Lactam-Antibiotics-&-Parasites::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::09-Upper-GI-Infections::Class-Content"
       ]
     },
     {
@@ -1560,6 +1585,24 @@
       ]
     },
     {
+      "first_field_hash": "ed5d1127bd0152ea57cd979d255aec49aff0b8481f8685f83ce1022383cfbdda",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::05-Stomach"
+      ]
+    },
+    {
+      "first_field_hash": "13c20baf352c0293ad9c401715a96acb235c7f1ac1ae337820ade1e7ce8511ea",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::05-Stomach"
+      ]
+    },
+    {
+      "first_field_hash": "1e22812ec9f3bca10aec7a0aad1536ce33d563d7bdf988d89921caaf654281b9",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::05-Stomach"
+      ]
+    },
+    {
       "first_field_hash": "c66c0bebf801af8151b8371e32439b0be5fbf7f11fa03bef0d76a265b289fa70",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::05-Stomach::Class-Content"
@@ -1600,6 +1643,24 @@
       "first_field_hash": "ae133f87b2f3384b5ab8fa296493bb1496f2bb5c3833de7f1e34cb2d7f2bc2b1",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::05-Stomach"
+      ]
+    },
+    {
+      "first_field_hash": "8a698197497269353d54950b10a0fe762e11a05d72718bfc97fff65c5685eef8",
+      "tags": [
+        "JerryShen_AnKing_Tags::POM-4::ACS-Skills::Abdomen"
+      ]
+    },
+    {
+      "first_field_hash": "8b9f69a7dade8ac738545b4b595ec52077fc21d2efc23f219492e54dc2fd1cae",
+      "tags": [
+        "JerryShen_AnKing_Tags::POM-4::ACS-Skills::Abdomen"
+      ]
+    },
+    {
+      "first_field_hash": "fc549a77d680c757a9d8d06bc523e75d3f0fef504048ddafca6544a381ccb6b8",
+      "tags": [
+        "JerryShen_AnKing_Tags::POM-4::ACS-Skills::Abdomen"
       ]
     },
     {
@@ -9535,7 +9596,8 @@
     {
       "first_field_hash": "1cb636ccc64ae2f2cfb0864dfd76d2a6687e7ebe69dc74635eb1439b4fee2c35",
       "tags": [
-        "JerryShen_AnKing_Tags::Molecular-Foundations-&-Genetics::01-Molecular-Foundations"
+        "JerryShen_AnKing_Tags::Molecular-Foundations-&-Genetics::01-Molecular-Foundations",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::10-Hereditary-GI-Cancers::Class-Content"
       ]
     },
     {
@@ -9547,7 +9609,8 @@
     {
       "first_field_hash": "e378eb6dbb4c5af06eed24e669e9a3a0af0c7c9c2c5d4883ce4a6dd3a53f1b56",
       "tags": [
-        "JerryShen_AnKing_Tags::Cancer-Biology::Final::05-Cancer-Genes-&-Pathways"
+        "JerryShen_AnKing_Tags::Cancer-Biology::Final::05-Cancer-Genes-&-Pathways",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::10-Hereditary-GI-Cancers::Class-Content"
       ]
     },
     {
@@ -16010,6 +16073,7 @@
       "first_field_hash": "8dbba71ab4db56eb9533df64b131ab5d65f4d9a63d47578d9a0eea71c564f5da",
       "tags": [
         "JerryShen_AnKing_Tags::POM-3::Clinical-Reasoning::Approach-to-Shock::Class-Content",
+        "JerryShen_AnKing_Tags::POM-4::ACS-Skills::Abdomen::Class-Content",
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::19-Central-&-Peripheral-Control-of-Circulation",
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::19-Central-&-Peripheral-Control-of-Circulation::Class-Content"
       ]
@@ -16058,6 +16122,7 @@
     {
       "first_field_hash": "5f8f0b58b9356eac528ff535749a0b920a801b0462b6c4839e7698a3caa24d05",
       "tags": [
+        "JerryShen_AnKing_Tags::POM-4::ACS-Skills::Abdomen::Class-Content",
         "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::26-Pulmonary-Cases-&-Miscellaneous-Diseases"
       ]
     },
@@ -16096,6 +16161,7 @@
       "first_field_hash": "760e8d1e9936a2c657dacafff4a3fe9c2c7f6757843a1fd0c0e192adedbbd3c4",
       "tags": [
         "JerryShen_AnKing_Tags::POM-3::Clinical-Reasoning::Approach-to-Shock::Class-Content",
+        "JerryShen_AnKing_Tags::POM-4::ACS-Skills::Abdomen::Class-Content",
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::CV-Lab-03-Autonomic-Drugs-&-Clinical-Correlates::Class-Content"
       ]
     },
@@ -16103,6 +16169,7 @@
       "first_field_hash": "c5d266ced2554f32741b5d7e6ddfc9dfb80c1a7f82848859f0a5548ce5178022",
       "tags": [
         "JerryShen_AnKing_Tags::POM-3::Clinical-Reasoning::Approach-to-Shock::Class-Content",
+        "JerryShen_AnKing_Tags::POM-4::ACS-Skills::Abdomen::Class-Content",
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::CV-Lab-03-Autonomic-Drugs-&-Clinical-Correlates"
       ]
     },
@@ -16110,6 +16177,7 @@
       "first_field_hash": "c6a7bc360d5f5a7fb43f450cab4750f52ea609de0c3d0364548db70e2fa338ae",
       "tags": [
         "JerryShen_AnKing_Tags::POM-3::Clinical-Reasoning::Approach-to-Shock::Class-Content",
+        "JerryShen_AnKing_Tags::POM-4::ACS-Skills::Abdomen::Class-Content",
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::CV-Lab-03-Autonomic-Drugs-&-Clinical-Correlates::Class-Content"
       ]
     },
@@ -16138,6 +16206,7 @@
       "first_field_hash": "5fee2317350157e40d49b03afc2c298c593b69736f86fca22c19b745c0c23c7f",
       "tags": [
         "JerryShen_AnKing_Tags::POM-3::Clinical-Reasoning::Approach-to-Shock::Class-Content",
+        "JerryShen_AnKing_Tags::POM-4::ACS-Skills::Abdomen::Class-Content",
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::CV-Lab-03-Autonomic-Drugs-&-Clinical-Correlates::Class-Content"
       ]
     },
@@ -27994,6 +28063,7 @@
     {
       "first_field_hash": "3d9d2524160c572937be2991751ef34fc49d24e736594c05323204a51a60d269",
       "tags": [
+        "JerryShen_AnKing_Tags::POM-4::ACS-Skills::Abdomen::Class-Content",
         "JerryShen_AnKing_Tags::SOM-2::Renal-Block::17-Urinary-Tract-Infections::Class-Content"
       ]
     },
@@ -28207,6 +28277,12 @@
       ]
     },
     {
+      "first_field_hash": "ac60b7323fb75e27694e1390b99624146a739d47682950d61290c529a799797c",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::18-Kidney-Stones"
+      ]
+    },
+    {
       "first_field_hash": "d9d104e71233b415b1007a68b563fafc2111223f147f92bc286940de98ae8ad3",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Renal-Block::18-Kidney-Stones::Class-Content"
@@ -28328,6 +28404,7 @@
     {
       "first_field_hash": "770a6ab4b52bac4ad62d76c5ad7de28002fc5f0a632ab42ac52ddcbd62782b1d",
       "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::09-Upper-GI-Infections::Class-Content",
         "JerryShen_AnKing_Tags::SOM-2::Renal-Block::18-Kidney-Stones::Class-Content"
       ]
     },
@@ -28973,6 +29050,7 @@
       "first_field_hash": "3787d1ef20eff99d410dc4730df89a014315291b456ab61d13a09ca962cbc3d3",
       "tags": [
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-2::07-β-Lactam-Antibiotics-&-Parasites::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::09-Upper-GI-Infections",
         "JerryShen_AnKing_Tags::SOM-2::Renal-Block::15-Renal-&-Bladder-Tumor-Pathology::Class-Content"
       ]
     },
@@ -33590,6 +33668,7 @@
     {
       "first_field_hash": "645bf19d7d58fd41ff37fdfc5e741f1bee62e23648c93c0bad586b6336a89587",
       "tags": [
+        "JerryShen_AnKing_Tags::POM-4::ACS-Skills::Abdomen::Class-Content",
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::10-Autonomic-Physiology-and-Pharmacology",
         "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::24-Sepsis-&-Septic-Shock::Class-Content"
       ]
@@ -34160,7 +34239,7 @@
       "first_field_hash": "2a031d845d81d8519144d4178eb3dd043b6971de8122ecb98beca67bf6153b2a",
       "tags": [
         "JerryShen_AnKing_Tags::(✏️)-Tagged-by-Jerry-Shen",
-        "JerryShen_AnKing_Tags::(🛠️)-Last-Updated-101926",
+        "JerryShen_AnKing_Tags::(🛠️)-Last-Updated-102026",
         "JerryShen_AnKing_Tags::(🧋)-buymeacoffee.com/ger1atric",
         "JerryShen_AnKing_Tags::Biochemistry::Final::02-Oxidative-Phosphorylation::Class-Content"
       ]
@@ -35012,6 +35091,12 @@
       "first_field_hash": "3c1917085d163a8f2cf9fcd0aa9656dd5b14017c1f2b94d1e2f94f195098cfb1",
       "tags": [
         "JerryShen_AnKing_Tags::Neurobiology::Exam-2::Tutorial-1-Cerebrum::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "81b43bcf6e8952dc8184a9bde7a73ecb4d226d710c5300178ceb6cd192b3941d",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::09-Upper-GI-Infections"
       ]
     },
     {
@@ -35978,6 +36063,12 @@
       ]
     },
     {
+      "first_field_hash": "c4636207340d19f354922df0991b294c5e22a8223f2b48034966970a241809c2",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::09-Upper-GI-Infections"
+      ]
+    },
+    {
       "first_field_hash": "069d8dc14779c150d4f0a39b075de61c06c23db7298103120d30cc39885e09cb",
       "tags": [
         "JerryShen_AnKing_Tags::Neurobiology::Exam-2::Tutorial-3-Brainstem",
@@ -36697,6 +36788,12 @@
       "tags": [
         "JerryShen_AnKing_Tags::Neurobiology::Exam-2::Tutorial-3-Brainstem",
         "JerryShen_AnKing_Tags::Neurobiology::Exam-2::Tutorial-3-Brainstem::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "d890cedc65841a3e7b8d2e0ab2b0c63779607b2cd58f870cf3f28a0eb8fe9212",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::09-Upper-GI-Infections::Class-Content"
       ]
     },
     {
@@ -38625,13 +38722,21 @@
       "first_field_hash": "64d099136d8a2794085fe059ca7e5a733eec0f15fdecd68ccf5b8d33def10c86",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::05-Stomach",
-        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::05-Stomach::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::05-Stomach::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::09-Upper-GI-Infections::Class-Content"
       ]
     },
     {
       "first_field_hash": "9e4359b9abe432bdb7fad674f053a62dd337813405d4fefb48ac7b5546a8bc5f",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::05-Stomach"
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::05-Stomach",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::09-Upper-GI-Infections"
+      ]
+    },
+    {
+      "first_field_hash": "b1189ed200bfc22d66e0cc1301b250effa2685f216709dfb363e74368b801ab1",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::09-Upper-GI-Infections::Class-Content"
       ]
     },
     {
@@ -39565,6 +39670,12 @@
       "first_field_hash": "cea7519789d92464f25fb8b08dc1866fa9d2d4f2e2d29f8e6c0ceaa21e88c19a",
       "tags": [
         "JerryShen_AnKing_Tags::Neurobiology::Exam-2::Tutorial-1-Cerebrum"
+      ]
+    },
+    {
+      "first_field_hash": "de27ec4ccb1c1b768e9737f09f96cbe154d0aef8e790dff95f40cd73f6c15eb3",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::09-Upper-GI-Infections"
       ]
     },
     {
@@ -41985,13 +42096,15 @@
     {
       "first_field_hash": "20e0c632a343621337c22e4f15f136a3fda3e2aff16f949909daa52da3ef2987",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::05-Stomach::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::05-Stomach::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::09-Upper-GI-Infections::Class-Content"
       ]
     },
     {
       "first_field_hash": "a48f40e89aedb4fb70ba89bc106068f2784d8ea97c445ff6b1246bf8f2565342",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::05-Stomach"
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::05-Stomach",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::09-Upper-GI-Infections::Class-Content"
       ]
     },
     {
@@ -42009,7 +42122,8 @@
     {
       "first_field_hash": "dd6e82a209cd2623ccf9e1ad26a5d8f80a6d780a700e66690a1cda375445962b",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::05-Stomach"
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::05-Stomach",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::09-Upper-GI-Infections"
       ]
     },
     {
@@ -42021,7 +42135,8 @@
     {
       "first_field_hash": "c612a4ff350a44edc6002fefc94087f05e3c34873ec912b82d4492ae63fe3d80",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::05-Stomach"
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::05-Stomach",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::09-Upper-GI-Infections"
       ]
     },
     {
@@ -42058,38 +42173,50 @@
     {
       "first_field_hash": "bc89408673d18955d6fb18ed2105b271db0235446d7cdb0514161b20d3bb3313",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::05-Stomach::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::05-Stomach::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::09-Upper-GI-Infections::Class-Content"
       ]
     },
     {
       "first_field_hash": "4d54d522076771c92515c8a898006d1f683a47c7ae09b15c863651fe86d15da0",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::05-Stomach::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::05-Stomach::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::09-Upper-GI-Infections::Class-Content"
       ]
     },
     {
       "first_field_hash": "b742541b3e1e3d099d5160eef417f3e2ed9ee558469041079bc53de1d9cec516",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::05-Stomach"
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::05-Stomach",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::09-Upper-GI-Infections::Class-Content"
       ]
     },
     {
       "first_field_hash": "7141596643bf79f1ba346ae62c5c1df9a2033d6c0d5fc508f7d965a32c065b65",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::05-Stomach",
-        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::05-Stomach::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::05-Stomach::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::09-Upper-GI-Infections::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "e81d45b46912089001f8633db4173bc824150030ebd3b25edd2b8ec7cd6ce0ed",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::09-Upper-GI-Infections::Class-Content"
       ]
     },
     {
       "first_field_hash": "29270d9914b94cd476a6067c5427d4f777c5946af74207614ccd56f2a7007bd0",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::05-Stomach::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::05-Stomach::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::09-Upper-GI-Infections::Class-Content"
       ]
     },
     {
       "first_field_hash": "5aaf06db8143235102524b2e726adbc9af6cec2f93b4cb5819bc6ae009646744",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::05-Stomach"
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::05-Stomach",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::09-Upper-GI-Infections::Class-Content"
       ]
     },
     {
@@ -42102,7 +42229,8 @@
       "first_field_hash": "996bf1f203a1f2b4e987a6c1a274f613fec13faa7327b9fc62e923754881d4ab",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::05-Stomach",
-        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::06-Small-Intestine::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::06-Small-Intestine::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::09-Upper-GI-Infections::Class-Content"
       ]
     },
     {
@@ -42127,7 +42255,8 @@
     {
       "first_field_hash": "3ece506f3c3a2ab319f4db20337fd3d783ccfcd7d53f5f19ace537511ffcd479",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::05-Stomach::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::05-Stomach::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::09-Upper-GI-Infections::Class-Content"
       ]
     },
     {
@@ -42207,7 +42336,8 @@
       "first_field_hash": "560379ebb1ced2f73059b79600230099000824b0c2866a1c2617f55c6f973bf1",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::05-Stomach",
-        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::05-Stomach::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::05-Stomach::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::09-Upper-GI-Infections"
       ]
     },
     {
@@ -42765,6 +42895,12 @@
       ]
     },
     {
+      "first_field_hash": "ec3e2754071eb4cd75e45f2fec35a8e724536ac6530d30d467ed2086e8b1cba4",
+      "tags": [
+        "JerryShen_AnKing_Tags::POM-4::ACS-Skills::Abdomen::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "cdbd6582ecd2acd7bace4d4b73dd99484e496d36905125be9fff82a54b8b27b9",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::08-Large-Intestine::Class-Content"
@@ -43162,6 +43298,7 @@
     {
       "first_field_hash": "2fc4facc0870bb2b49184411c62f8c104bd79d295dd8ad6c3d26450d6a29e306",
       "tags": [
+        "JerryShen_AnKing_Tags::POM-4::ACS-Skills::Abdomen::Class-Content",
         "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::08-Large-Intestine::Class-Content"
       ]
     },
@@ -43240,25 +43377,97 @@
     {
       "first_field_hash": "2b9703062ad5365bfe8d4753ce0981a57de2444337e304ea993143706fa3584b",
       "tags": [
-        "JerryShen_AnKing_Tags::Cancer-Biology::Final::Lab-01-Cancer-Case-Studies::Class-Content"
+        "JerryShen_AnKing_Tags::Cancer-Biology::Final::Lab-01-Cancer-Case-Studies::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::10-Hereditary-GI-Cancers::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "e9791216ad617101c4fc2feb0ae3fea5787942d428982c29192381098b3e3a44",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::10-Hereditary-GI-Cancers"
+      ]
+    },
+    {
+      "first_field_hash": "6baec4b85a9faa35c3007ca16fe3cbf72785595e2786642002226740fc107ed7",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::10-Hereditary-GI-Cancers"
       ]
     },
     {
       "first_field_hash": "231219475ec2b17adf01fa54127bfa321aa00d7a601ccc6d685125b9143d8ece",
       "tags": [
-        "JerryShen_AnKing_Tags::Cancer-Biology::Final::Lab-01-Cancer-Case-Studies::Class-Content"
+        "JerryShen_AnKing_Tags::Cancer-Biology::Final::Lab-01-Cancer-Case-Studies::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::10-Hereditary-GI-Cancers"
+      ]
+    },
+    {
+      "first_field_hash": "596ba7fcd0ebe1c2ca3d2c484a08936256d3d3d9ad615f6fd7eca16add5755dd",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::10-Hereditary-GI-Cancers"
+      ]
+    },
+    {
+      "first_field_hash": "15be2c9e1bbab9edc641daa7512b6907270d7c3ab2ec43847a13902b9f0b3f5f",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::10-Hereditary-GI-Cancers"
+      ]
+    },
+    {
+      "first_field_hash": "4f0bbd804c96ee66038321419030283712c9be0e5ad2670a6e87bfe6e0f903c5",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::10-Hereditary-GI-Cancers",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::10-Hereditary-GI-Cancers::Class-Content"
       ]
     },
     {
       "first_field_hash": "ac08949a57c2c36f1714754529604379478a739d44acabf6842b74f3d64b3de0",
       "tags": [
-        "JerryShen_AnKing_Tags::Cancer-Biology::Final::Lab-01-Cancer-Case-Studies::Class-Content"
+        "JerryShen_AnKing_Tags::Cancer-Biology::Final::Lab-01-Cancer-Case-Studies::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::10-Hereditary-GI-Cancers"
+      ]
+    },
+    {
+      "first_field_hash": "546ae450933c4590d2616fe25318093382f46158f5308473ad7fd27015e1c173",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::10-Hereditary-GI-Cancers"
+      ]
+    },
+    {
+      "first_field_hash": "20e2e943241aed0e9099e48eaa9c383b000ff09b3adb3253ccc2500813d1314d",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::10-Hereditary-GI-Cancers"
+      ]
+    },
+    {
+      "first_field_hash": "d4665fc3a5ded8266b90c838a8112d1cd7b6466bbce47d2670e28d9851a74d4c",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::10-Hereditary-GI-Cancers::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "bca44f6e8eda7bbb9f9978965014fa4bb655474eb260da675cc8d26d964ce605",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::10-Hereditary-GI-Cancers::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "db69dcedb5bd1b81697cbcbb8b8a3f9624c12f4193ca9fd1a326dc982ab74601",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::10-Hereditary-GI-Cancers",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::10-Hereditary-GI-Cancers::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "533772a98594f83708801e21aaa1284bc4ebae74336f330a8cb811a9d6c50b48",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::10-Hereditary-GI-Cancers::Class-Content"
       ]
     },
     {
       "first_field_hash": "a2f25ada1b3e8660b303ce399811eeb3e2ecab4a2142df3665c843b0e77143da",
       "tags": [
-        "JerryShen_AnKing_Tags::Cancer-Biology::Final::05-Cancer-Genes-&-Pathways::Class-Content"
+        "JerryShen_AnKing_Tags::Cancer-Biology::Final::05-Cancer-Genes-&-Pathways::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::10-Hereditary-GI-Cancers::Class-Content"
       ]
     },
     {
@@ -43268,9 +43477,28 @@
       ]
     },
     {
+      "first_field_hash": "cb7af504c73a40f2b4a762baaf9c1711770c8373c62ce85dbfd0b86a42690440",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::10-Hereditary-GI-Cancers"
+      ]
+    },
+    {
+      "first_field_hash": "690da95652cdc58ccb0766df8a5a0e904542eae3bec02bb4801e514632b9f0e5",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::10-Hereditary-GI-Cancers"
+      ]
+    },
+    {
+      "first_field_hash": "a4fb9485f589de3b0c6a7ea792a366817162faf1c0a32c59e095c79a321b2908",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::10-Hereditary-GI-Cancers"
+      ]
+    },
+    {
       "first_field_hash": "19a87fa9151897c68445a42f13bdcfd2cac0e59ecbdea1c25d1b657ae681d050",
       "tags": [
-        "JerryShen_AnKing_Tags::Cancer-Biology::Final::Lab-01-Cancer-Case-Studies"
+        "JerryShen_AnKing_Tags::Cancer-Biology::Final::Lab-01-Cancer-Case-Studies",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::10-Hereditary-GI-Cancers"
       ]
     },
     {
@@ -43280,52 +43508,132 @@
       ]
     },
     {
+      "first_field_hash": "1a5e415019b671e76c4306c81a6681be5831626dee26d51ab513b41a90cae0f9",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::10-Hereditary-GI-Cancers"
+      ]
+    },
+    {
+      "first_field_hash": "945e631e9be0fd598d49ee270cb61861839ab5f49edef375b61ead0b81f22cd2",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::10-Hereditary-GI-Cancers"
+      ]
+    },
+    {
+      "first_field_hash": "e3b74ab656a555f62ac9ad6700e0db2207b1c01a4fa0b71b2a41f4c102d5a1a1",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::10-Hereditary-GI-Cancers"
+      ]
+    },
+    {
       "first_field_hash": "e1db8b04fb61d6b89da03665ffcdc3b970750c6d293bb9bad902f6d2de333fb1",
       "tags": [
-        "JerryShen_AnKing_Tags::Cancer-Biology::Final::05-Cancer-Genes-&-Pathways::Class-Content"
+        "JerryShen_AnKing_Tags::Cancer-Biology::Final::05-Cancer-Genes-&-Pathways::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::10-Hereditary-GI-Cancers::Class-Content"
       ]
     },
     {
       "first_field_hash": "ef2b35cecd0c1f068dc2273bbb2eb7991d09c8f35a3359bb5d45bad3ca4d99bb",
       "tags": [
-        "JerryShen_AnKing_Tags::Molecular-Foundations-&-Genetics::02-Genetics::08.4-Cancer-Genetics::Class-Content"
+        "JerryShen_AnKing_Tags::Molecular-Foundations-&-Genetics::02-Genetics::08.4-Cancer-Genetics::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::10-Hereditary-GI-Cancers::Class-Content"
       ]
     },
     {
       "first_field_hash": "4df6112b12515189af74de2312685c95c530944eda9f9ad962ad8a717b0101c4",
       "tags": [
-        "JerryShen_AnKing_Tags::Molecular-Foundations-&-Genetics::02-Genetics::08.4-Cancer-Genetics::Class-Content"
+        "JerryShen_AnKing_Tags::Molecular-Foundations-&-Genetics::02-Genetics::08.4-Cancer-Genetics::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::10-Hereditary-GI-Cancers::Class-Content"
       ]
     },
     {
       "first_field_hash": "97409325b33fdb969d37f722317b681429413a7cd02b4cb7934abfd95ca95521",
       "tags": [
-        "JerryShen_AnKing_Tags::Cancer-Biology::Final::05-Cancer-Genes-&-Pathways::Class-Content"
+        "JerryShen_AnKing_Tags::Cancer-Biology::Final::05-Cancer-Genes-&-Pathways::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::10-Hereditary-GI-Cancers::Class-Content"
       ]
     },
     {
       "first_field_hash": "2aae696b5e0636a1c66d3e73903810f46cba220944fd0cd6013923bcabd3c8be",
       "tags": [
-        "JerryShen_AnKing_Tags::Molecular-Foundations-&-Genetics::02-Genetics::08.4-Cancer-Genetics"
+        "JerryShen_AnKing_Tags::Molecular-Foundations-&-Genetics::02-Genetics::08.4-Cancer-Genetics",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::10-Hereditary-GI-Cancers"
       ]
     },
     {
       "first_field_hash": "cedcf01631dbb5786372c81d5457b90263d4a9b8ef4fa2ea8cae2796d0de252d",
       "tags": [
-        "JerryShen_AnKing_Tags::Molecular-Foundations-&-Genetics::02-Genetics::08.4-Cancer-Genetics"
+        "JerryShen_AnKing_Tags::Molecular-Foundations-&-Genetics::02-Genetics::08.4-Cancer-Genetics",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::10-Hereditary-GI-Cancers"
+      ]
+    },
+    {
+      "first_field_hash": "44cb80dce317695492552d3931ad83275fa14aa17f7aea85d563df89db1b2ded",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::10-Hereditary-GI-Cancers::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "a5f5fc46dc9487efb9fd2fe20873d59260f4aad1fa8f638422d028cacb47e52a",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::10-Hereditary-GI-Cancers::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "8e515e3a69b240fda55c95a84a0057a1bf01c896369f9647f15a35b605f202a5",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::10-Hereditary-GI-Cancers::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "69d22cff13394291cf9238b9b2cd4bb7886c3867c56143b996dfe440a66728b5",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::10-Hereditary-GI-Cancers::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "d4cf83ee9b1559b3de740a3a857bc34738b6c4e6b79a7d99f881f61ffb8e89b0",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::10-Hereditary-GI-Cancers::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "900c06f837631d7aca6d7385121e23354a72790645f146f75f8b6eb0391a5a87",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::10-Hereditary-GI-Cancers::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "97d7c9780d6a6b35818e64c55d51844700a5343696d8f18b7189c9feef39334d",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::10-Hereditary-GI-Cancers::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "6f159f594f0db66bd2b2a1cfce68349b06fb268e45152bcb42592651b049e019",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::10-Hereditary-GI-Cancers::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "dab0c46149cfd02971d74c49b8871eb6d1b03e978c378301323e1306b9703f94",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::10-Hereditary-GI-Cancers::Class-Content"
       ]
     },
     {
       "first_field_hash": "4dfd5c83fdfba5bb14b777efce8baa0b6387029cda9fdef3e9e92a0aa70a33d2",
       "tags": [
         "JerryShen_AnKing_Tags::Cancer-Biology::Final::05-Cancer-Genes-&-Pathways",
-        "JerryShen_AnKing_Tags::Molecular-Foundations-&-Genetics::02-Genetics::08.4-Cancer-Genetics"
+        "JerryShen_AnKing_Tags::Molecular-Foundations-&-Genetics::02-Genetics::08.4-Cancer-Genetics",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::10-Hereditary-GI-Cancers"
       ]
     },
     {
       "first_field_hash": "b193a8820240ee4e60f1f91e5a8f27afbd1dec5bb1d0409068817004b539729e",
       "tags": [
-        "JerryShen_AnKing_Tags::Molecular-Foundations-&-Genetics::01-Molecular-Foundations::02-DNA-Replication-and-Repair::Class-Content"
+        "JerryShen_AnKing_Tags::Molecular-Foundations-&-Genetics::01-Molecular-Foundations::02-DNA-Replication-and-Repair::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::10-Hereditary-GI-Cancers::Class-Content"
       ]
     },
     {
@@ -43337,38 +43645,50 @@
     {
       "first_field_hash": "4d357840ca6b943030448b6851851177895e86834d8ea7508b3289916b4118cc",
       "tags": [
-        "JerryShen_AnKing_Tags::Cancer-Biology::Final::05-Cancer-Genes-&-Pathways"
+        "JerryShen_AnKing_Tags::Cancer-Biology::Final::05-Cancer-Genes-&-Pathways",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::10-Hereditary-GI-Cancers::Class-Content"
       ]
     },
     {
       "first_field_hash": "68079fe78aab8d428f6b318040bfb671fe30c09a9b98d6f11eb5b0d81f692adf",
       "tags": [
-        "JerryShen_AnKing_Tags::Molecular-Foundations-&-Genetics::01-Molecular-Foundations::02-DNA-Replication-and-Repair::Class-Content"
+        "JerryShen_AnKing_Tags::Molecular-Foundations-&-Genetics::01-Molecular-Foundations::02-DNA-Replication-and-Repair::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::10-Hereditary-GI-Cancers::Class-Content"
       ]
     },
     {
       "first_field_hash": "546170007480e2318895cf81ae1ccf4b3de52a1d8a42553845675a06c49a8ff4",
       "tags": [
-        "JerryShen_AnKing_Tags::Molecular-Foundations-&-Genetics::02-Genetics::08.4-Cancer-Genetics::Class-Content"
+        "JerryShen_AnKing_Tags::Molecular-Foundations-&-Genetics::02-Genetics::08.4-Cancer-Genetics::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::10-Hereditary-GI-Cancers::Class-Content"
       ]
     },
     {
       "first_field_hash": "fbdaa32a77acc4a9ea49c1aa167e5447e199686b9e0d83f929fc96a4f9e6c701",
       "tags": [
-        "JerryShen_AnKing_Tags::Molecular-Foundations-&-Genetics::02-Genetics::08.4-Cancer-Genetics::Class-Content"
+        "JerryShen_AnKing_Tags::Molecular-Foundations-&-Genetics::02-Genetics::08.4-Cancer-Genetics::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::10-Hereditary-GI-Cancers::Class-Content"
       ]
     },
     {
       "first_field_hash": "e6d70c9d1c8deee09c41f4859b51ebffb1b1339661d02b8319a559e691c6c974",
       "tags": [
         "JerryShen_AnKing_Tags::Cancer-Biology::Final::05-Cancer-Genes-&-Pathways",
-        "JerryShen_AnKing_Tags::Cancer-Biology::Final::Lab-01-Cancer-Case-Studies"
+        "JerryShen_AnKing_Tags::Cancer-Biology::Final::Lab-01-Cancer-Case-Studies",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::10-Hereditary-GI-Cancers"
+      ]
+    },
+    {
+      "first_field_hash": "d5fe630c3cef929ff6fed7d2ffc7f74bf5e5703b7e94ba187bf527266f9be1a7",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::10-Hereditary-GI-Cancers"
       ]
     },
     {
       "first_field_hash": "b107d890c42e9a9073521068bfa76f430723a4b5ac2ed9bcb1b224af1248e00f",
       "tags": [
-        "JerryShen_AnKing_Tags::Molecular-Foundations-&-Genetics::02-Genetics::08.4-Cancer-Genetics::Class-Content"
+        "JerryShen_AnKing_Tags::Molecular-Foundations-&-Genetics::02-Genetics::08.4-Cancer-Genetics::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::10-Hereditary-GI-Cancers"
       ]
     },
     {
@@ -43378,9 +43698,16 @@
       ]
     },
     {
+      "first_field_hash": "39dc6c518dc7c718b6b41d8150bcc2cec17fdb80acd16b065a73b4294a539fc5",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::10-Hereditary-GI-Cancers::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "419c1da4db9d19271a9e82d31ac9c4c8573ca2091fb90d220a800173ebc62124",
       "tags": [
-        "JerryShen_AnKing_Tags::Cancer-Biology::Final::Lab-01-Cancer-Case-Studies"
+        "JerryShen_AnKing_Tags::Cancer-Biology::Final::Lab-01-Cancer-Case-Studies",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::10-Hereditary-GI-Cancers"
       ]
     },
     {
@@ -43396,10 +43723,22 @@
       ]
     },
     {
+      "first_field_hash": "f92840a9a5acc99e1a198d70a25078526c29b589bd3e4c0a3296040e29da5771",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::10-Hereditary-GI-Cancers"
+      ]
+    },
+    {
       "first_field_hash": "642b1279e63865b64e4cfb052978649c182a62d8120c607b18c4f398812ef830",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::08-Large-Intestine",
         "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::08-Large-Intestine::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "7d7e9867152ff4f6042f5da9aae71507b50a8d259ede5641a146d79dfadde6cc",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::10-Hereditary-GI-Cancers"
       ]
     },
     {
@@ -43425,6 +43764,12 @@
       "first_field_hash": "9e663a7fe0544602a86d180d3ba7748353b22b24b46c3da0c9ec3ee1283653d4",
       "tags": [
         "JerryShen_AnKing_Tags::Cancer-Biology::Final::Lab-01-Cancer-Case-Studies::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "43ffb2fc9ff3b76cdebd0455229f1e78849f688ea0e6529a398ba320d2ca3ff5",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::10-Hereditary-GI-Cancers"
       ]
     },
     {
@@ -43548,13 +43893,15 @@
     {
       "first_field_hash": "2d76b49cbbc73d9a44e2dce57c6be4d7d95549ae79cf7a554d1257c9f0a4858e",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::07-Pancreas"
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::07-Pancreas",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::07-Pancreas::Class-Content"
       ]
     },
     {
       "first_field_hash": "a553dfea2ac31c25b6095c8fce9414363585e9922ade749804738fa06ac5bf75",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::07-Pancreas"
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::07-Pancreas",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::07-Pancreas::Class-Content"
       ]
     },
     {
@@ -43767,6 +44114,18 @@
       "first_field_hash": "ebd455336bab5083d262bd1fb7585c0816c144c47fc9c0d7e46c9dcf83d9b274",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Renal-Block::20-Nephritic-Syndrome"
+      ]
+    },
+    {
+      "first_field_hash": "ae693f510f847041771e71c3ce509553ad627bb18c06dd654de4ff6c2a743417",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::10-Hereditary-GI-Cancers::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "1344a649fe79dfcec6853762b55cb25eb4033eda4805072cbf62e79921b1c431",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::10-Hereditary-GI-Cancers::Class-Content"
       ]
     },
     {
@@ -44104,6 +44463,12 @@
       "first_field_hash": "269d067496bf6ffb19737c9ba41f71ce7127fe2e688d2bffffe7ea4a4f7cc7c4",
       "tags": [
         "JerryShen_AnKing_Tags::POM-2::Final::Clinical-Skills::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "7d6df24332d41d0ad07df2411ea4cd0865a169c21165cb847810d786528a56fa",
+      "tags": [
+        "JerryShen_AnKing_Tags::POM-4::ACS-Skills::Abdomen::Class-Content"
       ]
     },
     {
@@ -45937,15 +46302,46 @@
       ]
     },
     {
+      "first_field_hash": "bdfe43e0fa79335b7d68385c764b6e01323fbeae870010495d135af7c2b68ce1",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::09-Upper-GI-Infections"
+      ]
+    },
+    {
       "first_field_hash": "da5ab98750467c084b4257f724c816fc7ca528169bc8db3c55173400536f62d7",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::10-Autonomic-Physiology-and-Pharmacology::Class-Content"
       ]
     },
     {
+      "first_field_hash": "2fc8c5ab68ead8676515edd96a0fc0039d2f155c34cadbac063f1185004f29fd",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::09-Upper-GI-Infections"
+      ]
+    },
+    {
+      "first_field_hash": "e6eea164a3cf53641115f4e890a66a91508c040e78e4621bfbc657a4629b49c1",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::09-Upper-GI-Infections"
+      ]
+    },
+    {
+      "first_field_hash": "dd7144cca11b264774e4dbe5720ed0aaaaab0d7eb0698afb0f4742456d4cb3b9",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::09-Upper-GI-Infections"
+      ]
+    },
+    {
+      "first_field_hash": "9dfc0fdb010949a30b973b25ba434a6baefbc236cb4d737b089c6eb4b78a2260",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::09-Upper-GI-Infections"
+      ]
+    },
+    {
       "first_field_hash": "6a24261b3fc44297ff23cab35ff0cf44003ef8c4fa136aaa842410c91fad109c",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::10-Autonomic-Physiology-and-Pharmacology::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::10-Autonomic-Physiology-and-Pharmacology::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::09-Upper-GI-Infections::Class-Content"
       ]
     },
     {
@@ -46331,12 +46727,20 @@
     {
       "first_field_hash": "f18d2a580e8bc2962533f63a631ccd5300fc5188f37827dd2de22ac70fa26d4d",
       "tags": [
-        "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-3-Abdomen::Anatomy::Class-Content"
+        "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-3-Abdomen::Anatomy::Class-Content",
+        "JerryShen_AnKing_Tags::POM-4::ACS-Skills::Abdomen::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "ea1dd12c78668ccd54d6ca96aa03829a232a512dae239bad2d8d006c13dcd9ef",
+      "tags": [
+        "JerryShen_AnKing_Tags::POM-4::ACS-Skills::Abdomen"
       ]
     },
     {
       "first_field_hash": "e5f122da849ad73acfe9ee2b31666c155860e80b521d337e3d9be278417513b6",
       "tags": [
+        "JerryShen_AnKing_Tags::POM-4::ACS-Skills::Abdomen::Class-Content",
         "JerryShen_AnKing_Tags::POM-4::Clinical-Reasoning::Approach-to-Edema",
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::36-Lymphatics"
       ]
@@ -46344,7 +46748,32 @@
     {
       "first_field_hash": "3863ec7f9db76782e3584c592eeecf58074d463a7acfffbd1f42288d5ad0c7f9",
       "tags": [
-        "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-3-Abdomen::Anatomy::Class-Content"
+        "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-3-Abdomen::Anatomy::Class-Content",
+        "JerryShen_AnKing_Tags::POM-4::ACS-Skills::Abdomen::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "9b592efefb8d71c4460e09d9272d9e8edd1fe51041ad57c8884eec9959325d92",
+      "tags": [
+        "JerryShen_AnKing_Tags::POM-4::ACS-Skills::Abdomen::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "8e6abfbb728e198f8f4ef273145a5f2791ec50c05a12a69d501175d184dcc90f",
+      "tags": [
+        "JerryShen_AnKing_Tags::POM-4::ACS-Skills::Abdomen::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "16f97cb942957bd0d3ac58842137e825e4f30d130f71f27a88ef2a332c3babbb",
+      "tags": [
+        "JerryShen_AnKing_Tags::POM-4::ACS-Skills::Abdomen"
+      ]
+    },
+    {
+      "first_field_hash": "ba71c776f0a649d187d47e4a23f516e0fd5c3bf7d4a153a0f146b9ea1bf78302",
+      "tags": [
+        "JerryShen_AnKing_Tags::POM-4::ACS-Skills::Abdomen"
       ]
     },
     {
@@ -46356,12 +46785,14 @@
     {
       "first_field_hash": "21f6716b236056c03c65054390ff0fbff778a5f7c2cfdb8064f9654c26f9e0fd",
       "tags": [
+        "JerryShen_AnKing_Tags::POM-4::ACS-Skills::Abdomen::Class-Content",
         "JerryShen_AnKing_Tags::POM-4::Clinical-Reasoning::Approach-to-Edema"
       ]
     },
     {
       "first_field_hash": "65ddb8458f2d9604a786cb70bdb397bf3f84487c35d4816edc5a8a93cfa3d296",
       "tags": [
+        "JerryShen_AnKing_Tags::POM-4::ACS-Skills::Abdomen::Class-Content",
         "JerryShen_AnKing_Tags::POM-4::Clinical-Reasoning::Approach-to-Edema::Class-Content"
       ]
     },
@@ -49923,19 +50354,22 @@
       "first_field_hash": "6c8ab40bc93e5fbf2db85999918dd5f141b1ee972d610b87547d74d5452106fe",
       "tags": [
         "JerryShen_AnKing_Tags::Immunology::Final::Antibody-Mediated-Autoimmunity",
-        "JerryShen_AnKing_Tags::Neurobiology::Exam-2::Lec-PNS-Disorders::Class-Content"
+        "JerryShen_AnKing_Tags::Neurobiology::Exam-2::Lec-PNS-Disorders::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::09-Upper-GI-Infections::Class-Content"
       ]
     },
     {
       "first_field_hash": "751e817e6192fa98135f21e2eb103e50165a9870a29a7e34820b5adb9dadda8c",
       "tags": [
-        "JerryShen_AnKing_Tags::Neurobiology::Exam-2::Lec-PNS-Disorders::Class-Content"
+        "JerryShen_AnKing_Tags::Neurobiology::Exam-2::Lec-PNS-Disorders::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::09-Upper-GI-Infections::Class-Content"
       ]
     },
     {
       "first_field_hash": "a4c66886bd1d50cf5d3a2eb6369acd072c9b3c914d24fe4e851a8d8dead79f89",
       "tags": [
-        "JerryShen_AnKing_Tags::Neurobiology::Exam-2::Lec-PNS-Disorders"
+        "JerryShen_AnKing_Tags::Neurobiology::Exam-2::Lec-PNS-Disorders",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::09-Upper-GI-Infections::Class-Content"
       ]
     },
     {
@@ -50393,13 +50827,15 @@
     {
       "first_field_hash": "c13dee00a80948aeab37d7cecfa4b7ab61ca3ab9173e5993252ecfb008f19d3e",
       "tags": [
-        "JerryShen_AnKing_Tags::Cancer-Biology::Final::Lab-02-Cancer-Tumor-Board::Class-Content"
+        "JerryShen_AnKing_Tags::Cancer-Biology::Final::Lab-02-Cancer-Tumor-Board::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::09-Upper-GI-Infections"
       ]
     },
     {
       "first_field_hash": "1e78848bc1757259317a36d740f60c75d03601c7a7e17be613c16040d9409d4b",
       "tags": [
-        "JerryShen_AnKing_Tags::Cancer-Biology::Final::Lab-02-Cancer-Tumor-Board::Class-Content"
+        "JerryShen_AnKing_Tags::Cancer-Biology::Final::Lab-02-Cancer-Tumor-Board::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::09-Upper-GI-Infections::Class-Content"
       ]
     },
     {
@@ -51127,6 +51563,13 @@
       "first_field_hash": "33e49f216cbd6ccbeee716bbb2c327080d6fe6aead1e6fd7a059d15384b50884",
       "tags": [
         "JerryShen_AnKing_Tags::POM-1::Final::Public-Health::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "b6b6e71806f6660a2041591a56dc226694ff9abc4c9e025dd334bfe342da4950",
+      "tags": [
+        "JerryShen_AnKing_Tags::Micro-Pharm::Exam-2::09-Misc-Antimicrobials-&-Skin-Infections",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::09-Upper-GI-Infections"
       ]
     },
     {
@@ -52468,7 +52911,8 @@
       "first_field_hash": "bb4b6a928a33d1fe2bf876a43449ae17240416de456eddb32d8c62c5afda3e16",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::05-Stomach",
-        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::05-Stomach::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::05-Stomach::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::09-Upper-GI-Infections::Class-Content"
       ]
     },
     {
@@ -53198,6 +53642,12 @@
       "first_field_hash": "61a156da1937fa6ed4096b0c0e7b3662f11d852203898180e0cd983b45a54435",
       "tags": [
         "JerryShen_AnKing_Tags::Cancer-Biology::Final::03-Intro-to-Cancer-Biology"
+      ]
+    },
+    {
+      "first_field_hash": "93cc7357acad24443c3290444b8cb3ffe157bf9c7603c52e075aab6e3795dddc",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::10-Hereditary-GI-Cancers"
       ]
     },
     {
@@ -56843,6 +57293,12 @@
       ]
     },
     {
+      "first_field_hash": "a7013b9205328719504ec00c940c838367b6d12242caf6a586600bef09af2af2",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::09-Upper-GI-Infections::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "2786de0402c690a1056068629557b1195e07f0dd0325e4d53d17b642021b5216",
       "tags": [
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-1::03-C.diff-&-Pseudomonas::Class-Content"
@@ -56929,6 +57385,12 @@
       ]
     },
     {
+      "first_field_hash": "c141a99a3fd9abba84e14408eef697f7e8fe1a648c8970e59860e818e9070f85",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::09-Upper-GI-Infections::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "675fc032af5951766f20a42eff9ec08425af03bfd4c5c1551a80e083e4ada4ff",
       "tags": [
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-2::08-Other-Antibiotics-&-Mycobacteria"
@@ -56959,6 +57421,12 @@
       ]
     },
     {
+      "first_field_hash": "acf954c32a09256b8c8f2c43f9915eb3bb2506bafda64e50190d5addef9aed33",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::09-Upper-GI-Infections"
+      ]
+    },
+    {
       "first_field_hash": "e03e6aa7671818ab6e61155102b8bb51087e3593a9aa6231e04e786dd55bc7fe",
       "tags": [
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-1::02-S.pyogenes-&-E.coli"
@@ -56971,6 +57439,13 @@
       ]
     },
     {
+      "first_field_hash": "d782ffa4c01bb4f2ec1f054f078cbc72154e99dbc5946cad1bb5d04bb0b4b200",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::09-Upper-GI-Infections",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::09-Upper-GI-Infections::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "9e2bb799f79702a13d55f1c39ebe55367aedd9044c161a60c98b6c64b8cbb9f6",
       "tags": [
         "JerryShen_AnKing_Tags::Immunology::Final::Complement"
@@ -56980,6 +57455,26 @@
       "first_field_hash": "6ea06982cb4a70a79be2800a31dafd37ddc9d3f2818b27148283e1b06e726863",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::24-Sepsis-&-Septic-Shock"
+      ]
+    },
+    {
+      "first_field_hash": "d543a7ae3e8a1ef16234df2acdc9c9e235bf541ee400a206d8fd025244411f3a",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::09-Upper-GI-Infections"
+      ]
+    },
+    {
+      "first_field_hash": "8ffa769710f885447420a2d038a4c77100ae39e343da6c2040f54727f5640dd5",
+      "tags": [
+        "JerryShen_AnKing_Tags::Micro-Pharm::Exam-2::09-Misc-Antimicrobials-&-Skin-Infections",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::09-Upper-GI-Infections::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "f8a9936fd3034fd5e24b709321ea1d536224de0d91e4b7f342a37ef5fbe2b5cf",
+      "tags": [
+        "JerryShen_AnKing_Tags::Micro-Pharm::Exam-2::09-Misc-Antimicrobials-&-Skin-Infections",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::09-Upper-GI-Infections"
       ]
     },
     {
@@ -56998,6 +57493,12 @@
       "first_field_hash": "bb2330d117ca182cf40eea86e68da7e4157a9b18a004f8b8e0d3847d454a2e3d",
       "tags": [
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-2::09-Misc-Antimicrobials-&-Skin-Infections::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "c197e4f619b4e7eae07b56b4838ea0e1f0ace3415fee975f61cdbbe17b87a60f",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::09-Upper-GI-Infections::Class-Content"
       ]
     },
     {
@@ -57094,7 +57595,8 @@
     {
       "first_field_hash": "0202fa8d9823676dd980b3054b9895da2870d9b405a1a35075fd065914ebadb8",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::05-Stomach"
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::05-Stomach",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::09-Upper-GI-Infections::Class-Content"
       ]
     },
     {
@@ -57777,6 +58279,7 @@
     {
       "first_field_hash": "a53d7d93b479517f6685b76bd332180a7ab49ff5885650fb7273ae9c22302552",
       "tags": [
+        "JerryShen_AnKing_Tags::POM-4::ACS-Skills::Abdomen::Class-Content",
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::19-Central-&-Peripheral-Control-of-Circulation"
       ]
     },
@@ -58042,7 +58545,8 @@
     {
       "first_field_hash": "9d2d3aacfceef726eafcafd3f5bf5d8c668ff2dbd86b72c582d613ac5cc6ca2e",
       "tags": [
-        "JerryShen_AnKing_Tags::Biochemistry::Final::05-Nitrogen-Metabolism"
+        "JerryShen_AnKing_Tags::Biochemistry::Final::05-Nitrogen-Metabolism",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::09-Upper-GI-Infections::Class-Content"
       ]
     },
     {
@@ -59046,6 +59550,12 @@
       ]
     },
     {
+      "first_field_hash": "f9ead815845580cee8e84161686f84857b26bb20d8a78167174263b16ba62e71",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::09-Upper-GI-Infections"
+      ]
+    },
+    {
       "first_field_hash": "023c865a75805afa918ffb8438b5ff9200c2fb1b7454f42d74c588ed763d1b3d",
       "tags": [
         "JerryShen_AnKing_Tags::Immunology::Final::B-cells"
@@ -59055,6 +59565,18 @@
       "first_field_hash": "50e0f4130fe5ea1c496dcd19660c7b2a056a38ca310c26d11b8d2c9865ed6e24",
       "tags": [
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-1::02-S.pyogenes-&-E.coli"
+      ]
+    },
+    {
+      "first_field_hash": "e7aaea72f1fcd90f761981939bcaf601bdddd48cdd95ea5807bfc597f47358c9",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::09-Upper-GI-Infections"
+      ]
+    },
+    {
+      "first_field_hash": "18d6add60361944fcc308964072e8eb36c891b4bd2a40e8f294c6578678be9cd",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::09-Upper-GI-Infections::Class-Content"
       ]
     },
     {
@@ -59256,6 +59778,12 @@
       ]
     },
     {
+      "first_field_hash": "b3b2f57041902b517507fea631a6593b5eed526347651d6f38b8714bb4679379",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::09-Upper-GI-Infections::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "dc669a241126ce6ce63b44cfdc40415e7f616e646aa6a0a75f186866917dfa70",
       "tags": [
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-2::07-β-Lactam-Antibiotics-&-Parasites"
@@ -59363,6 +59891,12 @@
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Renal-Block::17-Urinary-Tract-Infections",
         "JerryShen_AnKing_Tags::SOM-2::Renal-Block::17-Urinary-Tract-Infections::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "0ae79adb05015cd18b0025725e6eca4027cde96fe7629941f1c2adaeffe0f3e9",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::09-Upper-GI-Infections"
       ]
     },
     {
@@ -60118,7 +60652,8 @@
       "first_field_hash": "be06bb4ed27b476e25551dd1b0a14410b60cf252e689d9237cb2ab70cba1aced",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::16-Lower-Respiratory-Infections",
-        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::02-GI-Hormones::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::02-GI-Hormones::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::09-Upper-GI-Infections"
       ]
     },
     {
@@ -60616,16 +61151,288 @@
       ]
     },
     {
+      "first_field_hash": "fa9ae0d9596da7d6cef9a67389d08c2db9b7dfffd0ccf70950d5fde381d4e33b",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::09-Upper-GI-Infections"
+      ]
+    },
+    {
+      "first_field_hash": "e912e2e9f8a40e1ba069bde9332d50742fad53e71517fb0f2fbf3c5875a3a6a7",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::09-Upper-GI-Infections"
+      ]
+    },
+    {
+      "first_field_hash": "1ab2f7e5d08e1ea9fcc31d45db899d3407c9e1476302420e4052b3908b60a9e3",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::09-Upper-GI-Infections"
+      ]
+    },
+    {
+      "first_field_hash": "27c48cb5f13715e2850e55b9a39b54b0d2eddff2aa793811d3c1ab71ab2fa2d7",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::09-Upper-GI-Infections"
+      ]
+    },
+    {
+      "first_field_hash": "a0ec2d3b65bcc79e33a5bab4bd6fbd2fd5c50ec86891c2329464be179c9606fc",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::09-Upper-GI-Infections"
+      ]
+    },
+    {
+      "first_field_hash": "97b39a5f7c5bfbea789fd1a7d70682181f606ea82fadf958d087c98d14ac40b9",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::09-Upper-GI-Infections"
+      ]
+    },
+    {
+      "first_field_hash": "e1e7d18917484d33000f89f72e9bf99e20b6c44d36d8838d5a4307f87b56b478",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::09-Upper-GI-Infections"
+      ]
+    },
+    {
+      "first_field_hash": "1e2dfc5f89b73d6d65535d44aa1f9276d2090907c37661d4d87a644df6ab1a97",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::09-Upper-GI-Infections"
+      ]
+    },
+    {
+      "first_field_hash": "3c74223593cd23682cfa677223dd6958f1d5cec6ca7a88a4000baa39fcb2fab0",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::09-Upper-GI-Infections"
+      ]
+    },
+    {
+      "first_field_hash": "cbfb9a779e1f55dd400118a8c28c02ebd2ea318545dc720673e17ff5ec4fcf34",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::09-Upper-GI-Infections"
+      ]
+    },
+    {
+      "first_field_hash": "4729ee44aa353cac8e5754069fc34849dfac2162ec6f12e3964f59d0d0e06684",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::09-Upper-GI-Infections"
+      ]
+    },
+    {
+      "first_field_hash": "dbb2c18ed65a1223ac5f8a3a58584f07dc9fbeeb0f328a5ca739d0b22ce643f1",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::09-Upper-GI-Infections"
+      ]
+    },
+    {
+      "first_field_hash": "d5dcd5b64684b6492f9d55ae377f6adebb8baf7e4506ae5045fc3b319fcb1137",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::09-Upper-GI-Infections"
+      ]
+    },
+    {
+      "first_field_hash": "aebdd1d9e04a40a54b5bcc2adc1e2ae8f4469b4cecaf8c2edb2ab6be2e3ba6f1",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::09-Upper-GI-Infections"
+      ]
+    },
+    {
+      "first_field_hash": "e06ad0ada6e733cc997463119e26e0d0c4ce36db41f1a284f68fcff252c7d98a",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::09-Upper-GI-Infections"
+      ]
+    },
+    {
+      "first_field_hash": "0eec736ef152ec6a6ed635d99e73e276fae7b4a0c6a5bfeb1c1ac9a2528fcfe6",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::09-Upper-GI-Infections"
+      ]
+    },
+    {
+      "first_field_hash": "3be79ac2183321b06bc4e39b985c59afb153904ea4332ead76f5c37c576418c6",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::09-Upper-GI-Infections::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "7077eaa3632b4b2b34898c824c93a17ecb253233dcff2e0645c45543a5cb9ad6",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::09-Upper-GI-Infections::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "2eb98f822374092937e99e156d43c6e1ce28737d0c4c99c22ef0314c84e3ebd2",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::09-Upper-GI-Infections"
+      ]
+    },
+    {
+      "first_field_hash": "63683b4156f4aed333408440246c1c2f290a24d7880858818fac720f136d1ad3",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::09-Upper-GI-Infections"
+      ]
+    },
+    {
+      "first_field_hash": "057749e7cc7757c08bb16ac3194600bfd61238df64d70c89c6fa177061c775f3",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::09-Upper-GI-Infections"
+      ]
+    },
+    {
+      "first_field_hash": "ae637d47cc0fe2203a550b9db3230c8d0b6d49c7048188c5ad2e94c925c08b3d",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::09-Upper-GI-Infections"
+      ]
+    },
+    {
+      "first_field_hash": "f45c459c98785830da62e0c5ee850edc6d561890b0018dca9346287be6967db1",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::09-Upper-GI-Infections"
+      ]
+    },
+    {
+      "first_field_hash": "6337ca3d82065ae0ee282d7d3291aad8259df8da52ebcf470ce0208c910e2941",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::09-Upper-GI-Infections"
+      ]
+    },
+    {
       "first_field_hash": "7ae1d4a969349a2a540e99166aa99d2a8fa8c55057e22eb31dc8ad22184691e4",
       "tags": [
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-1::03-C.diff-&-Pseudomonas",
-        "JerryShen_AnKing_Tags::Micro-Pharm::Exam-1::03-C.diff-&-Pseudomonas::Class-Content"
+        "JerryShen_AnKing_Tags::Micro-Pharm::Exam-1::03-C.diff-&-Pseudomonas::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::09-Upper-GI-Infections::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "3f0a6414609f899e035f91c2a2eb4c730f4eb8ecc13819d2f3bb17c584da0e69",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::09-Upper-GI-Infections"
+      ]
+    },
+    {
+      "first_field_hash": "7d88b327f6814238103421936d2e2b1e68da280941872704a72d6ee1639b3b43",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::09-Upper-GI-Infections",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::09-Upper-GI-Infections::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "381ddd6b8cffe5449225401981c1685f3c3266d9dcda2cc56e1d8ba79007c55a",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::09-Upper-GI-Infections",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::09-Upper-GI-Infections::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "b9e01d5c8cb29ea4be813480eddc65443a92e068c4a26520e3280fb43acd3aa6",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::09-Upper-GI-Infections"
+      ]
+    },
+    {
+      "first_field_hash": "bdaf5b319505c51c8dc0d44c4793e77f57c3f16a98777d56cdfc3c30da73b9a5",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::09-Upper-GI-Infections::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "276e5ee59b8903dcecec65d41bcdcba2beaaf8c7e3bcddd2471c2f2484ee9de5",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::09-Upper-GI-Infections",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::09-Upper-GI-Infections::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "b5e9d11af6385fc8149308f9f93c1c08093b57482efdb79ad54edcb124ded33d",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::09-Upper-GI-Infections",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::09-Upper-GI-Infections::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "4654bc870bdda727f4b372a121347b354565359b2d3b40b3e329d2f412ad28bb",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::09-Upper-GI-Infections"
+      ]
+    },
+    {
+      "first_field_hash": "6277d35aaed6ee7169fb7adf5a44b231febd123f41ec8312e5981e852cf6bea0",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::09-Upper-GI-Infections"
+      ]
+    },
+    {
+      "first_field_hash": "13b5ba0b1e168720b1101ee96e15e4a57f4cbf91edcf14da46fc07b588c331c5",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::09-Upper-GI-Infections"
+      ]
+    },
+    {
+      "first_field_hash": "d147f8b54f1699105684762d57329fe9b0ddfdc9d6000adff5a878796bb8eec1",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::09-Upper-GI-Infections::Class-Content"
       ]
     },
     {
       "first_field_hash": "62aa0d2a566ff86674dc0470ca2dc1efb90f4745e7bb14fd112435a0199f912e",
       "tags": [
-        "JerryShen_AnKing_Tags::Neurobiology::Exam-1::Synaptic-Transmission::Class-Content"
+        "JerryShen_AnKing_Tags::Neurobiology::Exam-1::Synaptic-Transmission::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::09-Upper-GI-Infections::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "89775d2885ea0df880f1bd0756d24491154cc556b9f00e2ab2eb1775d43e4a33",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::09-Upper-GI-Infections::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "1c44aa5c5d1333f770a0c58d557c65ec1bb6024afd771ed137892c508f5adf19",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::09-Upper-GI-Infections::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "51e0bdf8b2a0f9cafa77fd19cfaffa54673d4a188741806cdf72dd5509966556",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::09-Upper-GI-Infections::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "9db357d11da0e644701285b3df4151ea123f35b2d2d9c2efc21d3791849ecd18",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::09-Upper-GI-Infections::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "57c89f93e6d84936cf6dbecebd81ab311e636f0f16ea5d2d65d55b95953e102e",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::09-Upper-GI-Infections",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::09-Upper-GI-Infections::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "fc4afbcb7715761165621b544c31f058ce003b2771f0bc37a075cc90194d51a6",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::09-Upper-GI-Infections"
+      ]
+    },
+    {
+      "first_field_hash": "b572cc569e1c5a2dad151826de270023cda80870363e152fbb392d2eeb5c41aa",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::09-Upper-GI-Infections::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "9d603fac02a94feceb70678f8f16dd612bacc1af21dfefbc5ab9f8f6ee760915",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::09-Upper-GI-Infections::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "2e5b1c69e52de78525ac4d09b6a5fa499859597f3ef035c353cd483054dedfdf",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::09-Upper-GI-Infections",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::09-Upper-GI-Infections::Class-Content"
       ]
     },
     {
@@ -60685,21 +61492,100 @@
       ]
     },
     {
+      "first_field_hash": "d9d670f1b244e95a58c4e4013494982922995466e6ded3dd3c856a2bc38f2045",
+      "tags": [
+        "JerryShen_AnKing_Tags::Micro-Pharm::Exam-2::09-Misc-Antimicrobials-&-Skin-Infections",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::09-Upper-GI-Infections",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::09-Upper-GI-Infections::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "4d05916bc27fadd41a8730b791b66aa64b535eb46f5ded097590465b35a707d5",
+      "tags": [
+        "JerryShen_AnKing_Tags::Micro-Pharm::Exam-2::09-Misc-Antimicrobials-&-Skin-Infections",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::09-Upper-GI-Infections"
+      ]
+    },
+    {
+      "first_field_hash": "b5a4553a71c15feb6bded495c279ea394f881710ac9bb4d32bc208b7036fa083",
+      "tags": [
+        "JerryShen_AnKing_Tags::Micro-Pharm::Exam-2::09-Misc-Antimicrobials-&-Skin-Infections",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::09-Upper-GI-Infections"
+      ]
+    },
+    {
       "first_field_hash": "e569a8a3122f784894ba99ebd6e7497332f66bd5c4f4cdfb9ba271de492023f9",
       "tags": [
-        "JerryShen_AnKing_Tags::POM-3::Clinical-Reasoning::Approach-to-Shock"
+        "JerryShen_AnKing_Tags::POM-3::Clinical-Reasoning::Approach-to-Shock",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::09-Upper-GI-Infections"
+      ]
+    },
+    {
+      "first_field_hash": "90a5884b39ff0f760c14044960e39bc93bbfcd4b29647c94028e6e7698376e65",
+      "tags": [
+        "JerryShen_AnKing_Tags::Micro-Pharm::Exam-2::09-Misc-Antimicrobials-&-Skin-Infections",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::09-Upper-GI-Infections",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::09-Upper-GI-Infections::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "985b7b8e7c7fcc30655471296e1f548f664517283a231cd733b5b43b8b82f49b",
+      "tags": [
+        "JerryShen_AnKing_Tags::Micro-Pharm::Exam-2::09-Misc-Antimicrobials-&-Skin-Infections",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::09-Upper-GI-Infections::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "6d7b5a6eaf780cb048a79ee75320d4e60421e0ce566b494b30f9ed65f03e538f",
+      "tags": [
+        "JerryShen_AnKing_Tags::Micro-Pharm::Exam-2::09-Misc-Antimicrobials-&-Skin-Infections",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::09-Upper-GI-Infections"
+      ]
+    },
+    {
+      "first_field_hash": "1a589df4e291537b6e50589bf86a23c37cf1ddb5e999ede28a3cf5e668a5d725",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::09-Upper-GI-Infections"
+      ]
+    },
+    {
+      "first_field_hash": "e3394e255aa05a1205079d5b588ef3ecbff71ab85cb43b298f6d71a9ff04bfbd",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::09-Upper-GI-Infections"
+      ]
+    },
+    {
+      "first_field_hash": "b941d841e06ad3dd1a78607c25114cf529e14fb1ec6fea37dde287eb236fe499",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::09-Upper-GI-Infections"
+      ]
+    },
+    {
+      "first_field_hash": "5b9e8cd2dffff1d336552b5164ff409d3be40938dbd8278c2cf88ff9cb28ed45",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::09-Upper-GI-Infections",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::09-Upper-GI-Infections::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "908c3d975ab32d1eb1c97baa5b9a14335807ce59ed7ead7ff4256748cf8af254",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::09-Upper-GI-Infections",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::09-Upper-GI-Infections::Class-Content"
       ]
     },
     {
       "first_field_hash": "bcba929f737a3489f053478b2815af9b5a823ac67d4084ccff6be52d3910ede8",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::15-Upper-Respiratory-Infections::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::15-Upper-Respiratory-Infections::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::09-Upper-GI-Infections"
       ]
     },
     {
       "first_field_hash": "0820942067e12c2b127e9b00b213bb2db5b578c3ab4172a49cd3de2cbe4d2014",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::15-Upper-Respiratory-Infections::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::15-Upper-Respiratory-Infections::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::09-Upper-GI-Infections"
       ]
     },
     {
@@ -60711,37 +61597,43 @@
     {
       "first_field_hash": "074e446529a4148b98e22719b81c859b6bea9872cbcc17c40b7efcfff04964cb",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::15-Upper-Respiratory-Infections"
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::15-Upper-Respiratory-Infections",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::09-Upper-GI-Infections"
       ]
     },
     {
       "first_field_hash": "8900176ed77847b7a52de345b17c30f44ca85cda760e275c355907a62f75b596",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::15-Upper-Respiratory-Infections::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::15-Upper-Respiratory-Infections::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::09-Upper-GI-Infections"
       ]
     },
     {
       "first_field_hash": "30daf4853e1705b17578afaa5b6aa3eb3580dbea53d10208511af55d6e0c3c3e",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::15-Upper-Respiratory-Infections::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::15-Upper-Respiratory-Infections::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::09-Upper-GI-Infections"
       ]
     },
     {
       "first_field_hash": "f589f2f646fa2e88b5ac9efd23ec5cff92efad6af7c8799fefe098dc27330770",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::15-Upper-Respiratory-Infections::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::15-Upper-Respiratory-Infections::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::09-Upper-GI-Infections"
       ]
     },
     {
       "first_field_hash": "e17366c97ed1c48dd6298d2323b7801bc4ea0900cadb4421a048b143626ebde4",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::15-Upper-Respiratory-Infections::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::15-Upper-Respiratory-Infections::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::09-Upper-GI-Infections"
       ]
     },
     {
       "first_field_hash": "71782df6f28b818b1f9e5be6600b1b2b84de5debdc8a1f4b0e2bc2bd5656a5c3",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::15-Upper-Respiratory-Infections"
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::15-Upper-Respiratory-Infections",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::09-Upper-GI-Infections"
       ]
     },
     {
@@ -60753,31 +61645,73 @@
     {
       "first_field_hash": "5bfd13cf9ea9978f91a0e3a488089d8d8750a6769082b526364370b53afaee88",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::15-Upper-Respiratory-Infections::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::15-Upper-Respiratory-Infections::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::09-Upper-GI-Infections"
       ]
     },
     {
       "first_field_hash": "c1b517cc58e2ef722459f37163f2a27e9e4b9d3b303c4bec4335bd07a0e9eaed",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::15-Upper-Respiratory-Infections"
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::15-Upper-Respiratory-Infections",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::09-Upper-GI-Infections"
       ]
     },
     {
       "first_field_hash": "9f616f76744d60ef6fa1f905e4947ac40d8c1713441f44960c8763183f1ed16a",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::15-Upper-Respiratory-Infections"
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::15-Upper-Respiratory-Infections",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::09-Upper-GI-Infections"
       ]
     },
     {
       "first_field_hash": "d196362c2a79c66eee5bc3777f22b2ad9c72333fad1a1429538ee0895bc5b271",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::15-Upper-Respiratory-Infections"
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::15-Upper-Respiratory-Infections",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::09-Upper-GI-Infections"
       ]
     },
     {
       "first_field_hash": "759d809780f477c96ae9f03da1eb6f175ee8222956480839b8836a4962dcac9f",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::15-Upper-Respiratory-Infections"
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::15-Upper-Respiratory-Infections",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::09-Upper-GI-Infections"
+      ]
+    },
+    {
+      "first_field_hash": "9b70114bdfe41bc1d83b3837fc4c9edbaaac11953c65e296db54dc8b702dc3c6",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::09-Upper-GI-Infections"
+      ]
+    },
+    {
+      "first_field_hash": "776f4023436ff3e51a412e5ee9a8397258b1b0aab1ad6d1a57b561f50fe0b42b",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::09-Upper-GI-Infections"
+      ]
+    },
+    {
+      "first_field_hash": "1ebe61eda0def04c50f3b8955df4e8341e26009d68767dbcf86c78b6159fdc10",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::09-Upper-GI-Infections"
+      ]
+    },
+    {
+      "first_field_hash": "3bbcd4479593b293977973bdc06b07bc34b34350449b8f6793f2efa1c7cf6191",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::09-Upper-GI-Infections"
+      ]
+    },
+    {
+      "first_field_hash": "3f4ffa101bb5b20a3f4c832793e770064b4f050b037d52b41831a0d750aca807",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::09-Upper-GI-Infections"
+      ]
+    },
+    {
+      "first_field_hash": "cba2b106f5daf467d161385e28312463978d192f500f0db4c397f92e40253c38",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::09-Upper-GI-Infections",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::09-Upper-GI-Infections::Class-Content"
       ]
     },
     {
@@ -60793,9 +61727,21 @@
       ]
     },
     {
+      "first_field_hash": "f8479eafb60dd6f184394e9bf2ee960e49dba8f21460f3d6d943f96bb42ca867",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::09-Upper-GI-Infections"
+      ]
+    },
+    {
       "first_field_hash": "e7367a15f989556a67d6a5d8b1fb3c54dda86001be35019172033745072d23c0",
       "tags": [
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-1::02-S.pyogenes-&-E.coli"
+      ]
+    },
+    {
+      "first_field_hash": "a5137e9a7906807caefa6ae7853e073afdcf94344f5dd96c6fcc7a3c1c216e17",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::09-Upper-GI-Infections"
       ]
     },
     {
@@ -60915,7 +61861,8 @@
     {
       "first_field_hash": "4fe57a1fbdf885ad62822b8d77c701ee07c42473a1fbeff21e23d83f89552927",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::15-Upper-Respiratory-Infections"
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::15-Upper-Respiratory-Infections",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::09-Upper-GI-Infections"
       ]
     },
     {
@@ -61068,7 +62015,8 @@
     {
       "first_field_hash": "9aa0cd18db230bbe7f48e6253a00b6fd96fa9d310cddc36bc600ff74d44efda0",
       "tags": [
-        "JerryShen_AnKing_Tags::Micro-Pharm::Exam-1::03-C.diff-&-Pseudomonas"
+        "JerryShen_AnKing_Tags::Micro-Pharm::Exam-1::03-C.diff-&-Pseudomonas",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::09-Upper-GI-Infections"
       ]
     },
     {
@@ -64412,7 +65360,7 @@
       ]
     },
     {
-      "first_field_hash": "19a4cdc4b2fdd754a7e26fdb7edf363307414c7d040430d2579416adc4632810",
+      "first_field_hash": "3e84161d95fdf065bfd8379e0c80d0a1d0332568531bd29a69312eb8b61a6b0a",
       "tags": [
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-2::07-β-Lactam-Antibiotics-&-Parasites"
       ]
@@ -64450,7 +65398,7 @@
       ]
     },
     {
-      "first_field_hash": "788482b16c67008fb916ec695514efd075cb741091e86a9debf82c8ab73d86f6",
+      "first_field_hash": "1ea61121b43df2358083c93507820e068e097358a8d2d1dd8ece1df5846efccd",
       "tags": [
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-2::07-β-Lactam-Antibiotics-&-Parasites",
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-2::07-β-Lactam-Antibiotics-&-Parasites::Class-Content"
@@ -64503,7 +65451,7 @@
       ]
     },
     {
-      "first_field_hash": "6562077dba65feb57302cf91f0ef4fa2336852c2463d96da834a45152fdc8d5e",
+      "first_field_hash": "409ad8d9ae9d76ab49b751fc3d99eda3b199c6da3567a806b3155f3950f730e3",
       "tags": [
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-2::07-β-Lactam-Antibiotics-&-Parasites"
       ]
@@ -64662,7 +65610,7 @@
       ]
     },
     {
-      "first_field_hash": "a177b109af77292347ba7340afbd98face99dcc88e1e012a5b0f3581f13d6f83",
+      "first_field_hash": "b8283f58563e865daa7f1b2f350ac3c3b94c0b889dc03bb6ee0d3f8dec260eee",
       "tags": [
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-2::07-β-Lactam-Antibiotics-&-Parasites"
       ]
@@ -64951,6 +65899,7 @@
       "first_field_hash": "7aa196f716dbab90968680b10332cffeded55868dd90a5959d826283e66aa358",
       "tags": [
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-2::07-β-Lactam-Antibiotics-&-Parasites::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::09-Upper-GI-Infections",
         "JerryShen_AnKing_Tags::SOM-2::Renal-Block::15-Renal-&-Bladder-Tumor-Pathology"
       ]
     },
@@ -65531,25 +66480,30 @@
     {
       "first_field_hash": "fad301263db245d0e933a2cb33b0e318560b9527af726cc4c28b32253aea4a17",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::05-Stomach::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::05-Stomach::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::09-Upper-GI-Infections::Class-Content"
       ]
     },
     {
       "first_field_hash": "6a4cac4a92bd17fc0ca263f695e6681102194afe48ba587c5725029ddcebaef7",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::05-Stomach"
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::05-Stomach",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::09-Upper-GI-Infections",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::09-Upper-GI-Infections::Class-Content"
       ]
     },
     {
       "first_field_hash": "7e15b0a95e140330fe92b51b9464054344c32704d9123b6a724a42caafd05635",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::05-Stomach::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::05-Stomach::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::09-Upper-GI-Infections::Class-Content"
       ]
     },
     {
       "first_field_hash": "3c4cb1a20abe0801ebf3377e90802c2d7edfc72798359df1951efd2c9fc68f29",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::05-Stomach::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::05-Stomach::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::09-Upper-GI-Infections::Class-Content"
       ]
     },
     {
@@ -65557,69 +66511,86 @@
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::05-Stomach",
         "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::05-Stomach::Class-Content",
-        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::06-Small-Intestine::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::06-Small-Intestine::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::09-Upper-GI-Infections::Class-Content"
       ]
     },
     {
       "first_field_hash": "3328d63faba2dda467009ab17a089bbd510d38ff0eb9ddf847761beca3307f40",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::05-Stomach::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::05-Stomach::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::09-Upper-GI-Infections::Class-Content"
       ]
     },
     {
       "first_field_hash": "946eaeb3b20bf36be50ae062179c56f7baa96ba0bd354905a62370856675bc4e",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::05-Stomach::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::05-Stomach::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::09-Upper-GI-Infections::Class-Content"
       ]
     },
     {
       "first_field_hash": "31f2b4daf027f6127af386c7dc66439a64e71ca9de7c34a8b406ab70dabb6ea1",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::05-Stomach::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::05-Stomach::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::09-Upper-GI-Infections::Class-Content"
       ]
     },
     {
       "first_field_hash": "82641a2500b5999ac8ffebdee2bd8f45148920d80f7026f8a46f7deab9806fcb",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::05-Stomach"
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::05-Stomach",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::09-Upper-GI-Infections"
       ]
     },
     {
       "first_field_hash": "4450bfb71a6b5ae15049efd1b170a993e7ca3905afc902469ffc3022d4ca564c",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::05-Stomach"
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::05-Stomach",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::09-Upper-GI-Infections"
       ]
     },
     {
       "first_field_hash": "15c7211d3dcf26875614f66ee9a07fde74c10ea56f4c4ced630a5ae4c3073840",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::05-Stomach"
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::05-Stomach",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::09-Upper-GI-Infections"
       ]
     },
     {
       "first_field_hash": "5eb50604bf82fbd524768382b58387eb034b152c27ad3c3bb4dd7db78c19a30e",
       "tags": [
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-2::08-Other-Antibiotics-&-Mycobacteria",
-        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::05-Stomach"
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::05-Stomach",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::09-Upper-GI-Infections"
       ]
     },
     {
       "first_field_hash": "572c3b08c32e770eba0e00cd562771b121d330b42dff36cbb618c4650a359a77",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::05-Stomach",
-        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::05-Stomach::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::05-Stomach::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::09-Upper-GI-Infections"
+      ]
+    },
+    {
+      "first_field_hash": "ec292614dd1b2b010ab53d3d763afd45d026bc3255a61a91e1580623bec23df7",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::09-Upper-GI-Infections"
       ]
     },
     {
       "first_field_hash": "d7aead82401986b1461e13a69ca767746b0960e3e7c49f9bc7e6897c47bbbd75",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::05-Stomach"
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::05-Stomach",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::09-Upper-GI-Infections::Class-Content"
       ]
     },
     {
       "first_field_hash": "48c9d4474c4c4af86ff0b853b714f7a5d4d0c90adcf6471a2202e23f5d6b9e84",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::05-Stomach::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::05-Stomach::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::09-Upper-GI-Infections"
       ]
     },
     {
@@ -66045,6 +67016,25 @@
       ]
     },
     {
+      "first_field_hash": "e59ddf0fc99218b4c85229d70238a841084282d4300e6ff4ee2477582f999a30",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::09-Upper-GI-Infections::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "b8ef400251bbc1a8fa59015021b1350a8e2e929083571315680d2fb4fd53882d",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::09-Upper-GI-Infections::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "eef7b7d2048c4c064e4ca2e8f055a1a8c6e08169427877570b565292603e4113",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::09-Upper-GI-Infections",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::09-Upper-GI-Infections::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "6a75e753cdbab6361f6b2347d8ff6f25d85d62df3e1a2a984670602413df195e",
       "tags": [
         "JerryShen_AnKing_Tags::Neurobiology::Exam-2::Tutorial-1-Cerebrum"
@@ -66054,6 +67044,20 @@
       "first_field_hash": "92f033ed70e185c369931dc410cc2c31aa7ed49f4088f65bdeaab702f37d907c",
       "tags": [
         "JerryShen_AnKing_Tags::Neurobiology::Exam-2::Tutorial-2-Spinal-Cord"
+      ]
+    },
+    {
+      "first_field_hash": "8cfd1af01f0f1fe1ce3c345043d0dac47ed5ef4a8f54ee2c98c6fcc119eaaa6e",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::09-Upper-GI-Infections",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::09-Upper-GI-Infections::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "d5db0e33ba832a70c11bf74c6ec40620da1222f3581cb8aac63293db0237fa2a",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::09-Upper-GI-Infections",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::09-Upper-GI-Infections::Class-Content"
       ]
     },
     {
@@ -68263,6 +69267,12 @@
       ]
     },
     {
+      "first_field_hash": "00cb0db657bf3cb13507c4f31ffd019ba61e152a8f9a9b706341575d0e8401df",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::09-Upper-GI-Infections"
+      ]
+    },
+    {
       "first_field_hash": "26bcd5013ee4f757b76a9a2d9730e34edc3799344dee98bd6d8d9182d508bdfd",
       "tags": [
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-2::10-Biologics-Ectoparasites-&-Clinical-Cases",
@@ -68273,6 +69283,12 @@
       "first_field_hash": "e1729d0e4956ded19a9c84516e534c459ca8627b0858cd82a1f73d5a87bfa133",
       "tags": [
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-1::04-Intro-to-Viruses"
+      ]
+    },
+    {
+      "first_field_hash": "dc167eaa3c7fbd86cd654daa1a9cab2da2e196d74d22c4340469da4de5ea7c56",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::09-Upper-GI-Infections::Class-Content"
       ]
     },
     {
@@ -68501,6 +69517,12 @@
       ]
     },
     {
+      "first_field_hash": "fb4eee4718bebbca0562e1d7f1ce63bd030cd60bb918db118210a10fd180f8c0",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::10-Hereditary-GI-Cancers"
+      ]
+    },
+    {
       "first_field_hash": "2eb0f469c304246fac939dc7821b95869559fa59aa683816420ed83488649304",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::27-Lung-Cancer"
@@ -68533,7 +69555,8 @@
     {
       "first_field_hash": "262ab9bbb03cdc01e60b05264fa6d6a7648717e7f26563b5336c8a096a27ea26",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::05-Stomach::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::05-Stomach::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::09-Upper-GI-Infections::Class-Content"
       ]
     },
     {
@@ -68614,13 +69637,15 @@
     {
       "first_field_hash": "cc99a354ac50d30c12c427d2e395433c52753610fa8ad9b56a62b8755c043ebb",
       "tags": [
-        "JerryShen_AnKing_Tags::Cancer-Biology::Final::05-Cancer-Genes-&-Pathways::Class-Content"
+        "JerryShen_AnKing_Tags::Cancer-Biology::Final::05-Cancer-Genes-&-Pathways::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::10-Hereditary-GI-Cancers::Class-Content"
       ]
     },
     {
       "first_field_hash": "8896c53e4610d48228a6ddc551533166737eee6dc70d67029b92127046f7a48a",
       "tags": [
-        "JerryShen_AnKing_Tags::Cancer-Biology::Final::05-Cancer-Genes-&-Pathways"
+        "JerryShen_AnKing_Tags::Cancer-Biology::Final::05-Cancer-Genes-&-Pathways",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::10-Hereditary-GI-Cancers::Class-Content"
       ]
     },
     {
@@ -68628,6 +69653,13 @@
       "tags": [
         "JerryShen_AnKing_Tags::Cancer-Biology::Final::05-Cancer-Genes-&-Pathways::Class-Content",
         "JerryShen_AnKing_Tags::Molecular-Foundations-&-Genetics::02-Genetics::08.4-Cancer-Genetics::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "40a684224166b94384fe2a0665dec4f0d077b5af5ff49295cdeac3e1064c39b1",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::10-Hereditary-GI-Cancers",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::10-Hereditary-GI-Cancers::Class-Content"
       ]
     },
     {
@@ -68651,13 +69683,16 @@
     {
       "first_field_hash": "9c5b9070e87198ea670b35fa3a7db9e4dfb137fc9b65fd415f1f716facbe4386",
       "tags": [
-        "JerryShen_AnKing_Tags::Cancer-Biology::Final::05-Cancer-Genes-&-Pathways"
+        "JerryShen_AnKing_Tags::Cancer-Biology::Final::05-Cancer-Genes-&-Pathways",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::10-Hereditary-GI-Cancers::Class-Content"
       ]
     },
     {
       "first_field_hash": "97c1034744c820e143a9576c771b48d9feb7e9eae272a7df70a4cfa602251c47",
       "tags": [
-        "JerryShen_AnKing_Tags::Cancer-Biology::Final::05-Cancer-Genes-&-Pathways"
+        "JerryShen_AnKing_Tags::Cancer-Biology::Final::05-Cancer-Genes-&-Pathways",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::10-Hereditary-GI-Cancers",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::10-Hereditary-GI-Cancers::Class-Content"
       ]
     },
     {
@@ -68737,7 +69772,8 @@
     {
       "first_field_hash": "d17b5cb87622dddb53506a69a2718078403570812a23530c4eadaaa7ef1554da",
       "tags": [
-        "JerryShen_AnKing_Tags::Cancer-Biology::Final::03-Intro-to-Cancer-Biology::Class-Content"
+        "JerryShen_AnKing_Tags::Cancer-Biology::Final::03-Intro-to-Cancer-Biology::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::10-Hereditary-GI-Cancers"
       ]
     },
     {
@@ -68979,6 +70015,12 @@
       "first_field_hash": "f4ea0ec0d476a9031a12738f9226d44a6059cfec7aa070c6b137dd56f73a8a68",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::18-Adrenal-Physiology"
+      ]
+    },
+    {
+      "first_field_hash": "13e4ae6ef5aa34d0288a4e18264ddc0554da69afd243baf24f14b326432b8d91",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::09-Upper-GI-Infections"
       ]
     },
     {
@@ -70215,7 +71257,8 @@
     {
       "first_field_hash": "2280aa8c51c8cd0222edea663352f7e0f30f83907995972043e754fb08253ded",
       "tags": [
-        "JerryShen_AnKing_Tags::Micro-Pharm::Exam-2::09-Misc-Antimicrobials-&-Skin-Infections"
+        "JerryShen_AnKing_Tags::Micro-Pharm::Exam-2::09-Misc-Antimicrobials-&-Skin-Infections",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::09-Upper-GI-Infections"
       ]
     },
     {
@@ -70273,6 +71316,12 @@
       ]
     },
     {
+      "first_field_hash": "dd0da10d3447f5e39cd824adc68f5d22fe0f12c7ec8d1fbd008f2c02b723240a",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::10-Hereditary-GI-Cancers::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "9bf0b4a0d223682707786284ea0f97e747954d74e730e21f3ca299228d2c7f2d",
       "tags": [
         "JerryShen_AnKing_Tags::Cancer-Biology::Final::02-Cell-Injury-&-Death"
@@ -70295,6 +71344,12 @@
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::07-Pancreas",
         "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::07-Pancreas::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "6a738f0ea567b2cf1aa018257d082092351655bf1358c198721d6e28c783b933",
+      "tags": [
+        "JerryShen_AnKing_Tags::Micro-Pharm::Exam-2::09-Misc-Antimicrobials-&-Skin-Infections"
       ]
     },
     {
@@ -70729,6 +71784,12 @@
       ]
     },
     {
+      "first_field_hash": "4d78ad93d2a8c9c939902fdc4ee838011a9e10b6442ab7f6f13a2f765ff401ec",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::10-Hereditary-GI-Cancers"
+      ]
+    },
+    {
       "first_field_hash": "21beac6d5a760b608165b06933c5df7bfa6c6f7c547097de1fc978f607de53bc",
       "tags": [
         "JerryShen_AnKing_Tags::Immunology::Final::Innate-Sensing"
@@ -70865,6 +71926,12 @@
       "first_field_hash": "e0373289e82e4ede855cfba1301363daf78384278e4fb1f9b62f1f74de0c4cea",
       "tags": [
         "JerryShen_AnKing_Tags::POM-1::Final::Epidemiology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "2b554859cd104cf610f45055ffb99f5a3ad05a6b5fea37beac3d63a9742b160f",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::09-Upper-GI-Infections::Class-Content"
       ]
     },
     {
@@ -71804,7 +72871,8 @@
     {
       "first_field_hash": "1e256580e3f6fd9468953d85b1def74bc7d9e0d8f4d78d97d17ce0cd6f3c38d0",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::05-Stomach::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::05-Stomach::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::09-Upper-GI-Infections"
       ]
     },
     {
@@ -71880,6 +72948,24 @@
       "first_field_hash": "54bae96fc9e6525dbb09edd5ce409fce23e2941c51dfb3aa4f9cc9f8b17bdba6",
       "tags": [
         "JerryShen_AnKing_Tags::POM-1::Final::Ethics"
+      ]
+    },
+    {
+      "first_field_hash": "9afc36b9454b16cd28e677cfe863b19f5a80164cf64e23719ca607903af8a6c3",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::09-Upper-GI-Infections::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "c2c83a63a7f88241b721ea0d6671a6e622f769fc07b3fedebe96d0a7ac01f74d",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::09-Upper-GI-Infections::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "41a320e3f66f1f6b1f72ec318ac57a6c4b829387acb10ac58863a3cc2c15686f",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::09-Upper-GI-Infections"
       ]
     },
     {
@@ -72123,6 +73209,18 @@
       ]
     },
     {
+      "first_field_hash": "00bda7034356870358027eec56fc105b1fb5671db3f939470247795503ce04c2",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::09-Upper-GI-Infections"
+      ]
+    },
+    {
+      "first_field_hash": "c25787f065cefa85cc005447e5065ac4c6a3c5c9fc8fa62ae25fe964d1461ec6",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::09-Upper-GI-Infections"
+      ]
+    },
+    {
       "first_field_hash": "c8bf016594e9f2259cc03f089aa841afa0471888fc32bd00af26507529d60579",
       "tags": [
         "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-4-Pelvis::Anatomy"
@@ -72149,6 +73247,12 @@
       ]
     },
     {
+      "first_field_hash": "3239df72b8cd5316ac4bba7fb0653d67eca42fdf7f2b1a95a9890658167caa51",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::10-Hereditary-GI-Cancers::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "caa4cdef312ef6b826b18d096dbc3e6f026dfac76c3b69968a971ad01f2c6e5c",
       "tags": [
         "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-6-Head-&-Neck-1::Anatomy::Class-Content"
@@ -72164,6 +73268,12 @@
       "first_field_hash": "647134c01c826a7d016427cb2abf5a79427e9a481cd1f59ddcf729566197f255",
       "tags": [
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-2::10-Biologics-Ectoparasites-&-Clinical-Cases"
+      ]
+    },
+    {
+      "first_field_hash": "ff088051253206ccae38d03c32562902ad5c5850342b7ecc7311023840386a88",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::09-Upper-GI-Infections"
       ]
     },
     {
@@ -72467,6 +73577,7 @@
       "first_field_hash": "0e38300eb8f0903de20905783e77fa3ea20e1bf185487487e1ffd9b1550b8b21",
       "tags": [
         "JerryShen_AnKing_Tags::POM-3::Clinical-Reasoning::Approach-to-Shock::Class-Content",
+        "JerryShen_AnKing_Tags::POM-4::ACS-Skills::Abdomen::Class-Content",
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::10-Autonomic-Physiology-and-Pharmacology",
         "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::24-Sepsis-&-Septic-Shock::Class-Content"
       ]
@@ -72613,7 +73724,8 @@
     {
       "first_field_hash": "34b343ce0d2e6e0a4f59de5b5f858b895a8db807897755be50d42b6a0fcdcb53",
       "tags": [
-        "JerryShen_AnKing_Tags::Cancer-Biology::Final::Cancer-Screening"
+        "JerryShen_AnKing_Tags::Cancer-Biology::Final::Cancer-Screening",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::10-Hereditary-GI-Cancers"
       ]
     },
     {
@@ -72632,7 +73744,8 @@
     {
       "first_field_hash": "d9f9848d1421ef66a2e56389a6006337aa07acd6d9b82a27325882e470bd9ba1",
       "tags": [
-        "JerryShen_AnKing_Tags::Molecular-Foundations-&-Genetics::02-Genetics::08.4-Cancer-Genetics"
+        "JerryShen_AnKing_Tags::Molecular-Foundations-&-Genetics::02-Genetics::08.4-Cancer-Genetics",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::10-Hereditary-GI-Cancers"
       ]
     },
     {
@@ -73411,6 +74524,12 @@
       ]
     },
     {
+      "first_field_hash": "d0cd1e7714e2050c0f1779b2c511983f79bfc347ccc21c7937c3a5a8a62ab2a3",
+      "tags": [
+        "JerryShen_AnKing_Tags::POM-4::ACS-Skills::Abdomen"
+      ]
+    },
+    {
       "first_field_hash": "82d6312add963d92176b8e0ab927f894abe77d2f0076f93eae93a4a13ca6b6c4",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::16-Thyroid-Physiology-&-Pathophysiology::Class-Content"
@@ -73713,6 +74832,12 @@
       ]
     },
     {
+      "first_field_hash": "6d20f86b33d83f99bd774ef60894b38b44a48a305866eb2ac04c288d80f9c1be",
+      "tags": [
+        "JerryShen_AnKing_Tags::POM-4::ACS-Skills::Abdomen::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "2c6261467f7d08db809ba73b8478c3b7dcf07d1abeed7b52681a108243c7d659",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Repro-Block::02-Hormone-Replacement-&-Suppression-Therapy::Class-Content"
@@ -73808,6 +74933,54 @@
       "first_field_hash": "054f13e05601aff2701e71f679b0bbbb9ee77e54ad8e48552918d6ec84e46097",
       "tags": [
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-1::04-Intro-to-Viruses"
+      ]
+    },
+    {
+      "first_field_hash": "f7abf5f3e797c4d14ccbf7816ef7b3d484d0ec66b8d1e7bc90884a7dc32f7246",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::09-Upper-GI-Infections"
+      ]
+    },
+    {
+      "first_field_hash": "45ec7fff726ccb78cec830c1be4d10cd68aa1b29edb7f3b4d36f665954d32428",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::09-Upper-GI-Infections"
+      ]
+    },
+    {
+      "first_field_hash": "11e478d8d8d49ff8abc2167e0ad310b22d8507984fc692dfd49c2e03497b7e47",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::09-Upper-GI-Infections"
+      ]
+    },
+    {
+      "first_field_hash": "41707a70744190afe5c100a68ad9e1f1f1ce9e3ce148b08e6e08c5ca35a3871c",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::09-Upper-GI-Infections"
+      ]
+    },
+    {
+      "first_field_hash": "b15d62dc819846d57b46714e2d434640c9c13e15b749f46de634f260ae8848ae",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::09-Upper-GI-Infections"
+      ]
+    },
+    {
+      "first_field_hash": "60e0d45dfe8edbde8ac2fe817b40500e2620200de4da696371ef8dd94a2326c5",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::09-Upper-GI-Infections"
+      ]
+    },
+    {
+      "first_field_hash": "de26fb09510f8d05fc2243d8b42fec91f63543a49ccd2b727ea4e4252fff4515",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::09-Upper-GI-Infections"
+      ]
+    },
+    {
+      "first_field_hash": "8db351b47bcf11fad08fe814b2d5a70558201304675c4eba7d823003465606d4",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::09-Upper-GI-Infections"
       ]
     },
     {
@@ -74373,6 +75546,12 @@
       ]
     },
     {
+      "first_field_hash": "a6f9395c27c69976f88a08b8a23746c907e5a43148d343e894bf98a65dcfef19",
+      "tags": [
+        "JerryShen_AnKing_Tags::POM-4::ACS-Skills::Abdomen::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "b532c75f6c117c999671a5516a3e0396cfa7e3ebd1a73fdba09c551bbc599db2",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::35-Congenital-Heart-Disease::Class-Content"
@@ -74757,6 +75936,12 @@
       ]
     },
     {
+      "first_field_hash": "442e5cbb66c340460b7f7d9ee9b99ddcd1dab56e4120476ba2536195e6d0ef18",
+      "tags": [
+        "JerryShen_AnKing_Tags::POM-4::ACS-Skills::Abdomen"
+      ]
+    },
+    {
       "first_field_hash": "3a5e0c6087310078718e1311bdc0dd495ef38dba6b970c6c8fd963e1800583ce",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::05-Stomach"
@@ -74767,6 +75952,12 @@
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::05-Stomach",
         "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::07-Pancreas"
+      ]
+    },
+    {
+      "first_field_hash": "2eb6015f27b743a05bc3fc38dadac0c5f8f83c377df2cedc8bb6d170824a3901",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::09-Upper-GI-Infections"
       ]
     },
     {
@@ -74809,9 +76000,21 @@
       ]
     },
     {
+      "first_field_hash": "a53b8be0fd184e4f0c5854e29da1b330ee64a509f41d2af99ef2d3d3096a6542",
+      "tags": [
+        "JerryShen_AnKing_Tags::POM-4::ACS-Skills::Abdomen"
+      ]
+    },
+    {
       "first_field_hash": "23ec9ca73fdb04496f4cff11d703e543c0ea8eda1ade64e75a9990a9272b1294",
       "tags": [
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-1::03-C.diff-&-Pseudomonas"
+      ]
+    },
+    {
+      "first_field_hash": "28eca3cfe063b95002df8bab37e0c87f566a738166d4543add9786fc93a40bf8",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::09-Upper-GI-Infections"
       ]
     },
     {
@@ -75160,6 +76363,12 @@
       ]
     },
     {
+      "first_field_hash": "df053fa26e17aff465319312349abced579feacad0ca46e4c6d53d149ad88012",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::09-Upper-GI-Infections"
+      ]
+    },
+    {
       "first_field_hash": "0fbc20010a62e6d65fb29b8f1138aefd130dcb81f08b7326d22294e0b98aff4d",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::MSK-Block::02-Bone-&-Joint-Infections"
@@ -75213,6 +76422,12 @@
       "first_field_hash": "ed5e44858950c9f3d61057856e05a72dd54a147e5d5ccddd990dcb76bc3ca46c",
       "tags": [
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-1::05-Intro-to-Fungi::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "b9c502e38173d08c5014427698bd0ef53a0c1737ef6ab28a92d15e386b74c91e",
+      "tags": [
+        "JerryShen_AnKing_Tags::POM-4::ACS-Skills::Abdomen::Class-Content"
       ]
     },
     {
@@ -75317,6 +76532,12 @@
       "first_field_hash": "bbe0a9e319acbbce67a1b78c1ee4c6f8b17d804eae6825f940d84ecb0550509f",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Repro-Block::04-Steroid-Hormone-Pharmacology"
+      ]
+    },
+    {
+      "first_field_hash": "4e371db63fac76f2e1b9e9feafe2fb6e4a6bae49058eb0b958f8e4d00a85101d",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::10-Hereditary-GI-Cancers"
       ]
     },
     {
@@ -75643,6 +76864,13 @@
         "JerryShen_AnKing_Tags::Neurobiology::Exam-3::Tutorial-7-Affective-and-Cognitive-Systems",
         "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::20-Endocrine-Pathology",
         "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::Tutorial-2-Thyroid-Disease::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "a77d11e059970a5904ccbc11f9d9eaf7c561aa90e81ee8442c9c12f1281990e5",
+      "tags": [
+        "JerryShen_AnKing_Tags::POM-4::ACS-Skills::Abdomen",
+        "JerryShen_AnKing_Tags::POM-4::ACS-Skills::Abdomen::Class-Content"
       ]
     },
     {
@@ -76654,6 +77882,19 @@
       ]
     },
     {
+      "first_field_hash": "edbb845e956a9e068d5b0d7f331f2da946ef49b0790e87e9569905c156d4ac27",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::09-Upper-GI-Infections",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::09-Upper-GI-Infections::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "364a0b26166e9001ead5ac982a155faa70a6b21f3e81dad709c40110c9b24280",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::09-Upper-GI-Infections::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "9ce9f1327700bd6fac0d957790ab906f974f3823d7827f7eb17fed7e3061da64",
       "tags": [
         "JerryShen_AnKing_Tags::Neurobiology::Exam-2::Tutorial-1-Cerebrum"
@@ -76681,6 +77922,12 @@
       "first_field_hash": "87d0fb09b0a171fc56f21387e200143268da32aff978767d1ac6c92536ebd09e",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::MSK-Block::06-Backache::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "fc72c3f9fb4ac44e822d35988c08692ce44a0038a9908177137f2a6bea46e02e",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::09-Upper-GI-Infections::Class-Content"
       ]
     },
     {
@@ -76713,6 +77960,12 @@
       "tags": [
         "JerryShen_AnKing_Tags::Neurobiology::Exam-2::Tutorial-2-Spinal-Cord",
         "JerryShen_AnKing_Tags::SOM-1::MSK-Block::06-Backache::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "a1da3f5dfbaa2b0617869ba5b4b480b9532362bafe68e61e55c60d1daf23ff3f",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::09-Upper-GI-Infections"
       ]
     },
     {
@@ -76780,6 +78033,12 @@
       "first_field_hash": "c0220d707df5ce385535480ca45c77904ac07d5cb58b1a69a7b3e39e862c35ca",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::16-Lower-Respiratory-Infections"
+      ]
+    },
+    {
+      "first_field_hash": "1c75aa99fede035567e94357cc324b3b9e70f4723416874b8968a2d11c8cc8bc",
+      "tags": [
+        "JerryShen_AnKing_Tags::POM-4::ACS-Skills::Abdomen::Class-Content"
       ]
     },
     {
@@ -77603,6 +78862,12 @@
       "first_field_hash": "0d400eda86a4ae1a9d0b215e6ebac3a65b53c35509c48e06fcbc21bff89febd2",
       "tags": [
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-1::04-Intro-to-Viruses"
+      ]
+    },
+    {
+      "first_field_hash": "40aac4daaddc88d2002c0be438c6019409ccce17116f93278182a36889f63ebc",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::09-Upper-GI-Infections"
       ]
     },
     {
@@ -79067,7 +80332,8 @@
     {
       "first_field_hash": "e8e43e389706f7a20c3b6494c1be4189978ce00ad9139151141f6dcf972b62ae",
       "tags": [
-        "JerryShen_AnKing_Tags::Micro-Pharm::Exam-2::09-Misc-Antimicrobials-&-Skin-Infections"
+        "JerryShen_AnKing_Tags::Micro-Pharm::Exam-2::09-Misc-Antimicrobials-&-Skin-Infections",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::09-Upper-GI-Infections::Class-Content"
       ]
     },
     {
@@ -79679,6 +80945,12 @@
       ]
     },
     {
+      "first_field_hash": "d6d0faae016cc28d43997ba32a9d31961e0bddc49d050d140cc1faf095f6852e",
+      "tags": [
+        "JerryShen_AnKing_Tags::POM-4::ACS-Skills::Abdomen"
+      ]
+    },
+    {
       "first_field_hash": "0e017f121e6db9adbd62d06719c915c7bf75266bb7b0f15ff54ea96e476fd56a",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::MSK-Block::05-Lower-Limb-Pathology"
@@ -79700,6 +80972,13 @@
       "first_field_hash": "ff49a6123b61132813f94ef5f03b57867d29a603b0b351d385834df541496f2f",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::MSK-Block::05-Lower-Limb-Pathology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "2c4b89acf15231487f895adc3d9167842b5f953b2034dc025866829b86136ee2",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::09-Upper-GI-Infections",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::09-Upper-GI-Infections::Class-Content"
       ]
     },
     {
@@ -80560,6 +81839,13 @@
       "first_field_hash": "9b8bf080ace13b96f3269b2cc243ec2aa2cd8f285953a90aa522c3898ca4fd03",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::MSK-Block::Extra-Upper-Limb-Pathology"
+      ]
+    },
+    {
+      "first_field_hash": "98dfa66f9934124b5619f128d71865a980a537f841aaad35107c998ec738609b",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::10-Hereditary-GI-Cancers",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::10-Hereditary-GI-Cancers::Class-Content"
       ]
     },
     {
@@ -82108,6 +83394,12 @@
       ]
     },
     {
+      "first_field_hash": "137531b3323ba5960d55a3f7f709737e44907c2ed10fcb50134a418857f6b1d9",
+      "tags": [
+        "JerryShen_AnKing_Tags::POM-4::ACS-Skills::Abdomen::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "cc1b7dbbb914e7e311ae29530ac5e9429c3eb499fa1831e472118688a0437942",
       "tags": [
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-2::08-Other-Antibiotics-&-Mycobacteria::Class-Content"
@@ -82185,7 +83477,8 @@
     {
       "first_field_hash": "e00d6fb5a3b5ed1c013683a3286c9dc11b01d933bcc460cce237675afebbd156",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::05-Stomach::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::05-Stomach::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::09-Upper-GI-Infections::Class-Content"
       ]
     },
     {
@@ -82197,14 +83490,16 @@
     {
       "first_field_hash": "2cad1f48a3d2407e4f3babeb9c4a02625adaf160c01f6fa0c524df075af4e2ba",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::05-Stomach::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::05-Stomach::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::09-Upper-GI-Infections::Class-Content"
       ]
     },
     {
       "first_field_hash": "a057e8767359304c4f64a072ec808869f4c0cbfba9cac34780cd0290116b401d",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::05-Stomach",
-        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::05-Stomach::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::05-Stomach::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::09-Upper-GI-Infections::Class-Content"
       ]
     },
     {
@@ -82241,7 +83536,8 @@
     {
       "first_field_hash": "c26f08c078d1b7c71993bfc0c620fbf2042e99deba981e4222f277abd57afe09",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::05-Stomach::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::05-Stomach::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::09-Upper-GI-Infections::Class-Content"
       ]
     },
     {
@@ -82423,6 +83719,12 @@
       "first_field_hash": "820b86bbe4a680ea96aa367aacc0a431f2ba55b637d1d4f955dc9c46ccc10f6a",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::18-Heart-Sounds-&-Clinical-Exam"
+      ]
+    },
+    {
+      "first_field_hash": "df3f91bef61c7269460dbc51070ca336f77d14fdae367edc9a1932eeb993abb7",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::10-Hereditary-GI-Cancers::Class-Content"
       ]
     },
     {
@@ -82842,9 +84144,16 @@
       ]
     },
     {
+      "first_field_hash": "ada92e0303f55dc4febf3b06d27a1ba815a3ccba34572faea16cf5efe0c95080",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::09-Upper-GI-Infections::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "404143b8ed1560de00d37e329754333468f2adc35e0cef8d9a116d6e71ba1d78",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::05-Stomach::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::05-Stomach::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::09-Upper-GI-Infections::Class-Content"
       ]
     },
     {
@@ -82856,7 +84165,8 @@
     {
       "first_field_hash": "4f435dfc7e312c1324d088dafd808c7b83c94392e9b8e51b54dafbc5f639399f",
       "tags": [
-        "JerryShen_AnKing_Tags::Cancer-Biology::Final::05-Cancer-Genes-&-Pathways"
+        "JerryShen_AnKing_Tags::Cancer-Biology::Final::05-Cancer-Genes-&-Pathways",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::10-Hereditary-GI-Cancers::Class-Content"
       ]
     },
     {
@@ -83002,7 +84312,8 @@
     {
       "first_field_hash": "0c0d30d2631952b47f5958cddd85de20139d0e56daeef04bc0d409c8402f29e6",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::05-Stomach"
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::05-Stomach",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::09-Upper-GI-Infections::Class-Content"
       ]
     },
     {
@@ -83220,6 +84531,12 @@
       ]
     },
     {
+      "first_field_hash": "d549d14c82fb623a97871a11818a53a68384dbe662110191c0766b9cb1952b48",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::10-Hereditary-GI-Cancers"
+      ]
+    },
+    {
       "first_field_hash": "9d057de54b7e48b9643adbb05fbf478a0fdea1869bea9b4b8c5e3b70e6b992e3",
       "tags": [
         "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-6-Head-&-Neck-1::Embryology::Class-Content"
@@ -83296,7 +84613,8 @@
     {
       "first_field_hash": "4f237ee3ae348b7ef9ad29ec54bccf9b03fe7650db0d5b880db13b546745f391",
       "tags": [
-        "JerryShen_AnKing_Tags::Molecular-Foundations-&-Genetics::02-Genetics::08.4-Cancer-Genetics"
+        "JerryShen_AnKing_Tags::Molecular-Foundations-&-Genetics::02-Genetics::08.4-Cancer-Genetics",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::10-Hereditary-GI-Cancers"
       ]
     },
     {
@@ -83340,6 +84658,19 @@
       ]
     },
     {
+      "first_field_hash": "50acafd1ce063144f74a9d25de96eb772fda771fd900ebba75e77e0351a5573a",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::09-Upper-GI-Infections",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::09-Upper-GI-Infections::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "8b8a0c16aa0cd61976f67b5467e19fe4327ed23100f076b51b67889f7791705f",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::09-Upper-GI-Infections"
+      ]
+    },
+    {
       "first_field_hash": "90a0049346bc130cc9500053b23f1615e69daa673c475433750190922bb172ae",
       "tags": [
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-2::09-Misc-Antimicrobials-&-Skin-Infections"
@@ -83348,6 +84679,7 @@
     {
       "first_field_hash": "6e6d02f4658525ed8b3bae1e37bafaff728696180a73c55735800ac22e85b3de",
       "tags": [
+        "JerryShen_AnKing_Tags::POM-4::ACS-Skills::Abdomen::Class-Content",
         "JerryShen_AnKing_Tags::POM-4::Clinical-Reasoning::Approach-to-Edema"
       ]
     },
@@ -83981,6 +85313,12 @@
       "tags": [
         "JerryShen_AnKing_Tags::Neurobiology::Exam-3::Tutorial-7-Affective-and-Cognitive-Systems",
         "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::20-Endocrine-Pathology"
+      ]
+    },
+    {
+      "first_field_hash": "a33ee076c10322befdd0df7f15446b65751aad21b997843debd59dfaa533633f",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::09-Upper-GI-Infections"
       ]
     },
     {
@@ -85560,6 +86898,12 @@
       ]
     },
     {
+      "first_field_hash": "9670a48bb605632ecb67694c3233573cf2462c0cb5bc0b1d8567eddf4b9b5be1",
+      "tags": [
+        "JerryShen_AnKing_Tags::POM-4::ACS-Skills::Abdomen"
+      ]
+    },
+    {
       "first_field_hash": "73c23d4086fc1fba28bb3188513cc211dfa9493c06ccd689a7727df49b9adfa9",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::27-The-Abnormal-ECG-Ischemia-&-Infarction::Class-Content"
@@ -85697,6 +87041,12 @@
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::12-Pathology-of-Asthma-and-COPD",
         "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::Lung-Lab-1-Pneumonia"
+      ]
+    },
+    {
+      "first_field_hash": "281edab14b0dacc38f5b259b0cec840d916355e6473e43e265db9db8cc3ee85c",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::09-Upper-GI-Infections"
       ]
     },
     {
