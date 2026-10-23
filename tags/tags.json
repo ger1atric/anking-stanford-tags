@@ -1,14 +1,14 @@
 {
   "schema_version": 1,
   "author": "JerryShen",
-  "description": "upper gi infections and cancer",
-  "created": "2026-10-21T02:42:43.945209+00:00",
-  "updated": "2026-10-21T02:42:43.945209+00:00",
+  "description": "preg",
+  "created": "2026-10-23T16:57:51.274372+00:00",
+  "updated": "2026-10-23T16:57:51.274372+00:00",
   "tag_prefix": "JerryShen_AnKing_Tags",
   "tag_hierarchy": [
     "JerryShen_AnKing_Tags",
     "JerryShen_AnKing_Tags::(✏️)-Tagged-by-Jerry-Shen",
-    "JerryShen_AnKing_Tags::(🛠️)-Last-Updated-102026",
+    "JerryShen_AnKing_Tags::(🛠️)-Last-Updated-102226",
     "JerryShen_AnKing_Tags::(🧋)-buymeacoffee.com/ger1atric",
     "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology",
     "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-1-Thorax",
@@ -599,7 +599,15 @@
     "JerryShen_AnKing_Tags::SOM-2::Repro-Block::07-Complications-of-Pregnancy",
     "JerryShen_AnKing_Tags::SOM-2::Repro-Block::07-Complications-of-Pregnancy::Class-Content",
     "JerryShen_AnKing_Tags::SOM-2::Repro-Block::08-Labor-&-Birth-Complications",
-    "JerryShen_AnKing_Tags::SOM-2::Repro-Block::08-Labor-&-Birth-Complications::Class-Content"
+    "JerryShen_AnKing_Tags::SOM-2::Repro-Block::08-Labor-&-Birth-Complications::Class-Content",
+    "JerryShen_AnKing_Tags::SOM-2::Repro-Block::09-Vaginal-Bleeding",
+    "JerryShen_AnKing_Tags::SOM-2::Repro-Block::09-Vaginal-Bleeding::Class-Content",
+    "JerryShen_AnKing_Tags::SOM-2::Repro-Block::10-Amenorrhea-&-Infertility",
+    "JerryShen_AnKing_Tags::SOM-2::Repro-Block::10-Amenorrhea-&-Infertility::Class-Content",
+    "JerryShen_AnKing_Tags::SOM-2::Repro-Block::11-Uterine-Pathology",
+    "JerryShen_AnKing_Tags::SOM-2::Repro-Block::11-Uterine-Pathology::Class-Content",
+    "JerryShen_AnKing_Tags::SOM-2::Repro-Block::12-Early-Pregnancy-Complications",
+    "JerryShen_AnKing_Tags::SOM-2::Repro-Block::12-Early-Pregnancy-Complications::Class-Content"
   ],
   "changelog": [
     {
@@ -958,6 +966,11 @@
       "date": "2026-10-21T02:42:43.945209+00:00",
       "message": "upper gi infections and cancer",
       "note_count": 328
+    },
+    {
+      "date": "2026-10-23T16:57:51.274372+00:00",
+      "message": "preg",
+      "note_count": 326
     }
   ],
   "notes": [
@@ -1485,6 +1498,37 @@
       "first_field_hash": "a5a8f968fc6cb0843832e5aa5839321a712a0a39bedcc8e51997e5ab67c518ce",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Repro-Block::06-Labor-Delivery-&-Postpartum-Physiology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "b9dacaee0bab1a2d3f65fce6f31fde23613991790093153033b190cf7127a59d",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::09-Vaginal-Bleeding::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "7e963e0ca5fa6898c5053521a080c839c0487af91fb345e297fc953a9747db50",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::09-Vaginal-Bleeding::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "7b0935fd24fcf68b48e0edec6ca200c764adb7acf025ddac77d2164a74bf9f15",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::09-Vaginal-Bleeding"
+      ]
+    },
+    {
+      "first_field_hash": "fe14aedef77b17a6e88771e3305d4f7cedda72ecc6eea1b23e87eabffdbc2b91",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::12-Early-Pregnancy-Complications",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::12-Early-Pregnancy-Complications::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "009aa68efc9ef3d523030641e73d7a68810813ba24e76496481f14634dc31e40",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::09-Vaginal-Bleeding::Class-Content"
       ]
     },
     {
@@ -2253,7 +2297,8 @@
     {
       "first_field_hash": "a44c41634e00f43246ee919bf90b084241575709c4500c4638846a0e2563cdb9",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::11-GH-IGF1-&-Prolactin"
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::11-GH-IGF1-&-Prolactin",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::10-Amenorrhea-&-Infertility::Class-Content"
       ]
     },
     {
@@ -4336,7 +4381,8 @@
     {
       "first_field_hash": "eb8b56f1c080a32d409c44d56dcdd044e7fb810f3f3a61020324e6470250261c",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::11-GH-IGF1-&-Prolactin::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::11-GH-IGF1-&-Prolactin::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::10-Amenorrhea-&-Infertility::Class-Content"
       ]
     },
     {
@@ -4348,7 +4394,8 @@
     {
       "first_field_hash": "50bfbd17c56316073ae19cd39e18d2154318feccacad7c422c3595dbc65d663c",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::11-GH-IGF1-&-Prolactin"
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::11-GH-IGF1-&-Prolactin",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::10-Amenorrhea-&-Infertility::Class-Content"
       ]
     },
     {
@@ -4456,7 +4503,8 @@
       "tags": [
         "JerryShen_AnKing_Tags::Neurobiology::Exam-3::Tutorial-7-Affective-and-Cognitive-Systems::Class-Content",
         "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::20-Endocrine-Pathology::Class-Content",
-        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::Tutorial-2-Thyroid-Disease::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::Tutorial-2-Thyroid-Disease::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::10-Amenorrhea-&-Infertility::Class-Content"
       ]
     },
     {
@@ -4471,7 +4519,8 @@
       "tags": [
         "JerryShen_AnKing_Tags::Neurobiology::Exam-3::Tutorial-7-Affective-and-Cognitive-Systems::Class-Content",
         "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::20-Endocrine-Pathology::Class-Content",
-        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::Tutorial-2-Thyroid-Disease::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::Tutorial-2-Thyroid-Disease::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::10-Amenorrhea-&-Infertility::Class-Content"
       ]
     },
     {
@@ -4479,7 +4528,8 @@
       "tags": [
         "JerryShen_AnKing_Tags::Neurobiology::Exam-3::Tutorial-7-Affective-and-Cognitive-Systems::Class-Content",
         "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::20-Endocrine-Pathology",
-        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::Tutorial-2-Thyroid-Disease::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::Tutorial-2-Thyroid-Disease::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::10-Amenorrhea-&-Infertility::Class-Content"
       ]
     },
     {
@@ -4492,6 +4542,24 @@
       "first_field_hash": "bf251f8d1c5d3a049c6e552506e3b4553c67316b5de95e159761aab091cb2592",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::20-Endocrine-Pathology"
+      ]
+    },
+    {
+      "first_field_hash": "cc102f990740df524ea92080f02d2704377ea8cfd1c131214dcffde15af0193b",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::10-Amenorrhea-&-Infertility"
+      ]
+    },
+    {
+      "first_field_hash": "68234accd6633fe882e2758d7ae2096c7f6060421488996b2e467caf3569477b",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::10-Amenorrhea-&-Infertility"
+      ]
+    },
+    {
+      "first_field_hash": "0690f82eb060b0df2eae9add8df7e3d58bc9b66043ea8035d74b60d09df909af",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::10-Amenorrhea-&-Infertility"
       ]
     },
     {
@@ -6770,7 +6838,8 @@
     {
       "first_field_hash": "240091bc7cc5ad2237b4ca32a6aa1d7903ce2a78578d8a38c48cced0b2239c43",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::03-HPO-Axis-&-Menstrual-Cycle"
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::03-HPO-Axis-&-Menstrual-Cycle",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::10-Amenorrhea-&-Infertility::Class-Content"
       ]
     },
     {
@@ -6911,7 +6980,8 @@
     {
       "first_field_hash": "2a1fe8978f35435947136128ba86225c81193d39be0a1b86c386e22af50d7739",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::01-Testicular-Physiology::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::01-Testicular-Physiology::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::10-Amenorrhea-&-Infertility::Class-Content"
       ]
     },
     {
@@ -7013,7 +7083,8 @@
     {
       "first_field_hash": "4368e3e744b414206189694e8ad13fdcc9916453570de0a3efc9ea1e24932914",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::01-Testicular-Physiology::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::01-Testicular-Physiology::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::10-Amenorrhea-&-Infertility::Class-Content"
       ]
     },
     {
@@ -7035,9 +7106,16 @@
       ]
     },
     {
+      "first_field_hash": "08280503529bc4eff1a0ecb7074dd2f2a9fe842349d3b3a84e6ad0c419ab9d0c",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::10-Amenorrhea-&-Infertility::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "aad1cd52cf5f5a0e6068bdfe015fe21d9a74a4997b3b84bd836b79bd595f8039",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::01-Testicular-Physiology::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::01-Testicular-Physiology::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::10-Amenorrhea-&-Infertility::Class-Content"
       ]
     },
     {
@@ -7116,7 +7194,8 @@
     {
       "first_field_hash": "1056db681e5ea7f4e9e16a63b2a0f9c478c04c3952df0150ee0ad00f1382b15d",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::03-HPO-Axis-&-Menstrual-Cycle::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::03-HPO-Axis-&-Menstrual-Cycle::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::11-Uterine-Pathology::Class-Content"
       ]
     },
     {
@@ -7415,7 +7494,8 @@
       "first_field_hash": "67d4cff3222d26c8587a0d7970472dc325872db98b7e8aa3ad5eb101421da4ed",
       "tags": [
         "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-4-Pelvis::Histology",
-        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::03-HPO-Axis-&-Menstrual-Cycle::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::03-HPO-Axis-&-Menstrual-Cycle::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::11-Uterine-Pathology::Class-Content"
       ]
     },
     {
@@ -7434,6 +7514,49 @@
       "first_field_hash": "00da02ce40ac0be8c077515a4b38c2e5c762d8cd54f79517a0d64324b996f595",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Repro-Block::03-HPO-Axis-&-Menstrual-Cycle::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "78a97052bc94ebfaf8800f9d826f6e82829b9d7d0338700b56b606f860cd9cdd",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::09-Vaginal-Bleeding",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::09-Vaginal-Bleeding::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "a17cc45378c46ae04d2a4056b848d085d85792a2e178b70901bb651fb4077561",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::09-Vaginal-Bleeding"
+      ]
+    },
+    {
+      "first_field_hash": "7133999a9163984a0c8e557f0418bbaf825cc68bd79f9ceda7a1792e12a5c466",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::09-Vaginal-Bleeding::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "fd318857e4ffdbb2382821af0cedc93d4f0496662726b00cf12868cbe2d43cb8",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::09-Vaginal-Bleeding::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "0abab73adda86389f0066bb69bf2e95dd912d279c01ed5ed2c96a2fe89eb1b4b",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::09-Vaginal-Bleeding::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "3381be75fc1ebca2439cbbac43a0c1005be978219f6cc8063ea1f74e04919b17",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::09-Vaginal-Bleeding"
+      ]
+    },
+    {
+      "first_field_hash": "9875ddcfd44f97a4989bb2f95dc1819f62926fcd5ac936f9ba8fcef6b0b95945",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::09-Vaginal-Bleeding"
       ]
     },
     {
@@ -7476,7 +7599,8 @@
     {
       "first_field_hash": "0e8fca8a7e509ea63d1a051c8ae86e88521f4731d4435370662af9a56a42316a",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::03-HPO-Axis-&-Menstrual-Cycle"
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::03-HPO-Axis-&-Menstrual-Cycle",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::12-Early-Pregnancy-Complications::Class-Content"
       ]
     },
     {
@@ -7561,15 +7685,53 @@
       ]
     },
     {
+      "first_field_hash": "d26e7e7f0d04123877de0228cda66b80f62962ccca051149f548f88e3d267edf",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::10-Amenorrhea-&-Infertility::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "d8e5f79222d8b89aa1b0d2881418f106d30950b0eac4215c60141d839b06e838",
       "tags": [
         "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-4-Pelvis::Embryology::Class-Content"
       ]
     },
     {
+      "first_field_hash": "104d1f6b510a05eefb69c2e6ea65ca89445d40e8ca8e3d60578d680ace1185e2",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::10-Amenorrhea-&-Infertility::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "d97ad47672cfd43de0f07fa55d8a63fe258ef314354d8753b986c6a6f8e6eb36",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::11-Uterine-Pathology"
+      ]
+    },
+    {
+      "first_field_hash": "70458f727e971ff449749c51e808e33c042ed86aa99c0e9660e153a673d2f87d",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::11-Uterine-Pathology::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "2bdcc2cecb5ee18f7691b7a9e811790c7b85e37ef34131074c3210a413907af9",
       "tags": [
-        "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-4-Pelvis::Embryology::Class-Content"
+        "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-4-Pelvis::Embryology::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::11-Uterine-Pathology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "62d0b3c8934b81c2be4344cbc5d179925d93aa67381a64532c76465e04aa7637",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::10-Amenorrhea-&-Infertility::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::11-Uterine-Pathology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "7bb10773dbdc51fd1da9ff7c0ebdf937f73d980b841a8acfe7029e40c09b74f6",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::11-Uterine-Pathology::Class-Content"
       ]
     },
     {
@@ -7647,7 +7809,8 @@
     {
       "first_field_hash": "f0fdc492b6eeb63e084814ffe432e3d592758c94ded1babf17b666062c50bce6",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::03-HPO-Axis-&-Menstrual-Cycle::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::03-HPO-Axis-&-Menstrual-Cycle::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::10-Amenorrhea-&-Infertility::Class-Content"
       ]
     },
     {
@@ -7659,7 +7822,8 @@
     {
       "first_field_hash": "c48cf1e72e8c4d63cb690c0e2341b7111f3b184df4ba4d16a52b8311ec925616",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::04-Steroid-Hormone-Pharmacology::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::04-Steroid-Hormone-Pharmacology::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::10-Amenorrhea-&-Infertility::Class-Content"
       ]
     },
     {
@@ -7808,15 +7972,269 @@
       ]
     },
     {
+      "first_field_hash": "5e18b1f6f5d2c634f8942fec083cf45c557959109ca8aabd8cf9b13b325c54ad",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::10-Amenorrhea-&-Infertility::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "30526e1fc5da26c9bec3df075e92fc3948c52f7a71aba377ceb6f13d122b9727",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::10-Amenorrhea-&-Infertility"
+      ]
+    },
+    {
+      "first_field_hash": "0dfb28b5c1dbb49f6b6e2994b50968caf71375aa16f59ca1bee20692f0d39e36",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::09-Vaginal-Bleeding"
+      ]
+    },
+    {
+      "first_field_hash": "a07fdcb2a47241c2d75fe1fba4bbff2ee571169cdf96a21bf5b066fdd7a70a1b",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::09-Vaginal-Bleeding::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "8cfc8172c281cef923ea6c5ec50d6f72a62a4a3e4cd7506d1b4b6b787d45d7d2",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::11-Uterine-Pathology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "3879e544b53552aebcb0d09de921ff4cfe038d3788dccd5e54d1f7bfd1f4cde4",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::10-Amenorrhea-&-Infertility",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::11-Uterine-Pathology"
+      ]
+    },
+    {
+      "first_field_hash": "02a18a7eb1eea6c54651f0b8e4b4a095b6fb096c2d190df169a15fec6dad714f",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::09-Vaginal-Bleeding",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::09-Vaginal-Bleeding::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "7c3ba0920d36349fe7c28ca6348c0c709da2552bc2770a4dd4cbc42815583ea1",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::09-Vaginal-Bleeding::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "02aa657fba066673c073dd8466e422b4e5b0f204b0d8e620b199012b1e336bc7",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::09-Vaginal-Bleeding"
+      ]
+    },
+    {
+      "first_field_hash": "c79d0c6b6735a7509ae769aac12c4b5294e31240a44c7c815988bfc2b432bb3c",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::09-Vaginal-Bleeding",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::10-Amenorrhea-&-Infertility::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "176a4fe42b18f57b994c4455d9187e4c28ac9aa08716ebe96cb6e178a223cdb9",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::11-Uterine-Pathology"
+      ]
+    },
+    {
+      "first_field_hash": "4705349307991aaabe080a70163b810172708a92584326f7438cdd3ec30b2e65",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::10-Amenorrhea-&-Infertility::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "f443144f67f6c41d33630811165fa5da5eaea3f3ded8a6bf92d59e7fe8d02222",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::09-Vaginal-Bleeding",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::09-Vaginal-Bleeding::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "18e480aaeec23135fb2dff58ba1411280342346c1f8b4356c100682572083da3",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::10-Neuroendocrinology::Class-Content"
       ]
     },
     {
+      "first_field_hash": "ebb1b6e48eade2896447ea2fe039a15ac24da5421d5e14b30bf80d6ae5a53f98",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::09-Vaginal-Bleeding::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "7fd092382830e8ac308644a0fe6e8f3138f41e91250a26f2475c86ffe2464cd8",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::09-Vaginal-Bleeding::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "4bd757d7b245749f1617e53f8c0f92a900c8bd7e02473b2573b6cc9c4cc8452d",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::09-Vaginal-Bleeding::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "e03b0ebe0d725f2d86b0678ff0c03744a0739958c9add692e2eb9de68ce87e62",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::09-Vaginal-Bleeding"
+      ]
+    },
+    {
+      "first_field_hash": "5d1d30bfdc5b55708745466b002e0dadee9725130a4360f1a82c076d5c86cf4a",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::09-Vaginal-Bleeding",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::09-Vaginal-Bleeding::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "d0aee700f88ce2c0448ac082e455436bb09875eec5d883248dbd4c5b7a62ebbb",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::09-Vaginal-Bleeding::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "239c64376a335650cc05432bc195163aeb87cb97f763414a9b0118928c9d78e5",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::09-Vaginal-Bleeding::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "819db7142b328b3e33e0d176a612a7456b7c5be187095db4421bc4308915e76a",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::09-Vaginal-Bleeding"
+      ]
+    },
+    {
+      "first_field_hash": "467c75518bab2a60992759089afd1a2c59efcd7a09cc34587ddd76ce9aa94112",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::09-Vaginal-Bleeding::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "8de7e2b4507525ca55d63af0077221635538839615e6c8bc6af5ecb447d6421c",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::09-Vaginal-Bleeding::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "9ebbf72c2306d846af6f07b1eca0bb662d18e7ec45dd75f8a06564efac23eac6",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::09-Vaginal-Bleeding"
+      ]
+    },
+    {
+      "first_field_hash": "5fb92b749643849b9e62d88a4cf4930df80c32b968c93d0f088a5eafd92ce282",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::09-Vaginal-Bleeding",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::11-Uterine-Pathology"
+      ]
+    },
+    {
+      "first_field_hash": "6eb35b64062b4ace395cd820e2f599855894ed92f6908dbbcf5067819ffdff0c",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::11-Uterine-Pathology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "d74f8b082726b39d9bb4468844ef3281c223cf83661c2a9215b8bdd9ef2dfe31",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::09-Vaginal-Bleeding::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "7d5605b06c3a77c6de48646d120f0b938287cf64dfe98c120dd4ed66d6e369ea",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::09-Vaginal-Bleeding"
+      ]
+    },
+    {
+      "first_field_hash": "f9586cf4a70f66b4704e1f51a303986d1ae593ff37171b8fd6c1e9bdaa310883",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::09-Vaginal-Bleeding"
+      ]
+    },
+    {
+      "first_field_hash": "5532eeac61801251b9666f36e04447984fc7af949a2875e308dfd5e5dacce60d",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::11-Uterine-Pathology"
+      ]
+    },
+    {
+      "first_field_hash": "d9fc60d08695798abb4f7a3a1cbbde8be1bd2772ec20f02e525ef3c74f2b14ac",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::09-Vaginal-Bleeding::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "8800f9fcfe555bb3d3b680965e46df40d563480195103d61a871d80e1e76ee63",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::09-Vaginal-Bleeding::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "a6e988b61d7fcfba8c719d708e447c7d1606277d3a991a51d3e1377b579cdb88",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::09-Vaginal-Bleeding::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "433494ce49f01752b602bb02025eda6cc3402c1b5e42f8bd665c294565ed78cc",
       "tags": [
-        "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-4-Pelvis::Histology"
+        "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-4-Pelvis::Histology",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::09-Vaginal-Bleeding::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "1779a23b1b5b3590816edf7555c2fe62dfb8e5f4e5bfb1c7dbd6ee1d8b0b07ba",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::09-Vaginal-Bleeding::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "1678153045f7f73020aae3ef94b7ffe5b95cd1281621b205801c32e33c4181b9",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::09-Vaginal-Bleeding::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "8b644584bb6c3cb40b23bf865f07e21c02a81a67faaecbbfdd3f6ee12ecd4f52",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::09-Vaginal-Bleeding",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::11-Uterine-Pathology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "e891993d050e89060e2cecb5dcccc1ec0639c5eb035190852cf128220255e142",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::09-Vaginal-Bleeding::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "aa8d8530a748ae69a85b10cc87ec1b70621207cebe6150a93eb6e09a550e8624",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::09-Vaginal-Bleeding"
+      ]
+    },
+    {
+      "first_field_hash": "3a4a89407dd0c265b352b04845ad65d1916d38163cc81493357f3bf713e6368a",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::09-Vaginal-Bleeding::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "fb801bf61d70295a91aa55f442fef79a7f519807600eaac11b2f43789e320357",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::11-Uterine-Pathology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "b594ccd6a1c794639cc0176ebf50f36baf3ceb5f0ff17a7f1bc8412a3d6b6730",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::11-Uterine-Pathology"
       ]
     },
     {
@@ -7829,7 +8247,8 @@
     {
       "first_field_hash": "c3ea9bf6e1a4da93a6362aa2432161fc20bf564f6166d16de00a23c418df1cbc",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::04-Steroid-Hormone-Pharmacology::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::04-Steroid-Hormone-Pharmacology::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::10-Amenorrhea-&-Infertility::Class-Content"
       ]
     },
     {
@@ -7867,7 +8286,8 @@
     {
       "first_field_hash": "6324a5876b0eef69b2930aa30217b8e33b0a93dcf77a2c4eeb8f9ba192b5332f",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::04-Steroid-Hormone-Pharmacology::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::04-Steroid-Hormone-Pharmacology::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::10-Amenorrhea-&-Infertility::Class-Content"
       ]
     },
     {
@@ -7896,6 +8316,12 @@
       ]
     },
     {
+      "first_field_hash": "7e4f41f4c50384e508c14f13447f7a960f3d4692c6a1c0e48311775990651cef",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::11-Uterine-Pathology"
+      ]
+    },
+    {
       "first_field_hash": "b1eeb003e6bcb71c380b97078db056d34287162815af2bfe338c96259c51d24c",
       "tags": [
         "JerryShen_AnKing_Tags::Cancer-Biology::Final::06-Role-of-Pathology-in-Cancer-Diagnosis::Class-Content"
@@ -7911,6 +8337,49 @@
       "first_field_hash": "76300b32491b0a47d7d19af409c6bca101489b3083e63ef2af611ac5fdfefb60",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::05-Stomach::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "08691b736159fbff3c4d51023f029a6faf1382e1e1e950aefcbf25c6aa7daae9",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::12-Early-Pregnancy-Complications::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "bbc35fc27795d223eeb2b77a987f472f0021cbab84511da0c018d551f0280793",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::12-Early-Pregnancy-Complications"
+      ]
+    },
+    {
+      "first_field_hash": "3e72f45ee278b8d5508ec13ae113c578d023091e23a63a8a16785a455dbb28dc",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::12-Early-Pregnancy-Complications::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "dde155fe52877973b31a16b33d856d15c70494e265a6cfb2d505ac40f8c38444",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::12-Early-Pregnancy-Complications::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "481b1cd6ff0d6509bb22881244adf8d6b375f0b6a934345d3687db6b19b48932",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::12-Early-Pregnancy-Complications::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "1fc0f930d29a60f60543ed5f409c414fa5ea95ddc909d8407afe4a87b886bf8e",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::12-Early-Pregnancy-Complications",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::12-Early-Pregnancy-Complications::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "20ef145aa98179a0e835f07487a71bdc7a85a73ea678dbf0047e43cb4c5f5ed1",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::12-Early-Pregnancy-Complications::Class-Content"
       ]
     },
     {
@@ -8330,6 +8799,18 @@
       ]
     },
     {
+      "first_field_hash": "8da45d90ac177c6b99f2d1483e5b065638f426a1cc6f726a2bef7517e20599b3",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::11-Uterine-Pathology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "81bcdd3c18a4c487ccdfd6da20b5b2e4729407886cc344c046aaea2d856c5d62",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::11-Uterine-Pathology"
+      ]
+    },
+    {
       "first_field_hash": "51d43e03ac4d66a61eba70d210ba5278f977590f3025ee56124886c376f0302d",
       "tags": [
         "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-4-Pelvis::Embryology::Class-Content",
@@ -8337,9 +8818,16 @@
       ]
     },
     {
+      "first_field_hash": "9061343a7406bccb2cd427f2bc4e7e7243e15653c056052b693345e2ab621d2f",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::09-Vaginal-Bleeding::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "a156315424d89ee40403bcd7f1b356cec6100d533490ae802289ea8e2f667259",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::04-Steroid-Hormone-Pharmacology::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::04-Steroid-Hormone-Pharmacology::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::10-Amenorrhea-&-Infertility::Class-Content"
       ]
     },
     {
@@ -8378,21 +8866,24 @@
       "tags": [
         "JerryShen_AnKing_Tags::Molecular-Foundations-&-Genetics::02-Genetics::03-Chromosomes::Class-Content",
         "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::09-Endocrinology-of-Growth::Class-Content",
-        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::03-HPO-Axis-&-Menstrual-Cycle::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::03-HPO-Axis-&-Menstrual-Cycle::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::10-Amenorrhea-&-Infertility::Class-Content"
       ]
     },
     {
       "first_field_hash": "0d88d918dd46ed3a755038b616f9a600faebffb1de99239e452877cbd23a2eaf",
       "tags": [
         "JerryShen_AnKing_Tags::Molecular-Foundations-&-Genetics::02-Genetics::03-Chromosomes",
-        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::09-Endocrinology-of-Growth::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::09-Endocrinology-of-Growth::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::10-Amenorrhea-&-Infertility::Class-Content"
       ]
     },
     {
       "first_field_hash": "2603f06445466b3a7cf55d1422e6e14cb5ab7d4fc9be17f7ef10eee18788741c",
       "tags": [
         "JerryShen_AnKing_Tags::Molecular-Foundations-&-Genetics::02-Genetics::03-Chromosomes",
-        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::09-Endocrinology-of-Growth::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::09-Endocrinology-of-Growth::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::10-Amenorrhea-&-Infertility::Class-Content"
       ]
     },
     {
@@ -8410,9 +8901,28 @@
       ]
     },
     {
+      "first_field_hash": "505b70e0bbfafd0ba1091c91f59ad75bc38208225551194fbaedcf95cc6f9fcb",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::10-Amenorrhea-&-Infertility",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::10-Amenorrhea-&-Infertility::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "e33e4657c7afd3999bc42cd6777b6fedff96e970fb5ccc16597844990e0a50b3",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Repro-Block::01-Testicular-Physiology"
+      ]
+    },
+    {
+      "first_field_hash": "793d7f65b7f92b5ed46ef0a0d08c54373726cbc82e0307e99ef9a906425c62fc",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::10-Amenorrhea-&-Infertility::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "3e3eae65de764fd8b0733969159ad94902489d7cb97c92b77a2a13f320ddc30d",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::10-Amenorrhea-&-Infertility::Class-Content"
       ]
     },
     {
@@ -8420,21 +8930,24 @@
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::09-Endocrinology-of-Growth",
         "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::10-Neuroendocrinology",
-        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::02-Hormone-Replacement-&-Suppression-Therapy::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::02-Hormone-Replacement-&-Suppression-Therapy::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::10-Amenorrhea-&-Infertility::Class-Content"
       ]
     },
     {
       "first_field_hash": "a62641ac94f9d1e62ed6e141306711f99afbb5c4e810edf5e1542792a48ceac0",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::10-Neuroendocrinology::Class-Content",
-        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::02-Hormone-Replacement-&-Suppression-Therapy::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::02-Hormone-Replacement-&-Suppression-Therapy::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::10-Amenorrhea-&-Infertility::Class-Content"
       ]
     },
     {
       "first_field_hash": "88542635c03db16167db435dabc7de4a3c3fa6650b2f231d97a0e8192b940ca6",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::10-Neuroendocrinology::Class-Content",
-        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::02-Hormone-Replacement-&-Suppression-Therapy::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::02-Hormone-Replacement-&-Suppression-Therapy::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::10-Amenorrhea-&-Infertility::Class-Content"
       ]
     },
     {
@@ -8442,13 +8955,15 @@
       "tags": [
         "JerryShen_AnKing_Tags::Molecular-Foundations-&-Genetics::02-Genetics::03-Chromosomes::Class-Content",
         "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::09-Endocrinology-of-Growth::Class-Content",
-        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::03-HPO-Axis-&-Menstrual-Cycle::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::03-HPO-Axis-&-Menstrual-Cycle::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::10-Amenorrhea-&-Infertility::Class-Content"
       ]
     },
     {
       "first_field_hash": "eca6721df8468a41cb471e32b85ab9cccb17e8b9740371d720a375fc40e82b83",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::01-Testicular-Physiology"
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::01-Testicular-Physiology",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::10-Amenorrhea-&-Infertility::Class-Content"
       ]
     },
     {
@@ -8588,6 +9103,12 @@
       "first_field_hash": "ffb0a71dc45f3dc748640713feea00076892c3e6cb00991f707e7c36d8c6d1e0",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Renal-Block::06-Disorders-of-Water-Balance"
+      ]
+    },
+    {
+      "first_field_hash": "344801bd709cc654770bee63891a0bdc7c76799c2e8462cf57e0c04e16442b70",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::09-Vaginal-Bleeding"
       ]
     },
     {
@@ -21515,12 +22036,6 @@
       ]
     },
     {
-      "first_field_hash": "06f6d6717b3493f878707170eaf8fe7b15de19e9e742baf9e50328bbd42678b8",
-      "tags": [
-        "JerryShen_AnKing_Tags::Immunology::Final::Complement"
-      ]
-    },
-    {
       "first_field_hash": "84c07e3d9e32b3b6cd7d244d6eb2b222093b8a4221b0a7b3c436b605d0d1811d",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::16-Clotting-&-Thromboembolic-Disease"
@@ -21553,7 +22068,20 @@
     {
       "first_field_hash": "7e4b12b8a6437cd335654a9f19591fee9ba17deb99698658398946c94a20f1a2",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::16-Clotting-&-Thromboembolic-Disease"
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::16-Clotting-&-Thromboembolic-Disease",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::09-Vaginal-Bleeding::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "a81f31e1313f364e20885cb33f4e1d3d5e2207270dcd3390a0a775a61b470176",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::09-Vaginal-Bleeding::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "45e229ff0c7459240c066cf2ab11c7eaa30b57bdce2c25ff5bd15f58a994f290",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::09-Vaginal-Bleeding"
       ]
     },
     {
@@ -24666,7 +25194,7 @@
       ]
     },
     {
-      "first_field_hash": "9cc619ca1c43446eb3f477ac858e3023203c7954d12ddea2ff029007624da56a",
+      "first_field_hash": "044d8f0aa42218b46af096d2ad22e6697d3247e874cfcab874177685ec08d87f",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Renal-Block::02-Body-Fluid-Compartments",
         "JerryShen_AnKing_Tags::SOM-2::Renal-Block::02-Body-Fluid-Compartments::Class-Content",
@@ -32013,7 +32541,8 @@
       "first_field_hash": "04e1d1490836061d06729708b73872a8f391bf0f16a71150d06afc31d14ce5c6",
       "tags": [
         "JerryShen_AnKing_Tags::Biochemistry::Final::06-Nucleic-Acid-Metabolism::Class-Content",
-        "JerryShen_AnKing_Tags::Cancer-Biology::Final::Cancer-Pharmacology"
+        "JerryShen_AnKing_Tags::Cancer-Biology::Final::Cancer-Pharmacology",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::12-Early-Pregnancy-Complications::Class-Content"
       ]
     },
     {
@@ -34239,7 +34768,7 @@
       "first_field_hash": "2a031d845d81d8519144d4178eb3dd043b6971de8122ecb98beca67bf6153b2a",
       "tags": [
         "JerryShen_AnKing_Tags::(✏️)-Tagged-by-Jerry-Shen",
-        "JerryShen_AnKing_Tags::(🛠️)-Last-Updated-102026",
+        "JerryShen_AnKing_Tags::(🛠️)-Last-Updated-102226",
         "JerryShen_AnKing_Tags::(🧋)-buymeacoffee.com/ger1atric",
         "JerryShen_AnKing_Tags::Biochemistry::Final::02-Oxidative-Phosphorylation::Class-Content"
       ]
@@ -43439,6 +43968,12 @@
       ]
     },
     {
+      "first_field_hash": "40b78d8ea5206fa8ce29b07198521cb5eba7ac08c1b4b5f1abfccebd371062c0",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::11-Uterine-Pathology"
+      ]
+    },
+    {
       "first_field_hash": "d4665fc3a5ded8266b90c838a8112d1cd7b6466bbce47d2670e28d9851a74d4c",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::10-Hereditary-GI-Cancers::Class-Content"
@@ -45926,6 +46461,12 @@
       ]
     },
     {
+      "first_field_hash": "0326f49670e61ec57ca25fd0d217f5b40fa051022fc6707ccb5c3aa804baeb7f",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::09-Vaginal-Bleeding"
+      ]
+    },
+    {
       "first_field_hash": "0595f3064a5c3b7c7c611d32a5ea57f7a84db41c28a18c55c38dbac5b2e3df24",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Renal-Block::06-Disorders-of-Water-Balance"
@@ -46212,6 +46753,18 @@
       "first_field_hash": "8d785b07e044d82bf883b94d5753498e05d7c20ee714efab73403aab8d382e0a",
       "tags": [
         "JerryShen_AnKing_Tags::POM-1::Final::Psychiatry::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "4dfd2640a9b97c56eb8d5bce55ef8af873088ae4358dc9b44435b6bb0c4cec19",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::09-Vaginal-Bleeding::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "da88784414e91c68f807f73793bc08b2576b8e1e95f4f2b81375be6544af427a",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::09-Vaginal-Bleeding::Class-Content"
       ]
     },
     {
@@ -49126,15 +49679,57 @@
       ]
     },
     {
+      "first_field_hash": "d18cb0add9b9b028ce39e2d4754d22ee6bcbad31497461ac02a39b2a71a39b7e",
+      "tags": [
+        "JerryShen_AnKing_Tags::Immunology::Final::Immune-Deficiencies"
+      ]
+    },
+    {
       "first_field_hash": "aee3248b18fb83cd16fe14559d217bc03c2fa8094f5f36ff8975e10ab463eb6a",
       "tags": [
         "JerryShen_AnKing_Tags::Immunology::Final::Immune-Deficiencies::Class-Content"
       ]
     },
     {
+      "first_field_hash": "ac561dc81a1ced0090842e06cde9bc88cd1394892b644a0963d117b82d3638eb",
+      "tags": [
+        "JerryShen_AnKing_Tags::Immunology::Final::Immune-Deficiencies"
+      ]
+    },
+    {
+      "first_field_hash": "ac170ca6932374404e1916651933e00e54d02fb9e1bc61a2c4aafde689e0f026",
+      "tags": [
+        "JerryShen_AnKing_Tags::Immunology::Final::Immune-Deficiencies"
+      ]
+    },
+    {
+      "first_field_hash": "5cb821a1e5307cef94a0a9e3e53e10b4b950b75a94a285ca6778df1048b9d6a0",
+      "tags": [
+        "JerryShen_AnKing_Tags::Immunology::Final::Immune-Deficiencies"
+      ]
+    },
+    {
       "first_field_hash": "132b10cfb3e06562bdf998ffd80e3db564457150e1f8ad84a7e2aa77d8d704e8",
       "tags": [
         "JerryShen_AnKing_Tags::Immunology::Final::Immune-Deficiencies::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "3a8f283d9ec3bd4370d0d74d8cf77847dd3237e0b018c13874b7d05eaff44d33",
+      "tags": [
+        "JerryShen_AnKing_Tags::Immunology::Final::Immune-Deficiencies"
+      ]
+    },
+    {
+      "first_field_hash": "fe62b00d76d0169727a37c4924bebe901f6462050954e6adfc959c4d54681223",
+      "tags": [
+        "JerryShen_AnKing_Tags::Immunology::Final::Immune-Deficiencies"
+      ]
+    },
+    {
+      "first_field_hash": "963da5763edf31b4537110f360a03086985e33e48f8d0285b140453332befb66",
+      "tags": [
+        "JerryShen_AnKing_Tags::Immunology::Final::Immune-Deficiencies"
       ]
     },
     {
@@ -49161,6 +49756,18 @@
       "first_field_hash": "383808b27e5b8f0726af5c911a1cba676fa5141411310d457225bfd12da0144f",
       "tags": [
         "JerryShen_AnKing_Tags::Immunology::Final::Immune-Deficiencies::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "92d282c39edacccaf755ba47db4b81fc3d18732fb8699784c55df54266c30693",
+      "tags": [
+        "JerryShen_AnKing_Tags::Immunology::Final::Immune-Deficiencies"
+      ]
+    },
+    {
+      "first_field_hash": "9b47d705256ce0f57991147162069e0fe1ff0bcf847ce4092e37b903957986b1",
+      "tags": [
+        "JerryShen_AnKing_Tags::Immunology::Final::Immune-Deficiencies"
       ]
     },
     {
@@ -49284,6 +49891,18 @@
       "first_field_hash": "58b03ba8d88700335ce20bbd76fdb28a1be1e229858901c0551bb89c8e40df39",
       "tags": [
         "JerryShen_AnKing_Tags::Immunology::Final::Immune-Deficiencies::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "999054fc46089649a8180778c9a4ec76de644d677336c5d6b8298499d21497ea",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::09-Upper-GI-Infections"
+      ]
+    },
+    {
+      "first_field_hash": "ce7a0468aa2a2e42e8502662265e2410f28c7e9e7a26c2549f4f15d435f1caac",
+      "tags": [
+        "JerryShen_AnKing_Tags::Immunology::Final::Immune-Deficiencies"
       ]
     },
     {
@@ -53797,6 +54416,18 @@
       ]
     },
     {
+      "first_field_hash": "a288331ab3d7472674720178e1af4fb12733dc72c057fd9ecfca92b9fd523fc1",
+      "tags": [
+        "JerryShen_AnKing_Tags::Cancer-Biology::Final::05-Cancer-Genes-&-Pathways"
+      ]
+    },
+    {
+      "first_field_hash": "31c29d69e8ed2f26ee8130d184a934c2897311c5cfee175f9aae0cb6d582e6f9",
+      "tags": [
+        "JerryShen_AnKing_Tags::Cancer-Biology::Final::05-Cancer-Genes-&-Pathways"
+      ]
+    },
+    {
       "first_field_hash": "c9cf954a19a9dfe019ddcf6d8bf364a568cc6f366e8fc87347f9b89c9acfc1d2",
       "tags": [
         "JerryShen_AnKing_Tags::Molecular-Foundations-&-Genetics::02-Genetics::08.4-Cancer-Genetics"
@@ -54503,7 +55134,7 @@
       ]
     },
     {
-      "first_field_hash": "666c9f137f263f76b3bab89bc11eecb78d0b88612d24e6ca316e42fea93b2114",
+      "first_field_hash": "0b45e795c62abddac5b52ca4ddf5b24739e4ca5b537b2c837f2571f0a815bdb4",
       "tags": [
         "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-2-Upper-Limb::Anatomy",
         "JerryShen_AnKing_Tags::SOM-1::MSK-Block::Extra-Upper-Limb-Pathology"
@@ -55339,6 +55970,12 @@
       "first_field_hash": "1092614dc01d83fd43beacebd13ef02a2a3f50d39549b889e508e2aad4fad545",
       "tags": [
         "JerryShen_AnKing_Tags::Cancer-Biology::Final::Cancer-Pharmacology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "17613bc869b9539176469e7e7a50139a75168131378a2043adcb504c01aeb5d6",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::12-Early-Pregnancy-Complications::Class-Content"
       ]
     },
     {
@@ -63499,6 +64136,12 @@
       ]
     },
     {
+      "first_field_hash": "8732d9a00e9d545b22d28620b3e57f46bbddd728e38f0235344049e978dcd80d",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::09-Vaginal-Bleeding"
+      ]
+    },
+    {
       "first_field_hash": "79bd4487bfead6a92f3f6036de3a3f96509fe16c7cb671b5c49463e162e6836c",
       "tags": [
         "JerryShen_AnKing_Tags::POM-3::Psychiatry::Mood-Disorders::Class-Content"
@@ -63531,7 +64174,8 @@
     {
       "first_field_hash": "d24ba9b2c72335cd27ffb6c981c3d9c8d78cc34f111f5c7511876d94844fcd9a",
       "tags": [
-        "JerryShen_AnKing_Tags::Biochemistry::Final::06-Nucleic-Acid-Metabolism::Class-Content"
+        "JerryShen_AnKing_Tags::Biochemistry::Final::06-Nucleic-Acid-Metabolism::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::12-Early-Pregnancy-Complications::Class-Content"
       ]
     },
     {
@@ -63555,7 +64199,8 @@
     {
       "first_field_hash": "4e688ae2946d38ca2edf868f13456ebe91ba1c3d2c7c0a2b3eb6269d233e2ab9",
       "tags": [
-        "JerryShen_AnKing_Tags::Cancer-Biology::Final::Cancer-Pharmacology"
+        "JerryShen_AnKing_Tags::Cancer-Biology::Final::Cancer-Pharmacology",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::12-Early-Pregnancy-Complications::Class-Content"
       ]
     },
     {
@@ -66939,6 +67584,12 @@
       ]
     },
     {
+      "first_field_hash": "5cb7169437547ec5d26e7880df5304fbf4a7630949ac08ea4e162b6d357e259d",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::10-Amenorrhea-&-Infertility"
+      ]
+    },
+    {
       "first_field_hash": "56ff65bcbdf8c9b8195ba9bba645e1b86cd60e2924adda67c5df7c75a04169d4",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::06-Small-Intestine::Class-Content"
@@ -68906,18 +69557,32 @@
       ]
     },
     {
+      "first_field_hash": "4d83184b743e0c4d93e4e839313e88f1e23aa3a5fefb78eea699f7ad7bd249f6",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::09-Vaginal-Bleeding::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "e99854f0e829b88d8839f2d8fac3fd63c58055b02c39ce2c6a770d626ab03066",
       "tags": [
         "JerryShen_AnKing_Tags::Molecular-Foundations-&-Genetics::02-Genetics::03-Chromosomes",
         "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::09-Endocrinology-of-Growth::Class-Content",
-        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::03-HPO-Axis-&-Menstrual-Cycle::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::03-HPO-Axis-&-Menstrual-Cycle::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::10-Amenorrhea-&-Infertility::Class-Content"
       ]
     },
     {
       "first_field_hash": "0cc5812a8e79725d0e2d7eb4bd126d05e7cbb318b9abd17f48b9ed620b1fb5e0",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::09-Endocrinology-of-Growth::Class-Content",
-        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::03-HPO-Axis-&-Menstrual-Cycle::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::03-HPO-Axis-&-Menstrual-Cycle::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::10-Amenorrhea-&-Infertility::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "abfbc018885f99b2db151d3e27f41308286d2499db5d861d8e98cac39bed0bb0",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::10-Amenorrhea-&-Infertility::Class-Content"
       ]
     },
     {
@@ -68983,7 +69648,8 @@
     {
       "first_field_hash": "364aade6ad89174a6d732c07070beab4bd57ac9389bcff8871b32b397a4b8e99",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::09-Endocrinology-of-Growth::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::09-Endocrinology-of-Growth::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::10-Amenorrhea-&-Infertility::Class-Content"
       ]
     },
     {
@@ -69015,6 +69681,12 @@
       "first_field_hash": "d0e439d0e7ec34d184614783dfed1835f77b36b03d61ece847ba8a6134be6c4d",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::09-Endocrinology-of-Growth::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "3c959e0b77350cecefa18db9549e92189c2c6645f6d8d6e157ff9138f63516bc",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::10-Amenorrhea-&-Infertility::Class-Content"
       ]
     },
     {
@@ -69051,6 +69723,12 @@
       "first_field_hash": "8916e062e236f9782b1e098090b601e921cae49bb5bada3b98406cb5d81030a1",
       "tags": [
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-1::04-Intro-to-Viruses"
+      ]
+    },
+    {
+      "first_field_hash": "afb44cf5e8f2efa602fc43fdeb377d5e3ac8c07edbd3613afc5476cba3c09bad",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::09-Vaginal-Bleeding"
       ]
     },
     {
@@ -69523,6 +70201,12 @@
       ]
     },
     {
+      "first_field_hash": "8630412b5440c0045b297bf5882ef2011f3d1bd1f8761f0aae5b84342c64fe42",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::11-Uterine-Pathology::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "2eb0f469c304246fac939dc7821b95869559fa59aa683816420ed83488649304",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::27-Lung-Cancer"
@@ -69884,6 +70568,12 @@
       "first_field_hash": "c0d95c6a469e4ec7fc5b52ed08c12acc6a47ca856748003a212960ecc6cb537a",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Repro-Block::08-Labor-&-Birth-Complications"
+      ]
+    },
+    {
+      "first_field_hash": "a06220eeb1285bda761bb8b209c4dbbd4238b283127d837950f2f6d35ee45f62",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::12-Early-Pregnancy-Complications::Class-Content"
       ]
     },
     {
@@ -70624,6 +71314,12 @@
       ]
     },
     {
+      "first_field_hash": "c3275bbe9ca1f843c401ad6316cadd1f1ef13616e524b75a82a5b1aa2db0ae3d",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::10-Amenorrhea-&-Infertility::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "cdcddd2f514c80fcef0d2cfeb473e7c64f35911e7489f1c8024c1b2f9236caa2",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Repro-Block::04-Steroid-Hormone-Pharmacology"
@@ -70663,7 +71359,14 @@
     {
       "first_field_hash": "65c53255a141c4721ff83e80692b8d29b932ba2d20d0be0a127394f71e46277a",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::03-HPO-Axis-&-Menstrual-Cycle::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::03-HPO-Axis-&-Menstrual-Cycle::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::10-Amenorrhea-&-Infertility::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "493d0589d5f38435b9a3948af7202dce046a1ecdd18f2185324245bc3e94d195",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::10-Amenorrhea-&-Infertility"
       ]
     },
     {
@@ -70722,9 +71425,28 @@
       ]
     },
     {
+      "first_field_hash": "3fa27be4a983713494b78bae6ceddd075cc520f6f6b85812cb408a39868432b7",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::10-Amenorrhea-&-Infertility::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "756a5f9b662f96d29feadcb2a82fb867a0dcf13762f1f739ca90c9fab696c65d",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::12-Early-Pregnancy-Complications::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "b2f2b73550131aa0c2615a8fbd544d36ab0e73f492ffebfc3f10cf943c78063f",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::02-Hormone-Replacement-&-Suppression-Therapy::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::02-Hormone-Replacement-&-Suppression-Therapy::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::10-Amenorrhea-&-Infertility::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "86258d15be00e509162d3388b8bc979e4eaf5acc6fe3c1288dce936a45a0e62d",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::11-Uterine-Pathology"
       ]
     },
     {
@@ -70818,9 +71540,33 @@
       ]
     },
     {
+      "first_field_hash": "6128bce925e934aa707349012edca6c0d6683689c538f33bf54fcef80c6b1e4d",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::10-Amenorrhea-&-Infertility::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "48aa8e88f4ce4a38e9d913b34cf15fc0f0cc95574b79af80e9f7d538a13f87e3",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::16-Thyroid-Physiology-&-Pathophysiology"
+      ]
+    },
+    {
+      "first_field_hash": "5fc1597a36e5ab056eb5c501820f89948c4a95d984d266bbbe01dc15aa1df252",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::09-Vaginal-Bleeding::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "a6793362928a6b539483b164cf3fef9688a22c62da109c534e4bd0d5b5d7b367",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::09-Vaginal-Bleeding::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "5a28971060b3186265651c750a4865b85da0686d7417d68942b236637ed149cf",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::09-Vaginal-Bleeding::Class-Content"
       ]
     },
     {
@@ -70839,7 +71585,8 @@
       "first_field_hash": "8b5cb413e048abafe9ff4cc13a829827007a2555e63cba5ebb2a04cb698079f8",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::09-Endocrinology-of-Growth",
-        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::03-HPO-Axis-&-Menstrual-Cycle"
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::03-HPO-Axis-&-Menstrual-Cycle",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::10-Amenorrhea-&-Infertility::Class-Content"
       ]
     },
     {
@@ -71046,6 +71793,12 @@
       ]
     },
     {
+      "first_field_hash": "addcc1b9c4d200bfbcdcef7e331868eeeaca97ac820f847bf6c7bf9bc7a29c71",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::10-Amenorrhea-&-Infertility"
+      ]
+    },
+    {
       "first_field_hash": "88899b588a1d34f06d79d05cf6839b3ca5e31aca07c8f77bf222d91548b6ba2d",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::08-Insulin-&-Antidiabetic-Pharmacology"
@@ -71136,6 +71889,12 @@
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Renal-Block::17-Urinary-Tract-Infections",
         "JerryShen_AnKing_Tags::SOM-2::Repro-Block::05-Physiology-of-Pregnancy::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "cda76c5c6765333104e1aa7acea52c5e1c8cbcde50adc1be80ba5946800a3807",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::09-Vaginal-Bleeding"
       ]
     },
     {
@@ -71949,7 +72708,8 @@
     {
       "first_field_hash": "10576cec946413fb5329ed8960bf7db0df3d270a0196d831309b98364263e3bd",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::01-Testicular-Physiology"
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::01-Testicular-Physiology",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::10-Amenorrhea-&-Infertility"
       ]
     },
     {
@@ -72155,6 +72915,18 @@
       ]
     },
     {
+      "first_field_hash": "ef8bbb534a24433988fe82f1b558505c47d53e138269226fa7a88072e6eac5a2",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::10-Amenorrhea-&-Infertility::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "64f762e66e42c019c6292f8afb815adccc0269d890f497d6faacb2e699c2f0f8",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::10-Amenorrhea-&-Infertility"
+      ]
+    },
+    {
       "first_field_hash": "5031d744e2c5b948cd9d651c728bfaf2ff2995eae313e120bca4aec3925d7618",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Repro-Block::01-Testicular-Physiology"
@@ -72262,6 +73034,18 @@
       ]
     },
     {
+      "first_field_hash": "7715d465a7c1a6c8f0f9b86e6f128c3760010c7cd0941f3dc9bae2a49b61eab4",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::10-Amenorrhea-&-Infertility"
+      ]
+    },
+    {
+      "first_field_hash": "28533f2f449aaf64c212ba6ea876fc276dd809c3e6ac372817ddacf0e44ba9b7",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::11-Uterine-Pathology::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "057030a016124fc887cc56d716c5d03cb9f1dff26397f74cf951dce744498da4",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::15-Pathophysiology-&-Treatment-of-Heart-Failure::Class-Content"
@@ -72271,6 +73055,12 @@
       "first_field_hash": "ed9a3a6d4231fd7050f46c1b3c444f126ac642ed9f70b6e99c73cd1ac362c8ea",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::MSK-Block::05-Lower-Limb-Pathology"
+      ]
+    },
+    {
+      "first_field_hash": "b5c0d05a280744fbebdaae37c40562f25b030c29343f4ebe452a038aaa9795ea",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::10-Amenorrhea-&-Infertility"
       ]
     },
     {
@@ -72357,6 +73147,12 @@
       "tags": [
         "JerryShen_AnKing_Tags::Molecular-Foundations-&-Genetics::02-Genetics::03-Chromosomes",
         "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::09-Endocrinology-of-Growth"
+      ]
+    },
+    {
+      "first_field_hash": "46456ea2a04aa6d2e71f4d7fa15b7f33ac6f8eccbc89065a3e0a5ee94aa525a1",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::10-Amenorrhea-&-Infertility::Class-Content"
       ]
     },
     {
@@ -72832,6 +73628,13 @@
       ]
     },
     {
+      "first_field_hash": "0e0963e951d712f8e43becfa8ed89075fde7a983e6b63086db70c70cfa30a521",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::09-Vaginal-Bleeding",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::09-Vaginal-Bleeding::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "0dc9f116e6a65826eebf11ebf958481023974dbadc6fa22d42dab45412d3c361",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::03-Glucose-Homeostasis-2::Class-Content"
@@ -72910,6 +73713,24 @@
       "first_field_hash": "f7ae64a8510bce02b29f8e725ffa359aedda439117dcf4e1407a1c6b133e3861",
       "tags": [
         "JerryShen_AnKing_Tags::POM-3::Clinical-Reasoning::Advanced-Pulmonary-Exam"
+      ]
+    },
+    {
+      "first_field_hash": "aa47a7f86536b922ae6d05f0f1045ee3c3162654933207f1d75ed61c7e0ac719",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::10-Amenorrhea-&-Infertility::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "aba3e42f105883faa31e0e345eae9b680aa377500f2f3477418dfa1f519d5690",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::10-Amenorrhea-&-Infertility::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "cc40b58bf4f8f1bc74f8a7b16364122e7f0f3b4173d1a7043864398b61b48230",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::10-Amenorrhea-&-Infertility::Class-Content"
       ]
     },
     {
@@ -73185,9 +74006,21 @@
       ]
     },
     {
+      "first_field_hash": "dc0bb1b17edf953cb45da10bf0088450ccdb562b2974247fbc21d03656fb2b68",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::10-Amenorrhea-&-Infertility::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "0ed09f8ec0d44701ecf495221447345a7db0a8dd757f9faa0d1fe8b1f71428cf",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Renal-Block::09-Metabolic-Acidosis-&-Alkalosis::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "68c11c14f291faa0bf8e3b58521dd3b1e475092f01a4cea4285832c0ed50dc6a",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::10-Amenorrhea-&-Infertility"
       ]
     },
     {
@@ -73370,6 +74203,18 @@
       ]
     },
     {
+      "first_field_hash": "b4e0fffb22262d4b5e0bf1850d340219a8d41fd10352e75c1bf6e26835e46a11",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::10-Amenorrhea-&-Infertility::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "677bf777930a5addf8af4d29745ccd9a797384de6b9d46cb8390a55b8ca7ae19",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::10-Amenorrhea-&-Infertility"
+      ]
+    },
+    {
       "first_field_hash": "fff90be352366abd7c7cd8a83e1f01f749bbaaafbee818db2bf3127a2807140b",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Renal-Block::16-Acute-Kidney-Injury::Class-Content"
@@ -73540,6 +74385,12 @@
         "JerryShen_AnKing_Tags::SOM-2::Repro-Block::05-Physiology-of-Pregnancy",
         "JerryShen_AnKing_Tags::SOM-2::Repro-Block::05-Physiology-of-Pregnancy::Class-Content",
         "JerryShen_AnKing_Tags::SOM-2::Repro-Block::08-Labor-&-Birth-Complications::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "564786fe0f69988df7b18dc4c777e2dd0a3c862575cd8ba649b28dfa2908e1d4",
+      "tags": [
+        "JerryShen_AnKing_Tags::POM-4::ACS-Skills::Abdomen"
       ]
     },
     {
@@ -75217,6 +76068,12 @@
       ]
     },
     {
+      "first_field_hash": "1e96869acefce063e68abe377519454e214beccc8a37c5c2a22958eed592f797",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::12-Early-Pregnancy-Complications::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "e43d698a840991f0e019801aba89649c3ec3084c3c12ce0db63352a900571208",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::15-Upper-Respiratory-Infections::Class-Content"
@@ -75246,6 +76103,12 @@
       "first_field_hash": "8e7c27a87da2022c6f29bf14dab6fd2875434bfe8214e814e06ef55b60db9cf8",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::09-Endocrinology-of-Growth"
+      ]
+    },
+    {
+      "first_field_hash": "74208d8a8383c191bcd1f54d1bdc48036603300e902deeb578377c713215d47a",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::10-Amenorrhea-&-Infertility::Class-Content"
       ]
     },
     {
@@ -75591,7 +76454,8 @@
     {
       "first_field_hash": "9496fcdc52daa7804f534d4082189ddfa1eee91cf85ab1144c8ba014216388ad",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::03-HPO-Axis-&-Menstrual-Cycle"
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::03-HPO-Axis-&-Menstrual-Cycle",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::10-Amenorrhea-&-Infertility::Class-Content"
       ]
     },
     {
@@ -76143,6 +77007,12 @@
       ]
     },
     {
+      "first_field_hash": "01c90bebd7970d4849d0617561094af0ac38f80f12a9c7b78452d484bedbc45d",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::12-Early-Pregnancy-Complications::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "a6ed25544642f8e210d10c810b7aea9a265a5d62419ce72e68efa2b49bf26906",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Repro-Block::04-Steroid-Hormone-Pharmacology::Class-Content"
@@ -76387,6 +77257,12 @@
       ]
     },
     {
+      "first_field_hash": "3125efe349a04c1d3a3babb3f1efc7ad45848ac7d68eb250a0fb7ca1f32f7f9d",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::09-Vaginal-Bleeding::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "7a817151b619821dbe6dc0806940b253a64202eb1114faf5da66e206858db38c",
       "tags": [
         "JerryShen_AnKing_Tags::POM-3::Clinical-Reasoning::Advanced-Pulmonary-Exam"
@@ -76519,7 +77395,20 @@
     {
       "first_field_hash": "def71ef294e9d7088e9c0a74af4b88c53aad611ee7045efbb31014bfd240b450",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::11-GH-IGF1-&-Prolactin"
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::11-GH-IGF1-&-Prolactin",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::10-Amenorrhea-&-Infertility::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "e2b57c2404c90b35ea3109ffe18cf17e7dbf80bf056659419dc06563e5db56ae",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::09-Vaginal-Bleeding::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "6b024ceeb7e098849dbedcfc82396b87e04f5cb812de4bea117649fb73215e52",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::12-Early-Pregnancy-Complications"
       ]
     },
     {
@@ -76529,15 +77418,52 @@
       ]
     },
     {
+      "first_field_hash": "07db6603f43e7cc7a60764301d679fc7cf5ed896d2206013b74fd73b398355a0",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::09-Vaginal-Bleeding::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "e712f4882362cdeaea54e9f4a44b8725ab4b403c1daa64257c0f87aca640a661",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::09-Vaginal-Bleeding",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::09-Vaginal-Bleeding::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "bbe0a9e319acbbce67a1b78c1ee4c6f8b17d804eae6825f940d84ecb0550509f",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Repro-Block::04-Steroid-Hormone-Pharmacology"
       ]
     },
     {
+      "first_field_hash": "371e1b04f90016909f078d73d82837110f411f5f9c074f347924adfadaf8d202",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::11-Uterine-Pathology"
+      ]
+    },
+    {
+      "first_field_hash": "a845d98d98af33b88eea3b3aa0501cd79d3213d5e3c0395769c1f21307041baf",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::09-Vaginal-Bleeding::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "9229591f80df251bb49c697e043c7426fc189db472e2a938b32f89cabadae662",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::09-Vaginal-Bleeding::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "4e371db63fac76f2e1b9e9feafe2fb6e4a6bae49058eb0b958f8e4d00a85101d",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::10-Hereditary-GI-Cancers"
+      ]
+    },
+    {
+      "first_field_hash": "ae0cb8856f97e5955f4c769ac586cf57009194c27b661f1fd056c8e9ec2360c3",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::12-Early-Pregnancy-Complications::Class-Content"
       ]
     },
     {
@@ -76702,6 +77628,48 @@
       ]
     },
     {
+      "first_field_hash": "b38434ab8fec5a06171bbfb922c2520fa9a5eb6acde5f2627d3d74a2e82b04a0",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::09-Vaginal-Bleeding::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "1c3e83f0911794c5ba47673e10210080580a17fa586d7c2d00569d8a40dbd2c7",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::12-Early-Pregnancy-Complications"
+      ]
+    },
+    {
+      "first_field_hash": "50543ec39a27f3a87375c8d469ff5a86fb04ba96c9ff1be7e8d3d549ad2e315e",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::09-Vaginal-Bleeding::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "7b0c8fe319664ded4ae7b16e3b152646b1b47d70693685bfd127bd00dbf9a27c",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::09-Vaginal-Bleeding"
+      ]
+    },
+    {
+      "first_field_hash": "4790900d3b95481fe69b166cb06104643b153e708204f4d7aa51f1c7cb70c560",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::09-Vaginal-Bleeding::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "86e2a5a1e2cf6b118345850285b82571b1ed30a405d2edb2db2d8e0ca08213b5",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::12-Early-Pregnancy-Complications::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "f4778e1ca5a2468ecbf7a01b1a459ceaa60e07c5232053b78ebd9da28a6db82b",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::12-Early-Pregnancy-Complications::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "7c573dd6230112ee3807e770a7b7f22db0bb91f7168f0c7cf94049efbf0a7d7a",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::30-Hypertension::Class-Content",
@@ -76776,6 +77744,12 @@
       ]
     },
     {
+      "first_field_hash": "c64f249e7e8babc80e60876f76eb751c7ed3e75ecd302fa0041fb6bb693b89b2",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::12-Early-Pregnancy-Complications::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "144cfbbe70e1a9f486fd767cf145bb8e12a13fe077a6cb36eecee428215735d9",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::19-ARDS-&-Ventilators"
@@ -76840,6 +77814,12 @@
       ]
     },
     {
+      "first_field_hash": "7cd13cf002d9bea0d0729cbcb7567516b27a915cbf9e98200d08d8ac209e1738",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::09-Vaginal-Bleeding::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "88f952b347a8fe5397820d7dd3bf395df6c896db30a826a9972b4bd98c39a58b",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Repro-Block::05-Physiology-of-Pregnancy",
@@ -76863,7 +77843,14 @@
       "tags": [
         "JerryShen_AnKing_Tags::Neurobiology::Exam-3::Tutorial-7-Affective-and-Cognitive-Systems",
         "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::20-Endocrine-Pathology",
-        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::Tutorial-2-Thyroid-Disease::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::Tutorial-2-Thyroid-Disease::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::10-Amenorrhea-&-Infertility::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "3bceef7fd328dd6491444a701085487bfdb663fd9de84608830268f4fe4e3507",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::09-Vaginal-Bleeding"
       ]
     },
     {
@@ -76874,9 +77861,51 @@
       ]
     },
     {
+      "first_field_hash": "c0027fda067e4e2eeb59c0ba37297534f9076f4f0ab955c74401ded63fc85878",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::09-Vaginal-Bleeding::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "a6d46e6147fa3b49b6e2bc5122e915b7253b694765c541e734dd5c0e559f1ea0",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::09-Vaginal-Bleeding::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "8d31c362030527c083bc2a34da80fe49b5c10374abed906d041f7afd1bb3fa61",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::10-Amenorrhea-&-Infertility::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "d85d239d8f09839a30ce5cad71266f8bd15f1460cc8e1ff32e0eca6d4c06f30d",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::10-Amenorrhea-&-Infertility::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "48a4a195945d648dabb98072640283f3325dc9d101902e79c4e7b337a876a876",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::09-Vaginal-Bleeding::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "6b6fedbe38e00a28e11ca34bf85515416b85346a16c8ea440a7703b098355496",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Repro-Block::07-Complications-of-Pregnancy"
+      ]
+    },
+    {
+      "first_field_hash": "015c8f78d23a1b220b5ffb1a65545c2effbcadc315115c4077be2523e5535f38",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::09-Vaginal-Bleeding"
+      ]
+    },
+    {
+      "first_field_hash": "f6007e02501762b980580c41ea4929bc6f2962401a6d065e2f9cc757b2856bf3",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::09-Vaginal-Bleeding"
       ]
     },
     {
@@ -76892,9 +77921,21 @@
       ]
     },
     {
+      "first_field_hash": "620f4d20140543e68e41e5b30f036553b51d5445e018874dd2048beb43af5629",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::10-Amenorrhea-&-Infertility"
+      ]
+    },
+    {
       "first_field_hash": "b86db543ae353e2a7e6092c94e52978a49c512d5cbe71e88e9a1d6410a9b8bf5",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Repro-Block::03-HPO-Axis-&-Menstrual-Cycle"
+      ]
+    },
+    {
+      "first_field_hash": "383068af53dd975ebe56fc0ef5ef8659bcf2533af781115f70f6fd8035e47740",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::09-Vaginal-Bleeding"
       ]
     },
     {
@@ -77028,6 +78069,19 @@
       ]
     },
     {
+      "first_field_hash": "927738a8e5a3893d3d421009567c68e1417f07d2cb9afb2b313e5112fe7f6933",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::09-Vaginal-Bleeding",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::09-Vaginal-Bleeding::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "201de4fc8f766662daeefe89df72ae1f4e42ca0106fc969a862786aa8c9e7c23",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::09-Vaginal-Bleeding::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "ea969447706fca65f3a99e8bd0664cb6a960dd734556c97ebe53d75d3b920572",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::09-Endocrinology-of-Growth"
@@ -77066,10 +78120,35 @@
       ]
     },
     {
+      "first_field_hash": "77f485ae5c8dbf2d5c93a4a514814404d06fafa523c8f216111ea4612643c518",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::10-Amenorrhea-&-Infertility",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::10-Amenorrhea-&-Infertility::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "336b71aa146da4b7391cb09ce5325b760119b6e9a76384418ef097a00411c57e",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::10-Amenorrhea-&-Infertility::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "6b31c9c186e08408fa473b15843641c8fb7c1914b2cb36606b923e3b30ba1326",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::10-Neuroendocrinology",
         "JerryShen_AnKing_Tags::SOM-2::Repro-Block::02-Hormone-Replacement-&-Suppression-Therapy::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "ad2fec8b7724bd06b469ac75fab99f22d8e09ff2b673cfb9706f7002623e952c",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::10-Amenorrhea-&-Infertility::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "f68fcaa9629c4ba360c0187a774fc351fa0da7e7b32514279e41c59032e16bd2",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::10-Amenorrhea-&-Infertility"
       ]
     },
     {
@@ -77079,9 +78158,22 @@
       ]
     },
     {
+      "first_field_hash": "89866360ad5e337fa4b99c17eaacc519d86fa54b708ddb8eb6e998e29196879a",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::10-Amenorrhea-&-Infertility"
+      ]
+    },
+    {
       "first_field_hash": "cc30ad1053919e36babf6d71fedc481ed5312be97ccae6eeb22a17f1e87a14d9",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::04-Steroid-Hormone-Pharmacology"
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::04-Steroid-Hormone-Pharmacology",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::10-Amenorrhea-&-Infertility::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "4e2724b56d242d63c5c74e1a768b4e818e1a9240f2312501ff0cb4cc12c8a1bf",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::10-Amenorrhea-&-Infertility"
       ]
     },
     {
@@ -77093,25 +78185,29 @@
     {
       "first_field_hash": "d6046ed044f3560cab31117f603fdf2e01ec81e4d39b5618659d1aa2132aaba3",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::04-Steroid-Hormone-Pharmacology::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::04-Steroid-Hormone-Pharmacology::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::10-Amenorrhea-&-Infertility::Class-Content"
       ]
     },
     {
       "first_field_hash": "dd2df5974801bb4900ba0cf3e4f3623b946b84ddc6ab9e824b5776d7f1509670",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::04-Steroid-Hormone-Pharmacology"
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::04-Steroid-Hormone-Pharmacology",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::10-Amenorrhea-&-Infertility::Class-Content"
       ]
     },
     {
       "first_field_hash": "053f6ee0083e02520081669c0894b977e9088b459e6030eb1fe14d5344e8540b",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::18-Adrenal-Physiology"
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::18-Adrenal-Physiology",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::09-Vaginal-Bleeding"
       ]
     },
     {
       "first_field_hash": "6c21acb18c5c7277846140914c8f077238ebe5f5454e2a56b8d6c76256a3630e",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::04-Steroid-Hormone-Pharmacology::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::04-Steroid-Hormone-Pharmacology::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::10-Amenorrhea-&-Infertility::Class-Content"
       ]
     },
     {
@@ -77135,9 +78231,52 @@
       ]
     },
     {
+      "first_field_hash": "0cd5ce5857be48f0b23717f2d113b770832e847e66128fb83a1339fc036ae026",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::10-Amenorrhea-&-Infertility::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "d24ca7bad7b9350d464fa37ad77bc2e01dd6f35140ba95f40653aa1f8f204119",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::10-Amenorrhea-&-Infertility::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "4e407bbddcf43e35eaa658a3d05e4a4f5616ad164b3a6c168477aec547e2c1df",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::10-Amenorrhea-&-Infertility"
+      ]
+    },
+    {
       "first_field_hash": "d547655a2185947db984808c5bdb3a3b9b442fbac95070ae3da1de0df2a0c885",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::16-Thyroid-Physiology-&-Pathophysiology"
+      ]
+    },
+    {
+      "first_field_hash": "ad04f130b86bbdfa5ba3a4bb2e239d2e38f07482c55e5721da4123bc452c94ae",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::09-Vaginal-Bleeding"
+      ]
+    },
+    {
+      "first_field_hash": "06e70340ee3bc80facc56548191d0307ed01e6c21a2b286900015612d2ad6055",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::09-Vaginal-Bleeding::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "7892d14bd2be21caad5d488b5ab19fa853eec3f3977b27c736765787cb7f9396",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::09-Vaginal-Bleeding::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "423f7b220f12666c743aa2450ba1032fcc698f17bcce2dbbc4f82f9bd7093c96",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::09-Vaginal-Bleeding",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::09-Vaginal-Bleeding::Class-Content"
       ]
     },
     {
@@ -77154,6 +78293,24 @@
       ]
     },
     {
+      "first_field_hash": "e17bf88d128b29c2c94da41f1a952a26737fd08600a666ab357166b3a432b6c5",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::09-Vaginal-Bleeding"
+      ]
+    },
+    {
+      "first_field_hash": "92823ad91410bc8489115380d0d866bcde226fe093cf23822dd1dd038ef12bc4",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::09-Vaginal-Bleeding::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "b43294d049b6b49ebd211716a5e0f26497870c1b21cab8ac947c669848ccb85c",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::09-Vaginal-Bleeding"
+      ]
+    },
+    {
       "first_field_hash": "468a2184dded41e39269df8a6f3a8dd86ac43d652f2b39a037357911eda6d72d",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Repro-Block::03-HPO-Axis-&-Menstrual-Cycle"
@@ -77163,6 +78320,12 @@
       "first_field_hash": "0f46f9dddab9a4aea2d5b1b65f9bdf54a71952fca2bb91013b3c07dedc596d00",
       "tags": [
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-1::04-Intro-to-Viruses"
+      ]
+    },
+    {
+      "first_field_hash": "80b8933817aa406df5162e0326a62994ae5a7bcf85879bfd57ccc1907c74ab96",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::12-Early-Pregnancy-Complications::Class-Content"
       ]
     },
     {
@@ -77199,13 +78362,20 @@
       "first_field_hash": "113f50184bf858a690c79751ba57405400a6fe55ac4cf8c75db8bc414bd63ac9",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::09-Endocrinology-of-Growth::Class-Content",
-        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::03-HPO-Axis-&-Menstrual-Cycle::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::03-HPO-Axis-&-Menstrual-Cycle::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::10-Amenorrhea-&-Infertility::Class-Content"
       ]
     },
     {
       "first_field_hash": "3e10f12762b77148114c1998f321531ef25a283b8e3b9b63e1627d24c51f6476",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Repro-Block::06-Labor-Delivery-&-Postpartum-Physiology"
+      ]
+    },
+    {
+      "first_field_hash": "31ca03a03294a87c8a30564dfa49de2d4415a04c2d6cc63f66eb78f354463522",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::12-Early-Pregnancy-Complications::Class-Content"
       ]
     },
     {
@@ -77243,7 +78413,20 @@
       "first_field_hash": "ba2e590fe2bb4096441b5891b7bf10018211cee1dbc6d2621c5113e1c7c7696c",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::09-Endocrinology-of-Growth::Class-Content",
-        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::03-HPO-Axis-&-Menstrual-Cycle::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::03-HPO-Axis-&-Menstrual-Cycle::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::10-Amenorrhea-&-Infertility::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "e3b60c9ba9c0aaf2272d90f64d6a7c93d02561c72cbe82f60ef5fd70e4f395c4",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::10-Amenorrhea-&-Infertility"
+      ]
+    },
+    {
+      "first_field_hash": "489a4a7374accb15838974b2c8a148bbdff02e0ebf119351d5373f6c7908cdf7",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::10-Amenorrhea-&-Infertility::Class-Content"
       ]
     },
     {
@@ -77256,6 +78439,18 @@
       "first_field_hash": "2f770647758b97ee8cf559cd72913a9909f31bdabba45b0714dd1403a3b76160",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Repro-Block::05-Physiology-of-Pregnancy"
+      ]
+    },
+    {
+      "first_field_hash": "8a086be3c91f967199d2290c151bee34cb55fc46ea3f909ad01bfadcebbf71ac",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::09-Vaginal-Bleeding"
+      ]
+    },
+    {
+      "first_field_hash": "2ee4be9dd7db76420b7d86e4f69f413cb788d880dc923e80a7c6895b66739146",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::11-Uterine-Pathology"
       ]
     },
     {
@@ -77825,6 +79020,12 @@
       "first_field_hash": "8621df99785eaa3822fd6f4d97b4e20987ba36aab64a1b8db4ee96a9a6fa9ae5",
       "tags": [
         "JerryShen_AnKing_Tags::Neurobiology::Exam-2::Tutorial-3-Brainstem"
+      ]
+    },
+    {
+      "first_field_hash": "092afe421d9399ffa1b222dce19a7531cc001bd250857067e24603de9eaab9e9",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::10-Amenorrhea-&-Infertility"
       ]
     },
     {
@@ -78618,7 +79819,7 @@
       ]
     },
     {
-      "first_field_hash": "622e05fcfc2ad19745ee097fd038df043215d503f42d83d9e3e9c19f58ad6a89",
+      "first_field_hash": "d23b8b10d4aa63dfb86a38f080887614090f9302c56b527c37ce6a047195092e",
       "tags": [
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-2::07-β-Lactam-Antibiotics-&-Parasites",
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-2::07-β-Lactam-Antibiotics-&-Parasites::Class-Content"
@@ -80026,6 +81227,12 @@
       ]
     },
     {
+      "first_field_hash": "7a6b100f52c9876f7e07d60c5e21b01a09ef209253dd3c9591ef418833536ee9",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::10-Amenorrhea-&-Infertility"
+      ]
+    },
+    {
       "first_field_hash": "e907ed457050d7d4bdce3249730a27d3d96406d4697e26396d0694471c2eaa5a",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::35-Congenital-Heart-Disease::Class-Content"
@@ -80229,7 +81436,8 @@
       "first_field_hash": "86ff548a4b1e0eaa92cb2458ba6d978c58a5fd7f3e0db99861fd7a1f0548844f",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::09-Endocrinology-of-Growth::Class-Content",
-        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::03-HPO-Axis-&-Menstrual-Cycle"
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::03-HPO-Axis-&-Menstrual-Cycle",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::10-Amenorrhea-&-Infertility::Class-Content"
       ]
     },
     {
@@ -80352,19 +81560,28 @@
     {
       "first_field_hash": "4f48b5329d104ceb15fe5c9076d8b9b40cd5e78738f282bcb77fc81d896170d0",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::09-Endocrinology-of-Growth"
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::09-Endocrinology-of-Growth",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::10-Amenorrhea-&-Infertility::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "ee8a2371fa86a71dad61ce7c9f54cea1dcb555241226291813a1cf5845934974",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::10-Amenorrhea-&-Infertility::Class-Content"
       ]
     },
     {
       "first_field_hash": "da6ec24a8c3aaf7075a6003519e7e6e662be37017820f67821feac6aafa67b84",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::04-Steroid-Hormone-Pharmacology::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::04-Steroid-Hormone-Pharmacology::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::10-Amenorrhea-&-Infertility::Class-Content"
       ]
     },
     {
       "first_field_hash": "d3a344f3d7af7fdc6815ac79d19a964de853a01fc29b766dc1a13053436e2168",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::04-Steroid-Hormone-Pharmacology::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::04-Steroid-Hormone-Pharmacology::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::10-Amenorrhea-&-Infertility::Class-Content"
       ]
     },
     {
@@ -80387,9 +81604,22 @@
       ]
     },
     {
+      "first_field_hash": "960f9babd1d3137973573032051683ca43a8e16f9688694ea38f7f739eafeeaf",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::09-Vaginal-Bleeding",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::09-Vaginal-Bleeding::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "d9c7cdbb2223951762afced576ddb31e5784f2f19e8d84a1e2db4511b557ab73",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Repro-Block::03-HPO-Axis-&-Menstrual-Cycle::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "493a02335a2df72c0054ae908547a1160905d24d31156898b52106d17e89861d",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::12-Early-Pregnancy-Complications::Class-Content"
       ]
     },
     {
@@ -80411,6 +81641,12 @@
       ]
     },
     {
+      "first_field_hash": "d161c8ec4146baf2188e2ee636beba16a45922398aa2798efa001e07bbcc742f",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::12-Early-Pregnancy-Complications::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "f75554082f1fe1f151e49478b99265ebc6a4546a5529c6bd7d0f8d4692029d07",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Repro-Block::07-Complications-of-Pregnancy",
@@ -80424,27 +81660,54 @@
       ]
     },
     {
+      "first_field_hash": "8987744116100140b0048ce21c6164b4b0adace38726aca9f1fffb017422530a",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::10-Amenorrhea-&-Infertility",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::10-Amenorrhea-&-Infertility::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "9fe82514bc0c99653e2db5d5b0d39015ccfe7f3c053cfc2646f7f56c4972344b",
       "tags": [
         "JerryShen_AnKing_Tags::Cancer-Biology::Final::06-Role-of-Pathology-in-Cancer-Diagnosis"
       ]
     },
     {
+      "first_field_hash": "fe8f16dfe3d6fd22f46635c36c987df8e4ca12c2260151c7c4295ea55d8df78b",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::09-Vaginal-Bleeding"
+      ]
+    },
+    {
       "first_field_hash": "5fae54b7eca0a8d8c894db3782adcf6a7c3f232c12b1cbffd1b4b51ae825b416",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::13-Obesity"
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::13-Obesity",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::09-Vaginal-Bleeding::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "b63dc1384ee9da4c5c791eebcbfbb7536ec80bb6341a1c1ba4af3f314696eb2b",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::09-Vaginal-Bleeding::Class-Content"
       ]
     },
     {
       "first_field_hash": "9aa3e62c69a800c76d1ac980e919a320157ad97b64c95acc0092071c1a55fe8c",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::09-Endocrinology-of-Growth::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::09-Endocrinology-of-Growth::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::10-Amenorrhea-&-Infertility::Class-Content"
       ]
     },
     {
       "first_field_hash": "c4f5f8bad855b11c697221dc6ece29e7da2e433110cf8381d560d92b7fc24cf1",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::MSK-Block::09-Geriatric-Orthopedics::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "f4456439015634f2a9c810620bc2a1980b14e004d8a255a5286495ba68866799",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::09-Vaginal-Bleeding::Class-Content"
       ]
     },
     {
@@ -80470,6 +81733,12 @@
       "first_field_hash": "cfa04bd67ea984255c7001c201a7ea63a1289f4a813856ab7ef240cda70ceea5",
       "tags": [
         "JerryShen_AnKing_Tags::POM-4::Clinical-Reasoning::Shortness-of-Breath-(Hyperthyroidism)"
+      ]
+    },
+    {
+      "first_field_hash": "ed1bc4f3fbebdd0244e6f16344cb5a9f3414e763d3cf192a68524531800c77ea",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::09-Vaginal-Bleeding"
       ]
     },
     {
@@ -81219,6 +82488,12 @@
       ]
     },
     {
+      "first_field_hash": "538e24e4f99e670567c3ab0e9abca79aa22d25b993b5b8e57fe82eaa4d21a4ac",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::09-Vaginal-Bleeding::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "deb069893d2d07f40c813cb24c37bd2849b77c4328e65d1977d6d03617c7ddb0",
       "tags": [
         "JerryShen_AnKing_Tags::POM-4::EMED-Procedures::Foley-NGTube-&-I&D"
@@ -81484,6 +82759,12 @@
       "first_field_hash": "250b88f71416b7578e94511773a9d5f4af22584f84b742888bf27a75e30129a2",
       "tags": [
         "JerryShen_AnKing_Tags::Biochemistry::Final::03-Lipid-Metabolism"
+      ]
+    },
+    {
+      "first_field_hash": "67df9b3986ffe557598115e4bdb21ca6bb6130d74f98d370e01d304d43876ef9",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::09-Vaginal-Bleeding::Class-Content"
       ]
     },
     {
@@ -81815,6 +83096,12 @@
       "first_field_hash": "ec597ce78bcedf57acf7b1f71614bf1d821592f771309ea92170406a1df980d6",
       "tags": [
         "JerryShen_AnKing_Tags::POM-1::Final::Psychiatry::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "1ee0895610279ae806ed031cc29b7c3d7614075f974d0f3fc47375e9d7c0e5a0",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::09-Vaginal-Bleeding::Class-Content"
       ]
     },
     {
@@ -82333,6 +83620,13 @@
       ]
     },
     {
+      "first_field_hash": "0751db66de7693471f85b01aa2d1df81f065843e5979e6770fe0a0336acc5144",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::09-Vaginal-Bleeding",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::09-Vaginal-Bleeding::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "7bb62ac267cf109076f596bf13811878260e41173e658360fb56fdc09631b424",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::15-Upper-Respiratory-Infections"
@@ -82532,7 +83826,8 @@
       "first_field_hash": "8afa1a60d6e7897f4719f82da69762702e33076ca22c74cd800a7e62ba6d0937",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Repro-Block::01-Testicular-Physiology",
-        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::03-HPO-Axis-&-Menstrual-Cycle"
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::03-HPO-Axis-&-Menstrual-Cycle",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::10-Amenorrhea-&-Infertility::Class-Content"
       ]
     },
     {
@@ -82544,7 +83839,26 @@
     {
       "first_field_hash": "ce62168dbd0cb5f8ae725be185d6bd1598bd8c46ecc72798cd8d60c52884656c",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::03-HPO-Axis-&-Menstrual-Cycle"
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::03-HPO-Axis-&-Menstrual-Cycle",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::10-Amenorrhea-&-Infertility::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "6ae0b5a6b54d9d715d85394eae8fef23a54ef992b4de7f52bdacbf15f2e207a4",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::09-Vaginal-Bleeding"
+      ]
+    },
+    {
+      "first_field_hash": "91de5076f7dd2792c3e909f8d741e5cf3d5c33eca0ae2835d13ccd323007b144",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::09-Vaginal-Bleeding"
+      ]
+    },
+    {
+      "first_field_hash": "baa90e723612a37a4f99109eeb325eed63ff681a3dfddc904662b8bd5177035f",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::09-Vaginal-Bleeding"
       ]
     },
     {
@@ -82858,6 +84172,12 @@
       ]
     },
     {
+      "first_field_hash": "d3049effa61d2663feaa0ed79fa052154b2dcfbdb8d9841ad27300e5d55ee378",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::09-Vaginal-Bleeding::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "28d45661409d521ee5229a0beb7b41ef6b96452766ac1513b901afcd512ef2f4",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Repro-Block::06-Labor-Delivery-&-Postpartum-Physiology"
@@ -82882,9 +84202,28 @@
       ]
     },
     {
+      "first_field_hash": "16b437bd74dd70d059fe0389126786fd7a433086954966d56f0d979d76d0f584",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::09-Vaginal-Bleeding"
+      ]
+    },
+    {
+      "first_field_hash": "c051e66d25976529f82e92c0bdfa1e94291cf2bf6da10bb77f05bbb45cc09982",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::12-Early-Pregnancy-Complications::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "03e525116e842f325bbd7e96c8d26ab52a6d6f800ff890d48eebaa50e78275f7",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Repro-Block::05-Physiology-of-Pregnancy::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "a96605d60924ad63c2f213d44065946d247618f43674a71c3eaf28445e537a2b",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::09-Vaginal-Bleeding",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::09-Vaginal-Bleeding::Class-Content"
       ]
     },
     {
@@ -83001,9 +84340,21 @@
       ]
     },
     {
+      "first_field_hash": "36f801321dc0a77f2a5db3fb9a3d120a4f5de445813041882eb93368d8844e4f",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::09-Vaginal-Bleeding::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "b996451236584b43e75020a9034ddbd3d5aba0b8c5bc995d06aad236c50eb369",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Repro-Block::06-Labor-Delivery-&-Postpartum-Physiology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "0bd51c963c261782315ebea39e37c0e4e96969acd573b525730f2258a008750a",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::09-Vaginal-Bleeding"
       ]
     },
     {
@@ -83026,15 +84377,28 @@
       ]
     },
     {
+      "first_field_hash": "b9535f937f5ab516c12fc128d065d677230cc93584c12e809d6ad6636b53610d",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::09-Vaginal-Bleeding"
+      ]
+    },
+    {
       "first_field_hash": "258786f666199ae8a8363fdee0274a293259630ac0a1c178ef8f1d71865ab863",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::04-Steroid-Hormone-Pharmacology"
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::04-Steroid-Hormone-Pharmacology",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::10-Amenorrhea-&-Infertility::Class-Content"
       ]
     },
     {
       "first_field_hash": "d82616b6d6c9b07047cae53322bd8780a66d0047a4245b624752c8704bd52f00",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Renal-Block::13-Urinalysis"
+      ]
+    },
+    {
+      "first_field_hash": "f8a9d6302a8f5a1ee152bdf6bb099557cd03170d741c33de3e27dea3a996e705",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::09-Vaginal-Bleeding::Class-Content"
       ]
     },
     {
@@ -83054,6 +84418,12 @@
       "first_field_hash": "c1344cc5be8b29efcf3df90b83bb61c1a53434f1f55c686e7f516d1040b56e5e",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::13-Obesity"
+      ]
+    },
+    {
+      "first_field_hash": "31abb6ece90436ca9417ebafe16f11cc8dfc9127c7b7043c48d7d922cf93a536",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::10-Amenorrhea-&-Infertility::Class-Content"
       ]
     },
     {
@@ -83850,6 +85220,12 @@
       ]
     },
     {
+      "first_field_hash": "2a87f0bc7fc7c25d009536c5deb5c01302308d10aaa7f349e2570287dd4b2a02",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::10-Amenorrhea-&-Infertility"
+      ]
+    },
+    {
       "first_field_hash": "0baf04ff1aea2de30be0612916c6e59ba1e676eaa26d35f4867329bd1540941d",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::21-The-Arterial-System::Class-Content",
@@ -83887,6 +85263,13 @@
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-2::08-Other-Antibiotics-&-Mycobacteria",
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-2::08-Other-Antibiotics-&-Mycobacteria::Class-Content",
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-2::09-Misc-Antimicrobials-&-Skin-Infections::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "043f0c54f7f8b0d27849af48cb9c0b4560cd399601e1ae35b440562157b7755e",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::09-Vaginal-Bleeding",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::09-Vaginal-Bleeding::Class-Content"
       ]
     },
     {
@@ -84353,6 +85736,12 @@
       ]
     },
     {
+      "first_field_hash": "bb1e929dff8a46cdc475f9138328e3b6c2f1d31e55223e282167256db91b914c",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::11-Uterine-Pathology::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "0ee2c88bd120aafb31caad840070445682b2c139b7cd7b67155f5c1c322a12c1",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::07-Type-2-Diabetes::Class-Content"
@@ -84437,6 +85826,13 @@
       "first_field_hash": "ca806231655ea7fd22acf7ef4052fa34a11f15ea19b478a1ce06d5df1537bed1",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::MSK-Block::08-Pediatric-Orthopaedics"
+      ]
+    },
+    {
+      "first_field_hash": "b1ae65420a02f80b23b0e640fe272a557683a5a08d103c2d11aeb2ead89a4c0e",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::09-Vaginal-Bleeding",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::09-Vaginal-Bleeding::Class-Content"
       ]
     },
     {
@@ -84546,6 +85942,12 @@
       "first_field_hash": "61137962237d042817b7b6ded9165ba8386e1f50984538fe267eeb170e43cdbe",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Repro-Block::03-HPO-Axis-&-Menstrual-Cycle"
+      ]
+    },
+    {
+      "first_field_hash": "9e6f602441e330d91dcfe5b39095639d600b2bdba3fa36c872e3ca90e7966942",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::12-Early-Pregnancy-Complications"
       ]
     },
     {
@@ -84952,6 +86354,12 @@
       ]
     },
     {
+      "first_field_hash": "cf0ecd7f9e7c2acbc80da8cd48d98803e8d97b722061f30bb8b626e7870c4d43",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::09-Vaginal-Bleeding::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "9e8fd252a8bcfce319e7299acc426eba7d638f4a7e3d75d61c17573eacf85ecf",
       "tags": [
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-2::09-Misc-Antimicrobials-&-Skin-Infections",
@@ -85305,7 +86713,8 @@
       "tags": [
         "JerryShen_AnKing_Tags::Neurobiology::Exam-3::Tutorial-7-Affective-and-Cognitive-Systems",
         "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::20-Endocrine-Pathology",
-        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::Tutorial-2-Thyroid-Disease::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::Tutorial-2-Thyroid-Disease::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::10-Amenorrhea-&-Infertility::Class-Content"
       ]
     },
     {
@@ -85313,6 +86722,18 @@
       "tags": [
         "JerryShen_AnKing_Tags::Neurobiology::Exam-3::Tutorial-7-Affective-and-Cognitive-Systems",
         "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::20-Endocrine-Pathology"
+      ]
+    },
+    {
+      "first_field_hash": "0d94c8f31058c373ed6c073a2efae10aefcaeb85d6222b7d307c539f5aafb4d4",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::10-Amenorrhea-&-Infertility"
+      ]
+    },
+    {
+      "first_field_hash": "0cd40257d479f1100860fd96ee9c18461476c4c712795bf040d8a958ce328913",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::10-Amenorrhea-&-Infertility"
       ]
     },
     {
@@ -85334,15 +86755,35 @@
       ]
     },
     {
+      "first_field_hash": "26691b2d34e4c92302edaf34d8805e123f64ccbcdc16d6aa632ab353b9d3319d",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::10-Amenorrhea-&-Infertility::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "7cbba0051ae798220ec963e3aba165ddbe504291964e55b7c18c91c0112f021f",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::10-Amenorrhea-&-Infertility",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::10-Amenorrhea-&-Infertility::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "1834e5bace716a17fd1b75a72af06b17ad345e6df139186dea88cd7e3b6960c9",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::04-Steroid-Hormone-Pharmacology"
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::04-Steroid-Hormone-Pharmacology",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::10-Amenorrhea-&-Infertility::Class-Content"
       ]
     },
     {
       "first_field_hash": "146a2c70bc5a7d866872841ab614e6849e6f4de8990099c39e6a3851f62c297e",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::30-Lung-Cancer-Treatment"
+      ]
+    },
+    {
+      "first_field_hash": "4618c8be394fa59154c2b8d038a04dee413030c6d8715823e7efc071ce7f1191",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::10-Amenorrhea-&-Infertility"
       ]
     },
     {
@@ -85534,6 +86975,12 @@
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::15-Upper-Respiratory-Infections",
         "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::15-Upper-Respiratory-Infections::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "a2749132b4db6d38d28faafeba21a7c2aef24ba49641ba89f0c866156b12d75c",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::09-Vaginal-Bleeding"
       ]
     },
     {
@@ -85858,6 +87305,12 @@
       ]
     },
     {
+      "first_field_hash": "21b131cc1b9d9d11e4e06942c7b3f028ec7c3552d853f49ad13c6afb8e0f37fd",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::09-Vaginal-Bleeding::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "6544bf7ffc199140f59e092c3400ca660b3ba5cc8d8d4c5b76dc254aa9a9ad5d",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::05-Treatment-of-Hyperlipidemia"
@@ -86101,7 +87554,7 @@
       ]
     },
     {
-      "first_field_hash": "90caf751773386343d13d5ee02b51669c0f3d6d571c66f082d2023ccfe1463bb",
+      "first_field_hash": "c721a8aaab47ce55e2ac101bd010f83b994da3477491f0c0dec190a094452395",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::16-Thyroid-Physiology-&-Pathophysiology::Class-Content"
       ]
@@ -86229,6 +87682,12 @@
       ]
     },
     {
+      "first_field_hash": "0fc49255fb1ec54c3d98dc45848f7b7439a54562a432c9c90799f89f18c8e380",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::09-Vaginal-Bleeding::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "b4a6a363778910c27cea9dd20894fcaf6293f0acb5b8d49512d20b881d194293",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::Tutorial-3-Endocrine-Pathology::Class-Content",
@@ -86299,6 +87758,12 @@
       ]
     },
     {
+      "first_field_hash": "b0a8cfb16a773050a625b1464cef1e932aa51173c865bb48daf00820bc660fbd",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::12-Early-Pregnancy-Complications::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "a445da060c45b00755539d334bda8e56784564365f24cdebf22b71f433511278",
       "tags": [
         "JerryShen_AnKing_Tags::POM-3::Clinical-Reasoning::Approach-to-Cough::Class-Content",
@@ -86339,6 +87804,62 @@
       "first_field_hash": "ea11c7405d0199c408d7bc8a900a63993ccf2e3f4d4e309aef0f71d373af8742",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Renal-Block::18-Kidney-Stones::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "5c52406ec9bd7d439a2bc73248dab02aa348392eba722e33bfeeb972a496ad22",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::09-Vaginal-Bleeding"
+      ]
+    },
+    {
+      "first_field_hash": "20335c00e21a6bcea496c68876d52e56a573ad6f56329e1a84670a741fb44762",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::09-Vaginal-Bleeding::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "338bcf7270e0acb10d8f9fd57192a3103b7e5ae43be86db5f9abbdd3be67c8fd",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::09-Vaginal-Bleeding"
+      ]
+    },
+    {
+      "first_field_hash": "4aa36989477559928069ada800a7586d38e88784904a214bac98c29cdb22e5de",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::09-Vaginal-Bleeding",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::09-Vaginal-Bleeding::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "1f3eb2f1718ce4b416bdd468ba621535429bda764949cbf2d3587a2295ae49fd",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::09-Vaginal-Bleeding::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "5be6c0ab8f157dfe7df86ba2df65bed1195d0b9c078f89676f87592b61916169",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::09-Vaginal-Bleeding::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "d3e3bca9405eaa1cf5eb937ba3b02928c06110aeb9495d899a40734f5c7c4d72",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::09-Vaginal-Bleeding::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "1aeac112642d1ff1f3af3bb24ccfa656fae64ff43e3c16e1fef684e24e98327b",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::09-Vaginal-Bleeding",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::09-Vaginal-Bleeding::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "e5ae0d128b8e149b82429bea418fa1d6581273df1bbf2292293579802bd67771",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::09-Vaginal-Bleeding::Class-Content"
       ]
     },
     {
@@ -86406,7 +87927,14 @@
     {
       "first_field_hash": "0a60873ba610deee5ca56c75e79f098611e74f2d6235ccb0d678d1b5ac5bcd90",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::09-Endocrinology-of-Growth"
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::09-Endocrinology-of-Growth",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::10-Amenorrhea-&-Infertility::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "6d165a66b92d588441d73c0e1db287bea992c56caa61ebc30e7a2ed558b1cb58",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::10-Amenorrhea-&-Infertility::Class-Content"
       ]
     },
     {
@@ -86422,9 +87950,47 @@
       ]
     },
     {
+      "first_field_hash": "8d6376deb6a4f2e6729f89a8f0f0910baeee95a92efba52a5c89beb676bc226e",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::10-Amenorrhea-&-Infertility::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "a1e698fe62b27945923961388293085ee1c406037c41e909ecb6c15a9fb34000",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::10-Amenorrhea-&-Infertility::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "cb723ce71bf12ddbbd6914eb7ed2a26ace73dd30d8d805afd33a234f004ee61f",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::10-Amenorrhea-&-Infertility::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "228109565a3ae19495372c48f6af27bc0514684c3e343d9c0c305a030e12e375",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::10-Amenorrhea-&-Infertility"
+      ]
+    },
+    {
+      "first_field_hash": "ef8d91bf79682b39c97474938d520812e3fb915e06502860180e42c11f110c88",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::10-Amenorrhea-&-Infertility::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "94610aeff217cbbcdcfbb202e62cb65f58116017f5e00b22b47016356eb2d54f",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::10-Amenorrhea-&-Infertility",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::10-Amenorrhea-&-Infertility::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "a012b98a79364f7863e90835908a1139a3f96df0a7263908512909204ba63639",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::10-Neuroendocrinology"
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::10-Neuroendocrinology",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::10-Amenorrhea-&-Infertility::Class-Content"
       ]
     },
     {
@@ -86475,6 +88041,13 @@
       "first_field_hash": "043cbfd823655bc2f07a0518ee877a3287a8437bbf969a9c307a2ddb053cf55f",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Repro-Block::07-Complications-of-Pregnancy::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "136f7b0320b934ed1af498746e30097b33bb1f809c5aca13f60b8144e410f65d",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::12-Early-Pregnancy-Complications",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::12-Early-Pregnancy-Complications::Class-Content"
       ]
     },
     {
@@ -86816,9 +88389,51 @@
       ]
     },
     {
+      "first_field_hash": "7296c3ecadf3ee590a216c0af99fbe39059361923a43021fb5204daf17b55c88",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::09-Vaginal-Bleeding"
+      ]
+    },
+    {
+      "first_field_hash": "36210def68bf2300c7a671ba512cbaf4c2b867e3a0a733eb3d1d9328f346b86e",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::09-Vaginal-Bleeding::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "b0c8fb4bf8019337ea3d26e987c76411500addf083876effb25cd22ef8cc9bbc",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::09-Vaginal-Bleeding::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "b847a5a795535d61a8975e12e19b1189e444a2b9122e4c66ad993c1ec1cb6880",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::09-Vaginal-Bleeding"
+      ]
+    },
+    {
       "first_field_hash": "be894ac0bce81d59d9a02d0737d2c8ee2623256f3bb7e6873faead421e5bdd08",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Repro-Block::04-Steroid-Hormone-Pharmacology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "9a41d3baa3e2af02b7c6bb11ebb1cca6a1ad81911f053a0afa76eb1bcd1b501a",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::09-Vaginal-Bleeding"
+      ]
+    },
+    {
+      "first_field_hash": "5ae57bbc39eb120f4c248b1618435c24eb2682894a6d8945f3c482f3f1917982",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::09-Vaginal-Bleeding::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "7e082870cce011789218913c93a8e73b3d9df9802f0d1eabfa364c04c8293030",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::09-Vaginal-Bleeding"
       ]
     },
     {
@@ -86843,6 +88458,12 @@
       "first_field_hash": "cf2764706922a5b90fd8cd91504bdea2324d42e7f5b9cd62fe4d664590749d0a",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::MSK-Block::04-Upper-Limb-Pathology"
+      ]
+    },
+    {
+      "first_field_hash": "35d1c8acf52c3bbddb27b8b6257bc9748f7f4bd89a53aacf8a81d47835a49584",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::10-Amenorrhea-&-Infertility"
       ]
     },
     {
