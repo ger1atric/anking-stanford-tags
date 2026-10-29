@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
   "author": "JerryShen",
-  "description": "intestine path + disparities",
-  "created": "2026-10-26T19:15:06.933277+00:00",
-  "updated": "2026-10-26T19:15:06.933277+00:00",
+  "description": "sexual health and hpv",
+  "created": "2026-10-29T18:21:47.253597+00:00",
+  "updated": "2026-10-29T18:21:47.253597+00:00",
   "tag_prefix": "JerryShen_AnKing_Tags",
   "tag_hierarchy": [
     "JerryShen_AnKing_Tags",
@@ -589,6 +589,8 @@
     "JerryShen_AnKing_Tags::SOM-2::Renal-Block::23-End-Stage-Renal-Disease::Class-Content",
     "JerryShen_AnKing_Tags::SOM-2::Renal-Block::24-Genetic-Kidney-Diseases",
     "JerryShen_AnKing_Tags::SOM-2::Renal-Block::24-Genetic-Kidney-Diseases::Class-Content",
+    "JerryShen_AnKing_Tags::SOM-2::Renal-Block::Tutorial-1-GI-Tract",
+    "JerryShen_AnKing_Tags::SOM-2::Renal-Block::Tutorial-1-GI-Tract::Class-Content",
     "JerryShen_AnKing_Tags::SOM-2::Repro-Block",
     "JerryShen_AnKing_Tags::SOM-2::Repro-Block::01-Testicular-Physiology",
     "JerryShen_AnKing_Tags::SOM-2::Repro-Block::01-Testicular-Physiology::Class-Content",
@@ -613,7 +615,11 @@
     "JerryShen_AnKing_Tags::SOM-2::Repro-Block::11-Uterine-Pathology",
     "JerryShen_AnKing_Tags::SOM-2::Repro-Block::11-Uterine-Pathology::Class-Content",
     "JerryShen_AnKing_Tags::SOM-2::Repro-Block::12-Early-Pregnancy-Complications-&-Bleeding-Tutorial",
-    "JerryShen_AnKing_Tags::SOM-2::Repro-Block::12-Early-Pregnancy-Complications-&-Bleeding-Tutorial::Class-Content"
+    "JerryShen_AnKing_Tags::SOM-2::Repro-Block::12-Early-Pregnancy-Complications-&-Bleeding-Tutorial::Class-Content",
+    "JerryShen_AnKing_Tags::SOM-2::Repro-Block::13-HPV-&-Cervical-Cancer",
+    "JerryShen_AnKing_Tags::SOM-2::Repro-Block::13-HPV-&-Cervical-Cancer::Class-Content",
+    "JerryShen_AnKing_Tags::SOM-2::Repro-Block::14-Sexual-Health-&-Dysfunction",
+    "JerryShen_AnKing_Tags::SOM-2::Repro-Block::14-Sexual-Health-&-Dysfunction::Class-Content"
   ],
   "changelog": [
     {
@@ -987,6 +993,11 @@
       "date": "2026-10-26T19:15:06.933277+00:00",
       "message": "intestine path + disparities",
       "note_count": 247
+    },
+    {
+      "date": "2026-10-29T18:21:47.253597+00:00",
+      "message": "sexual health and hpv",
+      "note_count": 239
     }
   ],
   "notes": [
@@ -1148,10 +1159,126 @@
       ]
     },
     {
+      "first_field_hash": "6abd5266c7cfbf67c35d8593872cd625464c0f6106f634fe67195c49eaf2df61",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::13-HPV-&-Cervical-Cancer"
+      ]
+    },
+    {
+      "first_field_hash": "9f4c6e4e69c9a4ba0451b6d72b616a53a3379a15418426467dd39d163ba9c928",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::13-HPV-&-Cervical-Cancer"
+      ]
+    },
+    {
       "first_field_hash": "4f3959f9a1bc8478bef3b3ab85c7f768140bb754c9d16d6cfe1b97f537186d61",
       "tags": [
         "JerryShen_AnKing_Tags::POM-4::Clinical-Reasoning::Shortness-of-Breath-(Hyperthyroidism)",
         "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::16-Thyroid-Physiology-&-Pathophysiology"
+      ]
+    },
+    {
+      "first_field_hash": "2825579c6c91f4f3f35653d3c61c20a58aba0d45d460a8a64e6be4ba431b7556",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::13-HPV-&-Cervical-Cancer::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "29393963894a72d81c6e8cb5629919843e4a0034fec6ec5e408c3768c1532f9a",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::13-HPV-&-Cervical-Cancer::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "8178b5987840b669a2e27c435173aacdf9624a518c6da9e3f84e2bc96dd96825",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::13-HPV-&-Cervical-Cancer"
+      ]
+    },
+    {
+      "first_field_hash": "d1ede0612272f9827e8c94e450cc32476d0a9178074c4b53f31ff368670a970c",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::13-HPV-&-Cervical-Cancer::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "c699bc65a89191f020fa0c95753be34d7fd971d5dc68c40d9fadca88bd86fe79",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::13-HPV-&-Cervical-Cancer",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::13-HPV-&-Cervical-Cancer::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "b9f829d4f991fd26457fe591b50fc28bc2e8d0634f292c454ee4475d31aab795",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::13-HPV-&-Cervical-Cancer::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "11b501fc333d41dbaf6f115f2e9e9dca2fd7c7c6631cb211d4ac560675d52d41",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::13-HPV-&-Cervical-Cancer::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "73f1f8a9f5c9bc2b254881b81444fa5b49926670e895dc18ba60b4c63229b786",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::13-HPV-&-Cervical-Cancer"
+      ]
+    },
+    {
+      "first_field_hash": "a6b648e03f2dc2b9982f03353773a4cd925cb3704a95e78c052a0b59d2b97d33",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::13-HPV-&-Cervical-Cancer"
+      ]
+    },
+    {
+      "first_field_hash": "616e84eea831f79f6fbfe3cde5cdab97bb1cd5d1cdbd54bb862785522ac16056",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::13-HPV-&-Cervical-Cancer",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::13-HPV-&-Cervical-Cancer::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "46c9be9244a1b0d47a12f25ef0a4143f392dd272eccf8f82be9f4582932b69c3",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::13-HPV-&-Cervical-Cancer::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "180a83d11bb36e84424598b236d1c768af705d15d004149c4b65108de7ee17b0",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::13-HPV-&-Cervical-Cancer::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "a8090aea485420cfbb48269bb71e98d7db0847cfa6519d7821ec4bfd65aaabd0",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::13-HPV-&-Cervical-Cancer::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "0749268c7352c93b4ba3cafed505d48a370f3775d632765068d7ee231b7232c2",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::13-HPV-&-Cervical-Cancer"
+      ]
+    },
+    {
+      "first_field_hash": "41c8bfddcad2e533adb83ccd37327a5bd53118c25d176a8ff384cacf3272f124",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::13-HPV-&-Cervical-Cancer::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "5bf0e317b9e8b80ac1df322320df37bc2d2525d02b5981186e42ffd15c5b8311",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::13-HPV-&-Cervical-Cancer"
+      ]
+    },
+    {
+      "first_field_hash": "6070998ac60486d93810f9143857efec31b3a5d80ba2efb62dffdd33758ba5f6",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::13-HPV-&-Cervical-Cancer"
       ]
     },
     {
@@ -1314,6 +1441,12 @@
       ]
     },
     {
+      "first_field_hash": "43bdb69d3fc5504e42772cdd89a64fe840f82c9ff71207ad0d7ca4e7e0431d67",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::13-HPV-&-Cervical-Cancer"
+      ]
+    },
+    {
       "first_field_hash": "7b85c35d2826b079cdfb159beeffab43522159e8e05afe1cbed331cc82b0fec2",
       "tags": [
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-2::07-β-Lactam-Antibiotics-&-Parasites"
@@ -1355,6 +1488,12 @@
       "first_field_hash": "4baa44dae4c30d5624d6341961b113e344bfdd453de4313365f75011bf45b3e5",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Repro-Block::07-Complications-of-Pregnancy::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "057969a4f7bb94a008cba14546f4603f9c478c9e0d2cf0f7f68178a85a926472",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::13-HPV-&-Cervical-Cancer::Class-Content"
       ]
     },
     {
@@ -1487,6 +1626,12 @@
       ]
     },
     {
+      "first_field_hash": "e17918065593876279260eb277e51f77fc6aaf5cf454a332b97fd451b30b048f",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::13-HPV-&-Cervical-Cancer::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "8995331d8f1036a2b541f5e10c5d31eb877855474c7392b03d4927fbc4743725",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Repro-Block::07-Complications-of-Pregnancy"
@@ -1538,6 +1683,12 @@
       "first_field_hash": "7b0935fd24fcf68b48e0edec6ca200c764adb7acf025ddac77d2164a74bf9f15",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Repro-Block::09-Vaginal-Bleeding"
+      ]
+    },
+    {
+      "first_field_hash": "c58fb4406d1d8e09c66ea67933fb44079809d2d9ceac1635903d652c357ebfec",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::14-Sexual-Health-&-Dysfunction::Class-Content"
       ]
     },
     {
@@ -5284,7 +5435,8 @@
     {
       "first_field_hash": "4855df630c74627cdc6563c590fac68c5cfe3fc40c6f88058cc8b3347f82fba8",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::07-Pancreas"
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::07-Pancreas",
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::Tutorial-1-GI-Tract"
       ]
     },
     {
@@ -6512,7 +6664,8 @@
     {
       "first_field_hash": "c72903f0794da5696d631f854764d5e57b1702744329e2c2b2b51e0a2ec63fe7",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::08-Insulin-&-Antidiabetic-Pharmacology"
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::08-Insulin-&-Antidiabetic-Pharmacology",
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::Tutorial-1-GI-Tract::Class-Content"
       ]
     },
     {
@@ -6854,7 +7007,8 @@
     {
       "first_field_hash": "b95c034831b944305febdf47a3a2d0999a1f07186a119ea1fb9fe93e5a971b0a",
       "tags": [
-        "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-4-Pelvis::Histology::Class-Content"
+        "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-4-Pelvis::Histology::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::14-Sexual-Health-&-Dysfunction::Class-Content"
       ]
     },
     {
@@ -6873,7 +7027,8 @@
     {
       "first_field_hash": "44d032939cd506b45c2fc15dab7afd5b6e78d2dad9ed9b854e00eaa60bffdab8",
       "tags": [
-        "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-4-Pelvis::Histology::Class-Content"
+        "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-4-Pelvis::Histology::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::14-Sexual-Health-&-Dysfunction::Class-Content"
       ]
     },
     {
@@ -6966,6 +7121,12 @@
       "first_field_hash": "ec01c85ec62ddcb07e85135428393361938a34fd33182961ab8d81523a53c328",
       "tags": [
         "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-4-Pelvis::Histology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "7bda3ee61ba747b3556e025a1dad351afae4599c878c1fdf56b5f7209f5cdf0c",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::14-Sexual-Health-&-Dysfunction::Class-Content"
       ]
     },
     {
@@ -7106,7 +7267,8 @@
       "first_field_hash": "4368e3e744b414206189694e8ad13fdcc9916453570de0a3efc9ea1e24932914",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Repro-Block::01-Testicular-Physiology::Class-Content",
-        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::10-Amenorrhea-&-Infertility::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::10-Amenorrhea-&-Infertility::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::14-Sexual-Health-&-Dysfunction::Class-Content"
       ]
     },
     {
@@ -7691,13 +7853,15 @@
     {
       "first_field_hash": "5b8449a05855d716a17a2cc9cc14c98f0509087547bb993b32445b8b56b411de",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::03-HPO-Axis-&-Menstrual-Cycle"
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::03-HPO-Axis-&-Menstrual-Cycle",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::14-Sexual-Health-&-Dysfunction::Class-Content"
       ]
     },
     {
       "first_field_hash": "9d7268d9251588b125e73049f0307a4a1e3a9da17589a29306d68d806c6e2c5f",
       "tags": [
-        "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-4-Pelvis::Embryology"
+        "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-4-Pelvis::Embryology",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::14-Sexual-Health-&-Dysfunction"
       ]
     },
     {
@@ -7765,37 +7929,43 @@
     {
       "first_field_hash": "ba971d72ea7d57000abe6fab1bc7a20f103f59230e9901ce51a40be53b3d17b4",
       "tags": [
-        "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-4-Pelvis::Embryology::Class-Content"
+        "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-4-Pelvis::Embryology::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::14-Sexual-Health-&-Dysfunction::Class-Content"
       ]
     },
     {
       "first_field_hash": "20a891b76157d86ef2350978ed416eaf9d11a6a73fe917777a24fe1922341c19",
       "tags": [
-        "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-4-Pelvis::Embryology::Class-Content"
+        "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-4-Pelvis::Embryology::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::14-Sexual-Health-&-Dysfunction::Class-Content"
       ]
     },
     {
       "first_field_hash": "4485fe3391568921f1a48dde7ba2eb1f24ab758fd1cf2e4aea47d4b7b6109a40",
       "tags": [
-        "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-4-Pelvis::Embryology::Class-Content"
+        "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-4-Pelvis::Embryology::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::14-Sexual-Health-&-Dysfunction::Class-Content"
       ]
     },
     {
       "first_field_hash": "3aa1b5b433ae654a627d0a4b018a41fb876a8459072fa850c39afa16bc79d0ec",
       "tags": [
-        "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-4-Pelvis::Embryology::Class-Content"
+        "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-4-Pelvis::Embryology::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::14-Sexual-Health-&-Dysfunction::Class-Content"
       ]
     },
     {
       "first_field_hash": "e5b712e7b5e14b53301ec616416711d6845e81813e7b2f39dd97235c3ae0f6f4",
       "tags": [
-        "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-4-Pelvis::Embryology::Class-Content"
+        "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-4-Pelvis::Embryology::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::14-Sexual-Health-&-Dysfunction::Class-Content"
       ]
     },
     {
       "first_field_hash": "e9660af7c9a636a496f68e0c7da43d40fec9a7470dbcbbaf1b8afe6bd22ebc18",
       "tags": [
-        "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-4-Pelvis::Embryology::Class-Content"
+        "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-4-Pelvis::Embryology::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::14-Sexual-Health-&-Dysfunction::Class-Content"
       ]
     },
     {
@@ -7820,6 +7990,44 @@
       "first_field_hash": "3eba561bfbbc01022d0e9409c7580fce16b119c38932e108495fe2bc76807fa2",
       "tags": [
         "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-4-Pelvis::Anatomy"
+      ]
+    },
+    {
+      "first_field_hash": "bc08160545522036bd7d91b2ceb542bd9d21b07285cc4bf7528df126d1d26679",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::14-Sexual-Health-&-Dysfunction::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "0eef4c9cc238f790373830a15b566f08c84b360f27f99deac911f12c90eaf7a8",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::14-Sexual-Health-&-Dysfunction::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "ba8e4425835abe7ff930b7cbb7468ce6ad4dbb5fb15edac99ea36e385c3eacc4",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::14-Sexual-Health-&-Dysfunction::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "9240c9b3eae840b72d4160fd4ffed951ab499aab5809ba30ecdee8ee8001a27e",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::14-Sexual-Health-&-Dysfunction",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::14-Sexual-Health-&-Dysfunction::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "816fd5d7483ac87dcb7665a8e3c69f78327f875937ec0508ca88d06b42ee2d1f",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::14-Sexual-Health-&-Dysfunction",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::14-Sexual-Health-&-Dysfunction::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "15a6c9f751d25935d2ffed5dc2a22972f81b4e359a2e56e1ab8985564949490b",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::14-Sexual-Health-&-Dysfunction::Class-Content"
       ]
     },
     {
@@ -7939,6 +8147,43 @@
       ]
     },
     {
+      "first_field_hash": "e8e07d66a0a3026e0478decc8592868aa49024bfd15aeac4665fdde975a5e760",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::14-Sexual-Health-&-Dysfunction::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "56d7f58210fc33f6d2fcab58bfa27253cfe28f8ec205d3f8b683d752fc188631",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::14-Sexual-Health-&-Dysfunction::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "989a98572f93d4315ab9ae7e080f6c0096759181611b48c41bb3d7817f2f07f7",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::13-HPV-&-Cervical-Cancer"
+      ]
+    },
+    {
+      "first_field_hash": "838c7ea2e473c1eb71b618147495aeda3189f0d2ddffce66698bc43933052ce0",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::13-HPV-&-Cervical-Cancer"
+      ]
+    },
+    {
+      "first_field_hash": "c6e9a9734afc088cef38ceb356892119b05d2f915d9b91a59a1d91c78a1cdac0",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::13-HPV-&-Cervical-Cancer",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::13-HPV-&-Cervical-Cancer::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "dcb4938099e4db49398d3c42b541fb3d8ce19115f1c1f60ba81f68e45448552b",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::13-HPV-&-Cervical-Cancer::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "c2404fd7901267be657611f4d911dff616c61908b1debdba65049c17b09ad3ff",
       "tags": [
         "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-4-Pelvis::Embryology::Class-Content"
@@ -7963,22 +8208,150 @@
       ]
     },
     {
+      "first_field_hash": "a2d949cc4e016411b56e05304d292191388779a713df6310daa4dd71e16fc858",
+      "tags": [
+        "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-4-Pelvis::Histology::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "34b502eec7bc1334b74b36b2f2ecaea9198afc990f68781e63e0a6878e8a8fac",
       "tags": [
         "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology",
-        "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-4-Pelvis"
+        "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-4-Pelvis",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::13-HPV-&-Cervical-Cancer::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "4d44a75446f1ab32510ac487bf0de8c4e7997350f792ef59cb8fe3ddc8878a69",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::13-HPV-&-Cervical-Cancer",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::13-HPV-&-Cervical-Cancer::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "b7df59aebb9af534b08254bce047251dd231ea7da5777fc22116d45f39dacd29",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::13-HPV-&-Cervical-Cancer"
+      ]
+    },
+    {
+      "first_field_hash": "e1a199a1481058426ded6729fb618b62b2924f77c351bdb03512f15def7828e6",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::13-HPV-&-Cervical-Cancer::Class-Content"
       ]
     },
     {
       "first_field_hash": "04a7fb9958ed1b7a828f65d792d023aeb3700a5dcd6276461d8bea20b00c6417",
       "tags": [
-        "JerryShen_AnKing_Tags::Cancer-Biology::Final::Lab-02-Cancer-Tumor-Board"
+        "JerryShen_AnKing_Tags::Cancer-Biology::Final::Lab-02-Cancer-Tumor-Board",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::13-HPV-&-Cervical-Cancer::Class-Content"
       ]
     },
     {
       "first_field_hash": "e3ac4ca3a3eb7b4adeb7c5aefcb83842474dacbe942d28229696e1da6593fcee",
       "tags": [
-        "JerryShen_AnKing_Tags::Cancer-Biology::Final::Lab-02-Cancer-Tumor-Board"
+        "JerryShen_AnKing_Tags::Cancer-Biology::Final::Lab-02-Cancer-Tumor-Board",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::13-HPV-&-Cervical-Cancer",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::13-HPV-&-Cervical-Cancer::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "3ab5800cf015cd3273275c33c4f8455f123c0346067e38aa3e9759867b4de4b4",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::13-HPV-&-Cervical-Cancer",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::13-HPV-&-Cervical-Cancer::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "e490ea5a8e4321f409198c157b0729d59c8dd0fbca8e84f21309396441fae3c9",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::13-HPV-&-Cervical-Cancer"
+      ]
+    },
+    {
+      "first_field_hash": "bda6568670a64fd638347d36e8e6b760283664c87d637657d68a8d6851387386",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::13-HPV-&-Cervical-Cancer"
+      ]
+    },
+    {
+      "first_field_hash": "747d55d4b1ef838ca609d827105938d3784291f2900fb27ddbbb18d2684dd415",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::13-HPV-&-Cervical-Cancer"
+      ]
+    },
+    {
+      "first_field_hash": "2d9ef98029044bba8031fdf3b303b16d530870180ab0c851adfd58e5b335ba49",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::13-HPV-&-Cervical-Cancer"
+      ]
+    },
+    {
+      "first_field_hash": "94221c53621c97a3ca9e55b59e37e7b295d2a59bbfcc2bf778467f152dac9b2f",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::13-HPV-&-Cervical-Cancer"
+      ]
+    },
+    {
+      "first_field_hash": "6cba8060e357c0872993301dc0f21492219dcc22ddd13f202604d5627f269137",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::13-HPV-&-Cervical-Cancer"
+      ]
+    },
+    {
+      "first_field_hash": "3b9b3f9981437c171edf254f7792c34fb96f03944990e0606247420ad3be615b",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::13-HPV-&-Cervical-Cancer"
+      ]
+    },
+    {
+      "first_field_hash": "c28b1560914800fb1b869d8e5635e1c01b397e685ed58acdb25044d0488871ee",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::13-HPV-&-Cervical-Cancer"
+      ]
+    },
+    {
+      "first_field_hash": "7cabcff2871f944559f087499fbe17c5e7e4e1f423f918f4d838b72c538e5d4d",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::13-HPV-&-Cervical-Cancer",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::13-HPV-&-Cervical-Cancer::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "8d8e8ab7a0185d5bea983c049707d1841a3437b5905db6b3f855063a8dbbe012",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::13-HPV-&-Cervical-Cancer"
+      ]
+    },
+    {
+      "first_field_hash": "fce2988d9e290cd082e6e763c9ea29120720cd76244cafb7e94e50b2984b6a0e",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::13-HPV-&-Cervical-Cancer",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::13-HPV-&-Cervical-Cancer::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "09d41e8f214f5b4fd94ec03b8cbca5155ae62664cf96e2936af6a213654f81d2",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::13-HPV-&-Cervical-Cancer"
+      ]
+    },
+    {
+      "first_field_hash": "e66a451de8e23bcdd565530df47c85a2f20f4cb1aec9ebe867e5a1fd639014d6",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::13-HPV-&-Cervical-Cancer"
+      ]
+    },
+    {
+      "first_field_hash": "30ce9f631198925c180a16837e11e2e492bc047e87035dbeb7d556b4bac6db6e",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::13-HPV-&-Cervical-Cancer"
+      ]
+    },
+    {
+      "first_field_hash": "aaf1269cade49a998da3efbf7e785c09d9057b4d450838d383d6c001c8ca6d18",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::13-HPV-&-Cervical-Cancer::Class-Content"
       ]
     },
     {
@@ -8062,16 +8435,73 @@
       ]
     },
     {
+      "first_field_hash": "25695ab059e0666fd05d21022ab64649da0cc6ee113ea7e2ae050799848a8526",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::14-Sexual-Health-&-Dysfunction::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "c79d0c6b6735a7509ae769aac12c4b5294e31240a44c7c815988bfc2b432bb3c",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Repro-Block::09-Vaginal-Bleeding",
-        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::10-Amenorrhea-&-Infertility::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::10-Amenorrhea-&-Infertility::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::14-Sexual-Health-&-Dysfunction::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "584b7603deae13e534ec7209204dac9fdef9ff0068e71c8102f3c976c5fcf7af",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::14-Sexual-Health-&-Dysfunction::Class-Content"
       ]
     },
     {
       "first_field_hash": "176a4fe42b18f57b994c4455d9187e4c28ac9aa08716ebe96cb6e178a223cdb9",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::11-Uterine-Pathology"
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::11-Uterine-Pathology",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::14-Sexual-Health-&-Dysfunction::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "0f3366831764099d62e60ae50958ba74c801a229439b8d89fb26dfda1e2a8428",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::14-Sexual-Health-&-Dysfunction::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "cee7aa9929d2e2251717c57f4754f3ddee93b24e45c25e381e184523ff5e2be7",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::14-Sexual-Health-&-Dysfunction::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "fbbe20d4e3ddc266ab10741302c59fece2517cd41ae73195dfa07f2c761b80cb",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::14-Sexual-Health-&-Dysfunction::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "1178191c029f1720e25582f59853e7f204c3e4d3934d154207e00be028cafd17",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::14-Sexual-Health-&-Dysfunction"
+      ]
+    },
+    {
+      "first_field_hash": "275c4e36f6a3e775390825918ddd29e56f723411c4832ab5b2e9e21c0cf82a9f",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::14-Sexual-Health-&-Dysfunction",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::14-Sexual-Health-&-Dysfunction::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "6513e638724bab565398fb2a12707876d02aec3e7c0034a0f08b02a7ee32e776",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::14-Sexual-Health-&-Dysfunction::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "d01b23d12fda6831e078786f63323c8aa8513da4d905809481b00c3e2f93bfb4",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::14-Sexual-Health-&-Dysfunction::Class-Content"
       ]
     },
     {
@@ -8091,6 +8521,12 @@
       "first_field_hash": "18e480aaeec23135fb2dff58ba1411280342346c1f8b4356c100682572083da3",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::10-Neuroendocrinology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "403e9b6962ec2a580d1f6c75672a72cd84301657c47f6be731b0dfea4db137f2",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::14-Sexual-Health-&-Dysfunction"
       ]
     },
     {
@@ -8745,6 +9181,18 @@
       ]
     },
     {
+      "first_field_hash": "379d651f59617999bf9e577a5208f9d1c8d9a7b3190e1fd679c8ce6c4767281c",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::14-Sexual-Health-&-Dysfunction"
+      ]
+    },
+    {
+      "first_field_hash": "7b199447f41ff64753a1194430b4a5fe5aa9f958b158fa80fcfd1e5e9d82382a",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::14-Sexual-Health-&-Dysfunction::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "6aec73b497941e51335399b1444684c86d909bdb376fbba19df46c811f7c3ab5",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::26-Pulmonary-Cases-&-Miscellaneous-Diseases::Class-Content"
@@ -8783,7 +9231,8 @@
     {
       "first_field_hash": "5d626f555d48fe1b2e9d8a2c71930a639f4f7e08bb69c9e2d274aadc2e943680",
       "tags": [
-        "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-4-Pelvis::Anatomy::Class-Content"
+        "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-4-Pelvis::Anatomy::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::14-Sexual-Health-&-Dysfunction::Class-Content"
       ]
     },
     {
@@ -9925,7 +10374,8 @@
     {
       "first_field_hash": "b913945c2cbfce5bab7170048fc7dafb25d36c39ce5a34852a9ab851df433046",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::08-Large-Intestine"
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::08-Large-Intestine",
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::Tutorial-1-GI-Tract::Class-Content"
       ]
     },
     {
@@ -10891,6 +11341,18 @@
       "first_field_hash": "93a94bc9b0a36cda14d874014a17430a2cb0091688f39a259e52930345024958",
       "tags": [
         "JerryShen_AnKing_Tags::Molecular-Foundations-&-Genetics::01-Molecular-Foundations::04-Transcription"
+      ]
+    },
+    {
+      "first_field_hash": "17b531cfdc1dcba905bae0bfaa6230e359b623d0acc8b88d4dcfb60fb50b9d36",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::13-HPV-&-Cervical-Cancer"
+      ]
+    },
+    {
+      "first_field_hash": "b50683b862ac60c7777c9336ea640b28d65cc61a4a04403c575ee2d630eccee6",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::13-HPV-&-Cervical-Cancer::Class-Content"
       ]
     },
     {
@@ -20402,6 +20864,12 @@
       ]
     },
     {
+      "first_field_hash": "b391335640fad1225430f90f07a2875f83a7e4d0b792530a122d3d5ef586c631",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::13-HPV-&-Cervical-Cancer"
+      ]
+    },
+    {
       "first_field_hash": "c743f21aee5571460e7c91e4cf34efaa3073dbba7c8b19df707572bd597b7ba3",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::06-Intro-to-Lung-Histology::Class-Content"
@@ -23918,6 +24386,12 @@
       "first_field_hash": "27c66d9ff62292d31f4d90706827507e72b9c7491b35d7b1c1462becb01a8aae",
       "tags": [
         "JerryShen_AnKing_Tags::Cancer-Biology::Final::Lab-02-Cancer-Tumor-Board"
+      ]
+    },
+    {
+      "first_field_hash": "e4a07e9777ac9873cf65720b5c1b9c362f2e14c212732121951e08cb42f5729e",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::13-HPV-&-Cervical-Cancer"
       ]
     },
     {
@@ -30637,6 +31111,42 @@
       "first_field_hash": "f84a1e9da92e2e4bc8599ab1c61475cf7bb7951ae71f7015ee23adfac6e17a12",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Renal-Block::15-Renal-&-Bladder-Tumor-Pathology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "7afcc609126a2750ce3138da49b74f512ab48f16e2cec045aad9f836933d3e8a",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::14-Sexual-Health-&-Dysfunction::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "7cd9f7d7cae3fadbd7cdf69ecd119608aa197a319e700b9970520444faeb5738",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::14-Sexual-Health-&-Dysfunction::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "93e49ddaf379ddf7b4252dc7df896a6e9e126b9cc7c5b78699c4d22abcc781c9",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::14-Sexual-Health-&-Dysfunction"
+      ]
+    },
+    {
+      "first_field_hash": "6388b8dbbb6782a0df82d87682ff9b1fb898d73def1f5d3635ff854631dc4d72",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::14-Sexual-Health-&-Dysfunction::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "444621701833de5e0966dd0edadb1e77302574166c4a4e35e702deeac1e3623e",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::14-Sexual-Health-&-Dysfunction::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "0b823891d7839e08ab0310640f8cd9dac873ece9bea2f62ca1cca99470e9d13a",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::14-Sexual-Health-&-Dysfunction::Class-Content"
       ]
     },
     {
@@ -37610,7 +38120,14 @@
     {
       "first_field_hash": "d890cedc65841a3e7b8d2e0ab2b0c63779607b2cd58f870cf3f28a0eb8fe9212",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::09-Upper-GI-Infections::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::09-Upper-GI-Infections::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::13-HPV-&-Cervical-Cancer::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "317a308dfce4a76df8571a29f678bafc87011591ac99aaffaa5b20f0a23ece86",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::13-HPV-&-Cervical-Cancer"
       ]
     },
     {
@@ -43753,7 +44270,8 @@
       "tags": [
         "JerryShen_AnKing_Tags::Immunology::Final::GI-&-Mucosal-Immunity",
         "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::06-Small-Intestine",
-        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::12-Non-Neoplastic-Intestinal-Pathology::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::12-Non-Neoplastic-Intestinal-Pathology::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::Tutorial-1-GI-Tract::Class-Content"
       ]
     },
     {
@@ -43845,34 +44363,39 @@
     {
       "first_field_hash": "8b7ee4244a2f49917aaa64db48f2c7fd259693415488edc9217cd36a36614dcd",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::08-Large-Intestine"
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::08-Large-Intestine",
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::Tutorial-1-GI-Tract"
       ]
     },
     {
       "first_field_hash": "013196d2bd3e33347079537b6906c0534a261eaff65617b54b5eacb1a5734b1b",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::08-Large-Intestine"
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::08-Large-Intestine",
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::Tutorial-1-GI-Tract"
       ]
     },
     {
       "first_field_hash": "6cbb0cf298a614ecad97d5577285c0618d16231c62ce48a5d305499faf71a3ff",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::08-Large-Intestine",
-        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::12-Non-Neoplastic-Intestinal-Pathology::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::12-Non-Neoplastic-Intestinal-Pathology::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::Tutorial-1-GI-Tract::Class-Content"
       ]
     },
     {
       "first_field_hash": "b057ff1e1371e479661a57c6232acef870e9f405785ba4b0d666b894ecf7d2b0",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::08-Large-Intestine",
-        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::12-Non-Neoplastic-Intestinal-Pathology::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::12-Non-Neoplastic-Intestinal-Pathology::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::Tutorial-1-GI-Tract::Class-Content"
       ]
     },
     {
       "first_field_hash": "88e120debbfb04f96455baf42362b2cdaeccd50386cdcf5554806eb1891bd1f5",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::06-Small-Intestine::Class-Content",
-        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::12-Non-Neoplastic-Intestinal-Pathology::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::12-Non-Neoplastic-Intestinal-Pathology::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::Tutorial-1-GI-Tract::Class-Content"
       ]
     },
     {
@@ -43880,7 +44403,8 @@
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::08-Large-Intestine",
         "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::08-Large-Intestine::Class-Content",
-        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::12-Non-Neoplastic-Intestinal-Pathology::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::12-Non-Neoplastic-Intestinal-Pathology::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::Tutorial-1-GI-Tract::Class-Content"
       ]
     },
     {
@@ -43963,7 +44487,8 @@
     {
       "first_field_hash": "2f787c54d38248f93bd939c37349808f6553081beb5d4429a6689ff52394cbbc",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::08-Large-Intestine::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::08-Large-Intestine::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::Tutorial-1-GI-Tract::Class-Content"
       ]
     },
     {
@@ -43985,15 +44510,23 @@
       ]
     },
     {
+      "first_field_hash": "4dd28f70f93e78f376c1b7b81af5fbe19549bd63b30a230e6ad332fa266d704b",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::Tutorial-1-GI-Tract::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "83b4610f13714edadb5adc09695ff3d60e5f9b17fa6bf05f8604978563ce205a",
       "tags": [
-        "JerryShen_AnKing_Tags::Micro-Pharm::Exam-2::10-Biologics-Ectoparasites-&-Clinical-Cases::Class-Content"
+        "JerryShen_AnKing_Tags::Micro-Pharm::Exam-2::10-Biologics-Ectoparasites-&-Clinical-Cases::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::Tutorial-1-GI-Tract::Class-Content"
       ]
     },
     {
       "first_field_hash": "9cca229e64a0f3bd2c6a0f2ad385b5a1b1f70a6ad2ce6644759c3d3a3753620b",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::08-Large-Intestine::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::08-Large-Intestine::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::Tutorial-1-GI-Tract::Class-Content"
       ]
     },
     {
@@ -44012,6 +44545,18 @@
       "first_field_hash": "e44223693ae14893e05b2f70d5ff059dccde2617814daeb62f74c4cb26470705",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::08-Large-Intestine::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "e0677dd39dfedc3aa393510c9f7da47d1233088df4c0af51732cbde61e3ad204",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::13-HPV-&-Cervical-Cancer::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "ee9c2815a48483370577ea6751064af05dcee984c2ae39f77b7ba8f07b2c6808",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::13-HPV-&-Cervical-Cancer"
       ]
     },
     {
@@ -44791,7 +45336,8 @@
     {
       "first_field_hash": "6edff4b773d2b367e6dbe6a0ad882e0be4f76e24ad9c37b67166dc02baa932f8",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::07-Pancreas::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::07-Pancreas::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::Tutorial-1-GI-Tract::Class-Content"
       ]
     },
     {
@@ -44817,7 +45363,8 @@
       "first_field_hash": "97ae850cc058f967c8db9686d8e20e767b152d6cda4eafd2954343500efe41bb",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::04-Lipoproteins",
-        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::07-Pancreas::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::07-Pancreas::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::Tutorial-1-GI-Tract::Class-Content"
       ]
     },
     {
@@ -44831,25 +45378,29 @@
       "first_field_hash": "a553dfea2ac31c25b6095c8fce9414363585e9922ade749804738fa06ac5bf75",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::07-Pancreas",
-        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::07-Pancreas::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::07-Pancreas::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::Tutorial-1-GI-Tract::Class-Content"
       ]
     },
     {
       "first_field_hash": "bc67f7309f66df87f4474abfed8be4ab1fb73cc263c36ac9b9af9f12ad17fb34",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::07-Pancreas::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::07-Pancreas::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::Tutorial-1-GI-Tract::Class-Content"
       ]
     },
     {
       "first_field_hash": "bc7e4c93d0807e637f6b24ef1f58f65cd837022687e4cd8f55f512cf571449b5",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::07-Pancreas::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::07-Pancreas::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::Tutorial-1-GI-Tract::Class-Content"
       ]
     },
     {
       "first_field_hash": "bb2d6bf75fee38d8ca6d58fad4a9a749e1d433d72eb3bdef04b2e639967266b6",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::07-Pancreas"
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::07-Pancreas",
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::Tutorial-1-GI-Tract::Class-Content"
       ]
     },
     {
@@ -46874,6 +47425,12 @@
       ]
     },
     {
+      "first_field_hash": "2fa54b4150722a2fb9a68f47c954e9f07ad2f0ad9a50e3067a29aa884e47b694",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::14-Sexual-Health-&-Dysfunction"
+      ]
+    },
+    {
       "first_field_hash": "8b044a4ab2d2b3526b24ec5cb97a2643d66a456f6d104efc65f59838ecf6f0c7",
       "tags": [
         "JerryShen_AnKing_Tags::Neurobiology::Exam-3::Lec-Somatosensation-and-Pain"
@@ -47185,6 +47742,30 @@
       "first_field_hash": "e1723f81e7fd04d124143e880c288b300aa0df4550f3830ba1ca028ae0f3ede4",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Repro-Block::02-Hormone-Replacement-&-Suppression-Therapy::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "c11419fa72963c0420f574a933374ac18d1119206ab8bd02d3cca2d82a11c1da",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::14-Sexual-Health-&-Dysfunction::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "53d08e151087600ee2bf8111a5f5da447c369aac6d37321e0039ef82f2f49f73",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::14-Sexual-Health-&-Dysfunction::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "c94df67b9fa16bf00cdb255c0f77abeaf705cf1eb7d7909bd1363c9c6f4a72c7",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::14-Sexual-Health-&-Dysfunction::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "6ea64a1afc426fa4371db63d72292aca7191b457100fc2df5d30bbaa80f784b7",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::14-Sexual-Health-&-Dysfunction::Class-Content"
       ]
     },
     {
@@ -48333,6 +48914,12 @@
       "first_field_hash": "b7dbe96a7f54852db0036381a1614ee9ebe73a6a5d4bbaf7b18c44e8b276a6f5",
       "tags": [
         "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-5-Lower-Limb::Anatomy::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "62266d701a33e9ca718ab6df25542821427df19cce7c11aa7ad6accb27b94859",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::14-Sexual-Health-&-Dysfunction"
       ]
     },
     {
@@ -51663,6 +52250,12 @@
       ]
     },
     {
+      "first_field_hash": "a40249eaabfd079c2f828aa173d1eaab3a3d4b6f8c4dce3964f917747ba988a3",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::13-HPV-&-Cervical-Cancer"
+      ]
+    },
+    {
       "first_field_hash": "cd6af06c35ac18ee3d1bb83b30241362027c9c868429722caed959cdc3630767",
       "tags": [
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-1::05-Intro-to-Fungi",
@@ -51868,14 +52461,16 @@
       "first_field_hash": "c13dee00a80948aeab37d7cecfa4b7ab61ca3ab9173e5993252ecfb008f19d3e",
       "tags": [
         "JerryShen_AnKing_Tags::Cancer-Biology::Final::Lab-02-Cancer-Tumor-Board::Class-Content",
-        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::09-Upper-GI-Infections"
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::09-Upper-GI-Infections",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::13-HPV-&-Cervical-Cancer::Class-Content"
       ]
     },
     {
       "first_field_hash": "1e78848bc1757259317a36d740f60c75d03601c7a7e17be613c16040d9409d4b",
       "tags": [
         "JerryShen_AnKing_Tags::Cancer-Biology::Final::Lab-02-Cancer-Tumor-Board::Class-Content",
-        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::09-Upper-GI-Infections::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::09-Upper-GI-Infections::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::13-HPV-&-Cervical-Cancer::Class-Content"
       ]
     },
     {
@@ -52735,6 +53330,12 @@
       ]
     },
     {
+      "first_field_hash": "9f0f6a1b25c6c30fd060c3653ba989a0d5b7e4b039f6df7fd0e2bb9f686e3b85",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::14-Sexual-Health-&-Dysfunction"
+      ]
+    },
+    {
       "first_field_hash": "60c553f6c201e1b99844c4db61920c18718ba7464b88ff128ff4d99a9c21533d",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Repro-Block::01-Testicular-Physiology::Class-Content",
@@ -52846,7 +53447,8 @@
     {
       "first_field_hash": "07498a6cd66f9aeb8510e1b37231e305c7ef761c7c82727530337796bf0a950b",
       "tags": [
-        "JerryShen_AnKing_Tags::Micro-Pharm::Exam-2::10-Biologics-Ectoparasites-&-Clinical-Cases::Class-Content"
+        "JerryShen_AnKing_Tags::Micro-Pharm::Exam-2::10-Biologics-Ectoparasites-&-Clinical-Cases::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::Tutorial-1-GI-Tract::Class-Content"
       ]
     },
     {
@@ -53008,6 +53610,12 @@
       "first_field_hash": "04d1fee9662d17bf8f62121ee1a18f09a18e1135fc0319499e27c4774dbf6320",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Renal-Block::11-Potassium-Disorders"
+      ]
+    },
+    {
+      "first_field_hash": "324aa009bc5cbfe7402504825a2bb3c991a9e3a82bbfd15ad79828343d44f51a",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::14-Sexual-Health-&-Dysfunction"
       ]
     },
     {
@@ -53402,6 +54010,12 @@
       ]
     },
     {
+      "first_field_hash": "1aba7fdfe815a19a2732cef5f9a1c4d6e13d85f65f39dbfbe35f89b7d3c2da4f",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::13-HPV-&-Cervical-Cancer"
+      ]
+    },
+    {
       "first_field_hash": "43bf7629bb86e75b2cfe716cef41c3f1f6e506959a4144a5f25684fc34dd07a7",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::MSK-Block::05-Lower-Limb-Pathology"
@@ -53417,6 +54031,24 @@
       "first_field_hash": "e774a7ae8fec3e6502ee3433066a5dd9479ce621b23e42422f279f6f7956ddc1",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::MSK-Block::04-Upper-Limb-Pathology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "349c1f7e90f7e7e01dced362e06f84218a00b6497835e4d90f41309d671ef24e",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::13-HPV-&-Cervical-Cancer"
+      ]
+    },
+    {
+      "first_field_hash": "c0d0741cf9e6937cf49a25359200ab7698834f5f9a644eba19468273825a5bb9",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::13-HPV-&-Cervical-Cancer::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "fe6e6488302866f085a9b8db9886cb6857fcf90c49a6809edf9e5c11cb1584c8",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::13-HPV-&-Cervical-Cancer::Class-Content"
       ]
     },
     {
@@ -53594,6 +54226,12 @@
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-2::07-β-Lactam-Antibiotics-&-Parasites",
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::23-Endocarditis",
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::23-Endocarditis::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "c1feab3ca1b20e55b9df2e908fde034ae5dbf1385512b60663b333e78422c444",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::13-HPV-&-Cervical-Cancer::Class-Content"
       ]
     },
     {
@@ -53921,6 +54559,12 @@
       ]
     },
     {
+      "first_field_hash": "1c1cacaa02795d92e6c9fa391d1fde47a06a6cbe6b782e4fcbb2c8e602d7d076",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::07-Pancreas"
+      ]
+    },
+    {
       "first_field_hash": "fe8f9c6c40a8b196dcb1f3b168fb0721cc0b3406b7e4acee5e7c0346b6c94b8d",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::03-Fat-&-Micronutrient-Nutrition::Class-Content"
@@ -53976,6 +54620,12 @@
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::07-Type-2-Diabetes::Class-Content",
         "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::13-Obesity::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "057430bcf0e05df60c0e662f873dbf63840c6475a0622f7637eb8c8155d5f193",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::13-HPV-&-Cervical-Cancer::Class-Content"
       ]
     },
     {
@@ -54184,6 +54834,18 @@
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::04-Lipoproteins",
         "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::05-Treatment-of-Hyperlipidemia::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "3e48f972182e4bc5a2af33c2b902b51adc5ee797233cc59f5d0c94634a141b64",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::Tutorial-1-GI-Tract::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "fad826d1d95a6854f28c74a61fd092d89a9471d8e3d853d8f9b4fa5a5a7ee443",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::Tutorial-1-GI-Tract::Class-Content"
       ]
     },
     {
@@ -54713,6 +55375,12 @@
       ]
     },
     {
+      "first_field_hash": "d8390460de3b2fd41aa53da47f7cbd97f21db16c644274830e5f199d17b84b0b",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::13-HPV-&-Cervical-Cancer::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "f81dfdb0e19f8611232b455efcfef978fca6c88bf221f2b67e791f773b3508d4",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::13-Neoplastic-Intestinal-Pathology::Class-Content"
@@ -54768,9 +55436,16 @@
       ]
     },
     {
+      "first_field_hash": "f7177993c5e87f7f7c7df93860fe3df5104aed5bcfd38ea4dc455df4f57ee416",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::13-HPV-&-Cervical-Cancer::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "eff65a59747392ac0c74fe5bda794f826fa5c2295c9dc23408df7f6e5eeb86d1",
       "tags": [
-        "JerryShen_AnKing_Tags::Cancer-Biology::Final::Lab-02-Cancer-Tumor-Board::Class-Content"
+        "JerryShen_AnKing_Tags::Cancer-Biology::Final::Lab-02-Cancer-Tumor-Board::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::13-HPV-&-Cervical-Cancer::Class-Content"
       ]
     },
     {
@@ -54871,6 +55546,12 @@
       ]
     },
     {
+      "first_field_hash": "eb29627b7c477ab773e60e93028bff7c8eb971226dd7ed1262ab24f9bf14e0a0",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::13-HPV-&-Cervical-Cancer"
+      ]
+    },
+    {
       "first_field_hash": "a288331ab3d7472674720178e1af4fb12733dc72c057fd9ecfca92b9fd523fc1",
       "tags": [
         "JerryShen_AnKing_Tags::Cancer-Biology::Final::05-Cancer-Genes-&-Pathways"
@@ -54880,6 +55561,12 @@
       "first_field_hash": "31c29d69e8ed2f26ee8130d184a934c2897311c5cfee175f9aae0cb6d582e6f9",
       "tags": [
         "JerryShen_AnKing_Tags::Cancer-Biology::Final::05-Cancer-Genes-&-Pathways"
+      ]
+    },
+    {
+      "first_field_hash": "12f40a4179669f398eeb6bc160b64a627559cbb6aac970cf13023c9f180228fa",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::13-HPV-&-Cervical-Cancer::Class-Content"
       ]
     },
     {
@@ -55971,7 +56658,7 @@
       ]
     },
     {
-      "first_field_hash": "23189c6000ced94f03e4c27ef5f3ebc8f486d5467c3124af4e379d5eb616a2b7",
+      "first_field_hash": "32d4ca29c5c1e13875f3f1d92497a92702bb38c26cc94b35186bd450ff1be75c",
       "tags": [
         "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-5-Lower-Limb::Anatomy::Class-Content"
       ]
@@ -55983,7 +56670,7 @@
       ]
     },
     {
-      "first_field_hash": "90e628a0913749a780d7ccd32f5b7cd720476ab5351ae0f02efae658d291ce70",
+      "first_field_hash": "dbf9e149d0560cbcac98154b5ddb13fbe122409bebaac80842265e560bf7fc22",
       "tags": [
         "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-5-Lower-Limb::Anatomy"
       ]
@@ -55995,7 +56682,7 @@
       ]
     },
     {
-      "first_field_hash": "b0925be0c297e6742e5b9537dc8b1021b4c8305084479aa60fa01bae71c3873b",
+      "first_field_hash": "819a5e88cfde61d6fb8cadfb99d1511cf0fe14b98d8e849e100dd52a82106ff5",
       "tags": [
         "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-5-Lower-Limb::Anatomy::Class-Content"
       ]
@@ -56386,6 +57073,12 @@
       ]
     },
     {
+      "first_field_hash": "d39f46e44ca051a12ac3b1104aecd9c579571c037d2b13badb575efc24060939",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::13-HPV-&-Cervical-Cancer::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "39b3c11c450fd1c86c28e120e6c4e91b4a87a219767c014d6c8505a6f765bda3",
       "tags": [
         "JerryShen_AnKing_Tags::Cancer-Biology::Final::Cancer-Pharmacology",
@@ -56395,7 +57088,8 @@
     {
       "first_field_hash": "95636313e51d8b7c7b3e7397f26a70c1d703d35b10f9c697939e421b83e82b26",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::08-Large-Intestine"
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::08-Large-Intestine",
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::Tutorial-1-GI-Tract"
       ]
     },
     {
@@ -56413,13 +57107,15 @@
     {
       "first_field_hash": "ec4f70f35f2ac76fe83332038433b34e8c2f3c370facb197582f9b2b4fa71db7",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::08-Large-Intestine::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::08-Large-Intestine::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::Tutorial-1-GI-Tract"
       ]
     },
     {
       "first_field_hash": "f26d7515fabf5c2608fc4dcca1ecfd536435d8f942812b26ac25a8d6b45df7fc",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::08-Large-Intestine"
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::08-Large-Intestine",
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::Tutorial-1-GI-Tract"
       ]
     },
     {
@@ -57231,6 +57927,12 @@
       "first_field_hash": "ab79e61759b174b8dfbeac4879679ef46dea0bec4c0803957fde05547fac4094",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::25-Pulmonary-Hypertension::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "01b1a1524f165756fda40c51456f914bc0fb7ca5e0799c546b9898dd7976befe",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::14-Sexual-Health-&-Dysfunction::Class-Content"
       ]
     },
     {
@@ -58989,6 +59691,12 @@
       ]
     },
     {
+      "first_field_hash": "07b5b5cf44224dfbc548dbc45659beefd520514913241b184b4964f9c851ebbd",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::13-HPV-&-Cervical-Cancer"
+      ]
+    },
+    {
       "first_field_hash": "cd08a4e82969223fdec45bc6b10d188ff50d94405d2e3c4e53cded761c8b9c7e",
       "tags": [
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-1::04-Intro-to-Viruses"
@@ -59546,6 +60254,12 @@
       "first_field_hash": "56f6cb1dbb4b5126fe10ecbe21626c5f904fe1d403d647d03b0a3dfe6560ca83",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::Tutorial-2-Thyroid-Disease"
+      ]
+    },
+    {
+      "first_field_hash": "274eba6617374e146048ddfcb6eeee7af4bd11e914df6df3d073cd1861916d61",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::13-HPV-&-Cervical-Cancer"
       ]
     },
     {
@@ -61986,6 +62700,12 @@
       "first_field_hash": "740061721fd6422748f4d296fb8881f3b8f5414b20f2d1acdb5384816d12ddd1",
       "tags": [
         "JerryShen_AnKing_Tags::Cancer-Biology::Final::Cancer-Screening::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "c7bca6dc66da9076730823e338a478f4fd40596d31c61f0b971ca08ac5bd9e8c",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::13-HPV-&-Cervical-Cancer"
       ]
     },
     {
@@ -67901,7 +68621,8 @@
     {
       "first_field_hash": "52921820f560596d2f3054ca630fa9ce11f6ea3d4619f07e9d040957138320e1",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::07-Pancreas::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::07-Pancreas::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::Tutorial-1-GI-Tract::Class-Content"
       ]
     },
     {
@@ -68059,6 +68780,18 @@
       "first_field_hash": "f56d6adf094b62a817c87d3a4a0a521e4a73b4242c05416cd863367ca33fb483",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::08-Large-Intestine"
+      ]
+    },
+    {
+      "first_field_hash": "eb7365c50c866a2c3fd20a08540088124ddc54ce3e4dc073ae64cf6cd00dd08d",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::13-HPV-&-Cervical-Cancer::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "2b3195e5493be535a54fc4d70368685d7ae8258b534ce9c985f18ce2635a5837",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::13-HPV-&-Cervical-Cancer"
       ]
     },
     {
@@ -70779,7 +71512,8 @@
     {
       "first_field_hash": "8b82d9429d0a2541000f88d3b33d404885d9d2475bd2eca8e7aa0813f51038fe",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::11-Disparities-in-GI-Cancer"
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::11-Disparities-in-GI-Cancer",
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::Tutorial-1-GI-Tract::Class-Content"
       ]
     },
     {
@@ -71235,9 +71969,21 @@
       ]
     },
     {
+      "first_field_hash": "5533a901653ab6201367c46b89ebc90a59103c3f872012f4a1be4341fc563c9f",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::14-Sexual-Health-&-Dysfunction"
+      ]
+    },
+    {
       "first_field_hash": "df80a5f5875fbc3b48307d1c7f2b6d0ee9ac2a86b5cdc126961fb135cf7969a8",
       "tags": [
         "JerryShen_AnKing_Tags::POM-4::EMED-Procedures::Foley-NGTube-&-I&D::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "1b271e949ce32392bab6bbd3dab5c400c08b19cf1b10c49d09ac0f723d4b2713",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::14-Sexual-Health-&-Dysfunction"
       ]
     },
     {
@@ -72020,6 +72766,12 @@
       ]
     },
     {
+      "first_field_hash": "c142d3558705e4fd9bcc11391fdf9e526c933c4c9c26169ba5a57f87c6da78b2",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::13-HPV-&-Cervical-Cancer"
+      ]
+    },
+    {
       "first_field_hash": "7745158330601d11b070bb29582f74f386845ec1d8c3c00220623928745b219c",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::15-Upper-Respiratory-Infections"
@@ -72101,6 +72853,12 @@
       "first_field_hash": "a6793362928a6b539483b164cf3fef9688a22c62da109c534e4bd0d5b5d7b367",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Repro-Block::09-Vaginal-Bleeding::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "65c58c8f399fc33b1b579e901f9b7b133d7262667e1e2c889d28224868403017",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::13-HPV-&-Cervical-Cancer::Class-Content"
       ]
     },
     {
@@ -72649,7 +73407,8 @@
       "first_field_hash": "648a714a68b0e54c0995284c8cf28237ddc832090ab2321b6917c0bda1e88189",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::07-Pancreas",
-        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::07-Pancreas::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::07-Pancreas::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::Tutorial-1-GI-Tract::Class-Content"
       ]
     },
     {
@@ -73222,6 +73981,18 @@
       "first_field_hash": "f8a958b98ceca7e12f4dc6e160d73c5138b6323bde5daabbba9174daf2e58f8d",
       "tags": [
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-1::01-Intro-to-Pharmacodynamics::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "4b34eb1c1a1104cd95cfbaf615c2ce429a17e462d6b86ca219aaf8f36d3b8ea3",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::14-Sexual-Health-&-Dysfunction::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "33b6c699f97dd07897417c852b70e49d9f40b1ff4ce788c18f4d0738fd4281e2",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::14-Sexual-Health-&-Dysfunction"
       ]
     },
     {
@@ -74315,6 +75086,12 @@
       ]
     },
     {
+      "first_field_hash": "4434ef9514b26b7babfb6a8c1c8b6bf7a21aeae854a435e02f452bfbb3a1f146",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::13-HPV-&-Cervical-Cancer"
+      ]
+    },
+    {
       "first_field_hash": "f4e8dc951337541dfb13585da2f991899e9a7d762aa5bf469f2a0e6109132ff6",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::10-Neuroendocrinology"
@@ -74506,6 +75283,30 @@
       ]
     },
     {
+      "first_field_hash": "933f42384868f267db79798391ffdb2a39ab4b3ae42f737f023cafd12b0c6933",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::14-Sexual-Health-&-Dysfunction::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "dd278748018d9787471865263cbb514b8e4dafbbd100dc22a4b8b81d5359d298",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::14-Sexual-Health-&-Dysfunction"
+      ]
+    },
+    {
+      "first_field_hash": "ab618ee7d70f0c204403d24da2d64603aafd2b9bd27aa455ad4da2c4194a7dd8",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::14-Sexual-Health-&-Dysfunction"
+      ]
+    },
+    {
+      "first_field_hash": "1b0b5ae3e53680b36549d32e3fd460b139f215b34f049f5554b3396c52072063",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::14-Sexual-Health-&-Dysfunction"
+      ]
+    },
+    {
       "first_field_hash": "aa2ffe74233c4e0c31aa9cb1c51c2bd8ba89da05df877d1923b9d33686718adf",
       "tags": [
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-2::07-β-Lactam-Antibiotics-&-Parasites::Class-Content"
@@ -74606,6 +75407,12 @@
       "first_field_hash": "22211da0f5fce64d463c9b55b6c7ec8921d9b6c2dfd365f36f0610f26a9900a6",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Renal-Block::03-GFR-Clearance-&-Steady-State"
+      ]
+    },
+    {
+      "first_field_hash": "6d6e5d31ebf4bf42dc6a188e40012aae2010b6f37197b4662ad142be95c27d01",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::14-Sexual-Health-&-Dysfunction"
       ]
     },
     {
@@ -75116,6 +75923,12 @@
       ]
     },
     {
+      "first_field_hash": "825189c5d73cb11799b6ac660358e1e66b63bfa3fd9f0a892311053a1081b1dd",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::13-HPV-&-Cervical-Cancer"
+      ]
+    },
+    {
       "first_field_hash": "96878556d19156b4e7da131c0b621fb3b6fffd353ebb3dc9a7bfdcbf62facd21",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::04-Salivary-Gland-&-Esophagus"
@@ -75540,6 +76353,12 @@
       "first_field_hash": "062ce1797f995be3f5376f0a35675c00098f78e9ca5ca95a44a73c3cd8d33ec1",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::MSK-Block::04-Upper-Limb-Pathology"
+      ]
+    },
+    {
+      "first_field_hash": "c952e27f454b6c03efcae1f7fbd55408a235d50427467a35dffdeabe43464643",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::14-Sexual-Health-&-Dysfunction"
       ]
     },
     {
@@ -75990,6 +76809,12 @@
       ]
     },
     {
+      "first_field_hash": "4d1652091fe43976db90af244845677a118487283615229857a31f05762f008f",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::14-Sexual-Health-&-Dysfunction"
+      ]
+    },
+    {
       "first_field_hash": "e3e64108b8becde2ffd5e26f1b28ea1d3bd276fc186edde5348fc84986260602",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::23-Pleural-Disease"
@@ -76405,6 +77230,12 @@
       "first_field_hash": "8db351b47bcf11fad08fe814b2d5a70558201304675c4eba7d823003465606d4",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::09-Upper-GI-Infections"
+      ]
+    },
+    {
+      "first_field_hash": "a755ef23ad5cadcb7579415dc4dafb2c65bb8bc7d3534db12c3a838368922c6e",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::13-HPV-&-Cervical-Cancer::Class-Content"
       ]
     },
     {
@@ -77197,6 +78028,12 @@
       ]
     },
     {
+      "first_field_hash": "15a0de06728e05968c0955824ddcac4a8f4dbb4dd0a86a54e9e0686b1d0be415",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::14-Sexual-Health-&-Dysfunction"
+      ]
+    },
+    {
       "first_field_hash": "927659bcc1754d0c59e812ec8022a67642b44b545b4fbd833475939a8aab7a02",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::26-Pulmonary-Cases-&-Miscellaneous-Diseases::Class-Content"
@@ -77300,9 +78137,21 @@
       ]
     },
     {
+      "first_field_hash": "e0c971088a950fd7e2299e44c215341f969adf49002112e9453936169c110236",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::14-Sexual-Health-&-Dysfunction::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "1f88c247c48af3d89ff0c876acff41c9532220bbe441e7c9796651d5d79b1d35",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Repro-Block::05-Physiology-of-Pregnancy"
+      ]
+    },
+    {
+      "first_field_hash": "b28b5f175e30b8e79955795c0bd750fc4414eb280084c06447b74b0c5a3c15f6",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::14-Sexual-Health-&-Dysfunction::Class-Content"
       ]
     },
     {
@@ -77432,7 +78281,8 @@
     {
       "first_field_hash": "d64661bcbfe3ae0981834dd50b2aa415026b992e5d54a034481db37e6a36ee62",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::08-Large-Intestine::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::08-Large-Intestine::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::Tutorial-1-GI-Tract::Class-Content"
       ]
     },
     {
@@ -77477,6 +78327,18 @@
       "first_field_hash": "c9d0cc863153a425177ff739e54e4a15cdab0ed31b7dfb09e6ca45a84603d3ca",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::06-Small-Intestine"
+      ]
+    },
+    {
+      "first_field_hash": "b16e9a363a33297e5f040001ba794a9e647731eb9747d8260966a947e6b01eb7",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::Tutorial-1-GI-Tract::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "539cf38e2ba66cfbc12a3830bfeead46e0d99c999d49a055be2870d8c39df34d",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::Tutorial-1-GI-Tract::Class-Content"
       ]
     },
     {
@@ -77939,6 +78801,12 @@
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::30-Hypertension",
         "JerryShen_AnKing_Tags::SOM-2::Renal-Block::16-Acute-Kidney-Injury::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "26f9ac326944b2e2228d70cc5b6e1c7e1d85a647339bb14d70cc84ffb5c9e28b",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::13-HPV-&-Cervical-Cancer::Class-Content"
       ]
     },
     {
@@ -78525,6 +79393,12 @@
       ]
     },
     {
+      "first_field_hash": "6a29dfc7a3a604ffa34b44570972d88875c2030a45116df62c96675dad0770e7",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::14-Sexual-Health-&-Dysfunction"
+      ]
+    },
+    {
       "first_field_hash": "03e5cf8bb2cf1fdc8f47e8d74c44526fc9dfe8f91dde3f176a38245360cbdbed",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Repro-Block::12-Early-Pregnancy-Complications-&-Bleeding-Tutorial"
@@ -78533,7 +79407,8 @@
     {
       "first_field_hash": "3bceef7fd328dd6491444a701085487bfdb663fd9de84608830268f4fe4e3507",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::09-Vaginal-Bleeding"
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::09-Vaginal-Bleeding",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::14-Sexual-Health-&-Dysfunction::Class-Content"
       ]
     },
     {
@@ -78556,9 +79431,35 @@
       ]
     },
     {
+      "first_field_hash": "58ed88d3d98b17236620465861c970b607b2ee9a3a8860c2cfd63f6c1601786d",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::13-HPV-&-Cervical-Cancer::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "aa710dd0ebf2289fa854c93622dc1eff1b7c9993a33a796f8063f60b51df9d61",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::13-HPV-&-Cervical-Cancer",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::13-HPV-&-Cervical-Cancer::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "8d31c362030527c083bc2a34da80fe49b5c10374abed906d041f7afd1bb3fa61",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Repro-Block::10-Amenorrhea-&-Infertility::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "a723e60140fff5fc3f65f12bc1eca498c5b9dd42aa0f4b1ecf5f234d75585968",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::13-HPV-&-Cervical-Cancer"
+      ]
+    },
+    {
+      "first_field_hash": "a5af4dfa51e2a95b4abfe4efcf0264316818ca22138c7b730b4f218c9a304a0f",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::13-HPV-&-Cervical-Cancer",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::13-HPV-&-Cervical-Cancer::Class-Content"
       ]
     },
     {
@@ -78583,6 +79484,30 @@
       "first_field_hash": "015c8f78d23a1b220b5ffb1a65545c2effbcadc315115c4077be2523e5535f38",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Repro-Block::09-Vaginal-Bleeding"
+      ]
+    },
+    {
+      "first_field_hash": "a7c1b6b1b6c412f3dead3ef7b0ccd84817b8fbd219d16ddeeafc1e2c261253c7",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::14-Sexual-Health-&-Dysfunction::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "4b1d796e283a0e245449c39e2992eae4aec61c8edb54db1d3e703e0c96d6365f",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::14-Sexual-Health-&-Dysfunction::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "efad611e5e8253a1e8618ff59f2a0d6da153023a9b1e66f476402059be28c8f9",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::14-Sexual-Health-&-Dysfunction::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "0717b3c83c0c18458b30c0b3dfde98630ea838a8e1c30e2d6c6aafc8547fdea8",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::14-Sexual-Health-&-Dysfunction"
       ]
     },
     {
@@ -78619,6 +79544,12 @@
       "first_field_hash": "b86db543ae353e2a7e6092c94e52978a49c512d5cbe71e88e9a1d6410a9b8bf5",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Repro-Block::03-HPO-Axis-&-Menstrual-Cycle"
+      ]
+    },
+    {
+      "first_field_hash": "8def96f250315abaf617dc3f28aa02ccb1e476f76d3de0688b7182b9a5a1c02d",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::13-HPV-&-Cervical-Cancer::Class-Content"
       ]
     },
     {
@@ -78663,6 +79594,12 @@
       "first_field_hash": "f09ddd96cb772c6ffc9b22691f3440ce744d7d13e2a1b507e5ee253cd099d550",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::15-Bone-Pathophysiology"
+      ]
+    },
+    {
+      "first_field_hash": "1e801a12b931bf6f299977c3e87d0c66d72f4cc67831ff34e88025d612b24902",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::13-HPV-&-Cervical-Cancer"
       ]
     },
     {
@@ -78764,6 +79701,30 @@
       ]
     },
     {
+      "first_field_hash": "5316da2e02925fa0cf5c4cb54a5576a2c6ac1010bde30eeac60da9f16112a4a5",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::14-Sexual-Health-&-Dysfunction::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "231ff605f6172d054369456b395613f8acbca9f958bb6b1cd9ae00faa29417f5",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::13-HPV-&-Cervical-Cancer::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "b2da0143ffb6ea23139f5e804f2baf874bf496a816cc44fd9d63210d3e3e5804",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::13-HPV-&-Cervical-Cancer::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "d05101127ba45982a62e9984faec956c00c731e8cb7a748d3f38de4bcc09574f",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::13-HPV-&-Cervical-Cancer::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "b5eca0bb170f34343d3a7e1b6705c927d080ef2049586701b2e34045c894f00f",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Renal-Block::15-Renal-&-Bladder-Tumor-Pathology::Class-Content"
@@ -78779,6 +79740,12 @@
       "first_field_hash": "13c79879e503d3a699cbd0a7faa155cbd4969750697f75109ad12516d67c351e",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Repro-Block::12-Early-Pregnancy-Complications-&-Bleeding-Tutorial::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "7803e43b3babbd57a14c551c036efc48c9240174699c9f4d84a4ab53a1b96325",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::14-Sexual-Health-&-Dysfunction::Class-Content"
       ]
     },
     {
@@ -79069,6 +80036,12 @@
       "first_field_hash": "6ca56393b2148a0f78f7a4e99ad06e3fd580edbdf9acfc2f564b7ed1cc34e622",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Repro-Block::08-Labor-&-Birth-Complications::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "f80c2cf3a209785b674b1c479bfca6ed86137a70302e4093381c0558db1b13eb",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::14-Sexual-Health-&-Dysfunction"
       ]
     },
     {
@@ -82251,6 +83224,12 @@
       ]
     },
     {
+      "first_field_hash": "1cd0a8a5a1b6b6d892e5cd7289ab77cf5dbb375779f15eaba204992239651e36",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::13-HPV-&-Cervical-Cancer::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "fdac8faf237be80fee2140f4f18ddbc4fa3ededb5c368e910370c6cb03b4b0b9",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::MSK-Block::Lab-01-MSK-Cases"
@@ -82348,6 +83327,12 @@
       ]
     },
     {
+      "first_field_hash": "1760ae0189e9ac932237f5ae7b4c8114979a52a8bc295cd85754da4e9c99d904",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::14-Sexual-Health-&-Dysfunction::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "493a02335a2df72c0054ae908547a1160905d24d31156898b52106d17e89861d",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Repro-Block::12-Early-Pregnancy-Complications-&-Bleeding-Tutorial::Class-Content"
@@ -82388,6 +83373,12 @@
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Repro-Block::07-Complications-of-Pregnancy",
         "JerryShen_AnKing_Tags::SOM-2::Repro-Block::07-Complications-of-Pregnancy::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "00c29cc5bb61494e55de6deacf3559e486cff1411a5b120cc3885a71714cb852",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::13-HPV-&-Cervical-Cancer"
       ]
     },
     {
@@ -82574,6 +83565,12 @@
       "first_field_hash": "2a6127bfe054c6bff511766cb5ad9cd2964b2f47755e18532037265b7f1a2c7d",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::07-Pulmonary-Function-Testing"
+      ]
+    },
+    {
+      "first_field_hash": "2f742345c8bc2d21a57a96b33505ad198dc43d3550219a858c649aac2bd1d9db",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::13-HPV-&-Cervical-Cancer"
       ]
     },
     {
@@ -82796,7 +83793,8 @@
     {
       "first_field_hash": "7389f98fe7255f86aa6f73d3a1f66d8d5c08bc6ec89846993d049aadd08ca8cd",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::07-Pancreas"
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::07-Pancreas",
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::Tutorial-1-GI-Tract::Class-Content"
       ]
     },
     {
@@ -82954,6 +83952,12 @@
       "first_field_hash": "cfd5817c0db1d0d6745548be8ce082b06f2493476752f7c64f0bc543f30af07b",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::08-Large-Intestine"
+      ]
+    },
+    {
+      "first_field_hash": "942bf8017b075d611fcd1b1efcfbd3592c77875d2e0aaeffb71bdd65ef6e4127",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::13-HPV-&-Cervical-Cancer::Class-Content"
       ]
     },
     {
@@ -83278,6 +84282,12 @@
         "JerryShen_AnKing_Tags::POM-3::Clinical-Reasoning::Advanced-Pulmonary-Exam",
         "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::10-Airway-Obstruction",
         "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::12-Pathology-of-Asthma-and-COPD"
+      ]
+    },
+    {
+      "first_field_hash": "8a77136ef95167d4e80929961faf52b255c42b6f56d3441c7b7f956fffcabfe8",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::14-Sexual-Health-&-Dysfunction::Class-Content"
       ]
     },
     {
@@ -83867,6 +84877,12 @@
       ]
     },
     {
+      "first_field_hash": "72658d0a4bee7d20fa5db367a0112d15c9e8b8dd48243251c9c7e3afd9145ba1",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::14-Sexual-Health-&-Dysfunction"
+      ]
+    },
+    {
       "first_field_hash": "ec597ce78bcedf57acf7b1f71614bf1d821592f771309ea92170406a1df980d6",
       "tags": [
         "JerryShen_AnKing_Tags::POM-1::Final::Psychiatry::Class-Content"
@@ -84119,6 +85135,13 @@
       "first_field_hash": "4e33501ee263ccde1962e7448d35f11e6688f418210197ae8796137f710a0132",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Renal-Block::24-Genetic-Kidney-Diseases::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "5a23b48c46ada46675017d18478712ff46c67b22025a49f1b3c8f9c138f2f55e",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::13-HPV-&-Cervical-Cancer",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::13-HPV-&-Cervical-Cancer::Class-Content"
       ]
     },
     {
@@ -84425,6 +85448,12 @@
       ]
     },
     {
+      "first_field_hash": "8f064bd70b1428fddc9e6e08cdf498e8287eec257c2d88f96cb6393868d7ccf5",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::13-HPV-&-Cervical-Cancer"
+      ]
+    },
+    {
       "first_field_hash": "a63e32ab885cd02b94b1ebdae010ad0f6f6b2505a3f21b311743399ba1d4208c",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::12-Pathology-of-Asthma-and-COPD"
@@ -84639,6 +85668,12 @@
       "first_field_hash": "5b16201c4b37734d98aeb61a0eca8baaef9a0eb84e3846beb71fc5f9477a44a9",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Repro-Block::05-Physiology-of-Pregnancy"
+      ]
+    },
+    {
+      "first_field_hash": "091dd23c76f0e35cda9607e3a1c94f7d66d5fc4a0aa5cfb9f6363df3e989ee3e",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::14-Sexual-Health-&-Dysfunction"
       ]
     },
     {
@@ -84954,7 +85989,8 @@
     {
       "first_field_hash": "d3049effa61d2663feaa0ed79fa052154b2dcfbdb8d9841ad27300e5d55ee378",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::09-Vaginal-Bleeding::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::09-Vaginal-Bleeding::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::14-Sexual-Health-&-Dysfunction::Class-Content"
       ]
     },
     {
@@ -84990,7 +86026,8 @@
     {
       "first_field_hash": "16b437bd74dd70d059fe0389126786fd7a433086954966d56f0d979d76d0f584",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::09-Vaginal-Bleeding"
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::09-Vaginal-Bleeding",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::14-Sexual-Health-&-Dysfunction"
       ]
     },
     {
@@ -85003,6 +86040,12 @@
       "first_field_hash": "03e525116e842f325bbd7e96c8d26ab52a6d6f800ff890d48eebaa50e78275f7",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Repro-Block::05-Physiology-of-Pregnancy::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "2ada397bb75f12ef97f77955df67086bc751d2c6dab7c7cf55d770b7e3794bab",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::14-Sexual-Health-&-Dysfunction::Class-Content"
       ]
     },
     {
@@ -85088,6 +86131,12 @@
       ]
     },
     {
+      "first_field_hash": "a101c4c75e97abcaf76dcf15b182a428b0df84a1161a3db9aecc4db87ea9ba5f",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::13-HPV-&-Cervical-Cancer"
+      ]
+    },
+    {
       "first_field_hash": "fce8d7c5f9a3712711b2742278d6df98856713b29578c73c207b38d0d2704b7e",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::MSK-Block::04-Upper-Limb-Pathology"
@@ -85169,6 +86218,12 @@
       ]
     },
     {
+      "first_field_hash": "f2b1e0baf74ff323c80c667d2b174cf41a06dba5a59ce58c1e1e3c4a86ab62ba",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::14-Sexual-Health-&-Dysfunction::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "b9535f937f5ab516c12fc128d065d677230cc93584c12e809d6ad6636b53610d",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Repro-Block::09-Vaginal-Bleeding"
@@ -85213,9 +86268,27 @@
       ]
     },
     {
+      "first_field_hash": "e26956c78c6c5ece90efe40582c22d2ded980ce5971875388df4a9eecf1ff844",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::14-Sexual-Health-&-Dysfunction"
+      ]
+    },
+    {
       "first_field_hash": "c1344cc5be8b29efcf3df90b83bb61c1a53434f1f55c686e7f516d1040b56e5e",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::13-Obesity"
+      ]
+    },
+    {
+      "first_field_hash": "56fea9ef52217e4bc6bcb0c1d6682a5249f9cc0ed71e1b7e0c258c512c840743",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::13-HPV-&-Cervical-Cancer"
+      ]
+    },
+    {
+      "first_field_hash": "1b33c72ac51ecb996d394bd665bc8ae1072f4a02ad6b7520ffcc9e0d655a7ba4",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::14-Sexual-Health-&-Dysfunction::Class-Content"
       ]
     },
     {
@@ -85366,6 +86439,12 @@
       "first_field_hash": "2335bb1c9568e87e1acec8fa7c982f48d0a6ef0d72ca660cdb02e89eb6966220",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::11-Disparities-in-GI-Cancer::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "1a51493b24d89099a35227c89c940605adf87980997ff5dadb91f5395d92d8ea",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::13-HPV-&-Cervical-Cancer"
       ]
     },
     {
@@ -85559,6 +86638,12 @@
       "first_field_hash": "8c1d294e090da21d0a8e13e650ac7b4c584a4c92e75fc491127184ed5f007ae5",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::17-Thyroid-Pathology"
+      ]
+    },
+    {
+      "first_field_hash": "0b0ab7ce73a991b865f57b586227a7b7febcc8e569234f4004ae69e473106ee5",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::14-Sexual-Health-&-Dysfunction"
       ]
     },
     {
@@ -86337,6 +87422,20 @@
       ]
     },
     {
+      "first_field_hash": "def95f4eb824968491a6dc5881c00d06b6f21661ed9f7939d0202c96983b087b",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::13-HPV-&-Cervical-Cancer",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::13-HPV-&-Cervical-Cancer::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "306f6b575c7340c86440b9cd638def9390998bd80585925564451389cb51ef32",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::13-HPV-&-Cervical-Cancer",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::13-HPV-&-Cervical-Cancer::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "ada92e0303f55dc4febf3b06d27a1ba815a3ccba34572faea16cf5efe0c95080",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::09-Upper-GI-Infections::Class-Content"
@@ -86643,6 +87742,13 @@
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Repro-Block::09-Vaginal-Bleeding",
         "JerryShen_AnKing_Tags::SOM-2::Repro-Block::09-Vaginal-Bleeding::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "760ea0ec1f994ae3d4a43d74f0f0d81d6227b644e26284b14a35c5156f51d7d6",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::14-Sexual-Health-&-Dysfunction",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::14-Sexual-Health-&-Dysfunction::Class-Content"
       ]
     },
     {
@@ -88529,6 +89635,13 @@
       ]
     },
     {
+      "first_field_hash": "a38978d37acc7e0084d1a8e56e99d305d8aa5b9d8693ee15b576b77a74c59f55",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::14-Sexual-Health-&-Dysfunction",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::14-Sexual-Health-&-Dysfunction::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "0fc49255fb1ec54c3d98dc45848f7b7439a54562a432c9c90799f89f18c8e380",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Repro-Block::09-Vaginal-Bleeding::Class-Content"
@@ -88654,6 +89767,12 @@
       ]
     },
     {
+      "first_field_hash": "63a944693548994f02610ed22073821d7a312d0ad92c85fc68e6e88228862c3e",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::13-HPV-&-Cervical-Cancer::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "5c52406ec9bd7d439a2bc73248dab02aa348392eba722e33bfeeb972a496ad22",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Repro-Block::09-Vaginal-Bleeding"
@@ -88663,6 +89782,12 @@
       "first_field_hash": "20335c00e21a6bcea496c68876d52e56a573ad6f56329e1a84670a741fb44762",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Repro-Block::09-Vaginal-Bleeding::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "319ebfaaff75a633fb908e56b281f3bb03a7a03306f5a2504d04749d8f168af7",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::13-HPV-&-Cervical-Cancer::Class-Content"
       ]
     },
     {
@@ -89029,10 +90154,29 @@
       ]
     },
     {
+      "first_field_hash": "533aee918525cbe8b86e63c4d969d8cff005a8939662339c756e54ef7e47c409",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::13-HPV-&-Cervical-Cancer"
+      ]
+    },
+    {
       "first_field_hash": "8bf271f689151b130c21c676ca061dbae2fc1c26bbce57ee5155b46f8f57d7bd",
       "tags": [
         "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-4-Pelvis::Class-Content",
-        "JerryShen_AnKing_Tags::Micro-Pharm::Exam-1::04-Intro-to-Viruses::Class-Content"
+        "JerryShen_AnKing_Tags::Micro-Pharm::Exam-1::04-Intro-to-Viruses::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::13-HPV-&-Cervical-Cancer"
+      ]
+    },
+    {
+      "first_field_hash": "c7a95e658473b761cf9de33494326350b2a2db8766a332bc49e3f5e18dd50de1",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::13-HPV-&-Cervical-Cancer"
+      ]
+    },
+    {
+      "first_field_hash": "f86a06487f68e15c6a7b505c73391897e48ff2a017a6b2c33033918a1caab40c",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::13-HPV-&-Cervical-Cancer"
       ]
     },
     {
@@ -89314,6 +90458,19 @@
       ]
     },
     {
+      "first_field_hash": "00f969230febcda232dd5b9dd69ed30b0898bcd43d3954f71640f144451abeeb",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::14-Sexual-Health-&-Dysfunction",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::14-Sexual-Health-&-Dysfunction::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "aca997f4c888d927819ebd1a3510193045e60fc9c9cf8d790989197cd58b7ca8",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::14-Sexual-Health-&-Dysfunction"
+      ]
+    },
+    {
       "first_field_hash": "36210def68bf2300c7a671ba512cbaf4c2b867e3a0a733eb3d1d9328f346b86e",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Repro-Block::09-Vaginal-Bleeding::Class-Content"
@@ -89409,6 +90566,12 @@
       "first_field_hash": "3fc91e8c54f36171ebf4c049d56838ef3caa5a6de169a2b0266a0e34bc4ca98a",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Repro-Block::05-Physiology-of-Pregnancy"
+      ]
+    },
+    {
+      "first_field_hash": "755f3e3f0829e0c67834747f39535582255ac4f796955e6c61ff5c6083643635",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::Tutorial-1-GI-Tract"
       ]
     },
     {
