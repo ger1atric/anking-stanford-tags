@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
   "author": "JerryShen",
-  "description": "more sexual health",
-  "created": "2026-10-29T19:09:02.606767+00:00",
-  "updated": "2026-10-29T19:09:02.606767+00:00",
+  "description": "halloween spooky cards",
+  "created": "2026-10-31T04:29:20.085328+00:00",
+  "updated": "2026-10-31T04:29:20.085328+00:00",
   "tag_prefix": "JerryShen_AnKing_Tags",
   "tag_hierarchy": [
     "JerryShen_AnKing_Tags",
@@ -281,6 +281,8 @@
     "JerryShen_AnKing_Tags::POM-4::ACS-Skills::Abdomen::Class-Content",
     "JerryShen_AnKing_Tags::POM-4::ACS-Skills::Cardiovascular-&-Renal",
     "JerryShen_AnKing_Tags::POM-4::ACS-Skills::Cardiovascular-&-Renal::Class-Content",
+    "JerryShen_AnKing_Tags::POM-4::ACS-Skills::Integrated-Clinical-Cases",
+    "JerryShen_AnKing_Tags::POM-4::ACS-Skills::Integrated-Clinical-Cases::Class-Content",
     "JerryShen_AnKing_Tags::POM-4::Clinical-Reasoning",
     "JerryShen_AnKing_Tags::POM-4::Clinical-Reasoning::Approach-to-AKI",
     "JerryShen_AnKing_Tags::POM-4::Clinical-Reasoning::Approach-to-AKI::Class-Content",
@@ -619,7 +621,11 @@
     "JerryShen_AnKing_Tags::SOM-2::Repro-Block::13-HPV-&-Cervical-Cancer",
     "JerryShen_AnKing_Tags::SOM-2::Repro-Block::13-HPV-&-Cervical-Cancer::Class-Content",
     "JerryShen_AnKing_Tags::SOM-2::Repro-Block::14-Sexual-Health-&-Dysfunction",
-    "JerryShen_AnKing_Tags::SOM-2::Repro-Block::14-Sexual-Health-&-Dysfunction::Class-Content"
+    "JerryShen_AnKing_Tags::SOM-2::Repro-Block::14-Sexual-Health-&-Dysfunction::Class-Content",
+    "JerryShen_AnKing_Tags::SOM-2::Repro-Block::15-Ovarian-&-Fallopian-Pathology",
+    "JerryShen_AnKing_Tags::SOM-2::Repro-Block::15-Ovarian-&-Fallopian-Pathology::Class-Content",
+    "JerryShen_AnKing_Tags::SOM-2::Repro-Block::16-Sexually-Transmitted-Infections",
+    "JerryShen_AnKing_Tags::SOM-2::Repro-Block::16-Sexually-Transmitted-Infections::Class-Content"
   ],
   "changelog": [
     {
@@ -1003,6 +1009,11 @@
       "date": "2026-10-29T19:09:02.606767+00:00",
       "message": "more sexual health",
       "note_count": 91
+    },
+    {
+      "date": "2026-10-31T04:29:20.085328+00:00",
+      "message": "halloween spooky cards",
+      "note_count": 430
     }
   ],
   "notes": [
@@ -1300,6 +1311,12 @@
       ]
     },
     {
+      "first_field_hash": "22e752bccc529226cd45fe63ec5b489f3f1268b978473fa9485cd10e8a7e9ca9",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::16-Sexually-Transmitted-Infections"
+      ]
+    },
+    {
       "first_field_hash": "9ded117f80b16602544c22e34a84c46f39e635cb9e2ead71dc25d6c0950ff71b",
       "tags": [
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-2::07-β-Lactam-Antibiotics-&-Parasites"
@@ -1344,9 +1361,28 @@
       ]
     },
     {
+      "first_field_hash": "4f9ab1a1010723e27bea2b1c840cd9b3a12a764b988b7c78865823f457441f58",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::16-Sexually-Transmitted-Infections::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "b94dba2bd1cabe7910a643949f3fac8ee4c26d164a9024dc5ef734c40b083193",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::16-Sexually-Transmitted-Infections"
+      ]
+    },
+    {
+      "first_field_hash": "493aa4dcc1406659351d688c96ec6679c1b41b9604f493640b6dae218c41fcfd",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::15-Ovarian-&-Fallopian-Pathology::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "36e7716f639188aa8eddc9e881602124e3a4ef89f8a30bf40382bbf749039fed",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-1::MSK-Block::02-Bone-&-Joint-Infections::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-1::MSK-Block::02-Bone-&-Joint-Infections::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::16-Sexually-Transmitted-Infections::Class-Content"
       ]
     },
     {
@@ -1359,6 +1395,12 @@
       "first_field_hash": "7c839bf4a77730df25ea60dc7660351a81cbaec522c96dbb395d210d2b251e6a",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::06-Small-Intestine"
+      ]
+    },
+    {
+      "first_field_hash": "bab213e774a1966bf90aa459dcd496a52a0b4cbf1a31c01833554b5a4647aff1",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::16-Sexually-Transmitted-Infections"
       ]
     },
     {
@@ -1502,9 +1544,34 @@
       ]
     },
     {
+      "first_field_hash": "2d44cb07e929068597d05d4051855f956a26dd8d9592484456a19690a8d39c08",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::16-Sexually-Transmitted-Infections::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "52a462cf0b37de970a8d3a090e375ffcb44d167690b4852eaf28e72db95fcbd0",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::07-Complications-of-Pregnancy::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::07-Complications-of-Pregnancy::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::16-Sexually-Transmitted-Infections"
+      ]
+    },
+    {
+      "first_field_hash": "1c38fbcd475d823c3be6de2099677be6f081350659705a5049be5e4b12e840eb",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::16-Sexually-Transmitted-Infections"
+      ]
+    },
+    {
+      "first_field_hash": "b719d878a1dff918d09873d0ae3535c353e4c750084bef6709790f746f64082f",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::16-Sexually-Transmitted-Infections"
+      ]
+    },
+    {
+      "first_field_hash": "ea31c981b5bba8153d6fc62407e89ac9d5525b7eb669ddea29416a3466bdaf4a",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::16-Sexually-Transmitted-Infections::Class-Content"
       ]
     },
     {
@@ -1524,7 +1591,8 @@
     {
       "first_field_hash": "d2bc395d604674f67a36665ba3edfeceec4ca5f70626ae014b1152f025e9e39b",
       "tags": [
-        "JerryShen_AnKing_Tags::Micro-Pharm::Exam-2::07-β-Lactam-Antibiotics-&-Parasites::Class-Content"
+        "JerryShen_AnKing_Tags::Micro-Pharm::Exam-2::07-β-Lactam-Antibiotics-&-Parasites::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::16-Sexually-Transmitted-Infections::Class-Content"
       ]
     },
     {
@@ -1550,6 +1618,12 @@
       "first_field_hash": "86ba902b2998794aae58baad0f635256f73a8ea1fcf052afac17ee1ab557ba94",
       "tags": [
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-2::08-Other-Antibiotics-&-Mycobacteria::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "6fa7edd5e0de8bae4a1a18b4d93470c7d819e7f3d6b388717b18469d4e40d650",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::16-Sexually-Transmitted-Infections::Class-Content"
       ]
     },
     {
@@ -1694,6 +1768,12 @@
       "first_field_hash": "c58fb4406d1d8e09c66ea67933fb44079809d2d9ceac1635903d652c357ebfec",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Repro-Block::14-Sexual-Health-&-Dysfunction::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "a732df819179be83cd7d1d13ff634e269984cca6766a76fc92b532d752404669",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::15-Ovarian-&-Fallopian-Pathology::Class-Content"
       ]
     },
     {
@@ -7194,7 +7274,7 @@
       ]
     },
     {
-      "first_field_hash": "70f90ce3649e13866fd03d0e3114f0305fb1a77f25e0aaafae43b28146164753",
+      "first_field_hash": "e575e0c370a6e8135a0cb0e21f52052c5c4f2c91804dfbd644d21bcbb5788a4d",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Repro-Block::01-Testicular-Physiology",
         "JerryShen_AnKing_Tags::SOM-2::Repro-Block::01-Testicular-Physiology::Class-Content",
@@ -7357,6 +7437,24 @@
       "first_field_hash": "350602fc184c06f2344fc0d258f56f648a2cd19d225386cb4bb45fb63f6fb39e",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Repro-Block::03-HPO-Axis-&-Menstrual-Cycle"
+      ]
+    },
+    {
+      "first_field_hash": "12f6415dabc711d90a31853f0305b1d11e92aebf274fe2053a71e3a8af00721b",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::15-Ovarian-&-Fallopian-Pathology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "17c49751bffc2901582d09c44ba389893e141fac8e8f5f8407ad9045ec567f00",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::15-Ovarian-&-Fallopian-Pathology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "827de3655f926237cdd44149164458f4e9a88ac745306b62cd8685bbde0c43fa",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::15-Ovarian-&-Fallopian-Pathology::Class-Content"
       ]
     },
     {
@@ -8546,7 +8644,8 @@
     {
       "first_field_hash": "403e9b6962ec2a580d1f6c75672a72cd84301657c47f6be731b0dfea4db137f2",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::14-Sexual-Health-&-Dysfunction"
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::14-Sexual-Health-&-Dysfunction",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::15-Ovarian-&-Fallopian-Pathology::Class-Content"
       ]
     },
     {
@@ -8741,6 +8840,19 @@
       ]
     },
     {
+      "first_field_hash": "116260d126e9148a28ec08c97cc57a327f083bb7910e366b78d2745d2ad869e2",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::15-Ovarian-&-Fallopian-Pathology",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::15-Ovarian-&-Fallopian-Pathology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "1fee452ff8b76bd9f077600efa05b42fa248560f47a9bb28efa4cd415c1eaa09",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::15-Ovarian-&-Fallopian-Pathology::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "c3ea9bf6e1a4da93a6362aa2432161fc20bf564f6166d16de00a23c418df1cbc",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Repro-Block::04-Steroid-Hormone-Pharmacology::Class-Content",
@@ -8783,7 +8895,8 @@
       "first_field_hash": "6324a5876b0eef69b2930aa30217b8e33b0a93dcf77a2c4eeb8f9ba192b5332f",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Repro-Block::04-Steroid-Hormone-Pharmacology::Class-Content",
-        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::10-Amenorrhea-&-Infertility::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::10-Amenorrhea-&-Infertility::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::15-Ovarian-&-Fallopian-Pathology::Class-Content"
       ]
     },
     {
@@ -8802,13 +8915,105 @@
     {
       "first_field_hash": "585dd368b588f0a5f7296e2417e2579c11dacaecd26b2d9fb5e6481cfa69759a",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::04-Steroid-Hormone-Pharmacology::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::04-Steroid-Hormone-Pharmacology::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::15-Ovarian-&-Fallopian-Pathology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "bfa33fb7734f663cbcb6511193e5b392ff4ab57be695449d33bc0b76449a538e",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::15-Ovarian-&-Fallopian-Pathology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "5091f17ba165b7a93544a754615e502c18161bbbae5fccce56e7b6bacc9d4962",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::15-Ovarian-&-Fallopian-Pathology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "57d0ed8f47b94309002c2cb5e1e9dec7db58ff412cfce8086e3203dbb3edb6a4",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::15-Ovarian-&-Fallopian-Pathology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "f226f7470e30762c44f2ae7b9f2903d55883cc045607bcfed40cb1780a18cd57",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::15-Ovarian-&-Fallopian-Pathology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "cddd0b34532c469567d879dc27f674f4760112d63baa1d6017233409046fd7bf",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::15-Ovarian-&-Fallopian-Pathology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "99f2adb96765eeab21220e2958f73519509a6b755023347da22f3e4b3bd3d520",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::15-Ovarian-&-Fallopian-Pathology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "baa51e156894fca1eaa952050f6066dc66afc1d59ca9706ee6bb6d27d3438dd4",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::15-Ovarian-&-Fallopian-Pathology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "0ec5ce3323f61069d8931de58d79d021f9e22303cae8b43047b029500929a889",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::15-Ovarian-&-Fallopian-Pathology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "6f6e804a461855e118735e5c7b14a945acd7082f261a5e99d3a7aab58fc93de2",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::15-Ovarian-&-Fallopian-Pathology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "b93b442483f56e89c2786a40dd586fa48f18a502b568fe3bd1b3fb7c9e2adc99",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::15-Ovarian-&-Fallopian-Pathology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "08b25552cf54f3e5bd3bba808d796d4e8f4ae389c7c4b60292a201d9dd6e9e1e",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::15-Ovarian-&-Fallopian-Pathology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "b6c0e8e9182caac2c02586a63b8a2ed34249df12f4aadcb0381f8dc8d3b5bbcd",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::15-Ovarian-&-Fallopian-Pathology"
+      ]
+    },
+    {
+      "first_field_hash": "7af43d472d15e9b5795194fbf40e140008461aab85c97beca5aa13aff820a2f1",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::15-Ovarian-&-Fallopian-Pathology"
       ]
     },
     {
       "first_field_hash": "1b4d10916cec109d114045bd0b122ff653b47a5061e392f44add6a0e546b75f3",
       "tags": [
-        "JerryShen_AnKing_Tags::Molecular-Foundations-&-Genetics::02-Genetics::08.4-Cancer-Genetics"
+        "JerryShen_AnKing_Tags::Molecular-Foundations-&-Genetics::02-Genetics::08.4-Cancer-Genetics",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::15-Ovarian-&-Fallopian-Pathology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "61a9d11bf05a18d033a33ee72cbccd35103c63ae5081d6eaef309665da827ed6",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::15-Ovarian-&-Fallopian-Pathology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "4caa0f6277333fe04d68d641ac7e3f9d2d3bfc67be51add580432da14019b9d7",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::15-Ovarian-&-Fallopian-Pathology::Class-Content"
       ]
     },
     {
@@ -8818,15 +9023,77 @@
       ]
     },
     {
+      "first_field_hash": "f296698782ba022328625d718e3ae75d4d2c73da2b7f0816701d0563ab4224db",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::15-Ovarian-&-Fallopian-Pathology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "de76d8926d9edb05cba640e6ef5b1e275b3f305752705c3faac5c1d3a8c23361",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::15-Ovarian-&-Fallopian-Pathology::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "b1eeb003e6bcb71c380b97078db056d34287162815af2bfe338c96259c51d24c",
       "tags": [
-        "JerryShen_AnKing_Tags::Cancer-Biology::Final::06-Role-of-Pathology-in-Cancer-Diagnosis::Class-Content"
+        "JerryShen_AnKing_Tags::Cancer-Biology::Final::06-Role-of-Pathology-in-Cancer-Diagnosis::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::15-Ovarian-&-Fallopian-Pathology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "66a4209b7f8bdd0a0ec79226e8e6818027a1c79b0f15130403841f6382155ae3",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::15-Ovarian-&-Fallopian-Pathology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "f8dcd8db06155ccbd485bfc6bb54ad01d5e83ce61792a0fcef43e4dfae7c796a",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::15-Ovarian-&-Fallopian-Pathology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "1dfd7a1431db74ea7e85dc496eb31010731cf06c84892aabef54b53a9f7a0e61",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::15-Ovarian-&-Fallopian-Pathology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "ae40c328044a77d4952d0df5b1b897fcfbbd55ae5456f271cec918d1e26e1a05",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::15-Ovarian-&-Fallopian-Pathology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "75399f6498f00192b03b631d4f516d86829f6de193d34e08d30069dbef1b9ddb",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::15-Ovarian-&-Fallopian-Pathology"
+      ]
+    },
+    {
+      "first_field_hash": "d3d86b08f7a14f006143d370e4e89255bb2f608668fc1daee3a9f1824b006ed8",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::15-Ovarian-&-Fallopian-Pathology"
+      ]
+    },
+    {
+      "first_field_hash": "60838d734f98a19a550d8d852f3825aa526063d83f00b43605a1e8e53b4b15a3",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::15-Ovarian-&-Fallopian-Pathology::Class-Content"
       ]
     },
     {
       "first_field_hash": "2a38b517b7f2e8dd1756871613c8fba81e77e742c1900296f904b26844442da3",
       "tags": [
-        "JerryShen_AnKing_Tags::POM-4::Clinical-Reasoning::Shortness-of-Breath-(Hyperthyroidism)::Class-Content"
+        "JerryShen_AnKing_Tags::POM-4::Clinical-Reasoning::Shortness-of-Breath-(Hyperthyroidism)::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::15-Ovarian-&-Fallopian-Pathology"
+      ]
+    },
+    {
+      "first_field_hash": "4a93481ef39f9e065b71015454e6bfbce432805148b0f3b5c12c87c9f674ab6b",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::15-Ovarian-&-Fallopian-Pathology::Class-Content"
       ]
     },
     {
@@ -8842,9 +9109,45 @@
       ]
     },
     {
+      "first_field_hash": "ee32999fb53ada6c2bbb74ce94d96a0cca1641d0f0eb988346e014e8e252dd76",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::15-Ovarian-&-Fallopian-Pathology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "24f2128de4afcd595e7bb72095c15f8c16b5cfdb4585f9d83b9a59b9d1469cfe",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::15-Ovarian-&-Fallopian-Pathology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "c5348f5db5fb9a8c4887fe92f3c8fa783ceed716899d8201f36e76b437303747",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::15-Ovarian-&-Fallopian-Pathology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "2be0557a7fefd27d92d5564d73e52f5e6952ff7bbd88d0701aeed94c03aefb86",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::15-Ovarian-&-Fallopian-Pathology::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "76300b32491b0a47d7d19af409c6bca101489b3083e63ef2af611ac5fdfefb60",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::05-Stomach::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "a860994606c763c626bcb1d7dcfc6d12e20f2fecb3695b5391c6635b145fc046",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::15-Ovarian-&-Fallopian-Pathology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "00ae8e2bae95c6694bea626e4640c7315336e97a609ec75a05c979ec422c9228",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::15-Ovarian-&-Fallopian-Pathology::Class-Content"
       ]
     },
     {
@@ -9201,6 +9504,12 @@
       ]
     },
     {
+      "first_field_hash": "e1ed20214441efa9ae9eee4ccfab5ef05239fd35c7aee7a24dab12ca283d9901",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::16-Sexually-Transmitted-Infections"
+      ]
+    },
+    {
       "first_field_hash": "379d651f59617999bf9e577a5208f9d1c8d9a7b3190e1fd679c8ce6c4767281c",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Repro-Block::14-Sexual-Health-&-Dysfunction",
@@ -9273,6 +9582,12 @@
       "first_field_hash": "97a60a122ce6859d16bb42a2f1044a956b67b85222f50beca4a6fca929f5e5d9",
       "tags": [
         "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-4-Pelvis::Embryology"
+      ]
+    },
+    {
+      "first_field_hash": "fc9653d1a73c7c86fb18c2930d35fff57ac400a4a8e9b4806cab70497a6749a7",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::15-Ovarian-&-Fallopian-Pathology"
       ]
     },
     {
@@ -15575,6 +15890,12 @@
       ]
     },
     {
+      "first_field_hash": "5c4148ab9046ccd50ea67414fa7a4648a8c5a10c0a23d8cbbcc9aca0d78cf6e0",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::25-Coronary-Circulation::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "ca10856e0cc3a0ae32cdfeadd2981beb7f05044ac6a041ff6fc87612464aa4ac",
       "tags": [
         "JerryShen_AnKing_Tags::POM-3::Clinical-Reasoning::Approach-to-Syncope",
@@ -16823,6 +17144,12 @@
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::11-Pathology-of-Cardiomyopathy-and-Myocarditis",
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::11-Pathology-of-Cardiomyopathy-and-Myocarditis::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "d519581f766300df9b42f408c9fb52d9e4eaca0172b87f0915cb3c27efbbdfbb",
+      "tags": [
+        "JerryShen_AnKing_Tags::POM-4::ACS-Skills::Integrated-Clinical-Cases::Class-Content"
       ]
     },
     {
@@ -20244,6 +20571,7 @@
     {
       "first_field_hash": "ffc64737b077c70747de99d6d8733bf4793cbf6aeadb257ebe735f6a06db5250",
       "tags": [
+        "JerryShen_AnKing_Tags::POM-4::ACS-Skills::Integrated-Clinical-Cases::Class-Content",
         "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::04-O2-and-CO2-Transport"
       ]
     },
@@ -21151,7 +21479,8 @@
     {
       "first_field_hash": "c52b9255043ce4e3e5e0b72ba17e81888bce9c6467a1f65e77f4f32a1ac791a9",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::16-Lower-Respiratory-Infections::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::16-Lower-Respiratory-Infections::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::16-Sexually-Transmitted-Infections"
       ]
     },
     {
@@ -24281,6 +24610,12 @@
       "first_field_hash": "062e7ae62a5267c8113e5802343c30d64efae07880e33a138d4e59e41dc2ef41",
       "tags": [
         "JerryShen_AnKing_Tags::POM-3::Clinical-Reasoning::Approach-to-Acute-Dyspnea"
+      ]
+    },
+    {
+      "first_field_hash": "5415dd336aff0c339f0c690ade4274d63b9365ec4d70e6365daba5405ba555bf",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::03-Fat-&-Micronutrient-Nutrition"
       ]
     },
     {
@@ -29037,6 +29372,7 @@
     {
       "first_field_hash": "615a0b044e18c127aef1c6cd7895e23535e9025440fb095491c8e6546f65e410",
       "tags": [
+        "JerryShen_AnKing_Tags::POM-4::ACS-Skills::Integrated-Clinical-Cases::Class-Content",
         "JerryShen_AnKing_Tags::SOM-2::Renal-Block::19-Nephrotic-Syndrome"
       ]
     },
@@ -29049,6 +29385,7 @@
     {
       "first_field_hash": "603dbcd08550982abcb6c2a730767b71dd00c942e9339c83db5316cf8a21b4f7",
       "tags": [
+        "JerryShen_AnKing_Tags::POM-4::ACS-Skills::Integrated-Clinical-Cases::Class-Content",
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::11-Pathology-of-Cardiomyopathy-and-Myocarditis::Class-Content"
       ]
     },
@@ -29513,6 +29850,18 @@
       "first_field_hash": "7fa71ee4c1ed1a088fd2eded661afea1fce1d86d16b8183f1af4758e23d62e33",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Renal-Block::13-Urinalysis::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "2697b333c5a9e7e289b2c8675d1aa35cf5bfcd9c4a50efaf205fc432ba155725",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::16-Sexually-Transmitted-Infections"
+      ]
+    },
+    {
+      "first_field_hash": "41e7ca7b8d045abeae9f58787c80f1e364f5d4aed46c2ad3436e01dfbaac4325",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::16-Sexually-Transmitted-Infections::Class-Content"
       ]
     },
     {
@@ -30549,6 +30898,12 @@
       "first_field_hash": "e614a15b637d0f50d5da41a00409f5138da9dcc2b3b32ae25ea587d0b7612a0a",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Renal-Block::19-Nephrotic-Syndrome"
+      ]
+    },
+    {
+      "first_field_hash": "bbff8a30a9e8e949109f4d57ad6a47d994935c60f9b4fd4c0d8022aad50e5f75",
+      "tags": [
+        "JerryShen_AnKing_Tags::POM-4::ACS-Skills::Integrated-Clinical-Cases::Class-Content"
       ]
     },
     {
@@ -34233,9 +34588,21 @@
       ]
     },
     {
+      "first_field_hash": "6695beef9ac733246faf87ce4c4e7958a517f6b85b76c0912ee014c30f400f63",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::03-Fat-&-Micronutrient-Nutrition"
+      ]
+    },
+    {
       "first_field_hash": "c6da143fc80438684072797cac774d7b58e103837e13d203a11e0e13ba2c67d3",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::06-Small-Intestine::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "e23c4d4d949fa632a870cc689341d6c00493ad7a4d8099c8dca41839eadfbaed",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::03-Fat-&-Micronutrient-Nutrition"
       ]
     },
     {
@@ -34252,6 +34619,12 @@
     },
     {
       "first_field_hash": "f5a3feee6c90ae3c49dec3db3be34d12478d9d93fc201d6b40870c5ef5c20fe9",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::03-Fat-&-Micronutrient-Nutrition"
+      ]
+    },
+    {
+      "first_field_hash": "2eb12e54f89f09e86f6b1d3507ed39a22bf046dcc6728ad9c5905eabf250a987",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::03-Fat-&-Micronutrient-Nutrition"
       ]
@@ -34708,7 +35081,8 @@
     {
       "first_field_hash": "c9854ee9834e452dcfec271c7fea07a30214e7d4901527ec17be1d62dc21ea79",
       "tags": [
-        "JerryShen_AnKing_Tags::Biochemistry::Final::02-Oxidative-Phosphorylation::Class-Content"
+        "JerryShen_AnKing_Tags::Biochemistry::Final::02-Oxidative-Phosphorylation::Class-Content",
+        "JerryShen_AnKing_Tags::POM-4::ACS-Skills::Integrated-Clinical-Cases"
       ]
     },
     {
@@ -35858,6 +36232,12 @@
       ]
     },
     {
+      "first_field_hash": "57b7ff58467eaaed634a426f75f1d81154469b03ab7ff688d245943bf76e46cb",
+      "tags": [
+        "JerryShen_AnKing_Tags::POM-4::ACS-Skills::Integrated-Clinical-Cases::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "f2d741d0afbbb0d3fe8067c2734b9cb673f9c86cebc80137a9244e8c44056a1e",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::03-Fat-&-Micronutrient-Nutrition"
@@ -35878,6 +36258,12 @@
       ]
     },
     {
+      "first_field_hash": "c0b64d8784bf65e96a925e0999f90e234f9d49a7aee4b76ef9bde04d55bb9e58",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::03-Fat-&-Micronutrient-Nutrition"
+      ]
+    },
+    {
       "first_field_hash": "149f1b0d56588b1a38efda227beb4e3177c768905bbde7eb13975ef9d8a6a6c8",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::04-Salivary-Gland-&-Esophagus"
@@ -35885,6 +36271,12 @@
     },
     {
       "first_field_hash": "506259d6e75ca58264fe648029f7bbb408ba8049134dac084ede3a8288e3b39a",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::03-Fat-&-Micronutrient-Nutrition"
+      ]
+    },
+    {
+      "first_field_hash": "e5508ee3e921e141afadb433a624324afc6e7021b07a0fe91dcdd346a0d1f8a1",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::03-Fat-&-Micronutrient-Nutrition"
       ]
@@ -35899,6 +36291,18 @@
       "first_field_hash": "0260fc369e844aa420649fdc8a7fb975d401e75f6871f8b5bf774e60599528cf",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::06-Small-Intestine"
+      ]
+    },
+    {
+      "first_field_hash": "74148590aba8ef43bfe95a3d2e99b68cc0c53606657f7126cf029ebb25a17411",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::03-Fat-&-Micronutrient-Nutrition"
+      ]
+    },
+    {
+      "first_field_hash": "ccdb21f6a36fc8004010e5dbc5aebf0b5b18c976055a7fad32541fec9d59afd8",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::03-Fat-&-Micronutrient-Nutrition"
       ]
     },
     {
@@ -37337,15 +37741,41 @@
       ]
     },
     {
+      "first_field_hash": "f389dd04908cf1d4d0ba4cc5af9c64e8abe75b461f4301938312504a65ad7d98",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::16-Sexually-Transmitted-Infections"
+      ]
+    },
+    {
+      "first_field_hash": "11d0109045314e49b7e2268633258f0bcceaf3e5751bade75c6d8089d20dd29c",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::16-Sexually-Transmitted-Infections"
+      ]
+    },
+    {
+      "first_field_hash": "229217324b9edcc19767ec44c25aab9a10c725502245dc6101a4fb000a335991",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::16-Sexually-Transmitted-Infections"
+      ]
+    },
+    {
       "first_field_hash": "11bc7d1a7ef229e867c4129e6270ac341d06873c1b2c99574905d4581e84619d",
       "tags": [
-        "JerryShen_AnKing_Tags::Neurobiology::Exam-2::Tutorial-2-Spinal-Cord::Class-Content"
+        "JerryShen_AnKing_Tags::Neurobiology::Exam-2::Tutorial-2-Spinal-Cord::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::16-Sexually-Transmitted-Infections"
+      ]
+    },
+    {
+      "first_field_hash": "f77baf04ede04c4c95ba7bf0b64c15ce3f87f39a8b7c0984e814fbd89e0b2031",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::16-Sexually-Transmitted-Infections"
       ]
     },
     {
       "first_field_hash": "6facef21eeadc808dbab749350750473ea04d89e67d018fa768c2052f51ecf54",
       "tags": [
-        "JerryShen_AnKing_Tags::Neurobiology::Exam-2::Tutorial-2-Spinal-Cord::Class-Content"
+        "JerryShen_AnKing_Tags::Neurobiology::Exam-2::Tutorial-2-Spinal-Cord::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::16-Sexually-Transmitted-Infections"
       ]
     },
     {
@@ -40240,6 +40670,12 @@
       ]
     },
     {
+      "first_field_hash": "636c8a56d0bdf3487de5bcc015363fabbfd8509cf06d29c6ef4da3a1236d4397",
+      "tags": [
+        "JerryShen_AnKing_Tags::POM-4::ACS-Skills::Integrated-Clinical-Cases::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "0fc09b689060e53958e449838550c6979fb2c6c2156e1c8278c5bf55d9239137",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Renal-Block::13-Urinalysis",
@@ -40946,7 +41382,8 @@
     {
       "first_field_hash": "ba7b198359a1542fe35a0b5590a36dfa2ccb1a3530a841d963d0380ee1aa2c60",
       "tags": [
-        "JerryShen_AnKing_Tags::Neurobiology::Exam-3::Tutorial-7-Affective-and-Cognitive-Systems::Class-Content"
+        "JerryShen_AnKing_Tags::Neurobiology::Exam-3::Tutorial-7-Affective-and-Cognitive-Systems::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::16-Sexually-Transmitted-Infections"
       ]
     },
     {
@@ -43465,7 +43902,8 @@
       "first_field_hash": "bd65ffc2c86e1b8e342c8cfc063f17f639b1d6f518d579a21c96b5e98020e946",
       "tags": [
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-1::05-Intro-to-Fungi::Class-Content",
-        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::04-Salivary-Gland-&-Esophagus::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::04-Salivary-Gland-&-Esophagus::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::16-Sexually-Transmitted-Infections"
       ]
     },
     {
@@ -46833,9 +47271,10 @@
       ]
     },
     {
-      "first_field_hash": "ef4e4061765412ba79ede9f6efc6a9b07211aff233d345de794177d3f36c866f",
+      "first_field_hash": "7d916f5d83a1adb73c22666a7fc80ed66f364e44f5f639d2ebdc5d602a4cc24a",
       "tags": [
-        "JerryShen_AnKing_Tags::POM-3::Geriatrics"
+        "JerryShen_AnKing_Tags::POM-3::Geriatrics",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::16-Sexually-Transmitted-Infections"
       ]
     },
     {
@@ -46853,7 +47292,8 @@
     {
       "first_field_hash": "f13c948c5acd7689d50e2c4ec3b8430b3b85c5cb0c5b3c091e3c3bbf37876b3f",
       "tags": [
-        "JerryShen_AnKing_Tags::POM-3::Geriatrics::Class-Content"
+        "JerryShen_AnKing_Tags::POM-3::Geriatrics::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::16-Sexually-Transmitted-Infections"
       ]
     },
     {
@@ -50141,7 +50581,26 @@
     {
       "first_field_hash": "09eb7db5003483552b75e1aa79effe4d811ad666248ce8ac786e45eb8854fa8b",
       "tags": [
+        "JerryShen_AnKing_Tags::POM-4::ACS-Skills::Integrated-Clinical-Cases::Class-Content",
         "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::04-O2-and-CO2-Transport"
+      ]
+    },
+    {
+      "first_field_hash": "d3b752db076547981141e60b60f7c41e6e3022a22b9e2a9b6a0b78c75206b554",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::16-Sexually-Transmitted-Infections"
+      ]
+    },
+    {
+      "first_field_hash": "53b6c40c4bf2de20860cb2e3ab7ccb0a8399bcb179016be3ad4f16619dc3e240",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::16-Sexually-Transmitted-Infections::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "68f53fc8bb0a9ba8e9b7c0f2e1ffa23c07bfa3a7ee023eaeaa8562a30c04a390",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::16-Sexually-Transmitted-Infections::Class-Content"
       ]
     },
     {
@@ -50469,8 +50928,33 @@
       ]
     },
     {
+      "first_field_hash": "0e801e9de6e2c58bc4c18393f2a79df3ab19832f4f68d4652d49ed8416bc1c12",
+      "tags": [
+        "JerryShen_AnKing_Tags::POM-4::ACS-Skills::Integrated-Clinical-Cases::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "df3c60972b493897db98910c35e1f8344215436a42ab4d93f22e8474c6061a5c",
+      "tags": [
+        "JerryShen_AnKing_Tags::POM-4::ACS-Skills::Integrated-Clinical-Cases::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "613ab26376916d0f90d1982f2efa379c4b1d2c45391b7202bb9ec4204f8bbcf9",
+      "tags": [
+        "JerryShen_AnKing_Tags::POM-4::ACS-Skills::Integrated-Clinical-Cases::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "05347d2a10b3dba5d65a170d2f1c3d83757802a9c44af6ac7d32a250416f962f",
+      "tags": [
+        "JerryShen_AnKing_Tags::POM-4::ACS-Skills::Integrated-Clinical-Cases::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "a43210eac817124c6df70cbbf74d98cffe8d991eb4a571bb5f47fbff3dcf7d73",
       "tags": [
+        "JerryShen_AnKing_Tags::POM-4::ACS-Skills::Integrated-Clinical-Cases::Class-Content",
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::11-Pathology-of-Cardiomyopathy-and-Myocarditis"
       ]
     },
@@ -50490,6 +50974,18 @@
       "first_field_hash": "1921e1072e731ac9f66eae9a2cd896c9ce0aad969244117a2a71a54a8c79dfa3",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::07-Type-2-Diabetes"
+      ]
+    },
+    {
+      "first_field_hash": "d1df0069117c3b8ca3a762927fdf4038810b331e3818cd6bad3266782c70885d",
+      "tags": [
+        "JerryShen_AnKing_Tags::POM-4::ACS-Skills::Integrated-Clinical-Cases"
+      ]
+    },
+    {
+      "first_field_hash": "ce2d40f474095130cad2016c7e81e9fa28449d4fc694e5ad173f6ee594aa40e0",
+      "tags": [
+        "JerryShen_AnKing_Tags::POM-4::ACS-Skills::Integrated-Clinical-Cases::Class-Content"
       ]
     },
     {
@@ -51623,7 +52119,8 @@
     {
       "first_field_hash": "51cd60450ad66bcbedd6b2ded8a9f0eca0056947938ff157462369f1e1dcba54",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-1::MSK-Block::02-Bone-&-Joint-Infections::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-1::MSK-Block::02-Bone-&-Joint-Infections::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::16-Sexually-Transmitted-Infections::Class-Content"
       ]
     },
     {
@@ -51979,6 +52476,18 @@
       ]
     },
     {
+      "first_field_hash": "e48a51af5ddb563ca00b56bc77962c7e08a02aa11fe959be82082fef2e637cf6",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::16-Sexually-Transmitted-Infections"
+      ]
+    },
+    {
+      "first_field_hash": "9ea023f9093f3c44c242b62dc1f7e36888166ce31a4070ededdadeef0b621ed2",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::16-Sexually-Transmitted-Infections"
+      ]
+    },
+    {
       "first_field_hash": "7a4f5f5de4dbcca0039f05283da6ece5b62a628e568e2bec3ee2bdf45324a9ba",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::MSK-Block::02-Bone-&-Joint-Infections::Class-Content"
@@ -51987,7 +52496,8 @@
     {
       "first_field_hash": "d539a767f6e5c51ea5d1d882f0ceb79d9e9715b6665786e870b02c40dbb05693",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-1::MSK-Block::02-Bone-&-Joint-Infections::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-1::MSK-Block::02-Bone-&-Joint-Infections::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::16-Sexually-Transmitted-Infections::Class-Content"
       ]
     },
     {
@@ -52000,20 +52510,23 @@
     {
       "first_field_hash": "42fe715829e1ce76db2a47de4d1be57aab1887422e8e101e3279c16309f236f1",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-1::MSK-Block::02-Bone-&-Joint-Infections::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-1::MSK-Block::02-Bone-&-Joint-Infections::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::16-Sexually-Transmitted-Infections"
       ]
     },
     {
       "first_field_hash": "004eb0d32e112412ec7fadf7024941a6e131f879211ce9a769a0907f160e9ddc",
       "tags": [
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-2::10-Biologics-Ectoparasites-&-Clinical-Cases",
-        "JerryShen_AnKing_Tags::SOM-1::MSK-Block::02-Bone-&-Joint-Infections::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-1::MSK-Block::02-Bone-&-Joint-Infections::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::16-Sexually-Transmitted-Infections"
       ]
     },
     {
       "first_field_hash": "7163b4b396d1a6410dd6b1547ce2166f5bad935b1cbcc5545a06ff629d6b28f7",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-1::MSK-Block::Lab-01-MSK-Cases"
+        "JerryShen_AnKing_Tags::SOM-1::MSK-Block::Lab-01-MSK-Cases",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::16-Sexually-Transmitted-Infections::Class-Content"
       ]
     },
     {
@@ -52332,6 +52845,24 @@
       "first_field_hash": "4cc43f5a1f6f5120270ac30b83528d05208f3120cc330cd66b12484e1da09f63",
       "tags": [
         "JerryShen_AnKing_Tags::Immunology::Final::Antibody-Mediated-Autoimmunity"
+      ]
+    },
+    {
+      "first_field_hash": "0eb26a43c0f41e7069b4b49a66856d146e5957e665cd10c05a8ca77f85fc6f17",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::16-Sexually-Transmitted-Infections"
+      ]
+    },
+    {
+      "first_field_hash": "9e20b1aa4f99441b630504211f620e8bf73d411e81645f2f0a1917ddfe9002b5",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::16-Sexually-Transmitted-Infections"
+      ]
+    },
+    {
+      "first_field_hash": "672b1b78667649e4eb1faf1c4392deab8b67583a735d5094be66e1b15bfebb59",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::16-Sexually-Transmitted-Infections"
       ]
     },
     {
@@ -53187,7 +53718,8 @@
     {
       "first_field_hash": "c3c6492be4e3305ec137078b381390c5d954579952d25c88e546186c08e58e55",
       "tags": [
-        "JerryShen_AnKing_Tags::Micro-Pharm::Exam-2::07-β-Lactam-Antibiotics-&-Parasites::Class-Content"
+        "JerryShen_AnKing_Tags::Micro-Pharm::Exam-2::07-β-Lactam-Antibiotics-&-Parasites::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::16-Sexually-Transmitted-Infections::Class-Content"
       ]
     },
     {
@@ -53726,6 +54258,18 @@
       "first_field_hash": "0a50bd52f26a8cabc90bb02e439ceac765288de1ffa8c0479a309e667602798d",
       "tags": [
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-1::04-Intro-to-Viruses"
+      ]
+    },
+    {
+      "first_field_hash": "b1af3ae6e75bbc05a86d6d9d5922ebc48126dbf4f8f11542b976f981b8894d35",
+      "tags": [
+        "JerryShen_AnKing_Tags::POM-4::ACS-Skills::Integrated-Clinical-Cases::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "f3ac639891a5c2fc085e28ef87e54770199e2009242146c36f3a2c7be9a79b02",
+      "tags": [
+        "JerryShen_AnKing_Tags::POM-4::ACS-Skills::Integrated-Clinical-Cases::Class-Content"
       ]
     },
     {
@@ -58696,128 +59240,149 @@
     {
       "first_field_hash": "ab2a520defa94270e68e0027959f7e9128e2e9600b1f0f569c8bda4f6b27ceeb",
       "tags": [
-        "JerryShen_AnKing_Tags::Micro-Pharm::Exam-1::05-Intro-to-Fungi::Class-Content"
+        "JerryShen_AnKing_Tags::Micro-Pharm::Exam-1::05-Intro-to-Fungi::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::16-Sexually-Transmitted-Infections"
       ]
     },
     {
       "first_field_hash": "fe9fe2feaa1dfa48d8db75d16049c707810cf04f0d1ee87986025a99ba8aa3f5",
       "tags": [
-        "JerryShen_AnKing_Tags::Micro-Pharm::Exam-1::05-Intro-to-Fungi::Class-Content"
+        "JerryShen_AnKing_Tags::Micro-Pharm::Exam-1::05-Intro-to-Fungi::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::16-Sexually-Transmitted-Infections"
       ]
     },
     {
       "first_field_hash": "23b68afd07a74d491cb5b7446bee3831cf0af3829b716a48353e92589521454f",
       "tags": [
-        "JerryShen_AnKing_Tags::Micro-Pharm::Exam-1::05-Intro-to-Fungi"
+        "JerryShen_AnKing_Tags::Micro-Pharm::Exam-1::05-Intro-to-Fungi",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::16-Sexually-Transmitted-Infections"
       ]
     },
     {
       "first_field_hash": "722b18c5cf41d21cacc751dba9b0036f7fcb1d1703c4915e67a8e5869ab8e9c6",
       "tags": [
-        "JerryShen_AnKing_Tags::Micro-Pharm::Exam-1::05-Intro-to-Fungi"
+        "JerryShen_AnKing_Tags::Micro-Pharm::Exam-1::05-Intro-to-Fungi",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::16-Sexually-Transmitted-Infections"
       ]
     },
     {
       "first_field_hash": "0340e37fe7278e981297bee50b0a8435cd9626cfc59546935211d9a7bf92525f",
       "tags": [
-        "JerryShen_AnKing_Tags::Micro-Pharm::Exam-1::05-Intro-to-Fungi"
+        "JerryShen_AnKing_Tags::Micro-Pharm::Exam-1::05-Intro-to-Fungi",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::16-Sexually-Transmitted-Infections"
       ]
     },
     {
       "first_field_hash": "183ac9f21d8ffd27179a783b1890ad4646877057a6d7143da4a70292de43227d",
       "tags": [
-        "JerryShen_AnKing_Tags::Micro-Pharm::Exam-1::05-Intro-to-Fungi"
+        "JerryShen_AnKing_Tags::Micro-Pharm::Exam-1::05-Intro-to-Fungi",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::16-Sexually-Transmitted-Infections"
       ]
     },
     {
       "first_field_hash": "58cb71cf3c408f98de2b706b2653c679ee76cc55e0830f4fe24e4e663b9cecf1",
       "tags": [
-        "JerryShen_AnKing_Tags::Micro-Pharm::Exam-1::05-Intro-to-Fungi::Class-Content"
+        "JerryShen_AnKing_Tags::Micro-Pharm::Exam-1::05-Intro-to-Fungi::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::16-Sexually-Transmitted-Infections"
       ]
     },
     {
       "first_field_hash": "223ff7822d147604c79097023ba5ea0501c6e203d0f00f91db575d519c0a5f81",
       "tags": [
-        "JerryShen_AnKing_Tags::Micro-Pharm::Exam-1::05-Intro-to-Fungi"
+        "JerryShen_AnKing_Tags::Micro-Pharm::Exam-1::05-Intro-to-Fungi",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::16-Sexually-Transmitted-Infections"
       ]
     },
     {
       "first_field_hash": "aa3e7f92b8f2a9b9043bab85eb858a1c8aa6755116b766e599d99e91e2d9545d",
       "tags": [
-        "JerryShen_AnKing_Tags::Micro-Pharm::Exam-1::05-Intro-to-Fungi::Class-Content"
+        "JerryShen_AnKing_Tags::Micro-Pharm::Exam-1::05-Intro-to-Fungi::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::16-Sexually-Transmitted-Infections"
       ]
     },
     {
       "first_field_hash": "c1c955010db3f7b1525fb2af05761c1727ac143cdbf5c2f118ab4ef9711d8687",
       "tags": [
-        "JerryShen_AnKing_Tags::Micro-Pharm::Exam-1::05-Intro-to-Fungi::Class-Content"
+        "JerryShen_AnKing_Tags::Micro-Pharm::Exam-1::05-Intro-to-Fungi::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::16-Sexually-Transmitted-Infections"
       ]
     },
     {
       "first_field_hash": "de1e67436763b6e58c59706b5ec2a20db9f0d89fb9b515b954ca1e79c93cfa4d",
       "tags": [
-        "JerryShen_AnKing_Tags::Micro-Pharm::Exam-1::05-Intro-to-Fungi::Class-Content"
+        "JerryShen_AnKing_Tags::Micro-Pharm::Exam-1::05-Intro-to-Fungi::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::16-Sexually-Transmitted-Infections"
       ]
     },
     {
       "first_field_hash": "97440accdd23e10ecfec99b7558168dd985ac2b578e7e66dc7062e0072119ef3",
       "tags": [
-        "JerryShen_AnKing_Tags::Micro-Pharm::Exam-1::05-Intro-to-Fungi"
+        "JerryShen_AnKing_Tags::Micro-Pharm::Exam-1::05-Intro-to-Fungi",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::16-Sexually-Transmitted-Infections"
       ]
     },
     {
       "first_field_hash": "cfd2e9e041086e9ba1b066f488d7475ffef7300b654240e71c3b866b26de71b8",
       "tags": [
-        "JerryShen_AnKing_Tags::Micro-Pharm::Exam-1::05-Intro-to-Fungi"
+        "JerryShen_AnKing_Tags::Micro-Pharm::Exam-1::05-Intro-to-Fungi",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::16-Sexually-Transmitted-Infections"
       ]
     },
     {
       "first_field_hash": "4810203d6010bf089b5a822c484d914c1b949cf70ea29fb025cf39362cdf4879",
       "tags": [
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-1::05-Intro-to-Fungi",
-        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::04-Salivary-Gland-&-Esophagus::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::04-Salivary-Gland-&-Esophagus::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::16-Sexually-Transmitted-Infections"
       ]
     },
     {
       "first_field_hash": "d0431e93948fd2bf0589631853a1fdfa6bc7e6dd5279d6b32cf65a1a10966050",
       "tags": [
-        "JerryShen_AnKing_Tags::Micro-Pharm::Exam-1::05-Intro-to-Fungi"
+        "JerryShen_AnKing_Tags::Micro-Pharm::Exam-1::05-Intro-to-Fungi",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::16-Sexually-Transmitted-Infections"
       ]
     },
     {
       "first_field_hash": "30bb3f064d94bbe2ada9b8987aebe4dd9b0d10510285c5257282506265a4af33",
       "tags": [
-        "JerryShen_AnKing_Tags::Micro-Pharm::Exam-1::05-Intro-to-Fungi"
+        "JerryShen_AnKing_Tags::Micro-Pharm::Exam-1::05-Intro-to-Fungi",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::16-Sexually-Transmitted-Infections"
       ]
     },
     {
       "first_field_hash": "ce5c2672a5dfe647912701a4842ac27b54434280648ac9cdd1ee5a132cec4eee",
       "tags": [
-        "JerryShen_AnKing_Tags::Micro-Pharm::Exam-1::05-Intro-to-Fungi"
+        "JerryShen_AnKing_Tags::Micro-Pharm::Exam-1::05-Intro-to-Fungi",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::16-Sexually-Transmitted-Infections"
       ]
     },
     {
       "first_field_hash": "a23d978e078fb4c92c0aa5597fcb8b48e95e741f7dde0f68d00d2ad8dd79838b",
       "tags": [
-        "JerryShen_AnKing_Tags::Micro-Pharm::Exam-1::05-Intro-to-Fungi"
+        "JerryShen_AnKing_Tags::Micro-Pharm::Exam-1::05-Intro-to-Fungi",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::16-Sexually-Transmitted-Infections"
       ]
     },
     {
       "first_field_hash": "cd6d56a94672007f6025c3ec35883531bc404f8aba8e421ff7b96a7e7933cfce",
       "tags": [
-        "JerryShen_AnKing_Tags::Micro-Pharm::Exam-1::05-Intro-to-Fungi"
+        "JerryShen_AnKing_Tags::Micro-Pharm::Exam-1::05-Intro-to-Fungi",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::16-Sexually-Transmitted-Infections"
       ]
     },
     {
       "first_field_hash": "bd0db19892a7e0bba46cb9f846c5e9ccbc0944fddacc3298de8568e85791e3c6",
       "tags": [
-        "JerryShen_AnKing_Tags::Micro-Pharm::Exam-1::05-Intro-to-Fungi"
+        "JerryShen_AnKing_Tags::Micro-Pharm::Exam-1::05-Intro-to-Fungi",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::16-Sexually-Transmitted-Infections"
       ]
     },
     {
       "first_field_hash": "eb2165f1c88d3815c0669a1334ad5046b3dd25a79ff462e08579145fb2188d11",
       "tags": [
-        "JerryShen_AnKing_Tags::Micro-Pharm::Exam-1::05-Intro-to-Fungi"
+        "JerryShen_AnKing_Tags::Micro-Pharm::Exam-1::05-Intro-to-Fungi",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::16-Sexually-Transmitted-Infections"
       ]
     },
     {
@@ -58825,19 +59390,22 @@
       "tags": [
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-1::05-Intro-to-Fungi",
         "JerryShen_AnKing_Tags::POM-3::Clinical-Reasoning::Approach-to-Chronic-Dyspnea",
-        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::23-Endocarditis"
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::23-Endocarditis",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::16-Sexually-Transmitted-Infections"
       ]
     },
     {
       "first_field_hash": "febb414b338a3376282dd946af03efa8566dc47c4580cf885ca1783b5eb41d3b",
       "tags": [
-        "JerryShen_AnKing_Tags::Micro-Pharm::Exam-1::05-Intro-to-Fungi"
+        "JerryShen_AnKing_Tags::Micro-Pharm::Exam-1::05-Intro-to-Fungi",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::16-Sexually-Transmitted-Infections"
       ]
     },
     {
       "first_field_hash": "d187b64fc8207f2e5504bae759cb8b825484a1d99d2a4e726e5bcc2dfab30ba0",
       "tags": [
-        "JerryShen_AnKing_Tags::Micro-Pharm::Exam-1::05-Intro-to-Fungi::Class-Content"
+        "JerryShen_AnKing_Tags::Micro-Pharm::Exam-1::05-Intro-to-Fungi::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::16-Sexually-Transmitted-Infections"
       ]
     },
     {
@@ -58845,7 +59413,8 @@
       "tags": [
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-1::05-Intro-to-Fungi",
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-1::05-Intro-to-Fungi::Class-Content",
-        "JerryShen_AnKing_Tags::Micro-Pharm::Exam-2::09-Misc-Antimicrobials-&-Skin-Infections::Class-Content"
+        "JerryShen_AnKing_Tags::Micro-Pharm::Exam-2::09-Misc-Antimicrobials-&-Skin-Infections::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::16-Sexually-Transmitted-Infections"
       ]
     },
     {
@@ -58979,19 +59548,22 @@
     {
       "first_field_hash": "ace49c7add1f71facf9e291d7bd9aa9911ed042c358eafebc6662cd12d6c3980",
       "tags": [
-        "JerryShen_AnKing_Tags::Micro-Pharm::Exam-1::05-Intro-to-Fungi::Class-Content"
+        "JerryShen_AnKing_Tags::Micro-Pharm::Exam-1::05-Intro-to-Fungi::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::16-Sexually-Transmitted-Infections"
       ]
     },
     {
       "first_field_hash": "ccbd54ffcdbfb239f5b2863c6a1b5560518c404dc30a9bffed3314a5f1d6c25a",
       "tags": [
-        "JerryShen_AnKing_Tags::Micro-Pharm::Exam-1::05-Intro-to-Fungi::Class-Content"
+        "JerryShen_AnKing_Tags::Micro-Pharm::Exam-1::05-Intro-to-Fungi::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::16-Sexually-Transmitted-Infections"
       ]
     },
     {
       "first_field_hash": "e717dfbeb601ae71540e686b1a110bc9648915f444d9e47424d3dcc0e0dbfa44",
       "tags": [
-        "JerryShen_AnKing_Tags::Micro-Pharm::Exam-1::05-Intro-to-Fungi"
+        "JerryShen_AnKing_Tags::Micro-Pharm::Exam-1::05-Intro-to-Fungi",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::16-Sexually-Transmitted-Infections"
       ]
     },
     {
@@ -59251,13 +59823,20 @@
     {
       "first_field_hash": "d1aca8146ad84ba82c45dc73aaaed84c3b42ecbb8f127e328b90e7afd4571600",
       "tags": [
-        "JerryShen_AnKing_Tags::Micro-Pharm::Exam-1::02-S.pyogenes-&-E.coli::Class-Content"
+        "JerryShen_AnKing_Tags::Micro-Pharm::Exam-1::02-S.pyogenes-&-E.coli::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::16-Sexually-Transmitted-Infections"
       ]
     },
     {
       "first_field_hash": "505e2566f31c0227da5c773e63af5806d8611c93d9f506f184c9ebd8487b4136",
       "tags": [
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-1::02-S.pyogenes-&-E.coli::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "b0f64f77fc900039967616037d910080ac8a577d8135f8c721638cf78ec85aaf",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::16-Sexually-Transmitted-Infections"
       ]
     },
     {
@@ -59313,7 +59892,8 @@
     {
       "first_field_hash": "ee799f4b4e18b51683e481cb968cc7c19fd9960fb73662a58adc321af5e9ba83",
       "tags": [
-        "JerryShen_AnKing_Tags::Micro-Pharm::Exam-1::02-S.pyogenes-&-E.coli::Class-Content"
+        "JerryShen_AnKing_Tags::Micro-Pharm::Exam-1::02-S.pyogenes-&-E.coli::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::16-Sexually-Transmitted-Infections"
       ]
     },
     {
@@ -59332,6 +59912,12 @@
       "first_field_hash": "7f6107c1cc1f7e4c42ac0232df4b234c74ff01db9cb85eb53c39e05d8c21df72",
       "tags": [
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-1::03-C.diff-&-Pseudomonas"
+      ]
+    },
+    {
+      "first_field_hash": "2d96be6660c5ca78de618baa203874d6020dfe522e5ff29d810b9f857b62230b",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::16-Sexually-Transmitted-Infections"
       ]
     },
     {
@@ -59393,6 +59979,12 @@
       "first_field_hash": "6f169e1cc23b0b37695917f354eba37fd40e1a2a73a6b4948062647b94c96a8b",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::16-Lower-Respiratory-Infections"
+      ]
+    },
+    {
+      "first_field_hash": "98747e6c5fadf875d1b3b2b85daa34568ed94a133ee0836122fe16fc42c73b35",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::16-Sexually-Transmitted-Infections::Class-Content"
       ]
     },
     {
@@ -59661,6 +60253,13 @@
       ]
     },
     {
+      "first_field_hash": "e3f5022712ccba56b81a13a72e0b59ef1b20aa1be6c33493a789b354c34b88b4",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::16-Sexually-Transmitted-Infections",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::16-Sexually-Transmitted-Infections::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "740619cc97f61cc84c7e2bd6a69d76fc10580566660f021945d100731b38bdbe",
       "tags": [
         "JerryShen_AnKing_Tags::Immunology::Final::Complement::Class-Content"
@@ -59673,162 +60272,392 @@
       ]
     },
     {
+      "first_field_hash": "e02c1996fa521b6bbd5ad2cac9f3d11f8364bc1e0aca9c86b90e977fa381d7c5",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::16-Sexually-Transmitted-Infections"
+      ]
+    },
+    {
       "first_field_hash": "b0a43740062f57047589740f85566ce891147d002a359f84c488f33e6ec5287c",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::16-Lower-Respiratory-Infections::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::16-Lower-Respiratory-Infections::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::16-Sexually-Transmitted-Infections"
       ]
     },
     {
       "first_field_hash": "fa23791aa20681441e5509c89c540708c2391ce7d535e1bf1ac3728ca7340079",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::16-Lower-Respiratory-Infections::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::16-Lower-Respiratory-Infections::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::16-Sexually-Transmitted-Infections"
+      ]
+    },
+    {
+      "first_field_hash": "5f41118ddfd93413277ac1fcd62b8966a0012fdc277a23313a100468d53b4412",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::16-Sexually-Transmitted-Infections"
+      ]
+    },
+    {
+      "first_field_hash": "43a60f0f4de41eed843bbeaaa8004937e5b183c460d6c1936ab8fabed6fd4cab",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::16-Sexually-Transmitted-Infections"
+      ]
+    },
+    {
+      "first_field_hash": "77286a53fe78f12122e75e98166fed9c374f8c0253a5a55f94501e88e8fc18f7",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::16-Sexually-Transmitted-Infections"
+      ]
+    },
+    {
+      "first_field_hash": "cb7cd5105df2fa41d3ae563b1c054bc89b6498ef617b200006fc7c9651ee071a",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::16-Sexually-Transmitted-Infections"
+      ]
+    },
+    {
+      "first_field_hash": "f497d5dee912cea813d50e9b0c6ce5c8cd992cf88b37dd1b2775576e71673e95",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::16-Sexually-Transmitted-Infections"
+      ]
+    },
+    {
+      "first_field_hash": "bdfcd112c8d81962c7cbe87218a7f0b3a80913c083be5c54e47163f9887bb249",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::16-Sexually-Transmitted-Infections"
+      ]
+    },
+    {
+      "first_field_hash": "a85fad40f128480d6e77afbe5042bc948b435896795676bb4b4bad1ec600f9b8",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::16-Sexually-Transmitted-Infections"
       ]
     },
     {
       "first_field_hash": "c90cefb13528b3a9e7db5b62087ed1b7469455ae95674f0a83a3a642a9a4d677",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::16-Lower-Respiratory-Infections::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::16-Lower-Respiratory-Infections::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::16-Sexually-Transmitted-Infections"
       ]
     },
     {
       "first_field_hash": "77fe17a61d029817f0bfc9a446e5a942cfc208c1e8f66de783ce0861d94226c5",
       "tags": [
-        "JerryShen_AnKing_Tags::Micro-Pharm::Exam-1::02-S.pyogenes-&-E.coli::Class-Content"
+        "JerryShen_AnKing_Tags::Micro-Pharm::Exam-1::02-S.pyogenes-&-E.coli::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::16-Sexually-Transmitted-Infections"
+      ]
+    },
+    {
+      "first_field_hash": "b5dddb14d2a7f43231f831b1e6ef089755c48966684a7d1476361b1ad9ed1768",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::16-Sexually-Transmitted-Infections"
+      ]
+    },
+    {
+      "first_field_hash": "a59c847d47b9cc82567d4497bbaa1c4d4d1b246fc36105eafb9d944f70b32037",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::16-Sexually-Transmitted-Infections"
+      ]
+    },
+    {
+      "first_field_hash": "6af5f63896109bd59a51d6e7f516e5de96bb4bd361d788827a45361b2f7ed5e5",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::16-Sexually-Transmitted-Infections"
+      ]
+    },
+    {
+      "first_field_hash": "a1d26812ab1d72c642613862a13479cd0e0069af7dec3a6f507d5485b22ff5f5",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::16-Sexually-Transmitted-Infections"
+      ]
+    },
+    {
+      "first_field_hash": "8c092fc9e94aaf8304cfee182fbdb4204fec2e714be2e8223fed41b7a0108ae4",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::16-Sexually-Transmitted-Infections"
+      ]
+    },
+    {
+      "first_field_hash": "4cd37004da9a85735593f9941a7822e4c25daeca88d17fedfceaa3467c63cbe8",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::16-Sexually-Transmitted-Infections"
+      ]
+    },
+    {
+      "first_field_hash": "b65649a8a04a83c92d5f36a90b0190f90e2f75d165533cc4d10a6c15598aa8d7",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::16-Sexually-Transmitted-Infections"
+      ]
+    },
+    {
+      "first_field_hash": "9c98d4831abcede1570e593a26d4f316145b75aa9e78c706c871c8eb39abf17b",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::16-Sexually-Transmitted-Infections"
+      ]
+    },
+    {
+      "first_field_hash": "f5ddc588c50873422c815c9f62af029ab57e04a477c812a5aa535755fda6b40f",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::16-Sexually-Transmitted-Infections"
+      ]
+    },
+    {
+      "first_field_hash": "532b50daab7fcef96c042505e93110aba5bcec7cad0ff06b42d7b5fc47c36c8b",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::16-Sexually-Transmitted-Infections"
+      ]
+    },
+    {
+      "first_field_hash": "86bf2148434446cd37ef5bc73335ab791e33deb15a91364ee99b48bfefe13fcc",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::16-Sexually-Transmitted-Infections"
+      ]
+    },
+    {
+      "first_field_hash": "b726572773920c0ad8ee667440dbb6d39ae97bc81acac0d25ea9722f908ffe78",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::16-Sexually-Transmitted-Infections"
+      ]
+    },
+    {
+      "first_field_hash": "ed264f172e746c9644087af84937aa58752d9ad9fa143236537b14a6db88c110",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::16-Sexually-Transmitted-Infections"
       ]
     },
     {
       "first_field_hash": "ab7a7d597dd040cda476ed0b467a42f7291d127599c953c6b3080c48b5fb9685",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::16-Lower-Respiratory-Infections::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::16-Lower-Respiratory-Infections::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::16-Sexually-Transmitted-Infections"
       ]
     },
     {
       "first_field_hash": "8ee668d7ec0072d9845b4beae8455c9957cffcb9256d29fae3098f76fbc531ea",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::16-Lower-Respiratory-Infections::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::16-Lower-Respiratory-Infections::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::16-Sexually-Transmitted-Infections"
+      ]
+    },
+    {
+      "first_field_hash": "cf8638fa4edbb74eb8b98c622e8ef1423407a13f86911c8aee52b2a9dcfd2454",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::16-Sexually-Transmitted-Infections"
+      ]
+    },
+    {
+      "first_field_hash": "7d54d78f7f98d5b0d7831d4475799f60ab7f740a206e6d594ee09bf45b2c5bd3",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::16-Sexually-Transmitted-Infections"
+      ]
+    },
+    {
+      "first_field_hash": "5e34001b4e7d633f75714d9eb115f530ab3d480560ce9fb4c701af3cf8e905b9",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::16-Sexually-Transmitted-Infections"
       ]
     },
     {
       "first_field_hash": "e037ef5478bb1a291c4b16e6c4d3d3c6bd4e002b2aeaffe6bad49b87fd068294",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::07-Complications-of-Pregnancy::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::07-Complications-of-Pregnancy::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::16-Sexually-Transmitted-Infections"
       ]
     },
     {
       "first_field_hash": "e3eacf5d30236ff83e4fc6238d005e801cfbe7243fd806d0dba2c65d783a757a",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::07-Complications-of-Pregnancy"
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::07-Complications-of-Pregnancy",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::16-Sexually-Transmitted-Infections"
       ]
     },
     {
       "first_field_hash": "46f2b0dfc6e53603193b991ed2206f61116272fa2432a6bbfed1ffbd2e6ad323",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::07-Complications-of-Pregnancy"
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::07-Complications-of-Pregnancy",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::16-Sexually-Transmitted-Infections"
       ]
     },
     {
       "first_field_hash": "39d040ca953ef63deffc17ac8ba7bdab89573c154185cd5692c48a981c310192",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::07-Complications-of-Pregnancy"
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::07-Complications-of-Pregnancy",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::16-Sexually-Transmitted-Infections"
+      ]
+    },
+    {
+      "first_field_hash": "f7e768d62ca2ded3c01c19f3b1009cceef70240ef17919983c6aaee3c4d2fcb0",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::16-Sexually-Transmitted-Infections"
       ]
     },
     {
       "first_field_hash": "7b613de2c0d9073a4417dcfa213fa8972fefafb13fa373959674fe50f257348b",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::07-Complications-of-Pregnancy::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::07-Complications-of-Pregnancy::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::16-Sexually-Transmitted-Infections"
       ]
     },
     {
       "first_field_hash": "28e54f58a4879f01aa66be354bc067d6b7142c8153460fe74cdd2b2c5d86bf13",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::07-Complications-of-Pregnancy::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::07-Complications-of-Pregnancy::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::16-Sexually-Transmitted-Infections"
       ]
     },
     {
       "first_field_hash": "881e45ec935654a1424958819144ea3d8c84d60cb2139fa62dbc37e58a3f25fb",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::07-Complications-of-Pregnancy::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::07-Complications-of-Pregnancy::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::16-Sexually-Transmitted-Infections"
       ]
     },
     {
       "first_field_hash": "5d163f7c73f6276a5e7e5c6928c6bef9fc5aad964b0b0669a060d091c1420540",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::07-Complications-of-Pregnancy::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::07-Complications-of-Pregnancy::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::16-Sexually-Transmitted-Infections"
       ]
     },
     {
       "first_field_hash": "c445e7648b1effaa274c9204ceae545f383b6692002ad1215781233e435dd51b",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::07-Complications-of-Pregnancy::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::07-Complications-of-Pregnancy::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::16-Sexually-Transmitted-Infections"
+      ]
+    },
+    {
+      "first_field_hash": "f0d1d7638d432a75dbb406e03622920110d60cf9100e8a049421070c3a08a7f2",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::16-Sexually-Transmitted-Infections"
+      ]
+    },
+    {
+      "first_field_hash": "4c93a21acd9c5f19e4d1a13a5e06350616d64bb53256d610026a2ca5b827af70",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::16-Sexually-Transmitted-Infections"
+      ]
+    },
+    {
+      "first_field_hash": "51d36aadc985fb3533fad8fa5ccef12c011d63de247f4a094d21705bebcadd17",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::16-Sexually-Transmitted-Infections"
+      ]
+    },
+    {
+      "first_field_hash": "29aca2e480f754a314eed01a6e804e6efa60822d98f9d5389000fa369b1ac22e",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::16-Sexually-Transmitted-Infections"
+      ]
+    },
+    {
+      "first_field_hash": "385f9255233d5195d19eebc53d1025c85ef8acfc9de0a9f6893e00f558dd18d8",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::16-Sexually-Transmitted-Infections"
+      ]
+    },
+    {
+      "first_field_hash": "7b70e0182fd3839e8e54d6c9703b933b83fe582132151931a0c0592af51bc405",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::16-Sexually-Transmitted-Infections"
       ]
     },
     {
       "first_field_hash": "06f39e0ced71d79b0e38f351219ed2cf2c74dad9cdfd0ce697ec41f4613bd953",
       "tags": [
         "JerryShen_AnKing_Tags::Neurobiology::Exam-2::Tutorial-2-Spinal-Cord",
-        "JerryShen_AnKing_Tags::Neurobiology::Exam-2::Tutorial-2-Spinal-Cord::Class-Content"
+        "JerryShen_AnKing_Tags::Neurobiology::Exam-2::Tutorial-2-Spinal-Cord::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::16-Sexually-Transmitted-Infections"
+      ]
+    },
+    {
+      "first_field_hash": "1bceff3f3b78911cccd4ca3a6e0d8804c80a45ab832554a19bc1f3a5d053283a",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::16-Sexually-Transmitted-Infections"
       ]
     },
     {
       "first_field_hash": "55ec291420447fa35944b8e3555f49d73323869b8fb55bf46c9bed6d628b3904",
       "tags": [
-        "JerryShen_AnKing_Tags::Neurobiology::Exam-2::Tutorial-2-Spinal-Cord"
+        "JerryShen_AnKing_Tags::Neurobiology::Exam-2::Tutorial-2-Spinal-Cord",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::16-Sexually-Transmitted-Infections"
       ]
     },
     {
       "first_field_hash": "36995ffdc4282ba14078d7739d0cc4e0cee5f42478473610756abfba2088a34b",
       "tags": [
         "JerryShen_AnKing_Tags::Neurobiology::Exam-2::Tutorial-2-Spinal-Cord",
-        "JerryShen_AnKing_Tags::Neurobiology::Exam-2::Tutorial-2-Spinal-Cord::Class-Content"
+        "JerryShen_AnKing_Tags::Neurobiology::Exam-2::Tutorial-2-Spinal-Cord::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::16-Sexually-Transmitted-Infections"
       ]
     },
     {
       "first_field_hash": "4d4f0290c492146e74409d10b4ae39b72916e9022ed4deda793f9d557ec19d52",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::07-Complications-of-Pregnancy::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::07-Complications-of-Pregnancy::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::16-Sexually-Transmitted-Infections"
       ]
     },
     {
       "first_field_hash": "d4042a9a5f6a120698a8f085977b892d2ede7fa1356ee95224632817e0b6b6da",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::07-Complications-of-Pregnancy::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::07-Complications-of-Pregnancy::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::16-Sexually-Transmitted-Infections"
       ]
     },
     {
       "first_field_hash": "cf51bf4e68434be2fa61e82090f9230074c11aad5e5378271018f1c7f662c81e",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::07-Complications-of-Pregnancy::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::07-Complications-of-Pregnancy::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::16-Sexually-Transmitted-Infections"
       ]
     },
     {
       "first_field_hash": "e23bfadc7ef1db1d0286dadbc750313bc5e6400ea72fef7b2faa079c2463b84f",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::07-Complications-of-Pregnancy::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::07-Complications-of-Pregnancy::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::16-Sexually-Transmitted-Infections"
       ]
     },
     {
       "first_field_hash": "aa5e1f564d1ab456508c00f8e01dfc1de51b4d82faa1850b068e281284bb03a7",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::07-Complications-of-Pregnancy"
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::07-Complications-of-Pregnancy",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::16-Sexually-Transmitted-Infections"
       ]
     },
     {
       "first_field_hash": "540d78835ad06be200691274721dc53149fe6f4bf29b7d9091481baae628afe6",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::07-Complications-of-Pregnancy"
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::07-Complications-of-Pregnancy",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::16-Sexually-Transmitted-Infections"
       ]
     },
     {
       "first_field_hash": "dc90d144f1a0e5f94537f69cc87df9a9f251b1263cd1d044fb3720c435500c26",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::07-Complications-of-Pregnancy"
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::07-Complications-of-Pregnancy",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::16-Sexually-Transmitted-Infections"
       ]
     },
     {
       "first_field_hash": "4dc26dee9ac2798e08d2a8e181d86e887091f036d054292d40c9558f1498240f",
       "tags": [
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-2::07-β-Lactam-Antibiotics-&-Parasites::Class-Content",
-        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::07-Complications-of-Pregnancy::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::07-Complications-of-Pregnancy::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::16-Sexually-Transmitted-Infections"
+      ]
+    },
+    {
+      "first_field_hash": "1c942ed4071e77ec250ed9dac33abf0a8869d6970cd8fa116b1ccea13d95d7b3",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::16-Sexually-Transmitted-Infections"
+      ]
+    },
+    {
+      "first_field_hash": "ecb547964a6ec2fe075f8cbf8ef5f969f2182b8266227126489052037d7eaa2a",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::16-Sexually-Transmitted-Infections"
       ]
     },
     {
@@ -59836,20 +60665,23 @@
       "tags": [
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-1::04-Intro-to-Viruses",
         "JerryShen_AnKing_Tags::SOM-2::Repro-Block::05-Physiology-of-Pregnancy",
-        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::07-Complications-of-Pregnancy::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::07-Complications-of-Pregnancy::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::16-Sexually-Transmitted-Infections"
       ]
     },
     {
       "first_field_hash": "2dc3c94aeb65f345a81d055017b4ec037a2c11ecf7c0ae0f49914f77f9068559",
       "tags": [
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-1::04-Intro-to-Viruses",
-        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::07-Complications-of-Pregnancy::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::07-Complications-of-Pregnancy::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::16-Sexually-Transmitted-Infections"
       ]
     },
     {
       "first_field_hash": "34475e85df1144fb9aa21fa2594d82818976b60cd204cc943b2a68fe4ca7b8f1",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::07-Complications-of-Pregnancy::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::07-Complications-of-Pregnancy::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::16-Sexually-Transmitted-Infections"
       ]
     },
     {
@@ -60113,16 +60945,173 @@
       ]
     },
     {
+      "first_field_hash": "0250943510e7d7c26c56d124a11a932c6e1b22a7d56fba21fdfdb5f7acaa3bbf",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::16-Sexually-Transmitted-Infections"
+      ]
+    },
+    {
       "first_field_hash": "13869d0662833ed1876697b39f363919f25b3b78f595c01d6048bc3ebedd47bc",
       "tags": [
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-1::04-Intro-to-Viruses"
       ]
     },
     {
+      "first_field_hash": "2ba9e1eb448ad066528a547649833c7b8f317c99413330d72362793f1de0b23c",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::16-Sexually-Transmitted-Infections"
+      ]
+    },
+    {
+      "first_field_hash": "e98744e182b4a38ae46da0309f93218677227c56b1b9463417e7047ceba98912",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::16-Sexually-Transmitted-Infections"
+      ]
+    },
+    {
+      "first_field_hash": "0d013a9e9fd24117435a676ac9857d9aec68d3ac4f62eff632b8ce7e374aed06",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::16-Sexually-Transmitted-Infections"
+      ]
+    },
+    {
       "first_field_hash": "3523e5f80faa28d1bdd86ace289e97b4c0ea95cf50e63f97cbdc81cfcdc292cd",
       "tags": [
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-1::04-Intro-to-Viruses",
-        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::07-Complications-of-Pregnancy::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::07-Complications-of-Pregnancy::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::16-Sexually-Transmitted-Infections"
+      ]
+    },
+    {
+      "first_field_hash": "20b171ef449beac1582096302738f63d43c4b308f7539e3ad15ae955153004fd",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::16-Sexually-Transmitted-Infections"
+      ]
+    },
+    {
+      "first_field_hash": "69f2f96af3a9d46fd0a5a7220db592b59306d17f967fb6ad10e0069d8f86a6b4",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::16-Sexually-Transmitted-Infections"
+      ]
+    },
+    {
+      "first_field_hash": "23841c6bf2a4997da1de6d227e7ba61f009ea6fdc70316c61ff06d1edbc121c0",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::16-Sexually-Transmitted-Infections"
+      ]
+    },
+    {
+      "first_field_hash": "05531cceffe6659b53ef67970e17babd6003bcf22b5e42a57395f3a4a82a7228",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::16-Sexually-Transmitted-Infections"
+      ]
+    },
+    {
+      "first_field_hash": "a2f160c8936cd9e39ff7acd69239a580593d5d24615f3dddf713493ddf003b52",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::16-Sexually-Transmitted-Infections"
+      ]
+    },
+    {
+      "first_field_hash": "6d2622ed385843d39741bf50c6155c0e294b95e8cbbaa8e6b255eb8f7100fe44",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::16-Sexually-Transmitted-Infections"
+      ]
+    },
+    {
+      "first_field_hash": "c8fe42268c08212761796ac5283445916f73c85695acbd17eeb027606d1d18f4",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::16-Sexually-Transmitted-Infections"
+      ]
+    },
+    {
+      "first_field_hash": "6ff7426b2d43b402aad9d4cc26fa498f8ebfd2035fb9697ccdfa903f1d84ee4a",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::16-Sexually-Transmitted-Infections"
+      ]
+    },
+    {
+      "first_field_hash": "1aad988359a25c7724d807a7beb42dc16fcd2a4b03589276265455a8d3a743eb",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::16-Sexually-Transmitted-Infections"
+      ]
+    },
+    {
+      "first_field_hash": "71acd25562a4f2ad90f605cf5b35e75ec4122db69242dc799611ab6b280d58eb",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::16-Sexually-Transmitted-Infections"
+      ]
+    },
+    {
+      "first_field_hash": "f05f4eef3867cbc2053e28f5c788cdca5f3d3c0e658d30e70f3893ca2cfcf9aa",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::16-Sexually-Transmitted-Infections"
+      ]
+    },
+    {
+      "first_field_hash": "db7e31c507b80dc743a5050c64524b5cd58060e5764a93cefdec07ebb3b0ba8e",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::16-Sexually-Transmitted-Infections"
+      ]
+    },
+    {
+      "first_field_hash": "00e3f29bc949d12c25a067e904bc8ba96412bef5e73a44ef08e0d138fb0f407e",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::16-Sexually-Transmitted-Infections"
+      ]
+    },
+    {
+      "first_field_hash": "023d77f68d5be0d9507d23085d85180721398bddc46eb1318b50c143feaefc9d",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::16-Sexually-Transmitted-Infections"
+      ]
+    },
+    {
+      "first_field_hash": "e9406820d1d6bc2495690d13a0e2cf832dfe1c96151140346492dcf71a624b98",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::16-Sexually-Transmitted-Infections"
+      ]
+    },
+    {
+      "first_field_hash": "7cc7d94d3839a32c4d8b575b8c99f46abdfa2599f951a979d7f53bed0c9831e9",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::16-Sexually-Transmitted-Infections"
+      ]
+    },
+    {
+      "first_field_hash": "bd1ebe4db74d75a010088ddf53940103ba6df1522522aa82cb8a2eb3f4e6a438",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::16-Sexually-Transmitted-Infections"
+      ]
+    },
+    {
+      "first_field_hash": "c3a63ab11e93a48b620757d7055940a98695a639b22cc7386a0117fe2ee097ce",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::16-Sexually-Transmitted-Infections"
+      ]
+    },
+    {
+      "first_field_hash": "1bd1df973d48fc763ff9ad06873ca3a8fc551c14073e1ba325c55684b8727fe3",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::16-Sexually-Transmitted-Infections"
+      ]
+    },
+    {
+      "first_field_hash": "5f42a8260522a881b57008ead07723d20038856aa70e382f05759c6a10f6f47e",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::16-Sexually-Transmitted-Infections"
+      ]
+    },
+    {
+      "first_field_hash": "d2b4e503f35b4870aa5e79e7f15e59dda664c8ecda5d647b08d48c5c2243b96e",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::16-Sexually-Transmitted-Infections"
+      ]
+    },
+    {
+      "first_field_hash": "cb3cbeca3fb3e2bef8f5bb390432e02ed5a01e539513bc22f28f46b512efa113",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::16-Sexually-Transmitted-Infections"
       ]
     },
     {
@@ -60134,13 +61123,15 @@
     {
       "first_field_hash": "ff753167c7d60f8886b146ca842cdfab3ad306d90f5b0e2070189153dd91f166",
       "tags": [
-        "JerryShen_AnKing_Tags::Micro-Pharm::Exam-1::05-Intro-to-Fungi"
+        "JerryShen_AnKing_Tags::Micro-Pharm::Exam-1::05-Intro-to-Fungi",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::16-Sexually-Transmitted-Infections"
       ]
     },
     {
       "first_field_hash": "cffbd3e0f6892f568135cdaf9639ad28214af260c616d1c3ec9515dc1aa3f77f",
       "tags": [
-        "JerryShen_AnKing_Tags::Micro-Pharm::Exam-1::05-Intro-to-Fungi"
+        "JerryShen_AnKing_Tags::Micro-Pharm::Exam-1::05-Intro-to-Fungi",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::16-Sexually-Transmitted-Infections"
       ]
     },
     {
@@ -60198,6 +61189,12 @@
       "first_field_hash": "b219d7fca08c488e6e6077993e97d69d1b53146ce636225f36a90293124f9403",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::10-Autonomic-Physiology-and-Pharmacology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "cf415ea5daf36dec5a83d905e4ab8c4e9bc167c67fd5a70fb625e333b98a9521",
+      "tags": [
+        "JerryShen_AnKing_Tags::POM-4::ACS-Skills::Integrated-Clinical-Cases::Class-Content"
       ]
     },
     {
@@ -61561,6 +62558,12 @@
       ]
     },
     {
+      "first_field_hash": "3a7611cc56f57d7380767fc71ac8c070e957e9ed24aa5349436f7866e8074b5d",
+      "tags": [
+        "JerryShen_AnKing_Tags::POM-4::ACS-Skills::Integrated-Clinical-Cases::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "f9ead815845580cee8e84161686f84857b26bb20d8a78167174263b16ba62e71",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::09-Upper-GI-Infections"
@@ -61623,7 +62626,8 @@
     {
       "first_field_hash": "5b8af3e38d5825d1275d5fd11762257b56317f60c4dba95ad08fe3474476d23b",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::07-Complications-of-Pregnancy"
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::07-Complications-of-Pregnancy",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::16-Sexually-Transmitted-Infections"
       ]
     },
     {
@@ -61758,6 +62762,12 @@
       ]
     },
     {
+      "first_field_hash": "f2a73d365db8f48e2197bcf16a376c2c85378d9bed9f82a8cb4fd9744a00e858",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::16-Sexually-Transmitted-Infections"
+      ]
+    },
+    {
       "first_field_hash": "82bc93fdd5cf7760c926e1244076486632aa2db658906e7bd08a3ea5b551e044",
       "tags": [
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-2::09-Misc-Antimicrobials-&-Skin-Infections::Class-Content"
@@ -61796,6 +62806,12 @@
       ]
     },
     {
+      "first_field_hash": "d5ee4c371f12725ee803ee25ed89bcfec3899124cdbdf75ddd3b86dac975c4d3",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::16-Sexually-Transmitted-Infections"
+      ]
+    },
+    {
       "first_field_hash": "b3b2f57041902b517507fea631a6593b5eed526347651d6f38b8714bb4679379",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::09-Upper-GI-Infections::Class-Content"
@@ -61816,7 +62832,8 @@
     {
       "first_field_hash": "dd3e4b22fe112bd8492d4aae84f7df51c928436bc220cb44d9f4090f514d4833",
       "tags": [
-        "JerryShen_AnKing_Tags::POM-4::Clinical-Reasoning::Approach-to-Edema"
+        "JerryShen_AnKing_Tags::POM-4::Clinical-Reasoning::Approach-to-Edema",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::16-Sexually-Transmitted-Infections"
       ]
     },
     {
@@ -61915,6 +62932,12 @@
       "first_field_hash": "0ae79adb05015cd18b0025725e6eca4027cde96fe7629941f1c2adaeffe0f3e9",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::09-Upper-GI-Infections"
+      ]
+    },
+    {
+      "first_field_hash": "8225785bc02d3cefbb23f3b2bcbd8ba68bb15efd6d354ca87251c897b106e5a0",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::16-Sexually-Transmitted-Infections::Class-Content"
       ]
     },
     {
@@ -62657,7 +63680,8 @@
     {
       "first_field_hash": "541fd52423245a00ed96e50ed43d36cb35f00d0944212098d6358c79d4622bee",
       "tags": [
-        "JerryShen_AnKing_Tags::Micro-Pharm::Exam-2::08-Other-Antibiotics-&-Mycobacteria"
+        "JerryShen_AnKing_Tags::Micro-Pharm::Exam-2::08-Other-Antibiotics-&-Mycobacteria",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::16-Sexually-Transmitted-Infections"
       ]
     },
     {
@@ -62827,7 +63851,8 @@
     {
       "first_field_hash": "bafde59c8dfb5f61904135c602d0797fe1fc63977453a779b59bf5febfcef97e",
       "tags": [
-        "JerryShen_AnKing_Tags::Micro-Pharm::Exam-2::08-Other-Antibiotics-&-Mycobacteria"
+        "JerryShen_AnKing_Tags::Micro-Pharm::Exam-2::08-Other-Antibiotics-&-Mycobacteria",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::16-Sexually-Transmitted-Infections"
       ]
     },
     {
@@ -62907,9 +63932,21 @@
       ]
     },
     {
+      "first_field_hash": "16ad4fb142a1982247186927ea8340168691222547a5fcb5a6c34b9d683a27f2",
+      "tags": [
+        "JerryShen_AnKing_Tags::POM-4::ACS-Skills::Integrated-Clinical-Cases::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "456ba942f27565def5be1653a244adee10b4f7e5acd8ac3d4e44aaf1e90a7f77",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::04-Salivary-Gland-&-Esophagus"
+      ]
+    },
+    {
+      "first_field_hash": "c95e6d5f61f7e5d739512df5078a4dae66c4bab9fc5a1eda971ee2180ebdd4d3",
+      "tags": [
+        "JerryShen_AnKing_Tags::POM-4::ACS-Skills::Integrated-Clinical-Cases::Class-Content"
       ]
     },
     {
@@ -63183,6 +64220,7 @@
     {
       "first_field_hash": "fa9ae0d9596da7d6cef9a67389d08c2db9b7dfffd0ccf70950d5fde381d4e33b",
       "tags": [
+        "JerryShen_AnKing_Tags::POM-4::ACS-Skills::Integrated-Clinical-Cases::Class-Content",
         "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::09-Upper-GI-Infections"
       ]
     },
@@ -63219,6 +64257,7 @@
     {
       "first_field_hash": "e1e7d18917484d33000f89f72e9bf99e20b6c44d36d8838d5a4307f87b56b478",
       "tags": [
+        "JerryShen_AnKing_Tags::POM-4::ACS-Skills::Integrated-Clinical-Cases",
         "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::09-Upper-GI-Infections"
       ]
     },
@@ -64154,7 +65193,8 @@
     {
       "first_field_hash": "7c51deb52695b732a9b8778242d0388c02e9b955e1152aca35d8250f3a8beee2",
       "tags": [
-        "JerryShen_AnKing_Tags::Micro-Pharm::Exam-1::04-Intro-to-Viruses"
+        "JerryShen_AnKing_Tags::Micro-Pharm::Exam-1::04-Intro-to-Viruses",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::16-Sexually-Transmitted-Infections"
       ]
     },
     {
@@ -64166,7 +65206,8 @@
     {
       "first_field_hash": "76d7ef57a90c1dbbba7f1c88ecf9a887eab1c340e916e42effa06aa4560bf2fd",
       "tags": [
-        "JerryShen_AnKing_Tags::Micro-Pharm::Exam-1::04-Intro-to-Viruses"
+        "JerryShen_AnKing_Tags::Micro-Pharm::Exam-1::04-Intro-to-Viruses",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::16-Sexually-Transmitted-Infections"
       ]
     },
     {
@@ -64677,6 +65718,18 @@
       ]
     },
     {
+      "first_field_hash": "3fc8f94cf999c841d07c2b2cf24154af013affb072f4b74e2e35717d88063805",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::16-Sexually-Transmitted-Infections"
+      ]
+    },
+    {
+      "first_field_hash": "0c42d0835f31c47ec3178bef94020a6e74ba21b103ac0238241295d470b14ca9",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::16-Sexually-Transmitted-Infections"
+      ]
+    },
+    {
       "first_field_hash": "17066bb4847c8e8c4b8709be57047f974d52836dc75a5235b241220f6ead884e",
       "tags": [
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-2::06-Antivirals::Class-Content"
@@ -64703,7 +65756,8 @@
     {
       "first_field_hash": "f85490943cd286306d0e5892e8f8e84086bc7e2ac0a551649c3ab40960904e4f",
       "tags": [
-        "JerryShen_AnKing_Tags::Micro-Pharm::Exam-2::06-Antivirals::Class-Content"
+        "JerryShen_AnKing_Tags::Micro-Pharm::Exam-2::06-Antivirals::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::16-Sexually-Transmitted-Infections"
       ]
     },
     {
@@ -65473,6 +66527,20 @@
       "first_field_hash": "da1e1398dcc0a4e440698aaa9d40e583b5bf7e039b98da033bb4a40b18adbbf9",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::05-Stomach"
+      ]
+    },
+    {
+      "first_field_hash": "bb15275212d43f8e80289f3a39b431871554c93e6c92fd6dfcc52619044639fb",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::15-Ovarian-&-Fallopian-Pathology",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::15-Ovarian-&-Fallopian-Pathology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "3b817183d20def26642d1c4f210518f3f007431fcf5d6e62b5c643fd5864c137",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::15-Ovarian-&-Fallopian-Pathology",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::15-Ovarian-&-Fallopian-Pathology::Class-Content"
       ]
     },
     {
@@ -67054,6 +68122,42 @@
       "first_field_hash": "629c7c78cba7191bf767a843b303dec092ff943f4f9a42c1dd9af8190e9d7805",
       "tags": [
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-2::07-β-Lactam-Antibiotics-&-Parasites"
+      ]
+    },
+    {
+      "first_field_hash": "fe6a8336fd319c498bed4b4cccb67062a69f19ec74bce5cda81776f63ca4da88",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::16-Sexually-Transmitted-Infections"
+      ]
+    },
+    {
+      "first_field_hash": "4e015282f8389c780989e8862836ec713e1b8228464adee46f055997076fed63",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::16-Sexually-Transmitted-Infections"
+      ]
+    },
+    {
+      "first_field_hash": "ea95e2f6e763149daf423da31847ed39416bb523181ab33a1923ee52386268bb",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::16-Sexually-Transmitted-Infections"
+      ]
+    },
+    {
+      "first_field_hash": "1ad3dbf9398b81be1fbd0b5dafdbe675bb97bea3691725dc4471fb1c19d0d3d5",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::16-Sexually-Transmitted-Infections"
+      ]
+    },
+    {
+      "first_field_hash": "940ffd2aec2f6165751e111ee80ef8c83380d5de242821bdec7cffd2d14bdd9e",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::16-Sexually-Transmitted-Infections"
+      ]
+    },
+    {
+      "first_field_hash": "3bfaa4e61c06194225b549f8500e9461369c7176e35f21af1112ce67cb923ac1",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::16-Sexually-Transmitted-Infections"
       ]
     },
     {
@@ -68720,6 +69824,12 @@
       ]
     },
     {
+      "first_field_hash": "df24ee39839b3182c88f30a24ebb9c370e5d50c5113af4f266f9daf90c6bef63",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::07-Pulmonary-Function-Testing"
+      ]
+    },
+    {
       "first_field_hash": "750b1f4b03ed84f087442369a4725d623d4bc36b48fece347e79708592c0c45e",
       "tags": [
         "JerryShen_AnKing_Tags::POM-3::Clinical-Reasoning::Approach-to-Acute-Dyspnea::Class-Content",
@@ -69125,6 +70235,12 @@
       ]
     },
     {
+      "first_field_hash": "024ccc26ec5fdc205e0957ae31bffdeeae734ed8da1e7bc28ef5c41424a1c718",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::16-Sexually-Transmitted-Infections"
+      ]
+    },
+    {
       "first_field_hash": "8cfd1af01f0f1fe1ce3c345043d0dac47ed5ef4a8f54ee2c98c6fcc119eaaa6e",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::09-Upper-GI-Infections",
@@ -69445,7 +70561,8 @@
     {
       "first_field_hash": "de82456888eeb16844e0d4fa87261900e64cb475e8894e700a20b01809cf03ff",
       "tags": [
-        "JerryShen_AnKing_Tags::Micro-Pharm::Exam-2::07-β-Lactam-Antibiotics-&-Parasites::Class-Content"
+        "JerryShen_AnKing_Tags::Micro-Pharm::Exam-2::07-β-Lactam-Antibiotics-&-Parasites::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::16-Sexually-Transmitted-Infections::Class-Content"
       ]
     },
     {
@@ -69551,6 +70668,12 @@
       "first_field_hash": "4ae88abf15570d603843034f3d2e32dfdcee2a87a3e6f55ffa5c0a6a4a1550e6",
       "tags": [
         "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-5-Lower-Limb::Anatomy::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "4387ad563bfbcd16bcaa3a8e512e50c97eadd80b60e17c2803ec228d56b145d4",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::16-Sexually-Transmitted-Infections"
       ]
     },
     {
@@ -69891,21 +71014,83 @@
       ]
     },
     {
+      "first_field_hash": "8b65d22de07528b8b592eeba7672f4350c1ef017587cf4c0ef970d5dd2b1bb66",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::16-Sexually-Transmitted-Infections"
+      ]
+    },
+    {
       "first_field_hash": "d063b18f9f8b26eb0a49d25827879d591dfeca3e6dcfeb1b47ce303b629981bf",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::MSK-Block::Extra-Upper-Limb-Pathology"
       ]
     },
     {
+      "first_field_hash": "5b5df0507aceb023a281cfb5b73cbe2ae3a3b2e0df27669a444fcda1070d1777",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::16-Sexually-Transmitted-Infections"
+      ]
+    },
+    {
+      "first_field_hash": "d105f11512812168f6d1e0c5985957cb46c527445669a468042fb77b95fdf6a3",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::16-Sexually-Transmitted-Infections"
+      ]
+    },
+    {
       "first_field_hash": "1553897fab34312d73426c923dd73d176f8b144056d5319e85224e28d4f77ab1",
       "tags": [
-        "JerryShen_AnKing_Tags::Micro-Pharm::Exam-1::05-Intro-to-Fungi"
+        "JerryShen_AnKing_Tags::Micro-Pharm::Exam-1::05-Intro-to-Fungi",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::16-Sexually-Transmitted-Infections"
+      ]
+    },
+    {
+      "first_field_hash": "1d15d5402badec07d123f6080ddb498c36c000aaf18c39ea2c72e619a7f1657d",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::16-Sexually-Transmitted-Infections"
+      ]
+    },
+    {
+      "first_field_hash": "916f9bffaee43a857c41e42b2ffe575205abb42da82d716f68c2d9f516ae7189",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::16-Sexually-Transmitted-Infections"
+      ]
+    },
+    {
+      "first_field_hash": "4cd3bc808f15b34d759ebbc90c22e1ad8734d11e5636ece6bb15a81c9df8313e",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::16-Sexually-Transmitted-Infections"
+      ]
+    },
+    {
+      "first_field_hash": "4b4224bdcd72f7e47fc5726b2a0e03af1b06ee21a186e5e19336ff469c983406",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::16-Sexually-Transmitted-Infections"
+      ]
+    },
+    {
+      "first_field_hash": "c30653f1f0a6c6985939f27bcb5d4b8a89795cd32b08afde53b2f67950c4c3b7",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::16-Sexually-Transmitted-Infections"
+      ]
+    },
+    {
+      "first_field_hash": "b06a465887a217d678339360d3ec57541fc7b4aa53cc346ab39c066466ff7aca",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::16-Sexually-Transmitted-Infections"
       ]
     },
     {
       "first_field_hash": "4b7be2bb12dec196f154d54afd4d689d5565952336de3970caf8524ee91febd8",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::17-Urinary-Tract-Infections::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::17-Urinary-Tract-Infections::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::16-Sexually-Transmitted-Infections"
+      ]
+    },
+    {
+      "first_field_hash": "666e081b517956bcb5166b83f41a1e263a89348ad1ab6eede013f7fc6fe34cff",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::16-Sexually-Transmitted-Infections"
       ]
     },
     {
@@ -69918,6 +71103,12 @@
       "first_field_hash": "4860916edcb4d28aee27b8ad1750c76b92e9cfda207e7a4e46119a8f7ffc69a9",
       "tags": [
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-1::02-S.pyogenes-&-E.coli::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "9781a3edd5dbad32ff725b996c3a2d0bbf9fb032fb0bf094fdc754ec915fad8f",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::16-Sexually-Transmitted-Infections"
       ]
     },
     {
@@ -70563,6 +71754,12 @@
       ]
     },
     {
+      "first_field_hash": "48db3ee534a6367131e6f2e8bdf5c438ff2c93ac0741d5aaf16d74a62c14fd20",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::16-Sexually-Transmitted-Infections"
+      ]
+    },
+    {
       "first_field_hash": "efcc135e58cd4ca4184fcbdb758e84b8b6c386e154cffa6624dfad36090eef30",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::MSK-Block::Extra-Lower-Limb-Pathology"
@@ -70602,6 +71799,24 @@
       "first_field_hash": "bbb5719c8ee916f1aecc6a000c46eef717e5fcaa1ee2517c53523d62a172da32",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::04-Salivary-Gland-&-Esophagus"
+      ]
+    },
+    {
+      "first_field_hash": "56bd9a444e3595c65f5032772930f5573158b37a398a6e9df2b8bb0d1c82b7f8",
+      "tags": [
+        "JerryShen_AnKing_Tags::POM-4::ACS-Skills::Integrated-Clinical-Cases::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "df1527e43bdc73170962544c4d64920b23f9395ffc545df752df602a5f696fae",
+      "tags": [
+        "JerryShen_AnKing_Tags::POM-4::ACS-Skills::Integrated-Clinical-Cases::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "50158b1de3bd8510b4e0d19e5cef1df7dcc5ba46b83e06c8df32c369e622b486",
+      "tags": [
+        "JerryShen_AnKing_Tags::POM-4::ACS-Skills::Integrated-Clinical-Cases::Class-Content"
       ]
     },
     {
@@ -71280,6 +72495,12 @@
       ]
     },
     {
+      "first_field_hash": "1d656ceb7dab053fe33f47ae6fd121cf46fbc1e14d3c48ad13da30d15bc47816",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::16-Sexually-Transmitted-Infections"
+      ]
+    },
+    {
       "first_field_hash": "1017477858b9e9624fba11ae545fb5261a0e4cf7c561643fd37b00ffe1de512e",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::06-Small-Intestine"
@@ -71374,7 +72595,8 @@
     {
       "first_field_hash": "744f697a0d9a60d1517e7aaa11e4e7df63c1897f457828bbf4771a34dff03588",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::07-Complications-of-Pregnancy::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::07-Complications-of-Pregnancy::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::16-Sexually-Transmitted-Infections"
       ]
     },
     {
@@ -71509,6 +72731,12 @@
       "first_field_hash": "fedd9adfdc03cc73f67ad79a697d6af7e34d9d3cd01a91f0c6f70ca9dfcfc795",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::36-Lymphatics"
+      ]
+    },
+    {
+      "first_field_hash": "7a9e6001d3e566eea8bc123417e5e5b833f892a55ad70f08358fcdc37c0138e6",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::16-Sexually-Transmitted-Infections::Class-Content"
       ]
     },
     {
@@ -71926,6 +73154,12 @@
       ]
     },
     {
+      "first_field_hash": "f350c0ecab3806965c5b12b65536a079b8329cb308ec5b517bfc5191ce1575de",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::15-Ovarian-&-Fallopian-Pathology"
+      ]
+    },
+    {
       "first_field_hash": "7507c8635606a64d9ae6b847ae94febcfdabcf8a6da386144de86fe0fd5811e2",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::35-Congenital-Heart-Disease::Class-Content"
@@ -72020,7 +73254,8 @@
     {
       "first_field_hash": "b397166d29a9a529d2867f5873fa5cdee99bcac87f33e0e485d6f322c4a59723",
       "tags": [
-        "JerryShen_AnKing_Tags::Cancer-Biology::Final::06-Role-of-Pathology-in-Cancer-Diagnosis::Class-Content"
+        "JerryShen_AnKing_Tags::Cancer-Biology::Final::06-Role-of-Pathology-in-Cancer-Diagnosis::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::15-Ovarian-&-Fallopian-Pathology::Class-Content"
       ]
     },
     {
@@ -72520,6 +73755,12 @@
       ]
     },
     {
+      "first_field_hash": "c1ed072af436cab228dd57c07da69981458191b000ce977c6d2965051081108b",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::15-Ovarian-&-Fallopian-Pathology"
+      ]
+    },
+    {
       "first_field_hash": "2e51691a9cb1cb70460607d9d5ea68db31191b23a279581b781174dbda0da576",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Repro-Block::12-Early-Pregnancy-Complications-&-Bleeding-Tutorial::Class-Content"
@@ -72909,6 +74150,12 @@
       ]
     },
     {
+      "first_field_hash": "9582ca6e748fb908c145fec6c699132ee0ed2ea8f1cd6558a187ecba6b0e3d20",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::03-Fat-&-Micronutrient-Nutrition"
+      ]
+    },
+    {
       "first_field_hash": "88f92183aff9ef580c71b727a641e1289409d08447a33f17c5051907bd577011",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::14-Bone-Physiology"
@@ -73024,9 +74271,33 @@
       ]
     },
     {
+      "first_field_hash": "2193232c2a9cd5397b26f2f5ed76f7cdddc8bfbfb8f6b39743d195cf197c050b",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::16-Sexually-Transmitted-Infections"
+      ]
+    },
+    {
       "first_field_hash": "af7c40a6bcade7f4e418f34e164f019cb9ed51b250dacd2df00cb3f807781a8f",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::16-Clotting-&-Thromboembolic-Disease"
+      ]
+    },
+    {
+      "first_field_hash": "448479abb32d71d8ba50603b3d8b3bc65810de8c27a620c429ce6c7e8384c192",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::16-Sexually-Transmitted-Infections"
+      ]
+    },
+    {
+      "first_field_hash": "fcc2680c48f8471c9ff60d6020d2e400fd1fff01ae968cdf774e2363eb3afdf5",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::16-Sexually-Transmitted-Infections"
+      ]
+    },
+    {
+      "first_field_hash": "f2b2f4a4a2247a2fdc680d30e1f6acd945d8e69faf70dc461c61ed81d9029adf",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::16-Sexually-Transmitted-Infections"
       ]
     },
     {
@@ -73226,6 +74497,24 @@
       ]
     },
     {
+      "first_field_hash": "453bdf5c107530e6b932ced6364ebc5afeb785ec15b412d1d40ff4db9c504f0d",
+      "tags": [
+        "JerryShen_AnKing_Tags::POM-4::ACS-Skills::Integrated-Clinical-Cases::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "135b2fe6c4645d37b6de5441e56393c4cc1214c5951384a32d0c04b2a4646440",
+      "tags": [
+        "JerryShen_AnKing_Tags::POM-4::ACS-Skills::Integrated-Clinical-Cases"
+      ]
+    },
+    {
+      "first_field_hash": "0a83d0bd27ab9fc19ae45ac1a9e686767db6baa14eb5b552c3ffd323c26077ad",
+      "tags": [
+        "JerryShen_AnKing_Tags::POM-4::ACS-Skills::Integrated-Clinical-Cases::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "a177f7c272121652745afda014f9584fc0aee6e826bc4042962f39c5fd919b5e",
       "tags": [
         "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-2-Upper-Limb::Anatomy::Class-Content"
@@ -73358,6 +74647,18 @@
       "first_field_hash": "406afaabd2aa7be41ec79b70a967bb73bc5d54d4faad15ca3279cabf64e3413c",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::13-Obesity"
+      ]
+    },
+    {
+      "first_field_hash": "245501bd03f53009b5a03c06f0ff9561e6e4fb671e7c9e9f8ee44c55b90b87a3",
+      "tags": [
+        "JerryShen_AnKing_Tags::POM-4::ACS-Skills::Integrated-Clinical-Cases::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "d44dd772478a78b134adc21b26d2a0468524ef8582d9d2f3453382509b2e383f",
+      "tags": [
+        "JerryShen_AnKing_Tags::POM-4::ACS-Skills::Integrated-Clinical-Cases::Class-Content"
       ]
     },
     {
@@ -74552,6 +75853,12 @@
       ]
     },
     {
+      "first_field_hash": "2802c2485f09fb9d646e5fdb9d4203b1f4252820dcb1ea4037d8f7b198e34496",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::16-Sexually-Transmitted-Infections::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "56ea03e2f6e667855f8e4efb956334fb25539d2d3b5bd00591e06d46d94b4fcd",
       "tags": [
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-2::09-Misc-Antimicrobials-&-Skin-Infections"
@@ -74594,6 +75901,24 @@
       ]
     },
     {
+      "first_field_hash": "2ecb85327c492bf7e59fb2277a7c23f333bfa7ea811168680e7b77baacfb3f4f",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::16-Sexually-Transmitted-Infections"
+      ]
+    },
+    {
+      "first_field_hash": "b953840545ba7e468a7b3ba346bfacb4e2adef438621104493c8b0addc25888c",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::16-Sexually-Transmitted-Infections"
+      ]
+    },
+    {
+      "first_field_hash": "81fa6b5d3bff0cf871389ae83ca4c52877b3ff2c90b6ac9dbe3e7f6505a0d48f",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::16-Sexually-Transmitted-Infections"
+      ]
+    },
+    {
       "first_field_hash": "ed9a3a6d4231fd7050f46c1b3c444f126ac642ed9f70b6e99c73cd1ac362c8ea",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::MSK-Block::05-Lower-Limb-Pathology"
@@ -74624,6 +75949,18 @@
       ]
     },
     {
+      "first_field_hash": "b0bf50e1baf4f3ef7c5e7c17cfeca940324662e9e06b68f27e68853d7892e808",
+      "tags": [
+        "JerryShen_AnKing_Tags::POM-4::ACS-Skills::Integrated-Clinical-Cases::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "abe9cb562f65ed83f0420ea6261007a5bc28fcf7d3641cc5ea020fc3dae715f4",
+      "tags": [
+        "JerryShen_AnKing_Tags::POM-4::ACS-Skills::Integrated-Clinical-Cases::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "85bcaf41dcfe2fe61d77b27da2e22374c421706b32a04794042f3b5153f3a79c",
       "tags": [
         "JerryShen_AnKing_Tags::POM-1::Final::Clinical-Skills::Class-Content"
@@ -74645,6 +75982,12 @@
       "first_field_hash": "068ba91f45d7ae40ea3273c630c0cb3c523d8390067847364be65922c124fcda",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Repro-Block::07-Complications-of-Pregnancy::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "8413a7a9059609abb891d19c3d088d15207fd2d54fc311ef449b6c23e04857ca",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::16-Sexually-Transmitted-Infections"
       ]
     },
     {
@@ -74843,6 +76186,18 @@
       "first_field_hash": "0851738d147405532411d17bfcf008f97e7f784987cba642d7f79b30ddb37773",
       "tags": [
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-2::08-Other-Antibiotics-&-Mycobacteria"
+      ]
+    },
+    {
+      "first_field_hash": "1882593b6ab192101c400c586e7b3f3a3e5c218ad8050007e555452ab948132a",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::16-Sexually-Transmitted-Infections"
+      ]
+    },
+    {
+      "first_field_hash": "7dad7dc02cc1580b1bfedaf4c74493b1e37f7a78fa1d3f847772b3de3768a98c",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::16-Sexually-Transmitted-Infections"
       ]
     },
     {
@@ -75220,6 +76575,12 @@
       ]
     },
     {
+      "first_field_hash": "67ea422003fd08bc82b52f7da0449c6c109f5d558f335568997173fdc9471427",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::16-Sexually-Transmitted-Infections"
+      ]
+    },
+    {
       "first_field_hash": "1e256580e3f6fd9468953d85b1def74bc7d9e0d8f4d78d97d17ce0cd6f3c38d0",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::05-Stomach::Class-Content",
@@ -75285,6 +76646,12 @@
       "first_field_hash": "cc40b58bf4f8f1bc74f8a7b16364122e7f0f3b4173d1a7043864398b61b48230",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Repro-Block::10-Amenorrhea-&-Infertility::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "3e4776ee66b0b0ae65fd30e53bf4129d103252748715d66f20297263dcf9fa2c",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::16-Sexually-Transmitted-Infections"
       ]
     },
     {
@@ -75452,6 +76819,24 @@
       "first_field_hash": "aeb372039337143f8df8543afe0d6b1febe742d5cb44f1d17e75fa449e5d8a3b",
       "tags": [
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-2::10-Biologics-Ectoparasites-&-Clinical-Cases"
+      ]
+    },
+    {
+      "first_field_hash": "7d4b73c3985a86c102f63b4789dad95e988da70ed360ea606e027bc6dc954eac",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::16-Sexually-Transmitted-Infections"
+      ]
+    },
+    {
+      "first_field_hash": "b5d00ea968a009bbbf0ea7f4cfd8457c138b414262e1181a186d1c0914710e14",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::15-Ovarian-&-Fallopian-Pathology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "d124f5799ec8fc12cef205398e2619d57c1e037169c1cfcb4d831b72c59271e4",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::15-Ovarian-&-Fallopian-Pathology::Class-Content"
       ]
     },
     {
@@ -75896,6 +77281,12 @@
       ]
     },
     {
+      "first_field_hash": "ae6962552d5d45571bfe244afcbc8c5d71152351542b7f96945ef5c83035d98b",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::15-Ovarian-&-Fallopian-Pathology"
+      ]
+    },
+    {
       "first_field_hash": "32dd4c4799c84d11fd73d95bd71090e817e3bb1f2e896e6dd649b396f5a86625",
       "tags": [
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-2::09-Misc-Antimicrobials-&-Skin-Infections::Class-Content"
@@ -75987,6 +77378,12 @@
         "JerryShen_AnKing_Tags::SOM-2::Repro-Block::05-Physiology-of-Pregnancy",
         "JerryShen_AnKing_Tags::SOM-2::Repro-Block::05-Physiology-of-Pregnancy::Class-Content",
         "JerryShen_AnKing_Tags::SOM-2::Repro-Block::08-Labor-&-Birth-Complications::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "1c1f823a72cd733a168fc4852fea8bed852d798f0dba9a0d4344960681b39f0b",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::16-Sexually-Transmitted-Infections"
       ]
     },
     {
@@ -77370,6 +78767,12 @@
       ]
     },
     {
+      "first_field_hash": "b37312412372a0cbf5d0121b4dbc8088af2a36344487c2f04d22ecfa73276ac3",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::15-Ovarian-&-Fallopian-Pathology"
+      ]
+    },
+    {
       "first_field_hash": "49c7231d394732eaac4f9968f5c422aca90d33386febfff9ae913a27140a020d",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::05-Ventilation-Perfusion-Relationships::Class-Content"
@@ -77966,6 +79369,18 @@
       ]
     },
     {
+      "first_field_hash": "0e65d63e4a3a3b9a94ef668656985a6f4c0c64c16c2bb12677a953c701879606",
+      "tags": [
+        "JerryShen_AnKing_Tags::POM-4::ACS-Skills::Integrated-Clinical-Cases::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "44ca9734a274e2e68771003304e96bec73cf87936420386522d22f1eb57cf998",
+      "tags": [
+        "JerryShen_AnKing_Tags::POM-4::ACS-Skills::Integrated-Clinical-Cases::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "f7ddcf5a021a1ce52aae6a7da54ca123d59b59363fe4a808bf52f2230126c3f9",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::10-Neuroendocrinology",
@@ -78176,6 +79591,12 @@
       ]
     },
     {
+      "first_field_hash": "da4e8c09a16fba089fed7169dce916a1e719e0f2cb06dd485bce1a379c4072aa",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::16-Sexually-Transmitted-Infections"
+      ]
+    },
+    {
       "first_field_hash": "0a7bff98dba28d3c117cee7a8a08a0b17824b618fbceb65f721d1401ffad909c",
       "tags": [
         "JerryShen_AnKing_Tags::Immunology::Final::B-cells::Class-Content"
@@ -78283,6 +79704,12 @@
       "first_field_hash": "f058b2a7ae779ac62c1fea889545a3a42e792db904ba6b4fbeb183a150818dff",
       "tags": [
         "JerryShen_AnKing_Tags::POM-3::Geriatrics::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "7ff563698e2bb76b371617a7cb99f7ccb59570742a7b347652d9c99088e35da6",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::16-Sexually-Transmitted-Infections"
       ]
     },
     {
@@ -78880,6 +80307,12 @@
       ]
     },
     {
+      "first_field_hash": "f3dc82ed71726e8b644b043d3fbab0b203c67ccdaac234ddf3c1cbf9359de562",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::16-Sexually-Transmitted-Infections"
+      ]
+    },
+    {
       "first_field_hash": "86a4a54ccb6f0dfe4768a80fe7a29c8e5a151e689545a9fcc2085a8b70b50cb1",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::Tutorial-2-Thyroid-Disease"
@@ -78914,6 +80347,12 @@
       "first_field_hash": "3c6b215d2a78f6ad11f2ebadfa38492a9b65303c4780b6c0aea5786ddfee8d22",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Renal-Block::24-Genetic-Kidney-Diseases::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "a7dcefcd23fb22dcd3c3b2c6cb84d80b3596b0e47a3c6e2575accd3b57a168a5",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::16-Sexually-Transmitted-Infections"
       ]
     },
     {
@@ -79197,6 +80636,42 @@
       ]
     },
     {
+      "first_field_hash": "35142e344c020c73536741fcaec547aa9ad18cc4a7cee945b70595202ce5347a",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::15-Ovarian-&-Fallopian-Pathology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "011f25d301a7cc7cf46a325a047f9d5f018a231f02147444b2636c7710bee2f0",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::15-Ovarian-&-Fallopian-Pathology"
+      ]
+    },
+    {
+      "first_field_hash": "275f08fcf1072962dfbc712fb82d6f7a31e97682f6af9229fa844ccdb9298e89",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::15-Ovarian-&-Fallopian-Pathology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "bc773a5712fd3cfae421ce9ee0fc99419c011685993a53379dba5ba8ecc14642",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::15-Ovarian-&-Fallopian-Pathology"
+      ]
+    },
+    {
+      "first_field_hash": "6504f2b7d63133881dbd0316d702519cb66050d7678879c9088cf3a24c66428e",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::15-Ovarian-&-Fallopian-Pathology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "3d845e2c6a75306f0b823a1f3b9d0b77c58f56b423aae5af2d8a39bc3f9eb2fd",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::15-Ovarian-&-Fallopian-Pathology"
+      ]
+    },
+    {
       "first_field_hash": "4e371db63fac76f2e1b9e9feafe2fb6e4a6bae49058eb0b958f8e4d00a85101d",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::10-Hereditary-GI-Cancers"
@@ -79300,6 +80775,24 @@
       "first_field_hash": "23e058d3697105e984f61df55af6760e8101817fb2a00f163edbffa101d29c8f",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Repro-Block::08-Labor-&-Birth-Complications"
+      ]
+    },
+    {
+      "first_field_hash": "471f3b9a1b98e53ea350206283518d3b9278369d4d0c1f8a6634dc777571446f",
+      "tags": [
+        "JerryShen_AnKing_Tags::POM-4::ACS-Skills::Integrated-Clinical-Cases::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "dd93e8bede502931542fe1ed03c1ec99b524f12e9646bb98406a5a2035a8bf82",
+      "tags": [
+        "JerryShen_AnKing_Tags::POM-4::ACS-Skills::Integrated-Clinical-Cases::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "695a1ec7642759dfc285c1c7a22f65bb06ad109d1604812a8455af5e8feef8ea",
+      "tags": [
+        "JerryShen_AnKing_Tags::POM-4::ACS-Skills::Integrated-Clinical-Cases::Class-Content"
       ]
     },
     {
@@ -79541,6 +81034,18 @@
       ]
     },
     {
+      "first_field_hash": "6ab9a16b4bd5221e977769cb023242f1db850a457e81efddadc06c78aee8011c",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::16-Sexually-Transmitted-Infections"
+      ]
+    },
+    {
+      "first_field_hash": "687e685b7c4b49d3f5f1b8920aaa9b012df8752096cb661fa8a5b259bbce5020",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::16-Sexually-Transmitted-Infections"
+      ]
+    },
+    {
       "first_field_hash": "c64f249e7e8babc80e60876f76eb751c7ed3e75ecd302fa0041fb6bb693b89b2",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Repro-Block::12-Early-Pregnancy-Complications-&-Bleeding-Tutorial::Class-Content"
@@ -79550,6 +81055,12 @@
       "first_field_hash": "144cfbbe70e1a9f486fd767cf145bb8e12a13fe077a6cb36eecee428215735d9",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::19-ARDS-&-Ventilators"
+      ]
+    },
+    {
+      "first_field_hash": "c8fd2e9a83d0264e708bdec96d10f31bc860c52897d456e14f7260badd203e13",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::16-Sexually-Transmitted-Infections"
       ]
     },
     {
@@ -79675,6 +81186,24 @@
       ]
     },
     {
+      "first_field_hash": "ea239235fa0ff14e50e4df7603bf601ed554b2f365f53d61daee5504c0f5e676",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::15-Ovarian-&-Fallopian-Pathology"
+      ]
+    },
+    {
+      "first_field_hash": "65821a204cfc2c1f713a1ff87d91065ece495152dc23fb45a1f8ab61f647247f",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::16-Sexually-Transmitted-Infections"
+      ]
+    },
+    {
+      "first_field_hash": "914315112f1c3f64e63d60cae9f07ff6b39c0a13ad8ee409fe44635334b60e35",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::16-Sexually-Transmitted-Infections::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "3bceef7fd328dd6491444a701085487bfdb663fd9de84608830268f4fe4e3507",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Repro-Block::09-Vaginal-Bleeding",
@@ -79682,10 +81211,17 @@
       ]
     },
     {
+      "first_field_hash": "450756ea4281d4461f2e57487244366e2cefd7a17923065eb7727e555e0e45c0",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::15-Ovarian-&-Fallopian-Pathology::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "a77d11e059970a5904ccbc11f9d9eaf7c561aa90e81ee8442c9c12f1281990e5",
       "tags": [
         "JerryShen_AnKing_Tags::POM-4::ACS-Skills::Abdomen",
-        "JerryShen_AnKing_Tags::POM-4::ACS-Skills::Abdomen::Class-Content"
+        "JerryShen_AnKing_Tags::POM-4::ACS-Skills::Abdomen::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::15-Ovarian-&-Fallopian-Pathology::Class-Content"
       ]
     },
     {
@@ -79733,6 +81269,18 @@
       ]
     },
     {
+      "first_field_hash": "c1a1b5d5cd65ad9f21dd9cda9d8f1f2d15bd016775f0fddc65fffcbe59c11b1f",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::16-Sexually-Transmitted-Infections"
+      ]
+    },
+    {
+      "first_field_hash": "b33529d09a728223c3a41c0d158508b0c96055ee3cbea5e6887948de54b54737",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::16-Sexually-Transmitted-Infections"
+      ]
+    },
+    {
       "first_field_hash": "fc826abcecadcc55ff9b63a1e6ec0cb3e30845456eb109861c83949e53c18872",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Repro-Block::14-Sexual-Health-&-Dysfunction::Class-Content"
@@ -79759,7 +81307,8 @@
     {
       "first_field_hash": "6b6fedbe38e00a28e11ca34bf85515416b85346a16c8ea440a7703b098355496",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::07-Complications-of-Pregnancy"
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::07-Complications-of-Pregnancy",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::16-Sexually-Transmitted-Infections"
       ]
     },
     {
@@ -79784,6 +81333,12 @@
       "first_field_hash": "4b1d796e283a0e245449c39e2992eae4aec61c8edb54db1d3e703e0c96d6365f",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Repro-Block::14-Sexual-Health-&-Dysfunction::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "342329ace559fe4e75a1155748afc7f37bbb64de49dafff8eb01d68e58e211c8",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::15-Ovarian-&-Fallopian-Pathology::Class-Content"
       ]
     },
     {
@@ -79817,6 +81372,12 @@
       ]
     },
     {
+      "first_field_hash": "726c5e553775242723c46f96e6233716bd76f87811892717bc5cd80176078114",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::15-Ovarian-&-Fallopian-Pathology"
+      ]
+    },
+    {
       "first_field_hash": "af0c0d096777bca1185be8cc07f1963edbd2e17cf18145907f28b2869b09d3e9",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Repro-Block::09-Vaginal-Bleeding"
@@ -79841,6 +81402,12 @@
       ]
     },
     {
+      "first_field_hash": "35a8b19777835e1c2535cb1449d190c5b7e6b26bf2a9dcdab86be46e433a5387",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::15-Ovarian-&-Fallopian-Pathology"
+      ]
+    },
+    {
       "first_field_hash": "620f4d20140543e68e41e5b30f036553b51d5445e018874dd2048beb43af5629",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Repro-Block::10-Amenorrhea-&-Infertility"
@@ -79862,6 +81429,12 @@
       "first_field_hash": "383068af53dd975ebe56fc0ef5ef8659bcf2533af781115f70f6fd8035e47740",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Repro-Block::09-Vaginal-Bleeding"
+      ]
+    },
+    {
+      "first_field_hash": "9f1694cb03c632c34054c43ede636bf4cea8cae89d42066c4c1472aeb6f19bbc",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::15-Ovarian-&-Fallopian-Pathology"
       ]
     },
     {
@@ -80007,6 +81580,18 @@
       ]
     },
     {
+      "first_field_hash": "ba4416e1eedce6ea99f4d89877dc5c133c90d9ce180fdd48c1ef2fd7f84db63e",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::15-Ovarian-&-Fallopian-Pathology"
+      ]
+    },
+    {
+      "first_field_hash": "4012271aa68078db4f45fa9b8a517d0ec0edd22fb2e09595b72c1b759efb3f9c",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::15-Ovarian-&-Fallopian-Pathology"
+      ]
+    },
+    {
       "first_field_hash": "5316da2e02925fa0cf5c4cb54a5576a2c6ac1010bde30eeac60da9f16112a4a5",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Repro-Block::14-Sexual-Health-&-Dysfunction::Class-Content"
@@ -80034,6 +81619,12 @@
       "first_field_hash": "b5eca0bb170f34343d3a7e1b6705c927d080ef2049586701b2e34045c894f00f",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Renal-Block::15-Renal-&-Bladder-Tumor-Pathology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "f23216a446377cdf6c92c9cd97860a61086dece7a8e389421814cb3bc0cd2fb3",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::15-Ovarian-&-Fallopian-Pathology"
       ]
     },
     {
@@ -80071,6 +81662,12 @@
       "first_field_hash": "201de4fc8f766662daeefe89df72ae1f4e42ca0106fc969a862786aa8c9e7c23",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Repro-Block::09-Vaginal-Bleeding::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "fbcd741bb039e7747379b7d7d2fb9060a201275fc603f6c255d0b11f6d5b9e6c",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::15-Ovarian-&-Fallopian-Pathology::Class-Content"
       ]
     },
     {
@@ -80297,15 +81894,46 @@
       ]
     },
     {
+      "first_field_hash": "61282e5512c5fb17e89f203875ac29fc3cc357cefeb1b272515355ea22a3d8ab",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::15-Ovarian-&-Fallopian-Pathology"
+      ]
+    },
+    {
+      "first_field_hash": "2ac5e5e813c003a1b6ec44c8390b580b2eedd4d9bbca725caf6b4f3caad87772",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::15-Ovarian-&-Fallopian-Pathology"
+      ]
+    },
+    {
       "first_field_hash": "e17bf88d128b29c2c94da41f1a952a26737fd08600a666ab357166b3a432b6c5",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Repro-Block::09-Vaginal-Bleeding"
       ]
     },
     {
+      "first_field_hash": "031fe984eec8e37b8c524a0510e2dd4000b995c966bebdbaf114604203293847",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::16-Sexually-Transmitted-Infections"
+      ]
+    },
+    {
+      "first_field_hash": "a453cb848a17d7c9af88ff8babe2e8c57f23246af9d4310f4fd436f00be2aef7",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::15-Ovarian-&-Fallopian-Pathology",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::15-Ovarian-&-Fallopian-Pathology::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "92823ad91410bc8489115380d0d866bcde226fe093cf23822dd1dd038ef12bc4",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Repro-Block::09-Vaginal-Bleeding::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "141cef78bfe020e60b134b4ee4534653359f829453a5930d476c7c3915b2c5a5",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::16-Sexually-Transmitted-Infections"
       ]
     },
     {
@@ -81099,6 +82727,12 @@
       ]
     },
     {
+      "first_field_hash": "43115847f83443ec0fae404a81fc99417986580250521910c5c633b17a26d7d6",
+      "tags": [
+        "JerryShen_AnKing_Tags::POM-4::ACS-Skills::Integrated-Clinical-Cases::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "64c0898d40b59e06d24ea765a81b11c31dad04950443cf95110488d18d394167",
       "tags": [
         "JerryShen_AnKing_Tags::Neurobiology::Exam-2::Tutorial-2-Spinal-Cord::Class-Content"
@@ -81115,6 +82749,12 @@
       "first_field_hash": "364a0b26166e9001ead5ac982a155faa70a6b21f3e81dad709c40110c9b24280",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::09-Upper-GI-Infections::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "a613bf1d485579aec80529d4e98e9dfaea04288763063520618f54b3b2f7e5f3",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::16-Sexually-Transmitted-Infections"
       ]
     },
     {
@@ -81433,6 +83073,12 @@
       "first_field_hash": "e249cbea667ec8543227b2120c8051b7e01fb9a6d31fe15ba95ac10745f3479a",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::05-Ventilation-Perfusion-Relationships"
+      ]
+    },
+    {
+      "first_field_hash": "d0b1ba3307a0004ebbbcef728be943a3bff49270b253c925eaeb02508ee73a8f",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::16-Sexually-Transmitted-Infections"
       ]
     },
     {
@@ -81854,6 +83500,12 @@
       ]
     },
     {
+      "first_field_hash": "18a024cefe273f64ed14c305b82cbf1b76862c7929a201ebeac9a69235463246",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::16-Sexually-Transmitted-Infections::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "4a2d5dabed4785b0d5c85c6a48b4557ae6a3db590e79777d487e0617819cc529",
       "tags": [
         "JerryShen_AnKing_Tags::POM-3::Clinical-Reasoning::Approach-to-Cough"
@@ -81972,6 +83624,13 @@
       ]
     },
     {
+      "first_field_hash": "232c96acd439c0fb1f5930e180cac071a01aeb49e0d21207e125ce1386861785",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::16-Sexually-Transmitted-Infections",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::16-Sexually-Transmitted-Infections::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "b1d8964cbb32af3a135fdcd31836775620ad7617ae5ab6f5159228b297c81d7d",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::15-Bone-Pathophysiology::Class-Content"
@@ -82068,6 +83727,12 @@
       "first_field_hash": "fcf6f87ebfe8e96a7fd74e7bc778fdbaba4d4a96cecefe42755d1b2f26808075",
       "tags": [
         "JerryShen_AnKing_Tags::Neurobiology::Exam-3::Lec-Vestibular-System"
+      ]
+    },
+    {
+      "first_field_hash": "eccfc638fd0902725c329927ef57bbc943edcaa2839b62d7388b51cc9431a46d",
+      "tags": [
+        "JerryShen_AnKing_Tags::POM-4::ACS-Skills::Integrated-Clinical-Cases::Class-Content"
       ]
     },
     {
@@ -83444,6 +85109,12 @@
       ]
     },
     {
+      "first_field_hash": "9cff1a5d223c0575cc6a70914d4308ddf06d895e5928e525601451a0d7dc5d66",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::16-Sexually-Transmitted-Infections"
+      ]
+    },
+    {
       "first_field_hash": "5cfb4ccf8151adda28565d365e231ad8c2cf14d449e61d4b9c0f340dcbdefbd1",
       "tags": [
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-2::07-β-Lactam-Antibiotics-&-Parasites"
@@ -83561,6 +85232,18 @@
       ]
     },
     {
+      "first_field_hash": "62cda536396170d2d00d13dcb3b56c6dd70d151ee7b8d711e42c104a273ec0f9",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::15-Ovarian-&-Fallopian-Pathology"
+      ]
+    },
+    {
+      "first_field_hash": "0f2a7a1e2781380aadf3d7f90ff0ff595635a72c94711b450c9d77783ff39d45",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::15-Ovarian-&-Fallopian-Pathology"
+      ]
+    },
+    {
       "first_field_hash": "6d35e5237ebb54d284bbfff1d0ae7990fe5e2b02e8ce33dfe57ee25ef434153d",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::04-Salivary-Gland-&-Esophagus::Class-Content"
@@ -83658,6 +85341,18 @@
       ]
     },
     {
+      "first_field_hash": "a5de279b3805294d42dd1400d1ce8f07ed60df26529114e8341969d82c59ed2c",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::15-Ovarian-&-Fallopian-Pathology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "fc79408b2cacf40021cbf8a22388c2e8f6b139221293bf602673c173f8dddcf0",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::16-Sexually-Transmitted-Infections::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "493a02335a2df72c0054ae908547a1160905d24d31156898b52106d17e89861d",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Repro-Block::12-Early-Pregnancy-Complications-&-Bleeding-Tutorial::Class-Content"
@@ -83676,9 +85371,16 @@
       ]
     },
     {
+      "first_field_hash": "2f1a43f44559519b05ac435910ea3d05baef3491ee87880df1776fa014d6a6f5",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::16-Sexually-Transmitted-Infections"
+      ]
+    },
+    {
       "first_field_hash": "0ab6f1d32e6b9bd14a999e9eff0b9e29498b601ce84a4682664c12a7f1278bed",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::07-Complications-of-Pregnancy::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::07-Complications-of-Pregnancy::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::16-Sexually-Transmitted-Infections::Class-Content"
       ]
     },
     {
@@ -83722,7 +85424,8 @@
     {
       "first_field_hash": "9fe82514bc0c99653e2db5d5b0d39015ccfe7f3c053cfc2646f7f56c4972344b",
       "tags": [
-        "JerryShen_AnKing_Tags::Cancer-Biology::Final::06-Role-of-Pathology-in-Cancer-Diagnosis"
+        "JerryShen_AnKing_Tags::Cancer-Biology::Final::06-Role-of-Pathology-in-Cancer-Diagnosis",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::15-Ovarian-&-Fallopian-Pathology"
       ]
     },
     {
@@ -83764,6 +85467,12 @@
       ]
     },
     {
+      "first_field_hash": "97ccb989719f7ef94a1ccd9f3d1a70bb883ed784c0e9c73696896b092dba439f",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::16-Sexually-Transmitted-Infections"
+      ]
+    },
+    {
       "first_field_hash": "c4f5f8bad855b11c697221dc6ece29e7da2e433110cf8381d560d92b7fc24cf1",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::MSK-Block::09-Geriatric-Orthopedics::Class-Content"
@@ -83779,6 +85488,12 @@
       "first_field_hash": "f4456439015634f2a9c810620bc2a1980b14e004d8a255a5286495ba68866799",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Repro-Block::09-Vaginal-Bleeding::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "85880e4f66a2f1ec5fad725af130d0e4fbf3a0c08a43cb90ff928f1d6aa7d659",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::15-Ovarian-&-Fallopian-Pathology::Class-Content"
       ]
     },
     {
@@ -83828,6 +85543,12 @@
       "first_field_hash": "83a13de0c7bf1b6c48b2cacd48c5127f3bc34a05019e9b1ac57fe04650b01583",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Repro-Block::14-Sexual-Health-&-Dysfunction::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "3ca62ac769371922830a4c3a90c05fd9b5c56106297e511f5b4f85c834d9f726",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::15-Ovarian-&-Fallopian-Pathology"
       ]
     },
     {
@@ -83971,9 +85692,16 @@
       ]
     },
     {
+      "first_field_hash": "4da620226ecf87a34599e4f589c4a4f392de3f5b34c1e335ed15f7bc3e4613f7",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::16-Sexually-Transmitted-Infections"
+      ]
+    },
+    {
       "first_field_hash": "288af4cebf37669758cc14f627a9cb32e411e0ef679cfec252c8a4e29c01b8d1",
       "tags": [
-        "JerryShen_AnKing_Tags::Micro-Pharm::Exam-2::07-β-Lactam-Antibiotics-&-Parasites::Class-Content"
+        "JerryShen_AnKing_Tags::Micro-Pharm::Exam-2::07-β-Lactam-Antibiotics-&-Parasites::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::16-Sexually-Transmitted-Infections::Class-Content"
       ]
     },
     {
@@ -84016,6 +85744,12 @@
       "first_field_hash": "2ad1dd0066ede94b3c281e957fd6211e457ce591fd93363810098dd5044e3216",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Renal-Block::17-Urinary-Tract-Infections"
+      ]
+    },
+    {
+      "first_field_hash": "da4e8e227a67f75afdd0543608c446f8d7f1f16a973552d2d791b762244606ee",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::16-Sexually-Transmitted-Infections::Class-Content"
       ]
     },
     {
@@ -84163,6 +85897,12 @@
       "first_field_hash": "99f9754ac017606464173b872889aab46635990d87710449bf40881cd557ed4d",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Repro-Block::14-Sexual-Health-&-Dysfunction::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "0e800c42b36b5e16487d0c45ddbd398d91a285af16f8610fc8250fd982584e58",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::16-Sexually-Transmitted-Infections::Class-Content"
       ]
     },
     {
@@ -84377,6 +86117,12 @@
         "JerryShen_AnKing_Tags::POM-3::Clinical-Reasoning::Advanced-Pulmonary-Exam",
         "JerryShen_AnKing_Tags::POM-3::Clinical-Reasoning::Advanced-Pulmonary-Exam::Class-Content",
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::11-Pathology-of-Cardiomyopathy-and-Myocarditis::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "c51ea756352b9bde7e3df29b613d46c88e79b766f6ff44d875dcc9dc17550cc5",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::16-Sexually-Transmitted-Infections"
       ]
     },
     {
@@ -85063,6 +86809,12 @@
       "first_field_hash": "c5bb36e9530b99030154dde2c7b60f9d34f853d977da746a12ee2528b7e71f04",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::03-Glucose-Homeostasis-2"
+      ]
+    },
+    {
+      "first_field_hash": "d1ce4dd548fc4767e5259c47165a99f6230e5cb91886ca8ea75b81c1cfdab70b",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::15-Ovarian-&-Fallopian-Pathology::Class-Content"
       ]
     },
     {
@@ -85784,6 +87536,12 @@
       ]
     },
     {
+      "first_field_hash": "6d2ef45a0f64d9b63eacf75de5c55cca3f98f1ee7e27cf9fd6e3e2ce0808655c",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::09-Acid-Base-Control-and-Exercise-Physiology"
+      ]
+    },
+    {
       "first_field_hash": "0751db66de7693471f85b01aa2d1df81f065843e5979e6770fe0a0336acc5144",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Repro-Block::09-Vaginal-Bleeding",
@@ -85924,9 +87682,21 @@
       ]
     },
     {
+      "first_field_hash": "cdfaf1355b5eed725aa076fcf48c78dd068ad25a8b0ceca075dcd678edf0e78e",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::16-Sexually-Transmitted-Infections"
+      ]
+    },
+    {
       "first_field_hash": "60b8e2a89ea8eab2bae4f32eeb98c72424b28547a69106e4f2768762734448c3",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Renal-Block::09-Metabolic-Acidosis-&-Alkalosis"
+      ]
+    },
+    {
+      "first_field_hash": "30d94f28e9e79acbc677f064446de76864f6e30346a5c12744a48dcd424d85e9",
+      "tags": [
+        "JerryShen_AnKing_Tags::POM-4::ACS-Skills::Integrated-Clinical-Cases::Class-Content"
       ]
     },
     {
@@ -86317,6 +88087,12 @@
       ]
     },
     {
+      "first_field_hash": "9a8cba12ff274eb471a109e00b28191423d596ee33417d3ddbab33d52bf7b79a",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::16-Sexually-Transmitted-Infections"
+      ]
+    },
+    {
       "first_field_hash": "03bbccb0b3bb46a97a735aa8820247743eeb136cd1cbba0eb5bca86a3f2bdbf4",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::29-Therapies-for-IHD"
@@ -86326,6 +88102,12 @@
       "first_field_hash": "060d77f2c95d87f032ebdf6c3a65b2e1c98d45da169200f5ed7839e8d6828082",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::29-Therapies-for-IHD"
+      ]
+    },
+    {
+      "first_field_hash": "9e0237d176f156c01fba5a7c3f516d54971732cb1c2ed95332ce06afbf1ff254",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::16-Sexually-Transmitted-Infections"
       ]
     },
     {
@@ -86385,9 +88167,16 @@
       ]
     },
     {
+      "first_field_hash": "976c26bd7efb55c1a462f99dfada65a1084a7c134019a02244575092d6b000bf",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::16-Sexually-Transmitted-Infections"
+      ]
+    },
+    {
       "first_field_hash": "3a6f75c689b1382470fb6d88e015ef3bf8e5f28a3d7112e396d9c3de72f64f0f",
       "tags": [
-        "JerryShen_AnKing_Tags::Micro-Pharm::Exam-2::07-β-Lactam-Antibiotics-&-Parasites::Class-Content"
+        "JerryShen_AnKing_Tags::Micro-Pharm::Exam-2::07-β-Lactam-Antibiotics-&-Parasites::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::16-Sexually-Transmitted-Infections::Class-Content"
       ]
     },
     {
@@ -86474,6 +88263,12 @@
       "first_field_hash": "ea64f6626434fa8d3272baf790396b6a0e3c3fd303a83da99a19da2c8e624e9f",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::23-Pleural-Disease"
+      ]
+    },
+    {
+      "first_field_hash": "cb5dcbb980a5dd5c79208d53554cb2106cc21933cc0aa03f307ee5e35580443f",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::16-Sexually-Transmitted-Infections"
       ]
     },
     {
@@ -86616,6 +88411,13 @@
       ]
     },
     {
+      "first_field_hash": "58ef31824b8978dc78b6c0468909613fc91551caa8673bdb8650cbbf7719b488",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::15-Ovarian-&-Fallopian-Pathology",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::15-Ovarian-&-Fallopian-Pathology::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "618158cc1ac5700209d2375de14611a1eacdc99fded913a257809a0e2ba39e5a",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Repro-Block::12-Early-Pregnancy-Complications-&-Bleeding-Tutorial::Class-Content"
@@ -86656,6 +88458,12 @@
       "first_field_hash": "c1344cc5be8b29efcf3df90b83bb61c1a53434f1f55c686e7f516d1040b56e5e",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::13-Obesity"
+      ]
+    },
+    {
+      "first_field_hash": "8e322f860697ab371f812b59b7f006b4295751064416da762043f052d64f06b7",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::15-Ovarian-&-Fallopian-Pathology"
       ]
     },
     {
@@ -86783,6 +88591,12 @@
       ]
     },
     {
+      "first_field_hash": "329b2bf180685fc3cb25d0a84812e4a92dbd8ca9fb45bd95e5219e018a9bbba2",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::15-Ovarian-&-Fallopian-Pathology"
+      ]
+    },
+    {
       "first_field_hash": "7892dec3dbc626eb73dbe5f00332693d1f86670ba5f9a30850c13e066fee7ed2",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Repro-Block::02-Hormone-Replacement-&-Suppression-Therapy",
@@ -86824,6 +88638,12 @@
       "first_field_hash": "1a51493b24d89099a35227c89c940605adf87980997ff5dadb91f5395d92d8ea",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Repro-Block::13-HPV-&-Cervical-Cancer"
+      ]
+    },
+    {
+      "first_field_hash": "8819fac4bd1033a0c78fc326fdb929f24d2f09183654edea9378d9eff0ffaf30",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::16-Sexually-Transmitted-Infections"
       ]
     },
     {
@@ -86967,6 +88787,12 @@
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::29-Therapies-for-IHD",
         "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::05-Treatment-of-Hyperlipidemia"
+      ]
+    },
+    {
+      "first_field_hash": "e1c555043b84f77e0d7101fc0feb80bc90b8b7ffbf4bab9a6734b83d6c3edac4",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::15-Ovarian-&-Fallopian-Pathology"
       ]
     },
     {
@@ -87633,6 +89459,12 @@
       ]
     },
     {
+      "first_field_hash": "08d22745cdd51a0a33ccfcfa7da84d7ae245b81fa8fe3f4eab020c6cbea049a6",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::16-Sexually-Transmitted-Infections::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "4dbe8ec89ccba420c17989630db2579909ff064c5152459b634a2f365d62ec22",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::05-Treatment-of-Hyperlipidemia"
@@ -87832,6 +89664,12 @@
       ]
     },
     {
+      "first_field_hash": "1554c2ed59c01de196cb6918b0a2289b7fe4ef2ab65e598e2a39d2c1e95b30d8",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::15-Ovarian-&-Fallopian-Pathology"
+      ]
+    },
+    {
       "first_field_hash": "def95f4eb824968491a6dc5881c00d06b6f21661ed9f7939d0202c96983b087b",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Repro-Block::13-HPV-&-Cervical-Cancer",
@@ -87922,6 +89760,12 @@
       ]
     },
     {
+      "first_field_hash": "0902559f2c2c62206129aec7c77f5bbc21d3dc16f52b5140f711e600aad0bc5f",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::16-Sexually-Transmitted-Infections"
+      ]
+    },
+    {
       "first_field_hash": "4078d6f42f94520d680a9f7a94151af855263b5cfb0547e9599dff2fca5d4006",
       "tags": [
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-1::03-C.diff-&-Pseudomonas",
@@ -88006,6 +89850,12 @@
       ]
     },
     {
+      "first_field_hash": "24e3edd90e50cf0b4f447ef1cc55fc8311cc2a8c90b7e0f65f0eafc39b38c378",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::03-Fat-&-Micronutrient-Nutrition"
+      ]
+    },
+    {
       "first_field_hash": "628b9d30ac16c7703392a3ed68e9891361c2402993bb4417f8a1e3ad4408d370",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::06-Small-Intestine"
@@ -88061,6 +89911,12 @@
       ]
     },
     {
+      "first_field_hash": "77fde0de51119e5aa240676628b377a911a289aa7b50789697214c342bca1c99",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::03-Fat-&-Micronutrient-Nutrition"
+      ]
+    },
+    {
       "first_field_hash": "0ee2c88bd120aafb31caad840070445682b2c139b7cd7b67155f5c1c322a12c1",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::07-Type-2-Diabetes::Class-Content"
@@ -88107,6 +89963,12 @@
       "first_field_hash": "46a4857408afd765a86a85c72b1816c09067db8ebe3b1f9319e7d41e2884b8ce",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::04-Salivary-Gland-&-Esophagus"
+      ]
+    },
+    {
+      "first_field_hash": "0942087c4f7d5a081d94eee87f3d37e7e0b2398e7b7a708b98486255bfb86ba4",
+      "tags": [
+        "JerryShen_AnKing_Tags::POM-4::ACS-Skills::Integrated-Clinical-Cases::Class-Content"
       ]
     },
     {
@@ -88195,6 +90057,13 @@
       "first_field_hash": "d049ba88e6dafb6edca511e2fd39267057550e40cfb4d61509b3a0b9981329f1",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::04-Salivary-Gland-&-Esophagus"
+      ]
+    },
+    {
+      "first_field_hash": "0c04f05ae4d8bbd7cdc92191add75e2322140a910a7214c587d5bcb5e7a6bb30",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::16-Sexually-Transmitted-Infections",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::16-Sexually-Transmitted-Infections::Class-Content"
       ]
     },
     {
@@ -88289,6 +90158,18 @@
       ]
     },
     {
+      "first_field_hash": "20a55e917b8de73cc215bc21744d7973feb58d826461ae1f6f7bbb01d15990be",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::16-Sexually-Transmitted-Infections::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "97a0aff04967fc6d7daf7d0833a06d9746df7098160a393a62c89ee5c25d3a9e",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::16-Sexually-Transmitted-Infections"
+      ]
+    },
+    {
       "first_field_hash": "843d7bb426ba7959a57a8b1db81dde064d675480772396bec3e0c201061e84b7",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Renal-Block::20-Nephritic-Syndrome::Class-Content"
@@ -88315,7 +90196,8 @@
     {
       "first_field_hash": "f1cc295c31e5c27032f61e894a811360356e48e45775748d161b6aead1b9bae1",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-1::MSK-Block::02-Bone-&-Joint-Infections"
+        "JerryShen_AnKing_Tags::SOM-1::MSK-Block::02-Bone-&-Joint-Infections",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::16-Sexually-Transmitted-Infections"
       ]
     },
     {
@@ -88329,6 +90211,19 @@
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Renal-Block::15-Renal-&-Bladder-Tumor-Pathology",
         "JerryShen_AnKing_Tags::SOM-2::Renal-Block::15-Renal-&-Bladder-Tumor-Pathology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "83623c083fe6932ad490fd823b71bd8943bb89f101f60fc1900f509a2c5f9bde",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::07-Complications-of-Pregnancy",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::16-Sexually-Transmitted-Infections"
+      ]
+    },
+    {
+      "first_field_hash": "f7447c8755b6ba9d1913e85d86b90ec33cebf3885a30ea84ad6a40003d4dba60",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::16-Sexually-Transmitted-Infections"
       ]
     },
     {
@@ -88417,6 +90312,12 @@
       ]
     },
     {
+      "first_field_hash": "ffd7d71dbdf7db46b750d2eb49e96e25eb36aeee65c18156c8647def1967da6e",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::15-Ovarian-&-Fallopian-Pathology"
+      ]
+    },
+    {
       "first_field_hash": "036fa0398e4cb0e7a0aef17dc20fbcaa0a55e0dac505d954a31f883a49fbfa72",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Repro-Block::12-Early-Pregnancy-Complications-&-Bleeding-Tutorial::Class-Content"
@@ -88445,6 +90346,12 @@
       "first_field_hash": "01f349a8ebd6c1e4fde8be68cd8db91e5dc72cf7fb0b188e5ff6ffddfdc90b9a",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Renal-Block::19-Nephrotic-Syndrome"
+      ]
+    },
+    {
+      "first_field_hash": "1e32fe8d3638a24e507daa8b1d5e50a52b272ebda5bc66340370c4b07641ce08",
+      "tags": [
+        "JerryShen_AnKing_Tags::POM-4::ACS-Skills::Integrated-Clinical-Cases::Class-Content"
       ]
     },
     {
@@ -88519,6 +90426,12 @@
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Renal-Block::13-Urinalysis",
         "JerryShen_AnKing_Tags::SOM-2::Renal-Block::13-Urinalysis::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "06c0888d125d28c89dfd71a951779f6f8060ea93bc4926b9fc2bbe25b320e83e",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::15-Ovarian-&-Fallopian-Pathology"
       ]
     },
     {
@@ -88764,6 +90677,12 @@
       "first_field_hash": "17558fee841c96aa6fa000606acc1bf3b532590cd8921d558996195abb580c36",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::MSK-Block::03-Bone-&-Soft-Tissue-Neoplasms::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "6eed65dbcfdc884d4b62ec4689a6a5b6a9c02c424cd051e4c9eb70e18475b44a",
+      "tags": [
+        "JerryShen_AnKing_Tags::POM-4::ACS-Skills::Integrated-Clinical-Cases::Class-Content"
       ]
     },
     {
@@ -90424,6 +92343,24 @@
       ]
     },
     {
+      "first_field_hash": "ae12f5eccbe311c25a470a60db07e258f521b9c43a85db03e4b64357c6390810",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::15-Ovarian-&-Fallopian-Pathology"
+      ]
+    },
+    {
+      "first_field_hash": "0aa2d56deaa8e788149654858d5c1eb57ed9da26668b3dba93338ef99882c8ea",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::15-Ovarian-&-Fallopian-Pathology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "df5a2e5ebcd27aaf93b3bd4b60fce42737ea35fcc33d37c75216ab5415aaef1a",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::15-Ovarian-&-Fallopian-Pathology"
+      ]
+    },
+    {
       "first_field_hash": "7dca446ce65285dd67d691d12aeaa432927445c63e2733d8788239328f7f5fd8",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::30-Hypertension",
@@ -90440,6 +92377,12 @@
       "first_field_hash": "1e50f0bfb7cf34865e65d32535d1601c445289325ca4031ced2ab8bb9755a54b",
       "tags": [
         "JerryShen_AnKing_Tags::POM-4::Clinical-Reasoning::Shortness-of-Breath-(Hyperthyroidism)"
+      ]
+    },
+    {
+      "first_field_hash": "28d2ac12e587e390111d9c80986e02935767ccd734296192e8718b7297c7ccbf",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::15-Ovarian-&-Fallopian-Pathology::Class-Content"
       ]
     },
     {
@@ -90624,6 +92567,12 @@
       ]
     },
     {
+      "first_field_hash": "ebf614b359064f9ce9637e8ba88e915b1768ec8e34836840101cdd75dbb3b41f",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::16-Sexually-Transmitted-Infections"
+      ]
+    },
+    {
       "first_field_hash": "533aee918525cbe8b86e63c4d969d8cff005a8939662339c756e54ef7e47c409",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Repro-Block::13-HPV-&-Cervical-Cancer"
@@ -90794,6 +92743,12 @@
       ]
     },
     {
+      "first_field_hash": "fa79085221e0f438f9e4e903fc6262f562bec6d5c3dec33b03fd10b788cb5c52",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::16-Sexually-Transmitted-Infections"
+      ]
+    },
+    {
       "first_field_hash": "e60c1baa2b5b96a110bcec3a0342afde77e995a3483dd0d9af4115223e5e7f35",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Repro-Block::07-Complications-of-Pregnancy"
@@ -90803,13 +92758,21 @@
       "first_field_hash": "a18b59903bab9252d51847add5e561d52754841f67d0fb83514a80e13ede870a",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Repro-Block::07-Complications-of-Pregnancy",
-        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::07-Complications-of-Pregnancy::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::07-Complications-of-Pregnancy::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::16-Sexually-Transmitted-Infections"
       ]
     },
     {
       "first_field_hash": "d90976db7d24f2c8e0b2028178e410f60657175cf97beb74a6eee9f86faa0b8f",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::07-Complications-of-Pregnancy"
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::07-Complications-of-Pregnancy",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::16-Sexually-Transmitted-Infections"
+      ]
+    },
+    {
+      "first_field_hash": "f1069253a221afaa5a5b73b97f6fd49b203443320b508cbe7f0819d4da1d62fd",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::16-Sexually-Transmitted-Infections"
       ]
     },
     {
@@ -90947,6 +92910,18 @@
       ]
     },
     {
+      "first_field_hash": "66ab5fdd4afec496fc09bce754d922247fd388a0883d079e1b16e632a8e26c46",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::15-Ovarian-&-Fallopian-Pathology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "523725ce25de2214d56ef323ce29ddddcc993b8cf9bb24d763ad486834e4a5c5",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::15-Ovarian-&-Fallopian-Pathology::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "b0c8fb4bf8019337ea3d26e987c76411500addf083876effb25cd22ef8cc9bbc",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Repro-Block::09-Vaginal-Bleeding::Class-Content"
@@ -90995,6 +92970,12 @@
       ]
     },
     {
+      "first_field_hash": "310804c5f2eee47a6c82964355397e64b10c1b2b3824303d68892524c357eceb",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::16-Sexually-Transmitted-Infections::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "5d1e1592a23b569712da9cc3229162d72dc95cb7bfdb0fdf57f6df3bf2321092",
       "tags": [
         "JerryShen_AnKing_Tags::Neurobiology::Exam-3::Tutorial-5-Sensory-Motor-Pathways"
@@ -91017,6 +92998,12 @@
       "tags": [
         "JerryShen_AnKing_Tags::Molecular-Foundations-&-Genetics::02-Genetics::08.2-Dysmorphology::Class-Content",
         "JerryShen_AnKing_Tags::SOM-2::Renal-Block::24-Genetic-Kidney-Diseases"
+      ]
+    },
+    {
+      "first_field_hash": "f7c24c3bf4335d36113f5f45fd53b2b7cb304cb6730d4cf97ffb78621d55163f",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::16-Sexually-Transmitted-Infections::Class-Content"
       ]
     },
     {
@@ -91152,6 +93139,12 @@
       "first_field_hash": "9a9bd9afb6a48a3fc681b5f5d3b8789fee7f61bfafc65a26c0dd5f32e2185c32",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::08-Large-Intestine::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "bd41d99fa7e41809fae634875aa5f2de645d3d0d5be66923eb5defd152645114",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::05-Stomach"
       ]
     },
     {
@@ -91338,6 +93331,24 @@
       ]
     },
     {
+      "first_field_hash": "76035debf2456ca597899cee3ee773a80aa086c64978032422315893e96b92c6",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::16-Sexually-Transmitted-Infections"
+      ]
+    },
+    {
+      "first_field_hash": "99486fb4bb029fa841a9d99844a25c532244e6462c6396b59f5fd1408ae27975",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::16-Sexually-Transmitted-Infections"
+      ]
+    },
+    {
+      "first_field_hash": "628f395a429a15b37ee526b7b142ceeec85625d8d0ba016e462645d76425881c",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::16-Sexually-Transmitted-Infections"
+      ]
+    },
+    {
       "first_field_hash": "3c8afb8ce3b7e49e4b1a49da93c24e5dade621ce92baf824509804293ac252eb",
       "tags": [
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-2::08-Other-Antibiotics-&-Mycobacteria::Class-Content"
@@ -91469,6 +93480,12 @@
       "first_field_hash": "6398baeec4d928f02ada68f1935f0f87586430eb22797a11857b316b372d7de4",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::09-Endocrinology-of-Growth"
+      ]
+    },
+    {
+      "first_field_hash": "25d41cdd79da8ca8f718566b6c3628fff7056f5257321e41029aa3c3768cc819",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::16-Sexually-Transmitted-Infections"
       ]
     },
     {
