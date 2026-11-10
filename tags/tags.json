@@ -1,14 +1,14 @@
 {
   "schema_version": 1,
   "author": "JerryShen",
-  "description": "halloween spooky cards",
-  "created": "2026-10-31T04:29:20.085328+00:00",
-  "updated": "2026-10-31T04:29:20.085328+00:00",
+  "description": "liver",
+  "created": "2026-11-10T01:03:57.658323+00:00",
+  "updated": "2026-11-10T01:03:57.658323+00:00",
   "tag_prefix": "JerryShen_AnKing_Tags",
   "tag_hierarchy": [
     "JerryShen_AnKing_Tags",
     "JerryShen_AnKing_Tags::(✏️)-Tagged-by-Jerry-Shen",
-    "JerryShen_AnKing_Tags::(🛠️)-Last-Updated-102626",
+    "JerryShen_AnKing_Tags::(🛠️)-Last-Updated-110626",
     "JerryShen_AnKing_Tags::(🧋)-buymeacoffee.com/ger1atric",
     "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology",
     "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-1-Thorax",
@@ -292,6 +292,8 @@
     "JerryShen_AnKing_Tags::POM-4::Clinical-Reasoning::Approach-to-Palpitations::Class-Content",
     "JerryShen_AnKing_Tags::POM-4::Clinical-Reasoning::Approach-to-Polyuria",
     "JerryShen_AnKing_Tags::POM-4::Clinical-Reasoning::Approach-to-Polyuria::Class-Content",
+    "JerryShen_AnKing_Tags::POM-4::Clinical-Reasoning::Approach-to-Reproductive-Health",
+    "JerryShen_AnKing_Tags::POM-4::Clinical-Reasoning::Approach-to-Reproductive-Health::Class-Content",
     "JerryShen_AnKing_Tags::POM-4::Clinical-Reasoning::Class-Content",
     "JerryShen_AnKing_Tags::POM-4::Clinical-Reasoning::Shortness-of-Breath-(Hyperthyroidism)",
     "JerryShen_AnKing_Tags::POM-4::Clinical-Reasoning::Shortness-of-Breath-(Hyperthyroidism)::Class-Content",
@@ -542,6 +544,12 @@
     "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::12-Non-Neoplastic-Intestinal-Pathology::Class-Content",
     "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::13-Neoplastic-Intestinal-Pathology",
     "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::13-Neoplastic-Intestinal-Pathology::Class-Content",
+    "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::14-Gastroenteritis",
+    "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::14-Gastroenteritis::Class-Content",
+    "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::15-Liver-Anatomy-&-Physiology",
+    "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::15-Liver-Anatomy-&-Physiology::Class-Content",
+    "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::16-Biliary-Physiology",
+    "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::16-Biliary-Physiology::Class-Content",
     "JerryShen_AnKing_Tags::SOM-2::Renal-Block",
     "JerryShen_AnKing_Tags::SOM-2::Renal-Block::01-Introduction-to-Renal-Physiology",
     "JerryShen_AnKing_Tags::SOM-2::Renal-Block::01-Introduction-to-Renal-Physiology::Class-Content",
@@ -625,7 +633,9 @@
     "JerryShen_AnKing_Tags::SOM-2::Repro-Block::15-Ovarian-&-Fallopian-Pathology",
     "JerryShen_AnKing_Tags::SOM-2::Repro-Block::15-Ovarian-&-Fallopian-Pathology::Class-Content",
     "JerryShen_AnKing_Tags::SOM-2::Repro-Block::16-Sexually-Transmitted-Infections",
-    "JerryShen_AnKing_Tags::SOM-2::Repro-Block::16-Sexually-Transmitted-Infections::Class-Content"
+    "JerryShen_AnKing_Tags::SOM-2::Repro-Block::16-Sexually-Transmitted-Infections::Class-Content",
+    "JerryShen_AnKing_Tags::SOM-2::Repro-Block::17-Contraception",
+    "JerryShen_AnKing_Tags::SOM-2::Repro-Block::17-Contraception::Class-Content"
   ],
   "changelog": [
     {
@@ -1014,6 +1024,11 @@
       "date": "2026-10-31T04:29:20.085328+00:00",
       "message": "halloween spooky cards",
       "note_count": 430
+    },
+    {
+      "date": "2026-11-10T01:03:57.658323+00:00",
+      "message": "liver",
+      "note_count": 456
     }
   ],
   "notes": [
@@ -1761,7 +1776,8 @@
     {
       "first_field_hash": "7b0935fd24fcf68b48e0edec6ca200c764adb7acf025ddac77d2164a74bf9f15",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::09-Vaginal-Bleeding"
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::09-Vaginal-Bleeding",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::17-Contraception"
       ]
     },
     {
@@ -1786,7 +1802,8 @@
     {
       "first_field_hash": "009aa68efc9ef3d523030641e73d7a68810813ba24e76496481f14634dc31e40",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::09-Vaginal-Bleeding::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::09-Vaginal-Bleeding::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::17-Contraception::Class-Content"
       ]
     },
     {
@@ -7020,7 +7037,7 @@
       ]
     },
     {
-      "first_field_hash": "831cb53606db0c4490452c09caf58bf36043dd943488539298795c35a6b1538d",
+      "first_field_hash": "b2fa86aa37c2a5c6991c27beacc862224e7dedc3b6afffb90c905eadca6413bf",
       "tags": [
         "JerryShen_AnKing_Tags::POM-3::Clinical-Reasoning::Advanced-CV-Exam",
         "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::08-Insulin-&-Antidiabetic-Pharmacology"
@@ -7659,6 +7676,12 @@
       ]
     },
     {
+      "first_field_hash": "c6e2fcf4a10e84d0b4c8ab2c6f9fd2bd037d4268f9f2c18906e2a2dc7d4f77a9",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::17-Contraception"
+      ]
+    },
+    {
       "first_field_hash": "c645a6425e690d0ae5ddb564b3af28811e6beaa3106af4f00d2ffc5739505b7b",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Repro-Block::03-HPO-Axis-&-Menstrual-Cycle",
@@ -7676,6 +7699,12 @@
       "first_field_hash": "c005c37493e228f8913e021aecff218d70691697a5d33dd7584b778069212803",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Repro-Block::03-HPO-Axis-&-Menstrual-Cycle"
+      ]
+    },
+    {
+      "first_field_hash": "fad1fb812d4071e9780319aebe246b519f0aa11e89c64d3b7ed4dc389a3e27c9",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::17-Contraception"
       ]
     },
     {
@@ -7803,13 +7832,20 @@
     {
       "first_field_hash": "0ce46370ec1a0fbd7b7b43128656d634bd0d04a528116b0545fc7a2d887b2244",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::03-HPO-Axis-&-Menstrual-Cycle"
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::03-HPO-Axis-&-Menstrual-Cycle",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::17-Contraception::Class-Content"
       ]
     },
     {
       "first_field_hash": "63cdaaf0633250200d2c3b82b7bba49afa376c55df1cfa89aebf6c68e8d81f3f",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Repro-Block::03-HPO-Axis-&-Menstrual-Cycle::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "3e66cfc539bc6fb6cb3b40aaa07f392228c2b97f68e13971c8f124f65e00609a",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::10-Amenorrhea-&-Infertility"
       ]
     },
     {
@@ -7893,6 +7929,12 @@
       ]
     },
     {
+      "first_field_hash": "e30c14ee76c4c9805d5cd5031954e19d78ab60fb636dfd9ede85e58abd4fdf02",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::10-Amenorrhea-&-Infertility"
+      ]
+    },
+    {
       "first_field_hash": "8e98e0d4de125cedccdb78f82d539453a80f26b717511fbb4dd911d8fd76a895",
       "tags": [
         "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-1-Thorax::Embryology::Class-Content"
@@ -7959,7 +8001,8 @@
     {
       "first_field_hash": "9bcc4a0325de1d3ddf60f9c40c549ac1061fd0fad202cb2061043d91a8f31c3d",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::04-Steroid-Hormone-Pharmacology::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::04-Steroid-Hormone-Pharmacology::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::17-Contraception::Class-Content"
       ]
     },
     {
@@ -9133,6 +9176,12 @@
       ]
     },
     {
+      "first_field_hash": "660c6f975851a8f8d9c93ec61a95207a417ff3d226badd9091a4975a63571475",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::15-Ovarian-&-Fallopian-Pathology"
+      ]
+    },
+    {
       "first_field_hash": "76300b32491b0a47d7d19af409c6bca101489b3083e63ef2af611ac5fdfefb60",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::05-Stomach::Class-Content"
@@ -9935,9 +9984,21 @@
       ]
     },
     {
+      "first_field_hash": "4f0d34a0039a20179b7f1a8e35d695180b47b21088bbb8c69e01126555ea3875",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::13-HPV-&-Cervical-Cancer"
+      ]
+    },
+    {
       "first_field_hash": "9061343a7406bccb2cd427f2bc4e7e7243e15653c056052b693345e2ab621d2f",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Repro-Block::09-Vaginal-Bleeding::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "0d388d11608deb9566ba9ccdf0b6574327b4536b813912467e2106c64fae1893",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::15-Ovarian-&-Fallopian-Pathology"
       ]
     },
     {
@@ -15675,7 +15736,7 @@
       ]
     },
     {
-      "first_field_hash": "ff080dc6994a47322b100b6c1bd2ccbc2e9b8216943a4f08b41c11ddddc435bc",
+      "first_field_hash": "1400e1e69af5f3445a6da44599821a3b0552d4b9bdb92f2f885bf6c3ef1b8608",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::26-Pathology-of-Atherosclerosis-&-IHD::Class-Content"
       ]
@@ -19112,6 +19173,18 @@
       "first_field_hash": "d8121779ddc1bbb4b9d00dfbbe6d6d0e24efd6b5fe325581f8093470e7f7c619",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::05-Treatment-of-Hyperlipidemia"
+      ]
+    },
+    {
+      "first_field_hash": "51a62a910282955f96474afb314c16b0bc92d3d84eb427dfed5bd5cdc6e391f2",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::16-Biliary-Physiology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "35c3b09a52b5707643fdf06266ad6311cefe848a62b1662b28adae39435e132c",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::16-Biliary-Physiology::Class-Content"
       ]
     },
     {
@@ -23211,9 +23284,46 @@
       ]
     },
     {
+      "first_field_hash": "19919e609e1b5c0e0aa9529888dcf0f78b9fc4f0ece442db5c2550f85217530d",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::14-Gastroenteritis"
+      ]
+    },
+    {
+      "first_field_hash": "6cecfb00d8217d9801575cd5f4a347916c0c26879380bd1fe00f07242d38e930",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::14-Gastroenteritis",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::14-Gastroenteritis::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "42121a0c4f83cc618f16ad74609646c49a147d89de473fce9f73681dd7c8319a",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::14-Gastroenteritis"
+      ]
+    },
+    {
+      "first_field_hash": "332368f671422886daa7ee14f17968d457fd1ae6bcb530cc037d0a1c73f5b648",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::14-Gastroenteritis"
+      ]
+    },
+    {
       "first_field_hash": "efd0a7ed7e198e1131eabb443917373418012107a66d1761f1d63bd46d42e924",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::29-Therapies-for-IHD::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "40d5310792fd5b0b13074a03a9299b345b5e587c3169dcb116ee6ddf99d6d66d",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::15-Liver-Anatomy-&-Physiology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "42bd9402cec4ed9c4606fb195564d8ba797760772799a3f2029e4e3a8ab2a904",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::15-Liver-Anatomy-&-Physiology::Class-Content"
       ]
     },
     {
@@ -23275,6 +23385,12 @@
       "first_field_hash": "cc55702821a377c7a53f41af751611bdeea7b0be693e1790eec63a13970997d2",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::03-Fat-&-Micronutrient-Nutrition::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "7017774038ff6a3d03fc487c9721e8281c7263910827aff4d323bda427d89ab1",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::16-Biliary-Physiology::Class-Content"
       ]
     },
     {
@@ -25772,7 +25888,8 @@
       "first_field_hash": "13e6e7eb420d0eb3b3d18dcb22c408ccd172af2161c3863ba9d20bdbf0e31409",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::18-Cystic-Fibrosis::Class-Content",
-        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::07-Pancreas::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::07-Pancreas::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::16-Biliary-Physiology::Class-Content"
       ]
     },
     {
@@ -27650,6 +27767,12 @@
       ]
     },
     {
+      "first_field_hash": "da9c7b1d52526327fdba898fa680a0ee0161386528711059852715504435e0ad",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::05-Water-Balance::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "9605ab322b2d6617317d2e76230bdf820f0bfb106150fbaf68212468ce23cbbc",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Renal-Block::05-Water-Balance::Class-Content"
@@ -27733,6 +27856,12 @@
       "first_field_hash": "0440ff08587403d4debb682c96a20ccc209febef681785a13466ff8388a495ef",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Renal-Block::05-Water-Balance::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "7b5d2b58228c064e84fdfd1d455fa9589392a376c64271a3ff40f901e4747409",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::05-Water-Balance"
       ]
     },
     {
@@ -32378,7 +32507,8 @@
       "tags": [
         "JerryShen_AnKing_Tags::Biochemistry::Final::03-Lipid-Metabolism",
         "JerryShen_AnKing_Tags::Biochemistry::Final::03-Lipid-Metabolism::Class-Content",
-        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::04-Lipoproteins::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::04-Lipoproteins::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::15-Liver-Anatomy-&-Physiology"
       ]
     },
     {
@@ -33235,6 +33365,12 @@
       "first_field_hash": "4b8e13b3510335738e89a7945c33ffa55ac5b115e88f50ad20a88f303fb6d265",
       "tags": [
         "JerryShen_AnKing_Tags::Biochemistry::Final::05-Nitrogen-Metabolism::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "e44e4e99425da8918c55fccfa576978faefb0eb0f7e9690cd536029b3d6f70da",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::15-Liver-Anatomy-&-Physiology"
       ]
     },
     {
@@ -34994,8 +35130,21 @@
       ]
     },
     {
+      "first_field_hash": "357159cd7495e109ded4e5799fc997cdd39e65c33233ace0a60f443a9e1ac37f",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::03-Fat-&-Micronutrient-Nutrition"
+      ]
+    },
+    {
       "first_field_hash": "ae04dc83a478696bb26db5f1d60e60b74af130a95a9709d1db479c0f9d555099",
       "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::03-Fat-&-Micronutrient-Nutrition::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "1925c4d8585b5eb5a2249d4ecdde86a05db380df4ddc16086770ad7a48841a3e",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::03-Fat-&-Micronutrient-Nutrition",
         "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::03-Fat-&-Micronutrient-Nutrition::Class-Content"
       ]
     },
@@ -35088,19 +35237,71 @@
     {
       "first_field_hash": "395e2a1c0cb075bfd52e21c9ec2ffb348e59cec6495dd7ba4824ef9a6e7d4e1e",
       "tags": [
-        "JerryShen_AnKing_Tags::Biochemistry::Final::02-Oxidative-Phosphorylation"
+        "JerryShen_AnKing_Tags::Biochemistry::Final::02-Oxidative-Phosphorylation",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::15-Liver-Anatomy-&-Physiology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "6461477c6277c2949b67ad3b7f2c0f4b909663c51a0480f6ff81de4768ff3844",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::15-Liver-Anatomy-&-Physiology"
+      ]
+    },
+    {
+      "first_field_hash": "a355a6cbd2fb161b187386c333517659603f48346bb1768ffa8febf2b840319d",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::15-Liver-Anatomy-&-Physiology",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::15-Liver-Anatomy-&-Physiology::Class-Content"
       ]
     },
     {
       "first_field_hash": "a5ec7ffb1edcb1281a6898346f193e785a5af333fa3fe6b5b1e6d201e8cce669",
       "tags": [
-        "JerryShen_AnKing_Tags::Biochemistry::Final::03-Lipid-Metabolism::Class-Content"
+        "JerryShen_AnKing_Tags::Biochemistry::Final::03-Lipid-Metabolism::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::15-Liver-Anatomy-&-Physiology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "1aa4e19bb69a5f2326db4365e519960849916d828009de905d1bdb3f08a3d18a",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::15-Liver-Anatomy-&-Physiology",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::15-Liver-Anatomy-&-Physiology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "85ebbe657de2188320c80718de39acf2a40554daa208ad6b5b86ad01a46805d4",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::15-Liver-Anatomy-&-Physiology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "13a5341ae5e028d24fb8cb97a5490be0f902ed6f2bb7260e7b2043ea2bda6105",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::15-Liver-Anatomy-&-Physiology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "9d248245df6a03c070336ee925d8ff368f65d01f2a071df92f3d8891583f15a8",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::15-Liver-Anatomy-&-Physiology"
+      ]
+    },
+    {
+      "first_field_hash": "18b7c875f22c928a19ef22197ca22c61cded263855e3450c4ad543507b91cd86",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::15-Liver-Anatomy-&-Physiology"
       ]
     },
     {
       "first_field_hash": "5ea1b83319a39f0ab66fff25d2fccbcaa4501dbb11b368f56ca61efd0f6e6044",
       "tags": [
         "JerryShen_AnKing_Tags::Biochemistry::Final::03-Lipid-Metabolism::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "4410a1a102fc7719693b7d9c174764b00fbe0b3ea5c91da32dc9185ccd65bcab",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::15-Liver-Anatomy-&-Physiology"
       ]
     },
     {
@@ -36088,7 +36289,7 @@
       "first_field_hash": "2a031d845d81d8519144d4178eb3dd043b6971de8122ecb98beca67bf6153b2a",
       "tags": [
         "JerryShen_AnKing_Tags::(✏️)-Tagged-by-Jerry-Shen",
-        "JerryShen_AnKing_Tags::(🛠️)-Last-Updated-102626",
+        "JerryShen_AnKing_Tags::(🛠️)-Last-Updated-110626",
         "JerryShen_AnKing_Tags::(🧋)-buymeacoffee.com/ger1atric",
         "JerryShen_AnKing_Tags::Biochemistry::Final::02-Oxidative-Phosphorylation::Class-Content"
       ]
@@ -36254,6 +36455,12 @@
       "first_field_hash": "5392451089f071849b15daf07192c85ad35cbd5bd60753d228ab1b1c399588f6",
       "tags": [
         "JerryShen_AnKing_Tags::Biochemistry::Final::06-Nucleic-Acid-Metabolism::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::03-Fat-&-Micronutrient-Nutrition::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "621a8988ec4e7a8cf43bdb2838d646cafcd7d662386f6d351206210517097996",
+      "tags": [
         "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::03-Fat-&-Micronutrient-Nutrition::Class-Content"
       ]
     },
@@ -42308,7 +42515,8 @@
     {
       "first_field_hash": "9a980aa06b2bc5c16c013881bda2dbae7dd44b3c81ae902031935c40d440c437",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::02-GI-Hormones::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::02-GI-Hormones::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::16-Biliary-Physiology::Class-Content"
       ]
     },
     {
@@ -43079,40 +43287,90 @@
       ]
     },
     {
+      "first_field_hash": "7aacc26d58154cf36eb0b9ce762f9520e5bb48d587b339b54069fc2d82534f27",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::16-Biliary-Physiology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "eafaeed04db42a183535c52aaabe365c34fe88bf6421a5eba9f09e0c96e99915",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::16-Biliary-Physiology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "d0a749ab5da1949a4bdfc773b03bb502ef82f2355eecc3e319450cd9d2ced133",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::16-Biliary-Physiology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "933e2cd602dc4facd4fa42183974dd849fbcfda6f19025b40996f8d9523db182",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::16-Biliary-Physiology::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "bbb59844cb14c5feadbd22fda0b0c42cf71a7d84af4847083c3dc1f175a7a172",
       "tags": [
-        "JerryShen_AnKing_Tags::Biochemistry::Final::03-Lipid-Metabolism::Class-Content"
+        "JerryShen_AnKing_Tags::Biochemistry::Final::03-Lipid-Metabolism::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::16-Biliary-Physiology::Class-Content"
       ]
     },
     {
       "first_field_hash": "1089a7ac375a2d1b6619fff58a0820dcb1997bedd975f42ac57d703a8e171f32",
       "tags": [
-        "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-3-Abdomen::Anatomy::Class-Content"
+        "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-3-Abdomen::Anatomy::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::15-Liver-Anatomy-&-Physiology::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::16-Biliary-Physiology::Class-Content"
       ]
     },
     {
       "first_field_hash": "41930977343936d8d444179498056367191a17fc640303dd158f3cee60624502",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::02-GI-Hormones::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::02-GI-Hormones::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::16-Biliary-Physiology::Class-Content"
       ]
     },
     {
       "first_field_hash": "b3ef6f61392c78e8ea6fca67f4b360d04420197650f1672c0ecf09ace2b9b992",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::06-Small-Intestine::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::06-Small-Intestine::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::16-Biliary-Physiology::Class-Content"
       ]
     },
     {
       "first_field_hash": "783317293934dc5180d4dc55ce406ea3c2a2d7888aab93e3d5081265f631d886",
       "tags": [
         "JerryShen_AnKing_Tags::Biochemistry::Final::03-Lipid-Metabolism",
-        "JerryShen_AnKing_Tags::Biochemistry::Final::03-Lipid-Metabolism::Class-Content"
+        "JerryShen_AnKing_Tags::Biochemistry::Final::03-Lipid-Metabolism::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::16-Biliary-Physiology",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::16-Biliary-Physiology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "d3cb033557d4908ebff721aadd8806ac2f0b5e7ffa4f1f4ac4cd8ba86c73fc3c",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::16-Biliary-Physiology::Class-Content"
       ]
     },
     {
       "first_field_hash": "f0c63cf7904959daa4171c8c4df9893a2be792e4874274a180fa34a9752d8463",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::06-Small-Intestine::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::06-Small-Intestine::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::16-Biliary-Physiology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "a7c80a28391bd70d88f3997a34e70a28fe7bcf4671136a14cc954481ef754a0e",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::16-Biliary-Physiology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "3350942171a0a36ebfcfe17d19b51504188facc534073e97224a722c66b8d9d7",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::16-Biliary-Physiology::Class-Content"
       ]
     },
     {
@@ -43270,14 +43528,16 @@
     {
       "first_field_hash": "bca3f06e647d6278b9dc5dcfea291c66fab9e978481ce7694f0787c1968e70df",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::03-Fat-&-Micronutrient-Nutrition::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::03-Fat-&-Micronutrient-Nutrition::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::16-Biliary-Physiology::Class-Content"
       ]
     },
     {
       "first_field_hash": "197ef6c9b7733151862f75be36d3f00ab12170d663581f29929f30cd8b60916d",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::03-Fat-&-Micronutrient-Nutrition::Class-Content",
-        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::06-Small-Intestine::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::06-Small-Intestine::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::16-Biliary-Physiology::Class-Content"
       ]
     },
     {
@@ -46141,10 +46401,52 @@
       ]
     },
     {
+      "first_field_hash": "7ff7e39a47b02f4b35a3fee4a3a0e5bf7d1a61d257dddbb9fcbdf3a61929667c",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::15-Liver-Anatomy-&-Physiology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "edf021edd25907c0cbb098615167a190bbcfccaea66a90894cde27dcba4943c0",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::16-Biliary-Physiology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "40d83af79252aa9a3e9d106ebc37013a39a811735d0c2efb4a86c455933d5395",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::16-Biliary-Physiology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "08f6a4d165ea6a0319b83d8d9c407a77ad17bf0160983bf8c7b69ecc6812f975",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::16-Biliary-Physiology"
+      ]
+    },
+    {
+      "first_field_hash": "dd38321a0c9c8fdac02ebdb458d5f73942bdc4656e4c8c72ff6f36b4f68ee8b3",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::16-Biliary-Physiology"
+      ]
+    },
+    {
+      "first_field_hash": "8979dfadbd9318452dca714b10047695b12cf02b8bba89da389f3bcf4094566e",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::16-Biliary-Physiology::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "8809129e68cb5e0beea90bb7b4bb7059346d3ad4230eef800b2df50155947c2d",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::05-Treatment-of-Hyperlipidemia",
         "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::05-Treatment-of-Hyperlipidemia::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "3681f458cf124b9167dc970196edcb735bc70bb68479712fcc6e52e62d1e9a99",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::16-Biliary-Physiology"
       ]
     },
     {
@@ -46154,9 +46456,33 @@
       ]
     },
     {
+      "first_field_hash": "eaf664e6fb461dcd1a0a68f2b9acb1543baa4c0c0a1f28eefb58c64da66e3d38",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::16-Biliary-Physiology"
+      ]
+    },
+    {
+      "first_field_hash": "9182759f2ead188bde877e6b00cc93465b6fd30fe009bc797d7b316e20724c1a",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::16-Biliary-Physiology"
+      ]
+    },
+    {
+      "first_field_hash": "2b91ac0b99ffdd4d4dfe7076f76c0dd786cc273218268316cb1bb66a9490fa59",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::16-Biliary-Physiology"
+      ]
+    },
+    {
       "first_field_hash": "f278dd476fe64a42ab905360642cfce9c92986f11ac18082c3489d52f2d39659",
       "tags": [
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-2::07-β-Lactam-Antibiotics-&-Parasites"
+      ]
+    },
+    {
+      "first_field_hash": "a66d6e87411f78528d2511769d48279130969157461763fcb4c55300567de335",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::16-Biliary-Physiology"
       ]
     },
     {
@@ -46166,15 +46492,82 @@
       ]
     },
     {
+      "first_field_hash": "78cdd0e8130c5183e2730b204c880cb668de6bc9d29ad68d901fc6cbbecef8ad",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::16-Biliary-Physiology::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "636a4358595a25cbbca610e364c7aaab9e289201bfd47a0f3bc75e02c45353ca",
       "tags": [
-        "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-3-Abdomen::Anatomy"
+        "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-3-Abdomen::Anatomy",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::16-Biliary-Physiology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "da61bbd5bd2d2072da8eeec09f74f419bdf9213f488166a7abec04a99512f963",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::16-Biliary-Physiology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "4491f08ac667ea4e28e88f6d4cbd1471772b015b33809e4322a4b6b364a87754",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::16-Biliary-Physiology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "3b1679bf9dd70b41fa549b3709f181a1fda478a85ca3f5b62b5ac58f8e3bece8",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::16-Biliary-Physiology"
+      ]
+    },
+    {
+      "first_field_hash": "2103a77d0ee6bf675c3d3ca6ccda0ac04124c47ab6c8cefcfdf8f57f0f53c041",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::16-Biliary-Physiology"
+      ]
+    },
+    {
+      "first_field_hash": "bbcc2a87cde11feeebf07d4377f7bdf22b227d71895b120210272e469b98cd07",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::16-Biliary-Physiology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "ac4df473111c99b7bf74255e9b9815a7d0f5f62f11f9d6f39732c0f9035971d1",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::16-Biliary-Physiology"
+      ]
+    },
+    {
+      "first_field_hash": "10b9503063bb18cceb9c3edfcd275f4b0809e9f44e2b344001cc76158b68854d",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::16-Biliary-Physiology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "4285a3b69511eb80be7f3e6462b0158106904688a3b8b189bce09b2289dbfebd",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::16-Biliary-Physiology"
+      ]
+    },
+    {
+      "first_field_hash": "f896f1e14b3edf10830ab58b958a6bf70f9a6f4dbb8103c30e4639366c618265",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::16-Biliary-Physiology::Class-Content"
       ]
     },
     {
       "first_field_hash": "7a2cc5d16ed981412232fd7cf4d5d4e71108a11f9a179af16e0c349f742a42a7",
       "tags": [
         "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-3-Abdomen::Anatomy"
+      ]
+    },
+    {
+      "first_field_hash": "1c96586c2d2aae095464fbdcfd2faf9011dbd3d02d05b50473dd59536c0019d4",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::16-Biliary-Physiology"
       ]
     },
     {
@@ -46842,7 +47235,7 @@
       ]
     },
     {
-      "first_field_hash": "d23cdd13106fd1ca7033a126d99a4bf067651c97b7054a28316442c679c3488b",
+      "first_field_hash": "703ad72abacd0f8dfcf50e98fe5114b3c011ebafd82d7366014a173cedb8b009",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::MSK-Block::06-Backache"
       ]
@@ -47824,6 +48217,12 @@
       "first_field_hash": "68b949a866f912221d06d2c87b3b58d79d4aafb45430e677f59fd57de1e60f8d",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::03-Ventilation-and-Diffusion::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "ad661e39fd761f84669a4fcfed2e758cb6f42b25041f1f290054b5e523fc2437",
+      "tags": [
+        "JerryShen_AnKing_Tags::Micro-Pharm::Exam-1::01-Intro-to-Pharmacodynamics"
       ]
     },
     {
@@ -48866,6 +49265,193 @@
       ]
     },
     {
+      "first_field_hash": "a76aa08a1eefb4e8fd8458ea2da032ee0978ec2710248a2b457d3e5f71086612",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::15-Liver-Anatomy-&-Physiology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "4399ac52d5d39060ef3cfb894b590068cd6b6c0c44dbda364146ad2023bbd84b",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::15-Liver-Anatomy-&-Physiology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "422d305ffb40f23c61721c849678910a61b3c619a21e8e724e657bc231ff9224",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::15-Liver-Anatomy-&-Physiology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "87f033257dcfac62ab75d56989a371d4309dffc95cde7ed36fee065b130bd0c3",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::15-Liver-Anatomy-&-Physiology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "4d5b5ef424bda104697ea066e917691ff46c2c3f6fbc75c1041760f44f183ebc",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::15-Liver-Anatomy-&-Physiology"
+      ]
+    },
+    {
+      "first_field_hash": "060bfe0733dfa3ea64b23640ac86277422d6f138d37e55ffb2a1860bd587b4ac",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::15-Liver-Anatomy-&-Physiology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "70610b5f9a254ada6490558927450cebeaa924b8bb8537f8de9670f94d94ab3b",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::15-Liver-Anatomy-&-Physiology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "24f4bca65e90d23e95d7a4e59bc29989c276ac84eea3e00672072fdcb8b911a2",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::15-Liver-Anatomy-&-Physiology",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::15-Liver-Anatomy-&-Physiology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "4a894525fcafe8df3a3d63697194c8d913295761e4a495566774e69f740fca1a",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::15-Liver-Anatomy-&-Physiology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "e503c6228c9abb83708415f2db59f4743373a0f88ae2cc304cd61cef9fb28b9a",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::15-Liver-Anatomy-&-Physiology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "3df7a32512a28e933fcc0ca586012ba7622be0155daacfc4838c8d99b2eb0660",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::15-Liver-Anatomy-&-Physiology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "32be5d60288e2db7759c097b91d6aa6061dd5e3d9272b69477667a747a931283",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::15-Liver-Anatomy-&-Physiology",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::15-Liver-Anatomy-&-Physiology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "e72da65df8198ce13d93cb4a671041bc6033ae32873070972812dbd594fb59e7",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::15-Liver-Anatomy-&-Physiology",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::15-Liver-Anatomy-&-Physiology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "6e53b643fdf5dff0e0806b07cc7967989b709890c81203230b812e76fe723b1c",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::15-Liver-Anatomy-&-Physiology",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::15-Liver-Anatomy-&-Physiology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "0c45caf0723ff54d1cb197b95d0791fef901613a449828785bc09586cfa10840",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::15-Liver-Anatomy-&-Physiology",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::15-Liver-Anatomy-&-Physiology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "41212670c1d06852130cf1c316f0338790a5dda09dc2eacd2e6738866d0d73d9",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::15-Liver-Anatomy-&-Physiology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "ec5d93375dcefbe2bc32104d1facfc7ad61a83cb14608b6f079317e73aba64cf",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::15-Liver-Anatomy-&-Physiology",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::15-Liver-Anatomy-&-Physiology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "e44cc97ffb15341d1cf45c38759ca43d3eb97489c9c8a72c613e7f97dad9f81c",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::15-Liver-Anatomy-&-Physiology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "d9592c9d852dd7c1c6599cad200121a2443497160df7df26feda544b12c1082f",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::15-Liver-Anatomy-&-Physiology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "788ad22f26a2b537056f65166d57eb8e9e3de7031107ed91ef8b1c6e3d21e8b7",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::15-Liver-Anatomy-&-Physiology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "f62ce62bd45cdf0b8026c93d3a867d3c25fcbd11f993afee793f05a33abb65bc",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::15-Liver-Anatomy-&-Physiology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "b71b62d65cd4cb27ef8c03924007dc3269445c89dbdedd1c090d8e6425a9e73e",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::15-Liver-Anatomy-&-Physiology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "96521040c2e8c782793cc42b7798322f0f6996b7e9a880298953e1d13a6d3002",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::15-Liver-Anatomy-&-Physiology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "902dc796beba95252ffd592bfd70e42fedd0ff26434914018a549fc8efca5546",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::15-Liver-Anatomy-&-Physiology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "dd86b08dd2af3e70ff38b61a6f2e3479ca516541975811e4ffb84366660831de",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::15-Liver-Anatomy-&-Physiology",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::15-Liver-Anatomy-&-Physiology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "45d69c0e8b6d2f9aee3e25532a5606d9e1c560402b001102b2874b7a216ccb78",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::15-Liver-Anatomy-&-Physiology"
+      ]
+    },
+    {
+      "first_field_hash": "315e5df0f9b5ae877fca2b24b0d63837f4655d4f6e5db2dd3f181e46e1aefd28",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::15-Liver-Anatomy-&-Physiology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "ab8cdc63c0cf7f0ddef2a4ab91aac9d3d38c194c373a0dab1af99338613dc93a",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::15-Liver-Anatomy-&-Physiology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "40d94efc309972d248777b9dc3d72bbaf056ea19ee95159a9800336206eefb08",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::15-Liver-Anatomy-&-Physiology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "a029c485b7d47cfa60f07eb8754360f525c5a2e012de2d8d78f2c926fc7bc3c3",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::15-Liver-Anatomy-&-Physiology"
+      ]
+    },
+    {
       "first_field_hash": "f18d2a580e8bc2962533f63a631ccd5300fc5188f37827dd2de22ac70fa26d4d",
       "tags": [
         "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-3-Abdomen::Anatomy::Class-Content",
@@ -48903,6 +49489,12 @@
       "first_field_hash": "8e6abfbb728e198f8f4ef273145a5f2791ec50c05a12a69d501175d184dcc90f",
       "tags": [
         "JerryShen_AnKing_Tags::POM-4::ACS-Skills::Abdomen::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "6fbe44d6e807490ae4e2d19b766abb12ccee8442bc812803cbe54634428c77bc",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::16-Biliary-Physiology"
       ]
     },
     {
@@ -48944,6 +49536,12 @@
       ]
     },
     {
+      "first_field_hash": "b6b90d257d5ee636a6787d8b119a59c1539114a2e1a36ca66c4e751cc6714b1e",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::15-Liver-Anatomy-&-Physiology"
+      ]
+    },
+    {
       "first_field_hash": "c3331daf7509c7298c1261741bc3d87ebe6059f4f6ad741b9b7bc549175bb923",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::13-Obesity::Class-Content"
@@ -48975,9 +49573,27 @@
       ]
     },
     {
+      "first_field_hash": "95c2622876d7c8f1ed6a2481a3b68366c1fcbd025ba2daf5685d6c69e8674cca",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::15-Liver-Anatomy-&-Physiology"
+      ]
+    },
+    {
+      "first_field_hash": "16d0fffb9de967c97f45ae6c3429369bf1c692841273841e5b15fd332a8f07f3",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::15-Liver-Anatomy-&-Physiology::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "1bc7299ecf6451a0a60c9feeb4526ba2c8be043467dfc628369acc475f992810",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::Tutorial-1-Bone::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "2696127bd09f3ae7408fe900f5a997fb968262616fe5bd04d4ba50bc7298a139",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::15-Liver-Anatomy-&-Physiology::Class-Content"
       ]
     },
     {
@@ -49470,7 +50086,27 @@
     {
       "first_field_hash": "7485919467a826b73b524e026a0e68f1a1630caac9779fb65c9813244b60979c",
       "tags": [
-        "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-3-Abdomen::Anatomy::Class-Content"
+        "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-3-Abdomen::Anatomy::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::15-Liver-Anatomy-&-Physiology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "23f8bb13673f3224ce5110c55cdb6eaa6b663bcc2ddc8b0915513d3b4d1a9af1",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::15-Liver-Anatomy-&-Physiology",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::15-Liver-Anatomy-&-Physiology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "946707147542dc93cee0161ce85eefa732e474bed12a1ca99f65f7b87e615e85",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::15-Liver-Anatomy-&-Physiology"
+      ]
+    },
+    {
+      "first_field_hash": "50212e189450e25ec1a84cdf2b082527003f19c29d35c99d84c9ce1932a65007",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::15-Liver-Anatomy-&-Physiology"
       ]
     },
     {
@@ -49480,27 +50116,115 @@
       ]
     },
     {
+      "first_field_hash": "f3be9565ebddef4aea0726d6d8297c558b79c89d8b381de5a1408ca2e6cf6346",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::15-Liver-Anatomy-&-Physiology"
+      ]
+    },
+    {
+      "first_field_hash": "6c60a001c9dd48fd077a412f42358ff2cbeeef4b2aa08508adb6f36ab1a74173",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::15-Liver-Anatomy-&-Physiology",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::15-Liver-Anatomy-&-Physiology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "c99c5aaa8d1a2b4fe470ae5bcf4890636118da0346358e3ff313f8f5ca772740",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::15-Liver-Anatomy-&-Physiology",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::15-Liver-Anatomy-&-Physiology::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "c86cd31051994bb1596dfb1072ad57eb47e00283e9c6890945025eff9780cd9c",
       "tags": [
-        "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-3-Abdomen::Histology::Class-Content"
+        "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-3-Abdomen::Histology::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::15-Liver-Anatomy-&-Physiology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "1ecb670dd745e57ad80fdb299000651c8370dcc6978f67067f8a7061bfd2c85b",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::15-Liver-Anatomy-&-Physiology",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::15-Liver-Anatomy-&-Physiology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "d4c41d6a5d14a945dec8edf7de62db633871d5b40a8a1c07f655bef6836fe9eb",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::15-Liver-Anatomy-&-Physiology",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::15-Liver-Anatomy-&-Physiology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "a7b29eed42db37d27089ab56d3ec51cea0f095cca05301f98913c430bbc9accd",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::15-Liver-Anatomy-&-Physiology",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::15-Liver-Anatomy-&-Physiology::Class-Content"
       ]
     },
     {
       "first_field_hash": "8bcf8610464c5a4ab95ebabba1ba2c4c8f68c1b73f8ed5a5556cd3eaf8dc1dc6",
       "tags": [
-        "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-3-Abdomen::Histology"
+        "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-3-Abdomen::Histology",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::15-Liver-Anatomy-&-Physiology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "1aff68343975cb51bc6ce81675732d3cd8ad8c9c605c11c5300c61441a57b498",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::15-Liver-Anatomy-&-Physiology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "64d4e62c592f703e401d66b994e74e62d680e2a3b866be7a2b1213c6a95ef699",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::15-Liver-Anatomy-&-Physiology",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::15-Liver-Anatomy-&-Physiology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "ded015a997c0cc7bacbf7501956e68f799bc547ad3bda27a5bcb1f5309040c3a",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::15-Liver-Anatomy-&-Physiology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "624101d57af357100909d7c4af648ecc22b807832564087fbe5b9ed266e34d8a",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::16-Biliary-Physiology"
+      ]
+    },
+    {
+      "first_field_hash": "2d69bdf52b7e38ca3a3e4500f3b552e7c043c9b8a66dd83f13fddf7a835feb1f",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::16-Biliary-Physiology"
       ]
     },
     {
       "first_field_hash": "93cd4ed1b51858af52b40a3128283ae6e13357c6196dbb4ebce56b492f7711cf",
       "tags": [
-        "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-3-Abdomen::Histology::Class-Content"
+        "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-3-Abdomen::Histology::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::16-Biliary-Physiology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "d9709997e4444f17fd5269f47711c8b0fa293f65448e54e5407b3f3c6c1faf71",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::16-Biliary-Physiology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "61d6882e9c41f422b44864b2355b0993ab89fc09f07ce80d1cfa27f096fd2a8c",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::16-Biliary-Physiology"
       ]
     },
     {
       "first_field_hash": "145452357c6834eb682decabd64401ee1d2db305ce44293de2d3fad75c7b3cb4",
       "tags": [
-        "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-3-Abdomen::Anatomy::Class-Content"
+        "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-3-Abdomen::Anatomy::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::15-Liver-Anatomy-&-Physiology::Class-Content"
       ]
     },
     {
@@ -51856,7 +52580,7 @@
       ]
     },
     {
-      "first_field_hash": "add006ab6fe341229878c2fa0031efd09e44759390f497fde47b595d099e3d5d",
+      "first_field_hash": "63bfbe7d2f970584b8bc7f0e753f30acbb969a1c7169e3b1be1a285c1938fbce",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::15-Bone-Pathophysiology"
       ]
@@ -53155,6 +53879,43 @@
       ]
     },
     {
+      "first_field_hash": "5a0d092b01e56588fa942b2ad523477651fc88f87633108e62d4c9d9543a45f8",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::16-Biliary-Physiology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "392e9f0786661902e91daba3ace7ae5660427da1a240c41cb1e371c914f3df68",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::16-Biliary-Physiology",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::16-Biliary-Physiology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "7f4768461d6306ac4f0bed20eceb91a7bab38828eb5c9e8739a2d6df3b4c137f",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::16-Biliary-Physiology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "51c5a7976f5b97b2f75c578e6f7ad557246d64e499dc002c4848b28007d5fc53",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::16-Biliary-Physiology"
+      ]
+    },
+    {
+      "first_field_hash": "e5eda522b35d22f8e950d0ed2dfd76f6b1b05d3381d293f8a12dfaf64a3eb2f9",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::16-Biliary-Physiology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "5b646515a0f0a06a1ebfdf8ddef7829f0855ce2d35d78a89de35119bc80da5e4",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::16-Biliary-Physiology::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "c13dee00a80948aeab37d7cecfa4b7ab61ca3ab9173e5993252ecfb008f19d3e",
       "tags": [
         "JerryShen_AnKing_Tags::Cancer-Biology::Final::Lab-02-Cancer-Tumor-Board::Class-Content",
@@ -53935,7 +54696,8 @@
       "first_field_hash": "75f3ca8c20ab120fbca983372f499c1085d587c28b6a8b059525af0628920e8a",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Repro-Block::04-Steroid-Hormone-Pharmacology",
-        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::04-Steroid-Hormone-Pharmacology::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::04-Steroid-Hormone-Pharmacology::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::17-Contraception::Class-Content"
       ]
     },
     {
@@ -53947,7 +54709,8 @@
     {
       "first_field_hash": "d036e9cc79123bd27e3b3a5f694e1b79bd4eb7674e40a021e86894ec69aa167c",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::04-Steroid-Hormone-Pharmacology"
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::04-Steroid-Hormone-Pharmacology",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::17-Contraception::Class-Content"
       ]
     },
     {
@@ -54004,6 +54767,12 @@
       ]
     },
     {
+      "first_field_hash": "03dbfe9ae7ef6b8f2815f2ee06fbca4bab0be240b38691007a76b3fc10a60c38",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::17-Contraception::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "0d5d223803ae9a9df23ca7513ffbb9b402c922bf6c773e1ae3d5773b542382a9",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Repro-Block::09-Vaginal-Bleeding"
@@ -54016,6 +54785,12 @@
       ]
     },
     {
+      "first_field_hash": "f1eaf01da8f1d098b4997925ac2313d50ada16b59bd5e4a1abd82f6b6fd8736e",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::17-Contraception::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "ce99e459d8d05f81f0fa471e294318745f2f2c7d1ad1bd58a56110df96fddd10",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Repro-Block::04-Steroid-Hormone-Pharmacology::Class-Content"
@@ -54024,7 +54799,32 @@
     {
       "first_field_hash": "f087964947c30237df5b80275d73845b61613ca34e262ede75f948ed7fe2ee12",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::04-Steroid-Hormone-Pharmacology::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::04-Steroid-Hormone-Pharmacology::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::17-Contraception::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "3299032f07d5bc7799e01f7a639eb1a657c991ad733b020036061537da0fcaac",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::17-Contraception::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "3f09dbe8f993f74b4918c83bf4be9cea0ba1e843e0b23ffd05447fd446a9d691",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::17-Contraception::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "13688e9e93638184bcfd5fb7066a96d7e369c8a878dae323b18ca84cb4ba0dd8",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::17-Contraception::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "913fce4c3e055d54ad2399a91449ad4470e94db8793501f7269b7a5e4638aa59",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::17-Contraception"
       ]
     },
     {
@@ -54519,6 +55319,24 @@
       ]
     },
     {
+      "first_field_hash": "ee5cdd848b58b146d4dd23ab0526c625579acff48c692a8b8d4f52d8fe32e002",
+      "tags": [
+        "JerryShen_AnKing_Tags::Micro-Pharm::Exam-1::03-C.diff-&-Pseudomonas"
+      ]
+    },
+    {
+      "first_field_hash": "8f5181338f51d949d2d6a0171650485cc6e499f813479088727624fca4da41ef",
+      "tags": [
+        "JerryShen_AnKing_Tags::Micro-Pharm::Exam-1::03-C.diff-&-Pseudomonas"
+      ]
+    },
+    {
+      "first_field_hash": "cd9371b0bf722836e9ad7cda592a9be8053ef5760ff928b465e094e2333d7af0",
+      "tags": [
+        "JerryShen_AnKing_Tags::Micro-Pharm::Exam-1::03-C.diff-&-Pseudomonas"
+      ]
+    },
+    {
       "first_field_hash": "f3f3be2494561b85bb0ec32245fb1252fbb11d5e9ad9a7bdd2be1049cc444cb8",
       "tags": [
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-1::03-C.diff-&-Pseudomonas::Class-Content"
@@ -54582,25 +55400,29 @@
     {
       "first_field_hash": "7521dfc4cc594df750d3606ae5f2bc2d31f35f3f26235c5aa849d805ba5ec062",
       "tags": [
-        "JerryShen_AnKing_Tags::Micro-Pharm::Exam-1::03-C.diff-&-Pseudomonas::Class-Content"
+        "JerryShen_AnKing_Tags::Micro-Pharm::Exam-1::03-C.diff-&-Pseudomonas::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::16-Biliary-Physiology::Class-Content"
       ]
     },
     {
       "first_field_hash": "1bbc2b9963dc104626af8005de04f47caf1c45161c33c6315f410c2be4449b4e",
       "tags": [
-        "JerryShen_AnKing_Tags::Micro-Pharm::Exam-1::03-C.diff-&-Pseudomonas"
+        "JerryShen_AnKing_Tags::Micro-Pharm::Exam-1::03-C.diff-&-Pseudomonas",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::16-Biliary-Physiology::Class-Content"
       ]
     },
     {
       "first_field_hash": "fc60c141778df23db426f293f9073e938eb6e12c04257367c636973897f0f6c6",
       "tags": [
-        "JerryShen_AnKing_Tags::Micro-Pharm::Exam-1::03-C.diff-&-Pseudomonas::Class-Content"
+        "JerryShen_AnKing_Tags::Micro-Pharm::Exam-1::03-C.diff-&-Pseudomonas::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::16-Biliary-Physiology::Class-Content"
       ]
     },
     {
       "first_field_hash": "9c320bd7d481aea8018f60ab70b52c239f6df046eafef3b7f6d10c31b5334932",
       "tags": [
-        "JerryShen_AnKing_Tags::Micro-Pharm::Exam-1::03-C.diff-&-Pseudomonas"
+        "JerryShen_AnKing_Tags::Micro-Pharm::Exam-1::03-C.diff-&-Pseudomonas",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::16-Biliary-Physiology::Class-Content"
       ]
     },
     {
@@ -55190,6 +56012,12 @@
       ]
     },
     {
+      "first_field_hash": "04ca1832f7a5001a9be630677c3a5966a6fc435b195962a6be5861241eef5c08",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::16-Biliary-Physiology::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "5c745565f04b2f73422477708e7d0b1b0704d7690a7ddf36f7a059535f224665",
       "tags": [
         "JerryShen_AnKing_Tags::Neurobiology::Exam-2::Tutorial-1-Cerebrum::Class-Content"
@@ -55232,6 +56060,18 @@
       ]
     },
     {
+      "first_field_hash": "91a91c77a90f4a3883c91daf20f83dac5bce2c30c652fcd6142ef613e2226527",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::15-Liver-Anatomy-&-Physiology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "1832a98a43c420f24245d00cb26039fcf60af49210de91acfdc06f31efbdf5af",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::15-Liver-Anatomy-&-Physiology::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "207048991786a72c6cba1f121b976635311b5a7042edb7a928bc2e8ee9ebefa4",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::02-GI-Hormones"
@@ -55247,6 +56087,18 @@
       "first_field_hash": "35e6e76821d4d0c91788d636e680a8a2628d671da69121e71763e0e21af2e97f",
       "tags": [
         "JerryShen_AnKing_Tags::Molecular-Foundations-&-Genetics::02-Genetics::08.4-Cancer-Genetics"
+      ]
+    },
+    {
+      "first_field_hash": "2e7c366d39340009daad41f27e6605fea94e91a917ee5a052e2466c245b56c08",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::16-Biliary-Physiology"
+      ]
+    },
+    {
+      "first_field_hash": "7e4d593f1be4e4b08688f558e28191ed08f8e33be799cff78796dcd4ee235e60",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::15-Liver-Anatomy-&-Physiology::Class-Content"
       ]
     },
     {
@@ -58666,6 +59518,289 @@
       ]
     },
     {
+      "first_field_hash": "0b48d3cec2cfb5bb1c946c3de271bf4619af44fd9fe92c4e1d0573bd6074c65b",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::14-Gastroenteritis"
+      ]
+    },
+    {
+      "first_field_hash": "db90e33e31821a7d8521e740d1c1d50c6903082fc1313732fd3a620eaed871fa",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::14-Gastroenteritis"
+      ]
+    },
+    {
+      "first_field_hash": "f713a6095c17f8dfb59d91d364cc7055bcb42283ac47b054393c0702b5b6fa75",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::14-Gastroenteritis"
+      ]
+    },
+    {
+      "first_field_hash": "b25b0bc2a4197983dc5254e458b26ebbd232732af48a77eb50b8cda9985a7a24",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::14-Gastroenteritis"
+      ]
+    },
+    {
+      "first_field_hash": "019aef455c150f6a7ee157b26ba9e87a2883fd34b9c058e8af7c638a0339fece",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::14-Gastroenteritis"
+      ]
+    },
+    {
+      "first_field_hash": "cae17969c44af3cc544bf54df1ab93ae229ac2ce12b0c0e91f47af41fb748d33",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::14-Gastroenteritis"
+      ]
+    },
+    {
+      "first_field_hash": "8ff70b1c1c0146ce4c8612645c5f1fa326870d210eafc697af1ef28517b028df",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::14-Gastroenteritis"
+      ]
+    },
+    {
+      "first_field_hash": "526f00a6cb67ae441aaa51143d641e3c47bc7893e3d3d92c703f4b34cd18853b",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::14-Gastroenteritis"
+      ]
+    },
+    {
+      "first_field_hash": "58c6f62cb15a3d2bef21de5e3c1693f2a4eba45e33aa3f364f40a41842845c7a",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::14-Gastroenteritis"
+      ]
+    },
+    {
+      "first_field_hash": "30f701df97508982988c20579a9d27636f1fb678936cb2f1f8e7ddd9ffd4919a",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::14-Gastroenteritis"
+      ]
+    },
+    {
+      "first_field_hash": "34352b5b3d3a0353a362a22aadd1a7ed0b49dd32983871c65531cbb2d887251d",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::14-Gastroenteritis"
+      ]
+    },
+    {
+      "first_field_hash": "82fce9670427e25d6fea7b9ef0aea27a067d5af1d055329293204a3c16bda7cb",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::14-Gastroenteritis"
+      ]
+    },
+    {
+      "first_field_hash": "56d82b9b4127ad88fc0652e079417510072a02ed459016f4ebf412d958dcf5d3",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::14-Gastroenteritis"
+      ]
+    },
+    {
+      "first_field_hash": "16c05c0beadb7c08c292334b45ef8b7819b59ef91d9ab95577ea619a4ceb241a",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::14-Gastroenteritis"
+      ]
+    },
+    {
+      "first_field_hash": "3ae4b4dcbae5baa07d3d238da378c31f4780a6f2c6ae718a69a9ffc6f4ad4f76",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::14-Gastroenteritis"
+      ]
+    },
+    {
+      "first_field_hash": "a8a4ae455292c88288fb9eb0e7c0cefc29941a2d27d0806432da8a204aa51a8e",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::14-Gastroenteritis"
+      ]
+    },
+    {
+      "first_field_hash": "392fdfa770f9c0d9119d8a40947e6fe7c1da9259212cdf83478e7560cb7a22b5",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::14-Gastroenteritis"
+      ]
+    },
+    {
+      "first_field_hash": "cc8872aff75556dae4f3e05335daeae291757d650c9899593d36ec1866b011e7",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::14-Gastroenteritis"
+      ]
+    },
+    {
+      "first_field_hash": "d115ce73202fb1cb70bbb0cf40be44e26c8562fc1a538604cf429c1e60ed610f",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::14-Gastroenteritis"
+      ]
+    },
+    {
+      "first_field_hash": "f94794b5bbd8801cbb2ed63d19e901247dc7194d607ac4f7850e235922d8fc36",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::14-Gastroenteritis"
+      ]
+    },
+    {
+      "first_field_hash": "bd4ca85c6c8e9ba072fa857ab768f0c9b3a700a1c7ae9781f39111731a5bdcd8",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::14-Gastroenteritis"
+      ]
+    },
+    {
+      "first_field_hash": "0796febd93a495fd17330701083360d13d2ef3e3976cd5ac8670ac6fc35ccb80",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::14-Gastroenteritis"
+      ]
+    },
+    {
+      "first_field_hash": "8bf3df61b99bfb4843aa6c099c709f648701549a8a1002d785f4aa6e737c5a8e",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::14-Gastroenteritis"
+      ]
+    },
+    {
+      "first_field_hash": "36b6d877ddeef71c30c31711984494c2197a00f6e71ecd6b35b734e9c69c4119",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::14-Gastroenteritis"
+      ]
+    },
+    {
+      "first_field_hash": "b87b39a893b56df952fd8c91d505a07df962eb46d18f8d6dd2567fe46a1eb431",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::14-Gastroenteritis"
+      ]
+    },
+    {
+      "first_field_hash": "ccd66dc24fe663ff60edd6dd4a9a71ceadafb36fd46ab5e1ac30f5aa330fcdb0",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::14-Gastroenteritis"
+      ]
+    },
+    {
+      "first_field_hash": "3196d4b08213794cc5aed41f56bb322cbd2e4ba7bc44889d41fee86f7f54bca6",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::14-Gastroenteritis"
+      ]
+    },
+    {
+      "first_field_hash": "ec742577f591365cf5af0436acb89771463617416e0b07569c2efd93dee8a40c",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::14-Gastroenteritis"
+      ]
+    },
+    {
+      "first_field_hash": "1529ae402d09d6d42464c68801bae6467eed99b041d0c259ff57906850663733",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::14-Gastroenteritis"
+      ]
+    },
+    {
+      "first_field_hash": "59af4e980c0863c0d4191eb684c1ceedfdb8fa7adaf6d53dc8973b7fa1fa14d5",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::14-Gastroenteritis"
+      ]
+    },
+    {
+      "first_field_hash": "1dad5546693947075d3f4bc069ee50cd1f516b9ccbaf8c696c866f412d9bbb16",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::14-Gastroenteritis"
+      ]
+    },
+    {
+      "first_field_hash": "89bf3758f7239996ea9e22876f912242cb1a62f2ccf971f6ffd05c25c7d41b20",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::14-Gastroenteritis"
+      ]
+    },
+    {
+      "first_field_hash": "c008d1b94140c111a3c04bace005b4a6356331e67009f04f0c41a0bd0e659301",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::14-Gastroenteritis"
+      ]
+    },
+    {
+      "first_field_hash": "dccac1d847d1c8dc0d4a89143e9a5fa25eea63234892b12a5f3ae9b39bef6143",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::14-Gastroenteritis"
+      ]
+    },
+    {
+      "first_field_hash": "d08c2373c3797b12dd95829280ca14c0225297c58c9229214c6fa83a1cd93664",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::14-Gastroenteritis"
+      ]
+    },
+    {
+      "first_field_hash": "9c4b5622ce56dacec6cafbc537a2fc234be0a2349688ab93c8259f7d2026eb8a",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::14-Gastroenteritis"
+      ]
+    },
+    {
+      "first_field_hash": "f8393eba74a045344638d2474ee6014dab5769f4a77d619683e67f3efa8a76d7",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::14-Gastroenteritis"
+      ]
+    },
+    {
+      "first_field_hash": "a2179e47bd8df9e78574b8244cf623eb6c93b3b8ab3030049e3029b64b54b682",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::14-Gastroenteritis"
+      ]
+    },
+    {
+      "first_field_hash": "1a5848b006c750d7563f05dfe27dd22b713eb5598f0d4d7f434a63d1550fc221",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::14-Gastroenteritis"
+      ]
+    },
+    {
+      "first_field_hash": "6bf542fb2e3f25c83ba8e7689b4308117791b52c6b9efccc3e97e0338d5e615e",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::14-Gastroenteritis"
+      ]
+    },
+    {
+      "first_field_hash": "802caf4a6f7cf32d740f79c8c4a39d0af0be30d6aaf604b67374027d0b316c84",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::14-Gastroenteritis"
+      ]
+    },
+    {
+      "first_field_hash": "f7a3ba40521a06bdfc34a9aedcb008dcdfb59b354e32c495d6576f571b179483",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::14-Gastroenteritis",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::14-Gastroenteritis::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "901bb0b985b640f60f0a0bf12998cde1e47240bdc901bb5f97406e19fc07a689",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::14-Gastroenteritis"
+      ]
+    },
+    {
+      "first_field_hash": "853799ba98e325b7e467981a39d48f8a135103a7434b33f60a058021ed79ddad",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::14-Gastroenteritis"
+      ]
+    },
+    {
+      "first_field_hash": "930bf1dc328dbec19ebadfdcfa7106dcecfac9715f709021640b47c87802e935",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::14-Gastroenteritis"
+      ]
+    },
+    {
+      "first_field_hash": "fedf9fa24cf15a1cc6c4d8c7e6a6b958926462ffee4f718c2c99e7b90ffecc1b",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::14-Gastroenteritis"
+      ]
+    },
+    {
+      "first_field_hash": "f50a43b2d896421301dab5ea41add7bbaa14b1bbe3077b2ade7e55844d11118a",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::14-Gastroenteritis"
+      ]
+    },
+    {
       "first_field_hash": "71956904f695fb785b73c1b93ddb6513587197f6c8ded92811e9db38494c5bb8",
       "tags": [
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-1::05-Intro-to-Fungi::Class-Content"
@@ -59199,6 +60334,156 @@
       "first_field_hash": "da2cdcfdc5ba5307f6d44b5fe45b1b72418eb5c1e5c0dfe7476a7e23c91c364d",
       "tags": [
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-1::05-Intro-to-Fungi::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "48f9635f0614b026e526c3a8cc9682e77cdecf20680451264059d7c3aee3cda9",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::14-Gastroenteritis"
+      ]
+    },
+    {
+      "first_field_hash": "c44e57a2cb43fae994bc6c2bb0059ece57fb5656b3c459c5581c0b10eed5e1ca",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::14-Gastroenteritis"
+      ]
+    },
+    {
+      "first_field_hash": "7015a6b727caf6fdaf6b2c41b06a8898b28d71ec834f551e15c50584b9cb9afe",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::14-Gastroenteritis"
+      ]
+    },
+    {
+      "first_field_hash": "7058ec72d3cd38b148c8b51e1e125ccd42ee06ae82767a74454188b8bebcad63",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::14-Gastroenteritis"
+      ]
+    },
+    {
+      "first_field_hash": "186946708bc6527b4359049d8aed8f552253d030247945dbb7a00b39e490c85a",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::14-Gastroenteritis"
+      ]
+    },
+    {
+      "first_field_hash": "77a3db893d5b91dfec3cbd4c7a778df97a88dad97b8842853571a96ab612d733",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::14-Gastroenteritis"
+      ]
+    },
+    {
+      "first_field_hash": "ce25f7fda19eb26d09ce56f18b36e14577e9b05c6775b60642252fdcab3a069c",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::14-Gastroenteritis"
+      ]
+    },
+    {
+      "first_field_hash": "e9ef4e1116f5068461f81707966929c2a9255417d6fa8bdc045990b950c67ab8",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::14-Gastroenteritis"
+      ]
+    },
+    {
+      "first_field_hash": "7d448a022c52dbffa2153eecbf5f4720a61f52b2e1b7ebd0f6485496977ad410",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::14-Gastroenteritis"
+      ]
+    },
+    {
+      "first_field_hash": "58d19ccc5cf5aed505acd6c762466546935fadf14d32b5aac10be1e0bf572148",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::14-Gastroenteritis"
+      ]
+    },
+    {
+      "first_field_hash": "9a448ab9c773e5d79865b8a842fe5787264a75b5a07e5ed5ab3d4ab2fe2c15c2",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::14-Gastroenteritis"
+      ]
+    },
+    {
+      "first_field_hash": "dd582d3eff22e14313f5cabd1f07dfcc782a92856441524ca840dcdb899378c6",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::14-Gastroenteritis"
+      ]
+    },
+    {
+      "first_field_hash": "9c012c8fa8be5f544d8c7691c20adf0e5edd28b4430b7fc4624bc864c8dfba22",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::14-Gastroenteritis"
+      ]
+    },
+    {
+      "first_field_hash": "8533e944e09d87b28dd3194ef43bf538d1e46cbcb48632fa7469004302bf6c2b",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::14-Gastroenteritis"
+      ]
+    },
+    {
+      "first_field_hash": "c74739674211fb9e4aa283a94362df108eafb2fe5489e2d1bce7a86fa9b8074d",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::14-Gastroenteritis"
+      ]
+    },
+    {
+      "first_field_hash": "0f3fbefd678a5d04ab4e70d4043dde1864de8c1dbe7376cc84cd08e9ef23ff4e",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::14-Gastroenteritis"
+      ]
+    },
+    {
+      "first_field_hash": "b4753b49c48a5b9b6f75ebf18b853db54a8083dc893ab613482b47a7ce6d0a2a",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::14-Gastroenteritis"
+      ]
+    },
+    {
+      "first_field_hash": "3725c2fc1497a5ebaeaeb93685ffb41c6c7c6a15a1b4232492ce481f87a20a73",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::14-Gastroenteritis"
+      ]
+    },
+    {
+      "first_field_hash": "31b65ba6c85c24c59f6697945b9f138bae7780d94ff16810f4d6dd582d70c71a",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::14-Gastroenteritis"
+      ]
+    },
+    {
+      "first_field_hash": "afd7f7f7f5d6611ad456c10b2ba7e4bba527de35fa26025dc72d5446394e97cc",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::14-Gastroenteritis"
+      ]
+    },
+    {
+      "first_field_hash": "77815390be979563ad03756a43035e11c92dcdd0abf90040d0a8e2964b50b579",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::14-Gastroenteritis"
+      ]
+    },
+    {
+      "first_field_hash": "0d6dc569cf024ba08dc99927fddd202690adf344b1407c225e88a246f9f73664",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::14-Gastroenteritis"
+      ]
+    },
+    {
+      "first_field_hash": "2343cceb2bbb73519c7215541d6852d9b0aa89cc54670cf3521854f759efc19b",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::14-Gastroenteritis"
+      ]
+    },
+    {
+      "first_field_hash": "0bb854a5991e3ecbec0873d21d9f6df6c94ab40db1afc2a6414e5c579e354785",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::14-Gastroenteritis"
+      ]
+    },
+    {
+      "first_field_hash": "7b3914dbcf5dc897301bc7578ee6cabca0aec7d0ab6741aada6ce94a6d427d59",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::14-Gastroenteritis"
       ]
     },
     {
@@ -59884,6 +61169,12 @@
       ]
     },
     {
+      "first_field_hash": "03799c0589f770a91f2d0f2380afd8b20bc98e1206177d2f487734f14c6b7280",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::14-Gastroenteritis"
+      ]
+    },
+    {
       "first_field_hash": "99411f36987346e566d078074d79f8f00a14fdd7407ecc92212448d025ff71f1",
       "tags": [
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-1::02-S.pyogenes-&-E.coli"
@@ -60166,9 +61457,21 @@
       ]
     },
     {
+      "first_field_hash": "3e437bff1620774307705ef4f02e1fdb25c41a5921f40464e1f31e5c893f93c6",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::14-Gastroenteritis"
+      ]
+    },
+    {
       "first_field_hash": "a551d75d3fe8f9629d809a6dcbc08ade8e1e1378a6012bcc3377354d39c55da4",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::06-Small-Intestine"
+      ]
+    },
+    {
+      "first_field_hash": "20d4543f9094bd00cd260d9526e5d4035187a9e7cfde1a0f6b5fa2b8371fc9d8",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::14-Gastroenteritis"
       ]
     },
     {
@@ -60334,7 +61637,7 @@
       ]
     },
     {
-      "first_field_hash": "c90cefb13528b3a9e7db5b62087ed1b7469455ae95674f0a83a3a642a9a4d677",
+      "first_field_hash": "da518f28ec42f890072c8216a83198684bdf20646091d16c597b20559dd63e8b",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::16-Lower-Respiratory-Infections::Class-Content",
         "JerryShen_AnKing_Tags::SOM-2::Repro-Block::16-Sexually-Transmitted-Infections"
@@ -62168,13 +63471,15 @@
       "first_field_hash": "0cc1c49d72284d5262ea9def88b54aced2c9891c4b8fb814cc3fadf60e0ba288",
       "tags": [
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-2::09-Misc-Antimicrobials-&-Skin-Infections",
-        "JerryShen_AnKing_Tags::Micro-Pharm::Exam-2::09-Misc-Antimicrobials-&-Skin-Infections::Class-Content"
+        "JerryShen_AnKing_Tags::Micro-Pharm::Exam-2::09-Misc-Antimicrobials-&-Skin-Infections::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::16-Biliary-Physiology::Class-Content"
       ]
     },
     {
       "first_field_hash": "45f557d1a7c222255c293c9f41e07bc340520d77d0a404f4ec28045f26d4847e",
       "tags": [
-        "JerryShen_AnKing_Tags::Micro-Pharm::Exam-2::09-Misc-Antimicrobials-&-Skin-Infections"
+        "JerryShen_AnKing_Tags::Micro-Pharm::Exam-2::09-Misc-Antimicrobials-&-Skin-Infections",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::16-Biliary-Physiology::Class-Content"
       ]
     },
     {
@@ -62409,6 +63714,12 @@
       "first_field_hash": "3a77bd78de7846dbe9726dd5ba0d2caf1098d5b013bf3301b7d24cf21bd6e57b",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::26-Pulmonary-Cases-&-Miscellaneous-Diseases"
+      ]
+    },
+    {
+      "first_field_hash": "9bcdb710cd2c61c7ac3f68f2d342167b94802f98508a6dd055a542b057a7629b",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::16-Biliary-Physiology::Class-Content"
       ]
     },
     {
@@ -63678,7 +64989,7 @@
       ]
     },
     {
-      "first_field_hash": "541fd52423245a00ed96e50ed43d36cb35f00d0944212098d6358c79d4622bee",
+      "first_field_hash": "d4c3de0cb0e7cdb124ddebf48c8f717a56b083cc9aac5ce03c26872372210d65",
       "tags": [
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-2::08-Other-Antibiotics-&-Mycobacteria",
         "JerryShen_AnKing_Tags::SOM-2::Repro-Block::16-Sexually-Transmitted-Infections"
@@ -63929,6 +65240,12 @@
       "first_field_hash": "dc181316e651392d48c782f819101606796d0d07f08c98d9c91f70b0ba6323c7",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::19-Central-&-Peripheral-Control-of-Circulation"
+      ]
+    },
+    {
+      "first_field_hash": "996f684f5daeaa67feddb665d7e5358a224a124cd312d880ee3f7e939f40b5e6",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::16-Biliary-Physiology"
       ]
     },
     {
@@ -68131,6 +69448,12 @@
       ]
     },
     {
+      "first_field_hash": "21b9d3721fa2ff25158ea48fd1ab87003d9e63a14a44b6603952a674f07d94bf",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::16-Sexually-Transmitted-Infections"
+      ]
+    },
+    {
       "first_field_hash": "4e015282f8389c780989e8862836ec713e1b8228464adee46f055997076fed63",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Repro-Block::16-Sexually-Transmitted-Infections"
@@ -68149,6 +69472,12 @@
       ]
     },
     {
+      "first_field_hash": "617009c4edfe52e0d337238500dfd1b2dbfcfba31f66765cec8c909cbe0e4fb2",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::16-Sexually-Transmitted-Infections"
+      ]
+    },
+    {
       "first_field_hash": "940ffd2aec2f6165751e111ee80ef8c83380d5de242821bdec7cffd2d14bdd9e",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Repro-Block::16-Sexually-Transmitted-Infections"
@@ -68161,13 +69490,31 @@
       ]
     },
     {
+      "first_field_hash": "88f9dc7d798e8f067af35657042de7abb5b178d569ef264255bbbd146b094668",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::16-Sexually-Transmitted-Infections"
+      ]
+    },
+    {
       "first_field_hash": "2beb54a5079b8e48ceb5aa344a94f83f10b00cf5d79344f04640384dae95ae8d",
       "tags": [
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-2::08-Other-Antibiotics-&-Mycobacteria"
       ]
     },
     {
-      "first_field_hash": "445d2b3159d065403609fa8870fb5c152bb1137a3cfdd1bb698cb4b096847039",
+      "first_field_hash": "38e71f8e47b3da9c44129fd8542b21e3c4343d8ccdbbbe98c363c610e6d86ebe",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::16-Sexually-Transmitted-Infections"
+      ]
+    },
+    {
+      "first_field_hash": "4879f98b6c07049c2ffba072f1a5b269a44cc2a4ab9b146e1e5ef181c8adc066",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::16-Sexually-Transmitted-Infections"
+      ]
+    },
+    {
+      "first_field_hash": "d08bddd5bf89e40b757aa1371458d8f57cb50ebf1eb52c2f8c11f5912751e8c8",
       "tags": [
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-2::07-β-Lactam-Antibiotics-&-Parasites::Class-Content"
       ]
@@ -68959,7 +70306,8 @@
     {
       "first_field_hash": "bb6ac50761aa50e342a72da3b0abef93d0d7f55eb4b962e62531456216564130",
       "tags": [
-        "JerryShen_AnKing_Tags::Micro-Pharm::Exam-2::07-β-Lactam-Antibiotics-&-Parasites"
+        "JerryShen_AnKing_Tags::Micro-Pharm::Exam-2::07-β-Lactam-Antibiotics-&-Parasites",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::14-Gastroenteritis"
       ]
     },
     {
@@ -68971,7 +70319,7 @@
       ]
     },
     {
-      "first_field_hash": "007050a7960b4839f8f569858eeb50dc32c3c8cd4bf002f6c3f9834be9f46202",
+      "first_field_hash": "b97019262fbb62e8c65b90d9fc7a3067160d77479d1d94c53e88a703a888c2a3",
       "tags": [
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-2::07-β-Lactam-Antibiotics-&-Parasites"
       ]
@@ -69277,6 +70625,24 @@
       ]
     },
     {
+      "first_field_hash": "16635ab90a62ea3138e94be3ece91237dcae9220266a165cd6485337af4ba0ea",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::14-Gastroenteritis::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "ab0c770dc8571510045e48200309821a79080fb14b042f0863121ac9b18e9deb",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::14-Gastroenteritis::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "7d8c93281e6276bbb5c37596f563a675c944c70ff2df6e43b48716ed7ecdfe17",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::14-Gastroenteritis::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "972e11a25689e0b420a9cc10522ea15f0b2771f68025b75d9360531e3a757e9f",
       "tags": [
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-1::03-C.diff-&-Pseudomonas"
@@ -69289,9 +70655,45 @@
       ]
     },
     {
+      "first_field_hash": "1aec29d0500b72d94d12c4e81188fc1d79b0dcb635999f7035221bbaf1e7e0ef",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::14-Gastroenteritis::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "133dc461d90fa1df4b44a2fd6219ff6df3798bb94573fa1e2ac5eed93ca72bf2",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::14-Gastroenteritis"
+      ]
+    },
+    {
+      "first_field_hash": "8c9b7c77e75c51be74962007467acd200c4c0013a5c4efb3c1772aaae71ecd4e",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::14-Gastroenteritis::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "7b32ebbb3ebc2dc5db855b97c3a7a38641cea49556d8cc1f5a9a5bf1eaff0f2e",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::14-Gastroenteritis::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "45377235207d0ade9dc932d146679c33dd578a5ab5470d9270302f4fe4dbd2ca",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::14-Gastroenteritis::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "afcd89554728a9e29e1024944d02777cc0fe7fdf60b48c893ec5affba9cf32a2",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::26-Pulmonary-Cases-&-Miscellaneous-Diseases::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "166793a1e0301a91795ef3de49e00e5da06a0434b2eae1a2aa2b1db4953ba30a",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::14-Gastroenteritis"
       ]
     },
     {
@@ -69301,9 +70703,147 @@
       ]
     },
     {
+      "first_field_hash": "1d71fd4176914a067c50b2fae9d41cbfd312f5aae545c7ce98464440a4e02046",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::14-Gastroenteritis"
+      ]
+    },
+    {
+      "first_field_hash": "6c5c8e0b03c1f04b6898bedc16634be54f24f6e42785d30b2423f312899f0112",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::14-Gastroenteritis::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "52f8d34ea5b6fcdfdc9057e16b2037482b2dd926f575b4af4204a04afae3d666",
       "tags": [
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-1::03-C.diff-&-Pseudomonas::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "e57d354ef93cbf384e9a68b25056df14fa0e7b859cd32417c137777346de0bed",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::14-Gastroenteritis::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "d94222946ce9d9916c9fb79156f68db03f3053f55292e741e2dcbf17e2afd748",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::14-Gastroenteritis::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "abe823b921b651b10d5ddfd8ba138690b878d6c5dc071d7babe64290c7f042bc",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::14-Gastroenteritis::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "ffe5b87ffd39139ad1ff47b3d47cd07d7a048309297102a2d4acea1afa135c78",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::14-Gastroenteritis"
+      ]
+    },
+    {
+      "first_field_hash": "dc91906beba5add7b40613a121757fb848305c53e2b29b0dfb0eaf6981d03f08",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::14-Gastroenteritis::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "c4f1912522fb4bba12813e5e16d5ea0486cb8ca3acff020c4c6e4f7b162265cf",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::14-Gastroenteritis"
+      ]
+    },
+    {
+      "first_field_hash": "b8418f8d568821d4c1540c4b823a074d34f9077c2cb8136cbd82811b6435b46e",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::14-Gastroenteritis"
+      ]
+    },
+    {
+      "first_field_hash": "ede55cef764d97f9fb003751309311317b3bde4a1f195b91edba60aa1ff9a632",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::14-Gastroenteritis::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "b3492fea68dacfe10781b6c6944a573a511d804ecc4ea179a9cc9b7ea3c2b678",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::14-Gastroenteritis::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "df151e928da5296d548d8d7c1b79be3a9aecce6ed55551245a8cb4a2e3dda8b7",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::14-Gastroenteritis"
+      ]
+    },
+    {
+      "first_field_hash": "3b7f05fa46935667f6af6d6304ba89b52a7f55e04e6e5e125720e59ab363d098",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::14-Gastroenteritis::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "b5519bfa1c09cbf3853f0ece1528225c56353b73ddbcf7783028fa633a391622",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::14-Gastroenteritis::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "1949379962a347362d470e47a01552270d7ecac12b1dce8438c5e054095fa3fc",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::14-Gastroenteritis::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "540518a1d11bef1aac1b9fd6e14662e1c99779aefd30cf55a61cf9ba696248d9",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::14-Gastroenteritis::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "3b37e1bf327c65123f2e715d69ee0f92423e02ed8cbb9fc3c986c342ecd4f3fb",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::14-Gastroenteritis::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "266367e268cd6f97caf86ce4b24dacd1493479d426a975fd8e398314f9cfe7b2",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::14-Gastroenteritis::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "a5510b210138aaaca1498c90f931bd92886906d17637676c48c4541a4109663b",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::14-Gastroenteritis"
+      ]
+    },
+    {
+      "first_field_hash": "5056436c0b6ed331c95a4d52eb4e0dde0904e11c7547d198076767a087448f8b",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::14-Gastroenteritis::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "2a1a27a3f9d7da9f9e02ad039ed4296265b32bcf819a166230fded21254aea73",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::14-Gastroenteritis"
+      ]
+    },
+    {
+      "first_field_hash": "e3b2e8d7c40f8412f0abf617188abcf098e5c22e11fd79d6463aa45847aab0f0",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::14-Gastroenteritis::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "d1346d46902880671ebeaf8e6ac4f389957451b679d5c5d6d967f77fddae09a6",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::14-Gastroenteritis::Class-Content"
       ]
     },
     {
@@ -69330,6 +70870,12 @@
       "tags": [
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-1::02-S.pyogenes-&-E.coli",
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-1::02-S.pyogenes-&-E.coli::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "ca34a9be7c65f9951a8c1dc5043f300d22c96f1f1bc1ae4e2228d9dff1a05ca8",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::14-Gastroenteritis"
       ]
     },
     {
@@ -69430,7 +70976,8 @@
     {
       "first_field_hash": "f0ee9c34b564dee3f60a6b718a22765a0f08e93f554f5ce797f39804f39f96f1",
       "tags": [
-        "JerryShen_AnKing_Tags::Micro-Pharm::Exam-1::02-S.pyogenes-&-E.coli"
+        "JerryShen_AnKing_Tags::Micro-Pharm::Exam-1::02-S.pyogenes-&-E.coli",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::14-Gastroenteritis::Class-Content"
       ]
     },
     {
@@ -69442,25 +70989,30 @@
     {
       "first_field_hash": "dc5d0921df0b556eff3b56f2b27e879e610cde4e715eefc224cf99050f20ac67",
       "tags": [
-        "JerryShen_AnKing_Tags::Micro-Pharm::Exam-1::02-S.pyogenes-&-E.coli"
+        "JerryShen_AnKing_Tags::Micro-Pharm::Exam-1::02-S.pyogenes-&-E.coli",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::14-Gastroenteritis::Class-Content"
       ]
     },
     {
       "first_field_hash": "804966ae3aa752cc3af9bebe1dd0394ce3af9daf60efd5cf8ce0916b99d975ba",
       "tags": [
-        "JerryShen_AnKing_Tags::Micro-Pharm::Exam-1::02-S.pyogenes-&-E.coli"
+        "JerryShen_AnKing_Tags::Micro-Pharm::Exam-1::02-S.pyogenes-&-E.coli",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::14-Gastroenteritis::Class-Content"
       ]
     },
     {
       "first_field_hash": "903402f2d5276dd62da5ee382bf5065e90249dbb725d92d1f9171b2e0a95f101",
       "tags": [
-        "JerryShen_AnKing_Tags::Micro-Pharm::Exam-1::02-S.pyogenes-&-E.coli"
+        "JerryShen_AnKing_Tags::Micro-Pharm::Exam-1::02-S.pyogenes-&-E.coli",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::14-Gastroenteritis::Class-Content"
       ]
     },
     {
       "first_field_hash": "2dfc7d03a4e26009c4d4001a5458a2c3c39d84b02a1bdee38487e9d1f2946d33",
       "tags": [
-        "JerryShen_AnKing_Tags::Micro-Pharm::Exam-1::02-S.pyogenes-&-E.coli"
+        "JerryShen_AnKing_Tags::Micro-Pharm::Exam-1::02-S.pyogenes-&-E.coli",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::14-Gastroenteritis",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::14-Gastroenteritis::Class-Content"
       ]
     },
     {
@@ -69574,51 +71126,95 @@
       ]
     },
     {
+      "first_field_hash": "4330e87a3344533c5c594a71739471c33b8e068bcad1c02dd934b51a48e1d16b",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::14-Gastroenteritis"
+      ]
+    },
+    {
+      "first_field_hash": "6b012cc0e4cc8296ff4225110ff6864e99b9ea798a3a2e2fb0dce15db49dadf4",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::14-Gastroenteritis"
+      ]
+    },
+    {
       "first_field_hash": "264b3ea14a75c0b4d550fa6be7f92d0022eaed3a8841e3b64ecbe33ea8048b66",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::06-Small-Intestine"
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::06-Small-Intestine",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::14-Gastroenteritis"
       ]
     },
     {
       "first_field_hash": "ab0f5006fd22a47255e5493f33509392b5d15ab869c067d210c05145b1eca5e9",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::06-Small-Intestine::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::06-Small-Intestine::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::14-Gastroenteritis"
+      ]
+    },
+    {
+      "first_field_hash": "f23c45285198ffb2aa5a889dedb582c2ab1dcf66c97103fcd62f93991254d009",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::14-Gastroenteritis"
       ]
     },
     {
       "first_field_hash": "b175e0717c1f910cb0673ee60e0ee1d00e5dcf3f2b058f6ec3ecea73b2aff19e",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::06-Small-Intestine"
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::06-Small-Intestine",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::14-Gastroenteritis"
       ]
     },
     {
       "first_field_hash": "033d65f60fb29f7b18cbc06d9d98e87ce65f522a0906700f84a6ae17251ed56b",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::06-Small-Intestine"
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::06-Small-Intestine",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::14-Gastroenteritis"
       ]
     },
     {
       "first_field_hash": "3c9497b1fde38a4b462b37dbdba424876096e1c9132bc19268f34b549406f7b0",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::06-Small-Intestine"
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::06-Small-Intestine",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::14-Gastroenteritis"
       ]
     },
     {
       "first_field_hash": "102a5d705de62b4026cba26705cc89123bcdffe45d13b792ed82a2c512ca8be2",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::06-Small-Intestine::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::06-Small-Intestine::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::14-Gastroenteritis"
       ]
     },
     {
       "first_field_hash": "046216f6bf48f1b723551ea56b39854baa908986e94810cf6f26ef93c0361aa0",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::06-Small-Intestine::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::06-Small-Intestine::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::14-Gastroenteritis"
       ]
     },
     {
       "first_field_hash": "d5120aec86a1dc727f5c61830549d08431ae8dca2881947c74b94352d87fa35e",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::06-Small-Intestine::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::06-Small-Intestine::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::14-Gastroenteritis"
+      ]
+    },
+    {
+      "first_field_hash": "6f69464f5215210d0b22882e7a37471324a5b2b58875aa26dfc7258585b4d8af",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::14-Gastroenteritis"
+      ]
+    },
+    {
+      "first_field_hash": "474e2355b353b6090dd0ca729255b4634677483822ac00aff42899a69d0f7c15",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::14-Gastroenteritis"
+      ]
+    },
+    {
+      "first_field_hash": "fc7c3fed8c7222efaa0f4d0bc841afccfa1f11a0ca53d06241871d4e716ccd58",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::14-Gastroenteritis"
       ]
     },
     {
@@ -69628,10 +71224,28 @@
       ]
     },
     {
+      "first_field_hash": "91b19ad935f204b92448eb7358dcf0c4c31a757e282360dab741f538434370b2",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::14-Gastroenteritis"
+      ]
+    },
+    {
+      "first_field_hash": "1c06d57e42d4ed78a494ecd116f6920a6f51da895b63e6ad4b95f38f7c3a7215",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::14-Gastroenteritis"
+      ]
+    },
+    {
       "first_field_hash": "fad301263db245d0e933a2cb33b0e318560b9527af726cc4c28b32253aea4a17",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::05-Stomach::Class-Content",
         "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::09-Upper-GI-Infections::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "3bb8ae126de5df15591327f39162d9f49b168a2dd5f2b6ba5a8e5eec41296c94",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::14-Gastroenteritis"
       ]
     },
     {
@@ -70097,6 +71711,31 @@
       ]
     },
     {
+      "first_field_hash": "2b0592e7f93891fc0e1ed01be77c765da4a83fc04a85d17a363f4a69f012e18a",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::16-Biliary-Physiology"
+      ]
+    },
+    {
+      "first_field_hash": "4521fc1a7e6f5e70783ec1a06fcb8d92b73b85fed04780c6a15a5c1db61c6f02",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::16-Biliary-Physiology"
+      ]
+    },
+    {
+      "first_field_hash": "99d793499d065ebef78b9b8e086c85ca5b7832312f3251e985c0397956d57cc8",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::16-Biliary-Physiology"
+      ]
+    },
+    {
+      "first_field_hash": "57ee056c870b3b709ccb1be8e8998173d06cf1874d6678c09dc83b376f4c9a29",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::16-Biliary-Physiology",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::16-Biliary-Physiology::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "da438c71c66be26acc990b0dc7a77947a83874397d247fc1f6ee732649bbf804",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::07-Pancreas"
@@ -70106,6 +71745,12 @@
       "first_field_hash": "b6d6a41791997e073eb9773903fe48ab63268673986525734f47fa39508900e5",
       "tags": [
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-1::03-C.diff-&-Pseudomonas"
+      ]
+    },
+    {
+      "first_field_hash": "37d130c4840768c67457d372800e7252b523d17bce9e59441148fcb78f9e0867",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::16-Biliary-Physiology"
       ]
     },
     {
@@ -70155,6 +71800,12 @@
       "first_field_hash": "e611dd6045e4feb7267203eec2b64e61af34425293815632326ff74150adee37",
       "tags": [
         "JerryShen_AnKing_Tags::Neurobiology::Exam-3::Tutorial-4-Thalamus-and-Sensory-Systems::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "2b984be0975aa9c181f687251575f4aee4dcb13540e9e57ed96c70addbd70975",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::14-Gastroenteritis"
       ]
     },
     {
@@ -71317,9 +72968,58 @@
       ]
     },
     {
+      "first_field_hash": "81c9de77941506aae84a2cc2af08760733fbf7f7f2a1194c30e50dd02c5b4153",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::14-Gastroenteritis"
+      ]
+    },
+    {
+      "first_field_hash": "79284a2789122bc5ce0c1db86d49024c8c462c2007fb16486b6216e3cb300d19",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::14-Gastroenteritis"
+      ]
+    },
+    {
+      "first_field_hash": "dd7ea56a94574689a710c6d8fa113ef622481730fad614965a0c427d9d0be5d9",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::14-Gastroenteritis"
+      ]
+    },
+    {
+      "first_field_hash": "238e471aa395ecd6404877d06238f84706d910bdefbd9e83039154950e12a35a",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::14-Gastroenteritis"
+      ]
+    },
+    {
+      "first_field_hash": "f15ac66937a70fddb639479cfa222482a95712fd1448c68ecf86ceaba0871311",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::14-Gastroenteritis"
+      ]
+    },
+    {
+      "first_field_hash": "a91956a015f83b72b2e41f25d80e125f6f4b0cec0ec633a36fec4a42347a84b2",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::14-Gastroenteritis"
+      ]
+    },
+    {
+      "first_field_hash": "f83a9c04876213ecbb19150f615be76522e2634959a511676c0e7af03f573449",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::14-Gastroenteritis"
+      ]
+    },
+    {
+      "first_field_hash": "ca688b63f27b772f9e29bb64d76b415c90385be708db2de041d8bcf067fbff14",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::14-Gastroenteritis"
+      ]
+    },
+    {
       "first_field_hash": "350e39622ce3bbff5d1d0aca5a04cbe9dec49a9cf58da712d02a4c8d4cb7ab20",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::06-Small-Intestine"
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::06-Small-Intestine",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::14-Gastroenteritis"
       ]
     },
     {
@@ -71446,7 +73146,8 @@
     {
       "first_field_hash": "c828947e16f1ad861f93d48f1ecaf42b4fea14036843d21f9a4b28fb87076dbe",
       "tags": [
-        "JerryShen_AnKing_Tags::Micro-Pharm::Exam-1::04-Intro-to-Viruses"
+        "JerryShen_AnKing_Tags::Micro-Pharm::Exam-1::04-Intro-to-Viruses",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::14-Gastroenteritis"
       ]
     },
     {
@@ -71850,99 +73551,169 @@
       ]
     },
     {
+      "first_field_hash": "ef23985b506e9611b7d9a6fd38c50a14a6e7d4f49f3eb4efc0090bbb62b12313",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::14-Gastroenteritis"
+      ]
+    },
+    {
+      "first_field_hash": "58658dd6f6d0420246d3f9dc0389d092a59d099fb83d4e566e20a1cfa11d8a92",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::14-Gastroenteritis"
+      ]
+    },
+    {
+      "first_field_hash": "e86f2684fcee0a5f16ee9f45ae5e87a43409aff4ff9595431a7495a92b13ad4e",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::14-Gastroenteritis"
+      ]
+    },
+    {
+      "first_field_hash": "9b22e527772a6950ec2ec8add37b51d01f817ea95ea7d2d427b01f3ffe33eeb4",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::14-Gastroenteritis"
+      ]
+    },
+    {
       "first_field_hash": "40817df5b70f90b0a608792d980f433ade2dc975384b664f183d8a2d1389ceb1",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::06-Small-Intestine"
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::06-Small-Intestine",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::14-Gastroenteritis"
       ]
     },
     {
       "first_field_hash": "9ae2cee809a20f38072c376346958a4505c1cf93566a546dbc1537cdfe187a4f",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::06-Small-Intestine"
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::06-Small-Intestine",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::14-Gastroenteritis"
       ]
     },
     {
       "first_field_hash": "ae9c3c7392dc36bc777a3f9bc7551f88741d23ed6400ab632295cd360943755b",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::06-Small-Intestine"
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::06-Small-Intestine",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::14-Gastroenteritis",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::14-Gastroenteritis::Class-Content"
       ]
     },
     {
       "first_field_hash": "93ffa720792310df64cde108c708eaf6f5899656808108397fe0441a1ee3f1e4",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::06-Small-Intestine"
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::06-Small-Intestine",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::14-Gastroenteritis",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::14-Gastroenteritis::Class-Content"
       ]
     },
     {
       "first_field_hash": "139fa7e78f7336264fbd84f8511a9268f9347e8ef4eb001027563f7193a51fdc",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::06-Small-Intestine"
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::06-Small-Intestine",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::14-Gastroenteritis",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::14-Gastroenteritis::Class-Content"
       ]
     },
     {
       "first_field_hash": "a174de2f02ccf9ff8f17447ed9e5a54afd9ad344ad9bb14e6f2b92ea86f26296",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::06-Small-Intestine"
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::06-Small-Intestine",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::14-Gastroenteritis",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::14-Gastroenteritis::Class-Content"
       ]
     },
     {
       "first_field_hash": "d076ce898a906619608982f149a6e1b32c688a810609368d45761f90778e12da",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::06-Small-Intestine"
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::06-Small-Intestine",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::14-Gastroenteritis",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::14-Gastroenteritis::Class-Content"
       ]
     },
     {
       "first_field_hash": "63c7761404167ed9b57ad89e87cb907130759174b6922473acd05e87f658c406",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::06-Small-Intestine"
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::06-Small-Intestine",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::14-Gastroenteritis"
       ]
     },
     {
       "first_field_hash": "2e0ffb72c1ef96df4eb1b35e63d757d052815c7d15167668282e1e616d989b8d",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::06-Small-Intestine"
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::06-Small-Intestine",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::14-Gastroenteritis"
       ]
     },
     {
       "first_field_hash": "518b90f01a3f8a28e8d96a4ac53b810190c1af6e4a63e5d14828f6572ad6f977",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::06-Small-Intestine"
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::06-Small-Intestine",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::14-Gastroenteritis"
       ]
     },
     {
       "first_field_hash": "ce41095d61fcac9fa08cbbd2bd9a60c32e6010fb65a5ec46fa482aee181c6e0a",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::06-Small-Intestine"
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::06-Small-Intestine",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::14-Gastroenteritis"
+      ]
+    },
+    {
+      "first_field_hash": "10b19e396f90465b49e42bcacedb5e29c62ff82caf01c6fa6e8aaf14ee00131e",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::14-Gastroenteritis"
+      ]
+    },
+    {
+      "first_field_hash": "ab0d85b1045460c8b232539dc5e72586cf495aebf2b437b1ed7e0829c4385eb7",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::14-Gastroenteritis"
       ]
     },
     {
       "first_field_hash": "bab01f9a069fdeb2aa79afcc1129e2e21a5170dc97c9614cd1e9efb9903741b0",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::06-Small-Intestine"
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::06-Small-Intestine",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::14-Gastroenteritis"
       ]
     },
     {
       "first_field_hash": "fb8620eff8545672beced74cb5c45122a09741dcc2676f292391c2cdcaa8d588",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::06-Small-Intestine"
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::06-Small-Intestine",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::14-Gastroenteritis"
       ]
     },
     {
       "first_field_hash": "6336cb124c93830f3486f0e5ea9dc5d954cb1f40b0954a525fc53c84f01fc017",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::06-Small-Intestine"
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::06-Small-Intestine",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::14-Gastroenteritis"
       ]
     },
     {
       "first_field_hash": "cdaf6001d36636f7eafe82aa5ca2bd13913ca32b78c929102a96915362396973",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::06-Small-Intestine"
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::06-Small-Intestine",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::14-Gastroenteritis"
+      ]
+    },
+    {
+      "first_field_hash": "eea34ccbf9ac057a6ddc0fe4fc079a7da4a43a9c8067950d3b1ce9079911ee41",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::14-Gastroenteritis"
       ]
     },
     {
       "first_field_hash": "5f015a7f0272d6191a046ac14972910e392d630d526a8dd6790afb150f6220e4",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::06-Small-Intestine"
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::06-Small-Intestine",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::14-Gastroenteritis",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::14-Gastroenteritis::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "6ebe9fc2641610752abb7d734797325340c67c44c658a108107590f02e2d262a",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::14-Gastroenteritis"
       ]
     },
     {
@@ -72128,6 +73899,12 @@
       "first_field_hash": "24e5d0363a5e42d624cf5403d80a33414b8e3df01497e6a7edfad4d0adc1622a",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::09-Endocrinology-of-Growth::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "a0b8a773b431757d61f87aec59bad59013e315d2a5809f2221fd03f01721f32f",
+      "tags": [
+        "JerryShen_AnKing_Tags::POM-4::Clinical-Reasoning::Approach-to-Reproductive-Health::Class-Content"
       ]
     },
     {
@@ -72503,7 +74280,8 @@
     {
       "first_field_hash": "1017477858b9e9624fba11ae545fb5261a0e4cf7c561643fd37b00ffe1de512e",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::06-Small-Intestine"
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::06-Small-Intestine",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::14-Gastroenteritis"
       ]
     },
     {
@@ -74650,6 +76428,12 @@
       ]
     },
     {
+      "first_field_hash": "99c5e2c65323909d9afa8806a0497cd40dd5fc6330e90f14cf9f59a34e0fe54e",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::15-Liver-Anatomy-&-Physiology::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "245501bd03f53009b5a03c06f0ff9561e6e4fb671e7c9e9f8ee44c55b90b87a3",
       "tags": [
         "JerryShen_AnKing_Tags::POM-4::ACS-Skills::Integrated-Clinical-Cases::Class-Content"
@@ -74820,6 +76604,12 @@
       "first_field_hash": "7ea99fcac918a9f157713ed1a4bd36cdd885663baf2d11bd92ae2ecad0bb900f",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::37-Inflammatory-Heart-Disease::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "ae5a8351bfacccf858d069a3a8b5a62a2170692a954c4b2402badc774ac6c883",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::17-Contraception::Class-Content"
       ]
     },
     {
@@ -75139,6 +76929,12 @@
       ]
     },
     {
+      "first_field_hash": "a57f300958f9327f91f494921bbfd179e9b6d3d167e91edd07c78d69c0dd77f7",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::16-Biliary-Physiology"
+      ]
+    },
+    {
       "first_field_hash": "c8ef24fc1cccb00e2fdee31ee256fadc0af3611783e2342d237cf049ad0b7ae3",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Repro-Block::07-Complications-of-Pregnancy"
@@ -75446,6 +77242,18 @@
       ]
     },
     {
+      "first_field_hash": "1a44916223ffc2701717a98b06eea42042c839a7a19e53022b1a617f0469f382",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::16-Biliary-Physiology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "9279b1555ff14a73ab28c32da229eab8e15279c22c2d130ff6e57c1cc8bd40e7",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::16-Biliary-Physiology::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "acaa460f7d5d17c020d539e3ba691d866ce18b0edf5bab64ebdb8a42624823b5",
       "tags": [
         "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-5-Lower-Limb::Anatomy::Class-Content"
@@ -75729,6 +77537,12 @@
       "first_field_hash": "f3220701bbeefeb87e3269c4a19bc80fc2f82aef487387839a9b5f8b0cc35f19",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::15-Bone-Pathophysiology"
+      ]
+    },
+    {
+      "first_field_hash": "22948883228b75d14442b9e55812b92be82c70bcf0bffa76fd913d62384baea5",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::16-Biliary-Physiology"
       ]
     },
     {
@@ -76365,6 +78179,12 @@
       ]
     },
     {
+      "first_field_hash": "dd9e734478e92850650e308e893107c3bd7458af011b6ba4a8559d969c590cb6",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::14-Gastroenteritis::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "9f537aee9ac36a15596a012c8b1e312ed65736b170a176535821a6f308c5c841",
       "tags": [
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-1::04-Intro-to-Viruses::Class-Content"
@@ -76951,15 +78771,23 @@
       ]
     },
     {
+      "first_field_hash": "b9582789e1a594fc4f68a0a99347286dec09333fecb79b27e1413e94e3794e12",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::14-Gastroenteritis"
+      ]
+    },
+    {
       "first_field_hash": "d193e5154bc8a71ccfc68b0b2ca1ddcfeac8b1277ebea58820eb217cf9c1716b",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::06-Small-Intestine"
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::06-Small-Intestine",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::14-Gastroenteritis"
       ]
     },
     {
       "first_field_hash": "3bc00b00fa25c1795591ca13a4b7cd6ffdc3d16b9b15aa3aeb633a7baa32d7b8",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::06-Small-Intestine"
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::06-Small-Intestine",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::14-Gastroenteritis"
       ]
     },
     {
@@ -76983,6 +78811,7 @@
     {
       "first_field_hash": "dc0bb1b17edf953cb45da10bf0088450ccdb562b2974247fbc21d03656fb2b68",
       "tags": [
+        "JerryShen_AnKing_Tags::POM-4::Clinical-Reasoning::Approach-to-Reproductive-Health::Class-Content",
         "JerryShen_AnKing_Tags::SOM-2::Repro-Block::10-Amenorrhea-&-Infertility::Class-Content"
       ]
     },
@@ -76996,6 +78825,12 @@
       "first_field_hash": "68c11c14f291faa0bf8e3b58521dd3b1e475092f01a4cea4285832c0ed50dc6a",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Repro-Block::10-Amenorrhea-&-Infertility"
+      ]
+    },
+    {
+      "first_field_hash": "0deca8fd2d8a7444cfd4abea10d80d3c22661cfc84aa521a11f017bce56e9fee",
+      "tags": [
+        "JerryShen_AnKing_Tags::POM-4::Clinical-Reasoning::Approach-to-Reproductive-Health::Class-Content"
       ]
     },
     {
@@ -77287,6 +79122,12 @@
       ]
     },
     {
+      "first_field_hash": "1eefdd2ebb746f47e1130e496e4281b17d35a96b57c1f439c321f7fc5f406d28",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::15-Ovarian-&-Fallopian-Pathology"
+      ]
+    },
+    {
       "first_field_hash": "32dd4c4799c84d11fd73d95bd71090e817e3bb1f2e896e6dd649b396f5a86625",
       "tags": [
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-2::09-Misc-Antimicrobials-&-Skin-Infections::Class-Content"
@@ -77455,6 +79296,12 @@
       "first_field_hash": "6699413649fd5a9146de228943308c4f03ff4e10441ffd340fedcdc79be4e042",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::04-Salivary-Gland-&-Esophagus"
+      ]
+    },
+    {
+      "first_field_hash": "2ec5adca5343a77b752cee97bb3530979877878997667becf8f8dac03cf7a659",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::16-Biliary-Physiology::Class-Content"
       ]
     },
     {
@@ -78132,7 +79979,8 @@
       "first_field_hash": "abb476ee7c94d8cef61bb63ec26d4877bc348ced969aa82f9c637cd90fddb104",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::30-Hypertension",
-        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::30-Hypertension::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::30-Hypertension::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::17-Contraception"
       ]
     },
     {
@@ -78407,6 +80255,12 @@
       "first_field_hash": "6aa27b01b95ccd7f9864991db1dff5254d5d895ff36711135cc568dd4a1b7b33",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::07-Pancreas"
+      ]
+    },
+    {
+      "first_field_hash": "36f5a167a2ae3aa65cd325d892e4b69485c0811c40a3c5caafb0e73e1b628728",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::15-Liver-Anatomy-&-Physiology::Class-Content"
       ]
     },
     {
@@ -79076,6 +80930,42 @@
       ]
     },
     {
+      "first_field_hash": "18dea7bd1834a6951d57cb8b92cb8faa0e350075e56653506e9dd0722ca474a9",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::17-Contraception::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "d78ab308ba75bf809f0c2703791c522e4c35b6e9e44d039121e82f36ff4662e6",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::17-Contraception::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "feb311848ded1c5670c13ac0b16ac1e0f3d756f7b5243c1295f72778355845b8",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::17-Contraception::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "ab688dc885c0041a22ed5dd60c9e0a857291a6dde672aaf7b0b83f3d56e7bf10",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::17-Contraception::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "7304552cf4ad09cefdd1db310d58bcc22434e65fde3d2074f8bb17591ed43c9e",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::17-Contraception"
+      ]
+    },
+    {
+      "first_field_hash": "84051e77d788e412ab88b36388617233262f0a70ac5a1a80e69f1ebba8d9e050",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::17-Contraception"
+      ]
+    },
+    {
       "first_field_hash": "e8c6f061e7f6a80ac6dfc77cebef7a4e113e54bafcfecce599b1dac9e3ff3d65",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Repro-Block::08-Labor-&-Birth-Complications"
@@ -79193,6 +81083,12 @@
       "tags": [
         "JerryShen_AnKing_Tags::Biochemistry::Final::05-Nitrogen-Metabolism::Class-Content",
         "JerryShen_AnKing_Tags::Molecular-Foundations-&-Genetics::02-Genetics::08.1-Inherited-Metabolic-Disorders::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "5ccbaddf2f635ea057e24186adee44da5c2fada78167320a8900296203e211eb",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::15-Liver-Anatomy-&-Physiology::Class-Content"
       ]
     },
     {
@@ -79381,6 +81277,12 @@
       ]
     },
     {
+      "first_field_hash": "d7f60b338f3745c787b99183eb39f2da5f45641efffed8365de61b763a1f5300",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::14-Gastroenteritis"
+      ]
+    },
+    {
       "first_field_hash": "f7ddcf5a021a1ce52aae6a7da54ca123d59b59363fe4a808bf52f2230126c3f9",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::10-Neuroendocrinology",
@@ -79404,6 +81306,12 @@
       "first_field_hash": "53233c5e1ea3f25b65909cebbc2f2d90f0495917bd196c60848dc3f2474c8abc",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Renal-Block::19-Nephrotic-Syndrome::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "e0c167a1d9135ef7332576922314f674d18a32394b0401b046f6b947018358aa",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::14-Gastroenteritis"
       ]
     },
     {
@@ -79474,6 +81382,12 @@
       ]
     },
     {
+      "first_field_hash": "040a0e8aa0344cac5b831006998f3b29b6e721b034a28034e4ffb75035616989",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::15-Liver-Anatomy-&-Physiology"
+      ]
+    },
+    {
       "first_field_hash": "a53465b4af49146c694e1ab54bd46ecd84fd72242df4978613ede3b58b213c23",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::08-Large-Intestine::Class-Content"
@@ -79483,6 +81397,12 @@
       "first_field_hash": "30887a7d546018af8f420cb3db51a55ab926dbced3fe3bf758b79155acdd5f77",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::03-Glucose-Homeostasis-2"
+      ]
+    },
+    {
+      "first_field_hash": "e7cf661449d2539457a28163d73d08304c8f65a2aaa4c0044276d7a981d847e0",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::09-Vaginal-Bleeding::Class-Content"
       ]
     },
     {
@@ -79552,6 +81472,13 @@
       "first_field_hash": "c5f89dcbda1f8129c7a56746270240331a54bfb6a7194de3ee58ac6d5b4157df",
       "tags": [
         "JerryShen_AnKing_Tags::POM-3::Clinical-Reasoning::Approach-to-Syncope::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "5a475e633a4fa20fb569bf2054629ad14fa8135080739f5ec8e81c4be1352f60",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::17-Contraception",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::17-Contraception::Class-Content"
       ]
     },
     {
@@ -79834,6 +81761,12 @@
       ]
     },
     {
+      "first_field_hash": "94c1172ac0667e3ab22a6556309692221593cbcc91673c6a82c4a14be131188d",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::16-Biliary-Physiology"
+      ]
+    },
+    {
       "first_field_hash": "b28b5f175e30b8e79955795c0bd750fc4414eb280084c06447b74b0c5a3c15f6",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Repro-Block::14-Sexual-Health-&-Dysfunction::Class-Content"
@@ -79985,9 +81918,33 @@
       ]
     },
     {
+      "first_field_hash": "238e865abdd79b9618c3ff33cdf4f0d45cbb070c48c29758ae0de0d9e518952c",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::16-Biliary-Physiology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "c71884ad92914921be898d841f834efda253c0120855a0cf7ac868cbed27bc2f",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::16-Biliary-Physiology"
+      ]
+    },
+    {
+      "first_field_hash": "0a6e2c7a139631705931b7c4d68c10776a37a9bfcb24ba47145ef1a65d6d16da",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::16-Biliary-Physiology"
+      ]
+    },
+    {
       "first_field_hash": "23ec9ca73fdb04496f4cff11d703e543c0ea8eda1ade64e75a9990a9272b1294",
       "tags": [
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-1::03-C.diff-&-Pseudomonas"
+      ]
+    },
+    {
+      "first_field_hash": "13a7d9676b3f5c2230e2e99e07344828fcf18f6f3835a964f14bfd42e4e0e746",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::14-Gastroenteritis"
       ]
     },
     {
@@ -80146,9 +82103,22 @@
       ]
     },
     {
+      "first_field_hash": "32729000d9a608e8c3639d1c0db03c3819705995191bbd384ab236d52deecf03",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::17-Contraception::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "a6ed25544642f8e210d10c810b7aea9a265a5d62419ce72e68efa2b49bf26906",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::04-Steroid-Hormone-Pharmacology::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::04-Steroid-Hormone-Pharmacology::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::17-Contraception::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "1e7e7d041eb805fffe4b43d5d5a2e8e10b32edbf106368fa8feea1d13c099e2c",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::17-Contraception::Class-Content"
       ]
     },
     {
@@ -80587,9 +82557,22 @@
       ]
     },
     {
+      "first_field_hash": "cd5790a546159b85ed2ed76fee377a7a5c85aa12c60f07bae490bc40846038e0",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::17-Contraception::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "6b024ceeb7e098849dbedcfc82396b87e04f5cb812de4bea117649fb73215e52",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Repro-Block::12-Early-Pregnancy-Complications-&-Bleeding-Tutorial"
+      ]
+    },
+    {
+      "first_field_hash": "9891de48af25811a9864717d7ce76bb1af58d3c67b908e60e3c1a522ae464b74",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::17-Contraception",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::17-Contraception::Class-Content"
       ]
     },
     {
@@ -80733,6 +82716,12 @@
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Repro-Block::07-Complications-of-Pregnancy",
         "JerryShen_AnKing_Tags::SOM-2::Repro-Block::07-Complications-of-Pregnancy::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "deb3a2762bdb0cbeb94dbff215a4a41ef872f3c497f7da83f4576e6ff20dc1dc",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::16-Biliary-Physiology"
       ]
     },
     {
@@ -81110,6 +83099,12 @@
       ]
     },
     {
+      "first_field_hash": "509b6143a309f1e4e2485047bc4bfa848af56f97452b7482319e1cc240e0a38a",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::08-Labor-&-Birth-Complications"
+      ]
+    },
+    {
       "first_field_hash": "580a8f803b0ab28eb686e4f797e1c993892a79f1a1a46874615318897e08de61",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Repro-Block::12-Early-Pregnancy-Complications-&-Bleeding-Tutorial"
@@ -81342,6 +83337,18 @@
       ]
     },
     {
+      "first_field_hash": "c31d28a08b5285abc53a5897814305d74487c19bc6b2c5f1e898fc0d15274aa9",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::17-Contraception"
+      ]
+    },
+    {
+      "first_field_hash": "2c985f54607bcb2a67ee290ee01a5b4ad96b76394c461f0518b36d9ef4ba9c02",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::17-Contraception"
+      ]
+    },
+    {
       "first_field_hash": "0488f17fa85817f6bbc479f016091e0272811d5271587e59cab287bede272ac9",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Repro-Block::14-Sexual-Health-&-Dysfunction::Class-Content"
@@ -81451,6 +83458,12 @@
       ]
     },
     {
+      "first_field_hash": "dc50f1a1c132538055f11407639becf8e8f312108b42797ea4db0b7bbd4efd8a",
+      "tags": [
+        "JerryShen_AnKing_Tags::POM-4::Clinical-Reasoning::Approach-to-Reproductive-Health::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "030ab93cd96ea5ae8e9bbb20ab54bf0c015390e5f3f80404be7ad4fc1d440b44",
       "tags": [
         "JerryShen_AnKing_Tags::POM-4::Clinical-Reasoning::Shortness-of-Breath-(Hyperthyroidism)"
@@ -81498,6 +83511,13 @@
       "tags": [
         "JerryShen_AnKing_Tags::POM-3::Psychiatry::Mood-Disorders",
         "JerryShen_AnKing_Tags::SOM-2::Repro-Block::05-Physiology-of-Pregnancy"
+      ]
+    },
+    {
+      "first_field_hash": "c7ca4689c0db117a51ab4fbe87a6b77c35968f736f0e138be9c2b847c6dcc8db",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::17-Contraception",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::17-Contraception::Class-Content"
       ]
     },
     {
@@ -81577,6 +83597,24 @@
       "first_field_hash": "d5d305bc0dcdcd9a5c374610cd9a5b2af3e4c505c938d35678fb4e29ebefee1d",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Repro-Block::12-Early-Pregnancy-Complications-&-Bleeding-Tutorial::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "fedce9cc6337904e6a9bcc3c24a970b644c42a6110d2ae4a73e4b26a00c319c8",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::17-Contraception::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "963344f6592a439d848d664552a39d03842c08d6f6c69eee19feae5d114984ca",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::17-Contraception"
+      ]
+    },
+    {
+      "first_field_hash": "6cb4c4865954874873a8372825842f78431265037392cc2466aac1eb5e1d644a",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::17-Contraception"
       ]
     },
     {
@@ -81826,6 +83864,12 @@
       ]
     },
     {
+      "first_field_hash": "cc7c2dc201e2939d89530e2b042a01f4063eda30d54e7fca706790bc0990ea2a",
+      "tags": [
+        "JerryShen_AnKing_Tags::POM-4::Clinical-Reasoning::Approach-to-Reproductive-Health::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "0cd5ce5857be48f0b23717f2d113b770832e847e66128fb83a1339fc036ae026",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Repro-Block::10-Amenorrhea-&-Infertility::Class-Content"
@@ -81840,6 +83884,7 @@
     {
       "first_field_hash": "4e407bbddcf43e35eaa658a3d05e4a4f5616ad164b3a6c168477aec547e2c1df",
       "tags": [
+        "JerryShen_AnKing_Tags::POM-4::Clinical-Reasoning::Approach-to-Reproductive-Health::Class-Content",
         "JerryShen_AnKing_Tags::SOM-2::Repro-Block::10-Amenorrhea-&-Infertility"
       ]
     },
@@ -82092,9 +84137,21 @@
       ]
     },
     {
+      "first_field_hash": "fb057590ec32645e183c81456921e5873dfa107110d6c889e1309fc8042aae46",
+      "tags": [
+        "JerryShen_AnKing_Tags::POM-4::Clinical-Reasoning::Approach-to-Reproductive-Health::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "2ee4be9dd7db76420b7d86e4f69f413cb788d880dc923e80a7c6895b66739146",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Repro-Block::11-Uterine-Pathology"
+      ]
+    },
+    {
+      "first_field_hash": "23b2f84042ca903f2854f98c9b6324f5c35b8e6ec055352e7b0d6f849f11006c",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::16-Sexually-Transmitted-Infections"
       ]
     },
     {
@@ -82134,6 +84191,12 @@
       ]
     },
     {
+      "first_field_hash": "d62fd619b6f819c67c852e2b55455269c1d2ce3e598aa33c75a1e797bf4c1d48",
+      "tags": [
+        "JerryShen_AnKing_Tags::POM-4::Clinical-Reasoning::Approach-to-Reproductive-Health::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "35f50e182f245e1973673f67a6c542c183d15514b1069d0fd6f496f6b1b70359",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Repro-Block::05-Physiology-of-Pregnancy"
@@ -82150,6 +84213,12 @@
       "first_field_hash": "ebcc5e952e5d3225f4fc09f45d1f5e280009542599c61f8f74d1660bb563da36",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Repro-Block::07-Complications-of-Pregnancy::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "3f41d6ca2e3eaa20d0274afd495e604757c2d431d555ba235efcd7070ff1ecca",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::17-Contraception"
       ]
     },
     {
@@ -83754,6 +85823,12 @@
       ]
     },
     {
+      "first_field_hash": "4218bfd9e05a23d9e8d1bbae5fdcac7fd3300aea0e2260a1b8f7956b6e38c9f7",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::14-Gastroenteritis"
+      ]
+    },
+    {
       "first_field_hash": "0d400eda86a4ae1a9d0b215e6ebac3a65b53c35509c48e06fcbc21bff89febd2",
       "tags": [
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-1::04-Intro-to-Viruses"
@@ -83968,6 +86043,12 @@
       "first_field_hash": "aa4ea619b42655942c9b09c110b87be1b221c2631fdc1b301b3ad193edb92e04",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Renal-Block::17-Urinary-Tract-Infections"
+      ]
+    },
+    {
+      "first_field_hash": "c7ab0ba23bec8922dde94c68fa93e2d8cb9b428ccb45706d6165726f7853f9f1",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::14-Gastroenteritis"
       ]
     },
     {
@@ -84374,6 +86455,30 @@
       ]
     },
     {
+      "first_field_hash": "e351118700b886919d82752ad87d6c79fde00e728611b905b5bdd9aa7864713f",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::15-Liver-Anatomy-&-Physiology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "f77a7b647b4dc7e686a5baebe08af2d9c0267c60b05803a22f5073485b04a7fc",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::15-Liver-Anatomy-&-Physiology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "66db2d9edd083a1858d0a62aa985bbd6e066337750ac424740099107a239671a",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::15-Liver-Anatomy-&-Physiology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "8e59855353eefa189018a7abf86f2485bbbbf93e136441ef608e1abea490340b",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::15-Liver-Anatomy-&-Physiology::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "201ca9bc0962b064b41d0ac3e34df2c7bc6bfe2002c2b75add7b8c4ad97f74fe",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::15-Bone-Pathophysiology",
@@ -84420,6 +86525,12 @@
       "first_field_hash": "3b000a6874d0282f3a0e3b374b85920f9626ef301a4817d416855faff8022ddf",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::23-Endocarditis::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "0a381ea71d291705b66f7b176c28359ee092cda38260edc1917b489d3d43333f",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::14-Gastroenteritis"
       ]
     },
     {
@@ -85263,6 +87374,12 @@
       ]
     },
     {
+      "first_field_hash": "cb6a931230adf261968ae6056208d988b1502341ae2c59cd77dd3b272c614279",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::16-Biliary-Physiology"
+      ]
+    },
+    {
       "first_field_hash": "92867887417f0bf3d7f33c406e591860d849292cc226eb8ae11a2874ef6a9a92",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Repro-Block::07-Complications-of-Pregnancy::Class-Content"
@@ -85393,6 +87510,12 @@
       "first_field_hash": "54860fc19082c767181b37de1b72e6cc0560b5613960727950e7bf01d7a8aa9c",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Repro-Block::12-Early-Pregnancy-Complications-&-Bleeding-Tutorial"
+      ]
+    },
+    {
+      "first_field_hash": "031e63ff1250bcd55899369122df8677a6c1184ab96cfac8eeecd3b21935e751",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::17-Contraception"
       ]
     },
     {
@@ -85552,6 +87675,12 @@
       ]
     },
     {
+      "first_field_hash": "2d76fe7df6ab884b6e70374cd0f677d8d5b78ade71440e8ed1f21c89f127afab",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::17-Contraception"
+      ]
+    },
+    {
       "first_field_hash": "a0774b76f74227f59648f68371468af653490ca78f7471b277c246fb8e085ad1",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::14-Bone-Physiology"
@@ -85689,6 +87818,12 @@
       "first_field_hash": "884ec94c7e9bbc6f590e5c55450e9a9d1a4444f33709af14560e1087da393a79",
       "tags": [
         "JerryShen_AnKing_Tags::POM-3::Clinical-Reasoning::Approach-to-Shock"
+      ]
+    },
+    {
+      "first_field_hash": "4ff628c6edb43b824eb59d17de2b742c455c4790c4f2676a6e5eded2fe233a9a",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::17-Contraception::Class-Content"
       ]
     },
     {
@@ -85909,6 +88044,12 @@
       "first_field_hash": "15d4c2de435f160ec5b713a45463bd676968836b1151ed428a6a0730c680d954",
       "tags": [
         "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-6-Head-&-Neck-1::Anatomy"
+      ]
+    },
+    {
+      "first_field_hash": "0658e0364e55a72412383090cc846e92f9ba1aac09b712b1ac576615f853f247",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::16-Biliary-Physiology"
       ]
     },
     {
@@ -86149,6 +88290,12 @@
       "first_field_hash": "60118b3f3d01e8272759def5799d0b5267d2b031fcc45f73ce5f563ad6096f7d",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::18-Adrenal-Physiology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "d40a206f4633e376f565b29322e301535364c371bf5b055bc28db04d213eec3d",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::06-Labor-Delivery-&-Postpartum-Physiology"
       ]
     },
     {
@@ -86453,6 +88600,12 @@
       ]
     },
     {
+      "first_field_hash": "4c4979d3e37ef31c91a3e5c10d3bd9a5ee2daa07cdbebefe0bb494a651337c31",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::16-Sexually-Transmitted-Infections"
+      ]
+    },
+    {
       "first_field_hash": "d25f6fa227f2f628fc23b8f22985d7a6c5f53e1538c97ec5d630e6d7a50e4ed6",
       "tags": [
         "JerryShen_AnKing_Tags::POM-1::Final::Ethics"
@@ -86653,6 +88806,12 @@
       ]
     },
     {
+      "first_field_hash": "caf523524e543df81b32aa513fb4d9e6d02ea7dfc8056db5fa68190061d34759",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::16-Biliary-Physiology"
+      ]
+    },
+    {
       "first_field_hash": "ca2c8d22da3833839f7eab338f2e143e45fffca7f46a3775e82144bd08fb1e5c",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::22-Peripheral-Arterial-&-Aortic-Disease"
@@ -86822,6 +88981,12 @@
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::MSK-Block::08-Pediatric-Orthopaedics",
         "JerryShen_AnKing_Tags::SOM-1::MSK-Block::08-Pediatric-Orthopaedics::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "576d5837b45e7990429a6c3b330962c37f8d8626f55233a6b1c5cfbf9d303e30",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::17-Contraception"
       ]
     },
     {
@@ -87165,7 +89330,7 @@
       ]
     },
     {
-      "first_field_hash": "e54430e4deddcee56e8ee970dad791be01f4e851e9b2e25d2bf0c37712a079e4",
+      "first_field_hash": "1846ab10bdc537696d76aafae80af5899b71168ed52c878b85aa6a09b159f5bc",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Renal-Block::16-Acute-Kidney-Injury::Class-Content"
       ]
@@ -88317,6 +90482,12 @@
       ]
     },
     {
+      "first_field_hash": "c61b665125ffa56839bcbd83e8a546dba93ea8e996184c183e4a6e1dbd9df37b",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::17-Contraception"
+      ]
+    },
+    {
       "first_field_hash": "7d73194015d35711ff5fb0037e030f4e92cf5cea35ab94caf91cdd839c9af14e",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Repro-Block::08-Labor-&-Birth-Complications"
@@ -88389,6 +90560,12 @@
       "first_field_hash": "e8e0bfd27bb57c1b2bc562de41b4d6780c1aa11f787046ebd688638a36201869",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Repro-Block::04-Steroid-Hormone-Pharmacology"
+      ]
+    },
+    {
+      "first_field_hash": "de68e8123cddf91c1b0b7dce214682870d81038a5d99dcc599b3303d2179cfc8",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::05-Physiology-of-Pregnancy"
       ]
     },
     {
@@ -88798,7 +90975,8 @@
     {
       "first_field_hash": "1030187ba66f92609c1d8797a4bdc3acfd630727285da010eb89c2af2ae5fc3d",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::04-Steroid-Hormone-Pharmacology::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::04-Steroid-Hormone-Pharmacology::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::17-Contraception::Class-Content"
       ]
     },
     {
@@ -89479,7 +91657,14 @@
     {
       "first_field_hash": "4b6d26faf042ebc73e7dc505b579e6ce7b822e7b2928994a71122b623dc0543e",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::05-Physiology-of-Pregnancy"
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::05-Physiology-of-Pregnancy",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::17-Contraception"
+      ]
+    },
+    {
+      "first_field_hash": "48b64303856cbbd81eeb26f5bebcf148e7b34a7a7323450bc47aeb7dde9e3cee",
+      "tags": [
+        "JerryShen_AnKing_Tags::POM-4::Clinical-Reasoning::Approach-to-Reproductive-Health"
       ]
     },
     {
@@ -89614,6 +91799,12 @@
       ]
     },
     {
+      "first_field_hash": "1c45fa5eea5902b2b91261b67f368d2e6dc6647d9ce9574896622d828f3e73e0",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::15-Liver-Anatomy-&-Physiology::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "6dfe8bec818719552ac9d9a47dd0521249fbb9af219b621092d57297008256ea",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::15-Bone-Pathophysiology::Class-Content"
@@ -89642,6 +91833,12 @@
       "tags": [
         "JerryShen_AnKing_Tags::POM-3::Clinical-Reasoning::Approach-to-Shock::Class-Content",
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::19-Central-&-Peripheral-Control-of-Circulation::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "3f4783fbd4c4caee3bf78bfe3ecf25a71d6d8acdb97a73a406f44079027b66e5",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::15-Liver-Anatomy-&-Physiology::Class-Content"
       ]
     },
     {
@@ -89748,9 +91945,21 @@
       ]
     },
     {
+      "first_field_hash": "c794e0eae99fcfaf8033df76e82c07d1f25fb6d16062d746522c8c37fcaf7cf9",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::16-Biliary-Physiology"
+      ]
+    },
+    {
       "first_field_hash": "6dde8afebb2acee1d281fe324b3712708d5478eb9c3a4cdeea21c0ddb72c1114",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Repro-Block::05-Physiology-of-Pregnancy::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "6a24e20354fde6ffb32b6f8fc783cdb32772d8f7908d5ae7024cd396ddb6e57b",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::16-Biliary-Physiology"
       ]
     },
     {
@@ -89984,6 +92193,12 @@
       ]
     },
     {
+      "first_field_hash": "b24b824796e8255ab552e35f7f0d9d2441d006c61451f3a5562fa3f9aa942e23",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::17-Contraception"
+      ]
+    },
+    {
       "first_field_hash": "34d83a2a4ec9a7018d7d3ecad34f2718e3b5e462bab1d35014329bb11119ce92",
       "tags": [
         "JerryShen_AnKing_Tags::Molecular-Foundations-&-Genetics::02-Genetics::03-Chromosomes",
@@ -90158,6 +92373,13 @@
       ]
     },
     {
+      "first_field_hash": "f36a4f35e3f414f3ceddafb44338699652234c6957ce6b54f91be4fe99906c8b",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::14-Gastroenteritis",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::14-Gastroenteritis::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "20a55e917b8de73cc215bc21744d7973feb58d826461ae1f6f7bbb01d15990be",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Repro-Block::16-Sexually-Transmitted-Infections::Class-Content"
@@ -90256,6 +92478,12 @@
       "first_field_hash": "dee0cafc732ccb39803c3821c8a1d14fca5f295f0d930f49b618359581440368",
       "tags": [
         "JerryShen_AnKing_Tags::POM-4::Clinical-Reasoning::Shortness-of-Breath-(Hyperthyroidism)"
+      ]
+    },
+    {
+      "first_field_hash": "25472821a79d804875592170147cfc152da4617a41c8927c0fc0d27fc240b28f",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::16-Biliary-Physiology"
       ]
     },
     {
@@ -90465,6 +92693,13 @@
       ]
     },
     {
+      "first_field_hash": "62b524fd33f3a0df8dbbc72c4013fd4937df757352a6cae9ac6c409a8fed9b56",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::17-Contraception",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::17-Contraception::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "73ce918210afdd3064080ade44a1004731155405d4eebd64103b6b962af7f70e",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::04-Salivary-Gland-&-Esophagus::Class-Content"
@@ -90612,6 +92847,12 @@
       ]
     },
     {
+      "first_field_hash": "d4f31323578ec2db65965f9f953ab8edd9a62936b7ce7df5c4f09d96b504912a",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::17-Contraception"
+      ]
+    },
+    {
       "first_field_hash": "1bf05a77930d34597e4bde6781beab6cef48cab6c05aae94d3968989a3f1ce64",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::15-Bone-Pathophysiology"
@@ -90633,7 +92874,8 @@
       "first_field_hash": "9e8fd252a8bcfce319e7299acc426eba7d638f4a7e3d75d61c17573eacf85ecf",
       "tags": [
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-2::09-Misc-Antimicrobials-&-Skin-Infections",
-        "JerryShen_AnKing_Tags::Micro-Pharm::Exam-2::09-Misc-Antimicrobials-&-Skin-Infections::Class-Content"
+        "JerryShen_AnKing_Tags::Micro-Pharm::Exam-2::09-Misc-Antimicrobials-&-Skin-Infections::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::16-Biliary-Physiology::Class-Content"
       ]
     },
     {
@@ -90962,6 +93204,12 @@
       "first_field_hash": "c898575cebda1dbd22b9d0948a04eaeddca3faf81160b881aedd1cead740205c",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::07-Type-2-Diabetes"
+      ]
+    },
+    {
+      "first_field_hash": "d3fedca5f30c0bad3d74a82c42ef546449e4ec222d316330038feb6d99b68fed",
+      "tags": [
+        "JerryShen_AnKing_Tags::POM-4::Clinical-Reasoning::Approach-to-Reproductive-Health::Class-Content"
       ]
     },
     {
@@ -92380,6 +94628,12 @@
       ]
     },
     {
+      "first_field_hash": "30955abea6b8d535049ddcb876a83f9506244759c45db4d2c5c772e3c82644fc",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::15-Ovarian-&-Fallopian-Pathology"
+      ]
+    },
+    {
       "first_field_hash": "28d2ac12e587e390111d9c80986e02935767ccd734296192e8718b7297c7ccbf",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Repro-Block::15-Ovarian-&-Fallopian-Pathology::Class-Content"
@@ -92564,6 +94818,12 @@
       "first_field_hash": "4c67fc08a1a34a04398acdd5dcf78b0988e5d882cf39a9747e87a644ea724bef",
       "tags": [
         "JerryShen_AnKing_Tags::Micro-Pharm::Exam-2::07-β-Lactam-Antibiotics-&-Parasites"
+      ]
+    },
+    {
+      "first_field_hash": "62c3e5b1dbe1ee9a0b40c8f2686110d1fa719fbb420e87cb0d175e54eb6b78d8",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::14-Gastroenteritis"
       ]
     },
     {
@@ -92860,6 +95120,12 @@
       ]
     },
     {
+      "first_field_hash": "55dd8db391d3b2981e83227d79c14d3fd4e819b19b4dbe9aacc29a9669c92d69",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::06-Labor-Delivery-&-Postpartum-Physiology"
+      ]
+    },
+    {
       "first_field_hash": "dd2534c5402c44d97911500aa7eb6475d8fbe0466ab2a203d4474bc7f2dceda9",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Repro-Block::06-Labor-Delivery-&-Postpartum-Physiology::Class-Content"
@@ -92882,6 +95148,37 @@
       "first_field_hash": "792f49b00ac221996cdcdbb4b06b15e5952923db1ff09f6c0192a9229d0a09dc",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Renal-Block::24-Genetic-Kidney-Diseases"
+      ]
+    },
+    {
+      "first_field_hash": "d96c267bde9882a85e9d2d3e9faa86cc9c7815d2326ab6e35c07965b45b10483",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::17-Contraception::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "9ac7bc55aa3dbf22b89c4a51600485b78abd20be20eeffe43c89cfd4424bda0b",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::17-Contraception::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "7b45feee0c4104deb00566fab6afd5780b36f38e573c564637d93d9f847297e6",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::17-Contraception"
+      ]
+    },
+    {
+      "first_field_hash": "db33efd66210044a17f28cedd3f5c3983043bb317a8849882d6a31db1f4dee7b",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::17-Contraception"
+      ]
+    },
+    {
+      "first_field_hash": "03ec26813e265df75e52e64cfa1c3bfdc35040602721896d2f4f854c5c762023",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::17-Contraception",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::17-Contraception::Class-Content"
       ]
     },
     {
@@ -93504,6 +95801,12 @@
       "first_field_hash": "fc91074c03d0f734e70d8c6b5b72e5f454fcfb50c25be90114041e67744bf53d",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::MSK-Block::08-Pediatric-Orthopaedics"
+      ]
+    },
+    {
+      "first_field_hash": "26b8a2ed184ab50cad8a7aa71934889e1e97c1e69df3049f9f43ab85a3990911",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::14-Gastroenteritis"
       ]
     },
     {
