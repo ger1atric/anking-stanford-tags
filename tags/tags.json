@@ -1,14 +1,14 @@
 {
   "schema_version": 1,
   "author": "JerryShen",
-  "description": "for kenny cuz i know he boutta text me",
-  "created": "2026-11-13T06:51:37.485688+00:00",
-  "updated": "2026-11-13T06:51:37.485688+00:00",
+  "description": "liver stuff",
+  "created": "2026-11-17T07:50:25.060964+00:00",
+  "updated": "2026-11-17T07:50:25.060964+00:00",
   "tag_prefix": "JerryShen_AnKing_Tags",
   "tag_hierarchy": [
     "JerryShen_AnKing_Tags",
     "JerryShen_AnKing_Tags::(✏️)-Tagged-by-Jerry-Shen",
-    "JerryShen_AnKing_Tags::(🛠️)-Last-Updated-110626",
+    "JerryShen_AnKing_Tags::(🛠️)-Last-Updated-111326",
     "JerryShen_AnKing_Tags::(🧋)-buymeacoffee.com/ger1atric",
     "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology",
     "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-1-Thorax",
@@ -298,6 +298,8 @@
     "JerryShen_AnKing_Tags::POM-4::Clinical-Reasoning::Approach-to-Abdominal-Pain::Class-Content",
     "JerryShen_AnKing_Tags::POM-4::Clinical-Reasoning::Approach-to-Edema",
     "JerryShen_AnKing_Tags::POM-4::Clinical-Reasoning::Approach-to-Edema::Class-Content",
+    "JerryShen_AnKing_Tags::POM-4::Clinical-Reasoning::Approach-to-Jaundice",
+    "JerryShen_AnKing_Tags::POM-4::Clinical-Reasoning::Approach-to-Jaundice::Class-Content",
     "JerryShen_AnKing_Tags::POM-4::Clinical-Reasoning::Approach-to-Palpitations",
     "JerryShen_AnKing_Tags::POM-4::Clinical-Reasoning::Approach-to-Palpitations::Class-Content",
     "JerryShen_AnKing_Tags::POM-4::Clinical-Reasoning::Approach-to-Polyuria",
@@ -454,6 +456,8 @@
     "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::19-ARDS-&-Ventilators::Class-Content",
     "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::20-Interstitial-Lung-Disease",
     "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::20-Interstitial-Lung-Disease::Class-Content",
+    "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::21-Liver-Transplantation",
+    "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::21-Liver-Transplantation::Class-Content",
     "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::21-Pathology-of-ILD",
     "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::21-Pathology-of-ILD::Class-Content",
     "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::22-Respiratory-Tract-Case-Studies",
@@ -564,6 +568,9 @@
     "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::17-Cirrhosis-&-Portal-HTN::Class-Content",
     "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::18-Pancreatic-Liver-&-Biliary-Cancers",
     "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::18-Pancreatic-Liver-&-Biliary-Cancers::Class-Content",
+    "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::19-Non-Viral-Liver-Disease",
+    "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::19-Non-Viral-Liver-Disease::Class-Content",
+    "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::20-Liver-Transplantation",
     "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::Tutorial-1-GI-Tract",
     "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::Tutorial-1-GI-Tract::Class-Content",
     "JerryShen_AnKing_Tags::SOM-2::Renal-Block",
@@ -1057,6 +1064,11 @@
       "date": "2026-11-13T06:51:37.485688+00:00",
       "message": "for kenny cuz i know he boutta text me",
       "note_count": 2042
+    },
+    {
+      "date": "2026-11-17T07:50:25.060964+00:00",
+      "message": "liver stuff",
+      "note_count": 303
     }
   ],
   "notes": [
@@ -1620,6 +1632,12 @@
       "first_field_hash": "70fa3dad111b7d5a794554fff739294f56fdbaa0128a4db8e5bc25573ebd0668",
       "tags": [
         "JerryShen_AnKing_Tags::Micro-Pharm::Microbiology::02-C.diff-&-Pseudomonas::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "04e70b1fa28b5e7e69a790fd7847c4d22bb24093c0228c83b179bd050915a22c",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::20-Liver-Transplantation"
       ]
     },
     {
@@ -9748,7 +9766,7 @@
       ]
     },
     {
-      "first_field_hash": "fc9653d1a73c7c86fb18c2930d35fff57ac400a4a8e9b4806cab70497a6749a7",
+      "first_field_hash": "82ee5a0046fb50dc7556b912e948d5818bda8efd4ec3a87e25802d7af18f2a01",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Repro-Block::15-Ovarian-&-Fallopian-Pathology"
       ]
@@ -11062,6 +11080,7 @@
     {
       "first_field_hash": "3885073fd0a1c0d45c981b743620f93261ea2c0abf22b67cc190b945b6dc89f1",
       "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::21-Liver-Transplantation::Class-Content",
         "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::18-Adrenal-Physiology::Class-Content"
       ]
     },
@@ -11504,6 +11523,12 @@
       "first_field_hash": "ba8dcf2db36541456ef6d5a5a38f07260ff039f21ff4b0f2683f7b948483ca65",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::13-Obesity::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "e885db511d48b25f73d4bd8d9b368090d7cbab6af245915eccc3d894b4810d97",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::19-Non-Viral-Liver-Disease::Class-Content"
       ]
     },
     {
@@ -12462,7 +12487,8 @@
     {
       "first_field_hash": "a1b476de85007e94e6e5ec7d14d5c02d2a7f917a15fe5dd8701d1f39385e7f10",
       "tags": [
-        "JerryShen_AnKing_Tags::Biochemistry::Final::03-Lipid-Metabolism::Class-Content"
+        "JerryShen_AnKing_Tags::Biochemistry::Final::03-Lipid-Metabolism::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::19-Non-Viral-Liver-Disease::Class-Content"
       ]
     },
     {
@@ -12649,7 +12675,8 @@
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::10-Airway-Obstruction::Class-Content",
         "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::12-Pathology-of-Asthma-and-COPD",
-        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::12-Pathology-of-Asthma-and-COPD::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::12-Pathology-of-Asthma-and-COPD::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::19-Non-Viral-Liver-Disease::Class-Content"
       ]
     },
     {
@@ -12663,7 +12690,8 @@
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::10-Airway-Obstruction::Class-Content",
         "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::12-Pathology-of-Asthma-and-COPD",
-        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::12-Pathology-of-Asthma-and-COPD::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::12-Pathology-of-Asthma-and-COPD::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::19-Non-Viral-Liver-Disease::Class-Content"
       ]
     },
     {
@@ -17027,6 +17055,12 @@
       ]
     },
     {
+      "first_field_hash": "68892b87565b4cd513037fa48e7ed9bc8f70aa283d59a1bd76ae15e432d49f42",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::35-Congenital-Heart-Disease"
+      ]
+    },
+    {
       "first_field_hash": "f654a867445531fd852e1ce744270e5cad1dd8bd755b3339422a114a7be3e03b",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::35-Congenital-Heart-Disease"
@@ -17633,6 +17667,12 @@
       "first_field_hash": "0d59720103774b1fe15003943abe772bb7687e5b33936e37a68589443b100832",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::23-Endocarditis::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "784a1c15e68d3dbd5b4d5182fb033fae5a34b8eb9c672b8df23682cebbb8429c",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::19-Non-Viral-Liver-Disease"
       ]
     },
     {
@@ -22229,7 +22269,8 @@
     {
       "first_field_hash": "2b7f54b9a3c2ce4469a7673fe584eb465f3d2c6501a959ed3ab02a3b69f4e615",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::16-Lower-Respiratory-Infections"
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::16-Lower-Respiratory-Infections",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::20-Liver-Transplantation"
       ]
     },
     {
@@ -22438,7 +22479,8 @@
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::10-Airway-Obstruction::Class-Content",
         "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::12-Pathology-of-Asthma-and-COPD",
-        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::12-Pathology-of-Asthma-and-COPD::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::12-Pathology-of-Asthma-and-COPD::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::19-Non-Viral-Liver-Disease::Class-Content"
       ]
     },
     {
@@ -22452,13 +22494,15 @@
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::10-Airway-Obstruction::Class-Content",
         "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::12-Pathology-of-Asthma-and-COPD",
-        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::12-Pathology-of-Asthma-and-COPD::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::12-Pathology-of-Asthma-and-COPD::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::19-Non-Viral-Liver-Disease::Class-Content"
       ]
     },
     {
       "first_field_hash": "c058e206072db2423f3fb9c6d2b3c8cc69b91ba672de76e27d8d85160915ffc6",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::12-Pathology-of-Asthma-and-COPD"
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::12-Pathology-of-Asthma-and-COPD",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::19-Non-Viral-Liver-Disease::Class-Content"
       ]
     },
     {
@@ -22479,43 +22523,68 @@
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::12-Pathology-of-Asthma-and-COPD",
         "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::12-Pathology-of-Asthma-and-COPD::Class-Content",
-        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::17-Chest-Imaging-II::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::17-Chest-Imaging-II::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::19-Non-Viral-Liver-Disease"
       ]
     },
     {
       "first_field_hash": "71c1fc234c0182c3025afd38ce08a07d19049917b93f8bbe230b69ff3e91b909",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::12-Pathology-of-Asthma-and-COPD"
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::12-Pathology-of-Asthma-and-COPD",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::19-Non-Viral-Liver-Disease::Class-Content"
       ]
     },
     {
       "first_field_hash": "2569cb3831202ad528c1767f53b701b9015483e89e843ad07d50450187d2c57f",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::12-Pathology-of-Asthma-and-COPD"
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::12-Pathology-of-Asthma-and-COPD",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::19-Non-Viral-Liver-Disease::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "8422389338da35e5e80565cd3b3533e33b8a9d5916a9350fdd91c31828f3d035",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::19-Non-Viral-Liver-Disease::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "761311d717d977608a262d87b315a106d7465835373befb7be295417c6806089",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::19-Non-Viral-Liver-Disease::Class-Content"
       ]
     },
     {
       "first_field_hash": "d6b2e1cd1ed59ac6c4fe47fff750cf4aa4a7596b2d6a39994d758a24c54a8cfd",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::12-Pathology-of-Asthma-and-COPD"
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::12-Pathology-of-Asthma-and-COPD",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::19-Non-Viral-Liver-Disease::Class-Content"
       ]
     },
     {
       "first_field_hash": "939a8a7ab76ffd997338cea7e2e6d05dd0a9c20ae8f4ad4340f33337d1de661f",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::10-Airway-Obstruction"
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::10-Airway-Obstruction",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::19-Non-Viral-Liver-Disease::Class-Content"
       ]
     },
     {
       "first_field_hash": "368f36e5db8eeae71abecacf097c8f1eaf21c8d4d483fccc5ed296451b0f3ba9",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::12-Pathology-of-Asthma-and-COPD"
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::12-Pathology-of-Asthma-and-COPD",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::19-Non-Viral-Liver-Disease"
       ]
     },
     {
       "first_field_hash": "8e9e127769fe6e1ea1bc315f7300bd7bbb8400b422a1a573a8079c40fedfb033",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::12-Pathology-of-Asthma-and-COPD"
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::12-Pathology-of-Asthma-and-COPD",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::19-Non-Viral-Liver-Disease"
+      ]
+    },
+    {
+      "first_field_hash": "1544e9e508cacdcc24b52c98b09f2c858c0e67ad276eeb0ec9f55c91d3c304aa",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::19-Non-Viral-Liver-Disease::Class-Content"
       ]
     },
     {
@@ -25319,45 +25388,100 @@
       ]
     },
     {
+      "first_field_hash": "ace00c45d18786373e044db1b92bf2a3f97615083b5dcdb2bf80f53b84bc50fe",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::19-Non-Viral-Liver-Disease::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "2a825ee095241edf883525a393cea1dac2d516d432f752e7bcf88995996726bc",
       "tags": [
-        "JerryShen_AnKing_Tags::Biochemistry::Final::03-Lipid-Metabolism::Class-Content"
+        "JerryShen_AnKing_Tags::Biochemistry::Final::03-Lipid-Metabolism::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::19-Non-Viral-Liver-Disease::Class-Content"
       ]
     },
     {
       "first_field_hash": "a03387bd80375fba4b0c6d215f118b3002d9f37824030e069b61b2437bdbd727",
       "tags": [
-        "JerryShen_AnKing_Tags::Biochemistry::Final::03-Lipid-Metabolism::Class-Content"
+        "JerryShen_AnKing_Tags::Biochemistry::Final::03-Lipid-Metabolism::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::19-Non-Viral-Liver-Disease::Class-Content"
       ]
     },
     {
       "first_field_hash": "ee719ae6474e2e263ef59c777e6ae9c25f15a7c9c2900039f3e0a59e8ad2a498",
       "tags": [
-        "JerryShen_AnKing_Tags::Biochemistry::Final::03-Lipid-Metabolism::Class-Content"
+        "JerryShen_AnKing_Tags::Biochemistry::Final::03-Lipid-Metabolism::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::19-Non-Viral-Liver-Disease::Class-Content"
       ]
     },
     {
       "first_field_hash": "f93baff422b533cc27ba03dd7384436ebffdab932e1c90310595ca29fc5a473d",
       "tags": [
-        "JerryShen_AnKing_Tags::Biochemistry::Final::03-Lipid-Metabolism::Class-Content"
+        "JerryShen_AnKing_Tags::Biochemistry::Final::03-Lipid-Metabolism::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::19-Non-Viral-Liver-Disease"
+      ]
+    },
+    {
+      "first_field_hash": "6950c1611db782af89abb46507ee23141684fde66b40a373f9751756a2230d79",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::19-Non-Viral-Liver-Disease::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "d288c5a0c3b26c8dcbbc614427cc52d80b3f08acfc200865e355b54d547e713e",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::19-Non-Viral-Liver-Disease::Class-Content"
       ]
     },
     {
       "first_field_hash": "22fbf14a5b87e72b448720eb09be9980253b2ba6bb8deb81b3e9eb39e2209ac6",
       "tags": [
-        "JerryShen_AnKing_Tags::Biochemistry::Final::02-Oxidative-Phosphorylation"
+        "JerryShen_AnKing_Tags::Biochemistry::Final::02-Oxidative-Phosphorylation",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::19-Non-Viral-Liver-Disease::Class-Content"
       ]
     },
     {
       "first_field_hash": "2de247de35a91a020c04575b9a73ec059a7a4ca4d4a9c06ff76765a4c8de8a38",
       "tags": [
-        "JerryShen_AnKing_Tags::Biochemistry::Final::02-Oxidative-Phosphorylation"
+        "JerryShen_AnKing_Tags::Biochemistry::Final::02-Oxidative-Phosphorylation",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::19-Non-Viral-Liver-Disease::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "d58c911d3d6052d153524ce3f6ac592903c31350e663fd10a42b6b17cfd56c30",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::19-Non-Viral-Liver-Disease"
+      ]
+    },
+    {
+      "first_field_hash": "fc33c4088887270317098f1e9a4b4f49c6d769b55ba3de3c0cec3e79a96ebc1a",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::19-Non-Viral-Liver-Disease"
+      ]
+    },
+    {
+      "first_field_hash": "120716ea524d618685c3a6f32d162fa262a09740a2232564a461f1df7c38b4a9",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::19-Non-Viral-Liver-Disease::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "d3c40be85be0e4442995bf353dc124f2171b36b0e893063195b58d2cff68ac98",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::19-Non-Viral-Liver-Disease"
       ]
     },
     {
       "first_field_hash": "0e0f6e8d2959ea031d62249a870f9d77642784f164942f3370dd2dec34803f21",
       "tags": [
-        "JerryShen_AnKing_Tags::Biochemistry::Final::02-Oxidative-Phosphorylation::Class-Content"
+        "JerryShen_AnKing_Tags::Biochemistry::Final::02-Oxidative-Phosphorylation::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::19-Non-Viral-Liver-Disease"
+      ]
+    },
+    {
+      "first_field_hash": "6c4b681abb0cfd7c2e6786eecd04d1d664b47628a9fb89fd6437b4505e022135",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::19-Non-Viral-Liver-Disease"
       ]
     },
     {
@@ -29715,7 +29839,7 @@
       ]
     },
     {
-      "first_field_hash": "5d2210c8db25855bbbf5c47966334e1370fe693861a04ddd6ef2d108ad3b7350",
+      "first_field_hash": "f675874fe78cb45532d9f6365cb7e725a2090cd59e4132249c6304a5a3d56f0e",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Renal-Block::16-Acute-Kidney-Injury"
       ]
@@ -31726,6 +31850,12 @@
       "first_field_hash": "e614a15b637d0f50d5da41a00409f5138da9dcc2b3b32ae25ea587d0b7612a0a",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Renal-Block::19-Nephrotic-Syndrome"
+      ]
+    },
+    {
+      "first_field_hash": "3283db3360f5b97aad94346aa7ec0048144c95775485d20f5030fb95c72c10ec",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::19-Non-Viral-Liver-Disease::Class-Content"
       ]
     },
     {
@@ -33915,6 +34045,12 @@
       ]
     },
     {
+      "first_field_hash": "d4ad44d6f1e70c016ac425821ab6b2061b83cf7cd8427d38e2bc1e9061808af3",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::19-Non-Viral-Liver-Disease"
+      ]
+    },
+    {
       "first_field_hash": "545ee6b71d0a6c0e202207f10d835ea7f24e268a4b6b78e00658edc926d3cd36",
       "tags": [
         "JerryShen_AnKing_Tags::Biochemistry::Final::01-Carbohydrate-Metabolism"
@@ -35550,6 +35686,12 @@
       ]
     },
     {
+      "first_field_hash": "7acb4f7a4ef775760c08553dd0df6aa2f05df95030a281b5aef8fed1ea98a3b2",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::19-Non-Viral-Liver-Disease::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "ea774e0ce2ccd6fd04a85959ee8837f66d23f2dd12b2f8274cf0efec1f055daa",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::14-Bone-Physiology::Class-Content"
@@ -35669,6 +35811,12 @@
       ]
     },
     {
+      "first_field_hash": "e34b350382475f38aa4c5950823308de3eff753e2a727bb651c892f778a29470",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::19-Non-Viral-Liver-Disease"
+      ]
+    },
+    {
       "first_field_hash": "1f5270fa408fd7fc92c081e99a0752bdb5fdb1b22d65b4b88bbb451d4ed61ca3",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::03-Fat-&-Micronutrient-Nutrition::Class-Content"
@@ -35695,7 +35843,8 @@
     {
       "first_field_hash": "4b95eaef0ffb3779bf768255e2569a348b95a75c293367cd171de1d1d50ab5ab",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::03-Fat-&-Micronutrient-Nutrition"
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::03-Fat-&-Micronutrient-Nutrition",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::19-Non-Viral-Liver-Disease"
       ]
     },
     {
@@ -35727,6 +35876,18 @@
       "tags": [
         "JerryShen_AnKing_Tags::Neurobiology::Exam-2::Tutorial-2-Spinal-Cord",
         "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::03-Fat-&-Micronutrient-Nutrition::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "f170187e755828bca867d3b7cdca3abd830b5ac11008d43d4a9d89eb142e3a41",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::19-Non-Viral-Liver-Disease"
+      ]
+    },
+    {
+      "first_field_hash": "d3e4cde6550401f4e2451747c6132c7d56c5c507c6c3b1958c2ce537296cdffe",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::19-Non-Viral-Liver-Disease::Class-Content"
       ]
     },
     {
@@ -35855,38 +36016,56 @@
       "first_field_hash": "f39ba5e07c462e230c4ae9e9b206199aca02786875b7d9cc16250bc6fafc3c9b",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::03-Fat-&-Micronutrient-Nutrition::Class-Content",
-        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::06-Small-Intestine::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::06-Small-Intestine::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::19-Non-Viral-Liver-Disease"
       ]
     },
     {
       "first_field_hash": "3b3b9b906cf842f067d8fb065c22598859fd07b625159c206367cdd62b11b806",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::03-Fat-&-Micronutrient-Nutrition::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::03-Fat-&-Micronutrient-Nutrition::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::19-Non-Viral-Liver-Disease::Class-Content"
       ]
     },
     {
       "first_field_hash": "357159cd7495e109ded4e5799fc997cdd39e65c33233ace0a60f443a9e1ac37f",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::03-Fat-&-Micronutrient-Nutrition"
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::03-Fat-&-Micronutrient-Nutrition",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::19-Non-Viral-Liver-Disease"
       ]
     },
     {
       "first_field_hash": "ae04dc83a478696bb26db5f1d60e60b74af130a95a9709d1db479c0f9d555099",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::03-Fat-&-Micronutrient-Nutrition::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::03-Fat-&-Micronutrient-Nutrition::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::19-Non-Viral-Liver-Disease::Class-Content"
       ]
     },
     {
       "first_field_hash": "1925c4d8585b5eb5a2249d4ecdde86a05db380df4ddc16086770ad7a48841a3e",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::03-Fat-&-Micronutrient-Nutrition",
-        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::03-Fat-&-Micronutrient-Nutrition::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::03-Fat-&-Micronutrient-Nutrition::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::19-Non-Viral-Liver-Disease::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "9b63765cf7324b2c66459dd399c9e561d638916d00b35243573043a452232281",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::19-Non-Viral-Liver-Disease::Class-Content"
       ]
     },
     {
       "first_field_hash": "0ae441d4000a9ecc4f49472d701d479757b09e5eb7889d764d30dc7ab98695a9",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::03-Fat-&-Micronutrient-Nutrition::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::03-Fat-&-Micronutrient-Nutrition::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::19-Non-Viral-Liver-Disease::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "30db41233018f4b2141651c5b6603b95a48ea82b3c1afbbb01a7d8925aba8f16",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::19-Non-Viral-Liver-Disease::Class-Content"
       ]
     },
     {
@@ -37021,6 +37200,12 @@
       ]
     },
     {
+      "first_field_hash": "b2849380ce64b279bf4798f27001fd05b95bc6e59b37dfa155579b6ed635f1df",
+      "tags": [
+        "JerryShen_AnKing_Tags::POM-4::Clinical-Reasoning::Approach-to-Jaundice::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "29459c71a303c6a5369e9dee945e1197ae83912d12493e92e2603d3474553c72",
       "tags": [
         "JerryShen_AnKing_Tags::POM-4::Clinical-Reasoning::Approach-to-Palpitations"
@@ -37030,7 +37215,7 @@
       "first_field_hash": "2a031d845d81d8519144d4178eb3dd043b6971de8122ecb98beca67bf6153b2a",
       "tags": [
         "JerryShen_AnKing_Tags::(✏️)-Tagged-by-Jerry-Shen",
-        "JerryShen_AnKing_Tags::(🛠️)-Last-Updated-110626",
+        "JerryShen_AnKing_Tags::(🛠️)-Last-Updated-111326",
         "JerryShen_AnKing_Tags::(🧋)-buymeacoffee.com/ger1atric",
         "JerryShen_AnKing_Tags::Biochemistry::Final::02-Oxidative-Phosphorylation::Class-Content"
       ]
@@ -37056,7 +37241,8 @@
     {
       "first_field_hash": "02c6164e64fe32cb241c2d978e61e74aba04b29799eae678c3717b906473a87a",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::03-Fat-&-Micronutrient-Nutrition::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::03-Fat-&-Micronutrient-Nutrition::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::19-Non-Viral-Liver-Disease::Class-Content"
       ]
     },
     {
@@ -37068,7 +37254,8 @@
     {
       "first_field_hash": "eb60461d849d705ffa7363f6a9a26c6b3f2d53b943c453fd262b07c196a150eb",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::03-Fat-&-Micronutrient-Nutrition::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::03-Fat-&-Micronutrient-Nutrition::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::19-Non-Viral-Liver-Disease::Class-Content"
       ]
     },
     {
@@ -37080,7 +37267,8 @@
     {
       "first_field_hash": "c6537800a9322004bcc4307e77c9e52367a8d8a72a9aa5dd0b43362d61ed1378",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::03-Fat-&-Micronutrient-Nutrition::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::03-Fat-&-Micronutrient-Nutrition::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::19-Non-Viral-Liver-Disease::Class-Content"
       ]
     },
     {
@@ -37144,6 +37332,18 @@
       ]
     },
     {
+      "first_field_hash": "632439f868ca97c89ee9f759d992256e3c51679d50fe82c0061a5acd5b4e11c9",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::19-Non-Viral-Liver-Disease::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "7b1fa2bc5cccc73a23e7641a44883ce7a14b0ec10d0e8f7342ce2ec4a17e5b05",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::19-Non-Viral-Liver-Disease"
+      ]
+    },
+    {
       "first_field_hash": "e88d68946dad26f3900d5e7ac7adf883648cdf4e0ca02e2372f526664f2336fb",
       "tags": [
         "JerryShen_AnKing_Tags::Biochemistry::Final::02-Oxidative-Phosphorylation"
@@ -37153,6 +37353,12 @@
       "first_field_hash": "98b21fec4948787d9dce723e272963ed160c87a687d00391af2a40aeab708881",
       "tags": [
         "JerryShen_AnKing_Tags::Biochemistry::Final::02-Oxidative-Phosphorylation"
+      ]
+    },
+    {
+      "first_field_hash": "14ab0d08737b8fdf6b806c8d9eaf31327d8854ab720661cbc64d9576f8a7eea9",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::19-Non-Viral-Liver-Disease"
       ]
     },
     {
@@ -37190,6 +37396,12 @@
       "tags": [
         "JerryShen_AnKing_Tags::Biochemistry::Final::02-Oxidative-Phosphorylation::Class-Content",
         "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::03-Fat-&-Micronutrient-Nutrition"
+      ]
+    },
+    {
+      "first_field_hash": "54b7510824812661ece1f42d49b67ec29d088354983fb14686b4cac7d854740f",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::19-Non-Viral-Liver-Disease"
       ]
     },
     {
@@ -37259,6 +37471,12 @@
         "JerryShen_AnKing_Tags::Neurobiology::Exam-2::Tutorial-2-Spinal-Cord",
         "JerryShen_AnKing_Tags::Neurobiology::Exam-2::Tutorial-2-Spinal-Cord::Class-Content",
         "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::03-Fat-&-Micronutrient-Nutrition::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "c68b097f9370e1c64273bea28148e70f5f1e8152d3c71489967c45c1893abd3f",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::19-Non-Viral-Liver-Disease::Class-Content"
       ]
     },
     {
@@ -37362,6 +37580,12 @@
       "first_field_hash": "eda528306e95208643d5e8a42223b57e1bda4589d26f06fb9f1fe7cef8189133",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::26-Pulmonary-Cases-&-Miscellaneous-Diseases::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "73dd5230b2448ce111cec21795dbd66e31c4d839a59e596374e847896c871756",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::19-Non-Viral-Liver-Disease"
       ]
     },
     {
@@ -39650,7 +39874,7 @@
       ]
     },
     {
-      "first_field_hash": "d890cedc65841a3e7b8d2e0ab2b0c63779607b2cd58f870cf3f28a0eb8fe9212",
+      "first_field_hash": "18d7f08cde5afad65ab4bfdbbed5bdcf07344249acb8e2d73d74265751a35aa5",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::09-Upper-GI-Infections::Class-Content",
         "JerryShen_AnKing_Tags::SOM-2::Repro-Block::13-HPV-&-Cervical-Cancer::Class-Content"
@@ -44310,7 +44534,8 @@
     {
       "first_field_hash": "d8f5da2ee062eccb6f9aa280f8b9d5d80bb4b39c93ea4bd7b1f5d266322d6430",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::03-Fat-&-Micronutrient-Nutrition::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::03-Fat-&-Micronutrient-Nutrition::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::19-Non-Viral-Liver-Disease::Class-Content"
       ]
     },
     {
@@ -46104,6 +46329,12 @@
       ]
     },
     {
+      "first_field_hash": "36ee8e36b6c3f1efa323649050f17d15c4d46dff489f5bb7f18f737209ad491e",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::19-Non-Viral-Liver-Disease::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "64764fd46ccec7c4b712e8815d80f3115349f69c4c1adfd0f385f4857e30050f",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::08-Large-Intestine"
@@ -47347,7 +47578,8 @@
     {
       "first_field_hash": "f278dd476fe64a42ab905360642cfce9c92986f11ac18082c3489d52f2d39659",
       "tags": [
-        "JerryShen_AnKing_Tags::Micro-Pharm::Microbiology::06-Parasites"
+        "JerryShen_AnKing_Tags::Micro-Pharm::Microbiology::06-Parasites",
+        "JerryShen_AnKing_Tags::POM-4::Clinical-Reasoning::Approach-to-Jaundice::Class-Content"
       ]
     },
     {
@@ -48612,6 +48844,12 @@
       ]
     },
     {
+      "first_field_hash": "c366fed0dc70440564d6b8e83c5f8b74a64953c862a6cb78423e8a174b4869e5",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::19-Non-Viral-Liver-Disease"
+      ]
+    },
+    {
       "first_field_hash": "9316cb3ea70b5bbd37dd347ed7d995728ebff64a6df9b8e2257f05e9b7d1e6b7",
       "tags": [
         "JerryShen_AnKing_Tags::POM-3::Geriatrics::Class-Content"
@@ -49115,7 +49353,7 @@
       ]
     },
     {
-      "first_field_hash": "121dd3b1b05c89687a1e4aefa4e135966dea5d5d5b413d45898e9e79c9ca9070",
+      "first_field_hash": "2a3358ae36df42fa3e1c66cae299aa48e710790fd7c512c3d9ecf21854849722",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::23-Endocarditis::Class-Content"
       ]
@@ -49793,6 +50031,12 @@
       ]
     },
     {
+      "first_field_hash": "e39ef8ba3fa49fabde6d8d0b7e45ef581b40cd89c1b68f63dd1463126b6f0721",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::19-Non-Viral-Liver-Disease::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "737b253b0a662a26ca9026dcab55117cc9671beb8028bbb5d6764ca18ca50b4f",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::10-Autonomic-Physiology-and-Pharmacology"
@@ -50223,18 +50467,21 @@
     {
       "first_field_hash": "a76aa08a1eefb4e8fd8458ea2da032ee0978ec2710248a2b457d3e5f71086612",
       "tags": [
+        "JerryShen_AnKing_Tags::POM-4::Clinical-Reasoning::Approach-to-Jaundice::Class-Content",
         "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::15-Liver-Anatomy-&-Physiology::Class-Content"
       ]
     },
     {
       "first_field_hash": "4399ac52d5d39060ef3cfb894b590068cd6b6c0c44dbda364146ad2023bbd84b",
       "tags": [
+        "JerryShen_AnKing_Tags::POM-4::Clinical-Reasoning::Approach-to-Jaundice::Class-Content",
         "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::15-Liver-Anatomy-&-Physiology::Class-Content"
       ]
     },
     {
       "first_field_hash": "422d305ffb40f23c61721c849678910a61b3c619a21e8e724e657bc231ff9224",
       "tags": [
+        "JerryShen_AnKing_Tags::POM-4::Clinical-Reasoning::Approach-to-Jaundice::Class-Content",
         "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::15-Liver-Anatomy-&-Physiology::Class-Content"
       ]
     },
@@ -50297,6 +50544,7 @@
     {
       "first_field_hash": "e72da65df8198ce13d93cb4a671041bc6033ae32873070972812dbd594fb59e7",
       "tags": [
+        "JerryShen_AnKing_Tags::POM-4::Clinical-Reasoning::Approach-to-Jaundice::Class-Content",
         "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::15-Liver-Anatomy-&-Physiology",
         "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::15-Liver-Anatomy-&-Physiology::Class-Content"
       ]
@@ -50373,6 +50621,7 @@
     {
       "first_field_hash": "4a8876185cf64ed0a4b38a1e155c4e0f65d9f24be05e1a366675bfb4bfe0d40f",
       "tags": [
+        "JerryShen_AnKing_Tags::POM-4::Clinical-Reasoning::Approach-to-Jaundice::Class-Content",
         "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::18-Pancreatic-Liver-&-Biliary-Cancers",
         "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::18-Pancreatic-Liver-&-Biliary-Cancers::Class-Content"
       ]
@@ -50387,7 +50636,39 @@
     {
       "first_field_hash": "45d69c0e8b6d2f9aee3e25532a5606d9e1c560402b001102b2874b7a216ccb78",
       "tags": [
+        "JerryShen_AnKing_Tags::POM-4::Clinical-Reasoning::Approach-to-Jaundice::Class-Content",
         "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::15-Liver-Anatomy-&-Physiology"
+      ]
+    },
+    {
+      "first_field_hash": "2ef50c80420f688a55f8d8a5ab76932fc4dde675ca6d7d764e5baad3730fdc0d",
+      "tags": [
+        "JerryShen_AnKing_Tags::POM-4::Clinical-Reasoning::Approach-to-Jaundice"
+      ]
+    },
+    {
+      "first_field_hash": "2a1d9279fbf514c384962ddd835680fde16c62233afdd4d8d2b61266d1e10ef4",
+      "tags": [
+        "JerryShen_AnKing_Tags::POM-4::Clinical-Reasoning::Approach-to-Jaundice::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "19c09c4ce4ddb32436be0d0356ced215dbb85bc62139506c85a3ed6d9126967c",
+      "tags": [
+        "JerryShen_AnKing_Tags::POM-4::Clinical-Reasoning::Approach-to-Jaundice::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::19-Non-Viral-Liver-Disease"
+      ]
+    },
+    {
+      "first_field_hash": "494969cc4931e0e68bc6700a216cc885ee2021fda4d3f29369f5dde6e9a5ed26",
+      "tags": [
+        "JerryShen_AnKing_Tags::POM-4::Clinical-Reasoning::Approach-to-Jaundice::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "f2f91aaf900727058613bbc158f1918915e41de84e57163ee4af0b6505738d43",
+      "tags": [
+        "JerryShen_AnKing_Tags::POM-4::Clinical-Reasoning::Approach-to-Jaundice"
       ]
     },
     {
@@ -50403,6 +50684,12 @@
       ]
     },
     {
+      "first_field_hash": "82e3ae54be5ee4a0796ecbb21f89bcb27af0af7afc0aea49da091aa84ecb50a7",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::19-Non-Viral-Liver-Disease"
+      ]
+    },
+    {
       "first_field_hash": "40d94efc309972d248777b9dc3d72bbaf056ea19ee95159a9800336206eefb08",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::15-Liver-Anatomy-&-Physiology::Class-Content",
@@ -50413,13 +50700,15 @@
       "first_field_hash": "a029c485b7d47cfa60f07eb8754360f525c5a2e012de2d8d78f2c926fc7bc3c3",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::15-Liver-Anatomy-&-Physiology",
-        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::17-Cirrhosis-&-Portal-HTN"
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::17-Cirrhosis-&-Portal-HTN",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::19-Non-Viral-Liver-Disease::Class-Content"
       ]
     },
     {
       "first_field_hash": "c1a7a72abca258e05a5c5caa7da88441e21544adfdfe4f0832fbe205f55e73f6",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::17-Cirrhosis-&-Portal-HTN"
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::17-Cirrhosis-&-Portal-HTN",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::19-Non-Viral-Liver-Disease::Class-Content"
       ]
     },
     {
@@ -50574,28 +50863,206 @@
       ]
     },
     {
+      "first_field_hash": "2972a07db62a4dccfeb0ac24f5c31ce3b9435362fbd622acc82d39d5d180e86c",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::19-Non-Viral-Liver-Disease"
+      ]
+    },
+    {
+      "first_field_hash": "0ff6053f549cac67a1e15fa60190d171a27c4517fced7183b89668844acad745",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::19-Non-Viral-Liver-Disease::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "711175726245349c05c2ae3b61d77626f2910abc0dfeebb99cddf8e8fa9d0454",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::19-Non-Viral-Liver-Disease::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "070cf7e3376b068d353ccdbf052e075b6ea2f2f55afb443296dbc44bf667042c",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::19-Non-Viral-Liver-Disease::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "4d2bd754f30c0212ceb3080f6b3d7962c1ed37797c106c66d9a7c26c3b06493f",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::19-Non-Viral-Liver-Disease::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "4d2287d622c1c7758ddd68abf4799ea19cdd99a8e157a5b6318eaffeadee7bea",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::19-Non-Viral-Liver-Disease::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "78bcbd2bf5ee7f16a865e0fce924fc0aa48d080bd0f79ba8b532223e2874d8b4",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::19-Non-Viral-Liver-Disease::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "b8e46eee0a29b72d0ffb9538db4ea917ce1b420a467b09004f8fbd30a3fc8c68",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::19-Non-Viral-Liver-Disease::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "b6b90d257d5ee636a6787d8b119a59c1539114a2e1a36ca66c4e751cc6714b1e",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::15-Liver-Anatomy-&-Physiology"
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::15-Liver-Anatomy-&-Physiology",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::19-Non-Viral-Liver-Disease::Class-Content"
       ]
     },
     {
       "first_field_hash": "c3331daf7509c7298c1261741bc3d87ebe6059f4f6ad741b9b7bc549175bb923",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::13-Obesity::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::13-Obesity::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::19-Non-Viral-Liver-Disease::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "e8d6c755dee95be27749e6ed87fe6e9f96c8c749f1d38cb0c74261784ff608e4",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::19-Non-Viral-Liver-Disease::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "a2d8abbf0229cbc603e92db03292463bce1471d1c4b7b48ddb965c4679fc6dc3",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::19-Non-Viral-Liver-Disease::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "e59786cfa238dccca188b0f0742abd176f186e1675390bc70d204e8ff905221b",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::19-Non-Viral-Liver-Disease::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "89b2fd263bd6b0a4d9c35e4bafcca57ad607c8c0c8938d1b982041f4e19a5839",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::19-Non-Viral-Liver-Disease"
+      ]
+    },
+    {
+      "first_field_hash": "c3b89f0d6f77d4830190bd99ec8872bab477d63ac6a5f2271926aff8d00ced3f",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::19-Non-Viral-Liver-Disease::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "b144a252144cc0d7246befcfef62f27ee7721309f3150ebd938953f7c700e1b2",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::19-Non-Viral-Liver-Disease::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "d263a97360d5c572974dee533b141f2ce489075f29bb74989810608e2c166009",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::19-Non-Viral-Liver-Disease::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "a3a95e9a03c93d4760e8823b9884cfc497e40d788d70d497d02adf9caf724c1d",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::19-Non-Viral-Liver-Disease::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "ea00d7d190cd386bade507f168fdd777f6e6c0f9435b3ab43251a17fccb92c94",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::19-Non-Viral-Liver-Disease::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "b67607484ce7a6974ef9466ab34860186b14fdb3f6e6d883d1cc9b97bb4c140a",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::19-Non-Viral-Liver-Disease"
+      ]
+    },
+    {
+      "first_field_hash": "3efc9cfd703e90dbdc303ab5feb17723f8d1452ca8652244489fdf01058464b0",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::19-Non-Viral-Liver-Disease::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "b0145902017eecf52016a96efe91cf4225ab188bf46c8e9667df7c9181a2197f",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::19-Non-Viral-Liver-Disease::Class-Content"
       ]
     },
     {
       "first_field_hash": "3040361936b5db01826cc0e520877fad8660153c442e7973051706769cc09f50",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::11-Pathology-of-Cardiomyopathy-and-Myocarditis::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::11-Pathology-of-Cardiomyopathy-and-Myocarditis::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::19-Non-Viral-Liver-Disease::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "8cd14b6979d5e0c7c34c9561c07eb20181b67a78d025396c6f3c86c74cbe9326",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::19-Non-Viral-Liver-Disease::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "66208d804b598759998bc73d4fa5d82c02377ddc09f49cfc95c3647c4866193f",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::19-Non-Viral-Liver-Disease::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "a1d35ee942f86226af6f0bb78bb856a8023d739e7122dc9af808b0c3f27e6897",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::19-Non-Viral-Liver-Disease::Class-Content"
       ]
     },
     {
       "first_field_hash": "7f22e2f7520cfc2f7135b0974e9f671581be66f3bc0cd6fa221446ae01d64f4e",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::18-Pancreatic-Liver-&-Biliary-Cancers",
-        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::18-Pancreatic-Liver-&-Biliary-Cancers::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::18-Pancreatic-Liver-&-Biliary-Cancers::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::19-Non-Viral-Liver-Disease::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "5de25827a1f1a6ac84587a415c9d1723fb700e6bca2ae2a704fc46ce7f0dc603",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::19-Non-Viral-Liver-Disease::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "bf7cbb316f3783745685b61870b143420706f735f83e71c3474e4aae129f0153",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::19-Non-Viral-Liver-Disease"
+      ]
+    },
+    {
+      "first_field_hash": "7f0298c1166587ded45995ebdac0e8b6a47e15b9d21b20e5a091ffc88f0d52cd",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::19-Non-Viral-Liver-Disease::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "7f8a1239c03632c82fdf4a440ea41f9a68713a27ddca43a2ef82dde611111fb0",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::19-Non-Viral-Liver-Disease::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "9979c0a48cb52328becae82f4b2cac11278564a3d5d15f087d552944de105eb5",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::19-Non-Viral-Liver-Disease::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "4e33132c89df9552d5737c5e6d59f9f1823f2d44ef915fc33d56e53212893f64",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::19-Non-Viral-Liver-Disease"
       ]
     },
     {
@@ -50605,16 +51072,198 @@
       ]
     },
     {
+      "first_field_hash": "ba1fa852cd27dd7cd38ac63fb279fc90b81120b3fcc951fc654a6f030d329239",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::19-Non-Viral-Liver-Disease::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "c6c8613bbf0766ffdc9e77ca20062029b2310182887dab40515b021f83f5451e",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::19-Non-Viral-Liver-Disease::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "a0a6029810dc1294d9e7e5dd506cde826d8aa224ea8a2f96295ff4414dabc230",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::19-Non-Viral-Liver-Disease::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "b37ecec6076a45e3cd866f93664f89d0977e49625f5faee6ef1749e66e791f6e",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::19-Non-Viral-Liver-Disease::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "7e1f0f42fcc2b037319d0a8852996fe72aa898216ec3a5e6483eb4666eb408cc",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::19-Non-Viral-Liver-Disease::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "7fc256df6a069ba645a8a297d7485ea96c7c2e5eeeeb5fa1428a1d2e789eb040",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::19-Non-Viral-Liver-Disease::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "890112755969996f7a2c141a38fa88aa1f46e552e0db5c897ab41eb4c0241bb2",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::19-Non-Viral-Liver-Disease::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "509e91a27708cf3816f8df0467cd57785871984c767dd4bf80905cbee541f114",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::19-Non-Viral-Liver-Disease::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "6c77ef18a89ad74731bf69960bec0f3a6557c59729cf5207a94a3fbb3fb6822a",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::19-Non-Viral-Liver-Disease::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "7b71eab811fe72da7a1194229a513d9bf56f6a0db738713b0e2d148f6c1d59ad",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::19-Non-Viral-Liver-Disease"
+      ]
+    },
+    {
+      "first_field_hash": "86b93f6e553e613c7245da21ff3f89c19241b9797194a5c57aa30fe2d5eb91ae",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::19-Non-Viral-Liver-Disease::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "57e16e22e5a1f20f4e6ae9da8e00640547b3753c6fd13535323b112149b88076",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::19-Non-Viral-Liver-Disease::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "6d6b349d53580f5b1c809be3e1fcf9334b50852081320480004566be75106739",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::19-Non-Viral-Liver-Disease::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "2785cc1713483f16e067e3ca9540d0be913661e624e30053b3083124f06a9a37",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::19-Non-Viral-Liver-Disease::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "f8df0b379b0b8df9d95294226082d2096d9a7fa81a69a48c1c833950c0bac097",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::19-Non-Viral-Liver-Disease::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "0cae37494f79ebc3b6511b7677185c4581cb9550ac23c4a9caa839b431e11054",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::19-Non-Viral-Liver-Disease::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "8ff417f53b2b0b384bfe111e362523b6e7522db8c121ea707c72956262e52c5c",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::19-Non-Viral-Liver-Disease::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "a209b1210803f5c98d9947eff85a562def8e3ebf7020633a4595f551c8529008",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::19-Non-Viral-Liver-Disease::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "626bb5f4b66c1abdb2ffa90f47cfc007b2c8a795b6f69156c23d7d2889d92355",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::19-Non-Viral-Liver-Disease::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "fd14515604b606cc9b268261fe0df9dc144559674bcac8cd93570c1f27bad6d0",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::19-Non-Viral-Liver-Disease::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "44d12ef8076b9b98c9ddd3acb6f2a96f7e63c11729add0bc0baba3b41a8cf2fa",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::19-Non-Viral-Liver-Disease::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "3a6c38282b6e1bb5debf2849ba2a0302cb043bfdde5f45d95863464e21dde232",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::19-Non-Viral-Liver-Disease::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "67f6b5745733181d9b0a404553e4f10806edb29214c864f366190b7c7f792f36",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::19-Non-Viral-Liver-Disease::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "162f8832446adbb53ddf11b6ca95dcc3b6cfcc41543a95c0a7078ba2630f19f9",
       "tags": [
-        "JerryShen_AnKing_Tags::POM-4::Clinical-Reasoning::Approach-to-Abdominal-Pain"
+        "JerryShen_AnKing_Tags::POM-4::Clinical-Reasoning::Approach-to-Abdominal-Pain",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::19-Non-Viral-Liver-Disease::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "176db8ce249773a93755fa7890395a379b5a1cf0d83120d1c4364fa6bf34d0eb",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::19-Non-Viral-Liver-Disease::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "39506a33f8f9718e1d1403f3c4726aa35edc2c8f99b9889112c0fcdb539dee62",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::19-Non-Viral-Liver-Disease::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "f5096f8b89bed8eabf5fab64aef4fb24759dfa117e9ecb1b850de9f7532f324c",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::19-Non-Viral-Liver-Disease::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "67440e37eb40c316cba7961f8df70a8e5ce3f48b05045679a5ffd4f723fd233a",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::19-Non-Viral-Liver-Disease::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "a6a8355640f8a0964d05b41b81e7942b86e3e19bdd4a10380c6ea38192d8c732",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::19-Non-Viral-Liver-Disease::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "b9e3f419bf87ded9266131c5f02d65ab35ac0c2f67072dbd07c566d0c38bb06d",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::19-Non-Viral-Liver-Disease"
       ]
     },
     {
       "first_field_hash": "22a0e62a97045dcd787d874c0341807bef027ddf48ce7f78a4c483a1cdd98095",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::18-Pancreatic-Liver-&-Biliary-Cancers",
-        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::18-Pancreatic-Liver-&-Biliary-Cancers::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::18-Pancreatic-Liver-&-Biliary-Cancers::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::19-Non-Viral-Liver-Disease::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "3cb5cefe91109cd8526057f1b7a71a5701695a3f4ec6c8b40c9bd3a79c5cbd5b",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::19-Non-Viral-Liver-Disease::Class-Content"
       ]
     },
     {
@@ -50680,7 +51329,8 @@
       "first_field_hash": "57993bd192c4a5a5af2ca56636718ebb07b3895294b6c8ae75454d74cf0ebedb",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::18-Pancreatic-Liver-&-Biliary-Cancers",
-        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::18-Pancreatic-Liver-&-Biliary-Cancers::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::18-Pancreatic-Liver-&-Biliary-Cancers::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::19-Non-Viral-Liver-Disease::Class-Content"
       ]
     },
     {
@@ -50779,19 +51429,28 @@
       "first_field_hash": "95c2622876d7c8f1ed6a2481a3b68366c1fcbd025ba2daf5685d6c69e8674cca",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::15-Liver-Anatomy-&-Physiology",
-        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::17-Cirrhosis-&-Portal-HTN::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::17-Cirrhosis-&-Portal-HTN::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::19-Non-Viral-Liver-Disease::Class-Content"
       ]
     },
     {
       "first_field_hash": "16d0fffb9de967c97f45ae6c3429369bf1c692841273841e5b15fd332a8f07f3",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::15-Liver-Anatomy-&-Physiology::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::15-Liver-Anatomy-&-Physiology::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::19-Non-Viral-Liver-Disease::Class-Content"
       ]
     },
     {
       "first_field_hash": "1bc7299ecf6451a0a60c9feeb4526ba2c8be043467dfc628369acc475f992810",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::Tutorial-1-Bone::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::Tutorial-1-Bone::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::19-Non-Viral-Liver-Disease"
+      ]
+    },
+    {
+      "first_field_hash": "331a1f8c715bec894604e0af6d21ba686bd13ebb5442ac0c71329b1f95e11ac3",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::19-Non-Viral-Liver-Disease::Class-Content"
       ]
     },
     {
@@ -51386,7 +52045,8 @@
       "first_field_hash": "c86cd31051994bb1596dfb1072ad57eb47e00283e9c6890945025eff9780cd9c",
       "tags": [
         "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-3-Abdomen::Histology::Class-Content",
-        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::15-Liver-Anatomy-&-Physiology::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::15-Liver-Anatomy-&-Physiology::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::19-Non-Viral-Liver-Disease::Class-Content"
       ]
     },
     {
@@ -51400,7 +52060,8 @@
       "first_field_hash": "d4c41d6a5d14a945dec8edf7de62db633871d5b40a8a1c07f655bef6836fe9eb",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::15-Liver-Anatomy-&-Physiology",
-        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::15-Liver-Anatomy-&-Physiology::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::15-Liver-Anatomy-&-Physiology::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::19-Non-Viral-Liver-Disease"
       ]
     },
     {
@@ -51409,7 +52070,8 @@
         "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::15-Liver-Anatomy-&-Physiology",
         "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::15-Liver-Anatomy-&-Physiology::Class-Content",
         "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::17-Cirrhosis-&-Portal-HTN",
-        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::17-Cirrhosis-&-Portal-HTN::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::17-Cirrhosis-&-Portal-HTN::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::19-Non-Viral-Liver-Disease::Class-Content"
       ]
     },
     {
@@ -51418,26 +52080,30 @@
         "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-3-Abdomen::Histology",
         "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::15-Liver-Anatomy-&-Physiology::Class-Content",
         "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::17-Cirrhosis-&-Portal-HTN",
-        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::17-Cirrhosis-&-Portal-HTN::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::17-Cirrhosis-&-Portal-HTN::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::19-Non-Viral-Liver-Disease::Class-Content"
       ]
     },
     {
       "first_field_hash": "1aff68343975cb51bc6ce81675732d3cd8ad8c9c605c11c5300c61441a57b498",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::15-Liver-Anatomy-&-Physiology::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::15-Liver-Anatomy-&-Physiology::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::19-Non-Viral-Liver-Disease::Class-Content"
       ]
     },
     {
       "first_field_hash": "64d4e62c592f703e401d66b994e74e62d680e2a3b866be7a2b1213c6a95ef699",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::15-Liver-Anatomy-&-Physiology",
-        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::15-Liver-Anatomy-&-Physiology::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::15-Liver-Anatomy-&-Physiology::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::19-Non-Viral-Liver-Disease"
       ]
     },
     {
       "first_field_hash": "ded015a997c0cc7bacbf7501956e68f799bc547ad3bda27a5bcb1f5309040c3a",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::15-Liver-Anatomy-&-Physiology::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::15-Liver-Anatomy-&-Physiology::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::19-Non-Viral-Liver-Disease::Class-Content"
       ]
     },
     {
@@ -51462,13 +52128,15 @@
     {
       "first_field_hash": "d9709997e4444f17fd5269f47711c8b0fa293f65448e54e5407b3f3c6c1faf71",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::16-Biliary-Physiology::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::16-Biliary-Physiology::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::19-Non-Viral-Liver-Disease::Class-Content"
       ]
     },
     {
       "first_field_hash": "61d6882e9c41f422b44864b2355b0993ab89fc09f07ce80d1cfa27f096fd2a8c",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::16-Biliary-Physiology"
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::16-Biliary-Physiology",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::19-Non-Viral-Liver-Disease::Class-Content"
       ]
     },
     {
@@ -51619,6 +52287,12 @@
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::01-Structure-and-Function-of-the-Lung::Class-Content",
         "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::08-Pulmonary-Mechanics::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "148a59042724fd9fcfa2fc88fc38fdfde2eebe5b7ac6d43c7c4fdf1030e7f45a",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::19-Non-Viral-Liver-Disease::Class-Content"
       ]
     },
     {
@@ -52417,6 +53091,12 @@
       ]
     },
     {
+      "first_field_hash": "4b237e917578ea45590d51bc25bab9e5b9d0ed3dc36841ebf417946315b8af8a",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::20-Liver-Transplantation"
+      ]
+    },
+    {
       "first_field_hash": "4224f5abdb83d4a4f34b52140d4226547109f73a25167ba96aff288a41e08673",
       "tags": [
         "JerryShen_AnKing_Tags::Immunology::Final::Hypersensitivity-and-Allergy::Class-Content"
@@ -52525,31 +53205,83 @@
     {
       "first_field_hash": "b7a7045a73027e2d6af518e6313598e541f04918f882a71310b1dfa918c5db3b",
       "tags": [
-        "JerryShen_AnKing_Tags::Immunology::Final::Solid-Organ-&-HSC-Transplantation::Class-Content"
+        "JerryShen_AnKing_Tags::Immunology::Final::Solid-Organ-&-HSC-Transplantation::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::20-Liver-Transplantation"
       ]
     },
     {
       "first_field_hash": "d41538d683b38531d82dfc3f1b08ce492cfb98fadbf62e622c74f11c3ab63df8",
       "tags": [
-        "JerryShen_AnKing_Tags::Immunology::Final::Solid-Organ-&-HSC-Transplantation"
+        "JerryShen_AnKing_Tags::Immunology::Final::Solid-Organ-&-HSC-Transplantation",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::20-Liver-Transplantation"
+      ]
+    },
+    {
+      "first_field_hash": "792497dbde70e090f221849cb6d4eb4c3488163aab7dd326e0c6c7dfab26e6c7",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::20-Liver-Transplantation"
+      ]
+    },
+    {
+      "first_field_hash": "adbbffecdd6ea16933d94394670593227804a1834a83dbbd73c08813e4ac7574",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::20-Liver-Transplantation"
+      ]
+    },
+    {
+      "first_field_hash": "64aba9b47434f9de8066631cfee92f37a41228165a38b8b9cc3187600ab28e08",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::20-Liver-Transplantation"
+      ]
+    },
+    {
+      "first_field_hash": "00bfe13578d06e30f4d5d3c93bcccf70083a721e0f2638d0ad1baeac0fbf057c",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::20-Liver-Transplantation"
       ]
     },
     {
       "first_field_hash": "f54d992a51f1a2276ea3606dcab0cd1cb621c7395b62f5ff21afd6e9be624b84",
       "tags": [
-        "JerryShen_AnKing_Tags::Immunology::Final::Solid-Organ-&-HSC-Transplantation"
+        "JerryShen_AnKing_Tags::Immunology::Final::Solid-Organ-&-HSC-Transplantation",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::20-Liver-Transplantation"
+      ]
+    },
+    {
+      "first_field_hash": "96555505fb3e4316ef78cffecad090a99ab0fbdb32b7405cd98a56841e29a423",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::21-Liver-Transplantation::Class-Content"
       ]
     },
     {
       "first_field_hash": "61da07fee73e5abc5602bb9abb8553106e166a87654e8334e65a464f9fa8bb13",
       "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::21-Liver-Transplantation::Class-Content",
         "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::28-Lung-Transplantation"
+      ]
+    },
+    {
+      "first_field_hash": "5587ed25c8ae048f9f246bda352769f17465f0ae54a92a277b2172927f4aa677",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::20-Liver-Transplantation"
+      ]
+    },
+    {
+      "first_field_hash": "b6a270d952838436e7c17e0e4274f27bdd54be613906a3d3e747a2eae5253bd3",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::21-Liver-Transplantation::Class-Content"
       ]
     },
     {
       "first_field_hash": "20fbaef10561a1e710bb0d120baa17809b1921fead6517a06c51363cf6a32e34",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::28-Lung-Transplantation"
+      ]
+    },
+    {
+      "first_field_hash": "4520dc1970973ca6e8556cb117364dd6d071b0a9a1f1385868d4aee3d00f5cc4",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::21-Liver-Transplantation::Class-Content"
       ]
     },
     {
@@ -52568,7 +53300,8 @@
     {
       "first_field_hash": "d041334d60de82b1e27f9e075309c10023f15ca9c1b834bd86392938a8c51c97",
       "tags": [
-        "JerryShen_AnKing_Tags::Immunology::Final::Solid-Organ-&-HSC-Transplantation"
+        "JerryShen_AnKing_Tags::Immunology::Final::Solid-Organ-&-HSC-Transplantation",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::20-Liver-Transplantation"
       ]
     },
     {
@@ -53740,6 +54473,12 @@
       ]
     },
     {
+      "first_field_hash": "441531b8b83fde268802ca42e5edaed404ed0d02b1691a46b63088baebf482c8",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::19-Non-Viral-Liver-Disease::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "9dec891cf23d13e9a2d3069f9aa6ceb4e063a525b72ce73c2cc8e63b0f91fea8",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::01-Intro-to-Endocrine-Block",
@@ -54129,7 +54868,7 @@
       ]
     },
     {
-      "first_field_hash": "d80a264be063a002558a1ab585ca0a47ed40422e8307a6582d63df004fecb8bb",
+      "first_field_hash": "106db2292a6c0dd37119601790475a42a7495030ab22d7004e71ac6ca2b156ef",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::MSK-Block::02-Bone-&-Joint-Infections"
       ]
@@ -54582,6 +55321,12 @@
       ]
     },
     {
+      "first_field_hash": "1594d47e667fb231c1201649af22052dc844389be86810b331851abd70019fd9",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::19-Non-Viral-Liver-Disease::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "47bef2e2e5b97f0cfc0c2aaff269705d05ab4e657086563eea937130fd0fc42c",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::MSK-Block::Lab-01-MSK-Cases"
@@ -54863,6 +55608,18 @@
         "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::06-Intro-to-Lung-Histology::Class-Content",
         "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::27-Lung-Cancer::Class-Content",
         "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::04-Salivary-Gland-&-Esophagus"
+      ]
+    },
+    {
+      "first_field_hash": "96c9aed07828f78c0514bccf9862e66406bf38394dc6d63c141565d1ef6926f6",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::21-Liver-Transplantation::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "d50158f7bb899a0432f867063901ab4f218b694f448f030b80c59661978b2b0f",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::21-Liver-Transplantation::Class-Content"
       ]
     },
     {
@@ -56177,9 +56934,40 @@
       ]
     },
     {
+      "first_field_hash": "fa38d7e7084ad37bd6ebe3673e87b011ca6cbdb4163dd0ab65b0000e0e164454",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::20-Liver-Transplantation"
+      ]
+    },
+    {
+      "first_field_hash": "3cb89b26b85532c82db361e8cb37a9aa1d8a7afbc1d0c7f9b912e0bfe3a580c2",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::20-Liver-Transplantation"
+      ]
+    },
+    {
+      "first_field_hash": "6cf027f3b695aa00143488d377c2315a8474434b5758ac42d4d124f86e53ed63",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::20-Liver-Transplantation"
+      ]
+    },
+    {
       "first_field_hash": "9db12ad9c39033f6ba373593625aaa413259af6403a5688d8def1ca4e2c953b4",
       "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::21-Liver-Transplantation::Class-Content",
         "JerryShen_AnKing_Tags::SOM-2::Renal-Block::16-Acute-Kidney-Injury::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "0e2a7456201ccd9d2f7ec1661329aa9f94bcff841513e1b7b8b7e9a2ebbae205",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::20-Liver-Transplantation"
+      ]
+    },
+    {
+      "first_field_hash": "3739e14001f3e9654fde3bdfbf571086a2d96dd53afeed57e1fe3f2bffde2e96",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::21-Liver-Transplantation::Class-Content"
       ]
     },
     {
@@ -56755,6 +57543,18 @@
       "first_field_hash": "f2589215977c127838be806e8c7ee500c281b76ca23619c123a684d9d3444137",
       "tags": [
         "JerryShen_AnKing_Tags::Micro-Pharm::Microbiology::01-S.pyogenes-&-E.coli::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "b9e976a95e9418f89fa5cead865bd69d5bfcbc7ac9617d5d8a418525ab32939f",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::19-Non-Viral-Liver-Disease::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "f8fe2f3f7a68d02b429c4474c674cffc88f0d2819584642093685b942521818c",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::19-Non-Viral-Liver-Disease"
       ]
     },
     {
@@ -57346,12 +58146,14 @@
     {
       "first_field_hash": "91a91c77a90f4a3883c91daf20f83dac5bce2c30c652fcd6142ef613e2226527",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::15-Liver-Anatomy-&-Physiology::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::15-Liver-Anatomy-&-Physiology::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::20-Liver-Transplantation"
       ]
     },
     {
       "first_field_hash": "1832a98a43c420f24245d00cb26039fcf60af49210de91acfdc06f31efbdf5af",
       "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::21-Liver-Transplantation::Class-Content",
         "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::15-Liver-Anatomy-&-Physiology::Class-Content"
       ]
     },
@@ -57504,6 +58306,12 @@
       ]
     },
     {
+      "first_field_hash": "f5e9cd200f414390ee6e77c1d19e0893d551010d394708fc87703a5046c27534",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::19-Non-Viral-Liver-Disease::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "bb4b6a928a33d1fe2bf876a43449ae17240416de456eddb32d8c62c5afda3e16",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::05-Stomach",
@@ -57512,10 +58320,17 @@
       ]
     },
     {
+      "first_field_hash": "042c8491539be896c420a5d8f080532acd648ba07fc81ccce0b37b0a9b11e7f0",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::21-Liver-Transplantation::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "f99624f8f731eb6615a1863d1184c74a7fec7e7a2c46acad9172fdaa7f793f1a",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::07-Type-2-Diabetes::Class-Content",
-        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::13-Obesity::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::13-Obesity::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::19-Non-Viral-Liver-Disease::Class-Content"
       ]
     },
     {
@@ -57722,7 +58537,8 @@
     {
       "first_field_hash": "89ad0e47f77334f2b5e3a3c0fa965eb8892b9ff65c51c405bbc9df4d36835c8a",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::07-Type-2-Diabetes::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::07-Type-2-Diabetes::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::19-Non-Viral-Liver-Disease::Class-Content"
       ]
     },
     {
@@ -57748,6 +58564,12 @@
       "first_field_hash": "13bd2d4e48891dafa37e2ab1d97a5b86d94a018aa5beb064a4383a7a67019ed3",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::06-Small-Intestine"
+      ]
+    },
+    {
+      "first_field_hash": "fc17a36aa96d37c337c58cf53db892791c476f9e98fc7e7a4373dfcb22de0283",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::19-Non-Viral-Liver-Disease::Class-Content"
       ]
     },
     {
@@ -57899,6 +58721,12 @@
       ]
     },
     {
+      "first_field_hash": "a5b3b28d3f38bba044539ff441596c1b6f5510ff07b7d39617cd1d2f941d1a45",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::19-Non-Viral-Liver-Disease::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "4431d812142acf87ee215722c033625f62278566f6ae2558f06c2417c202be41",
       "tags": [
         "JerryShen_AnKing_Tags::Cancer-Biology::Final::Cancer-Pharmacology::Class-Content"
@@ -57933,6 +58761,12 @@
       "first_field_hash": "6b28dde308203eed27c4753fb9a94c404a2ae359da5fd22d3aafc9d35c40520e",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::26-Pulmonary-Cases-&-Miscellaneous-Diseases::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "2eeca22f4e173b2b6e0f91f2e2e9adbbdc603e440cd86b76d2cfa23a6c85a5de",
+      "tags": [
+        "JerryShen_AnKing_Tags::POM-4::Clinical-Reasoning::Approach-to-Jaundice::Class-Content"
       ]
     },
     {
@@ -58345,6 +59179,12 @@
       ]
     },
     {
+      "first_field_hash": "d30fbbf108437efffd840c99e9c192735babad89394e3cf4e9f9072e80a8601d",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::19-Non-Viral-Liver-Disease"
+      ]
+    },
+    {
       "first_field_hash": "85b0bc9229043147d18a2c3309a1513d819e272846a02bb30dfbfb8f0b0d47a3",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::27-Lung-Cancer"
@@ -58365,7 +59205,8 @@
     {
       "first_field_hash": "a670daaece293ee48d4b684ecdc31c3272eb6e03e3b3f2c4ddfa8acf6114cea3",
       "tags": [
-        "JerryShen_AnKing_Tags::Micro-Pharm::Microbiology::03-Intro-to-Viruses::Class-Content"
+        "JerryShen_AnKing_Tags::Micro-Pharm::Microbiology::03-Intro-to-Viruses::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::20-Liver-Transplantation"
       ]
     },
     {
@@ -59888,7 +60729,8 @@
     {
       "first_field_hash": "8c96d50b6609ed6633ae1e1a5f9b1a4110093e9d06175c13f47d190f39b9ea9b",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::10-Autonomic-Physiology-and-Pharmacology"
+        "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::10-Autonomic-Physiology-and-Pharmacology",
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::18-Kidney-Stones"
       ]
     },
     {
@@ -60099,6 +60941,12 @@
       "first_field_hash": "8bf7e09ac91b1b64b7c3955e47306788ee015fdf175c13a4032bfe3a166612cf",
       "tags": [
         "JerryShen_AnKing_Tags::Micro-Pharm::Pharmacology::06-Introduction-to-Biologics"
+      ]
+    },
+    {
+      "first_field_hash": "8b264b3b640b363537873bd93dc360f068ca53a8131eed9f4a79a29ed2d8ceb5",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::21-Liver-Transplantation::Class-Content"
       ]
     },
     {
@@ -60548,7 +61396,7 @@
       ]
     },
     {
-      "first_field_hash": "4fdf459caa3db5d893923fa5c53bf42ba5f29c7e6785fa3b88b4feacd0bbc936",
+      "first_field_hash": "06d5951f29bb2864dfc4c4e575dbb6d59ea2c411f0c3ad99969a5992add15ed8",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::MSK-Block::01-Introduction-to-MSK",
         "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::14-Bone-Physiology::Class-Content"
@@ -61466,6 +62314,12 @@
       ]
     },
     {
+      "first_field_hash": "95f8cbb82b59270e5a4f6f243e20def3296621228628008b3b55a27b5e9d0e9a",
+      "tags": [
+        "JerryShen_AnKing_Tags::POM-4::Clinical-Reasoning::Approach-to-Jaundice"
+      ]
+    },
+    {
       "first_field_hash": "ea2d0ba7531efe83414577c1cfcb8f84f711d2942435b4af1aeb895efcb95c55",
       "tags": [
         "JerryShen_AnKing_Tags::Micro-Pharm::Microbiology::04-Intro-to-Fungi::Class-Content"
@@ -61905,6 +62759,24 @@
       ]
     },
     {
+      "first_field_hash": "baaba47b00d7132c26027fe804b40ce9e42d0d74947b117efc609bd99405ed71",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::19-Non-Viral-Liver-Disease"
+      ]
+    },
+    {
+      "first_field_hash": "221a917519300d9a2edbc372f5b44d6f1a1cc90cd412fe3a77dbbb70c9cb5ba2",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::19-Non-Viral-Liver-Disease"
+      ]
+    },
+    {
+      "first_field_hash": "7e0f9677cd229aa66fcfd53e380deb26119b9fe2478ec02d575f2eb1a53cf57b",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::19-Non-Viral-Liver-Disease"
+      ]
+    },
+    {
       "first_field_hash": "ab2a520defa94270e68e0027959f7e9128e2e9600b1f0f569c8bda4f6b27ceeb",
       "tags": [
         "JerryShen_AnKing_Tags::Micro-Pharm::Microbiology::04-Intro-to-Fungi::Class-Content",
@@ -62325,7 +63197,8 @@
     {
       "first_field_hash": "2b547655a66783ee21b9329515e7e94923522b28b20ff6d6bd6d2d6519cc7546",
       "tags": [
-        "JerryShen_AnKing_Tags::Micro-Pharm::Microbiology::04-Intro-to-Fungi"
+        "JerryShen_AnKing_Tags::Micro-Pharm::Microbiology::04-Intro-to-Fungi",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::19-Non-Viral-Liver-Disease"
       ]
     },
     {
@@ -63855,9 +64728,21 @@
       ]
     },
     {
+      "first_field_hash": "ffb6f6342fa5d244263f5ad9bc14a47498a4a1d194f8913348fcd3c27a3928fe",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::19-Non-Viral-Liver-Disease::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "cf415ea5daf36dec5a83d905e4ab8c4e9bc167c67fd5a70fb625e333b98a9521",
       "tags": [
         "JerryShen_AnKing_Tags::POM-4::ACS-Skills::Integrated-Clinical-Cases::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "9ae1d804f9aca2660ee5a5e89793d16737f5d2cc122ae8ddd027e114b5fc3e5b",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::19-Non-Viral-Liver-Disease::Class-Content"
       ]
     },
     {
@@ -65080,6 +65965,12 @@
       ]
     },
     {
+      "first_field_hash": "af82264590c9a462454a1a5bc6680bb664a9e2649b6b8d4040e80dd8d5688435",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::19-Non-Viral-Liver-Disease::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "33a432783f5284cac35bbbfb66ddfc3710a13bb59185749fbad8e99aa91afffc",
       "tags": [
         "JerryShen_AnKing_Tags::Micro-Pharm::Pharmacology::03-β-Lactam-Antibiotics::Class-Content"
@@ -65266,6 +66157,12 @@
       ]
     },
     {
+      "first_field_hash": "56d1e3238e94bb6386717e1f4fcf8ceb553ae135e99078b4131bbca6d05bafb0",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::20-Liver-Transplantation"
+      ]
+    },
+    {
       "first_field_hash": "64f67b03fe1c70241f46ed1dc4f88b58a8bfa0a5d6f5f73caaf25db9b75c9ff4",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Repro-Block::07-Complications-of-Pregnancy::Class-Content"
@@ -65339,6 +66236,18 @@
       "first_field_hash": "09807daab069bb3bd30588350aa0b7757fc6698c027fa96315d6104ec86a2fa7",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Repro-Block::07-Complications-of-Pregnancy::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "934af8e459422cd0111ecfdf56687c9a42af7be7e9f23aa435124e687ada40df",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::20-Liver-Transplantation"
+      ]
+    },
+    {
+      "first_field_hash": "729d5d6c768c7c446de417e6e67a7ac0bd4f8c929cc794838361c54529c6bbf5",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::20-Liver-Transplantation"
       ]
     },
     {
@@ -65448,6 +66357,24 @@
       "first_field_hash": "8eede66ed308b8da521f2b17da530b3ba7ce992057a8715b0bdd1917c98f43cb",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::MSK-Block::02-Bone-&-Joint-Infections"
+      ]
+    },
+    {
+      "first_field_hash": "12f347cdab4dfa673df5fb3c5391935422c06f18e82caeb3b4e22e1cab51d20c",
+      "tags": [
+        "JerryShen_AnKing_Tags::POM-4::Clinical-Reasoning::Approach-to-Jaundice::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "e851c89ab35eabb545688ded5ad47018066439348930dbee695c5bf45c53e510",
+      "tags": [
+        "JerryShen_AnKing_Tags::POM-4::Clinical-Reasoning::Approach-to-Jaundice::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "dd0d137cd80668fb21d1098576bf10993856565c2e89d420c5587ea4008a5ddd",
+      "tags": [
+        "JerryShen_AnKing_Tags::POM-4::Clinical-Reasoning::Approach-to-Jaundice::Class-Content"
       ]
     },
     {
@@ -65609,6 +66536,12 @@
       "first_field_hash": "5bbc31f2c399c47b8e19f8ab47af26ae6155cc6087006d9af0f86789dc900396",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::MSK-Block::02-Bone-&-Joint-Infections"
+      ]
+    },
+    {
+      "first_field_hash": "8fad17527417a1c90fb3ec34b261528abde15ed643d5d9c4427949135094794c",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::19-Non-Viral-Liver-Disease::Class-Content"
       ]
     },
     {
@@ -68222,10 +69155,23 @@
       ]
     },
     {
+      "first_field_hash": "09351c7c744c2b446babe9cc5f3e5ef830dc497b2acc8c6ef0f4974dbe41e33c",
+      "tags": [
+        "JerryShen_AnKing_Tags::POM-4::Clinical-Reasoning::Approach-to-Jaundice::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "e78ee0c1ff753c431d1c5c27022e38fbf0ded9ab9fba4958215e9a28b726dcb3",
+      "tags": [
+        "JerryShen_AnKing_Tags::POM-4::Clinical-Reasoning::Approach-to-Jaundice::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "7938e9e544f962476cc8ec721d8f4289ff0e37ddeedf83f887695c9515ed6ed9",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::17-Cirrhosis-&-Portal-HTN",
-        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::17-Cirrhosis-&-Portal-HTN::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::17-Cirrhosis-&-Portal-HTN::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::19-Non-Viral-Liver-Disease::Class-Content"
       ]
     },
     {
@@ -71104,7 +72050,8 @@
     {
       "first_field_hash": "3e84161d95fdf065bfd8379e0c80d0a1d0332568531bd29a69312eb8b61a6b0a",
       "tags": [
-        "JerryShen_AnKing_Tags::Micro-Pharm::Microbiology::06-Parasites"
+        "JerryShen_AnKing_Tags::Micro-Pharm::Microbiology::06-Parasites",
+        "JerryShen_AnKing_Tags::POM-4::Clinical-Reasoning::Approach-to-Jaundice"
       ]
     },
     {
@@ -71122,20 +72069,23 @@
     {
       "first_field_hash": "7f9638e1b703323e43d1f2c898f4b6c470b72f8a5da212174ff2e4366066b157",
       "tags": [
-        "JerryShen_AnKing_Tags::Micro-Pharm::Microbiology::06-Parasites"
+        "JerryShen_AnKing_Tags::Micro-Pharm::Microbiology::06-Parasites",
+        "JerryShen_AnKing_Tags::POM-4::Clinical-Reasoning::Approach-to-Jaundice::Class-Content"
       ]
     },
     {
       "first_field_hash": "117a86109b1f51e010b12aeac7f009be67739b394af1d1fa642b5d4edef64335",
       "tags": [
-        "JerryShen_AnKing_Tags::Micro-Pharm::Microbiology::06-Parasites"
+        "JerryShen_AnKing_Tags::Micro-Pharm::Microbiology::06-Parasites",
+        "JerryShen_AnKing_Tags::POM-4::Clinical-Reasoning::Approach-to-Jaundice"
       ]
     },
     {
       "first_field_hash": "3e3dce2c2eddf265d5f929c97f1d4c45c6529e47067e0983dd690307abe492e6",
       "tags": [
         "JerryShen_AnKing_Tags::Micro-Pharm::Microbiology::06-Parasites::Class-Content",
-        "JerryShen_AnKing_Tags::Micro-Pharm::Pharmacology::05-Miscellaneous-Antimicrobials::Class-Content"
+        "JerryShen_AnKing_Tags::Micro-Pharm::Pharmacology::05-Miscellaneous-Antimicrobials::Class-Content",
+        "JerryShen_AnKing_Tags::POM-4::Clinical-Reasoning::Approach-to-Jaundice::Class-Content"
       ]
     },
     {
@@ -75632,6 +76582,30 @@
       ]
     },
     {
+      "first_field_hash": "14e3f2674ee1c28d80ee99145aead215913767ce7fe6209e46c0d227820d9e1b",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::20-Liver-Transplantation"
+      ]
+    },
+    {
+      "first_field_hash": "e2c50d980ae779435e5b2af5f61518cd2526a64a846123cbb94bab9a5b7b0aa3",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::20-Liver-Transplantation"
+      ]
+    },
+    {
+      "first_field_hash": "807232b3a5419e7f5d2bd6979f5f064854c9da506a50b7eb19785a2c2f89714e",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::20-Liver-Transplantation"
+      ]
+    },
+    {
+      "first_field_hash": "5d2d175c640818a2fa0b7e43c844616999b8c4e76eed191466930246c500e8de",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::20-Liver-Transplantation"
+      ]
+    },
+    {
       "first_field_hash": "b29a1e41b0f024aaa0f93e6cb7e53cfefc98372cbe28c499c993b0b9932ba8ae",
       "tags": [
         "JerryShen_AnKing_Tags::Micro-Pharm::Microbiology::02-C.diff-&-Pseudomonas"
@@ -77291,7 +78265,7 @@
       ]
     },
     {
-      "first_field_hash": "9582ca6e748fb908c145fec6c699132ee0ed2ea8f1cd6558a187ecba6b0e3d20",
+      "first_field_hash": "232a5d1bdaffb93a26802d7cf6a41314129a963c09cb4899da72433ccf1259b5",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::03-Fat-&-Micronutrient-Nutrition"
       ]
@@ -77424,6 +78398,12 @@
       ]
     },
     {
+      "first_field_hash": "46e293b3bc485814f4bd872b8ff1880a3f527aa5c1033615393d40d4458d938c",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::19-Non-Viral-Liver-Disease::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "af7c40a6bcade7f4e418f34e164f019cb9ed51b250dacd2df00cb3f807781a8f",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::16-Clotting-&-Thromboembolic-Disease"
@@ -77433,6 +78413,12 @@
       "first_field_hash": "448479abb32d71d8ba50603b3d8b3bc65810de8c27a620c429ce6c7e8384c192",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Repro-Block::16-Sexually-Transmitted-Infections"
+      ]
+    },
+    {
+      "first_field_hash": "4d64141cc176a9ae02b280c6af662168d02464d852b8b0eda0784b63ca35cb18",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::19-Non-Viral-Liver-Disease::Class-Content"
       ]
     },
     {
@@ -77457,6 +78443,12 @@
       "first_field_hash": "4b5aeb93e5ed6412e3a7b189d2846bfa50bf2f1c4dcb97ee810c1a361ebabadd",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::08-Large-Intestine::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "23a146f54f92ab9a300150736dab5b6f3cec2d0947867999b4462f965da771b2",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::19-Non-Viral-Liver-Disease"
       ]
     },
     {
@@ -77805,7 +78797,14 @@
     {
       "first_field_hash": "406afaabd2aa7be41ec79b70a967bb73bc5d54d4faad15ca3279cabf64e3413c",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::13-Obesity"
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::13-Obesity",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::19-Non-Viral-Liver-Disease::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "bc82ea25d359a9cff203a64c94245ce7e33c4f84bcb43d84ce62637d154a0b3d",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::19-Non-Viral-Liver-Disease"
       ]
     },
     {
@@ -77818,6 +78817,7 @@
     {
       "first_field_hash": "99c5e2c65323909d9afa8806a0497cd40dd5fc6330e90f14cf9f59a34e0fe54e",
       "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::21-Liver-Transplantation::Class-Content",
         "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::15-Liver-Anatomy-&-Physiology::Class-Content"
       ]
     },
@@ -78311,6 +79311,12 @@
       ]
     },
     {
+      "first_field_hash": "9e4b356b10114b9b8c871efda5bead03ecf28e3e36cd262d44253aa6db555305",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::19-Non-Viral-Liver-Disease"
+      ]
+    },
+    {
       "first_field_hash": "dc116585d9f2bac9791f04747ec6e8066c3440a3eaa464ca6ee3dbc145721f32",
       "tags": [
         "JerryShen_AnKing_Tags::Micro-Pharm::Microbiology::01-S.pyogenes-&-E.coli"
@@ -78358,6 +79364,12 @@
       "tags": [
         "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-1-Thorax::Anatomy",
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::02-Normal-Anatomy-of-the-Heart"
+      ]
+    },
+    {
+      "first_field_hash": "93fe60d4b19cdea5eb676f7fca66988834e36927c353663a8ae2b0c672255464",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::19-Non-Viral-Liver-Disease::Class-Content"
       ]
     },
     {
@@ -78460,6 +79472,18 @@
       "first_field_hash": "dae3d5f4c710b8f5a5ac4e665ade8be295f312382f0205ab754ce14ef1737c38",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::36-Lymphatics"
+      ]
+    },
+    {
+      "first_field_hash": "452ab1801cdc01d128b57de826d36dc882490347b9e2421ffe4aaded858b2cff",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::20-Liver-Transplantation"
+      ]
+    },
+    {
+      "first_field_hash": "72d4814bb56f0a5e6a620d7fb99e2b71c2214189c52776b16f8a65c24263270d",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::20-Liver-Transplantation"
       ]
     },
     {
@@ -78870,13 +79894,15 @@
     {
       "first_field_hash": "823b0a9e8c1e5099ee073f3b4e2f87649d45793f75e1fcf6685ad1c7f675459a",
       "tags": [
-        "JerryShen_AnKing_Tags::POM-1::Final::Ethics::Class-Content"
+        "JerryShen_AnKing_Tags::POM-1::Final::Ethics::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::21-Liver-Transplantation::Class-Content"
       ]
     },
     {
       "first_field_hash": "345b5dde68003a3b8b7f913651afe94bed2704d42e8002946b779eb02118e4ad",
       "tags": [
-        "JerryShen_AnKing_Tags::POM-1::Final::Ethics::Class-Content"
+        "JerryShen_AnKing_Tags::POM-1::Final::Ethics::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::20-Liver-Transplantation"
       ]
     },
     {
@@ -80335,6 +81361,18 @@
       ]
     },
     {
+      "first_field_hash": "bbbcc2e2e2aafc5b4cbb7f57fcf03880b8988bbe8d9e8d6a71ec51c333d7e3e2",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::19-Non-Viral-Liver-Disease::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "d91dbe847e6ecf6f2b6b3e5282f07dab4235ac28fe53fe546fde5bfa5634b318",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::19-Non-Viral-Liver-Disease"
+      ]
+    },
+    {
       "first_field_hash": "c8d9962819ecf0b3b18ae4a23730c3d732b0257935cacd53c7ba23799a0e0425",
       "tags": [
         "JerryShen_AnKing_Tags::Neurobiology::Exam-2::Tutorial-1-Cerebrum"
@@ -80862,6 +81900,12 @@
       ]
     },
     {
+      "first_field_hash": "980abdd1ab0496c2021258424384f27feda3faefb43e2887ce5724857c654683",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::19-Non-Viral-Liver-Disease::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "825189c5d73cb11799b6ac660358e1e66b63bfa3fd9f0a892311053a1081b1dd",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Repro-Block::13-HPV-&-Cervical-Cancer"
@@ -80993,6 +82037,12 @@
       "first_field_hash": "e0c455467d000e5a9e1990f7e6f24c5fd77c89c0de7c1a5b58002c49c5030db3",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::07-Pancreas"
+      ]
+    },
+    {
+      "first_field_hash": "87667d75285a1675234d49f8bf186c5f2b600fb420c25aa178e385e3efec7269",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::19-Non-Viral-Liver-Disease::Class-Content"
       ]
     },
     {
@@ -81945,6 +82995,12 @@
       ]
     },
     {
+      "first_field_hash": "5253c1f1f9813bcc27f307c3e1b2c2dbf15dd7d5dc057423f60111a7cbb9495f",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::21-Liver-Transplantation::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "a70c1337dd0ad6e72d2c4ff0a68461a0a57ed2424ac1535f88d9da9775796666",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::MSK-Block::05-Lower-Limb-Pathology::Class-Content"
@@ -82207,7 +83263,8 @@
     {
       "first_field_hash": "a4032c974a80560630407224544f2ae147454e2edb231a35627d1b3136cf3284",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::02-GI-Hormones"
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::02-GI-Hormones",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::19-Non-Viral-Liver-Disease::Class-Content"
       ]
     },
     {
@@ -83278,7 +84335,14 @@
     {
       "first_field_hash": "f63092421b4eef45788b0f05d8d3e0c8ad243b04d550f5ef2d85d18ab10d31b6",
       "tags": [
-        "JerryShen_AnKing_Tags::POM-1::Final::Clinical-Skills::Class-Content"
+        "JerryShen_AnKing_Tags::POM-1::Final::Clinical-Skills::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::19-Non-Viral-Liver-Disease::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "9b333ecf9db0216c3d970d02fb69161f979a19263ca39d40e73923adbb7d4cad",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::19-Non-Viral-Liver-Disease"
       ]
     },
     {
@@ -83297,6 +84361,12 @@
       "first_field_hash": "f058b2a7ae779ac62c1fea889545a3a42e792db904ba6b4fbeb183a150818dff",
       "tags": [
         "JerryShen_AnKing_Tags::POM-3::Geriatrics::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "ac0073acee89f431bc9d159ffc940a829a178dd74756093bf0d3003093bcae64",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::19-Non-Viral-Liver-Disease::Class-Content"
       ]
     },
     {
@@ -83379,6 +84449,12 @@
       ]
     },
     {
+      "first_field_hash": "94c2e797106cb81b156058bd5a76b8bfea703668ea1dd9a69a5ff78385f136bf",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::19-Non-Viral-Liver-Disease::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "4f7dc03ca5cb9f9f50348e316f3951f84f6125f6a698a0f80b1025df755ffc88",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::26-Pulmonary-Cases-&-Miscellaneous-Diseases"
@@ -83417,6 +84493,7 @@
     {
       "first_field_hash": "e0c971088a950fd7e2299e44c215341f969adf49002112e9453936169c110236",
       "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::19-Non-Viral-Liver-Disease",
         "JerryShen_AnKing_Tags::SOM-2::Repro-Block::14-Sexual-Health-&-Dysfunction::Class-Content"
       ]
     },
@@ -83630,6 +84707,12 @@
       "tags": [
         "JerryShen_AnKing_Tags::POM-4::Clinical-Reasoning::Approach-to-Abdominal-Pain",
         "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::16-Biliary-Physiology"
+      ]
+    },
+    {
+      "first_field_hash": "138dbb8dbf3b945d88e327de743af2ad474d53fcb2b4e5cc2867577b0ea10932",
+      "tags": [
+        "JerryShen_AnKing_Tags::POM-4::Clinical-Reasoning::Approach-to-Jaundice::Class-Content"
       ]
     },
     {
@@ -84029,6 +85112,12 @@
       ]
     },
     {
+      "first_field_hash": "e6ac8bd003bc4bc8d7ae6807f92add68c7e60b70455055495f926bcf86b6c0b7",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::19-Non-Viral-Liver-Disease"
+      ]
+    },
+    {
       "first_field_hash": "5b55f64b4621ee368e50a8cf7589d2594868827d8d4f2bdb3d49c1dfd15e12f4",
       "tags": [
         "JerryShen_AnKing_Tags::Micro-Pharm::Microbiology::03-Intro-to-Viruses::Class-Content",
@@ -84111,7 +85200,7 @@
       ]
     },
     {
-      "first_field_hash": "79da1c64533a9be3a74ad3337924adbde07cb3c1fdfc977464048afe95d025af",
+      "first_field_hash": "234637cb2c3cb56b25673b40d4900990876c5ee2ea512faff2a90dc0ce52b22c",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Renal-Block::16-Acute-Kidney-Injury"
       ]
@@ -88199,13 +89288,15 @@
     {
       "first_field_hash": "aebd472723760960a742cd39e480647db15ff26d537f4309ee8a1e508454b42e",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::16-Biliary-Physiology"
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::16-Biliary-Physiology",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::19-Non-Viral-Liver-Disease::Class-Content"
       ]
     },
     {
       "first_field_hash": "e351118700b886919d82752ad87d6c79fde00e728611b905b5bdd9aa7864713f",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::15-Liver-Anatomy-&-Physiology::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::15-Liver-Anatomy-&-Physiology::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::19-Non-Viral-Liver-Disease::Class-Content"
       ]
     },
     {
@@ -88519,7 +89610,8 @@
     {
       "first_field_hash": "6bb70fce746b9e6969c98e7de1380051c1aca7c48f6f3bfa56bd3b0c59ec658e",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::10-Airway-Obstruction"
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::10-Airway-Obstruction",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::19-Non-Viral-Liver-Disease::Class-Content"
       ]
     },
     {
@@ -89529,6 +90621,12 @@
       "first_field_hash": "d5e688dee60483df54fdccf5d20d4a541251e3eb0ecae80970caf47fcda18bb3",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::18-Cystic-Fibrosis::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "a1f9fb4ab6fadc8c9410065a3bcf8d0dda93f58bf5f51796126120c9f1d4a4cb",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::21-Liver-Transplantation::Class-Content"
       ]
     },
     {
@@ -90637,13 +91735,21 @@
     {
       "first_field_hash": "fd93d2190e86c6579002963f8e629a193b634b705d505d251a863347a8b73720",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::17-Cirrhosis-&-Portal-HTN"
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::17-Cirrhosis-&-Portal-HTN",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::19-Non-Viral-Liver-Disease::Class-Content"
       ]
     },
     {
       "first_field_hash": "78e7103e269a3a899e7edbab47a6fff2178f21019defaf214f6b44e5a0c8165f",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::17-Cirrhosis-&-Portal-HTN"
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::17-Cirrhosis-&-Portal-HTN",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::19-Non-Viral-Liver-Disease::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "ff1623cb680c6fd1e110b3cebceedf81cdf3906bdd4628056c236bacda9a791e",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::19-Non-Viral-Liver-Disease::Class-Content"
       ]
     },
     {
@@ -91220,6 +92326,12 @@
       "first_field_hash": "d5af9345123e21b033c50e4d2290550d5b06e83a93ec9c172334ad0578c05f19",
       "tags": [
         "JerryShen_AnKing_Tags::Neurobiology::Exam-3::Tutorial-7-Affective-and-Cognitive-Systems"
+      ]
+    },
+    {
+      "first_field_hash": "e6ad07cddc766106ba2ea8edb7524490adf455b560f964aca01fbf22f89d0c45",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::19-Non-Viral-Liver-Disease"
       ]
     },
     {
@@ -92876,6 +93988,12 @@
       ]
     },
     {
+      "first_field_hash": "c19b832cbaadfb38c49da815f51c04ec033072d50bf68417eb87337ec57004d9",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::19-Non-Viral-Liver-Disease::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "ffc9517df6b4c0f480b47270ae883dc4d53beb334df3eb6fdaff039f51876bf0",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::18-Heart-Sounds-&-Clinical-Exam"
@@ -93004,6 +94122,18 @@
       "first_field_hash": "64f5ac144548164167bc5155cf7acbe52934a2aa7e5c62aab5b5edf6df97ddae",
       "tags": [
         "JerryShen_AnKing_Tags::POM-3::Clinical-Reasoning::Advanced-Pulmonary-Exam"
+      ]
+    },
+    {
+      "first_field_hash": "08c1fb8077878c90948b16880d886a6a67c2ccb44851ea664bd698580a90ef55",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::19-Non-Viral-Liver-Disease::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "eee48d9c95e2f685c2bfc22bbb017787525107fbfcc3104e69a86f7b5fc0f76a",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::19-Non-Viral-Liver-Disease"
       ]
     },
     {
@@ -93532,7 +94662,14 @@
     {
       "first_field_hash": "d6fe51114345f8b09d1f2049c2678befe15273693796aae68cd0c1d263523e99",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::18-Pancreatic-Liver-&-Biliary-Cancers"
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::18-Pancreatic-Liver-&-Biliary-Cancers",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::19-Non-Viral-Liver-Disease"
+      ]
+    },
+    {
+      "first_field_hash": "81a92b4b8022651d9801797676891860aec6fd6cf8f767957f62f841acc41a0e",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::19-Non-Viral-Liver-Disease::Class-Content"
       ]
     },
     {
@@ -93540,6 +94677,12 @@
       "tags": [
         "JerryShen_AnKing_Tags::Molecular-Foundations-&-Genetics::02-Genetics::08.3-Prenatal-Genetics",
         "JerryShen_AnKing_Tags::SOM-2::Repro-Block::05-Physiology-of-Pregnancy"
+      ]
+    },
+    {
+      "first_field_hash": "b78a2d95e37be9757fcbdf2bcc62bc984dbdd4597c7cfa0f141dc91d8da8a853",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::19-Non-Viral-Liver-Disease"
       ]
     },
     {
@@ -93697,6 +94840,12 @@
       ]
     },
     {
+      "first_field_hash": "a3a957d3b484ffb5549f39835ae1e2f430713f68871e8e31256742be13b17bcd",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::19-Non-Viral-Liver-Disease"
+      ]
+    },
+    {
       "first_field_hash": "9766b5badeeca6f864a0436df10fe1a9b2afff92eb6ad32911e79e537493712f",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Repro-Block::04-Steroid-Hormone-Pharmacology"
@@ -93799,7 +94948,8 @@
     {
       "first_field_hash": "3f4783fbd4c4caee3bf78bfe3ecf25a71d6d8acdb97a73a406f44079027b66e5",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::15-Liver-Anatomy-&-Physiology::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::15-Liver-Anatomy-&-Physiology::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::19-Non-Viral-Liver-Disease::Class-Content"
       ]
     },
     {
@@ -93858,7 +95008,8 @@
     {
       "first_field_hash": "84ae1937c315426f5ea8e36cb58a0822b6bfb5cefec82d161620ed5e29cb021e",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::18-Pancreatic-Liver-&-Biliary-Cancers"
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::18-Pancreatic-Liver-&-Biliary-Cancers",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::19-Non-Viral-Liver-Disease"
       ]
     },
     {
@@ -93886,6 +95037,24 @@
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::18-Pancreatic-Liver-&-Biliary-Cancers",
         "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::18-Pancreatic-Liver-&-Biliary-Cancers::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "5106ceeb25bd9bc7e333cdfbc40edc213170c6bc25bd85ceb0299c2215e01ab9",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::19-Non-Viral-Liver-Disease::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "c5d2398bfe23286ddd229e5704288e309f5198e3064b7c7ae6c6276fa82777fa",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::19-Non-Viral-Liver-Disease::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "9a88ac19fe7f9d2a3f4fc60e09763a4c5e2387367f1012d02e407b5a10ae57d8",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::19-Non-Viral-Liver-Disease::Class-Content"
       ]
     },
     {
@@ -93943,6 +95112,18 @@
       "first_field_hash": "fc49ab2dd9c3a51d4cf3b5074ed8fd62892c3f399443944b868bf375668db33b",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::08-Large-Intestine"
+      ]
+    },
+    {
+      "first_field_hash": "b54c86153234eb9bc9c9ab8e07269aa6f01920c617b9f9492d8894c90b424728",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::19-Non-Viral-Liver-Disease::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "4dd238bdceb0af54888f7a665ae762b82c98872b0b8152cdceed0bdaa686f64b",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::19-Non-Viral-Liver-Disease::Class-Content"
       ]
     },
     {
@@ -94031,9 +95212,16 @@
       ]
     },
     {
+      "first_field_hash": "24630c2e89b4c1d5b5ab4b730e27dd73a1bcbc367facd75e73e5b3d57d991e7c",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::17-Cirrhosis-&-Portal-HTN"
+      ]
+    },
+    {
       "first_field_hash": "02b5670396532db9986d64f21da7560a26eede548e76c87dbb451af73144923d",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::17-Cirrhosis-&-Portal-HTN::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::17-Cirrhosis-&-Portal-HTN::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::19-Non-Viral-Liver-Disease::Class-Content"
       ]
     },
     {
@@ -94138,6 +95326,18 @@
       "first_field_hash": "4e4e7ec471de5257dfc34bd17e71fcfd2d607dd6fa160532638c25e9d4cb6123",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::17-Cirrhosis-&-Portal-HTN"
+      ]
+    },
+    {
+      "first_field_hash": "6cd2993872b2645ed45ad8b0f7f6962b98efecbdd2107b0784c9d8457bc67274",
+      "tags": [
+        "JerryShen_AnKing_Tags::POM-4::Clinical-Reasoning::Approach-to-Jaundice::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "df60d9c8d9092c989be15e7d70e94b897ab5af33d0c53ce74b8a26102c22c4e8",
+      "tags": [
+        "JerryShen_AnKing_Tags::POM-4::Clinical-Reasoning::Approach-to-Jaundice::Class-Content"
       ]
     },
     {
@@ -94654,6 +95854,12 @@
       "first_field_hash": "cef19f840924475a2be1535f2bfce71ef97117b3a8074680b067ab870188cdce",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::14-Lung-Pharmacology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "c84dcd6eb4e67130237682a16a6336451db2834649fc23a130ce8eb1ea2123ba",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::19-Non-Viral-Liver-Disease"
       ]
     },
     {
@@ -95236,7 +96442,8 @@
     {
       "first_field_hash": "935647336be7bd182eb3fc38c55388f878b60a0828c054c5a964798348f8f3f3",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::07-Type-2-Diabetes::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::07-Type-2-Diabetes::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::19-Non-Viral-Liver-Disease::Class-Content"
       ]
     },
     {
@@ -95276,9 +96483,27 @@
       ]
     },
     {
+      "first_field_hash": "bce33b674243924d5cdd1f8c3e1c0a5dabff025582755080c0b1452ef04e13bf",
+      "tags": [
+        "JerryShen_AnKing_Tags::POM-4::Clinical-Reasoning::Approach-to-Jaundice::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "c6542ae5206ef09e48767592bfb114d7b8fa3cfe1aa35bf2dfd28ddeb602faf6",
+      "tags": [
+        "JerryShen_AnKing_Tags::POM-4::Clinical-Reasoning::Approach-to-Jaundice::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "f2ca1722ecfadca27fe890095898c40b4d748d8f068e6bc11e6837807f054a18",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::Tutorial-2-Thyroid-Disease"
+      ]
+    },
+    {
+      "first_field_hash": "144a30716fa836544e6a8e1a9acd3664eb09381b13adb51dfaaf50c4e661a830",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::19-Non-Viral-Liver-Disease::Class-Content"
       ]
     },
     {
@@ -95729,6 +96954,18 @@
       ]
     },
     {
+      "first_field_hash": "90b4fa6d9d1a8688694b90dec38c6f431ebda986b797bb84aa076e019bede430",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::19-Non-Viral-Liver-Disease::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "017fd3ce6752f769b260c427742debc1c06a0707f8fccde69734b6e036a0475d",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::19-Non-Viral-Liver-Disease"
+      ]
+    },
+    {
       "first_field_hash": "a2749132b4db6d38d28faafeba21a7c2aef24ba49641ba89f0c866156b12d75c",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Repro-Block::09-Vaginal-Bleeding"
@@ -95828,6 +97065,12 @@
       "first_field_hash": "636b2dcb7dcf22df8dfc881341b6cd11f86d26b6c2fccc9fb0ee2e1feaa61936",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::16-Thyroid-Physiology-&-Pathophysiology"
+      ]
+    },
+    {
+      "first_field_hash": "851865c322a52c953c0a3022abf8cdad7b27742ece10534d7ea80403dd12f156",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::20-Liver-Transplantation"
       ]
     },
     {
@@ -97626,7 +98869,8 @@
     {
       "first_field_hash": "6cfc43a1c57936b57fcdc8f26c68bc02e1e06b5601805e23bf2110a1c984a5fa",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::17-Cirrhosis-&-Portal-HTN"
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::17-Cirrhosis-&-Portal-HTN",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::19-Non-Viral-Liver-Disease::Class-Content"
       ]
     },
     {
