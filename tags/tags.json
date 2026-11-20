@@ -1,14 +1,14 @@
 {
   "schema_version": 1,
   "author": "JerryShen",
-  "description": "liver stuff",
-  "created": "2026-11-17T07:50:25.060964+00:00",
-  "updated": "2026-11-17T07:50:25.060964+00:00",
+  "description": "push",
+  "created": "2026-11-20T03:54:30.134594+00:00",
+  "updated": "2026-11-20T03:54:30.134594+00:00",
   "tag_prefix": "JerryShen_AnKing_Tags",
   "tag_hierarchy": [
     "JerryShen_AnKing_Tags",
     "JerryShen_AnKing_Tags::(✏️)-Tagged-by-Jerry-Shen",
-    "JerryShen_AnKing_Tags::(🛠️)-Last-Updated-111326",
+    "JerryShen_AnKing_Tags::(🛠️)-Last-Updated-111926",
     "JerryShen_AnKing_Tags::(🧋)-buymeacoffee.com/ger1atric",
     "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology",
     "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-1-Thorax",
@@ -456,8 +456,6 @@
     "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::19-ARDS-&-Ventilators::Class-Content",
     "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::20-Interstitial-Lung-Disease",
     "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::20-Interstitial-Lung-Disease::Class-Content",
-    "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::21-Liver-Transplantation",
-    "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::21-Liver-Transplantation::Class-Content",
     "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::21-Pathology-of-ILD",
     "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::21-Pathology-of-ILD::Class-Content",
     "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::22-Respiratory-Tract-Case-Studies",
@@ -571,6 +569,7 @@
     "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::19-Non-Viral-Liver-Disease",
     "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::19-Non-Viral-Liver-Disease::Class-Content",
     "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::20-Liver-Transplantation",
+    "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::20-Liver-Transplantation::Class-Content",
     "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::Tutorial-1-GI-Tract",
     "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::Tutorial-1-GI-Tract::Class-Content",
     "JerryShen_AnKing_Tags::SOM-2::Renal-Block",
@@ -660,7 +659,13 @@
     "JerryShen_AnKing_Tags::SOM-2::Repro-Block::18-Breast-Cancer",
     "JerryShen_AnKing_Tags::SOM-2::Repro-Block::18-Breast-Cancer::Class-Content",
     "JerryShen_AnKing_Tags::SOM-2::Repro-Block::19-Breast-Pathology",
-    "JerryShen_AnKing_Tags::SOM-2::Repro-Block::19-Breast-Pathology::Class-Content"
+    "JerryShen_AnKing_Tags::SOM-2::Repro-Block::19-Breast-Pathology::Class-Content",
+    "JerryShen_AnKing_Tags::SOM-2::Repro-Block::20-Prostate-&-Testicular-Cancer",
+    "JerryShen_AnKing_Tags::SOM-2::Repro-Block::20-Prostate-&-Testicular-Cancer::Class-Content",
+    "JerryShen_AnKing_Tags::SOM-2::Repro-Block::21-Prostate-&-Testicular-Pathology",
+    "JerryShen_AnKing_Tags::SOM-2::Repro-Block::21-Prostate-&-Testicular-Pathology::Class-Content",
+    "JerryShen_AnKing_Tags::SOM-2::Repro-Block::22-Abortion-Care",
+    "JerryShen_AnKing_Tags::SOM-2::Repro-Block::22-Abortion-Care::Class-Content"
   ],
   "changelog": [
     {
@@ -1069,6 +1074,11 @@
       "date": "2026-11-17T07:50:25.060964+00:00",
       "message": "liver stuff",
       "note_count": 303
+    },
+    {
+      "date": "2026-11-20T03:54:30.134594+00:00",
+      "message": "push",
+      "note_count": 157
     }
   ],
   "notes": [
@@ -1329,7 +1339,7 @@
       ]
     },
     {
-      "first_field_hash": "0749268c7352c93b4ba3cafed505d48a370f3775d632765068d7ee231b7232c2",
+      "first_field_hash": "b41e7653f0eb2fc117a4a7d3b54248cf1c86c761292d7da6432f7b3c5e17b574",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Repro-Block::13-HPV-&-Cervical-Cancer"
       ]
@@ -7379,7 +7389,8 @@
     {
       "first_field_hash": "782aa6d003cbb11cb4c12cd53d23f272416c4482850e6df1cf3e398dee2f23f0",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::01-Testicular-Physiology::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::01-Testicular-Physiology::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::21-Prostate-&-Testicular-Pathology::Class-Content"
       ]
     },
     {
@@ -7498,7 +7509,8 @@
       "first_field_hash": "b7af2c0ee29bc0bcf5baf84ccc01ce484cc0454b3f8937ae69b5f5a93f26b425",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Repro-Block::01-Testicular-Physiology::Class-Content",
-        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::14-Sexual-Health-&-Dysfunction::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::14-Sexual-Health-&-Dysfunction::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::21-Prostate-&-Testicular-Pathology::Class-Content"
       ]
     },
     {
@@ -7555,7 +7567,8 @@
       "first_field_hash": "b0343409f26c1cd4804f9cca47f5bafc9995e982dea2f5b8191ee71ab9652742",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Repro-Block::01-Testicular-Physiology",
-        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::01-Testicular-Physiology::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::01-Testicular-Physiology::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::21-Prostate-&-Testicular-Pathology::Class-Content"
       ]
     },
     {
@@ -8247,6 +8260,12 @@
       "first_field_hash": "3485b2934aaad95ba7986e3846d441adce0021036c6b56f1f01f66408033b65f",
       "tags": [
         "JerryShen_AnKing_Tags::Anatomy-Embryology-Histology::OSPE-4-Pelvis::Embryology"
+      ]
+    },
+    {
+      "first_field_hash": "9c970335ae9e5f0bec78d7e4afd66d81c549bf328843c76559dbe926fa55bcc9",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::20-Prostate-&-Testicular-Cancer"
       ]
     },
     {
@@ -9266,21 +9285,47 @@
       ]
     },
     {
+      "first_field_hash": "98f702a5b98614b1c59a002e29dde618d186a06b97cc442ea736020eedf73bfd",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::21-Prostate-&-Testicular-Pathology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "06d468615fb93cc132bcfa9bc8b5d97acd539e289ec06dacb4a9f1c9643e83b0",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::20-Prostate-&-Testicular-Cancer"
+      ]
+    },
+    {
       "first_field_hash": "4a93481ef39f9e065b71015454e6bfbce432805148b0f3b5c12c87c9f674ab6b",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Repro-Block::15-Ovarian-&-Fallopian-Pathology::Class-Content"
       ]
     },
     {
+      "first_field_hash": "582c49f76a971577d372dae190d4afeed41a95be2182d70aed344611ff0f2134",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::20-Prostate-&-Testicular-Cancer::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "1f09461e01893148db85dce6e7f88a8fd6fefa49e921149d7f6f9aafffe93e56",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::12-Early-Pregnancy-Complications-&-Bleeding-Tutorial::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::12-Early-Pregnancy-Complications-&-Bleeding-Tutorial::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::21-Prostate-&-Testicular-Pathology::Class-Content"
       ]
     },
     {
       "first_field_hash": "c1df84e0747acd6541d030cd76098af815061f881e9c2d57356f1c7af1224c66",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::12-Early-Pregnancy-Complications-&-Bleeding-Tutorial::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::12-Early-Pregnancy-Complications-&-Bleeding-Tutorial::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::21-Prostate-&-Testicular-Pathology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "8a089165741ba7a2e32a16a686bfca7fbe6f7a449ba338357a148a6b7f34089a",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::21-Prostate-&-Testicular-Pathology"
       ]
     },
     {
@@ -9329,6 +9374,13 @@
       "first_field_hash": "00ae8e2bae95c6694bea626e4640c7315336e97a609ec75a05c979ec422c9228",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Repro-Block::15-Ovarian-&-Fallopian-Pathology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "fef21b16214e45c4329826e80d886fe8b8c13d04e1e6cb8587fd39a89cbd13a6",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::21-Prostate-&-Testicular-Pathology",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::21-Prostate-&-Testicular-Pathology::Class-Content"
       ]
     },
     {
@@ -9669,7 +9721,8 @@
     {
       "first_field_hash": "4e522bd0d97ff545bd8c53eb2ffc281c5c03e8d1b63df6c8d9fca8733aab38b3",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::12-Early-Pregnancy-Complications-&-Bleeding-Tutorial"
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::12-Early-Pregnancy-Complications-&-Bleeding-Tutorial",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::21-Prostate-&-Testicular-Pathology::Class-Content"
       ]
     },
     {
@@ -9723,6 +9776,12 @@
       ]
     },
     {
+      "first_field_hash": "d674e126d07f5ead1316977e8cf031af35f24a80420c2963fe954244f08120ee",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::20-Prostate-&-Testicular-Cancer::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "96650a4c7ee1a0fe1c988288ad729918d0717864f46993f8f3484264fa1851f9",
       "tags": [
         "JerryShen_AnKing_Tags::Micro-Pharm::Microbiology::03-Intro-to-Viruses"
@@ -9766,9 +9825,163 @@
       ]
     },
     {
+      "first_field_hash": "87a088526b0258141cd13b2b5462baf65299ea06d780fcd058687b48821ca2a7",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::20-Prostate-&-Testicular-Cancer::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "cd55f2d062be9b987fc41a9e637e3b1f0a6c168b6aa6d0d60ca91b8779e9cbbc",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::20-Prostate-&-Testicular-Cancer"
+      ]
+    },
+    {
+      "first_field_hash": "4cf4d95e4abbf9f20c0ede894865d6d9b9c67b9b67aad73c057b62993cb57080",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::20-Prostate-&-Testicular-Cancer",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::20-Prostate-&-Testicular-Cancer::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "dad660bcffa08d0e22a37fb3f030bb0509640a5fcb10db0981d239ac30633641",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::20-Prostate-&-Testicular-Cancer::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "f501ecbf3ba42d939a1987144c68abf56d8267179b8305228e4e2218301abeb0",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::20-Prostate-&-Testicular-Cancer::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "ac5a344828d514849cfa227534ad4459e8b1773944e4f524b0f170ac782418f7",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::20-Prostate-&-Testicular-Cancer::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "99d2dabe2433a1d2d781f4bc8c189cd66fbab69d9098602695bb0f7ee6e5a2c8",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::20-Prostate-&-Testicular-Cancer::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "cf7c9e92db12e603ab443dbb197819e532ab1d561325f8ec3a2f23bc80b98902",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::20-Prostate-&-Testicular-Cancer::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "3200ea0aac76e0c4f533402655877117ea3785018800cb71a6f0214453c22801",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::20-Prostate-&-Testicular-Cancer"
+      ]
+    },
+    {
+      "first_field_hash": "74c06836fc0cf86ec99ec3df1c233bcc75f96c56c6f6f6daf598c4875e699b08",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::21-Prostate-&-Testicular-Pathology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "3f20b5185d84de2ca641d2cd3aef6a289b9e22c953d45582dd73c5cbb1ca3eac",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::20-Prostate-&-Testicular-Cancer",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::21-Prostate-&-Testicular-Pathology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "07f18e76cd134945d45eaecf6e8c6b31dbe19690786b709057a1596b5902307d",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::20-Prostate-&-Testicular-Cancer",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::20-Prostate-&-Testicular-Cancer::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "8184266d9e8defcacd3895fd3c3134cfc558cb61781ac3a169e2bb7b099c62e4",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::21-Prostate-&-Testicular-Pathology"
+      ]
+    },
+    {
+      "first_field_hash": "7310d00050eaad4a479a1995614caaa46401b51111b88ae10c69e55696e3df0c",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::21-Prostate-&-Testicular-Pathology"
+      ]
+    },
+    {
+      "first_field_hash": "6458e4141ec2ba478c4fc8fb472f76dd9411ce9d957182681c50b7871a046804",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::21-Prostate-&-Testicular-Pathology"
+      ]
+    },
+    {
+      "first_field_hash": "f0b5de88916b304697275f22381286739c2d84017255b79dd21c6b04549d35a6",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::20-Prostate-&-Testicular-Cancer",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::20-Prostate-&-Testicular-Cancer::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "4539f9450ae1dda009557929a1b7076f10d0125e6bdeda317a97a28e29f9d565",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::21-Prostate-&-Testicular-Pathology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "63d7801f1b5b6e4c7ebfe976e7831ddc0dd871316ddab6f0725fb2b277d6f996",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::20-Prostate-&-Testicular-Cancer"
+      ]
+    },
+    {
       "first_field_hash": "82ee5a0046fb50dc7556b912e948d5818bda8efd4ec3a87e25802d7af18f2a01",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Repro-Block::15-Ovarian-&-Fallopian-Pathology"
+      ]
+    },
+    {
+      "first_field_hash": "13e1e153a83c3f6ba264bad09b561a3eb8afe9c702e52e8bb92cfda4818c0018",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::20-Prostate-&-Testicular-Cancer"
+      ]
+    },
+    {
+      "first_field_hash": "72b1406b96e5f6da9de191d56e61ff7096186dbb42237a6f0bee127717ee5cd2",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::21-Prostate-&-Testicular-Pathology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "1cbcb5ca1a5c40d57239a3c4516313cd2079321a13b0fe7abb219a0b9d2cc5e5",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::20-Prostate-&-Testicular-Cancer"
+      ]
+    },
+    {
+      "first_field_hash": "7b41b143cfbe9bfd1122bb32c39a22f0d457ff77fd4f560ddc92f39a013e0a58",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::21-Prostate-&-Testicular-Pathology"
+      ]
+    },
+    {
+      "first_field_hash": "58b08d7e7297e265964e28bb7161122db19f1c26048a13c07448cc31944e68b8",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::20-Prostate-&-Testicular-Cancer"
+      ]
+    },
+    {
+      "first_field_hash": "21f8a5044b5359f3a80a71672f7b90623111e041b1875aa012747f19dbd54a24",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::20-Prostate-&-Testicular-Cancer"
+      ]
+    },
+    {
+      "first_field_hash": "7b5ed09c2af8e312d1968a03d3ec51af15a34725ebc1caaba4c3fed3e35dd3c6",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::20-Prostate-&-Testicular-Cancer"
       ]
     },
     {
@@ -9781,7 +9994,8 @@
       "first_field_hash": "a44b907a3b8d7dc7b40a3a5c9a16cc6686e35da22d7d9dd473cc2900f84ecc63",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Repro-Block::01-Testicular-Physiology",
-        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::14-Sexual-Health-&-Dysfunction"
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::14-Sexual-Health-&-Dysfunction",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::21-Prostate-&-Testicular-Pathology::Class-Content"
       ]
     },
     {
@@ -9812,7 +10026,9 @@
     {
       "first_field_hash": "9e723b1871616f24fca02032a101d1fe51e96c9ba4068d42a3b2ee04fcd3b17c",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::14-Sexual-Health-&-Dysfunction::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::14-Sexual-Health-&-Dysfunction::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::20-Prostate-&-Testicular-Cancer::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::21-Prostate-&-Testicular-Pathology::Class-Content"
       ]
     },
     {
@@ -9824,19 +10040,23 @@
     {
       "first_field_hash": "6689b834ec168c48e97f1bcadd0350b2185988d436ee394d005ca7daab14098f",
       "tags": [
-        "JerryShen_AnKing_Tags::Cancer-Biology::Final::Lab-01-Cancer-Case-Studies"
+        "JerryShen_AnKing_Tags::Cancer-Biology::Final::Lab-01-Cancer-Case-Studies",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::20-Prostate-&-Testicular-Cancer::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::21-Prostate-&-Testicular-Pathology::Class-Content"
       ]
     },
     {
       "first_field_hash": "786f8a7a5ebaadeeaa2d0ed7828b6395bf86e9cf85e315880191fb34d9546f80",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::14-Sexual-Health-&-Dysfunction::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::14-Sexual-Health-&-Dysfunction::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::21-Prostate-&-Testicular-Pathology::Class-Content"
       ]
     },
     {
       "first_field_hash": "3e6e9734c46bdd03ff74778fc50da1751e603654d7c04a2a4104ff204b6ca8bd",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::14-Sexual-Health-&-Dysfunction::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::14-Sexual-Health-&-Dysfunction::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::21-Prostate-&-Testicular-Pathology::Class-Content"
       ]
     },
     {
@@ -9846,9 +10066,16 @@
       ]
     },
     {
+      "first_field_hash": "7f1c8ddbc09317bb7934342540d45db7a51a4fef788389c9428bf27fda78988b",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::21-Prostate-&-Testicular-Pathology"
+      ]
+    },
+    {
       "first_field_hash": "be68caaa9d1e9b2bc40a729b745db4b1b2bbb30046cac9e31cde03e3ee89aa39",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::14-Sexual-Health-&-Dysfunction::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::14-Sexual-Health-&-Dysfunction::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::21-Prostate-&-Testicular-Pathology"
       ]
     },
     {
@@ -9864,33 +10091,121 @@
       ]
     },
     {
+      "first_field_hash": "7cecdaf0bd7918edf6fa2ba7c3af9fd1ac336d7e7b69ff8afbe039fb53faad8c",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::20-Prostate-&-Testicular-Cancer::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::21-Prostate-&-Testicular-Pathology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "5d71d1d80e9598ce540023e6f17f378bd914506e217bfea0876e415f4e5afb30",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::20-Prostate-&-Testicular-Cancer::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "5d4bfe0e6fb23d604fce851cf3d0d0f268c2f987a76df2896d912f3a2f422f32",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::20-Prostate-&-Testicular-Cancer::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "b83383ef642e7f86ddc37171e4b878295357f916dbbd2bd3ba8324e492f5ceed",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::20-Prostate-&-Testicular-Cancer::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "11793278eff45183ad74d6f2a846e8ddf55dfdcc27e2b58bfeacae01b6ebf59a",
       "tags": [
-        "JerryShen_AnKing_Tags::Cancer-Biology::Final::Lab-01-Cancer-Case-Studies"
+        "JerryShen_AnKing_Tags::Cancer-Biology::Final::Lab-01-Cancer-Case-Studies",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::20-Prostate-&-Testicular-Cancer::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::21-Prostate-&-Testicular-Pathology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "9b94905c9b4dd2309b405205e979d77ae95e14bee42d537fd5d605bad26742a1",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::20-Prostate-&-Testicular-Cancer"
+      ]
+    },
+    {
+      "first_field_hash": "4c306f9048938a064ff7afbbd29e71c27001b92e5ef0277f68459ed89aa1aecc",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::20-Prostate-&-Testicular-Cancer"
+      ]
+    },
+    {
+      "first_field_hash": "122442c3d76b0fd2b17541466eb39c86c3ba02a48d50a5e28b548f2cb775f1a6",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::20-Prostate-&-Testicular-Cancer"
+      ]
+    },
+    {
+      "first_field_hash": "47afd0ac15e5c94eee4c0ee8b870e13614586787288a0dc83c99c7598769aab0",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::20-Prostate-&-Testicular-Cancer",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::20-Prostate-&-Testicular-Cancer::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::21-Prostate-&-Testicular-Pathology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "16a91c28c3ff84f94be7a9ce93cfcf3bf1368eac979d76322179d68622937e34",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::21-Prostate-&-Testicular-Pathology"
       ]
     },
     {
       "first_field_hash": "46190e74857d4849734eaa3f9ec9e542d4c1d207dec30ff61a0c11a6f47dd5f0",
       "tags": [
-        "JerryShen_AnKing_Tags::Cancer-Biology::Final::Lab-01-Cancer-Case-Studies::Class-Content"
+        "JerryShen_AnKing_Tags::Cancer-Biology::Final::Lab-01-Cancer-Case-Studies::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::21-Prostate-&-Testicular-Pathology::Class-Content"
       ]
     },
     {
       "first_field_hash": "fa2bc8249bc32a9a45110321f6235325d58aec149b665f14c9ba93f0f7c6cfb1",
       "tags": [
-        "JerryShen_AnKing_Tags::Cancer-Biology::Final::Lab-01-Cancer-Case-Studies::Class-Content"
+        "JerryShen_AnKing_Tags::Cancer-Biology::Final::Lab-01-Cancer-Case-Studies::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::21-Prostate-&-Testicular-Pathology::Class-Content"
       ]
     },
     {
       "first_field_hash": "775df81bd5d7a9855884b1efd57e743e47e5c445b33f4d3d02356d31ca83390b",
       "tags": [
-        "JerryShen_AnKing_Tags::Cancer-Biology::Final::Lab-01-Cancer-Case-Studies::Class-Content"
+        "JerryShen_AnKing_Tags::Cancer-Biology::Final::Lab-01-Cancer-Case-Studies::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::21-Prostate-&-Testicular-Pathology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "e260b37165ae051ea051ec798bd3ec937fe4e3f99dfd2ed2a0fbabe25fcda2e3",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::20-Prostate-&-Testicular-Cancer"
+      ]
+    },
+    {
+      "first_field_hash": "488f93441d947af91ef00463b9681fff2a27506d778c2894201ff66a1e9b155c",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::20-Prostate-&-Testicular-Cancer"
       ]
     },
     {
       "first_field_hash": "6039cdc4c247e138c324a8a20f035f894bf91200d423c91995cc6f5e2f0197c9",
       "tags": [
-        "JerryShen_AnKing_Tags::Cancer-Biology::Final::Lab-01-Cancer-Case-Studies"
+        "JerryShen_AnKing_Tags::Cancer-Biology::Final::Lab-01-Cancer-Case-Studies",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::21-Prostate-&-Testicular-Pathology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "c8385ded87501b26d967d63f3afd7abfb4e7f24e56bedd9c2adef00bf5038392",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::20-Prostate-&-Testicular-Cancer",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::20-Prostate-&-Testicular-Cancer::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "f52f4e865447a20fee6a9da3ada8b7422cd233ed56305b961225ce28e866f418",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::20-Prostate-&-Testicular-Cancer::Class-Content"
       ]
     },
     {
@@ -11080,8 +11395,8 @@
     {
       "first_field_hash": "3885073fd0a1c0d45c981b743620f93261ea2c0abf22b67cc190b945b6dc89f1",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::21-Liver-Transplantation::Class-Content",
-        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::18-Adrenal-Physiology::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::18-Adrenal-Physiology::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::20-Liver-Transplantation::Class-Content"
       ]
     },
     {
@@ -11442,6 +11757,24 @@
       "first_field_hash": "4a9245be1c8d7ca5b9f6958b1cd8c3c422e897c166776a7f7723fbd8f148d6d3",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::17-Cirrhosis-&-Portal-HTN"
+      ]
+    },
+    {
+      "first_field_hash": "381d84be18531c2792106d5949a21486879b6d54e2f74cc7d72f852ba41d8b78",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::21-Prostate-&-Testicular-Pathology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "5815315b39ebd640ef558f98659fe3fff32beb6f3b42d252738401c7786e8ff0",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::20-Prostate-&-Testicular-Cancer::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "9fa9a5dab648ed6f94935c410958cd57b7f9c7a340e7c0fbd35d6cb4ab59540b",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::20-Prostate-&-Testicular-Cancer::Class-Content"
       ]
     },
     {
@@ -29798,7 +30131,8 @@
     {
       "first_field_hash": "96be8cf103fe5f63c38bb270be4e11c10e0c36cac57147d321574f2e0c59281e",
       "tags": [
-        "JerryShen_AnKing_Tags::Cancer-Biology::Final::Cancer-Pharmacology::Class-Content"
+        "JerryShen_AnKing_Tags::Cancer-Biology::Final::Cancer-Pharmacology::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::20-Prostate-&-Testicular-Cancer"
       ]
     },
     {
@@ -34718,6 +35052,12 @@
       ]
     },
     {
+      "first_field_hash": "e960ca4bee4f78784b8eef8e8bb27ad1ee10e71e3c90693eab1af872f9772098",
+      "tags": [
+        "JerryShen_AnKing_Tags::Biochemistry::Final::05-Nitrogen-Metabolism"
+      ]
+    },
+    {
       "first_field_hash": "87b8637f8d625f3e5c67abc455d65f87f9ceed0e9cf0f9257677b01dc2bcf3bc",
       "tags": [
         "JerryShen_AnKing_Tags::Biochemistry::Final::05-Nitrogen-Metabolism::Class-Content"
@@ -37215,7 +37555,7 @@
       "first_field_hash": "2a031d845d81d8519144d4178eb3dd043b6971de8122ecb98beca67bf6153b2a",
       "tags": [
         "JerryShen_AnKing_Tags::(✏️)-Tagged-by-Jerry-Shen",
-        "JerryShen_AnKing_Tags::(🛠️)-Last-Updated-111326",
+        "JerryShen_AnKing_Tags::(🛠️)-Last-Updated-111926",
         "JerryShen_AnKing_Tags::(🧋)-buymeacoffee.com/ger1atric",
         "JerryShen_AnKing_Tags::Biochemistry::Final::02-Oxidative-Phosphorylation::Class-Content"
       ]
@@ -53250,14 +53590,14 @@
     {
       "first_field_hash": "96555505fb3e4316ef78cffecad090a99ab0fbdb32b7405cd98a56841e29a423",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::21-Liver-Transplantation::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::20-Liver-Transplantation::Class-Content"
       ]
     },
     {
       "first_field_hash": "61da07fee73e5abc5602bb9abb8553106e166a87654e8334e65a464f9fa8bb13",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::21-Liver-Transplantation::Class-Content",
-        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::28-Lung-Transplantation"
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::28-Lung-Transplantation",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::20-Liver-Transplantation::Class-Content"
       ]
     },
     {
@@ -53269,7 +53609,7 @@
     {
       "first_field_hash": "b6a270d952838436e7c17e0e4274f27bdd54be613906a3d3e747a2eae5253bd3",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::21-Liver-Transplantation::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::20-Liver-Transplantation::Class-Content"
       ]
     },
     {
@@ -53281,7 +53621,7 @@
     {
       "first_field_hash": "4520dc1970973ca6e8556cb117364dd6d071b0a9a1f1385868d4aee3d00f5cc4",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::21-Liver-Transplantation::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::20-Liver-Transplantation::Class-Content"
       ]
     },
     {
@@ -55613,13 +55953,13 @@
     {
       "first_field_hash": "96c9aed07828f78c0514bccf9862e66406bf38394dc6d63c141565d1ef6926f6",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::21-Liver-Transplantation::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::20-Liver-Transplantation::Class-Content"
       ]
     },
     {
       "first_field_hash": "d50158f7bb899a0432f867063901ab4f218b694f448f030b80c59661978b2b0f",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::21-Liver-Transplantation::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::20-Liver-Transplantation::Class-Content"
       ]
     },
     {
@@ -56696,7 +57036,8 @@
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::10-Neuroendocrinology",
         "JerryShen_AnKing_Tags::SOM-2::Repro-Block::02-Hormone-Replacement-&-Suppression-Therapy::Class-Content",
-        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::04-Steroid-Hormone-Pharmacology::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::04-Steroid-Hormone-Pharmacology::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::20-Prostate-&-Testicular-Cancer"
       ]
     },
     {
@@ -56704,14 +57045,16 @@
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::10-Neuroendocrinology::Class-Content",
         "JerryShen_AnKing_Tags::SOM-2::Repro-Block::02-Hormone-Replacement-&-Suppression-Therapy::Class-Content",
-        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::04-Steroid-Hormone-Pharmacology::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::04-Steroid-Hormone-Pharmacology::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::20-Prostate-&-Testicular-Cancer"
       ]
     },
     {
       "first_field_hash": "4801bbcd232d65bbf8d9a7827e6516810e846e8f07722510ece918b039b84ba2",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::10-Neuroendocrinology",
-        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::10-Neuroendocrinology::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::10-Neuroendocrinology::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::20-Prostate-&-Testicular-Cancer::Class-Content"
       ]
     },
     {
@@ -56804,7 +57147,8 @@
     {
       "first_field_hash": "9e3a2c2eb43589c557de681ea150910d4eaa057f93df5101e6fa384a07b45b89",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::04-Steroid-Hormone-Pharmacology::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::04-Steroid-Hormone-Pharmacology::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::22-Abortion-Care::Class-Content"
       ]
     },
     {
@@ -56816,7 +57160,8 @@
     {
       "first_field_hash": "ce99e459d8d05f81f0fa471e294318745f2f2c7d1ad1bd58a56110df96fddd10",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::04-Steroid-Hormone-Pharmacology::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::04-Steroid-Hormone-Pharmacology::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::22-Abortion-Care::Class-Content"
       ]
     },
     {
@@ -56877,6 +57222,12 @@
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Repro-Block::02-Hormone-Replacement-&-Suppression-Therapy",
         "JerryShen_AnKing_Tags::SOM-2::Repro-Block::04-Steroid-Hormone-Pharmacology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "48ccab504b4d38ae52b7ad1b124bba82be3abcb08c78750c39245d4badc75a20",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::20-Prostate-&-Testicular-Cancer"
       ]
     },
     {
@@ -56954,7 +57305,7 @@
     {
       "first_field_hash": "9db12ad9c39033f6ba373593625aaa413259af6403a5688d8def1ca4e2c953b4",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::21-Liver-Transplantation::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::20-Liver-Transplantation::Class-Content",
         "JerryShen_AnKing_Tags::SOM-2::Renal-Block::16-Acute-Kidney-Injury::Class-Content"
       ]
     },
@@ -56967,7 +57318,7 @@
     {
       "first_field_hash": "3739e14001f3e9654fde3bdfbf571086a2d96dd53afeed57e1fe3f2bffde2e96",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::21-Liver-Transplantation::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::20-Liver-Transplantation::Class-Content"
       ]
     },
     {
@@ -57881,6 +58232,18 @@
       ]
     },
     {
+      "first_field_hash": "60ddc78c555551d73b209fa7df61ccecb25346333319a3d4fa54228dcc78cc51",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::20-Prostate-&-Testicular-Cancer::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "547775108e1f000272002c9f49eea0e610808a10d43b0ae7fa677aa9bef5e079",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::20-Prostate-&-Testicular-Cancer::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "f3468f84037ba01dffb83cf952bbb7325444f1f1d46eb289fc13be2b7ae54532",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::MSK-Block::05-Lower-Limb-Pathology::Class-Content"
@@ -58153,8 +58516,8 @@
     {
       "first_field_hash": "1832a98a43c420f24245d00cb26039fcf60af49210de91acfdc06f31efbdf5af",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::21-Liver-Transplantation::Class-Content",
-        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::15-Liver-Anatomy-&-Physiology::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::15-Liver-Anatomy-&-Physiology::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::20-Liver-Transplantation::Class-Content"
       ]
     },
     {
@@ -58322,7 +58685,7 @@
     {
       "first_field_hash": "042c8491539be896c420a5d8f080532acd648ba07fc81ccce0b37b0a9b11e7f0",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::21-Liver-Transplantation::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::20-Liver-Transplantation::Class-Content"
       ]
     },
     {
@@ -59149,6 +59512,12 @@
       "first_field_hash": "caee92bd89f9126f79199fb8dcaa0257cc7454260a6c7df4c27a66fe9f6e54a0",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Repro-Block::18-Breast-Cancer::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "c5f5a26985963d165b576c5aceb27b4dbde9fb3aa53831b560631b60b25686fd",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::20-Prostate-&-Testicular-Cancer::Class-Content"
       ]
     },
     {
@@ -60946,7 +61315,7 @@
     {
       "first_field_hash": "8b264b3b640b363537873bd93dc360f068ca53a8131eed9f4a79a29ed2d8ceb5",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::21-Liver-Transplantation::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::20-Liver-Transplantation::Class-Content"
       ]
     },
     {
@@ -66049,6 +66418,12 @@
       ]
     },
     {
+      "first_field_hash": "5f3e49f7faf89aae4ae48efa4262168159c4954305e131fcf08704bb8ec3ddcc",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::20-Prostate-&-Testicular-Cancer::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "5fd77e63df048daf13a7c5b4ca13b0c46ac24e845337477efecf02e3c871ab54",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::30-Lung-Cancer-Treatment::Class-Content"
@@ -67441,6 +67816,13 @@
       "first_field_hash": "c08466e68eff4be4fe6861a909d3816feea2d11ad73e7b46e1d288a8dd4b0485",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::11-Pathology-of-Cardiomyopathy-and-Myocarditis"
+      ]
+    },
+    {
+      "first_field_hash": "c4bc1c427082cdbc3b8cc23a693617bd859099bcd0c8f38684a66175db320f19",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::20-Prostate-&-Testicular-Cancer",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::20-Prostate-&-Testicular-Cancer::Class-Content"
       ]
     },
     {
@@ -70192,7 +70574,8 @@
     {
       "first_field_hash": "84e742e48d3c21cf1116ab6d67e7e825d50547387b9f52c60cb52e3518bf2270",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::04-Steroid-Hormone-Pharmacology::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::04-Steroid-Hormone-Pharmacology::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::22-Abortion-Care::Class-Content"
       ]
     },
     {
@@ -70479,13 +70862,15 @@
       "first_field_hash": "16d2acb938268736a29b4d8c19ab60316b7b5beebe048fcef5d4fa9b662cf885",
       "tags": [
         "JerryShen_AnKing_Tags::Cancer-Biology::Final::Cancer-Pharmacology::Class-Content",
-        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::30-Lung-Cancer-Treatment::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::30-Lung-Cancer-Treatment::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::20-Prostate-&-Testicular-Cancer::Class-Content"
       ]
     },
     {
       "first_field_hash": "47e146b966336f7ae42fabf2f2b18ef223d332258ce21e371806dde78ce7aaea",
       "tags": [
-        "JerryShen_AnKing_Tags::Cancer-Biology::Final::Cancer-Pharmacology"
+        "JerryShen_AnKing_Tags::Cancer-Biology::Final::Cancer-Pharmacology",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::20-Prostate-&-Testicular-Cancer::Class-Content"
       ]
     },
     {
@@ -70498,13 +70883,15 @@
     {
       "first_field_hash": "c099b61790f7e06828dd70b66ff20e4f107dd9f1d36573e162be7247c285a555",
       "tags": [
-        "JerryShen_AnKing_Tags::Cancer-Biology::Final::Cancer-Pharmacology::Class-Content"
+        "JerryShen_AnKing_Tags::Cancer-Biology::Final::Cancer-Pharmacology::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::20-Prostate-&-Testicular-Cancer::Class-Content"
       ]
     },
     {
       "first_field_hash": "15ac523cb5ce4fb2ee5088e2568992f355e2473519e2634e15a8656fa89766a1",
       "tags": [
-        "JerryShen_AnKing_Tags::Cancer-Biology::Final::Cancer-Pharmacology::Class-Content"
+        "JerryShen_AnKing_Tags::Cancer-Biology::Final::Cancer-Pharmacology::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::20-Prostate-&-Testicular-Cancer::Class-Content"
       ]
     },
     {
@@ -70548,7 +70935,8 @@
       "first_field_hash": "10e2d4badac6e7ce2db3d7b83359975b0792e38eaac8d991fbca447c870ba519",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::14-Lung-Pharmacology::Class-Content",
-        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::30-Lung-Cancer-Treatment::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::30-Lung-Cancer-Treatment::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::20-Prostate-&-Testicular-Cancer::Class-Content"
       ]
     },
     {
@@ -77223,6 +77611,13 @@
       ]
     },
     {
+      "first_field_hash": "ed597174f6179dafac8492c2a4a49bb32e4d62ecd6a211eeeff1ce9d7f953292",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::20-Prostate-&-Testicular-Cancer",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::21-Prostate-&-Testicular-Pathology::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "433d891dc9136a8f95a539b6515ce435253a7c33dc4d1518dfa5574913a7e9ca",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::18-Pancreatic-Liver-&-Biliary-Cancers",
@@ -77238,7 +77633,8 @@
     {
       "first_field_hash": "dc4b2780714b09455fcd76c3ec5b6ec8e6ac29aef4f2ef2b9373e076278797be",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-1::MSK-Block::Lab-01-MSK-Cases"
+        "JerryShen_AnKing_Tags::SOM-1::MSK-Block::Lab-01-MSK-Cases",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::21-Prostate-&-Testicular-Pathology"
       ]
     },
     {
@@ -77341,6 +77737,12 @@
       ]
     },
     {
+      "first_field_hash": "da5e6f9371f85266fd16345c7722d50e85ee0ece976e5ed9c2006374e6b4bd00",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::21-Prostate-&-Testicular-Pathology"
+      ]
+    },
+    {
       "first_field_hash": "c0d95c6a469e4ec7fc5b52ed08c12acc6a47ca856748003a212960ecc6cb537a",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Repro-Block::08-Labor-&-Birth-Complications"
@@ -77388,9 +77790,28 @@
       ]
     },
     {
+      "first_field_hash": "f10c590b4dbb854c9c78a31e3fa56d6f6f3f7af45f21be7e7e0eb5f6e97bad80",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::20-Prostate-&-Testicular-Cancer::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "6202dd50b5b99b493f3109b9933e116d2348150bd7a9db43728cf18daee0f409",
       "tags": [
-        "JerryShen_AnKing_Tags::Cancer-Biology::Final::06-Role-of-Pathology-in-Cancer-Diagnosis::Class-Content"
+        "JerryShen_AnKing_Tags::Cancer-Biology::Final::06-Role-of-Pathology-in-Cancer-Diagnosis::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::20-Prostate-&-Testicular-Cancer::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "5c08382a282f8a2127bb6c1cf1e015f85e514d6f7edbd3b272e74c47f4461317",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::20-Prostate-&-Testicular-Cancer::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "2a31391dfab6ce71942b15761db3108a96a38e76118324fe950317679cf79d7b",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::20-Prostate-&-Testicular-Cancer::Class-Content"
       ]
     },
     {
@@ -77601,7 +78022,8 @@
     {
       "first_field_hash": "7a5b772f94191519c477d082fc6e16998c11304a9d2581b0676a5a3505b0957d",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::14-Sexual-Health-&-Dysfunction::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::14-Sexual-Health-&-Dysfunction::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::21-Prostate-&-Testicular-Pathology::Class-Content"
       ]
     },
     {
@@ -77870,13 +78292,13 @@
       ]
     },
     {
-      "first_field_hash": "ae90d8f8ade0451729862a37b28a50cca2f5083a6ca1678953b6a68a67c2c031",
+      "first_field_hash": "5db33bd508ec00513fbc4d093b2db5ba6fc28b7d394fc1f770d1b5b6ec3b9f26",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Repro-Block::12-Early-Pregnancy-Complications-&-Bleeding-Tutorial::Class-Content"
       ]
     },
     {
-      "first_field_hash": "ec53c276d8f8d2a2556b6cc7c5d3e3280e7e8965f7d1333a010e23b24d8ef14a",
+      "first_field_hash": "3c318cf4eb40b664a39f58a70913c38ee4acf6904c9343529a88b7bb1aaf91e9",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Repro-Block::12-Early-Pregnancy-Complications-&-Bleeding-Tutorial::Class-Content"
       ]
@@ -78428,7 +78850,7 @@
       ]
     },
     {
-      "first_field_hash": "f2b2f4a4a2247a2fdc680d30e1f6acd945d8e69faf70dc461c61ed81d9029adf",
+      "first_field_hash": "09a3b60e074c4fccb655c0b5c3328a00372fcbd421b3ee1f756e04e6b08fea2b",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Repro-Block::16-Sexually-Transmitted-Infections"
       ]
@@ -78817,8 +79239,8 @@
     {
       "first_field_hash": "99c5e2c65323909d9afa8806a0497cd40dd5fc6330e90f14cf9f59a34e0fe54e",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::21-Liver-Transplantation::Class-Content",
-        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::15-Liver-Anatomy-&-Physiology::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::15-Liver-Anatomy-&-Physiology::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::20-Liver-Transplantation::Class-Content"
       ]
     },
     {
@@ -79047,6 +79469,13 @@
       "first_field_hash": "8af5a2e8aad3ab8aa39192bcf5f722b5174762cf36dc174de147fd7255093d3f",
       "tags": [
         "JerryShen_AnKing_Tags::Micro-Pharm::Microbiology::02-C.diff-&-Pseudomonas"
+      ]
+    },
+    {
+      "first_field_hash": "e6247293a8b74dab783ace3d18fbfe9f7e04ced1ea944bf15f2888c2ac12fcfd",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::22-Abortion-Care",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::22-Abortion-Care::Class-Content"
       ]
     },
     {
@@ -79493,6 +79922,12 @@
       ]
     },
     {
+      "first_field_hash": "09951ae3f1c9ce4614768d6589957726ad2313add4d3c8a87b7722fd748568a3",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::20-Prostate-&-Testicular-Cancer"
+      ]
+    },
+    {
       "first_field_hash": "34f6b46abcb28bb376d63c9d22e051782350e37648cd88eccdd804a30b442182",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::08-Large-Intestine::Class-Content"
@@ -79895,7 +80330,7 @@
       "first_field_hash": "823b0a9e8c1e5099ee073f3b4e2f87649d45793f75e1fcf6685ad1c7f675459a",
       "tags": [
         "JerryShen_AnKing_Tags::POM-1::Final::Ethics::Class-Content",
-        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::21-Liver-Transplantation::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::20-Liver-Transplantation::Class-Content"
       ]
     },
     {
@@ -81000,6 +81435,12 @@
       ]
     },
     {
+      "first_field_hash": "e02f170dc7a8cbc8c20125b19ec5a98614ca0d8e5171e8e74cb74e7993604747",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::22-Abortion-Care"
+      ]
+    },
+    {
       "first_field_hash": "41a320e3f66f1f6b1f72ec318ac57a6c4b829387acb10ac58863a3cc2c15686f",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::09-Upper-GI-Infections"
@@ -81370,6 +81811,12 @@
       "first_field_hash": "d91dbe847e6ecf6f2b6b3e5282f07dab4235ac28fe53fe546fde5bfa5634b318",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::19-Non-Viral-Liver-Disease"
+      ]
+    },
+    {
+      "first_field_hash": "c1df08744b9323949b48b43b656f9fecafff28a0604e19432432ed4d2c24e322",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::22-Abortion-Care"
       ]
     },
     {
@@ -82193,6 +82640,12 @@
       ]
     },
     {
+      "first_field_hash": "2e1f06c4664a609a6e770357bb2d2589eb986428805d83161f69bb4d84345b8f",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::20-Prostate-&-Testicular-Cancer"
+      ]
+    },
+    {
       "first_field_hash": "6a2931269fb46b420f33b402f965bc18b495dc0fb7f6eafc915359e31f89e38c",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Renal-Block::18-Kidney-Stones"
@@ -82243,7 +82696,8 @@
     {
       "first_field_hash": "58b2019f33107679c199083c2ee6d1376d819f4ff13a48cfa537a920883c0063",
       "tags": [
-        "JerryShen_AnKing_Tags::Cancer-Biology::Final::Cancer-Screening"
+        "JerryShen_AnKing_Tags::Cancer-Biology::Final::Cancer-Screening",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::20-Prostate-&-Testicular-Cancer"
       ]
     },
     {
@@ -82531,6 +82985,12 @@
       "first_field_hash": "412806059ed18f73ab7c415f3f391c00342b0981d5cba8c593935a8190708d92",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Repro-Block::12-Early-Pregnancy-Complications-&-Bleeding-Tutorial"
+      ]
+    },
+    {
+      "first_field_hash": "bd42e64a7a50a473e5d06fdd610bd16587aa6710d2c8318d50d1bf62740c0b42",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::20-Prostate-&-Testicular-Cancer::Class-Content"
       ]
     },
     {
@@ -82997,7 +83457,7 @@
     {
       "first_field_hash": "5253c1f1f9813bcc27f307c3e1b2c2dbf15dd7d5dc057423f60111a7cbb9495f",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::21-Liver-Transplantation::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::20-Liver-Transplantation::Class-Content"
       ]
     },
     {
@@ -83010,6 +83470,12 @@
       "first_field_hash": "69d3639ff0b2cf9128d60904b5af35414c7d237b25e0a4c8532a058bc62ee8c0",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::Cardiovascular-Block::37-Inflammatory-Heart-Disease"
+      ]
+    },
+    {
+      "first_field_hash": "94208238fc0497f2b97c115e29e130638eb33255f396210057885ac1a769f469",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::20-Prostate-&-Testicular-Cancer"
       ]
     },
     {
@@ -83195,6 +83661,13 @@
       "first_field_hash": "b4f86c40f53c9bfb08348ff6b271406dd64d46edef87f4ce0e1e7ffef1d811db",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Renal-Block::15-Renal-&-Bladder-Tumor-Pathology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "1dca0b571ef9b4fb745307c9b97b102c714abcf583788efe36912fb8657518a2",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::20-Prostate-&-Testicular-Cancer",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::20-Prostate-&-Testicular-Cancer::Class-Content"
       ]
     },
     {
@@ -84211,7 +84684,7 @@
       ]
     },
     {
-      "first_field_hash": "204017c3351e70fe293b09fb26568488f0dc8279de08c98f10f25a9c19740cd6",
+      "first_field_hash": "15e0dc8a757645a5b9af295d295375236839af64fba6a7f5765af3fe309de2c1",
       "tags": [
         "JerryShen_AnKing_Tags::Micro-Pharm::Microbiology::03-Intro-to-Viruses::Class-Content"
       ]
@@ -85145,6 +85618,12 @@
       ]
     },
     {
+      "first_field_hash": "4ba85285e67584d40174e5c49b5d2f61fb1def17448e1c03a8806ba3c967b109",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::20-Prostate-&-Testicular-Cancer::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "ac9dcbed9477046868d0ae564b30704a8d2da1385f800c2a2fcbccf64035c228",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Repro-Block::12-Early-Pregnancy-Complications-&-Bleeding-Tutorial::Class-Content"
@@ -85451,6 +85930,18 @@
       "first_field_hash": "4e371db63fac76f2e1b9e9feafe2fb6e4a6bae49058eb0b958f8e4d00a85101d",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::10-Hereditary-GI-Cancers"
+      ]
+    },
+    {
+      "first_field_hash": "98f08ac1b5c09a23c1c83cffcd14ef7a45d157f9bb95b189927af57761d41c29",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::22-Abortion-Care"
+      ]
+    },
+    {
+      "first_field_hash": "f5a0bbd344b0934a413e3897a1e0982b4c518a095682014950c082900285cedb",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::22-Abortion-Care"
       ]
     },
     {
@@ -85806,7 +86297,8 @@
     {
       "first_field_hash": "9de0bba721472ad5660cc417569bfbf3122a2ebac2a5511ee83220fb639ad935",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::05-Physiology-of-Pregnancy::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::05-Physiology-of-Pregnancy::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::22-Abortion-Care::Class-Content"
       ]
     },
     {
@@ -85983,6 +86475,12 @@
       "first_field_hash": "65821a204cfc2c1f713a1ff87d91065ece495152dc23fb45a1f8ab61f647247f",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Repro-Block::16-Sexually-Transmitted-Infections"
+      ]
+    },
+    {
+      "first_field_hash": "ed62a099d4b7203cfc6eb98d44a8d6e2de10b84e75306dcd7f64af41a3ed2313",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::15-Ovarian-&-Fallopian-Pathology"
       ]
     },
     {
@@ -86378,6 +86876,18 @@
       "first_field_hash": "e775fc10a5b89ecac618ff05252aef1bbbca6f7b5a2ed296a0b0eb183b6eac45",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Repro-Block::12-Early-Pregnancy-Complications-&-Bleeding-Tutorial"
+      ]
+    },
+    {
+      "first_field_hash": "05e900df72f6a94a0136c66a4658825819ed3385dbba37798ea4a5153390f966",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::22-Abortion-Care"
+      ]
+    },
+    {
+      "first_field_hash": "0bfa0dfe40c1b8de6c202bc1fa5511e37c7a4bdddcdfbc64deb2b8b72dc0685a",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::22-Abortion-Care"
       ]
     },
     {
@@ -87925,6 +88435,12 @@
       "first_field_hash": "dd6bb0e6e98b5d5061eeec1a7dec9ec2d34bce4f454a23abe5f21c3ff7eeb634",
       "tags": [
         "JerryShen_AnKing_Tags::Neurobiology::Exam-3::Lec-Memory-Systems::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "cbcab7d8676366b95c1d60dd6795fdaee211fe0f6f3bcfd9afeb4f473cace9b9",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::03-Fat-&-Micronutrient-Nutrition"
       ]
     },
     {
@@ -89847,6 +90363,12 @@
       ]
     },
     {
+      "first_field_hash": "22d0b36be9a3fd53e2bd11fcca1069aab92a1e9270d395dab863f0551c5a6871",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::20-Prostate-&-Testicular-Cancer"
+      ]
+    },
+    {
       "first_field_hash": "e983fc393ff1d1577d9f2ee5e580de3bf1cb3fc63b46040f49b456473b61c5bc",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Renal-Block::17-Urinary-Tract-Infections::Class-Content"
@@ -90289,6 +90811,12 @@
       ]
     },
     {
+      "first_field_hash": "1b3187fc77fa54e6ac31a9a1fd5a952724ab546b1ea3e204540eb70ffc8c0e60",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::22-Abortion-Care"
+      ]
+    },
+    {
       "first_field_hash": "dae9c8701785aec63a33906479bf1ac7d3e2a927658615719cd92642bb0829dc",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Repro-Block::08-Labor-&-Birth-Complications::Class-Content"
@@ -90455,6 +90983,12 @@
       "first_field_hash": "3ddf075fcbf11adba5b20d5668a117e42e33e41970aeed15bd472a612712dd83",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Repro-Block::18-Breast-Cancer::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "509f6c8beede56da9f1e2bf8bad1df1a49ee3d3d44ceb83192cd0c8477750741",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::22-Abortion-Care"
       ]
     },
     {
@@ -90626,7 +91160,7 @@
     {
       "first_field_hash": "a1f9fb4ab6fadc8c9410065a3bcf8d0dda93f58bf5f51796126120c9f1d4a4cb",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-1::Pulmonary-Block::21-Liver-Transplantation::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::20-Liver-Transplantation::Class-Content"
       ]
     },
     {
@@ -90878,6 +91412,12 @@
       ]
     },
     {
+      "first_field_hash": "743050ea7be3b4fa1fdca8dbbf353e6b1b179b72ecefec6dde6970402be72a0c",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::20-Prostate-&-Testicular-Cancer"
+      ]
+    },
+    {
       "first_field_hash": "3221a2ddfdd95a1ce4072d1654653aaae0fb5d56343f929f1051030f853ea695",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-1::MSK-Block::09-Geriatric-Orthopedics::Class-Content",
@@ -90950,6 +91490,12 @@
       "first_field_hash": "0e800c42b36b5e16487d0c45ddbd398d91a285af16f8610fc8250fd982584e58",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Repro-Block::16-Sexually-Transmitted-Infections::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "02342017255a6435c96ed5c8b96ba8cfbbef7d3846bad7ebe06a12a36a544f91",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::20-Prostate-&-Testicular-Cancer::Class-Content"
       ]
     },
     {
@@ -91044,6 +91590,12 @@
       "first_field_hash": "240f5ebfc4db2b73e45d2492c750d38d783fca1169b8809a007842cbbd61b048",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::14-Bone-Physiology::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "c8870ce7acbbb444e8cf486434991563836cf4c45238aedce22f4efdad648f98",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::20-Prostate-&-Testicular-Cancer::Class-Content"
       ]
     },
     {
@@ -91821,6 +92373,12 @@
       ]
     },
     {
+      "first_field_hash": "59ec12a5bc7f47287f6c9e67382cac0df1104dd164adea5454de9213c2d558a0",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::20-Prostate-&-Testicular-Cancer::Class-Content"
+      ]
+    },
+    {
       "first_field_hash": "ef67d80595abf51a28691a2be2964a8d7ab47d3c04abf4a1fe1018137e128a49",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Endocrine-Block::10-Neuroendocrinology"
@@ -92323,7 +92881,7 @@
       ]
     },
     {
-      "first_field_hash": "d5af9345123e21b033c50e4d2290550d5b06e83a93ec9c172334ad0578c05f19",
+      "first_field_hash": "315917ad08aa67cd50e25e15c2313a2607e9c319939aac39482fe762bf850c9a",
       "tags": [
         "JerryShen_AnKing_Tags::Neurobiology::Exam-3::Tutorial-7-Affective-and-Cognitive-Systems"
       ]
@@ -92658,7 +93216,8 @@
     {
       "first_field_hash": "01e4f46a9007de190d32f8f7472d4c05a6e30af2ae8e243ccb3bb73f96f661fb",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::16-Acute-Kidney-Injury"
+        "JerryShen_AnKing_Tags::SOM-2::Renal-Block::16-Acute-Kidney-Injury",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::21-Prostate-&-Testicular-Pathology::Class-Content"
       ]
     },
     {
@@ -94033,6 +94592,12 @@
       ]
     },
     {
+      "first_field_hash": "9735cb8dfaf39a5805c0d84fc9f63f1bd3e8a4323860073c53e703553210dbf2",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::21-Prostate-&-Testicular-Pathology"
+      ]
+    },
+    {
       "first_field_hash": "ab3ef0b0ce64a9d9f9f00cee0060040f37ab17da7a0c1dd965ec9582a12914a5",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::07-Pancreas"
@@ -94700,7 +95265,8 @@
     {
       "first_field_hash": "a99d2c6026c2a59dfd81938de2b009f0c3d82abc9ab84463f2b05d2f5444cf3c",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::14-Sexual-Health-&-Dysfunction"
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::14-Sexual-Health-&-Dysfunction",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::20-Prostate-&-Testicular-Cancer"
       ]
     },
     {
@@ -94712,7 +95278,8 @@
     {
       "first_field_hash": "50d8ed61fc56e44ddc1076bd10ef414994774fef7f4245f44f01a4159f90dd7f",
       "tags": [
-        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::14-Sexual-Health-&-Dysfunction::Class-Content"
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::14-Sexual-Health-&-Dysfunction::Class-Content",
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::21-Prostate-&-Testicular-Pathology"
       ]
     },
     {
@@ -95694,6 +96261,12 @@
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::14-Gastroenteritis",
         "JerryShen_AnKing_Tags::SOM-2::GI-&-Liver-Block::14-Gastroenteritis::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "5ba99719a3385d650d451cb253597047aae1dc250720c8f6b7825bebecbc9207",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::20-Prostate-&-Testicular-Cancer::Class-Content"
       ]
     },
     {
@@ -98146,6 +98719,12 @@
       ]
     },
     {
+      "first_field_hash": "4b234fcc39e0ef9de9a38b272606596af3f7b360a631509a52292bcd71bfd468",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::12-Early-Pregnancy-Complications-&-Bleeding-Tutorial"
+      ]
+    },
+    {
       "first_field_hash": "2898e22bde2a11e89c2001d626da7d53a36e516a6b85aff4cf992d3b16d6e9f0",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Repro-Block::12-Early-Pregnancy-Complications-&-Bleeding-Tutorial::Class-Content"
@@ -98277,6 +98856,18 @@
       ]
     },
     {
+      "first_field_hash": "113cba89fa4c3e70bf0093a73b4c00e55946e05f521f11baa875a57b92c685f6",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::20-Prostate-&-Testicular-Cancer::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "c10c20a9408b1bd30c74ef039d13b6d1502dba27657c6f22b66f3350ba0ec97c",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::20-Prostate-&-Testicular-Cancer"
+      ]
+    },
+    {
       "first_field_hash": "75627ae7e2f81cf91fe934dd6cc7d93877aae5203d8f3ecbacef92a3652bcd9e",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Repro-Block::14-Sexual-Health-&-Dysfunction::Class-Content"
@@ -98286,6 +98877,24 @@
       "first_field_hash": "d6d1cf0930daa3b2248b20e34c3d8d062d2da23f89c7709e8f86f19a70d44e7a",
       "tags": [
         "JerryShen_AnKing_Tags::SOM-2::Renal-Block::16-Acute-Kidney-Injury::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "1866a871bc634223f956867191301bba1f0d3d42bf7b3b0d260ebd155904a7b1",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::20-Prostate-&-Testicular-Cancer::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "2119e754bc4273989f30a98065ab8453f8fb26ba8ccc91ee8dfcbe16d9c86970",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::20-Prostate-&-Testicular-Cancer::Class-Content"
+      ]
+    },
+    {
+      "first_field_hash": "836d20f3064c438730576b2fc3d700f3a0a181ab44a50361242fb1428f97639b",
+      "tags": [
+        "JerryShen_AnKing_Tags::SOM-2::Repro-Block::20-Prostate-&-Testicular-Cancer"
       ]
     },
     {
